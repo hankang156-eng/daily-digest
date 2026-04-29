@@ -1,0 +1,15 @@
+# Secrets
+config.json
+google_credentials.json
+
+# Large data files (regenerated from JSON)
+hn_archive_data.json
+dd_archive_data.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
