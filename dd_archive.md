@@ -1,40 +1,46 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-04-30 · 85 items*
+*Last updated: 2026-04-30 · 91 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
 | 2026-04-29 | Zed 1.0 | HN | Technology | tech | 2026-04-29 | [link](https://zed.dev/blog/zed-1-0) |
-| 2026-04-29 | HERMES.md in commit messages causes requests to route to extra usage billing | HN | Technology | tech | 2026-04-29 | [link](https://github.com/anthropics/claude-code/issues/53262) |
-| 2026-04-29 | Online age verification is the hill to die on | HN | Technology | tech | 2026-04-29 | [link](https://x.com/GlennMeder/status/2049088498163216560) |
 | 2026-04-29 | Copy Fail | HN | Technology | tech | 2026-04-29 | [link](https://copy.fail/) |
+| 2026-04-29 | HERMES.md in commit messages causes requests to route to extra usage billing | HN | Technology | tech | 2026-04-29 | [link](https://github.com/anthropics/claude-code/issues/53262) |
 | 2026-04-29 | Cursor Camp | HN | Technology | tech | 2026-04-29 | [link](https://neal.fun/cursor-camp/) |
+| 2026-04-29 | Where the goblins came from | HN | Technology | tech | 2026-04-29 | [link](https://openai.com/index/where-the-goblins-came-from/) |
+| 2026-04-29 | Online age verification is the hill to die on | HN | Technology | tech | 2026-04-29 | [link](https://x.com/GlennMeder/status/2049088498163216560) |
 | 2026-04-29 | We need a federation of forges | HN | Technology | tech | 2026-04-29 | [link](https://blog.tangled.org/federation/) |
+| 2026-04-29 | The Zig project's rationale for their anti-AI contribution policy | HN | Technology | tech | 2026-04-29 | [link](https://simonwillison.net/2026/Apr/30/zig-anti-ai/) |
 | 2026-04-29 | Soft launch of open-source code platform for government | HN | Technology | tech | 2026-04-29 | [link](https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/) |
 | 2026-04-29 | Mistral Medium 3.5 | HN | Technology | tech | 2026-04-29 | [link](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5) |
-| 2026-04-29 | Where the goblins came from | HN | Technology | tech | 2026-04-29 | [link](https://openai.com/index/where-the-goblins-came-from/) |
 | 2026-04-29 | HashiCorp co-founder says GitHub 'no longer a place for serious work' | HN | Technology | tech | 2026-04-29 | [link](https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/) |
-| 2026-04-29 | Meta Deal Reversal Deepens Split Between China and Silicon Valley | NYT · Artificial Intelligence / Business / Technology | Business / Economy / Markets | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html) |
-| 2026-04-29 | A.I. Spending Sets a Record, With No End in Sight | NYT · Artificial Intelligence / Technology | Technology / AI | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/technology/ai-spending-tech-data-centers.html) |
-| 2026-04-29 | United Airlines CEO, Rebuffed by American, Says He’s Skeptical of Other Deals | NYT · Business / Politics | Politics / U.S. | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/business/united-airlines-american-scott-kirby.html) |
-| 2026-04-29 | Musk Says He ‘Was a Fool’ to Provide OpenAI’s Early Funding | NYT · Artificial Intelligence / Technology | Technology / AI | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html) |
-| 2026-04-29 | Fed Meeting Underscores Tough Task Ahead for Warsh | NYT · Business / Economy | Business / Economy / Markets | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/business/economy/what-to-watch-at-the-federal-reserves-april-meeting.html) |
-| 2026-04-29 | Spirit Airlines Should Die. Why Is Trump Trying to Save It? | NYT · Opinion | Opinion / Analysis | opinion | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/opinion/spirit-airlines-trump-bailout-auto.html) |
-| 2026-04-29 | A.I. Helps Online Ad Businesses Boom | NYT · Artificial Intelligence / Technology | Technology / AI | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/technology/ai-artificial-intelligence-ad-boom.html) |
-| 2026-04-29 | Here’s the latest. | NYT · Artificial Intelligence / Politics / Technology / U.S. | Politics / U.S. | news | 2026-04-29 | [link](https://www.nytimes.com/live/2026/04/29/us/supreme-court-voting-rights/heres-the-latest) |
-| 2026-04-29 | What Elon Musk’s Clash With Sam Altman of OpenAI Is Really About | NYT · Business / DealBook / Technology | Business / Economy / Markets | news | 2026-04-28 | [link](https://www.nytimes.com/2026/04/28/technology/elon-musk-sam-altman-trial.html) |
-| 2026-04-29 | How the Fed’s rate decision affects your finances. | NYT · Business / Economy | Business / Economy / Markets | news | 2026-04-29 | [link](https://www.nytimes.com/live/2026/04/29/business/federal-reserve-interest-rates/how-the-feds-rate-decision-affects-your-finances) |
-| 2026-04-29 | A.I. Is Eliminating Jobs on Wall Street | NYT · Artificial Intelligence | Technology / AI | news | 2026-04-28 | [link](https://www.nytimes.com/2026/04/21/business/ai-job-cuts-wall-street.html) |
-| 2026-04-29 | Trump Administration Sues New Jersey Governor Over ICE Mask Ban | NYT · Politics | Politics / U.S. | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/nyregion/new-jersey-trump-ice-mask-lawsuit.html) |
-| 2026-04-29 | United Airlines Says It Pitched American on Merger but Was Rebuffed | NYT · Business | Business / Economy / Markets | news | 2026-04-27 | [link](https://www.nytimes.com/2026/04/27/business/united-airlines-american-merger.html) |
-| 2026-04-29 | Bill Ackman’s I.P.O., Pershing Square USA, Raises $5 Billion | NYT · Business | Business / Economy / Markets | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/business/bill-ackman-pershing-square-ipo.html) |
-| 2026-04-29 | A.I. Bots Told Scientists How to Make Biological Weapons | NYT · Artificial Intelligence / Technology | Technology / AI | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html) |
-| 2026-04-29 | Ford Reports Higher Profit Thanks Partly to Tariff Refund | NYT · Business / Politics / Technology | Politics / U.S. | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/business/ford-motor-tariff-refund-profit.html) |
-| 2026-04-29 | Book Review: ‘Prophecy,’ by Carissa Véliz | NYT · Artificial Intelligence | Opinion / Analysis | opinion | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/books/review/prophecy-carissa-veliz.html) |
-| 2026-04-29 | How to Build a Better Kind of Nuclear Power? This Side Hustle Might Help. | NYT · Energy & Environment | Climate / Energy / Infrastructure | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/climate/zap-energy-fusion-fission.html) |
-| 2026-04-29 | A Journalist Covered a Missile Strike. Then the Death Threats Started. | NYT · Opinion | Opinion / Analysis | opinion | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/opinion/prediction-markets-regulation.html) |
-| 2026-04-29 | Political Campaigns Have No Idea What’s About to Hit Them | NYT · Opinion | Opinion / Analysis | opinion | 2026-04-29 | [link](https://www.nytimes.com/2026/04/28/opinion/political-campaigns-artificial-intelligence.html) |
-| 2026-04-29 | Leaders at All Levels: How Argenx Scaled to $4 Billion Without Bureaucracy | MIT Sloan Review · Strategy & Craft | Strategy | long-form | 2026-04-29 | [link](https://sloanreview.mit.edu/video/leaders-at-all-levels-how-argenx-scaled-to-4-billion-without-bureaucracy/) |
+| 2026-04-29 | FastCGI: 30 years old and still the better protocol for reverse proxies | HN | Technology | tech | 2026-04-29 | [link](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies) |
+| 2026-04-29 | Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years | HN | Technology | tech | 2026-04-29 | [link](https://jivx.com/kyoto-bloom) |
+| 2026-04-29 | OpenTrafficMap | HN | Technology | tech | 2026-04-29 | [link](https://opentrafficmap.org/) |
+| 2026-04-29 | Laws of UX | HN | Technology | tech | 2026-04-29 | [link](https://lawsofux.com/) |
+| 2026-04-29 | Maryland becomes first state to ban surveillance pricing in grocery stores | HN | Technology | tech | 2026-04-29 | [link](https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing) |
+| 2026-04-29 | A.I. Spending Sets a Record, With No End in Sight | NYT · AI | AI | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/technology/ai-spending-tech-data-centers.html) |
+| 2026-04-29 | Meta Deal Reversal Deepens Split Between China and Silicon Valley | NYT · Business | Business | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html) |
+| 2026-04-29 | United Airlines CEO, Rebuffed by American, Says He’s Skeptical of Other Deals | NYT · Business | Business | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/business/united-airlines-american-scott-kirby.html) |
+| 2026-04-29 | Musk Says He ‘Was a Fool’ to Provide OpenAI’s Early Funding | NYT · AI | AI | news | 2026-04-30 | [link](https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html) |
+| 2026-04-29 | There’s a 900-Year-Old Answer to Our Most Modern Problem | NYT · AI | AI | opinion | 2026-04-30 | [link](https://www.nytimes.com/2026/04/30/opinion/ai-crimes-law.html) |
+| 2026-04-29 | Why Are We Still Driving? | NYT · AI | AI | opinion | 2026-04-30 | [link](https://www.nytimes.com/2026/04/30/opinion/waymo-self-driving-cars-andrew-miller.html) |
+| 2026-04-29 | Fed Meeting Underscores Tough Task Ahead for Warsh | NYT · Economy | Economy | news | 2026-04-30 | [link](https://www.nytimes.com/2026/04/29/business/economy/what-to-watch-at-the-federal-reserves-april-meeting.html) |
+| 2026-04-29 | How Powell Just Complicated Trump’s Fed Plans | NYT · Business | Business | news | 2026-04-30 | [link](https://www.nytimes.com/2026/04/30/business/dealbook/powell-fed-trump-warsh.html) |
+| 2026-04-29 | Spirit Airlines Should Die. Why Is Trump Trying to Save It? | NYT · Opinion | Opinion | opinion | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/opinion/spirit-airlines-trump-bailout-auto.html) |
+| 2026-04-29 | Rising Fuel Prices Force Policymakers to Weigh Excruciating Choices | NYT · Business | Business | news | 2026-04-30 | [link](https://www.nytimes.com/2026/04/30/business/bank-of-england-european-central-bank.html) |
+| 2026-04-29 | How the Fed’s rate decision affects your finances. | NYT · Economy | Economy | news | 2026-04-29 | [link](https://www.nytimes.com/live/2026/04/29/business/federal-reserve-interest-rates/how-the-feds-rate-decision-affects-your-finances) |
+| 2026-04-29 | A.I. Is Eliminating Jobs on Wall Street | NYT · AI | AI | news | 2026-04-28 | [link](https://www.nytimes.com/2026/04/21/business/ai-job-cuts-wall-street.html) |
+| 2026-04-29 | How Good Is Google’s Gemini AI at Making Travel Plans? | NYT · AI | AI | news | 2026-04-30 | [link](https://www.nytimes.com/2026/04/30/travel/ai-travel-plan-gemini-vacation.html) |
+| 2026-04-29 | Inside the Courtroom at the OpenAI Trial | NYT · AI | AI | news | 2026-04-30 | [link](https://www.nytimes.com/2026/04/30/insider/times-inside-openai-musk-trial.html) |
+| 2026-04-29 | Trump Administration Sues New Jersey Governor Over ICE Mask Ban | NYT · Politics | Politics | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/nyregion/new-jersey-trump-ice-mask-lawsuit.html) |
+| 2026-04-29 | Silicon Valley Is Bracing for a Permanent Underclass | NYT · AI | AI | opinion | 2026-04-30 | [link](https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html) |
+| 2026-04-29 | How A.I. Killed Student Writing (and Revived It) | NYT · AI | AI | news | 2026-04-30 | [link](https://www.nytimes.com/2026/04/30/us/ai-students-cheating-homework-classrooms.html) |
+| 2026-04-29 | Ford Reports Higher Profit Thanks Partly to Tariff Refund | NYT · Technology | Technology | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/business/ford-motor-tariff-refund-profit.html) |
+| 2026-04-29 | After Supreme Court Decision, Louisiana Weighs Redrawing House Maps | NYT · Politics | Politics | news | 2026-04-30 | [link](https://www.nytimes.com/2026/04/30/us/politics/louisiana-suspend-primaries-supreme-court.html) |
+| 2026-04-29 | Forest Service Research Labs Are Closing | NYT · Energy & Environment | Energy & Environment | news | 2026-04-30 | [link](https://www.nytimes.com/2026/04/30/climate/forest-service-labs-wildfire-research.html) |
+| 2026-04-29 | Leaders at All Levels: How Argenx Scaled to $4 Billion Without Bureaucracy | MIT Sloan Review · Strategy & Craft | Business | analysis | 2026-04-29 | [link](https://sloanreview.mit.edu/video/leaders-at-all-levels-how-argenx-scaled-to-4-billion-without-bureaucracy/) |
 | 2026-04-29 | OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-04-29 | [link](https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html?unlocked_article_code=1.elA.u75G.-STmUe_pILOO) |
 | 2026-04-29 | Playing With Fire | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-04-29 | [link](https://x.com/lifeof_jer/status/2048103471019434248?s=12) |
 | 2026-04-29 | LLM 0.32a0 is a major backwards-compatible refactor | Simon Willison · Tech & Engineering | Technology | tech | 2026-04-29 | [link](https://simonwillison.net/2026/Apr/29/llm/#atom-everything) |
