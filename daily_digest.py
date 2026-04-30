@@ -16,6 +16,7 @@ import json
 import os
 import re
 import subprocess
+import time
 import zipfile
 from pathlib import Path
 from xml.sax.saxutils import escape as xml_escape
@@ -610,7 +611,7 @@ def write_xlsx(path, sheet_name, headers, rows):
         '<Relationship Id="rId2" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml"/>'
         '</Relationships>'
     )
-    now = datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
+    now = datetime.datetime.now(datetime.timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
     core = (
         '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>'
         '<cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" '
@@ -998,12 +999,20 @@ def update_dd_archive(date, data, settings=None):
             archive = {}
 
     date_key = date.isoformat()
-    action = "Replaced" if date_key in archive else "Added"
-    archive[date_key] = _flatten_digest(date, data, settings=settings)
+    records = _flatten_digest(date, data, settings=settings)
+    existing = archive.get(date_key, [])
+    if existing and len(records) < max(5, len(existing) // 2):
+        print(
+            f"  [DD Archive] Kept existing {len(existing)} items for {date_key}; "
+            f"current run only found {len(records)} items."
+        )
+    else:
+        action = "Replaced" if existing else "Added"
+        archive[date_key] = records
+        print(f"  [DD Archive] {action} {len(records)} items for {date_key}")
     try:
         with open(json_path, "w", encoding="utf-8") as f:
             json.dump(archive, f, ensure_ascii=False, indent=2, default=str)
-        print(f"  [DD Archive] {action} {len(archive[date_key])} items for {date_key}")
     except Exception as e:
         print(f"  [DD Archive] Error writing JSON: {e}")
 
@@ -1021,7 +1030,26 @@ def update_dd_archive(date, data, settings=None):
         print(f"  [DD Archive] Error writing xlsx: {e}")
 
 
+def _clear_stale_git_lock(max_age_seconds=300):
+    lock_path = SCRIPT_DIR / ".git" / "index.lock"
+    if not lock_path.exists():
+        return False
+    try:
+        age = time.time() - lock_path.stat().st_mtime
+        if age < max_age_seconds:
+            print(f"  [GitHub] Git index lock is recent ({int(age)}s old); not removing it.")
+            return False
+        lock_path.unlink()
+        print(f"  [GitHub] Removed stale git index lock: {lock_path}")
+        return True
+    except Exception as e:
+        print(f"  [GitHub] Could not remove stale git index lock: {e}")
+        return False
+
+
 def _run_git(args):
+    if args and args[0] in {"add", "commit"}:
+        _clear_stale_git_lock()
     result = subprocess.run(
         ["git", "-C", str(SCRIPT_DIR)] + args,
         capture_output=True,
@@ -1030,9 +1058,23 @@ def _run_git(args):
     )
     if result.returncode != 0:
         message = (result.stderr or result.stdout or "unknown git error").strip()
+        if "index.lock" in message and _clear_stale_git_lock(max_age_seconds=0):
+            result = subprocess.run(
+                ["git", "-C", str(SCRIPT_DIR)] + args,
+                capture_output=True,
+                text=True,
+                timeout=45,
+            )
+            if result.returncode == 0:
+                return True, result
+            message = (result.stderr or result.stdout or "unknown git error").strip()
         print(f"  [GitHub] git {' '.join(args)} failed: {message}")
         return False, result
     return True, result
+
+
+def _has_publishable_content(data):
+    return any(data.get(key) for key in ("hn", "nyt", "wsj", "mit", "blogs"))
 
 
 def push_to_github(date, config):
@@ -1132,7 +1174,10 @@ def main(target_date=None):
     update_dd_archive(date, data, settings=settings)
 
     print("  GitHub Pages...")
-    push_to_github(date, config)
+    if _has_publishable_content(data):
+        push_to_github(date, config)
+    else:
+        print("  [GitHub] Skipped publish because no network-fetched content was available.")
 
     print("\n  Done!\n")
     return {
