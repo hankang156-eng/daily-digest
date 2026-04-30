@@ -40,16 +40,30 @@ try:
 except ImportError:
     HAS_BS4 = False
 
+try:
+    from nyt_wsj_rss_ranker import run_ranker as run_nyt_wsj_ranker
+    HAS_NYT_WSJ_RANKER = True
+except Exception:
+    HAS_NYT_WSJ_RANKER = False
+    run_nyt_wsj_ranker = None
+
+try:
+    from blog_reading_ranker import run_ranker as run_blog_ranker
+    HAS_BLOG_RANKER = True
+except Exception:
+    HAS_BLOG_RANKER = False
+    run_blog_ranker = None
+
 
 SCRIPT_DIR = Path(__file__).parent.resolve()
 CONFIG_FILE = SCRIPT_DIR / "config.json"
 
 DEFAULT_CONFIG = {
     "settings": {
-        "essential_hn_count": 5,
-        "expanded_hn_count": 12,
-        "essential_news_count": 5,
-        "expanded_news_count": 5
+        "hn_digest_count": 10,
+        "nyt_wsj_max_links": 20,
+        "blog_max_links": 20,
+        "ranker_output_dir": "output"
     },
     "github_pages": {
         "enabled": False,
@@ -214,6 +228,8 @@ def _is_opinion(title, section):
 
 
 def _infer_topic(article):
+    if article.get("topic"):
+        return article["topic"]
     if article.get("outlet") == "HN":
         return "Technology"
     section = article.get("section")
@@ -469,36 +485,12 @@ def _split_news(articles):
 
 
 def build_sections(data, settings):
-    hn_count = int(settings.get("essential_hn_count", 5))
-    expanded_hn_count = int(settings.get("expanded_hn_count", 12))
-    more_news_count = int(settings.get("expanded_news_count", 5))
-
-    nyt_opinion, nyt_news = _split_news(data["nyt"])
-    wsj_opinion, wsj_news = _split_news(data["wsj"])
-
-    espresso_news = dedupe_articles(nyt_news[:3] + wsj_news[:2])
-    used_news = {article_key(item) for item in espresso_news}
-    all_news = dedupe_articles(nyt_news + wsj_news)
-    lungo_news = [item for item in all_news if article_key(item) not in used_news][:more_news_count]
-
-    all_opinion = dedupe_articles(nyt_opinion + wsj_opinion)
-    espresso_opinion = all_opinion[:3]
-    used_opinion = {article_key(item) for item in espresso_opinion}
-    lungo_opinion = [item for item in all_opinion if article_key(item) not in used_opinion][:3]
-
-    blogs = data["blogs"]
+    hn_count = int(settings.get("hn_digest_count", 10))
     return {
-        "espresso_hn": data["hn"][:hn_count],
-        "lungo_hn": data["hn"][hn_count:expanded_hn_count],
-        "espresso_news": espresso_news,
-        "lungo_news": lungo_news,
-        "espresso_opinion": espresso_opinion,
-        "lungo_opinion": lungo_opinion,
-        "mit": data["mit"],
-        "linkedin": data["linkedin"],
-        "security": [item for item in blogs if item.get("source") in BLOG_SECURITY],
-        "tech": [item for item in blogs if item.get("source") in BLOG_TECH],
-        "strategy": [item for item in blogs if item.get("source") in BLOG_STRATEGY],
+        "hn": data.get("hn", [])[:hn_count],
+        "nyt_wsj": data.get("nyt_wsj", []),
+        "blogs": data.get("blogs", []),
+        "linkedin": data.get("linkedin", []),
     }
 
 
@@ -666,10 +658,15 @@ def _article_row(article, show_score=False):
         badges += _badge(article["source"], "#f5f5f5", "#777777")
 
     score = ""
-    if show_score:
+    if show_score and article.get("comments") is not None:
         score = (
             f' <span style="font-size:11px;color:#888;margin-left:6px">'
             f'{int(article.get("score", 0))} pts · {int(article.get("comments", 0))} comments</span>'
+        )
+    elif article.get("score") not in (None, ""):
+        score = (
+            f' <span style="font-size:11px;color:#888;margin-left:6px">'
+            f'Score {float(article.get("score", 0)):.1f}</span>'
         )
     discuss = ""
     if article.get("hn_url"):
@@ -680,11 +677,22 @@ def _article_row(article, show_score=False):
     date_note = _display_date(article)
     if date_note:
         date_note = f' <span style="font-size:11px;color:#999;margin-left:6px">{_html_escape(date_note)}</span>'
+    mode = article.get("reading_mode")
+    reason = article.get("reason")
+    detail = ""
+    if mode or reason:
+        detail = (
+            f'<div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px">'
+            f'{_html_escape(mode or "")}'
+            f'{": " if mode and reason else ""}'
+            f'{_html_escape(reason or "")}</div>'
+        )
 
     return f'''<tr>
       <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
         <a href="{_html_escape(article.get("url", "#"))}" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">{_html_escape(article.get("title", ""))}</a>
         {badges}{score}{discuss}{date_note}
+        {detail}
       </td>
     </tr>'''
 
@@ -723,22 +731,10 @@ def generate_html(date, data, settings=None):
 </td></tr>
 <tr><td style="height:16px"></td></tr>
 <tr><td style="background:#fff;border-radius:12px;padding:28px 32px;box-shadow:0 1px 4px rgba(0,0,0,.06)">
-  <div style="font-size:11px;font-weight:800;color:#e74c3c;letter-spacing:.15em;text-transform:uppercase;margin-bottom:22px;padding-bottom:14px;border-bottom:1px solid #f0f0f0">☕️ Espresso</div>
-  {_section_block("🔶 HackerNews Top 5", sections["espresso_hn"], show_score=True)}
-  {_section_block("📰 Current Events & News", sections["espresso_news"])}
-  {_section_block("💭 Opinion & Analysis", sections["espresso_opinion"])}
-  {_section_block("🎓 MIT Research & Insights", sections["mit"])}
+  {_section_block("🔶 Hacker News Top 10", sections["hn"], show_score=True)}
+  {_section_block("📰 NYT / WSJ Strategic Reading List", sections["nyt_wsj"])}
+  {_section_block("📚 Blogs, Research & Craft", sections["blogs"])}
   {_section_block("💼 LinkedIn - Rama's Activity", sections["linkedin"])}
-</td></tr>
-<tr><td style="height:16px"></td></tr>
-<tr><td style="background:#fff;border-radius:12px;padding:28px 32px;box-shadow:0 1px 4px rgba(0,0,0,.06)">
-  <div style="font-size:11px;font-weight:800;color:#3498db;letter-spacing:.15em;text-transform:uppercase;margin-bottom:22px;padding-bottom:14px;border-bottom:1px solid #f0f0f0">📚 Lungo</div>
-  {_section_block("🔶 HackerNews #6-#12", sections["lungo_hn"], show_score=True)}
-  {_section_block("📰 More Headlines", sections["lungo_news"])}
-  {_section_block("💭 More Opinion", sections["lungo_opinion"])}
-  {_section_block("🔒 Security & Privacy", sections["security"])}
-  {_section_block("⚙️ Tech & Engineering", sections["tech"])}
-  {_section_block("🧠 Strategy & Craft", sections["strategy"])}
 </td></tr>
 <tr><td style="height:16px"></td></tr>
 <tr><td style="text-align:center;padding:16px;font-size:11px;color:#999">
@@ -761,12 +757,17 @@ def _md_articles(articles, numbered=False, show_score=False):
         section = article.get("section", "")
         badge = f"**[{_md_escape(source)}" + (f" · {_md_escape(section)}" if section else "") + "]** " if source else ""
         score = ""
-        if show_score:
+        if show_score and article.get("comments") is not None:
             score = f" {int(article.get('score', 0))} pts · {int(article.get('comments', 0))} comments"
+        elif article.get("score") not in (None, ""):
+            score = f" · score {float(article.get('score', 0)):.1f}"
         discuss = f" · [discuss]({article['hn_url']})" if article.get("hn_url") else ""
         date_note = f" · {_md_escape(_display_date(article))}" if _display_date(article) else ""
         prefix = f"{index}." if numbered else "-"
         lines.append(f"{prefix} {badge}[{title}]({url}){score}{discuss}{date_note}")
+        if article.get("reason") or article.get("reading_mode"):
+            detail = " — ".join(part for part in (article.get("reading_mode"), article.get("reason")) if part)
+            lines.append(f"   - {_md_escape(detail)}")
     return "\n".join(lines)
 
 
@@ -775,25 +776,17 @@ def generate_markdown(date, data, settings=None):
     sections = build_sections(data, settings)
     date_str = date.strftime("%A, %B %-d, %Y")
 
-    parts = [f"# Daily Digest - {date_str}", "", "---", "", "## ☕️ Espresso", ""]
+    parts = [f"# Daily Digest - {date_str}", "", "---", ""]
 
     def sec(heading, articles, numbered=False, score=False):
         if not articles:
             return []
         return [f"### {heading}", "", _md_articles(articles, numbered=numbered, show_score=score), ""]
 
-    parts += sec("🔶 HackerNews Top 5", sections["espresso_hn"], numbered=True, score=True)
-    parts += sec("📰 Current Events & News", sections["espresso_news"])
-    parts += sec("💭 Opinion & Analysis", sections["espresso_opinion"])
-    parts += sec("🎓 MIT Research & Insights", sections["mit"])
+    parts += sec("🔶 Hacker News Top 10", sections["hn"], numbered=True, score=True)
+    parts += sec("📰 NYT / WSJ Strategic Reading List", sections["nyt_wsj"], numbered=True)
+    parts += sec("📚 Blogs, Research & Craft", sections["blogs"], numbered=True)
     parts += sec("💼 LinkedIn - Rama's Activity", sections["linkedin"])
-    parts += ["---", "", "## 📚 Lungo", ""]
-    parts += sec("🔶 HackerNews #6-#12", sections["lungo_hn"], numbered=True, score=True)
-    parts += sec("📰 More Headlines", sections["lungo_news"])
-    parts += sec("💭 More Opinion", sections["lungo_opinion"])
-    parts += sec("🔒 Security & Privacy", sections["security"])
-    parts += sec("⚙️ Tech & Engineering", sections["tech"])
-    parts += sec("🧠 Strategy & Craft", sections["strategy"])
     parts += ["---", f"*Generated {datetime.datetime.now().strftime('%-I:%M %p')} on {datetime.date.today().strftime('%B %-d, %Y')}*"]
     return "\n".join(parts)
 
@@ -923,9 +916,7 @@ def _flatten_digest(date, data, settings=None):
             })
 
     for key in (
-        "espresso_hn", "lungo_hn", "espresso_news", "lungo_news",
-        "espresso_opinion", "lungo_opinion", "mit", "linkedin",
-        "security", "tech", "strategy"
+        "hn", "nyt_wsj", "blogs", "linkedin"
     ):
         add(sections.get(key, []))
     return records
@@ -1074,7 +1065,41 @@ def _run_git(args):
 
 
 def _has_publishable_content(data):
-    return any(data.get(key) for key in ("hn", "nyt", "wsj", "mit", "blogs"))
+    return any(data.get(key) for key in ("hn", "nyt_wsj", "blogs"))
+
+
+def _run_nyt_wsj_ranker(date, settings):
+    if not HAS_NYT_WSJ_RANKER or run_nyt_wsj_ranker is None:
+        print("  [NYT/WSJ Ranker] Error: nyt_wsj_rss_ranker.py could not be imported.")
+        return []
+    try:
+        result = run_nyt_wsj_ranker(
+            target_date=date,
+            max_links=int(settings.get("nyt_wsj_max_links", 20)),
+            output_dir=SCRIPT_DIR / settings.get("ranker_output_dir", "output"),
+            write_files=True,
+        )
+        return result.get("selected", [])
+    except Exception as e:
+        print(f"  [NYT/WSJ Ranker] Error: {e}")
+        return []
+
+
+def _run_blog_ranker(date, settings):
+    if not HAS_BLOG_RANKER or run_blog_ranker is None:
+        print("  [Blog Ranker] Error: blog_reading_ranker.py could not be imported.")
+        return []
+    try:
+        result = run_blog_ranker(
+            target_date=date,
+            max_links=int(settings.get("blog_max_links", 20)),
+            output_dir=SCRIPT_DIR / settings.get("ranker_output_dir", "output"),
+            write_files=True,
+        )
+        return result.get("selected", [])
+    except Exception as e:
+        print(f"  [Blog Ranker] Error: {e}")
+        return []
 
 
 def push_to_github(date, config):
@@ -1093,6 +1118,15 @@ def push_to_github(date, config):
             "dd_archive.md",
             "dd_archive.xlsx",
         ]
+        output_dir = SCRIPT_DIR / "output"
+        for name in (
+            f"nyt_wsj_briefing_{date.isoformat()}.md",
+            f"nyt_wsj_candidates_{date.isoformat()}.csv",
+            f"blog_briefing_{date.isoformat()}.md",
+            f"blog_candidates_{date.isoformat()}.csv",
+        ):
+            if (output_dir / name).exists():
+                files.append(str(Path("output") / name))
         ok, _ = _run_git(["add"] + files)
         if not ok:
             return
@@ -1120,28 +1154,22 @@ def main(target_date=None):
     print(f"  Fetching content for: {date}\n")
 
     print("  [1/6] HackerNews...")
-    hn = fetch_hackernews(n=int(settings.get("expanded_hn_count", 12)), date=date)
+    hn = fetch_hackernews(n=int(settings.get("hn_digest_count", 10)), date=date)
 
-    print("  [2/6] NYT...")
-    nyt = fetch_news(NYT_FEEDS)
+    print("  [2/6] NYT / WSJ ranker...")
+    nyt_wsj = _run_nyt_wsj_ranker(date, settings)
 
-    print("  [3/6] WSJ...")
-    wsj = fetch_news(WSJ_FEEDS)
+    print("  [3/6] Blog / research ranker...")
+    blogs = _run_blog_ranker(date, settings)
 
-    print("  [4/6] MIT sites...")
-    mit = fetch_mit_updates(since_date=date)
-
-    print("  [5/6] Blogs...")
-    blogs = fetch_blog_updates(since_date=date)
-
-    print("  [6/6] LinkedIn...")
+    print("  [4/6] LinkedIn...")
     linkedin = fetch_linkedin_activity()
+
+    print("  [5/6] Rendering and archives...")
 
     data = {
         "hn": hn,
-        "nyt": nyt,
-        "wsj": wsj,
-        "mit": mit,
+        "nyt_wsj": nyt_wsj,
         "blogs": blogs,
         "linkedin": linkedin,
     }
