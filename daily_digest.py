@@ -1145,36 +1145,55 @@ def main(target_date=None):
         "blogs": blogs,
         "linkedin": linkedin,
     }
+    publishable = _has_publishable_content(data)
+
+    html_path = SCRIPT_DIR / f"digest_{date.isoformat()}.html"
+    md_path = SCRIPT_DIR / f"digest_{date.isoformat()}.md"
+    index_path = SCRIPT_DIR / "index.html"
+    preserve_existing_outputs = (
+        not publishable
+        and (html_path.exists() or md_path.exists() or index_path.exists())
+    )
 
     print("\n  Generating outputs...")
     html_doc = generate_html(date, data, settings)
     markdown = generate_markdown(date, data, settings)
 
-    html_path = SCRIPT_DIR / f"digest_{date.isoformat()}.html"
-    md_path = SCRIPT_DIR / f"digest_{date.isoformat()}.md"
-    index_path = SCRIPT_DIR / "index.html"
+    if preserve_existing_outputs:
+        print("  [Output] Skipped writing digest files because no network-fetched content was available.")
+        print("  [Output] Preserved existing digest/index files.")
+        try:
+            if html_path.exists():
+                html_doc = html_path.read_text(encoding="utf-8")
+            if md_path.exists():
+                markdown = md_path.read_text(encoding="utf-8")
+        except Exception as e:
+            print(f"  [Output] Error reading preserved digest files: {e}")
+    else:
+        try:
+            with open(html_path, "w", encoding="utf-8") as f:
+                f.write(html_doc)
+            with open(index_path, "w", encoding="utf-8") as f:
+                f.write(html_doc)
+            with open(md_path, "w", encoding="utf-8") as f:
+                f.write(markdown)
+            print(f"  Saved HTML:     {html_path.name}")
+            print("  Saved index.html")
+            print(f"  Saved Markdown: {md_path.name}")
+        except Exception as e:
+            print(f"  [Output] Error writing digest files: {e}")
 
-    try:
-        with open(html_path, "w", encoding="utf-8") as f:
-            f.write(html_doc)
-        with open(index_path, "w", encoding="utf-8") as f:
-            f.write(html_doc)
-        with open(md_path, "w", encoding="utf-8") as f:
-            f.write(markdown)
-        print(f"  Saved HTML:     {html_path.name}")
-        print("  Saved index.html")
-        print(f"  Saved Markdown: {md_path.name}")
-    except Exception as e:
-        print(f"  [Output] Error writing digest files: {e}")
+    if publishable:
+        print("  Updating HN archive...")
+        update_hn_archive(date, hn)
 
-    print("  Updating HN archive...")
-    update_hn_archive(date, hn)
-
-    print("  Updating digest archive...")
-    update_dd_archive(date, data, settings=settings)
+        print("  Updating digest archive...")
+        update_dd_archive(date, data, settings=settings)
+    else:
+        print("  [Archive] Skipped archive updates because no network-fetched content was available.")
 
     print("  GitHub Pages...")
-    if _has_publishable_content(data):
+    if publishable:
         push_to_github(date, config)
     else:
         print("  [GitHub] Skipped publish because no network-fetched content was available.")
