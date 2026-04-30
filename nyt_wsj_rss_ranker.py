@@ -60,17 +60,17 @@ DEFAULT_FEEDS: list[dict[str, Any]] = [
     {"publication": "NYT", "section": "Ask Well", "category": "Wellness / Personal finance / Personal tech", "url": "", "section_url": "https://www.nytimes.com/column/ask-well"},
     {"publication": "NYT", "section": "Artificial Intelligence", "category": "Technology / AI", "url": "", "section_url": "https://www.nytimes.com/spotlight/artificial-intelligence"},
     {"publication": "NYT", "section": "Opinion", "category": "Opinion / Analysis", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Opinion.xml", "section_url": "https://www.nytimes.com/section/opinion"},
-    {"publication": "NYT", "section": "Sunday Opinion", "category": "Opinion / Analysis", "url": "https://rss.nytimes.com/services/xml/rss/nyt/SundayReview.xml", "section_url": "https://www.nytimes.com/section/opinion/sunday"},
+    {"publication": "NYT", "section": "Sunday Opinion", "category": "Opinion / Analysis", "url": "https://rss.nytimes.com/services/xml/rss/nyt/sunday-review.xml", "section_url": "https://www.nytimes.com/section/opinion/sunday"},
     {"publication": "WSJ", "section": "Business", "category": "Business / Economy / Markets", "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml", "section_url": "https://www.wsj.com/business"},
     {"publication": "WSJ", "section": "Markets", "category": "Business / Economy / Markets", "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml", "section_url": "https://www.wsj.com/finance"},
-    {"publication": "WSJ", "section": "Economy", "category": "Business / Economy / Markets", "url": "https://feeds.a.dj.com/rss/WSJcomUSEconomy.xml", "section_url": "https://www.wsj.com/economy"},
+    {"publication": "WSJ", "section": "Economy", "category": "Business / Economy / Markets", "url": "https://feeds.a.dj.com/rss/WSJcomUSEconomy.xml", "section_url": "https://www.wsj.com/economy", "enabled": False},
     {"publication": "WSJ", "section": "Technology", "category": "Technology / AI", "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml", "section_url": "https://www.wsj.com/tech"},
     {"publication": "WSJ", "section": "Opinion", "category": "Opinion / Analysis", "url": "https://feeds.a.dj.com/rss/RSSOpinion.xml", "section_url": "https://www.wsj.com/news/opinion"},
-    {"publication": "WSJ", "section": "Deals / M&A", "category": "Business / Economy / Markets", "url": "", "section_url": "https://www.wsj.com/business/deals"},
-    {"publication": "WSJ", "section": "Heard on the Street", "category": "Opinion / Analysis", "url": "", "section_url": "https://www.wsj.com/news/heard-on-the-street"},
-    {"publication": "WSJ", "section": "Management / Workplace", "category": "Business / Economy / Markets", "url": "", "section_url": "https://www.wsj.com/business/management"},
-    {"publication": "WSJ", "section": "C-Suite", "category": "Business / Economy / Markets", "url": "", "section_url": "https://www.wsj.com/business/c-suite"},
-    {"publication": "WSJ", "section": "Energy / Climate", "category": "Climate / Energy / Infrastructure", "url": "", "section_url": "https://www.wsj.com/business/energy-oil"},
+    {"publication": "WSJ", "section": "Deals / M&A", "category": "Business / Economy / Markets", "url": "", "section_url": "https://www.wsj.com/business/deals", "enabled": False},
+    {"publication": "WSJ", "section": "Heard on the Street", "category": "Opinion / Analysis", "url": "", "section_url": "https://www.wsj.com/news/heard-on-the-street", "enabled": False},
+    {"publication": "WSJ", "section": "Management / Workplace", "category": "Business / Economy / Markets", "url": "", "section_url": "https://www.wsj.com/business/management", "enabled": False},
+    {"publication": "WSJ", "section": "C-Suite", "category": "Business / Economy / Markets", "url": "", "section_url": "https://www.wsj.com/business/c-suite", "enabled": False},
+    {"publication": "WSJ", "section": "Energy / Climate", "category": "Climate / Energy / Infrastructure", "url": "", "section_url": "https://www.wsj.com/business/energy-oil", "enabled": False},
 ]
 
 SECTION_WEIGHTS = {
@@ -193,11 +193,17 @@ def discover_feed(section_url: str) -> str:
 
 
 def fetch_feed(feed: dict[str, Any], stats: dict[str, int]) -> list[Candidate]:
+    if feed.get("enabled") is False:
+        logging.info("Skipping disabled feed for %s %s", feed.get("publication"), feed.get("section"))
+        return []
     if not HAS_FEEDPARSER:
         logging.error("feedparser is not installed")
         stats["feed_failures"] += 1
         return []
-    url = feed.get("url") or discover_feed(feed.get("section_url", ""))
+    if feed.get("publication") == "WSJ":
+        url = feed.get("url", "")
+    else:
+        url = feed.get("url") or discover_feed(feed.get("section_url", ""))
     if not url:
         logging.info("No feed URL for %s %s", feed.get("publication"), feed.get("section"))
         stats["feed_failures"] += 1

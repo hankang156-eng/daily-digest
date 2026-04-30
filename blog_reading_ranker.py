@@ -70,7 +70,7 @@ CATEGORY_WEIGHTS = {
 }
 
 KEYWORD_GROUPS = {
-    "AI / Agents / LLMs": (24, ["llm", "agent", "artificial intelligence", " ai ", " a.i.", "machine learning", "openai", "model", "inference", "prompt"]),
+    "AI / Agents / LLMs": (18, ["llm", "agent", "artificial intelligence", " ai ", " a.i.", "machine learning", "openai", "model", "inference", "prompt"]),
     "Enterprise / Automation": (20, ["enterprise", "workflow", "automation", "productivity", "tooling", "software as a service", "saas"]),
     "Security / Privacy": (22, ["security", "privacy", "breach", "authentication", "passkey", "password", "malware", "ransomware", "vulnerability"]),
     "Software Engineering": (21, ["programming", "database", "postgres", "python", "javascript", "infrastructure", "latency", "performance", "debugging", "api"]),
@@ -87,6 +87,18 @@ DIVERSITY_CAPS = {
     "Tech & Engineering": 8,
     "Strategy & Craft": 5,
 }
+
+SOURCE_DAILY_CAPS = {
+    "Simon Willison": 2,
+    "Daring Fireball": 2,
+    "MIT Sloan Review": 2,
+    "MIT IDE": 2,
+    "MIT Shaping Work": 2,
+}
+
+RELEASE_NOTE_KEYWORDS = (
+    "0.", "release", "a0", "a1", "changelog", "version", "minor update",
+)
 
 
 @dataclass
@@ -359,7 +371,10 @@ def classify(item: BlogCandidate, topic_hint: str) -> None:
         item.content_type = "Craft essay"
     else:
         item.content_type = "Engineering note"
-    item.reading_mode = "Read deeply" if item.score >= 56 else "Skim" if item.score >= 36 else "Save for weekly review"
+    if any(keyword in item.title.lower() for keyword in RELEASE_NOTE_KEYWORDS):
+        item.reading_mode = "Skim"
+    else:
+        item.reading_mode = "Read deeply" if item.score >= 56 else "Skim" if item.score >= 36 else "Save for weekly review"
 
 
 def score_item(item: BlogCandidate, target_date: dt.date) -> None:
@@ -378,6 +393,7 @@ def score_item(item: BlogCandidate, target_date: dt.date) -> None:
     lower = text.lower()
     durable = 8 if any(term in lower for term in ("essay", "research", "analysis", "explainer", "paper", "report", "technical")) else 0
     tiny_penalty = -6 if len(item.summary) < 40 and item.source not in {"Paul Graham", "Neal.fun"} else 0
+    release_note_penalty = -15 if any(keyword in item.title.lower() for keyword in RELEASE_NOTE_KEYWORDS) else 0
     low_date_penalty = -4 if item.date_confidence == "low" and not item.is_new_cache_item else 0
     item.score_breakdown.update({
         "source": source_weight,
@@ -386,6 +402,7 @@ def score_item(item: BlogCandidate, target_date: dt.date) -> None:
         "freshness": freshness,
         "depth": durable,
         "brevity": tiny_penalty,
+        "release_note": release_note_penalty,
         "date_confidence": low_date_penalty,
     })
     item.score = round(sum(item.score_breakdown.values()), 2)
@@ -404,19 +421,28 @@ def select_items(items: list[BlogCandidate], max_links: int) -> list[BlogCandida
     selected = []
     category_counts: dict[str, int] = {}
     source_counts: dict[str, int] = {}
-    for item in sorted(items, key=lambda candidate: candidate.score, reverse=True):
+    remaining = sorted(items, key=lambda candidate: candidate.score, reverse=True)
+    while remaining and len(selected) < max_links:
+        item = remaining.pop(0)
         if category_counts.get(item.category, 0) >= DIVERSITY_CAPS.get(item.category, 20):
             item.exclusion_reason = f"{item.category} cap"
             continue
-        if source_counts.get(item.source, 0) >= 3 and len(items) > 8:
-            item.exclusion_reason = "single-source cap"
+        source_cap = SOURCE_DAILY_CAPS.get(item.source, 3)
+        same_source_count = source_counts.get(item.source, 0)
+        if same_source_count >= source_cap:
+            item.exclusion_reason = "source daily cap"
+            continue
+        if same_source_count >= 2 and "same_source_sequence" not in item.score_breakdown:
+            item.score = round(item.score - 20, 2)
+            item.score_breakdown["same_source_sequence"] = -20
+            item.reason = f"{item.reason}; same-source sequence penalty"
+            remaining.append(item)
+            remaining.sort(key=lambda candidate: candidate.score, reverse=True)
             continue
         item.selected = True
         selected.append(item)
         category_counts[item.category] = category_counts.get(item.category, 0) + 1
         source_counts[item.source] = source_counts.get(item.source, 0) + 1
-        if len(selected) >= max_links:
-            break
     for item in items:
         if not item.selected and not item.exclusion_reason:
             item.exclusion_reason = "below selected score threshold"
