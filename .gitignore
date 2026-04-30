@@ -6,6 +6,7 @@ google_credentials.json
 hn_archive_data.json
 dd_archive_data.json
 digest.log
+output/blog_cache.json
 
 # Python cache
 __pycache__/
