@@ -100,6 +100,14 @@ DIVERSITY_CAPS = {
     "Wellness / Personal finance / Personal tech": 3,
 }
 
+SECTION_LABELS = {
+    "Artificial Intelligence": "AI",
+    "Energy & Environment": "Energy & Environment",
+    "Deals / M&A": "Deals / M&A",
+    "Management / Workplace": "Management / Workplace",
+    "Personal Technology": "Personal Technology",
+}
+
 
 @dataclass
 class Candidate:
@@ -399,16 +407,18 @@ def executive_summary(selected: list[Candidate]) -> list[str]:
 
 def candidate_to_article(candidate: Candidate) -> dict[str, Any]:
     source = candidate.publication
-    section = " / ".join(candidate.sections)
+    section = max(candidate.sections, key=lambda item: SECTION_WEIGHTS.get(item, 10)) if candidate.sections else source
+    section_label = SECTION_LABELS.get(section, section)
     return {
         "title": candidate.title,
         "url": candidate.original_url,
         "source": source,
         "outlet": source if source in {"NYT", "WSJ"} else "",
-        "section": section,
+        "section": section_label,
         "date": candidate.published_date,
         "summary": candidate.summary,
-        "topic": candidate.topic_cluster,
+        "topic": section_label,
+        "topic_tag": section_label,
         "category": "opinion" if is_opinion(candidate) else "news",
         "score": candidate.score,
         "reason": candidate.reason,

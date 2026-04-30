@@ -38,9 +38,10 @@ tail -80 digest.log
 
 The digest is now one reading list, not Espresso/Lungo.
 
-- **Hacker News Top 10**: previous day's top HN stories by points, with score/comment metadata and discussion links.
-- **NYT / WSJ Strategic Reading List**: up to 20 ranked articles selected by relevance, source differentiation, opinion caps, and topic diversity.
-- **Blogs, Research & Craft**: up to 20 ranked posts from research, security, engineering, strategy, and craft sources.
+- **Hacker News Top 16**: previous day's top HN stories by points, with numbering, score/comment metadata, and discussion links.
+- **NYT / WSJ Strategic Reading List**: up to 20 ranked articles, grouped by the most relevant NYT/WSJ section tag.
+- **MIT & Sloan Research**: MIT IDE, MIT Shaping Work, and MIT Sloan Review items split out from the blog list.
+- **Blogs & Craft**: ranked blog posts from security, engineering, strategy, and craft sources.
 - **LinkedIn - Rama's Activity**: direct placeholder link.
 
 ## Ranker Diagnostics
@@ -92,7 +93,7 @@ Important defaults in `config.json`:
 ```json
 {
   "settings": {
-    "hn_digest_count": 10,
+    "hn_digest_count": 16,
     "nyt_wsj_max_links": 20,
     "blog_max_links": 20,
     "ranker_output_dir": "output"

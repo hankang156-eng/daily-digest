@@ -60,7 +60,7 @@ CONFIG_FILE = SCRIPT_DIR / "config.json"
 
 DEFAULT_CONFIG = {
     "settings": {
-        "hn_digest_count": 10,
+        "hn_digest_count": 16,
         "nyt_wsj_max_links": 20,
         "blog_max_links": 20,
         "ranker_output_dir": "output"
@@ -485,11 +485,14 @@ def _split_news(articles):
 
 
 def build_sections(data, settings):
-    hn_count = int(settings.get("hn_digest_count", 10))
+    hn_count = int(settings.get("hn_digest_count", 16))
+    blog_items = data.get("blogs", [])
+    research_sources = {"MIT IDE", "MIT Shaping Work", "MIT Sloan Review"}
     return {
         "hn": data.get("hn", [])[:hn_count],
         "nyt_wsj": data.get("nyt_wsj", []),
-        "blogs": data.get("blogs", []),
+        "research": [item for item in blog_items if item.get("source") in research_sources],
+        "blogs": [item for item in blog_items if item.get("source") not in research_sources],
         "linkedin": data.get("linkedin", []),
     }
 
@@ -697,15 +700,111 @@ def _article_row(article, show_score=False):
     </tr>'''
 
 
-def _section_block(heading, articles, show_score=False):
+def _article_list_item(article, index=None, show_score=False):
+    number = f'<span style="display:inline-block;width:24px;color:#999">{index}.</span>' if index is not None else ""
+    return f'''<tr>
+      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
+        {number}{_article_row_content(article, show_score=show_score)}
+      </td>
+    </tr>'''
+
+
+def _article_row_content(article, show_score=False):
+    outlet_colors = {
+        "NYT": ("#111111", "#ffffff"),
+        "WSJ": ("#00285e", "#ffffff"),
+        "HN": ("#ff6600", "#ffffff"),
+    }
+    badges = ""
+    outlet = article.get("outlet")
+    if outlet in outlet_colors:
+        bg, fg = outlet_colors[outlet]
+        badges += _badge(outlet, bg, fg)
+    tag = article.get("topic_tag") or article.get("section")
+    if tag:
+        badges += _badge(tag, "#f0f0f0", "#666666")
+    if article.get("source") and not outlet:
+        badges += _badge(article["source"], "#f5f5f5", "#777777")
+
+    score = ""
+    if show_score and article.get("comments") is not None:
+        score = (
+            f' <span style="font-size:11px;color:#888;margin-left:6px">'
+            f'{int(article.get("score", 0))} pts · {int(article.get("comments", 0))} comments</span>'
+        )
+    elif article.get("score") not in (None, ""):
+        score = (
+            f' <span style="font-size:11px;color:#888;margin-left:6px">'
+            f'Score {float(article.get("score", 0)):.1f}</span>'
+        )
+    discuss = ""
+    if article.get("hn_url"):
+        discuss = (
+            f' <a href="{_html_escape(article["hn_url"])}" style="font-size:11px;color:#e67e22;'
+            f'margin-left:6px;text-decoration:none">discuss</a>'
+        )
+    date_note = _display_date(article)
+    if date_note:
+        date_note = f' <span style="font-size:11px;color:#999;margin-left:6px">{_html_escape(date_note)}</span>'
+    mode = article.get("reading_mode")
+    reason = article.get("reason")
+    detail = ""
+    if mode or reason:
+        detail = (
+            f'<div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">'
+            f'{_html_escape(mode or "")}'
+            f'{": " if mode and reason else ""}'
+            f'{_html_escape(reason or "")}</div>'
+        )
+    return (
+        f'<a href="{_html_escape(article.get("url", "#"))}" style="color:#1a1a2e;font-size:14px;'
+        f'text-decoration:none;line-height:1.45;font-weight:500" target="_blank">'
+        f'{_html_escape(article.get("title", ""))}</a>{badges}{score}{discuss}{date_note}{detail}'
+    )
+
+
+def _section_block(heading, articles, show_score=False, numbered=False):
     if not articles:
         return ""
-    rows = "".join(_article_row(article, show_score=show_score) for article in articles)
+    rows = "".join(
+        _article_list_item(article, index=index if numbered else None, show_score=show_score)
+        for index, article in enumerate(articles, 1)
+    )
     return f'''
     <div style="margin-bottom:28px">
       <h3 style="font-size:13px;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:.08em;margin:0 0 10px;padding-bottom:8px;border-bottom:2px solid #f0f0f0">{heading}</h3>
       <table width="100%" cellspacing="0" cellpadding="0"><tbody>{rows}</tbody></table>
     </div>'''
+
+
+def _group_articles(articles, key):
+    groups = []
+    seen = {}
+    for article in articles:
+        label = article.get(key) or article.get("section") or article.get("source") or "Other"
+        if label not in seen:
+            seen[label] = []
+            groups.append((label, seen[label]))
+        seen[label].append(article)
+    return groups
+
+
+def _grouped_section_block(heading, articles, group_key, numbered=True):
+    if not articles:
+        return ""
+    blocks = [f'''
+    <div style="margin-bottom:28px">
+      <h3 style="font-size:13px;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:.08em;margin:0 0 10px;padding-bottom:8px;border-bottom:2px solid #f0f0f0">{heading}</h3>''']
+    for label, group in _group_articles(articles, group_key):
+        rows = "".join(
+            _article_list_item(article, index=index if numbered else None)
+            for index, article in enumerate(group, 1)
+        )
+        blocks.append(f'''
+      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">{_html_escape(label)}</div>
+      <table width="100%" cellspacing="0" cellpadding="0"><tbody>{rows}</tbody></table>''')
+    blocks.append("</div>")
+    return "".join(blocks)
 
 
 def generate_html(date, data, settings=None):
@@ -731,9 +830,10 @@ def generate_html(date, data, settings=None):
 </td></tr>
 <tr><td style="height:16px"></td></tr>
 <tr><td style="background:#fff;border-radius:12px;padding:28px 32px;box-shadow:0 1px 4px rgba(0,0,0,.06)">
-  {_section_block("🔶 Hacker News Top 10", sections["hn"], show_score=True)}
-  {_section_block("📰 NYT / WSJ Strategic Reading List", sections["nyt_wsj"])}
-  {_section_block("📚 Blogs, Research & Craft", sections["blogs"])}
+  {_section_block("🔶 Hacker News Top 16", sections["hn"], show_score=True, numbered=True)}
+  {_grouped_section_block("📰 NYT / WSJ Strategic Reading List", sections["nyt_wsj"], "topic_tag")}
+  {_section_block("🎓 MIT & Sloan Research", sections["research"], numbered=True)}
+  {_section_block("📚 Blogs & Craft", sections["blogs"], numbered=True)}
   {_section_block("💼 LinkedIn - Rama's Activity", sections["linkedin"])}
 </td></tr>
 <tr><td style="height:16px"></td></tr>
@@ -754,7 +854,7 @@ def _md_articles(articles, numbered=False, show_score=False):
         title = _md_escape(article.get("title", ""))
         url = article.get("url", "#")
         source = article.get("outlet") or article.get("source", "")
-        section = article.get("section", "")
+        section = article.get("topic_tag") or article.get("section", "")
         badge = f"**[{_md_escape(source)}" + (f" · {_md_escape(section)}" if section else "") + "]** " if source else ""
         score = ""
         if show_score and article.get("comments") is not None:
@@ -771,6 +871,15 @@ def _md_articles(articles, numbered=False, show_score=False):
     return "\n".join(lines)
 
 
+def _md_grouped_articles(articles, group_key):
+    lines = []
+    for label, group in _group_articles(articles, group_key):
+        lines.extend([f"#### {_md_escape(label)}", ""])
+        lines.append(_md_articles(group, numbered=True))
+        lines.append("")
+    return "\n".join(lines).rstrip()
+
+
 def generate_markdown(date, data, settings=None):
     settings = settings or DEFAULT_CONFIG["settings"]
     sections = build_sections(data, settings)
@@ -783,9 +892,15 @@ def generate_markdown(date, data, settings=None):
             return []
         return [f"### {heading}", "", _md_articles(articles, numbered=numbered, show_score=score), ""]
 
-    parts += sec("🔶 Hacker News Top 10", sections["hn"], numbered=True, score=True)
-    parts += sec("📰 NYT / WSJ Strategic Reading List", sections["nyt_wsj"], numbered=True)
-    parts += sec("📚 Blogs, Research & Craft", sections["blogs"], numbered=True)
+    def grouped_sec(heading, articles, group_key):
+        if not articles:
+            return []
+        return [f"### {heading}", "", _md_grouped_articles(articles, group_key), ""]
+
+    parts += sec("🔶 Hacker News Top 16", sections["hn"], numbered=True, score=True)
+    parts += grouped_sec("📰 NYT / WSJ Strategic Reading List", sections["nyt_wsj"], "topic_tag")
+    parts += sec("🎓 MIT & Sloan Research", sections["research"], numbered=True)
+    parts += sec("📚 Blogs & Craft", sections["blogs"], numbered=True)
     parts += sec("💼 LinkedIn - Rama's Activity", sections["linkedin"])
     parts += ["---", f"*Generated {datetime.datetime.now().strftime('%-I:%M %p')} on {datetime.date.today().strftime('%B %-d, %Y')}*"]
     return "\n".join(parts)
@@ -916,7 +1031,7 @@ def _flatten_digest(date, data, settings=None):
             })
 
     for key in (
-        "hn", "nyt_wsj", "blogs", "linkedin"
+        "hn", "nyt_wsj", "research", "blogs", "linkedin"
     ):
         add(sections.get(key, []))
     return records

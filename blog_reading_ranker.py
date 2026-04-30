@@ -462,18 +462,24 @@ def executive_summary(selected: list[BlogCandidate], no_new_sources: list[str]) 
 
 
 def candidate_to_article(item: BlogCandidate) -> dict[str, Any]:
-    topic = {
-        "MIT Research & Insights": "Research",
-        "Security & Privacy": "Security",
-        "Tech & Engineering": "Technology",
-        "Strategy & Craft": "Strategy",
-    }.get(item.category, item.category)
-    category = {
-        "MIT Research & Insights": "research",
-        "Security & Privacy": "tech",
-        "Tech & Engineering": "tech",
-        "Strategy & Craft": "long-form",
-    }.get(item.category, "long-form")
+    if item.source == "MIT Sloan Review":
+        topic = "Business"
+        category = "analysis"
+    elif item.category == "MIT Research & Insights":
+        topic = "Research"
+        category = "research"
+    elif item.category == "Security & Privacy":
+        topic = "Security"
+        category = "tech"
+    elif item.category == "Tech & Engineering":
+        topic = "Technology"
+        category = "tech"
+    elif item.category == "Strategy & Craft":
+        topic = "Strategy"
+        category = "long-form"
+    else:
+        topic = item.category
+        category = "long-form"
     return {
         "title": item.title,
         "url": item.original_url,
@@ -483,6 +489,7 @@ def candidate_to_article(item: BlogCandidate) -> dict[str, Any]:
         "date": item.published_date,
         "summary": item.summary,
         "topic": topic,
+        "topic_tag": topic,
         "category": category,
         "score": item.score,
         "reason": item.reason,
