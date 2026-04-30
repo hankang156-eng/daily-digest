@@ -1,7 +1,7 @@
 #!/bin/bash
 # ─────────────────────────────────────────────────────────────────────────────
 # Daily Digest — GitHub Pages One-Time Setup
-# Run this once from the Daily Digest folder: bash setup_github_pages.sh
+# Run this once from the daily_digest workspace: bash setup_github_pages.sh
 # ─────────────────────────────────────────────────────────────────────────────
 
 set -e
@@ -35,14 +35,20 @@ google_credentials.json
 # Large data files (regenerated from JSON)
 hn_archive_data.json
 dd_archive_data.json
+digest.log
 
 # Python cache
 __pycache__/
+.venv/
 *.pyc
 *.pyo
 
 # macOS
 .DS_Store
+
+# Local workspace leftovers / Obsidian folder
+Daily Digest/
+daily_digest/
 GITIGNORE
 echo "  ✓ Created .gitignore"
 
@@ -73,7 +79,9 @@ fi
 # ── 4. Initial commit ────────────────────────────────────────────────────────
 git add index.html .gitignore requirements.txt README.md \
         daily_digest.py hn_historical.py setup_github_pages.sh \
-        hn_archive_sample.py 2>/dev/null || true
+        hn_archive_sample.py run_digest.sh setup_launchagent.sh \
+        com.michelle.dailydigest.plist hn_archive.md hn_archive.xlsx \
+        dd_archive.md dd_archive.xlsx 2>/dev/null || true
 git commit -m "initial setup" 2>/dev/null || echo "  (nothing new to commit)"
 
 # ── 5. Instructions ──────────────────────────────────────────────────────────

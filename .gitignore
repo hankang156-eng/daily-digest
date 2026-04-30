@@ -5,11 +5,17 @@ google_credentials.json
 # Large data files (regenerated from JSON)
 hn_archive_data.json
 dd_archive_data.json
+digest.log
 
 # Python cache
 __pycache__/
+.venv/
 *.pyc
 *.pyo
 
 # macOS
 .DS_Store
+
+# Local workspace leftovers / Obsidian folder
+Daily Digest/
+daily_digest/
