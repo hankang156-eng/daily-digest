@@ -1,19 +1,19 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-04-30 · 87 items*
+*Last updated: 2026-04-30 · 85 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
 | 2026-04-29 | Zed 1.0 | HN | Technology | tech | 2026-04-29 | [link](https://zed.dev/blog/zed-1-0) |
 | 2026-04-29 | HERMES.md in commit messages causes requests to route to extra usage billing | HN | Technology | tech | 2026-04-29 | [link](https://github.com/anthropics/claude-code/issues/53262) |
 | 2026-04-29 | Online age verification is the hill to die on | HN | Technology | tech | 2026-04-29 | [link](https://x.com/GlennMeder/status/2049088498163216560) |
-| 2026-04-29 | Cursor Camp | HN | Technology | tech | 2026-04-29 | [link](https://neal.fun/cursor-camp/) |
 | 2026-04-29 | Copy Fail | HN | Technology | tech | 2026-04-29 | [link](https://copy.fail/) |
+| 2026-04-29 | Cursor Camp | HN | Technology | tech | 2026-04-29 | [link](https://neal.fun/cursor-camp/) |
 | 2026-04-29 | We need a federation of forges | HN | Technology | tech | 2026-04-29 | [link](https://blog.tangled.org/federation/) |
 | 2026-04-29 | Soft launch of open-source code platform for government | HN | Technology | tech | 2026-04-29 | [link](https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/) |
 | 2026-04-29 | Mistral Medium 3.5 | HN | Technology | tech | 2026-04-29 | [link](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5) |
-| 2026-04-29 | HashiCorp co-founder says GitHub 'no longer a place for serious work' | HN | Technology | tech | 2026-04-29 | [link](https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/) |
 | 2026-04-29 | Where the goblins came from | HN | Technology | tech | 2026-04-29 | [link](https://openai.com/index/where-the-goblins-came-from/) |
+| 2026-04-29 | HashiCorp co-founder says GitHub 'no longer a place for serious work' | HN | Technology | tech | 2026-04-29 | [link](https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/) |
 | 2026-04-29 | Meta Deal Reversal Deepens Split Between China and Silicon Valley | NYT · Artificial Intelligence / Business / Technology | Business / Economy / Markets | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html) |
 | 2026-04-29 | A.I. Spending Sets a Record, With No End in Sight | NYT · Artificial Intelligence / Technology | Technology / AI | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/technology/ai-spending-tech-data-centers.html) |
 | 2026-04-29 | United Airlines CEO, Rebuffed by American, Says He’s Skeptical of Other Deals | NYT · Business / Politics | Politics / U.S. | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/business/united-airlines-american-scott-kirby.html) |
@@ -34,14 +34,12 @@
 | 2026-04-29 | How to Build a Better Kind of Nuclear Power? This Side Hustle Might Help. | NYT · Energy & Environment | Climate / Energy / Infrastructure | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/climate/zap-energy-fusion-fission.html) |
 | 2026-04-29 | A Journalist Covered a Missile Strike. Then the Death Threats Started. | NYT · Opinion | Opinion / Analysis | opinion | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/opinion/prediction-markets-regulation.html) |
 | 2026-04-29 | Political Campaigns Have No Idea What’s About to Hit Them | NYT · Opinion | Opinion / Analysis | opinion | 2026-04-29 | [link](https://www.nytimes.com/2026/04/28/opinion/political-campaigns-artificial-intelligence.html) |
-| 2026-04-29 | LLM 0.32a0 is a major backwards-compatible refactor | Simon Willison · Tech & Engineering | Technology | tech | 2026-04-29 | [link](https://simonwillison.net/2026/Apr/29/llm/#atom-everything) |
 | 2026-04-29 | Leaders at All Levels: How Argenx Scaled to $4 Billion Without Bureaucracy | MIT Sloan Review · Strategy & Craft | Strategy | long-form | 2026-04-29 | [link](https://sloanreview.mit.edu/video/leaders-at-all-levels-how-argenx-scaled-to-4-billion-without-bureaucracy/) |
 | 2026-04-29 | OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-04-29 | [link](https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html?unlocked_article_code=1.elA.u75G.-STmUe_pILOO) |
-| 2026-04-29 | ‘Elon Musk Appeared More Petty Than Prepared’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-04-29 | [link](https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InBrV1FGdGtlcEEiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkyMDE5MS9lbG9uLW11c2stc2FtLWFsdG1hbi10cmlhbC1kYXktb25lIiwiZXhwIjoxNzc3OTA1NDgxLCJpYXQiOjE3Nzc0NzM0ODF9.FkMZ8-YRv8q3d7n6p8q_scJaERWtNumD9pK7kONpTE4) |
 | 2026-04-29 | Playing With Fire | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-04-29 | [link](https://x.com/lifeof_jer/status/2048103471019434248?s=12) |
-| 2026-04-29 | llm 0.32a1 | Simon Willison · Tech & Engineering | Technology | tech | 2026-04-29 | [link](https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything) |
-| 2026-04-29 | llm 0.32a0 | Simon Willison · Tech & Engineering | Technology | tech | 2026-04-29 | [link](https://simonwillison.net/2026/Apr/29/llm-2/#atom-everything) |
+| 2026-04-29 | LLM 0.32a0 is a major backwards-compatible refactor | Simon Willison · Tech & Engineering | Technology | tech | 2026-04-29 | [link](https://simonwillison.net/2026/Apr/29/llm/#atom-everything) |
 | 2026-04-29 | Let's Get Digging! | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-04-29 | [link](https://shkspr.mobi/blog/2026/04/lets-get-digging/) |
+| 2026-04-29 | llm 0.32a1 | Simon Willison · Tech & Engineering | Technology | tech | 2026-04-29 | [link](https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything) |
 | 2026-04-29 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-04-28 | Ghostty is leaving GitHub | HN | Technology | tech | 2026-04-28 | [link](https://mitchellh.com/writing/ghostty-leaving-github) |
 | 2026-04-28 | Before GitHub | HN | Technology | tech | 2026-04-28 | [link](https://lucumr.pocoo.org/2026/4/28/before-github/) |
