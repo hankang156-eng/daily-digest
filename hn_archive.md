@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-04-30 · 366 days · 3660 stories*
+*Last updated: 2026-05-01 · 367 days · 3670 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-04-30 | Thursday | 1 | Claude Code refuses requests or charges extra if your commits mention "OpenClaw" | 1307 | 705 | Technology | [link](https://twitter.com/theo/status/2049645973350363168) · [HN](https://news.ycombinator.com/item?id=47963204) |
+| 2026-04-30 | Thursday | 2 | Belgium stops decommissioning nuclear power plants | 851 | 947 | Technology | [link](https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/) · [HN](https://news.ycombinator.com/item?id=47961319) |
+| 2026-04-30 | Thursday | 3 | Can I disable all data collection from my vehicle? | 722 | 328 | Technology | [link](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle) · [HN](https://news.ycombinator.com/item?id=47967786) |
+| 2026-04-30 | Thursday | 4 | How Mark Klein told the EFF about Room 641A [book excerpt] | 680 | 243 | Technology | [link](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/) · [HN](https://news.ycombinator.com/item?id=47965060) |
+| 2026-04-30 | Thursday | 5 | Mozilla's opposition to Chrome's Prompt API | 644 | 227 | Technology | [link](https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313) · [HN](https://news.ycombinator.com/item?id=47959463) |
+| 2026-04-30 | Thursday | 6 | For Linux kernel vulnerabilities, there is no heads-up to distributions | 580 | 520 | Technology | [link](https://www.openwall.com/lists/oss-security/2026/04/30/10) · [HN](https://news.ycombinator.com/item?id=47965108) |
+| 2026-04-30 | Thursday | 7 | How an oil refinery works | 518 | 190 | Technology | [link](https://www.construction-physics.com/p/how-an-oil-refinery-works) · [HN](https://news.ycombinator.com/item?id=47962548) |
+| 2026-04-30 | Thursday | 8 | Meta in row after workers who saw smart glasses users having sex lose jobs | 512 | 408 | Technology | [link](https://www.bbc.com/news/articles/c5y7yvgy0w6o) · [HN](https://news.ycombinator.com/item?id=47961838) |
+| 2026-04-30 | Thursday | 9 | Spain's parliament will act against massive IP blockages by LaLiga | 506 | 223 | Technology | [link](https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/) · [HN](https://news.ycombinator.com/item?id=47964034) |
+| 2026-04-30 | Thursday | 10 | Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library | 456 | 177 | Technology | [link](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/) · [HN](https://news.ycombinator.com/item?id=47964617) |
 | 2026-04-29 | Wednesday | 1 | Zed 1.0 | 1635 | 524 | Technology | [link](https://zed.dev/blog/zed-1-0) · [HN](https://news.ycombinator.com/item?id=47949027) |
 | 2026-04-29 | Wednesday | 2 | HERMES.md in commit messages causes requests to route to extra usage billing | 1034 | 444 | Technology | [link](https://github.com/anthropics/claude-code/issues/53262) · [HN](https://news.ycombinator.com/item?id=47952722) |
 | 2026-04-29 | Wednesday | 3 | Online age verification is the hill to die on | 833 | 528 | Technology | [link](https://x.com/GlennMeder/status/2049088498163216560) · [HN](https://news.ycombinator.com/item?id=47950091) |
