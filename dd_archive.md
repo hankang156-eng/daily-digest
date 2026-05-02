@@ -1,9 +1,50 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-01 · 135 items*
+*Last updated: 2026-05-02 · 176 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-01 | The gay jailbreak technique (2025) | HN | Technology | tech | 2026-05-01 | [link](https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md) |
+| 2026-05-01 | Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables | HN | Technology | tech | 2026-05-01 | [link](https://github.com/darrylmorley/whatcable) |
+| 2026-05-01 | Ti-84 Evo | HN | Technology | tech | 2026-05-01 | [link](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo) |
+| 2026-05-01 | City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo | HN | Technology | tech | 2026-05-01 | [link](https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/) |
+| 2026-05-01 | Grok 4.3 | HN | Technology | tech | 2026-05-01 | [link](https://docs.x.ai/developers/models/grok-4.3) |
+| 2026-05-01 | Uber torches 2026 AI budget on Claude Code in four months | HN | Technology | tech | 2026-05-01 | [link](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/) |
+| 2026-05-01 | New research suggests people can communicate and practice skills while dreaming | HN | Technology | tech | 2026-05-01 | [link](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we) |
+| 2026-05-01 | AI uses less water than the public thinks | HN | Technology | tech | 2026-05-01 | [link](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/) |
+| 2026-05-01 | Apple accidentally left Claude.md files Apple Support app | HN | Technology | tech | 2026-05-01 | [link](https://x.com/aaronp613/status/2049986504617820551) |
+| 2026-05-01 | Ask HN: Who is hiring? (May 2026) | HN | Technology | tech | 2026-05-01 | [link](https://news.ycombinator.com/item?id=47975571) |
+| 2026-05-01 | Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests | HN | Technology | tech | 2026-05-01 | [link](https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/) |
+| 2026-05-01 | Your website is not for you | HN | Technology | tech | 2026-05-01 | [link](https://websmith.studio/blog/your-website-is-not-for-you/) |
+| 2026-05-01 | Spotify adds 'Verified' badges to distinguish human artists from AI | HN | Technology | tech | 2026-05-01 | [link](https://www.bbc.com/news/articles/c5yerr4m1yno) |
+| 2026-05-01 | An open letter asking NHS England to keep its code open | HN | Technology | tech | 2026-05-01 | [link](https://keepthingsopen.com) |
+| 2026-05-01 | DeepSeek V4–almost on the frontier, a fraction of the price | HN | Technology | tech | 2026-05-01 | [link](https://simonwillison.net/2026/Apr/24/deepseek-v4/) |
+| 2026-05-01 | Credit cards are vulnerable to brute force kind attacks | HN | Technology | tech | 2026-05-01 | [link](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html) |
+| 2026-05-01 | Today, In Short | NYT · AI | AI | news | 2026-05-02 | [link](https://www.nytimes.com/2026/05/01/briefing/today-in-short.html) |
+| 2026-05-01 | Billionaire Chris Larsen Plans to Spend $3.5 Million in NY House Race Amid Midterm Clash Over A.I. | NYT · AI | AI | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/us/politics/alex-bores-chris-larsen-open-ai-jack-schlossberg.html) |
+| 2026-05-01 | Why So Many People Already Own Shares of Elon Musk’s SpaceX | NYT · AI | AI | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/technology/elon-musk-spacex-private-company-stock.html) |
+| 2026-05-01 | OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM | NYT · AI | AI | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/podcasts/hardfork-openai-doctors-talkie.html) |
+| 2026-05-01 | Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores | NYT · Business | Business | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html) |
+| 2026-05-01 | Pentagon Makes Deals With A.I. Companies to Expand Classified Work | NYT · AI | AI | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html) |
+| 2026-05-01 | Spirit Airlines Shuts Down After Years of Struggle | NYT · Business | Business | news | 2026-05-02 | [link](https://www.nytimes.com/2026/05/02/business/spirit-airlines-shutdown.html) |
+| 2026-05-01 | In Permissive Amsterdam, Ads for Fossil Fuels or Meat Are Now Verboden | NYT · Energy & Environment | Energy & Environment | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/climate/in-permissive-amsterdam-ads-for-fossil-fuels-or-meat-are-now-verboden.html) |
+| 2026-05-01 | After Prison, a Financial Titan Plots an Unlikely Comeback | NYT · Business | Business | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/business/after-prison-a-financial-titan-plots-an-unlikely-comeback.html) |
+| 2026-05-01 | OpenAI’s New Model Spurs Debate Over Computing Power | NYT · AI | AI | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/business/dealbook/openai-anthropic-compute.html) |
+| 2026-05-01 | Meta Deal Reversal Deepens Split Between China and Silicon Valley | NYT · Business | Business | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html) |
+| 2026-05-01 | The World’s Central Banks Are Wrestling With a Gigantic Problem | NYT · Business | Business | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/business/iran-war-interest-rates-central-banks.html) |
+| 2026-05-01 | Trump Is the One Without the Cards at the Poker Table | NYT · AI | AI | opinion | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/opinion/trump-iran-artificial-intelligence-china.html) |
+| 2026-05-01 | There’s a 900-Year-Old Answer to Our Most Modern Problem | NYT · Opinion | Opinion | opinion | 2026-05-01 | [link](https://www.nytimes.com/2026/04/30/opinion/ai-crimes-law.html) |
+| 2026-05-01 | N.I.H. Reinstates Employee Put on Leave After Criticizing Trump Research Cuts | NYT · Politics | Politics | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/us/politics/trump-jenna-norton-nih.html) |
+| 2026-05-01 | How A.I. Data Centers Are Building a New Political Coalition | NYT · AI | AI | news | 2026-05-01 | [link](https://www.nytimes.com/video/us/100000010828227/how-ai-data-centers-are-building-a-new-political-coalition.html) |
+| 2026-05-01 | A.I. Spending Sets a Record, With No End in Sight | NYT · Technology | Technology | news | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/technology/ai-spending-tech-data-centers.html) |
+| 2026-05-01 | Spirit Airlines Prepares to Shut Down After Trump Administration Bailout Falls Through | NYT · Business | Business | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/business/spirit-airlines-shutting-down.html) |
+| 2026-05-01 | Spirit Airlines Should Die. Why Is Trump Trying to Save It? | NYT · Opinion | Opinion | opinion | 2026-04-29 | [link](https://www.nytimes.com/2026/04/29/opinion/spirit-airlines-trump-bailout-auto.html) |
+| 2026-05-01 | Forest Service Research Labs Are Closing | NYT · Energy & Environment | Energy & Environment | news | 2026-05-01 | [link](https://www.nytimes.com/2026/04/30/climate/forest-service-labs-wildfire-research.html) |
+| 2026-05-01 | iNaturalist Sightings | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-01 | [link](https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything) |
+| 2026-05-01 | Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-01 | [link](https://www.bbc.com/news/articles/c5y7yvgy0w6o) |
+| 2026-05-01 | The Talk Show: ‘Food and Beverage Director’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-01 | [link](https://daringfireball.net/thetalkshow/2026/04/30/ep-446) |
+| 2026-05-01 | NHS Goes To War Against Open Source | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-05-01 | [link](https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/) |
+| 2026-05-01 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-04-30 | Claude Code refuses requests or charges extra if your commits mention "OpenClaw" | HN | Technology | tech | 2026-04-30 | [link](https://twitter.com/theo/status/2049645973350363168) |
 | 2026-04-30 | Belgium stops decommissioning nuclear power plants | HN | Technology | tech | 2026-04-30 | [link](https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/) |
 | 2026-04-30 | Can I disable all data collection from my vehicle? | HN | Technology | tech | 2026-04-30 | [link](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle) |

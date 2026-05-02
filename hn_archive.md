@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-01 · 367 days · 3670 stories*
+*Last updated: 2026-05-02 · 368 days · 3680 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-01 | Friday | 1 | The gay jailbreak technique (2025) | 550 | 230 | Technology | [link](https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md) · [HN](https://news.ycombinator.com/item?id=47977134) |
+| 2026-05-01 | Friday | 2 | Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables | 512 | 153 | Technology | [link](https://github.com/darrylmorley/whatcable) · [HN](https://news.ycombinator.com/item?id=47972511) |
+| 2026-05-01 | Friday | 3 | Ti-84 Evo | 499 | 410 | Technology | [link](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo) · [HN](https://news.ycombinator.com/item?id=47979583) |
+| 2026-05-01 | Friday | 4 | City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo | 420 | 115 | Technology | [link](https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/) · [HN](https://news.ycombinator.com/item?id=47978370) |
+| 2026-05-01 | Friday | 5 | Grok 4.3 | 388 | 520 | Technology | [link](https://docs.x.ai/developers/models/grok-4.3) · [HN](https://news.ycombinator.com/item?id=47972447) |
+| 2026-05-01 | Friday | 6 | Uber torches 2026 AI budget on Claude Code in four months | 386 | 456 | Technology | [link](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/) · [HN](https://news.ycombinator.com/item?id=47976415) |
+| 2026-05-01 | Friday | 7 | New research suggests people can communicate and practice skills while dreaming | 385 | 228 | Technology | [link](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we) · [HN](https://news.ycombinator.com/item?id=47977748) |
+| 2026-05-01 | Friday | 8 | AI uses less water than the public thinks | 380 | 359 | Technology | [link](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/) · [HN](https://news.ycombinator.com/item?id=47977383) |
+| 2026-05-01 | Friday | 9 | Apple accidentally left Claude.md files Apple Support app | 372 | 313 | Technology | [link](https://x.com/aaronp613/status/2049986504617820551) · [HN](https://news.ycombinator.com/item?id=47973378) |
+| 2026-05-01 | Friday | 10 | Ask HN: Who is hiring? (May 2026) | 278 | 293 | Technology | [link](https://news.ycombinator.com/item?id=47975571) · [HN](https://news.ycombinator.com/item?id=47975571) |
 | 2026-04-30 | Thursday | 1 | Claude Code refuses requests or charges extra if your commits mention "OpenClaw" | 1307 | 705 | Technology | [link](https://twitter.com/theo/status/2049645973350363168) · [HN](https://news.ycombinator.com/item?id=47963204) |
 | 2026-04-30 | Thursday | 2 | Belgium stops decommissioning nuclear power plants | 851 | 947 | Technology | [link](https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/) · [HN](https://news.ycombinator.com/item?id=47961319) |
 | 2026-04-30 | Thursday | 3 | Can I disable all data collection from my vehicle? | 722 | 328 | Technology | [link](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle) · [HN](https://news.ycombinator.com/item?id=47967786) |
