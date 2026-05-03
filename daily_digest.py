@@ -3,8 +3,8 @@
 Daily Digest - personal news digest generator.
 
 Outputs:
-  - digest_YYYY-MM-DD.html
-  - digest_YYYY-MM-DD.md
+  - daily_html/digest_YYYY-MM-DD.html
+  - daily_md/digest_YYYY-MM-DD.md
   - index.html
   - hn_archive.md / hn_archive_data.json
   - dd_archive.md / dd_archive_data.json
@@ -57,6 +57,8 @@ except Exception:
 
 SCRIPT_DIR = Path(__file__).parent.resolve()
 CONFIG_FILE = SCRIPT_DIR / "config.json"
+DAILY_HTML_DIR = SCRIPT_DIR / "daily_html"
+DAILY_MD_DIR = SCRIPT_DIR / "daily_md"
 
 DEFAULT_CONFIG = {
     "settings": {
@@ -1225,8 +1227,8 @@ def push_to_github(date, config):
         return
     try:
         files = [
-            f"digest_{date.isoformat()}.html",
-            f"digest_{date.isoformat()}.md",
+            str(Path("daily_html") / f"digest_{date.isoformat()}.html"),
+            str(Path("daily_md") / f"digest_{date.isoformat()}.md"),
             "index.html",
             "hn_archive.md",
             "hn_archive.xlsx",
@@ -1269,7 +1271,7 @@ def main(target_date=None):
     print(f"  Fetching content for: {date}\n")
 
     print("  [1/6] HackerNews...")
-    hn = fetch_hackernews(n=int(settings.get("hn_digest_count", 10)), date=date)
+    hn = fetch_hackernews(n=int(settings.get("hn_digest_count", 16)), date=date)
 
     print("  [2/6] NYT / WSJ ranker...")
     nyt_wsj = _run_nyt_wsj_ranker(date, settings)
@@ -1290,8 +1292,8 @@ def main(target_date=None):
     }
     publishable = _has_publishable_content(data)
 
-    html_path = SCRIPT_DIR / f"digest_{date.isoformat()}.html"
-    md_path = SCRIPT_DIR / f"digest_{date.isoformat()}.md"
+    html_path = DAILY_HTML_DIR / f"digest_{date.isoformat()}.html"
+    md_path = DAILY_MD_DIR / f"digest_{date.isoformat()}.md"
     index_path = SCRIPT_DIR / "index.html"
     preserve_existing_outputs = (
         not publishable
@@ -1308,21 +1310,25 @@ def main(target_date=None):
         try:
             if html_path.exists():
                 html_doc = html_path.read_text(encoding="utf-8")
+            elif index_path.exists():
+                html_doc = index_path.read_text(encoding="utf-8")
             if md_path.exists():
                 markdown = md_path.read_text(encoding="utf-8")
         except Exception as e:
             print(f"  [Output] Error reading preserved digest files: {e}")
     else:
         try:
+            DAILY_HTML_DIR.mkdir(parents=True, exist_ok=True)
+            DAILY_MD_DIR.mkdir(parents=True, exist_ok=True)
             with open(html_path, "w", encoding="utf-8") as f:
                 f.write(html_doc)
             with open(index_path, "w", encoding="utf-8") as f:
                 f.write(html_doc)
             with open(md_path, "w", encoding="utf-8") as f:
                 f.write(markdown)
-            print(f"  Saved HTML:     {html_path.name}")
+            print(f"  Saved HTML:     {html_path.relative_to(SCRIPT_DIR)}")
             print("  Saved index.html")
-            print(f"  Saved Markdown: {md_path.name}")
+            print(f"  Saved Markdown: {md_path.relative_to(SCRIPT_DIR)}")
         except Exception as e:
             print(f"  [Output] Error writing digest files: {e}")
 

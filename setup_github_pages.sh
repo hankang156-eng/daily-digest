@@ -78,10 +78,11 @@ fi
 
 # ── 4. Initial commit ────────────────────────────────────────────────────────
 git add index.html .gitignore requirements.txt README.md \
-        daily_digest.py hn_historical.py setup_github_pages.sh \
+        daily_digest.py nyt_wsj_rss_ranker.py blog_reading_ranker.py \
+        hn_historical.py setup_github_pages.sh \
         hn_archive_sample.py run_digest.sh setup_launchagent.sh \
         com.michelle.dailydigest.plist hn_archive.md hn_archive.xlsx \
-        dd_archive.md dd_archive.xlsx 2>/dev/null || true
+        dd_archive.md dd_archive.xlsx daily_html daily_md output 2>/dev/null || true
 git commit -m "initial setup" 2>/dev/null || echo "  (nothing new to commit)"
 
 # ── 5. Instructions ──────────────────────────────────────────────────────────

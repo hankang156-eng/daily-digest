@@ -26,8 +26,8 @@ tail -80 digest.log
 
 | File | Description |
 |------|-------------|
-| `digest_YYYY-MM-DD.html` | Styled web/mobile digest |
-| `digest_YYYY-MM-DD.md` | Obsidian-friendly markdown digest |
+| `daily_html/digest_YYYY-MM-DD.html` | Styled web/mobile digest |
+| `daily_md/digest_YYYY-MM-DD.md` | Obsidian-friendly markdown digest |
 | `index.html` | Exact copy of the latest digest for GitHub Pages |
 | `hn_archive.md` / `hn_archive.xlsx` | HN top-10 archive views |
 | `hn_archive_data.json` | Raw HN archive data |
