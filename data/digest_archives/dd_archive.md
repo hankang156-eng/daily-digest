@@ -1,9 +1,50 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-03 · 215 items*
+*Last updated: 2026-05-04 · 256 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-03 | Mercedes-Benz commits to bringing back physical buttons | HN | Technology | tech | 2026-05-03 | [link](https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/) |
+| 2026-05-03 | DeepClaude – Claude Code agent loop with DeepSeek V4 Pro | HN | Technology | tech | 2026-05-03 | [link](https://github.com/aattaran/deepclaude) |
+| 2026-05-03 | Let's Buy Spirit Air | HN | Technology | tech | 2026-05-03 | [link](https://letsbuyspiritair.com/) |
+| 2026-05-03 | New statue in London, attributed to Banksy, of a suited man, blinded by a flag | HN | Technology | tech | 2026-05-03 | [link](https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/) |
+| 2026-05-03 | BYOMesh – New LoRa mesh radio offers 100x the bandwidth | HN | Technology | tech | 2026-05-03 | [link](https://partyon.xyz/@nullagent/116499715071759135) |
+| 2026-05-03 | A desktop made for one | HN | Technology | tech | 2026-05-03 | [link](https://isene.org/2026/05/Audience-of-One.html) |
+| 2026-05-03 | Agentic Coding Is a Trap | HN | Technology | tech | 2026-05-03 | [link](https://larsfaye.com/articles/agentic-coding-is-a-trap) |
+| 2026-05-03 | Why TUIs are back | HN | Technology | tech | 2026-05-03 | [link](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/) |
+| 2026-05-03 | Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge | HN | Technology | tech | 2026-05-03 | [link](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/) |
+| 2026-05-03 | Southwest Headquarters Tour | HN | Technology | tech | 2026-05-03 | [link](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html) |
+| 2026-05-03 | Metal Gear Solid 2's source code has been leaked on 4chan | HN | Technology | tech | 2026-05-03 | [link](https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/) |
+| 2026-05-03 | Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML | HN | Technology | tech | 2026-05-03 | [link](https://acai.sh/blog/specsmaxxing) |
+| 2026-05-03 | The text mode lie: why modern TUIs are a nightmare for accessibility | HN | Technology | tech | 2026-05-03 | [link](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility) |
+| 2026-05-03 | Utah to hold websites liable for users who mask their location with VPNs | HN | Technology | tech | 2026-05-03 | [link](https://www.tomshardware.com/software/vpn/utah-becomes-first-us-state-to-target-vpn-use-with-age-verification-law) |
+| 2026-05-03 | For thirty years I programmed with Phish on, every day | HN | Technology | tech | 2026-05-03 | [link](https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html) |
+| 2026-05-03 | The 'Hidden' Costs of Great Abstractions | HN | Technology | tech | 2026-05-03 | [link](https://jdgr.net/the-hidden-costs-of-great-abstractions) |
+| 2026-05-03 | White House Considers Vetting A.I. Models Before They Are Released | NYT · AI | AI | news | 2026-05-04 | [link](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html) |
+| 2026-05-03 | One Issue Uniting Democrats and Republicans? Worries About A.I. | NYT · AI | AI | news | 2026-05-03 | [link](https://www.nytimes.com/2026/05/03/us/politics/democrats-republicans-ai.html) |
+| 2026-05-03 | Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm | NYT · AI | AI | news | 2026-05-04 | [link](https://www.nytimes.com/2026/05/04/business/anthropic-blackstone-goldman-sachs-artificial-intelligence-firm.html) |
+| 2026-05-03 | Inquiry Into Fed Chair Jerome Powell Could Be Resurrected, Jeanine Pirro Says | NYT · Politics | Politics | news | 2026-05-03 | [link](https://www.nytimes.com/2026/05/03/us/politics/justice-department-fed-chair-powell-inquiry-pirro.html) |
+| 2026-05-03 | Trump Administration Sues Minnesota to Block Climate Lawsuit | NYT · Energy & Environment | Energy & Environment | news | 2026-05-04 | [link](https://www.nytimes.com/2026/05/04/climate/trump-minnesota-climate-lawsuit.html) |
+| 2026-05-03 | This Is What Should Unite the Right and the Left on A.I. | NYT · AI | AI | opinion | 2026-05-04 | [link](https://www.nytimes.com/2026/05/04/opinion/ai-national-security-risk-politics.html) |
+| 2026-05-03 | What Was Discussed at Google’s White House Meeting About A.I. | NYT · AI | AI | news | 2026-05-04 | [link](https://www.nytimes.com/2026/05/04/business/dealbook/google-ai-white-house.html) |
+| 2026-05-03 | In Permissive Amsterdam, Ads for Fossil Fuels or Meat Are Now Verboden | NYT · Energy & Environment | Energy & Environment | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/climate/in-permissive-amsterdam-ads-for-fossil-fuels-or-meat-are-now-verboden.html) |
+| 2026-05-03 | How A.I. Is Transforming China’s Entertainment Industry | NYT · AI | AI | news | 2026-05-03 | [link](https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html) |
+| 2026-05-03 | Supreme Court Temporarily Restores Access to Abortion Pill by Mail | NYT · Politics | Politics | news | 2026-05-04 | [link](https://www.nytimes.com/2026/05/04/us/politics/supreme-court-abortion-pill.html) |
+| 2026-05-03 | Why the A.I. Job Apocalypse (Probably) Won’t Happen | NYT · AI | AI | opinion | 2026-05-04 | [link](https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html) |
+| 2026-05-03 | Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores | NYT · Business | Business | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html) |
+| 2026-05-03 | Stocks Sink in Broad AI Rout Sparked by China's DeepSeek | WSJ · Markets | Markets | news | 2025-01-27 | [link](https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main) |
+| 2026-05-03 | Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins | WSJ · Markets | Markets | news | 2025-01-26 | [link](https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main) |
+| 2026-05-03 | DeepSeek’s Sequel | NYT · AI | AI | news | 2026-05-04 | [link](https://www.nytimes.com/2026/05/03/world/deepseek-china-ai-iran-india-elections.html) |
+| 2026-05-03 | A.I. Shakes Up China’s Entertainment Landscape | NYT · AI | AI | news | 2026-05-03 | [link](https://www.nytimes.com/video/world/asia/100000010844213/china-ai-entertainment-microdrama.html) |
+| 2026-05-03 | MAHA Awaits Robert F. Kennedy Jr.’s Definition of Ultraprocessed Foods | NYT · Business | Business | news | 2026-05-03 | [link](https://www.nytimes.com/2026/05/03/business/ultraprocessed-foods-rfk-maha.html) |
+| 2026-05-03 | A.I. Bots Told Scientists How to Make Biological Weapons | NYT · Technology | Technology | news | 2026-05-04 | [link](https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html) |
+| 2026-05-03 | OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM | NYT · Technology | Technology | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/podcasts/hardfork-openai-doctors-talkie.html) |
+| 2026-05-03 | Trump Administration Orders Rapid End to Hunting Regulations on Federal Lands | NYT · Energy & Environment | Energy & Environment | news | 2026-05-04 | [link](https://www.nytimes.com/2026/05/04/climate/hunting-federal-lands-burgum.html) |
+| 2026-05-03 | ★ Crimes Against Decency Need as Much Cover-Up as Crimes Against the Law | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-03 | [link](https://daringfireball.net/2026/05/crimes_against_decency_need_as_much_cover-up_as_crimes_against_the_law) |
+| 2026-05-03 | Quoting Anthropic | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-03 | [link](https://simonwillison.net/2026/May/3/anthropic/#atom-everything) |
+| 2026-05-03 | ‘2 Letters From Steve’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-03 | [link](https://davidgelphman.wordpress.com/2013/03/29/2-letters-from-steve/) |
+| 2026-05-03 | Vertically Aligning Roman Numerals in Code | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-05-03 | [link](https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/) |
+| 2026-05-03 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-02 | VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage | HN | Technology | tech | 2026-05-02 | [link](https://github.com/microsoft/vscode/pull/310226) |
 | 2026-05-02 | Why does it take so long to release black fan versions? | HN | Technology | tech | 2026-05-02 | [link](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions) |
 | 2026-05-02 | Ask.com has closed | HN | Technology | tech | 2026-05-02 | [link](https://www.ask.com/) |

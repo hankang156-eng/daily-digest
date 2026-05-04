@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-03 · 369 days · 3690 stories*
+*Last updated: 2026-05-04 · 370 days · 3700 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-03 | Sunday | 1 | Mercedes-Benz commits to bringing back physical buttons | 825 | 481 | Technology | [link](https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/) · [HN](https://news.ycombinator.com/item?id=47997418) |
+| 2026-05-03 | Sunday | 2 | DeepClaude – Claude Code agent loop with DeepSeek V4 Pro | 631 | 266 | Technology | [link](https://github.com/aattaran/deepclaude) · [HN](https://news.ycombinator.com/item?id=48002136) |
+| 2026-05-03 | Sunday | 3 | Let's Buy Spirit Air | 553 | 526 | Technology | [link](https://letsbuyspiritair.com/) · [HN](https://news.ycombinator.com/item?id=48002777) |
+| 2026-05-03 | Sunday | 4 | New statue in London, attributed to Banksy, of a suited man, blinded by a flag | 532 | 523 | Technology | [link](https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/) · [HN](https://news.ycombinator.com/item?id=48000152) |
+| 2026-05-03 | Sunday | 5 | BYOMesh – New LoRa mesh radio offers 100x the bandwidth | 459 | 149 | Technology | [link](https://partyon.xyz/@nullagent/116499715071759135) · [HN](https://news.ycombinator.com/item?id=47999636) |
+| 2026-05-03 | Sunday | 6 | A desktop made for one | 422 | 241 | Technology | [link](https://isene.org/2026/05/Audience-of-One.html) · [HN](https://news.ycombinator.com/item?id=47997947) |
+| 2026-05-03 | Sunday | 7 | Agentic Coding Is a Trap | 413 | 329 | Technology | [link](https://larsfaye.com/articles/agentic-coding-is-a-trap) · [HN](https://news.ycombinator.com/item?id=48002442) |
+| 2026-05-03 | Sunday | 8 | Why TUIs are back | 401 | 406 | Technology | [link](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/) · [HN](https://news.ycombinator.com/item?id=48000028) |
+| 2026-05-03 | Sunday | 9 | Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge | 373 | 218 | Technology | [link](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/) · [HN](https://news.ycombinator.com/item?id=47993235) |
+| 2026-05-03 | Sunday | 10 | Southwest Headquarters Tour | 312 | 94 | Technology | [link](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html) · [HN](https://news.ycombinator.com/item?id=47998946) |
 | 2026-05-02 | Saturday | 1 | VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage | 1075 | 508 | Technology | [link](https://github.com/microsoft/vscode/pull/310226) · [HN](https://news.ycombinator.com/item?id=47989883) |
 | 2026-05-02 | Saturday | 2 | Why does it take so long to release black fan versions? | 717 | 291 | Technology | [link](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions) · [HN](https://news.ycombinator.com/item?id=47983352) |
 | 2026-05-02 | Saturday | 3 | Ask.com has closed | 447 | 222 | Technology | [link](https://www.ask.com/) · [HN](https://news.ycombinator.com/item?id=47983226) |
