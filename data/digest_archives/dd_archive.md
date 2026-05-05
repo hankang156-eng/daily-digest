@@ -1,9 +1,52 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-04 · 256 items*
+*Last updated: 2026-05-05 · 299 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-04 | Talking to strangers at the gym | HN | Technology | tech | 2026-05-04 | [link](https://thienantran.com/talking-to-35-strangers-at-the-gym/) |
+| 2026-05-04 | GameStop makes $55.5B takeover offer for eBay | HN | Technology | tech | 2026-05-04 | [link](https://www.bbc.co.uk/news/articles/cn0p8yled1do) |
+| 2026-05-04 | Trademark violation: Fake Notepad++ for Mac | HN | Technology | tech | 2026-05-04 | [link](https://notepad-plus-plus.org/news/npp-trademark-infringement/) |
+| 2026-05-04 | Bun is being ported from Zig to Rust | HN | Technology | tech | 2026-05-04 | [link](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5) |
+| 2026-05-04 | Microsoft Edge stores all passwords in memory in clear text, even when unused | HN | Technology | tech | 2026-05-04 | [link](https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730) |
+| 2026-05-04 | Removable batteries in smartphones will be mandatory in the EU starting in 2027 | HN | Technology | tech | 2026-05-04 | [link](https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/) |
+| 2026-05-04 | I am worried about Bun | HN | Technology | tech | 2026-05-04 | [link](https://wwj.dev/posts/i-am-worried-about-bun/) |
+| 2026-05-04 | US healthcare marketplaces shared citizenship and race data with ad tech giants | HN | Technology | tech | 2026-05-04 | [link](https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/) |
+| 2026-05-04 | Incident with Issues and Webhooks – Resolved | HN | Technology | tech | 2026-05-04 | [link](https://www.githubstatus.com/incidents/72q3n8yxthcy) |
+| 2026-05-04 | How OpenAI delivers low-latency voice AI at scale | HN | Technology | tech | 2026-05-04 | [link](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/) |
+| 2026-05-04 | Days without GitHub incidents | HN | Technology | tech | 2026-05-04 | [link](https://www.dayswithoutgithubincident.com/) |
+| 2026-05-04 | Y Combinator's Stake in OpenAI (0.6%?) | HN | Technology | tech | 2026-05-04 | [link](https://daringfireball.net/2026/05/y_combinators_stake_in_openai) |
+| 2026-05-04 | Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks | HN | Technology | tech | 2026-05-04 | [link](https://www.nber.org/papers/w35117) |
+| 2026-05-04 | Redis array: short story of a long development process | HN | Technology | tech | 2026-05-04 | [link](https://antirez.com/news/164) |
+| 2026-05-04 | How Monero’s proof of work works | HN | Technology | tech | 2026-05-04 | [link](https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works) |
+| 2026-05-04 | PyInfra 3.8.0 | HN | Technology | tech | 2026-05-04 | [link](https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0) |
+| 2026-05-04 | White House Considers Vetting A.I. Models Before They Are Released | NYT · AI | AI | news | 2026-05-04 | [link](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html) |
+| 2026-05-04 | Behind the Trump Administration’s Potential Rethink on A.I. | NYT · AI | AI | news | 2026-05-05 | [link](https://www.nytimes.com/2026/05/05/business/dealbook/trump-ai-regulation.html) |
+| 2026-05-04 | Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm | NYT · AI | AI | news | 2026-05-05 | [link](https://www.nytimes.com/2026/05/04/business/anthropic-blackstone-goldman-sachs-artificial-intelligence-firm.html) |
+| 2026-05-04 | Why A.I. Will Never Replace Your Doctor | NYT · AI | AI | opinion | 2026-05-05 | [link](https://www.nytimes.com/2026/05/05/opinion/ai-doctor.html) |
+| 2026-05-04 | Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores | NYT · Business | Business | news | 2026-05-04 | [link](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html) |
+| 2026-05-04 | Trump Administration Sues Minnesota to Block Climate Lawsuit | NYT · Energy & Environment | Energy & Environment | news | 2026-05-04 | [link](https://www.nytimes.com/2026/05/04/climate/trump-minnesota-climate-lawsuit.html) |
+| 2026-05-04 | Elon Musk’s Lawyers Ask OpenAI’s President Why He Is Worth $30 Billion | NYT · AI | AI | news | 2026-05-04 | [link](https://www.nytimes.com/2026/05/04/technology/elon-musk-greg-brockman-openai-trial.html) |
+| 2026-05-04 | This Is What Should Unite the Right and the Left on A.I. | NYT · AI | AI | opinion | 2026-05-04 | [link](https://www.nytimes.com/2026/05/04/opinion/ai-national-security-risk-politics.html) |
+| 2026-05-04 | What Was Discussed at Google’s White House Meeting About A.I. | NYT · AI | AI | news | 2026-05-04 | [link](https://www.nytimes.com/2026/05/04/business/dealbook/google-ai-white-house.html) |
+| 2026-05-04 | Supreme Court Temporarily Restores Access to Abortion Pill by Mail | NYT · Politics | Politics | news | 2026-05-04 | [link](https://www.nytimes.com/2026/05/04/us/politics/supreme-court-abortion-pill.html) |
+| 2026-05-04 | As Oil Prices Stay High, China Doubles Down on Wind Power | NYT · Business | Business | news | 2026-05-05 | [link](https://www.nytimes.com/2026/05/05/business/china-wind-turbines.html) |
+| 2026-05-04 | Why the A.I. Job Apocalypse (Probably) Won’t Happen | NYT · AI | AI | opinion | 2026-05-04 | [link](https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html) |
+| 2026-05-04 | In Permissive Amsterdam, Ads for Fossil Fuels or Meat Are Now Verboden | NYT · Energy & Environment | Energy & Environment | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/climate/in-permissive-amsterdam-ads-for-fossil-fuels-or-meat-are-now-verboden.html) |
+| 2026-05-04 | Stocks Sink in Broad AI Rout Sparked by China's DeepSeek | WSJ · Markets | Markets | news | 2025-01-27 | [link](https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main) |
+| 2026-05-04 | DeepSeek’s Sequel | NYT · AI | AI | news | 2026-05-04 | [link](https://www.nytimes.com/2026/05/03/world/deepseek-china-ai-iran-india-elections.html) |
+| 2026-05-04 | This Trump Proposal is Good for Private Equity — and Not Good for Our Retirement Accounts | NYT · Opinion | Opinion | opinion | 2026-05-05 | [link](https://www.nytimes.com/2026/05/05/opinion/trump-retirement-private-equity-401k.html) |
+| 2026-05-04 | A.I. Bots Told Scientists How to Make Biological Weapons | NYT · Technology | Technology | news | 2026-05-04 | [link](https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html) |
+| 2026-05-04 | How A.I. Is Transforming China’s Entertainment Industry | NYT · AI | AI | news | 2026-05-03 | [link](https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html) |
+| 2026-05-04 | A Top 2026 Senate Race Kicks Off With Attacks About Jeffrey Epstein | NYT · Politics | Politics | news | 2026-05-05 | [link](https://www.nytimes.com/2026/05/05/us/politics/ohio-senate-jeffrey-epstein-john-husted-sherrod-brown.html) |
+| 2026-05-04 | Asked and Answered | NYT · AI | AI | news | 2026-05-04 | [link](https://www.nytimes.com/2026/05/04/briefing/news-questions-answered.html) |
+| 2026-05-04 | The Innovation Advantage GenAI Can’t Give You | MIT Sloan Review · Strategy & Craft | Business | analysis | 2026-05-04 | [link](https://sloanreview.mit.edu/article/the-innovation-advantage-genai-cant-give-you/) |
+| 2026-05-04 | April 2026 newsletter | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-04 | [link](https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything) |
+| 2026-05-04 | TRE Python binding — ReDoS robustness demo | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-04 | [link](https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything) |
+| 2026-05-04 | Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-04 | [link](https://www.axios.com/2025/04/22/ai-anthropic-virtual-employees-security) |
+| 2026-05-04 | Commits on GitHub Are Up 14× Year-Over-Year | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-04 | [link](https://daringfireball.net/linked/2026/03/13/amodei-ai-code-claim-chowder) |
+| 2026-05-04 | [RSS Club] Where are you from? | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-05-04 | [link](https://shkspr.mobi/blog/2026/05/rss-club-where-are-you-from/) |
+| 2026-05-04 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-03 | Mercedes-Benz commits to bringing back physical buttons | HN | Technology | tech | 2026-05-03 | [link](https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/) |
 | 2026-05-03 | DeepClaude – Claude Code agent loop with DeepSeek V4 Pro | HN | Technology | tech | 2026-05-03 | [link](https://github.com/aattaran/deepclaude) |
 | 2026-05-03 | Let's Buy Spirit Air | HN | Technology | tech | 2026-05-03 | [link](https://letsbuyspiritair.com/) |

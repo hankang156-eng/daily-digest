@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-04 · 370 days · 3700 stories*
+*Last updated: 2026-05-05 · 371 days · 3710 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-04 | Monday | 1 | Talking to strangers at the gym | 1394 | 670 | Technology | [link](https://thienantran.com/talking-to-35-strangers-at-the-gym/) · [HN](https://news.ycombinator.com/item?id=48007438) |
+| 2026-05-04 | Monday | 2 | GameStop makes $55.5B takeover offer for eBay | 683 | 647 | Technology | [link](https://www.bbc.co.uk/news/articles/cn0p8yled1do) · [HN](https://news.ycombinator.com/item?id=48006402) |
+| 2026-05-04 | Monday | 3 | Trademark violation: Fake Notepad++ for Mac | 612 | 288 | Technology | [link](https://notepad-plus-plus.org/news/npp-trademark-infringement/) · [HN](https://news.ycombinator.com/item?id=48006445) |
+| 2026-05-04 | Monday | 4 | Bun is being ported from Zig to Rust | 584 | 412 | Technology | [link](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5) · [HN](https://news.ycombinator.com/item?id=48016880) |
+| 2026-05-04 | Monday | 5 | Microsoft Edge stores all passwords in memory in clear text, even when unused | 572 | 197 | Technology | [link](https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730) · [HN](https://news.ycombinator.com/item?id=48012735) |
+| 2026-05-04 | Monday | 6 | Removable batteries in smartphones will be mandatory in the EU starting in 2027 | 561 | 511 | Technology | [link](https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/) · [HN](https://news.ycombinator.com/item?id=48009697) |
+| 2026-05-04 | Monday | 7 | I am worried about Bun | 498 | 324 | Technology | [link](https://wwj.dev/posts/i-am-worried-about-bun/) · [HN](https://news.ycombinator.com/item?id=48011184) |
+| 2026-05-04 | Monday | 8 | US healthcare marketplaces shared citizenship and race data with ad tech giants | 488 | 155 | Technology | [link](https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/) · [HN](https://news.ycombinator.com/item?id=48011689) |
+| 2026-05-04 | Monday | 9 | Incident with Issues and Webhooks – Resolved | 423 | 260 | Technology | [link](https://www.githubstatus.com/incidents/72q3n8yxthcy) · [HN](https://news.ycombinator.com/item?id=48010301) |
+| 2026-05-04 | Monday | 10 | How OpenAI delivers low-latency voice AI at scale | 423 | 133 | Technology | [link](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/) · [HN](https://news.ycombinator.com/item?id=48013919) |
 | 2026-05-03 | Sunday | 1 | Mercedes-Benz commits to bringing back physical buttons | 825 | 481 | Technology | [link](https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/) · [HN](https://news.ycombinator.com/item?id=47997418) |
 | 2026-05-03 | Sunday | 2 | DeepClaude – Claude Code agent loop with DeepSeek V4 Pro | 631 | 266 | Technology | [link](https://github.com/aattaran/deepclaude) · [HN](https://news.ycombinator.com/item?id=48002136) |
 | 2026-05-03 | Sunday | 3 | Let's Buy Spirit Air | 553 | 526 | Technology | [link](https://letsbuyspiritair.com/) · [HN](https://news.ycombinator.com/item?id=48002777) |
