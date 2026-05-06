@@ -1,9 +1,53 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-05 · 299 items*
+*Last updated: 2026-05-06 · 343 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-05 | Google Chrome silently installs a 4 GB AI model on your device without consent | HN | Technology | tech | 2026-05-05 | [link](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/) |
+| 2026-05-05 | DNSSEC disruption affecting .de domains – Resolved | HN | Technology | tech | 2026-05-05 | [link](https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38) |
+| 2026-05-05 | Accelerating Gemma 4: faster inference with multi-token prediction drafters | HN | Technology | tech | 2026-05-05 | [link](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/) |
+| 2026-05-05 | StarFighter 16-Inch | HN | Technology | tech | 2026-05-05 | [link](https://us.starlabs.systems/pages/starfighter) |
+| 2026-05-05 | Agents can now create Cloudflare accounts, buy domains, and deploy | HN | Technology | tech | 2026-05-05 | [link](https://blog.cloudflare.com/agents-stripe-projects/) |
+| 2026-05-05 | AI didn't delete your database, you did | HN | Technology | tech | 2026-05-05 | [link](https://idiallo.com/blog/ai-didnt-delete-your-database-you-did) |
+| 2026-05-05 | Three Inverse Laws of AI | HN | Technology | tech | 2026-05-05 | [link](https://susam.net/inverse-laws-of-robotics.html) |
+| 2026-05-05 | Computer Use is 45x more expensive than structured APIs | HN | Technology | tech | 2026-05-05 | [link](https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/) |
+| 2026-05-05 | Today I've made the difficult decision to reduce the size of Coinbase by ~14% | HN | Technology | tech | 2026-05-05 | [link](https://twitter.com/brian_armstrong/status/2051616759145185723) |
+| 2026-05-05 | Train Your Own LLM from Scratch | HN | Technology | tech | 2026-05-05 | [link](https://github.com/angelos-p/llm-from-scratch) |
+| 2026-05-05 | Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement | HN | Technology | tech | 2026-05-05 | [link](https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/) |
+| 2026-05-05 | Async Rust never left the MVP state | HN | Technology | tech | 2026-05-05 | [link](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state) |
+| 2026-05-05 | iOS 27 is adding a 'Create a Pass' button to Apple Wallet | HN | Technology | tech | 2026-05-05 | [link](https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/) |
+| 2026-05-05 | When everyone has AI and the company still learns nothing | HN | Technology | tech | 2026-05-05 | [link](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/) |
+| 2026-05-05 | IBM didn't want Microsoft to use the Tab key to move between dialog fields | HN | Technology | tech | 2026-05-05 | [link](https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298) |
+| 2026-05-05 | California farmers to destroy 420k peach trees following Del Monte bankruptcy | HN | Technology | tech | 2026-05-05 | [link](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php) |
+| 2026-05-05 | Five Publishers and Scott Turow Sue Meta and Mark Zuckerberg | NYT · AI | AI | news | 2026-05-05 | [link](https://www.nytimes.com/2026/05/05/books/publishers-turow-meta-zuckerberg-lawsuit-copyright.html) |
+| 2026-05-05 | The Federal Safety Net Isn’t Ready for Artificial Intelligence | NYT · AI | AI | news | 2026-05-05 | [link](https://www.nytimes.com/2026/05/05/business/artificial-intelligence-safety-net.html) |
+| 2026-05-05 | Apple Reaches $250 Million Settlement Over Claims It Misled People on A.I. | NYT · AI | AI | news | 2026-05-05 | [link](https://www.nytimes.com/2026/05/05/technology/apple-intelligence-lawsuit-settlement.html) |
+| 2026-05-05 | Behind the Trump Administration’s Potential Rethink on A.I. | NYT · Business | Business | news | 2026-05-05 | [link](https://www.nytimes.com/2026/05/05/business/dealbook/trump-ai-regulation.html) |
+| 2026-05-05 | The U.S. and China Have a Common Foe. Hint: It’s Not the U.S.S.R. | NYT · AI | AI | opinion | 2026-05-05 | [link](https://www.nytimes.com/2026/05/05/opinion/trump-xi-summit-ai-global-threats.html) |
+| 2026-05-05 | Disney Posts Strong Earnings Despite Slowdown in Park Visitors | NYT · Business | Business | news | 2026-05-06 | [link](https://www.nytimes.com/2026/05/06/business/media/disney-earnings.html) |
+| 2026-05-05 | Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm | NYT · Technology | Technology | news | 2026-05-05 | [link](https://www.nytimes.com/2026/05/04/business/anthropic-blackstone-goldman-sachs-artificial-intelligence-firm.html) |
+| 2026-05-05 | Why Is Gas So Much More Expensive in Some States Than Others? | NYT · Energy & Environment | Energy & Environment | news | 2026-05-06 | [link](https://www.nytimes.com/2026/05/06/business/energy-environment/gasoline-prices-states-iran-war.html) |
+| 2026-05-05 | F.A.A. Proposes Rule for Drone-Free Zones | NYT · Politics | Politics | news | 2026-05-05 | [link](https://www.nytimes.com/2026/05/05/us/politics/faa-drones-proposed-rule.html) |
+| 2026-05-05 | White House Considers Vetting A.I. Models Before They Are Released | NYT · Technology | Technology | news | 2026-05-04 | [link](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html) |
+| 2026-05-05 | American Factories Lag in Adopting A.I. This Drugmaker Is an Exception. | NYT · AI | AI | news | 2026-05-06 | [link](https://www.nytimes.com/2026/05/06/business/ai-bristol-myers-squibb-drugs.html) |
+| 2026-05-05 | Coinbase Lays Off 14% of Employees as A.I. Changes Work | NYT · AI | AI | news | 2026-05-05 | [link](https://www.nytimes.com/2026/05/05/technology/coinbase-layoffs-ai.html) |
+| 2026-05-05 | How A.I. Is Transforming China’s Entertainment Industry | NYT · AI | AI | news | 2026-05-05 | [link](https://www.nytimes.com/2026/05/03/world/asia/china-microdrama-ai-backlash.html) |
+| 2026-05-05 | Guido Reichstadter Comes Down From Frederick Douglass Memorial Bridge After 6 Days | NYT · AI | AI | news | 2026-05-06 | [link](https://www.nytimes.com/2026/05/06/us/guido-reichstadter-frederick-douglass-memorial-bridge.html) |
+| 2026-05-05 | Elon Musk Wanted OpenAI to Go Commercial, Greg Brockman Testifies | NYT · AI | AI | news | 2026-05-06 | [link](https://www.nytimes.com/2026/05/05/technology/openai-trial-elon-musk-greg-brockman.html) |
+| 2026-05-05 | Trump Administration Sues Minnesota to Block Climate Lawsuit | NYT · Energy & Environment | Energy & Environment | news | 2026-05-04 | [link](https://www.nytimes.com/2026/05/04/climate/trump-minnesota-climate-lawsuit.html) |
+| 2026-05-05 | Why A.I. Will Never Replace Your Doctor | NYT · Opinion | Opinion | opinion | 2026-05-05 | [link](https://www.nytimes.com/2026/05/05/opinion/ai-doctor.html) |
+| 2026-05-05 | Office of Virginia State Senator Louise Lucas Raided by F.B.I. Agents | NYT · Politics | Politics | news | 2026-05-06 | [link](https://www.nytimes.com/2026/05/06/us/politics/louise-lucas-fbi-raid.html) |
+| 2026-05-05 | This Trump Proposal is Good for Private Equity — and Not Good for Our Retirement Accounts | NYT · Opinion | Opinion | opinion | 2026-05-05 | [link](https://www.nytimes.com/2026/05/05/opinion/trump-retirement-private-equity-401k.html) |
+| 2026-05-05 | In Permissive Amsterdam, Ads for Fossil Fuels or Meat Are Now Verboden | NYT · Energy & Environment | Energy & Environment | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/climate/in-permissive-amsterdam-ads-for-fossil-fuels-or-meat-are-now-verboden.html) |
+| 2026-05-05 | Behind the AI in the Newsroom: The Washington Post’s Vineet Khosla | MIT Sloan Review · Strategy & Craft | Business | analysis | 2026-05-05 | [link](https://sloanreview.mit.edu/audio/behind-the-ai-in-the-newsroom-the-washington-posts-vineet-khosla/) |
+| 2026-05-05 | Our AI started a cafe in Stockholm | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-05 | [link](https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything) |
+| 2026-05-05 | [Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-05 | [link](https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) |
+| 2026-05-05 | Adobe’s ‘Modern’ User Interface Is Just Webpages | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-05 | [link](https://pxlnv.com/linklog/adobe-modern-user-interface/) |
+| 2026-05-05 | Quoting John Gruber | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-05 | [link](https://simonwillison.net/2026/May/5/john-gruber/#atom-everything) |
+| 2026-05-05 | RSS Feeds Send Me More Traffic Than Google | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-05-05 | [link](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/) |
+| 2026-05-05 | Mapping Strings to Float Arrays in Go: How Fast Can We Go? | Lemire.me · Tech & Engineering | Technology | tech | 2026-05-05 | [link](https://lemire.me/blog/2026/05/05/mapping-strings-to-float-arrays-in-go-how-fast-can-we-go/) |
+| 2026-05-05 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-04 | Talking to strangers at the gym | HN | Technology | tech | 2026-05-04 | [link](https://thienantran.com/talking-to-35-strangers-at-the-gym/) |
 | 2026-05-04 | GameStop makes $55.5B takeover offer for eBay | HN | Technology | tech | 2026-05-04 | [link](https://www.bbc.co.uk/news/articles/cn0p8yled1do) |
 | 2026-05-04 | Trademark violation: Fake Notepad++ for Mac | HN | Technology | tech | 2026-05-04 | [link](https://notepad-plus-plus.org/news/npp-trademark-infringement/) |

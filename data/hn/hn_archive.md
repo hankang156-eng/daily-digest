@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-05 · 371 days · 3710 stories*
+*Last updated: 2026-05-06 · 372 days · 3720 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-05 | Tuesday | 1 | Google Chrome silently installs a 4 GB AI model on your device without consent | 1595 | 1057 | Technology | [link](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/) · [HN](https://news.ycombinator.com/item?id=48019219) |
+| 2026-05-05 | Tuesday | 2 | DNSSEC disruption affecting .de domains – Resolved | 724 | 385 | Technology | [link](https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38) · [HN](https://news.ycombinator.com/item?id=48027897) |
+| 2026-05-05 | Tuesday | 3 | Accelerating Gemma 4: faster inference with multi-token prediction drafters | 642 | 312 | Technology | [link](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/) · [HN](https://news.ycombinator.com/item?id=48024540) |
+| 2026-05-05 | Tuesday | 4 | StarFighter 16-Inch | 595 | 318 | Technology | [link](https://us.starlabs.systems/pages/starfighter) · [HN](https://news.ycombinator.com/item?id=48031261) |
+| 2026-05-05 | Tuesday | 5 | Agents can now create Cloudflare accounts, buy domains, and deploy | 566 | 323 | Technology | [link](https://blog.cloudflare.com/agents-stripe-projects/) · [HN](https://news.ycombinator.com/item?id=48031684) |
+| 2026-05-05 | Tuesday | 6 | AI didn't delete your database, you did | 533 | 294 | Technology | [link](https://idiallo.com/blog/ai-didnt-delete-your-database-you-did) · [HN](https://news.ycombinator.com/item?id=48022742) |
+| 2026-05-05 | Tuesday | 7 | Three Inverse Laws of AI | 514 | 335 | Technology | [link](https://susam.net/inverse-laws-of-robotics.html) · [HN](https://news.ycombinator.com/item?id=48023861) |
+| 2026-05-05 | Tuesday | 8 | Computer Use is 45x more expensive than structured APIs | 462 | 259 | Technology | [link](https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/) · [HN](https://news.ycombinator.com/item?id=48024859) |
+| 2026-05-05 | Tuesday | 9 | Today I've made the difficult decision to reduce the size of Coinbase by ~14% | 461 | 729 | Technology | [link](https://twitter.com/brian_armstrong/status/2051616759145185723) · [HN](https://news.ycombinator.com/item?id=48021368) |
+| 2026-05-05 | Tuesday | 10 | Train Your Own LLM from Scratch | 461 | 50 | Technology | [link](https://github.com/angelos-p/llm-from-scratch) · [HN](https://news.ycombinator.com/item?id=48017948) |
 | 2026-05-04 | Monday | 1 | Talking to strangers at the gym | 1394 | 670 | Technology | [link](https://thienantran.com/talking-to-35-strangers-at-the-gym/) · [HN](https://news.ycombinator.com/item?id=48007438) |
 | 2026-05-04 | Monday | 2 | GameStop makes $55.5B takeover offer for eBay | 683 | 647 | Technology | [link](https://www.bbc.co.uk/news/articles/cn0p8yled1do) · [HN](https://news.ycombinator.com/item?id=48006402) |
 | 2026-05-04 | Monday | 3 | Trademark violation: Fake Notepad++ for Mac | 612 | 288 | Technology | [link](https://notepad-plus-plus.org/news/npp-trademark-infringement/) · [HN](https://news.ycombinator.com/item?id=48006445) |
