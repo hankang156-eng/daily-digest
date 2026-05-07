@@ -1,9 +1,53 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-06 · 343 items*
+*Last updated: 2026-05-07 · 387 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-06 | Valve releases Steam Controller CAD files under Creative Commons license | HN | Technology | tech | 2026-05-06 | [link](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license) |
+| 2026-05-06 | Appearing productive in the workplace | HN | Technology | tech | 2026-05-06 | [link](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) |
+| 2026-05-06 | Red Squares – GitHub outages as contributions | HN | Technology | tech | 2026-05-06 | [link](https://red-squares.cian.lol/) |
+| 2026-05-06 | Vibe coding and agentic engineering are getting closer than I'd like | HN | Technology | tech | 2026-05-06 | [link](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/) |
+| 2026-05-06 | SQLite Is a Library of Congress Recommended Storage Format | HN | Technology | tech | 2026-05-06 | [link](https://sqlite.org/locrsf.html) |
+| 2026-05-06 | Higher usage limits for Claude and a compute deal with SpaceX | HN | Technology | tech | 2026-05-06 | [link](https://www.anthropic.com/news/higher-limits-spacex) |
+| 2026-05-06 | Programming Still Sucks | HN | Technology | tech | 2026-05-06 | [link](https://www.stvn.sh/writing/programming-still-sucks-fqffhyp) |
+| 2026-05-06 | Knitting bullshit | HN | Technology | tech | 2026-05-06 | [link](https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/) |
+| 2026-05-06 | Google Cloud fraud defense, the next evolution of reCAPTCHA | HN | Technology | tech | 2026-05-06 | [link](https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/) |
+| 2026-05-06 | Multi-stroke text effect in CSS | HN | Technology | tech | 2026-05-06 | [link](https://yuanchuan.dev/multi-stroke-text-effect-in-css) |
+| 2026-05-06 | Inkscape 1.4.4 | HN | Technology | tech | 2026-05-06 | [link](https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html) |
+| 2026-05-06 | From Supabase to Clerk to Better Auth | HN | Technology | tech | 2026-05-06 | [link](https://blog.val.town/better-auth) |
+| 2026-05-06 | Show HN: Hallucinopedia | HN | Technology | tech | 2026-05-06 | [link](http://halupedia.com/) |
+| 2026-05-06 | Ted Turner has died | HN | Technology | tech | 2026-05-06 | [link](https://www.cnn.com/2026/05/06/us/ted-turner-death) |
+| 2026-05-06 | BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets | HN | Technology | tech | 2026-05-06 | [link](https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/) |
+| 2026-05-06 | RSS feeds send me more traffic than Google | HN | Technology | tech | 2026-05-06 | [link](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/) |
+| 2026-05-06 | Kalshi, the Prediction Market, Raises $1 Billion at a $22 Billion Valuation | NYT · Business | Business | news | 2026-05-07 | [link](https://www.nytimes.com/2026/05/07/business/dealbook/kalshi-fundraise-22-billion.html) |
+| 2026-05-06 | Anthropic’s C.E.O. Says It Could Grow by 80 Times This Year | NYT · AI | AI | news | 2026-05-07 | [link](https://www.nytimes.com/2026/05/06/technology/anthropic-ceo-ai-growth.html) |
+| 2026-05-06 | Trump Panel Recommends FEMA Respond to Fewer Disasters | NYT · Energy & Environment | Energy & Environment | news | 2026-05-07 | [link](https://www.nytimes.com/2026/05/07/climate/fema-review-panel-trump.html) |
+| 2026-05-06 | Disney Posts Strong Earnings Despite Slowdown in Park Visitors | NYT · Business | Business | news | 2026-05-06 | [link](https://www.nytimes.com/2026/05/06/business/media/disney-earnings.html) |
+| 2026-05-06 | U.S. Debt Hits a Concerning Milestone, and Experts Say Trump’s Policies Could Worsen It | NYT · Business | Business | news | 2026-05-07 | [link](https://www.nytimes.com/2026/05/07/business/us-debt-trump-policies-budget.html) |
+| 2026-05-06 | Why Is Gas So Much More Expensive in Some States Than Others? | NYT · Energy & Environment | Energy & Environment | news | 2026-05-06 | [link](https://www.nytimes.com/2026/05/06/business/energy-environment/gasoline-prices-states-iran-war.html) |
+| 2026-05-06 | Elon Musk’s SpaceX Plans $55 Billion Investment to Make A.I. Chips | NYT · AI | AI | news | 2026-05-07 | [link](https://www.nytimes.com/2026/05/07/business/spacex-chips-terafab.html) |
+| 2026-05-06 | Five Ways A.I. Search Beats an Old-School Google Search | NYT · AI | AI | news | 2026-05-07 | [link](https://www.nytimes.com/2026/05/07/technology/personaltech/google-ai-mode-search.html) |
+| 2026-05-06 | Elon Musk’s Confidante Shivon Zilis Is Cast as His Inside Source at OpenAI | NYT · AI | AI | news | 2026-05-06 | [link](https://www.nytimes.com/2026/05/06/technology/elon-musk-shivon-zilis-openai-trial.html) |
+| 2026-05-06 | Elon Musk Wanted OpenAI to Go Commercial, Greg Brockman Testifies | NYT · AI | AI | news | 2026-05-06 | [link](https://www.nytimes.com/2026/05/05/technology/openai-trial-elon-musk-greg-brockman.html) |
+| 2026-05-06 | White House Considers Vetting A.I. Models Before They Are Released | NYT · Technology | Technology | news | 2026-05-04 | [link](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html) |
+| 2026-05-06 | 5 Takeaways From the California Governor Debate | NYT · Politics | Politics | news | 2026-05-07 | [link](https://www.nytimes.com/2026/05/07/us/politics/california-governors-debate-takeaways.html) |
+| 2026-05-06 | Guido Reichstadter Comes Down From Frederick Douglass Memorial Bridge After 6 Days | NYT · AI | AI | news | 2026-05-06 | [link](https://www.nytimes.com/2026/05/06/us/guido-reichstadter-frederick-douglass-memorial-bridge.html) |
+| 2026-05-06 | Did This Appeals Court Go Rogue on Abortion Pills? | NYT · Politics | Politics | news | 2026-05-07 | [link](https://www.nytimes.com/2026/05/07/us/politics/the-docket-abortion-pills.html) |
+| 2026-05-06 | This Trump Proposal is Good for Private Equity — and Not Good for Our Retirement Accounts | NYT · Opinion | Opinion | opinion | 2026-05-07 | [link](https://www.nytimes.com/2026/05/05/opinion/trump-retirement-private-equity-401k.html) |
+| 2026-05-06 | Louisiana Asks Supreme Court to Halt Abortion Pill Access by Mail | NYT · Politics | Politics | news | 2026-05-07 | [link](https://www.nytimes.com/2026/05/07/us/politics/supreme-court-abortion-pills-louisiana.html) |
+| 2026-05-06 | In Permissive Amsterdam, Ads for Fossil Fuels or Meat Are Now Verboden | NYT · Energy & Environment | Energy & Environment | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/climate/in-permissive-amsterdam-ads-for-fossil-fuels-or-meat-are-now-verboden.html) |
+| 2026-05-06 | The U.S. and China Have a Common Foe. Hint: It’s Not the U.S.S.R. | NYT · Opinion | Opinion | opinion | 2026-05-06 | [link](https://www.nytimes.com/2026/05/05/opinion/trump-xi-summit-ai-global-threats.html) |
+| 2026-05-06 | Trump Administration Sues Minnesota to Block Climate Lawsuit | NYT · Energy & Environment | Energy & Environment | news | 2026-05-04 | [link](https://www.nytimes.com/2026/05/04/climate/trump-minnesota-climate-lawsuit.html) |
+| 2026-05-06 | A Legendary Investor on How to Prevent America’s Coming ‘Heart Attack’ | NYT · Opinion | Opinion | opinion | 2026-05-07 | [link](https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html) |
+| 2026-05-06 | Calibrate AI Use to the Decision at Hand | MIT Sloan Review · Strategy & Craft | Business | analysis | 2026-05-06 | [link](https://sloanreview.mit.edu/article/calibrate-ai-use-to-the-decision-at-hand/) |
+| 2026-05-06 | Weekly Update 502 | Troy Hunt · Security & Privacy | Security | tech | 2026-05-06 | [link](https://www.troyhunt.com/weekly-update-502/) |
+| 2026-05-06 | Luca Maestri Runs the Cafeteria | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-06 | [link](https://www.apple.com/leadership/luca-maestri/) |
+| 2026-05-06 | Claris CEO Ryan McCann on FileMaker in the Age of Agentic Coding | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-06 | [link](https://www.claris.com/blog/2026/how-claris-is-building-for-what-comes-next) |
+| 2026-05-06 | Vibe coding and agentic engineering are getting closer than I'd like | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-06 | [link](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything) |
+| 2026-05-06 | Live blog: Code w/ Claude 2026 | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-06 | [link](https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything) |
+| 2026-05-06 | Checking multiplication overflow | Lemire.me · Tech & Engineering | Technology | tech | 2026-05-06 | [link](https://lemire.me/blog/2026/05/06/checking-multiplication-overflow/) |
+| 2026-05-06 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-05 | Google Chrome silently installs a 4 GB AI model on your device without consent | HN | Technology | tech | 2026-05-05 | [link](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/) |
 | 2026-05-05 | DNSSEC disruption affecting .de domains – Resolved | HN | Technology | tech | 2026-05-05 | [link](https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38) |
 | 2026-05-05 | Accelerating Gemma 4: faster inference with multi-token prediction drafters | HN | Technology | tech | 2026-05-05 | [link](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/) |

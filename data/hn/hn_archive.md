@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-06 · 372 days · 3720 stories*
+*Last updated: 2026-05-07 · 373 days · 3730 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-06 | Wednesday | 1 | Valve releases Steam Controller CAD files under Creative Commons license | 1686 | 568 | Technology | [link](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license) · [HN](https://news.ycombinator.com/item?id=48037555) |
+| 2026-05-06 | Wednesday | 2 | Appearing productive in the workplace | 1524 | 625 | Technology | [link](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) · [HN](https://news.ycombinator.com/item?id=48038001) |
+| 2026-05-06 | Wednesday | 3 | Red Squares – GitHub outages as contributions | 754 | 167 | Technology | [link](https://red-squares.cian.lol/) · [HN](https://news.ycombinator.com/item?id=48034587) |
+| 2026-05-06 | Wednesday | 4 | Vibe coding and agentic engineering are getting closer than I'd like | 744 | 846 | Technology | [link](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/) · [HN](https://news.ycombinator.com/item?id=48037128) |
+| 2026-05-06 | Wednesday | 5 | SQLite Is a Library of Congress Recommended Storage Format | 595 | 178 | Technology | [link](https://sqlite.org/locrsf.html) · [HN](https://news.ycombinator.com/item?id=48042434) |
+| 2026-05-06 | Wednesday | 6 | Higher usage limits for Claude and a compute deal with SpaceX | 496 | 469 | Technology | [link](https://www.anthropic.com/news/higher-limits-spacex) · [HN](https://news.ycombinator.com/item?id=48037986) |
+| 2026-05-06 | Wednesday | 7 | Programming Still Sucks | 481 | 272 | Technology | [link](https://www.stvn.sh/writing/programming-still-sucks-fqffhyp) · [HN](https://news.ycombinator.com/item?id=48040269) |
+| 2026-05-06 | Wednesday | 8 | Knitting bullshit | 472 | 204 | Technology | [link](https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/) · [HN](https://news.ycombinator.com/item?id=48032461) |
+| 2026-05-06 | Wednesday | 9 | Google Cloud fraud defense, the next evolution of reCAPTCHA | 390 | 405 | Technology | [link](https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/) · [HN](https://news.ycombinator.com/item?id=48039362) |
+| 2026-05-06 | Wednesday | 10 | Multi-stroke text effect in CSS | 362 | 44 | Technology | [link](https://yuanchuan.dev/multi-stroke-text-effect-in-css) · [HN](https://news.ycombinator.com/item?id=48032265) |
 | 2026-05-05 | Tuesday | 1 | Google Chrome silently installs a 4 GB AI model on your device without consent | 1595 | 1057 | Technology | [link](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/) · [HN](https://news.ycombinator.com/item?id=48019219) |
 | 2026-05-05 | Tuesday | 2 | DNSSEC disruption affecting .de domains – Resolved | 724 | 385 | Technology | [link](https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38) · [HN](https://news.ycombinator.com/item?id=48027897) |
 | 2026-05-05 | Tuesday | 3 | Accelerating Gemma 4: faster inference with multi-token prediction drafters | 642 | 312 | Technology | [link](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/) · [HN](https://news.ycombinator.com/item?id=48024540) |
