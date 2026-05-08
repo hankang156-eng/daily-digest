@@ -1,9 +1,52 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-07 · 387 items*
+*Last updated: 2026-05-08 · 430 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-07 | Cloudflare to cut about 20% of its workforce | HN | Technology | tech | 2026-05-07 | [link](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/) |
+| 2026-05-07 | Canvas online again as ShinyHunters threatens to leak schools’ data | HN | Technology | tech | 2026-05-07 | [link](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach) |
+| 2026-05-07 | Maybe you shouldn't install new software for a bit | HN | Technology | tech | 2026-05-07 | [link](https://xeiaso.net/blog/2026/abstain-from-install/) |
+| 2026-05-07 | AI slop is killing online communities | HN | Technology | tech | 2026-05-07 | [link](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/) |
+| 2026-05-07 | Dirtyfrag: Universal Linux LPE | HN | Technology | tech | 2026-05-07 | [link](https://www.openwall.com/lists/oss-security/2026/05/07/8) |
+| 2026-05-07 | The map that keeps Burning Man honest | HN | Technology | tech | 2026-05-07 | [link](https://www.not-ship.com/burning-man-moop/) |
+| 2026-05-07 | Chrome removes claim of On-device Al not sending data to Google Servers | HN | Technology | tech | 2026-05-07 | [link](https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/) |
+| 2026-05-07 | Agents need control flow, not more prompts | HN | Technology | tech | 2026-05-07 | [link](https://bsuh.bearblog.dev/agents-need-control-flow/) |
+| 2026-05-07 | Grand Theft Oil Futures: Insider traders keep making a killing at our expense | HN | Technology | tech | 2026-05-07 | [link](https://paulkrugman.substack.com/p/grand-theft-oil-futures) |
+| 2026-05-07 | DeepSeek 4 Flash local inference engine for Metal | HN | Technology | tech | 2026-05-07 | [link](https://github.com/antirez/ds4) |
+| 2026-05-07 | Child marriages plunged when girls stayed in school in Nigeria | HN | Technology | tech | 2026-05-07 | [link](https://www.nature.com/articles/d41586-026-00720-8) |
+| 2026-05-07 | Brazil's Pix payment system faces pressure from Visa and Mastercard | HN | Technology | tech | 2026-05-07 | [link](https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/) |
+| 2026-05-07 | Natural Language Autoencoders: Turning Claude's Thoughts into Text | HN | Technology | tech | 2026-05-07 | [link](https://www.anthropic.com/research/natural-language-autoencoders) |
+| 2026-05-07 | Hardening Firefox with Claude Mythos Preview | HN | Technology | tech | 2026-05-07 | [link](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/) |
+| 2026-05-07 | I want to live like Costco people | HN | Technology | tech | 2026-05-07 | [link](https://tastecooking.com/i-want-to-live-like-costco-people/) |
+| 2026-05-07 | AlphaEvolve: Gemini-powered coding agent scaling impact across fields | HN | Technology | tech | 2026-05-07 | [link](https://deepmind.google/blog/alphaevolve-impact/) |
+| 2026-05-07 | Meta’s Embrace of A.I. Is Making Its Employees Miserable | NYT · AI | AI | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html) |
+| 2026-05-07 | A.I. Populism Is Here. And No One Is Ready. | NYT · AI | AI | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/magazine/ai-populism-backlash-altman.html) |
+| 2026-05-07 | DOGE’s Termination of Humanities Grants Is Ruled Unconstitutional | NYT · AI | AI | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/07/arts/neh-grants-lawsuit-doge.html) |
+| 2026-05-07 | Kalshi, the Prediction Market, Raises $1 Billion at a $22 Billion Valuation | NYT · Business | Business | news | 2026-05-07 | [link](https://www.nytimes.com/2026/05/07/business/dealbook/kalshi-fundraise-22-billion.html) |
+| 2026-05-07 | Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Produc | NYT · AI | AI | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/podcasts/hardfork-prediction-markets.html) |
+| 2026-05-07 | Anthropic’s C.E.O. Says It Could Grow by 80 Times This Year | NYT · Technology | Technology | news | 2026-05-07 | [link](https://www.nytimes.com/2026/05/06/technology/anthropic-ceo-ai-growth.html) |
+| 2026-05-07 | Trump Panel Recommends FEMA Respond to Fewer Disasters | NYT · Energy & Environment | Energy & Environment | news | 2026-05-07 | [link](https://www.nytimes.com/2026/05/07/climate/fema-review-panel-trump.html) |
+| 2026-05-07 | What’s Happened So Far at the Musk v. OpenAI Trial | NYT · AI | AI | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/business/dealbook/musk-openai-trial.html) |
+| 2026-05-07 | The Paramount Merger Can (and Should) Be Stopped | NYT · Opinion | Opinion | opinion | 2026-05-08 | [link](https://www.nytimes.com/2026/05/07/opinion/hollywood-merger-fear-paramount-warner-bros.html) |
+| 2026-05-07 | Justice Dept. Settles Case Against Provider of Meat Industry Data | NYT · Business | Business | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/business/agri-stats-meat-antitrust-settlement.html) |
+| 2026-05-07 | Lawsuit Accuses Lucky Strike of Building a Bowling Monopoly | NYT · Business | Business | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/business/bowling-lucky-strike-lawsuit.html) |
+| 2026-05-07 | Five Ways A.I. Search Beats an Old-School Google Search | NYT · AI | AI | news | 2026-05-07 | [link](https://www.nytimes.com/2026/05/07/technology/personaltech/google-ai-mode-search.html) |
+| 2026-05-07 | Trump Plans to Fire F.D.A. Commissioner Marty Makary | NYT · Business | Business | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/us/trump-fda-commissioner-makary.html) |
+| 2026-05-07 | Mark Zuckerberg Is Running Meta Into the Ground | NYT · AI | AI | opinion | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/opinion/meta-facebook-zuckerberg.html) |
+| 2026-05-07 | Book Review: ‘Screen People,’ by Megan Garber | NYT · AI | AI | opinion | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/books/review/screen-people-megan-garber.html) |
+| 2026-05-07 | This Trump Proposal is Good for Private Equity — and Not Good for Our Retirement Accounts | NYT · Opinion | Opinion | opinion | 2026-05-07 | [link](https://www.nytimes.com/2026/05/05/opinion/trump-retirement-private-equity-401k.html) |
+| 2026-05-07 | Louisiana Asks Supreme Court to Halt Abortion Pill Access by Mail | NYT · Politics | Politics | news | 2026-05-07 | [link](https://www.nytimes.com/2026/05/07/us/politics/supreme-court-abortion-pills-louisiana.html) |
+| 2026-05-07 | In Permissive Amsterdam, Ads for Fossil Fuels or Meat Are Now Verboden | NYT · Energy & Environment | Energy & Environment | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/climate/in-permissive-amsterdam-ads-for-fossil-fuels-or-meat-are-now-verboden.html) |
+| 2026-05-07 | White House Considers Vetting A.I. Models Before They Are Released | NYT · Technology | Technology | news | 2026-05-04 | [link](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html) |
+| 2026-05-07 | Trump Administration Lifts Ban on ‘Cyanide Bombs’ on Public Lands | NYT · Energy & Environment | Energy & Environment | news | 2026-05-07 | [link](https://www.nytimes.com/2026/05/07/climate/cyanide-bombs-public-lands.html) |
+| 2026-05-07 | Why Businesses Should Experiment With Quantum Computing Now | MIT Sloan Review · Strategy & Craft | Business | analysis | 2026-05-07 | [link](https://sloanreview.mit.edu/article/why-businesses-should-experiment-with-quantum-computing-now/) |
+| 2026-05-07 | Behind the Scenes Hardening Firefox with Claude Mythos Preview | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-07 | [link](https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything) |
+| 2026-05-07 | Notes on the xAI/Anthropic data center deal | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-07 | [link](https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything) |
+| 2026-05-07 | I've found just the right paper for my Bottom Hole problem | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-05-07 | [link](https://shkspr.mobi/blog/2026/05/ive-found-just-the-right-paper-for-my-bottom-hole-problem/) |
+| 2026-05-07 | Prolost Watches 1.0 | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-07 | [link](https://prolost.com/blog/prolostwatches) |
+| 2026-05-07 | The Greatest Match Cut in Cinematic History, Improved by Amazon Prime | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-07 | [link](https://bsky.app/profile/gethill.bsky.social/post/3ml6fyfv7kc2l) |
+| 2026-05-07 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-06 | Valve releases Steam Controller CAD files under Creative Commons license | HN | Technology | tech | 2026-05-06 | [link](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license) |
 | 2026-05-06 | Appearing productive in the workplace | HN | Technology | tech | 2026-05-06 | [link](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) |
 | 2026-05-06 | Red Squares – GitHub outages as contributions | HN | Technology | tech | 2026-05-06 | [link](https://red-squares.cian.lol/) |

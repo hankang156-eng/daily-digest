@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-07 · 373 days · 3730 stories*
+*Last updated: 2026-05-08 · 374 days · 3740 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-07 | Thursday | 1 | Cloudflare to cut about 20% of its workforce | 1270 | 905 | Technology | [link](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/) · [HN](https://news.ycombinator.com/item?id=48054423) |
+| 2026-05-07 | Thursday | 2 | Canvas online again as ShinyHunters threatens to leak schools’ data | 892 | 597 | Technology | [link](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach) · [HN](https://news.ycombinator.com/item?id=48055913) |
+| 2026-05-07 | Thursday | 3 | Maybe you shouldn't install new software for a bit | 804 | 425 | Technology | [link](https://xeiaso.net/blog/2026/abstain-from-install/) · [HN](https://news.ycombinator.com/item?id=48056227) |
+| 2026-05-07 | Thursday | 4 | AI slop is killing online communities | 795 | 690 | Technology | [link](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/) · [HN](https://news.ycombinator.com/item?id=48053203) |
+| 2026-05-07 | Thursday | 5 | Dirtyfrag: Universal Linux LPE | 790 | 310 | Technology | [link](https://www.openwall.com/lists/oss-security/2026/05/07/8) · [HN](https://news.ycombinator.com/item?id=48053623) |
+| 2026-05-07 | Thursday | 6 | The map that keeps Burning Man honest | 749 | 344 | Technology | [link](https://www.not-ship.com/burning-man-moop/) · [HN](https://news.ycombinator.com/item?id=48049653) |
+| 2026-05-07 | Thursday | 7 | Chrome removes claim of On-device Al not sending data to Google Servers | 608 | 240 | Technology | [link](https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/) · [HN](https://news.ycombinator.com/item?id=48050964) |
+| 2026-05-07 | Thursday | 8 | Agents need control flow, not more prompts | 567 | 282 | Technology | [link](https://bsuh.bearblog.dev/agents-need-control-flow/) · [HN](https://news.ycombinator.com/item?id=48051562) |
+| 2026-05-07 | Thursday | 9 | Grand Theft Oil Futures: Insider traders keep making a killing at our expense | 503 | 324 | Technology | [link](https://paulkrugman.substack.com/p/grand-theft-oil-futures) · [HN](https://news.ycombinator.com/item?id=48047981) |
+| 2026-05-07 | Thursday | 10 | DeepSeek 4 Flash local inference engine for Metal | 472 | 144 | Technology | [link](https://github.com/antirez/ds4) · [HN](https://news.ycombinator.com/item?id=48050751) |
 | 2026-05-06 | Wednesday | 1 | Valve releases Steam Controller CAD files under Creative Commons license | 1686 | 568 | Technology | [link](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license) · [HN](https://news.ycombinator.com/item?id=48037555) |
 | 2026-05-06 | Wednesday | 2 | Appearing productive in the workplace | 1524 | 625 | Technology | [link](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) · [HN](https://news.ycombinator.com/item?id=48038001) |
 | 2026-05-06 | Wednesday | 3 | Red Squares – GitHub outages as contributions | 754 | 167 | Technology | [link](https://red-squares.cian.lol/) · [HN](https://news.ycombinator.com/item?id=48034587) |
