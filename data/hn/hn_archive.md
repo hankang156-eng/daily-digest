@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-08 · 374 days · 3740 stories*
+*Last updated: 2026-05-09 · 375 days · 3750 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-08 | Friday | 1 | Google broke reCAPTCHA for de-googled Android users | 1344 | 490 | Technology | [link](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) · [HN](https://news.ycombinator.com/item?id=48067119) |
+| 2026-05-08 | Friday | 2 | Poland is now among the 20 largest economies | 1006 | 803 | Technology | [link](https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa) · [HN](https://news.ycombinator.com/item?id=48062117) |
+| 2026-05-08 | Friday | 3 | David Attenborough's 100th Birthday | 784 | 152 | Technology | [link](https://www.bbc.com/news/articles/cp3pww9g0p5o) · [HN](https://news.ycombinator.com/item?id=48061884) |
+| 2026-05-08 | Friday | 4 | Google Cloud Fraud Defence is just WEI repackaged | 687 | 350 | Technology | [link](https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/) · [HN](https://news.ycombinator.com/item?id=48063199) |
+| 2026-05-08 | Friday | 5 | A web page that shows you everything the browser told it without asking | 583 | 287 | Technology | [link](https://sinceyouarrived.world/taken) · [HN](https://news.ycombinator.com/item?id=48062178) |
+| 2026-05-08 | Friday | 6 | A recent experience with ChatGPT 5.5 Pro | 517 | 372 | Technology | [link](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/) · [HN](https://news.ycombinator.com/item?id=48071262) |
+| 2026-05-08 | Friday | 7 | An Introduction to Meshtastic | 480 | 176 | Technology | [link](https://meshtastic.org/docs/introduction/) · [HN](https://news.ycombinator.com/item?id=48061566) |
+| 2026-05-08 | Friday | 8 | Ask HN: We just had an actual UUID v4 collision... | 397 | 316 | Technology | [link](https://news.ycombinator.com/item?id=48060054) · [HN](https://news.ycombinator.com/item?id=48060054) |
+| 2026-05-08 | Friday | 9 | Cartoon Network Flash Games | 391 | 120 | Technology | [link](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games) · [HN](https://news.ycombinator.com/item?id=48065360) |
+| 2026-05-08 | Friday | 10 | AI is breaking two vulnerability cultures | 387 | 156 | Technology | [link](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures) · [HN](https://news.ycombinator.com/item?id=48066524) |
 | 2026-05-07 | Thursday | 1 | Cloudflare to cut about 20% of its workforce | 1270 | 905 | Technology | [link](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/) · [HN](https://news.ycombinator.com/item?id=48054423) |
 | 2026-05-07 | Thursday | 2 | Canvas online again as ShinyHunters threatens to leak schools’ data | 892 | 597 | Technology | [link](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach) · [HN](https://news.ycombinator.com/item?id=48055913) |
 | 2026-05-07 | Thursday | 3 | Maybe you shouldn't install new software for a bit | 804 | 425 | Technology | [link](https://xeiaso.net/blog/2026/abstain-from-install/) · [HN](https://news.ycombinator.com/item?id=48056227) |

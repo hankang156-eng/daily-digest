@@ -1,9 +1,49 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-08 · 430 items*
+*Last updated: 2026-05-09 · 470 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-08 | Google broke reCAPTCHA for de-googled Android users | HN | Technology | tech | 2026-05-08 | [link](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) |
+| 2026-05-08 | Poland is now among the 20 largest economies | HN | Technology | tech | 2026-05-08 | [link](https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa) |
+| 2026-05-08 | David Attenborough's 100th Birthday | HN | Technology | tech | 2026-05-08 | [link](https://www.bbc.com/news/articles/cp3pww9g0p5o) |
+| 2026-05-08 | Google Cloud Fraud Defence is just WEI repackaged | HN | Technology | tech | 2026-05-08 | [link](https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/) |
+| 2026-05-08 | A web page that shows you everything the browser told it without asking | HN | Technology | tech | 2026-05-08 | [link](https://sinceyouarrived.world/taken) |
+| 2026-05-08 | A recent experience with ChatGPT 5.5 Pro | HN | Technology | tech | 2026-05-08 | [link](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/) |
+| 2026-05-08 | An Introduction to Meshtastic | HN | Technology | tech | 2026-05-08 | [link](https://meshtastic.org/docs/introduction/) |
+| 2026-05-08 | Ask HN: We just had an actual UUID v4 collision... | HN | Technology | tech | 2026-05-08 | [link](https://news.ycombinator.com/item?id=48060054) |
+| 2026-05-08 | Cartoon Network Flash Games | HN | Technology | tech | 2026-05-08 | [link](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games) |
+| 2026-05-08 | AI is breaking two vulnerability cultures | HN | Technology | tech | 2026-05-08 | [link](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures) |
+| 2026-05-08 | US Government releases first batch of UAP documents and videos | HN | Technology | tech | 2026-05-08 | [link](https://www.war.gov/UFO/) |
+| 2026-05-08 | Meta Shuts Down End-to-End Encryption for Instagram Messaging | HN | Technology | tech | 2026-05-08 | [link](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging) |
+| 2026-05-08 | ClojureScript Gets Async/Await | HN | Technology | tech | 2026-05-08 | [link](https://clojurescript.org/news/2026-05-07-release) |
+| 2026-05-08 | Serving a website on a Raspberry Pi Zero running in RAM | HN | Technology | tech | 2026-05-08 | [link](https://btxx.org/posts/memory/) |
+| 2026-05-08 | Teaching Claude Why | HN | Technology | tech | 2026-05-08 | [link](https://www.anthropic.com/research/teaching-claude-why) |
+| 2026-05-08 | Nintendo announces price increases for Nintendo Switch 2 | HN | Technology | tech | 2026-05-08 | [link](https://www.nintendo.co.jp/corporate/release/en/2026/260508.html) |
+| 2026-05-08 | Meta’s Embrace of A.I. Is Making Its Employees Miserable | NYT · AI | AI | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html) |
+| 2026-05-08 | A.I. Populism Is Here. And No One Is Ready. | NYT · AI | AI | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/magazine/ai-populism-backlash-altman.html) |
+| 2026-05-08 | All Those A.I. Note Takers? They’re Making Lawyers Very Nervous. | NYT · AI | AI | news | 2026-05-09 | [link](https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html) |
+| 2026-05-08 | Lawsuit Accuses Lucky Strike of Building a Bowling Monopoly | NYT · Business | Business | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/business/bowling-lucky-strike-lawsuit.html) |
+| 2026-05-08 | America’s A.I. Is Futuristic. China Is Just Making It Work. | NYT · AI | AI | opinion | 2026-05-09 | [link](https://www.nytimes.com/2026/05/09/opinion/ai-china-america-race.html) |
+| 2026-05-08 | Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Produc | NYT · AI | AI | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/podcasts/hardfork-prediction-markets.html) |
+| 2026-05-08 | Why the Trump-Xi Summit Matters, Even if Little Seems to Come of It | NYT · AI | AI | news | 2026-05-09 | [link](https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html) |
+| 2026-05-08 | Federal Reserve Turns Focus to Inflation as Job Market Stabilizes | NYT · Economy | Economy | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/business/economy/jobs-report-inflation-federal-reserve.html) |
+| 2026-05-08 | Kalshi, the Prediction Market, Raises $1 Billion at a $22 Billion Valuation | NYT · Business | Business | news | 2026-05-07 | [link](https://www.nytimes.com/2026/05/07/business/dealbook/kalshi-fundraise-22-billion.html) |
+| 2026-05-08 | For Struggling JetBlue, Spirit’s Demise May Offer an Opportunity | NYT · Business | Business | news | 2026-05-09 | [link](https://www.nytimes.com/2026/05/09/business/jetblue-airways-spirit.html) |
+| 2026-05-08 | What’s Happened So Far at the Musk v. OpenAI Trial | NYT · AI | AI | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/business/dealbook/musk-openai-trial.html) |
+| 2026-05-08 | The Paramount Merger Can (and Should) Be Stopped | NYT · Opinion | Opinion | opinion | 2026-05-08 | [link](https://www.nytimes.com/2026/05/07/opinion/hollywood-merger-fear-paramount-warner-bros.html) |
+| 2026-05-08 | Trump Plans to Fire F.D.A. Commissioner Marty Makary | NYT · Business | Business | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/us/trump-fda-commissioner-makary.html) |
+| 2026-05-08 | The Atheist and the Machine God | NYT · AI | AI | opinion | 2026-05-09 | [link](https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html) |
+| 2026-05-08 | Mark Zuckerberg Is Running Meta Into the Ground | NYT · AI | AI | opinion | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/opinion/meta-facebook-zuckerberg.html) |
+| 2026-05-08 | Trump Panel Recommends FEMA Respond to Fewer Disasters | NYT · Energy & Environment | Energy & Environment | news | 2026-05-07 | [link](https://www.nytimes.com/2026/05/07/climate/fema-review-panel-trump.html) |
+| 2026-05-08 | How Minority Districts Fueled the G.O.P.’s Southern Ascendancy in Congress | NYT · Politics | Politics | news | 2026-05-09 | [link](https://www.nytimes.com/2026/05/09/us/politics/how-minority-districts-fueled-the-gops-southern-ascendancy-in-congress.html) |
+| 2026-05-08 | Alabama Asks Supreme Court to Allow it to Use New Voting Map | NYT · Politics | Politics | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/us/politics/alabama-supreme-court-voting-map.html) |
+| 2026-05-08 | In Permissive Amsterdam, Ads for Fossil Fuels or Meat Are Now Verboden | NYT · Energy & Environment | Energy & Environment | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/climate/in-permissive-amsterdam-ads-for-fossil-fuels-or-meat-are-now-verboden.html) |
+| 2026-05-08 | Musk’s SpaceX Goals Shift Ahead of Its I.P.O. | NYT · AI | AI | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html) |
+| 2026-05-08 | How Much Will AI Impact Tomorrow’s Workforce? New Data on the Future of Work with AI | MIT IDE · MIT Research & Insights | Research | research | 2026-05-08 | [link](https://ide.mit.edu/insights/how-much-will-ai-impact-tomorrows-workforce-new-data-on-the-future-of-work-with-ai/) |
+| 2026-05-08 | Using Claude Code: The Unreasonable Effectiveness of HTML | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-08 | [link](https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything) |
+| 2026-05-08 | Canvas Breach Disrupts Schools & Colleges Nationwide | Krebs on Security · Security & Privacy | Security | tech | 2026-05-08 | [link](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/) |
+| 2026-05-08 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-07 | Cloudflare to cut about 20% of its workforce | HN | Technology | tech | 2026-05-07 | [link](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/) |
 | 2026-05-07 | Canvas online again as ShinyHunters threatens to leak schools’ data | HN | Technology | tech | 2026-05-07 | [link](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach) |
 | 2026-05-07 | Maybe you shouldn't install new software for a bit | HN | Technology | tech | 2026-05-07 | [link](https://xeiaso.net/blog/2026/abstain-from-install/) |
