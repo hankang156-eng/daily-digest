@@ -1,9 +1,47 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-09 · 470 items*
+*Last updated: 2026-05-10 · 508 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-09 | Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc | HN | Technology | tech | 2026-05-09 | [link](https://twitter.com/jarredsumner/status/2053047748191232310) |
+| 2026-05-09 | Internet Archive Switzerland | HN | Technology | tech | 2026-05-09 | [link](https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/) |
+| 2026-05-09 | EU Parliamentary Research Service calls VPNs "a loophole that needs closing" | HN | Technology | tech | 2026-05-09 | [link](https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/) |
+| 2026-05-09 | I returned to AWS and was reminded why I left | HN | Technology | tech | 2026-05-09 | [link](http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html) |
+| 2026-05-09 | I’ve banned query strings | HN | Technology | tech | 2026-05-09 | [link](https://chrismorgan.info/no-query-strings) |
+| 2026-05-09 | Using Claude Code: The unreasonable effectiveness of HTML | HN | Technology | tech | 2026-05-09 | [link](https://twitter.com/trq212/status/2052809885763747935) |
+| 2026-05-09 | LLMs corrupt your documents when you delegate | HN | Technology | tech | 2026-05-09 | [link](https://arxiv.org/abs/2604.15597) |
+| 2026-05-09 | Meta's embrace of AI is making its employees miserable | HN | Technology | tech | 2026-05-09 | [link](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html) |
+| 2026-05-09 | The hypocrisy of cyberlibertarianism | HN | Technology | tech | 2026-05-09 | [link](https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/) |
+| 2026-05-09 | Distributing Mac software is increasing my cortisol levels | HN | Technology | tech | 2026-05-09 | [link](https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels) |
+| 2026-05-09 | Show HN: Building a web server in assembly to give my life (a lack of) meaning | HN | Technology | tech | 2026-05-09 | [link](https://github.com/imtomt/ymawky) |
+| 2026-05-09 | GrapheneOS fixes Android VPN leak Google refused to patch | HN | Technology | tech | 2026-05-09 | [link](https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/) |
+| 2026-05-09 | Zed Editor Theme-Builder | HN | Technology | tech | 2026-05-09 | [link](https://zed.dev/theme-builder) |
+| 2026-05-09 | France moves to break encrypted messaging | HN | Technology | tech | 2026-05-09 | [link](https://reclaimthenet.org/france-moves-to-break-encrypted-messaging) |
+| 2026-05-09 | Show HN: I made a Clojure-like language in Go, boots in 7ms | HN | Technology | tech | 2026-05-09 | [link](https://github.com/nooga/let-go) |
+| 2026-05-09 | Getting arrested in Japan | HN | Technology | tech | 2026-05-09 | [link](https://sundaicity.com/blogs/getting-arrested-in-japan) |
+| 2026-05-09 | Why China Is So Much Less Scared of A.I. Than the U.S. | NYT · AI | AI | opinion | 2026-05-09 | [link](https://www.nytimes.com/2026/05/09/opinion/ai-china-america-race.html) |
+| 2026-05-09 | All Those A.I. Note Takers? They’re Making Lawyers Very Nervous. | NYT · AI | AI | news | 2026-05-09 | [link](https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html) |
+| 2026-05-09 | Why the Trump-Xi Summit Matters, Even if Little Seems to Come of It | NYT · AI | AI | news | 2026-05-09 | [link](https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html) |
+| 2026-05-09 | What’s Happened So Far at the Musk v. OpenAI Trial | NYT · AI | AI | news | 2026-05-10 | [link](https://www.nytimes.com/2026/05/08/business/dealbook/musk-openai-trial.html) |
+| 2026-05-09 | Lawsuit Accuses Lucky Strike of Building a Bowling Monopoly | NYT · Business | Business | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/business/bowling-lucky-strike-lawsuit.html) |
+| 2026-05-09 | How Students Interact With A.I. Is What Matters | NYT · AI | AI | opinion | 2026-05-10 | [link](https://www.nytimes.com/2026/05/10/opinion/ai-students.html) |
+| 2026-05-09 | Kalshi, the Prediction Market, Raises $1 Billion at a $22 Billion Valuation | NYT · Business | Business | news | 2026-05-07 | [link](https://www.nytimes.com/2026/05/07/business/dealbook/kalshi-fundraise-22-billion.html) |
+| 2026-05-09 | Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Produc | NYT · AI | AI | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/podcasts/hardfork-prediction-markets.html) |
+| 2026-05-09 | Federal Reserve Turns Focus to Inflation as Job Market Stabilizes | NYT · Economy | Economy | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/business/economy/jobs-report-inflation-federal-reserve.html) |
+| 2026-05-09 | This Is What Happened After We Gutted U.S.A.I.D. | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-05-09 | [link](https://www.nytimes.com/2026/05/09/opinion/foreign-aid-cuts.html) |
+| 2026-05-09 | The Paramount Merger Can (and Should) Be Stopped | NYT · Opinion | Opinion | opinion | 2026-05-08 | [link](https://www.nytimes.com/2026/05/07/opinion/hollywood-merger-fear-paramount-warner-bros.html) |
+| 2026-05-09 | Which Trump Tariffs Are in Place, in the Works or Ruled Illegal | NYT · Economy | Economy | news | 2026-05-10 | [link](https://www.nytimes.com/2026/05/09/business/economy/trump-tariff-timeline.html) |
+| 2026-05-09 | ‘Old Woman Naked’ is Pamela Redmond’s Answer to A.I. Concerns | NYT · AI | AI | news | 2026-05-09 | [link](https://www.nytimes.com/2026/05/09/style/her-response-to-ai-getting-naked-onstage.html) |
+| 2026-05-09 | Trump Panel Recommends FEMA Respond to Fewer Disasters | NYT · Energy & Environment | Energy & Environment | news | 2026-05-07 | [link](https://www.nytimes.com/2026/05/07/climate/fema-review-panel-trump.html) |
+| 2026-05-09 | The G.O.P. Rush To Break Up Majority-Black Districts | NYT · Politics | Politics | news | 2026-05-10 | [link](https://www.nytimes.com/video/us/politics/100000010887504/the-gop-rush-to-break-up-majority-black-districts.html) |
+| 2026-05-09 | In Permissive Amsterdam, Ads for Fossil Fuels or Meat Are Now Verboden | NYT · Energy & Environment | Energy & Environment | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/climate/in-permissive-amsterdam-ads-for-fossil-fuels-or-meat-are-now-verboden.html) |
+| 2026-05-09 | Iran Responds to Latest U.S. Plan to End War | NYT · Politics | Politics | news | 2026-05-10 | [link](https://www.nytimes.com/2026/05/10/us/politics/iran-war-us-peace-proposal-response.html) |
+| 2026-05-09 | Musk’s SpaceX Goals Shift Ahead of Its I.P.O. | NYT · AI | AI | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html) |
+| 2026-05-09 | How Minority Districts Fueled the G.O.P.’s Southern Ascendancy in Congress | NYT · Politics | Politics | news | 2026-05-09 | [link](https://www.nytimes.com/2026/05/09/us/politics/how-minority-districts-fueled-the-gops-southern-ascendancy-in-congress.html) |
+| 2026-05-09 | Quoting Luke Curley | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-09 | [link](https://simonwillison.net/2026/May/9/luke-curley/#atom-everything) |
+| 2026-05-09 | Book Review: The Names by Florence Knapp ★★⯪☆☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-05-09 | [link](https://shkspr.mobi/blog/2026/05/book-review-the-names-by-florence-knapp/) |
+| 2026-05-09 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-08 | Google broke reCAPTCHA for de-googled Android users | HN | Technology | tech | 2026-05-08 | [link](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) |
 | 2026-05-08 | Poland is now among the 20 largest economies | HN | Technology | tech | 2026-05-08 | [link](https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa) |
 | 2026-05-08 | David Attenborough's 100th Birthday | HN | Technology | tech | 2026-05-08 | [link](https://www.bbc.com/news/articles/cp3pww9g0p5o) |

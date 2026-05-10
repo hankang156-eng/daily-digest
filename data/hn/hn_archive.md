@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-09 · 375 days · 3750 stories*
+*Last updated: 2026-05-10 · 376 days · 3760 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-09 | Saturday | 1 | Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc | 679 | 653 | Technology | [link](https://twitter.com/jarredsumner/status/2053047748191232310) · [HN](https://news.ycombinator.com/item?id=48073680) |
+| 2026-05-09 | Saturday | 2 | Internet Archive Switzerland | 675 | 108 | Technology | [link](https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/) · [HN](https://news.ycombinator.com/item?id=48074265) |
+| 2026-05-09 | Saturday | 3 | EU Parliamentary Research Service calls VPNs "a loophole that needs closing" | 617 | 423 | Technology | [link](https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/) · [HN](https://news.ycombinator.com/item?id=48072190) |
+| 2026-05-09 | Saturday | 4 | I returned to AWS and was reminded why I left | 539 | 407 | Technology | [link](http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html) · [HN](https://news.ycombinator.com/item?id=48073201) |
+| 2026-05-09 | Saturday | 5 | I’ve banned query strings | 525 | 274 | Technology | [link](https://chrismorgan.info/no-query-strings) · [HN](https://news.ycombinator.com/item?id=48076173) |
+| 2026-05-09 | Saturday | 6 | Using Claude Code: The unreasonable effectiveness of HTML | 500 | 270 | Technology | [link](https://twitter.com/trq212/status/2052809885763747935) · [HN](https://news.ycombinator.com/item?id=48071940) |
+| 2026-05-09 | Saturday | 7 | LLMs corrupt your documents when you delegate | 458 | 181 | Technology | [link](https://arxiv.org/abs/2604.15597) · [HN](https://news.ycombinator.com/item?id=48073246) |
+| 2026-05-09 | Saturday | 8 | Meta's embrace of AI is making its employees miserable | 426 | 496 | Technology | [link](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html) · [HN](https://news.ycombinator.com/item?id=48077126) |
+| 2026-05-09 | Saturday | 9 | The hypocrisy of cyberlibertarianism | 396 | 350 | Technology | [link](https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/) · [HN](https://news.ycombinator.com/item?id=48074952) |
+| 2026-05-09 | Saturday | 10 | Distributing Mac software is increasing my cortisol levels | 377 | 266 | Technology | [link](https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels) · [HN](https://news.ycombinator.com/item?id=48075366) |
 | 2026-05-08 | Friday | 1 | Google broke reCAPTCHA for de-googled Android users | 1344 | 490 | Technology | [link](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) · [HN](https://news.ycombinator.com/item?id=48067119) |
 | 2026-05-08 | Friday | 2 | Poland is now among the 20 largest economies | 1006 | 803 | Technology | [link](https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa) · [HN](https://news.ycombinator.com/item?id=48062117) |
 | 2026-05-08 | Friday | 3 | David Attenborough's 100th Birthday | 784 | 152 | Technology | [link](https://www.bbc.com/news/articles/cp3pww9g0p5o) · [HN](https://news.ycombinator.com/item?id=48061884) |
