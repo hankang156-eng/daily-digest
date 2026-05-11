@@ -1,9 +1,52 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-10 · 508 items*
+*Last updated: 2026-05-11 · 551 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-10 | Hardware Attestation as Monopoly Enabler | HN | Technology | tech | 2026-05-10 | [link](https://grapheneos.social/@GrapheneOS/116550899908879585) |
+| 2026-05-10 | Local AI needs to be the norm | HN | Technology | tech | 2026-05-10 | [link](https://unix.foo/posts/local-ai-needs-to-be-norm/) |
+| 2026-05-10 | I'm going back to writing code by hand | HN | Technology | tech | 2026-05-10 | [link](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/) |
+| 2026-05-10 | Incident Report: CVE-2024-YIKES | HN | Technology | tech | 2026-05-10 | [link](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html) |
+| 2026-05-10 | Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer | HN | Technology | tech | 2026-05-10 | [link](https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer) |
+| 2026-05-10 | Running local models on an M4 with 24GB memory | HN | Technology | tech | 2026-05-10 | [link](https://jola.dev/posts/running-local-models-on-m4) |
+| 2026-05-10 | Remind HN: Today is Mother's Day, call your moms | HN | Technology | tech | 2026-05-10 | [link](https://news.ycombinator.com/item?id=48085384) |
+| 2026-05-10 | Debian must ship reproducible packages | HN | Technology | tech | 2026-05-10 | [link](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html) |
+| 2026-05-10 | Space Cadet Pinball on Linux | HN | Technology | tech | 2026-05-10 | [link](https://brennan.io/2026/05/09/pinball-and-escrow/) |
+| 2026-05-10 | Obsidian plugin was abused to deploy a remote access trojan | HN | Technology | tech | 2026-05-10 | [link](https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/) |
+| 2026-05-10 | An AI coding agent, used to write code, needs to reduce your maintenance costs | HN | Technology | tech | 2026-05-10 | [link](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs) |
+| 2026-05-10 | Maryland citizens hit with $2B power grid upgrade for out-of-state AI | HN | Technology | tech | 2026-05-10 | [link](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises) |
+| 2026-05-10 | The greatest shot in television: James Burke had one chance to nail this scene (2024) | HN | Technology | tech | 2026-05-10 | [link](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html) |
+| 2026-05-10 | YC's Biggest Scandals | HN | Technology | tech | 2026-05-10 | [link](https://ycombinator.fyi/) |
+| 2026-05-10 | Task Paralysis and AI | HN | Technology | tech | 2026-05-10 | [link](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html) |
+| 2026-05-10 | GitHub is sinking | HN | Technology | tech | 2026-05-10 | [link](https://dbushell.com/2026/04/29/github-is-sinking/) |
+| 2026-05-10 | Why China Is So Much Less Scared of A.I. Than the U.S. | NYT · AI | AI | opinion | 2026-05-09 | [link](https://www.nytimes.com/2026/05/09/opinion/ai-china-america-race.html) |
+| 2026-05-10 | A.I. Claims to Make Our Lives Easier. Does It? | NYT · AI | AI | opinion | 2026-05-11 | [link](https://www.nytimes.com/2026/05/11/opinion/ai-jobs-chores-work.html) |
+| 2026-05-10 | Is China Winning the A.I. Race? | NYT · AI | AI | news | 2026-05-11 | [link](https://www.nytimes.com/2026/05/11/podcasts/the-daily/china-ai-race.html) |
+| 2026-05-10 | All Those A.I. Note Takers? They’re Making Lawyers Very Nervous. | NYT · AI | AI | news | 2026-05-09 | [link](https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html) |
+| 2026-05-10 | Trump and Xi Are Set to Meet Again. Here’s What to Know. | NYT · AI | AI | news | 2026-05-11 | [link](https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html) |
+| 2026-05-10 | Google Says Criminal Hackers Used A.I. to Find a Major Software Flaw | NYT · AI | AI | news | 2026-05-11 | [link](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html) |
+| 2026-05-10 | Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Produc | NYT · Technology | Technology | news | 2026-05-11 | [link](https://www.nytimes.com/2026/05/08/podcasts/hardfork-prediction-markets.html) |
+| 2026-05-10 | Inside the Elon Musk-OpenAI Trial Courtroom | NYT · AI | AI | news | 2026-05-11 | [link](https://www.nytimes.com/2026/05/11/technology/courtroom-circus-elon-musk-sam-altman.html) |
+| 2026-05-10 | How Students Interact With A.I. Is What Matters | NYT · AI | AI | opinion | 2026-05-10 | [link](https://www.nytimes.com/2026/05/10/opinion/ai-students.html) |
+| 2026-05-10 | Lawsuit Accuses Lucky Strike of Building a Bowling Monopoly | NYT · Business | Business | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/business/bowling-lucky-strike-lawsuit.html) |
+| 2026-05-10 | Meta’s Embrace of A.I. Is Making Its Employees Miserable | NYT · Technology | Technology | news | 2026-05-08 | [link](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html) |
+| 2026-05-10 | Scientists Press Congress on Dismissal of National Science Foundation Board and Research Funding | NYT · Politics | Politics | news | 2026-05-11 | [link](https://www.nytimes.com/2026/05/11/us/politics/nsf-science-congress-trump.html) |
+| 2026-05-10 | Consumers Lean on a ‘Hamster Wheel’ of Credit to Manage Rising Costs | NYT · Business | Business | news | 2026-05-10 | [link](https://www.nytimes.com/2026/05/10/business/consumers-credit-inflation-costs.html) |
+| 2026-05-10 | What’s Happened So Far at the Musk v. OpenAI Trial | NYT · Business | Business | news | 2026-05-10 | [link](https://www.nytimes.com/2026/05/08/business/dealbook/musk-openai-trial.html) |
+| 2026-05-10 | Which Trump Tariffs Are in Place, in the Works or Ruled Illegal | NYT · Economy | Economy | news | 2026-05-10 | [link](https://www.nytimes.com/2026/05/09/business/economy/trump-tariff-timeline.html) |
+| 2026-05-10 | Stocks Sink in Broad AI Rout Sparked by China's DeepSeek | WSJ · Markets | Markets | news | 2025-01-27 | [link](https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main) |
+| 2026-05-10 | The Atheist and the Machine God | NYT · AI | AI | opinion | 2026-05-11 | [link](https://www.nytimes.com/2026/05/09/opinion/artificial-intelligence-consciousness-richard-dawkins.html) |
+| 2026-05-10 | In Permissive Amsterdam, Ads for Fossil Fuels or Meat Are Now Verboden | NYT · Energy & Environment | Energy & Environment | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/climate/in-permissive-amsterdam-ads-for-fossil-fuels-or-meat-are-now-verboden.html) |
+| 2026-05-10 | Trump Says Iran’s Response to Latest U.S. Proposal ‘Totally Unacceptable’ | NYT · Politics | Politics | news | 2026-05-11 | [link](https://www.nytimes.com/2026/05/10/us/politics/iran-war-us-peace-proposal-response.html) |
+| 2026-05-10 | Musk’s SpaceX Goals Shift Ahead of Its I.P.O. | NYT · AI | AI | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html) |
+| 2026-05-10 | Weekly Update 503 | Troy Hunt · Security & Privacy | Security | tech | 2026-05-10 | [link](https://www.troyhunt.com/weekly-update-503/) |
+| 2026-05-10 | Meta to Start Capturing Employee Mouse Movements, Keystrokes for AI Training Data | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-10 | [link](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/) |
+| 2026-05-10 | Quoting New York Times Editors’ Note | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-10 | [link](https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything) |
+| 2026-05-10 | WorkOS | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-10 | [link](https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) |
+| 2026-05-10 | Quoting Andrew Quinn | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-10 | [link](https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything) |
+| 2026-05-10 | [RSS Club] A Sneak Preview of Upcoming Posts | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-05-10 | [link](https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/) |
+| 2026-05-10 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-09 | Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc | HN | Technology | tech | 2026-05-09 | [link](https://twitter.com/jarredsumner/status/2053047748191232310) |
 | 2026-05-09 | Internet Archive Switzerland | HN | Technology | tech | 2026-05-09 | [link](https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/) |
 | 2026-05-09 | EU Parliamentary Research Service calls VPNs "a loophole that needs closing" | HN | Technology | tech | 2026-05-09 | [link](https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/) |

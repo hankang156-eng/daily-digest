@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-10 · 376 days · 3760 stories*
+*Last updated: 2026-05-11 · 377 days · 3770 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-10 | Sunday | 1 | Hardware Attestation as Monopoly Enabler | 1980 | 665 | Technology | [link](https://grapheneos.social/@GrapheneOS/116550899908879585) · [HN](https://news.ycombinator.com/item?id=48086190) |
+| 2026-05-10 | Sunday | 2 | Local AI needs to be the norm | 1635 | 638 | Technology | [link](https://unix.foo/posts/local-ai-needs-to-be-norm/) · [HN](https://news.ycombinator.com/item?id=48085821) |
+| 2026-05-10 | Sunday | 3 | I'm going back to writing code by hand | 761 | 421 | Technology | [link](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/) · [HN](https://news.ycombinator.com/item?id=48090029) |
+| 2026-05-10 | Sunday | 4 | Incident Report: CVE-2024-YIKES | 659 | 159 | Technology | [link](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html) · [HN](https://news.ycombinator.com/item?id=48086082) |
+| 2026-05-10 | Sunday | 5 | Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer | 575 | 312 | Technology | [link](https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer) · [HN](https://news.ycombinator.com/item?id=48084432) |
+| 2026-05-10 | Sunday | 6 | Running local models on an M4 with 24GB memory | 483 | 143 | Technology | [link](https://jola.dev/posts/running-local-models-on-m4) · [HN](https://news.ycombinator.com/item?id=48089091) |
+| 2026-05-10 | Sunday | 7 | Remind HN: Today is Mother's Day, call your moms | 368 | 158 | Technology | [link](https://news.ycombinator.com/item?id=48085384) · [HN](https://news.ycombinator.com/item?id=48085384) |
+| 2026-05-10 | Sunday | 8 | Debian must ship reproducible packages | 360 | 160 | Technology | [link](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html) · [HN](https://news.ycombinator.com/item?id=48081245) |
+| 2026-05-10 | Sunday | 9 | Space Cadet Pinball on Linux | 342 | 122 | Technology | [link](https://brennan.io/2026/05/09/pinball-and-escrow/) · [HN](https://news.ycombinator.com/item?id=48082968) |
+| 2026-05-10 | Sunday | 10 | Obsidian plugin was abused to deploy a remote access trojan | 314 | 186 | Technology | [link](https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/) · [HN](https://news.ycombinator.com/item?id=48088576) |
 | 2026-05-09 | Saturday | 1 | Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc | 679 | 653 | Technology | [link](https://twitter.com/jarredsumner/status/2053047748191232310) · [HN](https://news.ycombinator.com/item?id=48073680) |
 | 2026-05-09 | Saturday | 2 | Internet Archive Switzerland | 675 | 108 | Technology | [link](https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/) · [HN](https://news.ycombinator.com/item?id=48074265) |
 | 2026-05-09 | Saturday | 3 | EU Parliamentary Research Service calls VPNs "a loophole that needs closing" | 617 | 423 | Technology | [link](https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/) · [HN](https://news.ycombinator.com/item?id=48072190) |
