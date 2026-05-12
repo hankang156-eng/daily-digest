@@ -1,9 +1,53 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-11 · 551 items*
+*Last updated: 2026-05-12 · 595 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-11 | Postmortem: TanStack NPM supply-chain compromise | HN | Technology | tech | 2026-05-11 | [link](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem) |
+| 2026-05-11 | If AI writes your code, why use Python? | HN | Technology | tech | 2026-05-11 | [link](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055) |
+| 2026-05-11 | Mythos Finds a Curl Vulnerability | HN | Technology | tech | 2026-05-11 | [link](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/) |
+| 2026-05-11 | Ratty – A terminal emulator with inline 3D graphics | HN | Technology | tech | 2026-05-11 | [link](https://ratty-term.org/) |
+| 2026-05-11 | GitLab announces workforce reduction and end of their CREDIT values | HN | Technology | tech | 2026-05-11 | [link](https://about.gitlab.com/blog/gitlab-act-2/) |
+| 2026-05-11 | Gmail registration now requires scanning a QR code and sending a text message | HN | Technology | tech | 2026-05-11 | [link](https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082) |
+| 2026-05-11 | They Live (1988) inspired Adblocker | HN | Technology | tech | 2026-05-11 | [link](https://github.com/davmlaw/they_live_adblocker) |
+| 2026-05-11 | Software engineering may no longer be a lifetime career | HN | Technology | tech | 2026-05-11 | [link](https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/) |
+| 2026-05-11 | CUDA-oxide: Nvidia's official Rust to CUDA compiler | HN | Technology | tech | 2026-05-11 | [link](https://nvlabs.github.io/cuda-oxide/index.html) |
+| 2026-05-11 | UCLA discovers first stroke rehabilitation drug to repair brain damage (2025) | HN | Technology | tech | 2026-05-11 | [link](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage) |
+| 2026-05-11 | Interaction Models | HN | Technology | tech | 2026-05-11 | [link](https://thinkingmachines.ai/blog/interaction-models/) |
+| 2026-05-11 | Can someone please explain whether Cloudflare blackmailed Canonical? | HN | Technology | tech | 2026-05-11 | [link](https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/) |
+| 2026-05-11 | A.I. note takers are making lawyers nervous | HN | Technology | tech | 2026-05-11 | [link](https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html) |
+| 2026-05-11 | I let AI build a tool to help me figure out what was waking me up at night | HN | Technology | tech | 2026-05-11 | [link](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/) |
+| 2026-05-11 | Google says criminal hackers used AI to find a major software flaw | HN | Technology | tech | 2026-05-11 | [link](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html) |
+| 2026-05-11 | Claude Platform on AWS | HN | Technology | tech | 2026-05-11 | [link](https://claude.com/blog/claude-platform-on-aws) |
+| 2026-05-11 | Wrongful Death Lawsuits Against OpenAI Test a New Strategy | NYT · AI | AI | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/technology/chatgpt-lawsuit-wrongful-death.html) |
+| 2026-05-11 | Kevin Warsh Is Already Getting It Wrong | NYT · AI | AI | opinion | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/opinion/kevin-warsh-fed-ai.html) |
+| 2026-05-11 | How Much Power Did Microsoft Have Over OpenAI? | NYT · AI | AI | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/business/dealbook/nadella-microsoft-openai-musk-trial.html) |
+| 2026-05-11 | Start-Up Raises $1.3 Billion for an A.I. ‘Grid’ | NYT · AI | AI | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/technology/amp-startup.html) |
+| 2026-05-11 | A.I. and Humans Battle It Out in a Cybersecurity Showdown | NYT · AI | AI | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/technology/ai-cybersecurity-competition.html) |
+| 2026-05-11 | CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran | NYT · Economy | Economy | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html) |
+| 2026-05-11 | Byron Allen Is Buying a Controlling Stake in BuzzFeed | NYT · Business | Business | news | 2026-05-11 | [link](https://www.nytimes.com/2026/05/11/business/media/buzzfeed-byron-allen.html) |
+| 2026-05-11 | China Sought Access to Anthropic’s Newest A.I. The Answer Was No. | NYT · AI | AI | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html) |
+| 2026-05-11 | Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Produc | NYT · Technology | Technology | news | 2026-05-11 | [link](https://www.nytimes.com/2026/05/08/podcasts/hardfork-prediction-markets.html) |
+| 2026-05-11 | China Seeks A.I. Independence, Weakening Trump’s Leverage | NYT · AI | AI | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html) |
+| 2026-05-11 | Inflation Jumps, Oil Prices Rise on U.S.-Iran Standoff | NYT · Business | Business | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/business/oil-prices-rise-us-iran.html) |
+| 2026-05-11 | Is Anthropic’s Claude Mythos Really a Cybersecurity Risk? | NYT · AI | AI | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/technology/anthropic-claude-mythos.html) |
+| 2026-05-11 | This Is What Happened After We Gutted U.S.A.I.D. | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-05-11 | [link](https://www.nytimes.com/2026/05/09/opinion/foreign-aid-cuts.html) |
+| 2026-05-11 | Book Review: ‘AI for Good,’ by Josh Tyrangiel | NYT · AI | AI | opinion | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/books/review/ai-for-good-josh-tyrangiel.html) |
+| 2026-05-11 | Stocks Sink in Broad AI Rout Sparked by China's DeepSeek | WSJ · Markets | Markets | news | 2025-01-27 | [link](https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main) |
+| 2026-05-11 | Trump Proposes Suspending Federal Gas Tax Until Prices Fall | NYT · Energy & Environment | Energy & Environment | news | 2026-05-11 | [link](https://www.nytimes.com/2026/05/11/us/politics/trump-gas-tax.html) |
+| 2026-05-11 | A.I. Claims to Make Our Lives Easier. Does It? | NYT · Opinion | Opinion | opinion | 2026-05-11 | [link](https://www.nytimes.com/2026/05/11/opinion/ai-jobs-chores-work.html) |
+| 2026-05-11 | How the U.S. Is Trying to Ensure the Dollar’s Dominance During Economic Turmoil | NYT · Economy | Economy | news | 2026-05-11 | [link](https://www.nytimes.com/2026/05/11/business/dollar-dominance-renminbi-china.html) |
+| 2026-05-11 | In Permissive Amsterdam, Ads for Fossil Fuels or Meat Are Now Verboden | NYT · Energy & Environment | Energy & Environment | news | 2026-05-01 | [link](https://www.nytimes.com/2026/05/01/climate/in-permissive-amsterdam-ads-for-fossil-fuels-or-meat-are-now-verboden.html) |
+| 2026-05-11 | ﻿How Leaders Can Move Past Personal Obstacles | MIT Sloan Review · Strategy & Craft | Business | analysis | 2026-05-11 | [link](https://sloanreview.mit.edu/article/how-leaders-can-move-past-personal-obstacles/) |
+| 2026-05-11 | Welcoming the Bangladesh Government to Have I Been Pwned | Troy Hunt · Security & Privacy | Security | tech | 2026-05-11 | [link](https://www.troyhunt.com/welcoming-the-bangladesh-government-to-have-i-been-pwned/) |
+| 2026-05-11 | Welcoming the Costa Rican Government to Have I Been Pwned | Troy Hunt · Security & Privacy | Security | tech | 2026-05-11 | [link](https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/) |
+| 2026-05-11 | Quoting James Shore | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-11 | [link](https://simonwillison.net/2026/May/11/james-shore/#atom-everything) |
+| 2026-05-11 | Your AI Use Is Breaking My Brain | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-11 | [link](https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything) |
+| 2026-05-11 | iPhone Models Ranked 1st, 2nd, 3rd, and 6th in Counterpoint’s List of 10 Bestselling Phones Worldwid | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-11 | [link](https://appleworld.today/2026/05/apples-iphone-17-was-the-worlds-best-selling-smartphone-in-quarter-one-of-2026/) |
+| 2026-05-11 | Tahoe’s UI Issues Have Nothing to Do With Display Technology, and Maybe, Just Maybe, We Should Stop  | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-11 | [link](https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3ODQyMTgwOSwiZXhwIjoxNzc5MDI2NjA5LCJhcnRpY2xlSWQiOiJURVRRVzFLR0NURkwwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPDmd_jJhdzOBKvj1AUZTernGpGdF1zR9kGgFIF-9Hw&leadSource=uverify%20wall) |
+| 2026-05-11 | Find blog posts with missing featured images - and missing alt text - without a plugin | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-05-11 | [link](https://shkspr.mobi/blog/2026/05/find-blog-posts-with-missing-featured-images-and-missing-alt-text-without-a-plugin/) |
+| 2026-05-11 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-10 | Hardware Attestation as Monopoly Enabler | HN | Technology | tech | 2026-05-10 | [link](https://grapheneos.social/@GrapheneOS/116550899908879585) |
 | 2026-05-10 | Local AI needs to be the norm | HN | Technology | tech | 2026-05-10 | [link](https://unix.foo/posts/local-ai-needs-to-be-norm/) |
 | 2026-05-10 | I'm going back to writing code by hand | HN | Technology | tech | 2026-05-10 | [link](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/) |

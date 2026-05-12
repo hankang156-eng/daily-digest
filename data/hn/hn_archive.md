@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-11 · 377 days · 3770 stories*
+*Last updated: 2026-05-12 · 378 days · 3780 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-11 | Monday | 1 | Postmortem: TanStack NPM supply-chain compromise | 990 | 418 | Technology | [link](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem) · [HN](https://news.ycombinator.com/item?id=48100706) |
+| 2026-05-11 | Monday | 2 | If AI writes your code, why use Python? | 742 | 776 | Technology | [link](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055) · [HN](https://news.ycombinator.com/item?id=48100433) |
+| 2026-05-11 | Monday | 3 | Mythos Finds a Curl Vulnerability | 666 | 277 | Technology | [link](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/) · [HN](https://news.ycombinator.com/item?id=48091737) |
+| 2026-05-11 | Monday | 4 | Ratty – A terminal emulator with inline 3D graphics | 652 | 230 | Technology | [link](https://ratty-term.org/) · [HN](https://news.ycombinator.com/item?id=48093100) |
+| 2026-05-11 | Monday | 5 | GitLab announces workforce reduction and end of their CREDIT values | 639 | 623 | Technology | [link](https://about.gitlab.com/blog/gitlab-act-2/) · [HN](https://news.ycombinator.com/item?id=48100500) |
+| 2026-05-11 | Monday | 6 | Gmail registration now requires scanning a QR code and sending a text message | 611 | 488 | Technology | [link](https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082) · [HN](https://news.ycombinator.com/item?id=48092028) |
+| 2026-05-11 | Monday | 7 | They Live (1988) inspired Adblocker | 472 | 149 | Technology | [link](https://github.com/davmlaw/they_live_adblocker) · [HN](https://news.ycombinator.com/item?id=48102700) |
+| 2026-05-11 | Monday | 8 | Software engineering may no longer be a lifetime career | 457 | 719 | Technology | [link](https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/) · [HN](https://news.ycombinator.com/item?id=48095550) |
+| 2026-05-11 | Monday | 9 | CUDA-oxide: Nvidia's official Rust to CUDA compiler | 414 | 116 | Technology | [link](https://nvlabs.github.io/cuda-oxide/index.html) · [HN](https://news.ycombinator.com/item?id=48096692) |
+| 2026-05-11 | Monday | 10 | UCLA discovers first stroke rehabilitation drug to repair brain damage (2025) | 411 | 80 | Technology | [link](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage) · [HN](https://news.ycombinator.com/item?id=48098261) |
 | 2026-05-10 | Sunday | 1 | Hardware Attestation as Monopoly Enabler | 1980 | 665 | Technology | [link](https://grapheneos.social/@GrapheneOS/116550899908879585) · [HN](https://news.ycombinator.com/item?id=48086190) |
 | 2026-05-10 | Sunday | 2 | Local AI needs to be the norm | 1635 | 638 | Technology | [link](https://unix.foo/posts/local-ai-needs-to-be-norm/) · [HN](https://news.ycombinator.com/item?id=48085821) |
 | 2026-05-10 | Sunday | 3 | I'm going back to writing code by hand | 761 | 421 | Technology | [link](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/) · [HN](https://news.ycombinator.com/item?id=48090029) |
