@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-12 · 378 days · 3780 stories*
+*Last updated: 2026-05-13 · 379 days · 3790 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-12 | Tuesday | 1 | Bambu Lab is abusing the open source social contract | 1357 | 421 | Technology | [link](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/) · [HN](https://news.ycombinator.com/item?id=48109224) |
+| 2026-05-12 | Tuesday | 2 | Googlebook | 901 | 1509 | Technology | [link](https://googlebook.google/) · [HN](https://news.ycombinator.com/item?id=48111545) |
+| 2026-05-12 | Tuesday | 3 | Why senior developers fail to communicate their expertise | 767 | 318 | Technology | [link](https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise) · [HN](https://news.ycombinator.com/item?id=48109460) |
+| 2026-05-12 | Tuesday | 4 | Screenshots of Old Desktop OSes | 696 | 383 | Technology | [link](http://www.typewritten.org/Media/) · [HN](https://news.ycombinator.com/item?id=48104428) |
+| 2026-05-12 | Tuesday | 5 | Restore full BambuNetwork support for Bambu Lab printers | 637 | 291 | Technology | [link](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) · [HN](https://news.ycombinator.com/item?id=48115127) |
+| 2026-05-12 | Tuesday | 6 | Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model | 632 | 181 | Technology | [link](https://github.com/cactus-compute/needle) · [HN](https://news.ycombinator.com/item?id=48111896) |
+| 2026-05-12 | Tuesday | 7 | Learning Software Architecture | 583 | 114 | Technology | [link](https://matklad.github.io/2026/05/12/software-architecture.html) · [HN](https://news.ycombinator.com/item?id=48106024) |
+| 2026-05-12 | Tuesday | 8 | Rendering the Sky, Sunsets, and Planets | 521 | 41 | Technology | [link](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/) · [HN](https://news.ycombinator.com/item?id=48107997) |
+| 2026-05-12 | Tuesday | 9 | EU to crack down on TikTok, Instagram's 'addictive design' targeting kids | 508 | 458 | Technology | [link](https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html) · [HN](https://news.ycombinator.com/item?id=48106534) |
+| 2026-05-12 | Tuesday | 10 | How to make your text look futuristic (2016) | 474 | 59 | Technology | [link](https://typesetinthefuture.com/2016/02/18/futuristic/) · [HN](https://news.ycombinator.com/item?id=48113895) |
 | 2026-05-11 | Monday | 1 | Postmortem: TanStack NPM supply-chain compromise | 990 | 418 | Technology | [link](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem) · [HN](https://news.ycombinator.com/item?id=48100706) |
 | 2026-05-11 | Monday | 2 | If AI writes your code, why use Python? | 742 | 776 | Technology | [link](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055) · [HN](https://news.ycombinator.com/item?id=48100433) |
 | 2026-05-11 | Monday | 3 | Mythos Finds a Curl Vulnerability | 666 | 277 | Technology | [link](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/) · [HN](https://news.ycombinator.com/item?id=48091737) |

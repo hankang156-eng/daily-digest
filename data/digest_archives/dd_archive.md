@@ -1,9 +1,52 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-12 · 595 items*
+*Last updated: 2026-05-13 · 638 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-12 | Bambu Lab is abusing the open source social contract | HN | Technology | tech | 2026-05-12 | [link](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/) |
+| 2026-05-12 | Googlebook | HN | Technology | tech | 2026-05-12 | [link](https://googlebook.google/) |
+| 2026-05-12 | Why senior developers fail to communicate their expertise | HN | Technology | tech | 2026-05-12 | [link](https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise) |
+| 2026-05-12 | Screenshots of Old Desktop OSes | HN | Technology | tech | 2026-05-12 | [link](http://www.typewritten.org/Media/) |
+| 2026-05-12 | Restore full BambuNetwork support for Bambu Lab printers | HN | Technology | tech | 2026-05-12 | [link](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) |
+| 2026-05-12 | Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model | HN | Technology | tech | 2026-05-12 | [link](https://github.com/cactus-compute/needle) |
+| 2026-05-12 | Learning Software Architecture | HN | Technology | tech | 2026-05-12 | [link](https://matklad.github.io/2026/05/12/software-architecture.html) |
+| 2026-05-12 | Rendering the Sky, Sunsets, and Planets | HN | Technology | tech | 2026-05-12 | [link](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/) |
+| 2026-05-12 | EU to crack down on TikTok, Instagram's 'addictive design' targeting kids | HN | Technology | tech | 2026-05-12 | [link](https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html) |
+| 2026-05-12 | How to make your text look futuristic (2016) | HN | Technology | tech | 2026-05-12 | [link](https://typesetinthefuture.com/2016/02/18/futuristic/) |
+| 2026-05-12 | The Future of Obsidian Plugins | HN | Technology | tech | 2026-05-12 | [link](https://obsidian.md/blog/future-of-plugins/) |
+| 2026-05-12 | Tell NYT, Atlantic, USA Today to keep Wayback Machine | HN | Technology | tech | 2026-05-12 | [link](https://www.savethearchive.com/newsleaders/) |
+| 2026-05-12 | Operation: Epic Furious | HN | Technology | tech | 2026-05-12 | [link](https://www.epicfurious.com/) |
+| 2026-05-12 | Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare | HN | Technology | tech | 2026-05-12 | [link](https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare) |
+| 2026-05-12 | Quack: The DuckDB Client-Server Protocol | HN | Technology | tech | 2026-05-12 | [link](https://duckdb.org/2026/05/12/quack-remote-protocol) |
+| 2026-05-12 | CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq | HN | Technology | tech | 2026-05-12 | [link](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html) |
+| 2026-05-12 | Andreessen Horowitz Is Playing Politics Like No Other | NYT · AI | AI | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/13/technology/andreessen-horowitz-politics.html) |
+| 2026-05-12 | A Start-Up Aiming to Make Geothermal Energy Mainstream Goes Public | NYT · Energy & Environment | Energy & Environment | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/13/business/energy-environment/fervo-geothermal-energy-ipo.html) |
+| 2026-05-12 | Why A.I. is the Hidden Minefield of Trump’s China Visit | NYT · AI | AI | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/13/world/asia/us-china-trump-xi-beijing-ai.html) |
+| 2026-05-12 | Silicon Valley’s A.I. Lobbying Blitz Reaches a Fever Pitch | NYT · AI | AI | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/13/technology/ai-lobbying-washington-openai-anthropic.html) |
+| 2026-05-12 | Anduril Raises $5 Billion in Funding and Is Valued at $61 Billion | NYT · AI | AI | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html) |
+| 2026-05-12 | Notable Researchers Join $4 Billion Effort to Build Self-Improving A.I. | NYT · AI | AI | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html) |
+| 2026-05-12 | Anthropic in Talks to Raise Funding at a $950 Billion Valuation | NYT · AI | AI | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/12/technology/anthropic-funding-950-billion-valuation.html) |
+| 2026-05-12 | Wrongful Death Lawsuits Against OpenAI Test a New Strategy | NYT · Technology | Technology | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/technology/chatgpt-lawsuit-wrongful-death.html) |
+| 2026-05-12 | How Much Power Did Microsoft Have Over OpenAI? | NYT · Business | Business | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/business/dealbook/nadella-microsoft-openai-musk-trial.html) |
+| 2026-05-12 | CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran | NYT · Economy | Economy | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html) |
+| 2026-05-12 | Nvidia C.E.O. Jensen Huang Hitches Ride With Trump to China After Last-Minute Invite | NYT · AI | AI | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/12/us/politics/trump-china-summit-nvidia-jensen-huang.html) |
+| 2026-05-12 | Tom Steyer Thinks California Is Ready for a Different Climate Message | NYT · Energy & Environment | Energy & Environment | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/12/climate/tom-steyer-california-governor.html) |
+| 2026-05-12 | Kevin Warsh Is Already Getting It Wrong | NYT · Opinion | Opinion | opinion | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/opinion/kevin-warsh-fed-ai.html) |
+| 2026-05-12 | Tomato Prices Soar as War, Tariffs and Weather Affect a Popular Crop | NYT · Business | Business | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/business/inflation-tomatoes-prices.html) |
+| 2026-05-12 | Byron Allen Is Buying a Controlling Stake in BuzzFeed | NYT · Business | Business | news | 2026-05-11 | [link](https://www.nytimes.com/2026/05/11/business/media/buzzfeed-byron-allen.html) |
+| 2026-05-12 | Stocks Sink in Broad AI Rout Sparked by China's DeepSeek | WSJ · Markets | Markets | news | 2025-01-27 | [link](https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main) |
+| 2026-05-12 | Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins | WSJ · Markets | Markets | news | 2025-01-26 | [link](https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main) |
+| 2026-05-12 | A.I. Claims to Make Our Lives Easier. Does It? | NYT · Opinion | Opinion | opinion | 2026-05-13 | [link](https://www.nytimes.com/2026/05/11/opinion/ai-jobs-chores-work.html) |
+| 2026-05-12 | Lithuania’s Peat Bogs Could Help the Climate and Defend the Border, Too | NYT · Energy & Environment | Energy & Environment | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/13/climate/lithuania-peat-defense-tanks-climate.html) |
+| 2026-05-12 | This Is What Happened After We Gutted U.S.A.I.D. | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-05-11 | [link](https://www.nytimes.com/2026/05/09/opinion/foreign-aid-cuts.html) |
+| 2026-05-12 | Beyond Verification — What Responsible AI Really Demands of Human Experts | MIT Sloan Review · Strategy & Craft | Business | analysis | 2026-05-12 | [link](https://sloanreview.mit.edu/article/beyond-verification-what-responsible-ai-really-demands-of-human-experts/) |
+| 2026-05-12 | Patch Tuesday, May 2026 Edition | Krebs on Security · Security & Privacy | Security | tech | 2026-05-12 | [link](https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/) |
+| 2026-05-12 | Quoting Mo Bitar | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-12 | [link](https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything) |
+| 2026-05-12 | [Sponsor] Drata | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-12 | [link](https://drata.com/daring) |
+| 2026-05-12 | Quoting Mitchell Hashimoto | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-12 | [link](https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything) |
+| 2026-05-12 | Broadcasters Urge EU to Use the DMA to Go After Smart TV Platforms, None of Which Are From European  | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-12 | [link](https://www.reuters.com/sustainability/boards-policy-regulation/eu-digital-rules-should-apply-big-techs-smart-tvs-broadcasters-tell-antitrust-2026-03-23/) |
+| 2026-05-12 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-11 | Postmortem: TanStack NPM supply-chain compromise | HN | Technology | tech | 2026-05-11 | [link](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem) |
 | 2026-05-11 | If AI writes your code, why use Python? | HN | Technology | tech | 2026-05-11 | [link](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055) |
 | 2026-05-11 | Mythos Finds a Curl Vulnerability | HN | Technology | tech | 2026-05-11 | [link](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/) |
