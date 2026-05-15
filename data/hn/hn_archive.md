@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-13 · 379 days · 3790 stories*
+*Last updated: 2026-05-14 · 380 days · 3800 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-13 | Wednesday | 1 | I moved my digital stack to Europe | 1010 | 600 | Technology | [link](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/) · [HN](https://news.ycombinator.com/item?id=48120629) |
+| 2026-05-13 | Wednesday | 2 | Leaving GitHub for Forgejo | 620 | 330 | Technology | [link](https://jorijn.com/en/blog/leaving-github-for-forgejo/) · [HN](https://news.ycombinator.com/item?id=48121266) |
+| 2026-05-13 | Wednesday | 3 | Setting up a free *.city.state.us locality domain (2025) | 610 | 208 | Technology | [link](https://fredchan.org/blog/locality-domains-guide/) · [HN](https://news.ycombinator.com/item?id=48122635) |
+| 2026-05-13 | Wednesday | 4 | Claude for Small Business | 506 | 449 | Technology | [link](https://www.anthropic.com/news/claude-for-small-business) · [HN](https://news.ycombinator.com/item?id=48130950) |
+| 2026-05-13 | Wednesday | 5 | The Emacsification of Software | 414 | 263 | Technology | [link](https://sockpuppet.org/blog/2026/05/12/emacsification/) · [HN](https://news.ycombinator.com/item?id=48118727) |
+| 2026-05-13 | Wednesday | 6 | Kickstarter is forced to ban adult content by payment processors | 393 | 279 | Technology | [link](https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648) · [HN](https://news.ycombinator.com/item?id=48123198) |
+| 2026-05-13 | Wednesday | 7 | Princeton mandates proctoring for in-person exams, upending 133 year precedent | 373 | 579 | Technology | [link](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent) · [HN](https://news.ycombinator.com/item?id=48126848) |
+| 2026-05-13 | Wednesday | 8 | Scorched Earth 2000 – Web | 369 | 146 | Technology | [link](http://www.scorch2000.com/web/) · [HN](https://news.ycombinator.com/item?id=48129694) |
+| 2026-05-13 | Wednesday | 9 | MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble | 327 | 389 | Technology | [link](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/) · [HN](https://news.ycombinator.com/item?id=48125617) |
+| 2026-05-13 | Wednesday | 10 | Deterministic Fully-Static Whole-Binary Translation Without Heuristics | 298 | 65 | Technology | [link](https://arxiv.org/abs/2605.08419) · [HN](https://news.ycombinator.com/item?id=48117810) |
 | 2026-05-12 | Tuesday | 1 | Bambu Lab is abusing the open source social contract | 1357 | 421 | Technology | [link](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/) · [HN](https://news.ycombinator.com/item?id=48109224) |
 | 2026-05-12 | Tuesday | 2 | Googlebook | 901 | 1509 | Technology | [link](https://googlebook.google/) · [HN](https://news.ycombinator.com/item?id=48111545) |
 | 2026-05-12 | Tuesday | 3 | Why senior developers fail to communicate their expertise | 767 | 318 | Technology | [link](https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise) · [HN](https://news.ycombinator.com/item?id=48109460) |

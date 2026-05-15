@@ -1,9 +1,52 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-13 · 638 items*
+*Last updated: 2026-05-14 · 681 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-13 | I moved my digital stack to Europe | HN | Technology | tech | 2026-05-13 | [link](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/) |
+| 2026-05-13 | Leaving GitHub for Forgejo | HN | Technology | tech | 2026-05-13 | [link](https://jorijn.com/en/blog/leaving-github-for-forgejo/) |
+| 2026-05-13 | Setting up a free *.city.state.us locality domain (2025) | HN | Technology | tech | 2026-05-13 | [link](https://fredchan.org/blog/locality-domains-guide/) |
+| 2026-05-13 | Claude for Small Business | HN | Technology | tech | 2026-05-13 | [link](https://www.anthropic.com/news/claude-for-small-business) |
+| 2026-05-13 | The Emacsification of Software | HN | Technology | tech | 2026-05-13 | [link](https://sockpuppet.org/blog/2026/05/12/emacsification/) |
+| 2026-05-13 | Kickstarter is forced to ban adult content by payment processors | HN | Technology | tech | 2026-05-13 | [link](https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648) |
+| 2026-05-13 | Princeton mandates proctoring for in-person exams, upending 133 year precedent | HN | Technology | tech | 2026-05-13 | [link](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent) |
+| 2026-05-13 | Scorched Earth 2000 – Web | HN | Technology | tech | 2026-05-13 | [link](http://www.scorch2000.com/web/) |
+| 2026-05-13 | MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble | HN | Technology | tech | 2026-05-13 | [link](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/) |
+| 2026-05-13 | Deterministic Fully-Static Whole-Binary Translation Without Heuristics | HN | Technology | tech | 2026-05-13 | [link](https://arxiv.org/abs/2605.08419) |
+| 2026-05-13 | Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing | HN | Technology | tech | 2026-05-13 | [link](https://news.ycombinator.com/item?id=48128003) |
+| 2026-05-13 | Open Source Resistance: keep OSS alive on company time | HN | Technology | tech | 2026-05-13 | [link](https://ossresistance.com/) |
+| 2026-05-13 | Cisco workforce reductions | HN | Technology | tech | 2026-05-13 | [link](https://blogs.cisco.com/news/our-path-forward) |
+| 2026-05-13 | Dutch suicide prevention website shares data with tech companies without consent | HN | Technology | tech | 2026-05-13 | [link](https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies) |
+| 2026-05-13 | Microsoft BitLocker – YellowKey zero-day exploit | HN | Technology | tech | 2026-05-13 | [link](https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor) |
+| 2026-05-13 | The US is winning the AI race where it matters most: commercialization | HN | Technology | tech | 2026-05-13 | [link](https://avkcode.github.io/blog/us-winning-ai-race.html) |
+| 2026-05-13 | Why China Fears the ‘A.I. Girlfriend’ | NYT · AI | AI | opinion | 2026-05-14 | [link](https://www.nytimes.com/video/opinion/100000010892482/why-china-fears-the-ai-girlfriend.html) |
+| 2026-05-13 | Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up | NYT · AI | AI | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html) |
+| 2026-05-13 | Wrongful Death Lawsuits Against OpenAI Test a New Strategy | NYT · Technology | Technology | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/12/technology/chatgpt-lawsuit-wrongful-death.html) |
+| 2026-05-13 | Is Musk Running an Illegal Power Plant? The D.O.J. Says It Might Weigh In. | NYT · AI | AI | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/climate/elon-musk-xai-data-center-doj.html) |
+| 2026-05-13 | Mamdani Urges State to Block Western Union’s Deal for Intermex | NYT · Business | Business | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/13/business/zohran-mamdani-western-union-intermex.html) |
+| 2026-05-13 | China Is Worried About A.I. Too | NYT · AI | AI | opinion | 2026-05-14 | [link](https://www.nytimes.com/video/opinion/100000010892470/china-is-worried-about-ai-too.html) |
+| 2026-05-13 | Anduril Raises $5 Billion in Funding and Is Valued at $61 Billion | NYT · Technology | Technology | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html) |
+| 2026-05-13 | Silicon Valley’s A.I. Lobbying Blitz Reaches a Fever Pitch | NYT · Technology | Technology | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/13/technology/ai-lobbying-washington-openai-anthropic.html) |
+| 2026-05-13 | Notable Researchers Join $4 Billion Effort to Build Self-Improving A.I. | NYT · Technology | Technology | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html) |
+| 2026-05-13 | Tom Steyer Thinks California Is Ready for a Different Climate Message | NYT · Energy & Environment | Energy & Environment | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/12/climate/tom-steyer-california-governor.html) |
+| 2026-05-13 | A Fact Check of Trump’s Claims on Inflation and Gas Prices in Iran War | NYT · Economy | Economy | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/us/politics/trump-iran-war-economy-cost.html) |
+| 2026-05-13 | Spies, Sanctions, Cyberattacks: China and the U.S. Clash Behind the Scenes | NYT · AI | AI | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/us/politics/china-us-sanctions-ai-cybersecurity.html) |
+| 2026-05-13 | How Much Power Did Microsoft Have Over OpenAI? | NYT · Business | Business | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/business/dealbook/nadella-microsoft-openai-musk-trial.html) |
+| 2026-05-13 | CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran | NYT · Economy | Economy | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html) |
+| 2026-05-13 | Crypto Industry Pushes a Bill to Tilt Regulation in Its Favor | NYT · Technology | Technology | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/technology/cryptocurrency-clarity-act-senate.html) |
+| 2026-05-13 | A Start-Up Aiming to Make Geothermal Energy Mainstream Goes Public | NYT · Energy & Environment | Energy & Environment | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/13/business/energy-environment/fervo-geothermal-energy-ipo.html) |
+| 2026-05-13 | Rich Danker, RFK Jr.’s Top Spokesman, Resigns in Protest Over New Vaping Policy | NYT · Business | Business | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/13/us/politics/rich-danker-resigns-vaping.html) |
+| 2026-05-13 | Kevin Warsh Is Already Getting It Wrong | NYT · Opinion | Opinion | opinion | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/opinion/kevin-warsh-fed-ai.html) |
+| 2026-05-13 | A.I. Claims to Make Our Lives Easier. Does It? | NYT · Opinion | Opinion | opinion | 2026-05-13 | [link](https://www.nytimes.com/2026/05/11/opinion/ai-jobs-chores-work.html) |
+| 2026-05-13 | Supreme Court Allows Abortion Pill Access by Mail to Continue | NYT · Politics | Politics | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/us/politics/supreme-court-abortion-pill.html) |
+| 2026-05-13 | How AI Agents for Commerce Could Shape Future Markets | MIT IDE · MIT Research & Insights | Research | research | 2026-05-13 | [link](https://ide.mit.edu/insights/how-ai-agents-for-commerce-could-shape-future-markets/) |
+| 2026-05-13 | Resolve the Conflict Between Efficiency and Resilience | MIT Sloan Review · Strategy & Craft | Business | analysis | 2026-05-13 | [link](https://sloanreview.mit.edu/article/resolve-the-conflict-between-efficiency-and-resilience/) |
+| 2026-05-13 | CSP Allow-list Experiment | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-13 | [link](https://simonwillison.net/2026/May/13/csp-allow/#atom-everything) |
+| 2026-05-13 | Welcome to the Datasette blog | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-13 | [link](https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything) |
+| 2026-05-13 | ★ Nextpad++ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-13 | [link](https://daringfireball.net/2026/05/nextpad) |
+| 2026-05-13 | Stupidly Simple SVG Sparklines | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-05-13 | [link](https://shkspr.mobi/blog/2026/05/stupidly-simple-svg-sparklines/) |
+| 2026-05-13 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-12 | Bambu Lab is abusing the open source social contract | HN | Technology | tech | 2026-05-12 | [link](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/) |
 | 2026-05-12 | Googlebook | HN | Technology | tech | 2026-05-12 | [link](https://googlebook.google/) |
 | 2026-05-12 | Why senior developers fail to communicate their expertise | HN | Technology | tech | 2026-05-12 | [link](https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise) |
