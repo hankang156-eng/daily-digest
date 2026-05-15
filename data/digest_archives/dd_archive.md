@@ -1,9 +1,51 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-14 · 681 items*
+*Last updated: 2026-05-15 · 723 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-14 | Removing the modem and GPS from my 2024 RAV4 hybrid | HN | Technology | tech | 2026-05-14 | [link](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) |
+| 2026-05-14 | Rewrite Bun in Rust has been merged | HN | Technology | tech | 2026-05-14 | [link](https://github.com/oven-sh/bun/pull/30412) |
+| 2026-05-14 | RTX 5090 and M4 MacBook Air: Can It Game? | HN | Technology | tech | 2026-05-14 | [link](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/) |
+| 2026-05-14 | A message from President Kornbluth about funding and the talent pipeline | HN | Technology | tech | 2026-05-14 | [link](https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline) |
+| 2026-05-14 | New arXiv policy: 1-year ban for hallucinated references | HN | Technology | tech | 2026-05-14 | [link](https://twitter.com/tdietterich/status/2055000956144935055) |
+| 2026-05-14 | Mullvad exit IPs are surprisingly identifying | HN | Technology | tech | 2026-05-14 | [link](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/) |
+| 2026-05-14 | AI is making me dumb | HN | Technology | tech | 2026-05-14 | [link](https://jpain.io/god-damn-ai-is-making-me-dumb/) |
+| 2026-05-14 | UK government replaces Palantir software with internally-built refugee system | HN | Technology | tech | 2026-05-14 | [link](https://www.bbc.com/news/articles/c2l2j1lxdk5o) |
+| 2026-05-14 | Codex is now in the ChatGPT mobile app | HN | Technology | tech | 2026-05-14 | [link](https://openai.com/index/work-with-codex-from-anywhere/) |
+| 2026-05-14 | First public macOS kernel memory corruption exploit on Apple M5 | HN | Technology | tech | 2026-05-14 | [link](https://blog.calif.io/p/first-public-kernel-memory-corruption) |
+| 2026-05-14 | New Nginx Exploit | HN | Technology | tech | 2026-05-14 | [link](https://github.com/DepthFirstDisclosures/Nginx-Rift) |
+| 2026-05-14 | A few words on DS4 | HN | Technology | tech | 2026-05-14 | [link](https://antirez.com/news/165) |
+| 2026-05-14 | Bitcoin trader recovers wallet with help of Claude | HN | Technology | tech | 2026-05-14 | [link](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup) |
+| 2026-05-14 | Ontario auditors find doctors' AI note takers routinely blow basic facts | HN | Technology | tech | 2026-05-14 | [link](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771) |
+| 2026-05-14 | Details of the Daring Airdrop at Tristan Da Cunha | HN | Technology | tech | 2026-05-14 | [link](https://www.tristandc.com/government/news-2026-05-11-airdrop.php) |
+| 2026-05-14 | USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought | HN | Technology | tech | 2026-05-14 | [link](https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought) |
+| 2026-05-14 | It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too. | NYT · AI | AI | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html) |
+| 2026-05-14 | Stock Market Rally Confronts Inflation and Higher Interest Rates | NYT · AI | AI | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/stocks-bonds-interest-rates-inflation.html) |
+| 2026-05-14 | Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up | NYT · Technology | Technology | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html) |
+| 2026-05-14 | Wrongful Death Lawsuits Against OpenAI Test a New Strategy | NYT · Technology | Technology | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/12/technology/chatgpt-lawsuit-wrongful-death.html) |
+| 2026-05-14 | Mamdani Urges State to Block Western Union’s Deal for Intermex | NYT · Business | Business | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/13/business/zohran-mamdani-western-union-intermex.html) |
+| 2026-05-14 | A.I. Safety Is So Back + Mythos Mayhem with Nikesh Arora + Hot Mess Express | NYT · AI | AI | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/podcasts/ai-safety-is-so-back-mythos-mayhem-with-nikesh-arora-hot-mess-express.html) |
+| 2026-05-14 | What Trump Gained, and Didn’t, From China | NYT · AI | AI | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/dealbook/trump-china-summit-report-card.html) |
+| 2026-05-14 | The Revolt Against the Girl Bosses Has Finally Come | NYT · AI | AI | opinion | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/opinion/reese-witherspoon-mel-robbins-girlboss-ai.html) |
+| 2026-05-14 | Why A.I. Safety Controls Are Not Very Effective | NYT · Technology | Technology | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/technology/artificial-intelligence-safety-controls.html) |
+| 2026-05-14 | Why China Fears the ‘A.I. Girlfriend’ | NYT · Opinion | Opinion | opinion | 2026-05-15 | [link](https://www.nytimes.com/video/opinion/100000010892482/why-china-fears-the-ai-girlfriend.html) |
+| 2026-05-14 | U.S. and China Will Start Discussing A.I. Safety, Bessent Says | NYT · AI | AI | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/14/world/asia/china-us-ai-safety.html) |
+| 2026-05-14 | Nvidia’s Future in China Remains Unclear After Trump-Xi Summit | NYT · AI | AI | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/nvidia-china-chips.html) |
+| 2026-05-14 | OpenAI Considers Legal Action Against Apple in Strained Relationship | NYT · AI | AI | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/14/technology/openai-apple-legal-action.html) |
+| 2026-05-14 | A.I. and Humans Battle It Out in a Cybersecurity Showdown | NYT · Technology | Technology | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/12/technology/ai-cybersecurity-competition.html) |
+| 2026-05-14 | Why We Keep Tricking Ourselves Into Thinking A.I. Is Conscious | NYT · AI | AI | opinion | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/opinion/ai-consciousness.html) |
+| 2026-05-14 | Tom Steyer Thinks California Is Ready for a Different Climate Message | NYT · Energy & Environment | Energy & Environment | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/12/climate/tom-steyer-california-governor.html) |
+| 2026-05-14 | China Is Worried About A.I. Too | NYT · Opinion | Opinion | opinion | 2026-05-15 | [link](https://www.nytimes.com/video/opinion/100000010892470/china-is-worried-about-ai-too.html) |
+| 2026-05-14 | A Republican’s Mysterious Absence Reflects Congress’s Silence on Health | NYT · Politics | Politics | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/us/politics/thomas-kean-jr-congress-health.html) |
+| 2026-05-14 | Some Medicare Patients Can Now Get Free CBD | NYT · Business | Business | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/health/medicare-cbd.html) |
+| 2026-05-14 | As Powell Steps Down, the Fed Confronts ‘Regime Change’ | NYT · Business | Business | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/us/politics/jerome-powell-kevin-warsh-federal-reserve.html) |
+| 2026-05-14 | How Job Design for Disability Improves Work for Everyone | MIT Sloan Review · Strategy & Craft | Business | analysis | 2026-05-14 | [link](https://sloanreview.mit.edu/article/how-job-design-for-disability-improves-work-for-everyone/) |
+| 2026-05-14 | Welcoming the Bahamian Government to Have I Been Pwned | Troy Hunt · Security & Privacy | Security | tech | 2026-05-14 | [link](https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/) |
+| 2026-05-14 | Geoffrey Fowler and the Launch of the Youth AI Safety Institute | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-14 | [link](https://geoffreyfowler.substack.com/p/what-is-ai-doing-to-our-kids-im-going) |
+| 2026-05-14 | Not so locked in any more | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-14 | [link](https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything) |
+| 2026-05-14 | Quoting Mitchell Hashimoto | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-14 | [link](https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything) |
+| 2026-05-14 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-13 | I moved my digital stack to Europe | HN | Technology | tech | 2026-05-13 | [link](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/) |
 | 2026-05-13 | Leaving GitHub for Forgejo | HN | Technology | tech | 2026-05-13 | [link](https://jorijn.com/en/blog/leaving-github-for-forgejo/) |
 | 2026-05-13 | Setting up a free *.city.state.us locality domain (2025) | HN | Technology | tech | 2026-05-13 | [link](https://fredchan.org/blog/locality-domains-guide/) |

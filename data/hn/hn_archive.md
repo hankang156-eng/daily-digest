@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-14 · 380 days · 3800 stories*
+*Last updated: 2026-05-15 · 381 days · 3810 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-14 | Thursday | 1 | Removing the modem and GPS from my 2024 RAV4 hybrid | 1041 | 562 | Technology | [link](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) · [HN](https://news.ycombinator.com/item?id=48138136) |
+| 2026-05-14 | Thursday | 2 | Rewrite Bun in Rust has been merged | 685 | 764 | Technology | [link](https://github.com/oven-sh/bun/pull/30412) · [HN](https://news.ycombinator.com/item?id=48132488) |
+| 2026-05-14 | Thursday | 3 | RTX 5090 and M4 MacBook Air: Can It Game? | 674 | 168 | Technology | [link](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/) · [HN](https://news.ycombinator.com/item?id=48137145) |
+| 2026-05-14 | Thursday | 4 | A message from President Kornbluth about funding and the talent pipeline | 610 | 689 | Technology | [link](https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline) · [HN](https://news.ycombinator.com/item?id=48136262) |
+| 2026-05-14 | Thursday | 5 | New arXiv policy: 1-year ban for hallucinated references | 608 | 214 | Technology | [link](https://twitter.com/tdietterich/status/2055000956144935055) · [HN](https://news.ycombinator.com/item?id=48140922) |
+| 2026-05-14 | Thursday | 6 | Mullvad exit IPs are surprisingly identifying | 554 | 352 | Technology | [link](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/) · [HN](https://news.ycombinator.com/item?id=48143880) |
+| 2026-05-14 | Thursday | 7 | AI is making me dumb | 529 | 302 | Technology | [link](https://jpain.io/god-damn-ai-is-making-me-dumb/) · [HN](https://news.ycombinator.com/item?id=48139148) |
+| 2026-05-14 | Thursday | 8 | UK government replaces Palantir software with internally-built refugee system | 487 | 186 | Technology | [link](https://www.bbc.com/news/articles/c2l2j1lxdk5o) · [HN](https://news.ycombinator.com/item?id=48142251) |
+| 2026-05-14 | Thursday | 9 | Codex is now in the ChatGPT mobile app | 467 | 241 | Technology | [link](https://openai.com/index/work-with-codex-from-anywhere/) · [HN](https://news.ycombinator.com/item?id=48140529) |
+| 2026-05-14 | Thursday | 10 | First public macOS kernel memory corruption exploit on Apple M5 | 446 | 124 | Technology | [link](https://blog.calif.io/p/first-public-kernel-memory-corruption) · [HN](https://news.ycombinator.com/item?id=48139219) |
 | 2026-05-13 | Wednesday | 1 | I moved my digital stack to Europe | 1010 | 600 | Technology | [link](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/) · [HN](https://news.ycombinator.com/item?id=48120629) |
 | 2026-05-13 | Wednesday | 2 | Leaving GitHub for Forgejo | 620 | 330 | Technology | [link](https://jorijn.com/en/blog/leaving-github-for-forgejo/) · [HN](https://news.ycombinator.com/item?id=48121266) |
 | 2026-05-13 | Wednesday | 3 | Setting up a free *.city.state.us locality domain (2025) | 610 | 208 | Technology | [link](https://fredchan.org/blog/locality-domains-guide/) · [HN](https://news.ycombinator.com/item?id=48122635) |
