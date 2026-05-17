@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-15 · 381 days · 3810 stories*
+*Last updated: 2026-05-16 · 382 days · 3820 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-15 | Friday | 1 | I believe there are entire companies right now under AI psychosis | 1869 | 1053 | Technology | [link](https://twitter.com/mitchellh/status/2055380239711457578) · [HN](https://news.ycombinator.com/item?id=48153379) |
+| 2026-05-15 | Friday | 2 | Project Gutenberg – keeps getting better | 1159 | 272 | Technology | [link](https://www.gutenberg.org/) · [HN](https://news.ycombinator.com/item?id=48150431) |
+| 2026-05-15 | Friday | 3 | Bill to block publishers from killing online games advances in California | 563 | 392 | Technology | [link](https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/) · [HN](https://news.ycombinator.com/item?id=48152994) |
+| 2026-05-15 | Friday | 4 | Explore Wikipedia Like a Windows XP Desktop | 524 | 118 | Technology | [link](https://explorer.samismith.com/) · [HN](https://news.ycombinator.com/item?id=48146129) |
+| 2026-05-15 | Friday | 5 | Bun Rust rewrite: "codebase fails basic miri checks, allows for UB in safe rust" | 464 | 333 | Technology | [link](https://github.com/oven-sh/bun/issues/30719) · [HN](https://news.ycombinator.com/item?id=48150900) |
+| 2026-05-15 | Friday | 6 | U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app | 464 | 325 | Technology | [link](https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/) · [HN](https://news.ycombinator.com/item?id=48151383) |
+| 2026-05-15 | Friday | 7 | A 0-click exploit chain for the Pixel 10 | 428 | 227 | Technology | [link](https://projectzero.google/2026/05/pixel-10-exploit.html) · [HN](https://news.ycombinator.com/item?id=48148460) |
+| 2026-05-15 | Friday | 8 | 'No way to prevent this,' says only package manager where this regularly happens | 414 | 203 | Technology | [link](https://kevinpatel.xyz/posts/no-way-to-prevent-this/) · [HN](https://news.ycombinator.com/item?id=48155690) |
+| 2026-05-15 | Friday | 9 | Amazon workers under pressure to up their AI usage are making up tasks | 381 | 424 | Technology | [link](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks) · [HN](https://news.ycombinator.com/item?id=48148337) |
+| 2026-05-15 | Friday | 10 | ABC News has taken all FiveThirtyEight articles offline | 374 | 165 | Technology | [link](https://twitter.com/baseballot/status/2055309076209492208) · [HN](https://news.ycombinator.com/item?id=48152553) |
 | 2026-05-14 | Thursday | 1 | Removing the modem and GPS from my 2024 RAV4 hybrid | 1041 | 562 | Technology | [link](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) · [HN](https://news.ycombinator.com/item?id=48138136) |
 | 2026-05-14 | Thursday | 2 | Rewrite Bun in Rust has been merged | 685 | 764 | Technology | [link](https://github.com/oven-sh/bun/pull/30412) · [HN](https://news.ycombinator.com/item?id=48132488) |
 | 2026-05-14 | Thursday | 3 | RTX 5090 and M4 MacBook Air: Can It Game? | 674 | 168 | Technology | [link](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/) · [HN](https://news.ycombinator.com/item?id=48137145) |

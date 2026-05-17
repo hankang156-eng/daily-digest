@@ -1,9 +1,52 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-15 · 723 items*
+*Last updated: 2026-05-16 · 766 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-15 | I believe there are entire companies right now under AI psychosis | HN | Technology | tech | 2026-05-15 | [link](https://twitter.com/mitchellh/status/2055380239711457578) |
+| 2026-05-15 | Project Gutenberg – keeps getting better | HN | Technology | tech | 2026-05-15 | [link](https://www.gutenberg.org/) |
+| 2026-05-15 | Bill to block publishers from killing online games advances in California | HN | Technology | tech | 2026-05-15 | [link](https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/) |
+| 2026-05-15 | Explore Wikipedia Like a Windows XP Desktop | HN | Technology | tech | 2026-05-15 | [link](https://explorer.samismith.com/) |
+| 2026-05-15 | Bun Rust rewrite: "codebase fails basic miri checks, allows for UB in safe rust" | HN | Technology | tech | 2026-05-15 | [link](https://github.com/oven-sh/bun/issues/30719) |
+| 2026-05-15 | U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app | HN | Technology | tech | 2026-05-15 | [link](https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/) |
+| 2026-05-15 | A 0-click exploit chain for the Pixel 10 | HN | Technology | tech | 2026-05-15 | [link](https://projectzero.google/2026/05/pixel-10-exploit.html) |
+| 2026-05-15 | 'No way to prevent this,' says only package manager where this regularly happens | HN | Technology | tech | 2026-05-15 | [link](https://kevinpatel.xyz/posts/no-way-to-prevent-this/) |
+| 2026-05-15 | Amazon workers under pressure to up their AI usage are making up tasks | HN | Technology | tech | 2026-05-15 | [link](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks) |
+| 2026-05-15 | ABC News has taken all FiveThirtyEight articles offline | HN | Technology | tech | 2026-05-15 | [link](https://twitter.com/baseballot/status/2055309076209492208) |
+| 2026-05-15 | We are retiring our bug bounty program | HN | Technology | tech | 2026-05-15 | [link](https://turso.tech/blog/the-wonders-of-ai) |
+| 2026-05-15 | SQL patterns I use to catch transaction fraud | HN | Technology | tech | 2026-05-15 | [link](https://analytics.fixelsmith.com/posts/sql-fraud-patterns/) |
+| 2026-05-15 | The Zulip Foundation | HN | Technology | tech | 2026-05-15 | [link](https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/) |
+| 2026-05-15 | The sigmoids won't save you | HN | Technology | tech | 2026-05-15 | [link](https://www.astralcodexten.com/p/the-sigmoids-wont-save-you) |
+| 2026-05-15 | Show HN: Find the best local LLM for your hardware, ranked by benchmarks | HN | Technology | tech | 2026-05-15 | [link](https://github.com/Andyyyy64/whichllm) |
+| 2026-05-15 | Bitwarden scrubs 'Always free' and 'Inclusion' values from its site | HN | Technology | tech | 2026-05-15 | [link](https://www.fastcompany.com/91542655/bitwarden-scrubs-always-free-and-inclusion-values-from-its-website-as-longtime-execs-step-down) |
+| 2026-05-15 | OpenAI Bought Company That Offered A.I. Tools for Cloning Voices | NYT · AI | AI | news | 2026-05-16 | [link](https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html) |
+| 2026-05-15 | It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too. | NYT · AI | AI | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html) |
+| 2026-05-15 | Stock Market Rally Confronts Inflation and Higher Interest Rates | NYT · AI | AI | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/stocks-bonds-interest-rates-inflation.html) |
+| 2026-05-15 | A.I. Safety Is So Back + Mythos Mayhem with Nikesh Arora + Hot Mess Express | NYT · AI | AI | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/podcasts/ai-safety-is-so-back-mythos-mayhem-with-nikesh-arora-hot-mess-express.html) |
+| 2026-05-15 | What Trump Gained, and Didn’t, From China | NYT · AI | AI | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/dealbook/trump-china-summit-report-card.html) |
+| 2026-05-15 | The Revolt Against the Girl Bosses Has Finally Come | NYT · AI | AI | opinion | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/opinion/reese-witherspoon-mel-robbins-girlboss-ai.html) |
+| 2026-05-15 | Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up | NYT · Technology | Technology | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html) |
+| 2026-05-15 | Wrongful Death Lawsuits Against OpenAI Test a New Strategy | NYT · Technology | Technology | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/12/technology/chatgpt-lawsuit-wrongful-death.html) |
+| 2026-05-15 | Why China Fears the ‘A.I. Girlfriend’ | NYT · Opinion | Opinion | opinion | 2026-05-15 | [link](https://www.nytimes.com/video/opinion/100000010892482/why-china-fears-the-ai-girlfriend.html) |
+| 2026-05-15 | Nvidia’s Future in China Remains Unclear After Trump-Xi Summit | NYT · AI | AI | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/nvidia-china-chips.html) |
+| 2026-05-15 | Mamdani Urges State to Block Western Union’s Deal for Intermex | NYT · Business | Business | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/13/business/zohran-mamdani-western-union-intermex.html) |
+| 2026-05-15 | A.I. and Humans Battle It Out in a Cybersecurity Showdown | NYT · Technology | Technology | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/12/technology/ai-cybersecurity-competition.html) |
+| 2026-05-15 | What A.I. Kant Do | NYT · AI | AI | opinion | 2026-05-16 | [link](https://www.nytimes.com/2026/05/16/opinion/ai-liberal-arts.html) |
+| 2026-05-15 | Why We Keep Tricking Ourselves Into Thinking A.I. Is Conscious | NYT · AI | AI | opinion | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/opinion/ai-consciousness.html) |
+| 2026-05-15 | Why A.I. Safety Controls Are Not Very Effective | NYT · Technology | Technology | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/technology/artificial-intelligence-safety-controls.html) |
+| 2026-05-15 | Which Countries Are Profiting From the Iran War Oil Shock | NYT · Energy & Environment | Energy & Environment | news | 2026-05-16 | [link](https://www.nytimes.com/2026/05/16/business/energy-environment/iran-war-oil-countries-winners-losers.html) |
+| 2026-05-15 | Tom Steyer Thinks California Is Ready for a Different Climate Message | NYT · Energy & Environment | Energy & Environment | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/12/climate/tom-steyer-california-governor.html) |
+| 2026-05-15 | Supreme Court Rejects Virginia Democrats’ Effort to Reinstate New Voting Map | NYT · Politics | Politics | news | 2026-05-16 | [link](https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html) |
+| 2026-05-15 | How a ‘Model’ for Climate Migration Became a Cautionary Tale | NYT · Energy & Environment | Energy & Environment | news | 2026-05-16 | [link](https://www.nytimes.com/2026/05/16/climate/isle-jean-charles-relocation.html) |
+| 2026-05-15 | Hospital Will Open First ‘Detransition’ Clinic in Legal Settlement With Texas | NYT · U.S. | U.S. | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/us/detransition-transgender-clinic.html) |
+| 2026-05-15 | Team Hunter Water Takes the GenAI-Lab 2026 Title | MIT IDE · MIT Research & Insights | Research | research | 2026-05-15 | [link](https://ide.mit.edu/insights/team-hunter-water-takes-the-genai-lab-2026-title/) |
+| 2026-05-15 | The Youth AI Safety Institute Has Margrethe Vestager’s Backing | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-15 | [link](https://www.euronews.com/next/2026/05/12/margrethe-vestager-backs-new-ai-safety-institute-for-children-after-decade-regulating-big-) |
+| 2026-05-15 | QR code generator | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-15 | [link](https://simonwillison.net/2026/May/15/qr-code-generator/#atom-everything) |
+| 2026-05-15 | ‘Musk v. Altman’ Closing Arguments | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-15 | [link](https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImhxZzBnTXFpSk8iLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkzMTAwNi9tdXNrLXYtYWx0bWFuLWNsb3NpbmctYXJndW1lbnRzLWFuYWx5c2lzIiwiZXhwIjoxNzc5MjM2OTUwLCJpYXQiOjE3Nzg4MDQ5NTB9.TXQtcV9vkuuKyqcrMaKtSqqoL9_wGWeSYgUyO6ZzK-Y) |
+| 2026-05-15 | inaturalist-clumper 0.1 | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-15 | [link](https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything) |
+| 2026-05-15 | UK Government Kicks Out Palantir | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-05-15 | [link](https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/) |
+| 2026-05-15 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-14 | Removing the modem and GPS from my 2024 RAV4 hybrid | HN | Technology | tech | 2026-05-14 | [link](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) |
 | 2026-05-14 | Rewrite Bun in Rust has been merged | HN | Technology | tech | 2026-05-14 | [link](https://github.com/oven-sh/bun/pull/30412) |
 | 2026-05-14 | RTX 5090 and M4 MacBook Air: Can It Game? | HN | Technology | tech | 2026-05-14 | [link](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/) |
