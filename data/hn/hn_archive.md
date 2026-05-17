@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-16 · 382 days · 3820 stories*
+*Last updated: 2026-05-17 · 383 days · 3830 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-16 | Saturday | 1 | Moving away from Tailwind, and learning to structure my CSS | 652 | 369 | Technology | [link](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) · [HN](https://news.ycombinator.com/item?id=48158400) |
+| 2026-05-16 | Saturday | 2 | Zerostack – A Unix-inspired coding agent written in pure Rust | 531 | 294 | Technology | [link](https://crates.io/crates/zerostack/1.0.0) · [HN](https://news.ycombinator.com/item?id=48164287) |
+| 2026-05-16 | Saturday | 3 | We've made the world too complicated | 434 | 409 | Technology | [link](https://user8.bearblog.dev/the-world-is-too-complicated/) · [HN](https://news.ycombinator.com/item?id=48158065) |
+| 2026-05-16 | Saturday | 4 | Frontier AI has broken the open CTF format | 408 | 435 | Technology | [link](https://kabir.au/blog/the-ctf-scene-is-dead) · [HN](https://news.ycombinator.com/item?id=48157559) |
+| 2026-05-16 | Saturday | 5 | SANA-WM, a 2.6B open-source world model for 1-minute 720p video | 387 | 146 | Technology | [link](https://nvlabs.github.io/Sana/WM/) · [HN](https://news.ycombinator.com/item?id=48159445) |
+| 2026-05-16 | Saturday | 6 | HTML Lists | 345 | 87 | Technology | [link](https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/) · [HN](https://news.ycombinator.com/item?id=48161861) |
+| 2026-05-16 | Saturday | 7 | Accelerando (2005) | 323 | 188 | Technology | [link](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html) · [HN](https://news.ycombinator.com/item?id=48159241) |
+| 2026-05-16 | Saturday | 8 | Fecal transplants for autism deliver success in clinical trials (2019) | 315 | 222 | Technology | [link](https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/) · [HN](https://news.ycombinator.com/item?id=48158494) |
+| 2026-05-16 | Saturday | 9 | OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens | 312 | 319 | Technology | [link](https://openai.com/index/malta-chatgpt-plus-partnership/) · [HN](https://news.ycombinator.com/item?id=48163392) |
+| 2026-05-16 | Saturday | 10 | A nicer voltmeter clock | 302 | 38 | Technology | [link](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock) · [HN](https://news.ycombinator.com/item?id=48164432) |
 | 2026-05-15 | Friday | 1 | I believe there are entire companies right now under AI psychosis | 1869 | 1053 | Technology | [link](https://twitter.com/mitchellh/status/2055380239711457578) · [HN](https://news.ycombinator.com/item?id=48153379) |
 | 2026-05-15 | Friday | 2 | Project Gutenberg – keeps getting better | 1159 | 272 | Technology | [link](https://www.gutenberg.org/) · [HN](https://news.ycombinator.com/item?id=48150431) |
 | 2026-05-15 | Friday | 3 | Bill to block publishers from killing online games advances in California | 563 | 392 | Technology | [link](https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/) · [HN](https://news.ycombinator.com/item?id=48152994) |

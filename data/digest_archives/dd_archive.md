@@ -1,9 +1,50 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-16 · 766 items*
+*Last updated: 2026-05-17 · 807 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-16 | Moving away from Tailwind, and learning to structure my CSS | HN | Technology | tech | 2026-05-16 | [link](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) |
+| 2026-05-16 | Zerostack – A Unix-inspired coding agent written in pure Rust | HN | Technology | tech | 2026-05-16 | [link](https://crates.io/crates/zerostack/1.0.0) |
+| 2026-05-16 | We've made the world too complicated | HN | Technology | tech | 2026-05-16 | [link](https://user8.bearblog.dev/the-world-is-too-complicated/) |
+| 2026-05-16 | Frontier AI has broken the open CTF format | HN | Technology | tech | 2026-05-16 | [link](https://kabir.au/blog/the-ctf-scene-is-dead) |
+| 2026-05-16 | SANA-WM, a 2.6B open-source world model for 1-minute 720p video | HN | Technology | tech | 2026-05-16 | [link](https://nvlabs.github.io/Sana/WM/) |
+| 2026-05-16 | HTML Lists | HN | Technology | tech | 2026-05-16 | [link](https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/) |
+| 2026-05-16 | Accelerando (2005) | HN | Technology | tech | 2026-05-16 | [link](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html) |
+| 2026-05-16 | Fecal transplants for autism deliver success in clinical trials (2019) | HN | Technology | tech | 2026-05-16 | [link](https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/) |
+| 2026-05-16 | OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens | HN | Technology | tech | 2026-05-16 | [link](https://openai.com/index/malta-chatgpt-plus-partnership/) |
+| 2026-05-16 | A nicer voltmeter clock | HN | Technology | tech | 2026-05-16 | [link](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock) |
+| 2026-05-16 | Where to buy a non-Apple, non-Google smartphone | HN | Technology | tech | 2026-05-16 | [link](https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681) |
+| 2026-05-16 | DeepSeek-V4-Flash means LLM steering is interesting again | HN | Technology | tech | 2026-05-16 | [link](https://www.seangoedecke.com/steering-vectors/) |
+| 2026-05-16 | δ-mem: Efficient Online Memory for Large Language Models | HN | Technology | tech | 2026-05-16 | [link](https://arxiv.org/abs/2605.12357) |
+| 2026-05-16 | Hosting a website on an 8-bit microcontroller | HN | Technology | tech | 2026-05-16 | [link](https://maurycyz.com/projects/mcusite/) |
+| 2026-05-16 | Halt and Catch Fire | HN | Technology | tech | 2026-05-16 | [link](https://unstack.io/halt-and-catch-fire) |
+| 2026-05-16 | Fisker went bankrupt and owners built an open source car company from the ashes | HN | Technology | tech | 2026-05-16 | [link](https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/) |
+| 2026-05-16 | OpenAI Bought Company That Offered A.I. Tools for Cloning Voices | NYT · AI | AI | news | 2026-05-16 | [link](https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html) |
+| 2026-05-16 | What A.I. Did to My College Class | NYT · AI | AI | opinion | 2026-05-17 | [link](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html) |
+| 2026-05-16 | How the Reputation Firm Terakeet Failed to Fix an Epstein Friend’s Image | NYT · AI | AI | news | 2026-05-17 | [link](https://www.nytimes.com/2026/05/17/us/politics/epstein-reummler-reputation-management.html) |
+| 2026-05-16 | Stock Market Rally Confronts Inflation and Higher Interest Rates | NYT · AI | AI | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/stocks-bonds-interest-rates-inflation.html) |
+| 2026-05-16 | The Great Disruption: How A.I. Will Shape Our Future | NYT · AI | AI | opinion | 2026-05-17 | [link](https://www.nytimes.com/2026/05/17/opinion/ai-future.html) |
+| 2026-05-16 | It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too. | NYT · Business | Business | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html) |
+| 2026-05-16 | Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up | NYT · Technology | Technology | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html) |
+| 2026-05-16 | Wrongful Death Lawsuits Against OpenAI Test a New Strategy | NYT · Technology | Technology | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/12/technology/chatgpt-lawsuit-wrongful-death.html) |
+| 2026-05-16 | What A.I. Kant Do | NYT · AI | AI | opinion | 2026-05-16 | [link](https://www.nytimes.com/2026/05/16/opinion/ai-liberal-arts.html) |
+| 2026-05-16 | Mamdani Urges State to Block Western Union’s Deal for Intermex | NYT · Business | Business | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/13/business/zohran-mamdani-western-union-intermex.html) |
+| 2026-05-16 | Josh Tyrangiel book excerpt: How OpenAI and Khan Academy Made a Chatbot | NYT · AI | AI | news | 2026-05-16 | [link](https://www.nytimes.com/2026/05/16/business/tyrangiel-ai-book-openai-khan-academy-khanmigo.html) |
+| 2026-05-16 | A.I. Safety Is So Back + Mythos Mayhem with Nikesh Arora + Hot Mess Express | NYT · Technology | Technology | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/podcasts/ai-safety-is-so-back-mythos-mayhem-with-nikesh-arora-hot-mess-express.html) |
+| 2026-05-16 | Why China Fears the ‘A.I. Girlfriend’ | NYT · Opinion | Opinion | opinion | 2026-05-15 | [link](https://www.nytimes.com/video/opinion/100000010892482/why-china-fears-the-ai-girlfriend.html) |
+| 2026-05-16 | Which Countries Are Profiting From the Iran War Oil Shock | NYT · Energy & Environment | Energy & Environment | news | 2026-05-16 | [link](https://www.nytimes.com/2026/05/16/business/energy-environment/iran-war-oil-countries-winners-losers.html) |
+| 2026-05-16 | Stocks Sink in Broad AI Rout Sparked by China's DeepSeek | WSJ · Markets | Markets | news | 2025-01-27 | [link](https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main) |
+| 2026-05-16 | For Trump, Soaring Prices Test Voters’ Finances and Patience | NYT · Business | Business | news | 2026-05-17 | [link](https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html) |
+| 2026-05-16 | The Big Questions About Jeffrey Epstein: What The Times Has Learned | NYT · U.S. | U.S. | news | 2026-05-17 | [link](https://www.nytimes.com/2026/05/17/us/the-big-questions-about-jeffrey-epstein-what-the-times-has-learned.html) |
+| 2026-05-16 | Why A.I. Safety Controls Are Not Very Effective | NYT · Technology | Technology | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/technology/artificial-intelligence-safety-controls.html) |
+| 2026-05-16 | A.I. and Humans Battle It Out in a Cybersecurity Showdown | NYT · Technology | Technology | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/12/technology/ai-cybersecurity-competition.html) |
+| 2026-05-16 | How a ‘Model’ for Climate Migration Became a Cautionary Tale | NYT · Energy & Environment | Energy & Environment | news | 2026-05-16 | [link](https://www.nytimes.com/2026/05/16/climate/isle-jean-charles-relocation.html) |
+| 2026-05-16 | ArXiv to Ban Researchers for a Year if They Submit AI Slop | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-16 | [link](https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/) |
+| 2026-05-16 | Greg Brockman Officially Takes Control of Products at OpenAI, a Very Stable Well-Run Company | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-16 | [link](https://www.wired.com/story/openai-reorg-greg-brockman-product/) |
+| 2026-05-16 | Warelay -> OpenClaw | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-16 | [link](https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything) |
+| 2026-05-16 | Quoting Julia Evans | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-16 | [link](https://simonwillison.net/2026/May/16/julia-evans/#atom-everything) |
+| 2026-05-16 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-15 | I believe there are entire companies right now under AI psychosis | HN | Technology | tech | 2026-05-15 | [link](https://twitter.com/mitchellh/status/2055380239711457578) |
 | 2026-05-15 | Project Gutenberg – keeps getting better | HN | Technology | tech | 2026-05-15 | [link](https://www.gutenberg.org/) |
 | 2026-05-15 | Bill to block publishers from killing online games advances in California | HN | Technology | tech | 2026-05-15 | [link](https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/) |
