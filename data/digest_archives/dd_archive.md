@@ -1,9 +1,52 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-17 · 807 items*
+*Last updated: 2026-05-19 · 850 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-18 | Elon Musk has lost his lawsuit against Sam Altman and OpenAI | HN | Technology | tech | 2026-05-18 | [link](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/) |
+| 2026-05-18 | The last six months in LLMs in five minutes | HN | Technology | tech | 2026-05-18 | [link](https://simonwillison.net/2026/May/19/5-minute-llms/) |
+| 2026-05-18 | Show HN: Files.md – Open-source alternative to Obsidian | HN | Technology | tech | 2026-05-18 | [link](https://github.com/zakirullin/files.md) |
+| 2026-05-18 | Garry Tan, the CEO of YC, accused me of unethical reporting | HN | Technology | tech | 2026-05-18 | [link](https://radleybalko.substack.com/p/truth-power-and-honest-journalism) |
+| 2026-05-18 | Anthropic acquires Stainless | HN | Technology | tech | 2026-05-18 | [link](https://www.anthropic.com/news/anthropic-acquires-stainless) |
+| 2026-05-18 | We stopped AI bot spam in our GitHub repo using Git's –author flag | HN | Technology | tech | 2026-05-18 | [link](https://archestra.ai/blog/only-responsible-ai) |
+| 2026-05-18 | Eric Schmidt speech about AI booed during graduation | HN | Technology | tech | 2026-05-18 | [link](https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585) |
+| 2026-05-18 | Click (2016) | HN | Technology | tech | 2026-05-18 | [link](https://clickclickclick.click/) |
+| 2026-05-18 | Project Glasswing: what Mythos showed us | HN | Technology | tech | 2026-05-18 | [link](https://blog.cloudflare.com/cyber-frontier-models/) |
+| 2026-05-18 | We let AIs run radio stations | HN | Technology | tech | 2026-05-18 | [link](https://andonlabs.com/blog/andon-fm) |
+| 2026-05-18 | Iran starts Bitcoin-backed ship insurance for Hormuz strait | HN | Technology | tech | 2026-05-18 | [link](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait) |
+| 2026-05-18 | Actually, democracy dies in H.R. | HN | Technology | tech | 2026-05-18 | [link](https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html) |
+| 2026-05-18 | Show HN: Auto-identity-remove – Automated data broker opt-out runner for macOS | HN | Technology | tech | 2026-05-18 | [link](https://github.com/stephenlthorn/auto-identity-remove) |
+| 2026-05-18 | The FBI Wants to Buy Nationwide Access to License Plate Readers | HN | Technology | tech | 2026-05-18 | [link](https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/) |
+| 2026-05-18 | Haiku OS runs on M1 Macs now | HN | Technology | tech | 2026-05-18 | [link](https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2) |
+| 2026-05-18 | Peter Neumann has died | HN | Technology | tech | 2026-05-18 | [link](https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html) |
+| 2026-05-18 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
+| 2026-05-18 | As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead | NYT · AI | AI | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html) |
+| 2026-05-18 | A FOMO Moment for Mythos | NYT · AI | AI | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/dealbook/mythos-ai-fomo-moment.html) |
+| 2026-05-18 | China Wants A.I. to Flourish, but Not at the Expense of Jobs | NYT · AI | AI | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/china-ai-unemployment.html) |
+| 2026-05-18 | Why College Grads Are Booing Their Commencement Speakers | NYT · AI | AI | opinion | 2026-05-19 | [link](https://www.nytimes.com/2026/05/18/opinion/ai-boo-commencement-speeches.html) |
+| 2026-05-18 | After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer | NYT · Technology | Technology | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html) |
+| 2026-05-18 | NextEra Energy to Acquire Dominion, Creating a Utility Giant | NYT · Business | Business | news | 2026-05-18 | [link](https://www.nytimes.com/2026/05/17/business/nextera-dominion-deal.html) |
+| 2026-05-18 | G7 Finance Ministers Look to Contain Iran Economic Fallout | NYT · Economy | Economy | news | 2026-05-18 | [link](https://www.nytimes.com/2026/05/18/business/g7-finance-ministers-meeting-iran-war-oil.html) |
+| 2026-05-18 | Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation | NYT · AI | AI | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html) |
+| 2026-05-18 | Inflation Fears Cloud G7 Economic Agenda as Iran War Persists | NYT · Business | Business | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/inflation-g7-economic-agenda-iran-war.html) |
+| 2026-05-18 | How Google Is Starting to Win the A.I. Race | NYT · AI | AI | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html) |
+| 2026-05-18 | OpenAI Bought Company That Offered A.I. Tools for Cloning Voices | NYT · Technology | Technology | news | 2026-05-16 | [link](https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html) |
+| 2026-05-18 | Trump’s Stock Trades Raise Eyebrows. The Family Says He Keeps His Hands Off. | NYT · Business | Business | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/us/politics/trump-stock-trades.html) |
+| 2026-05-18 | Tech Workers Have Fears About A.I., Too. They Can Do Something About It. | NYT · Opinion | Opinion | opinion | 2026-05-18 | [link](https://www.nytimes.com/2026/05/18/opinion/ai-tech-worker-organizing.html) |
+| 2026-05-18 | What A.I. Did to My College Class | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-05-17 | [link](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html) |
+| 2026-05-18 | Meta Reassigns 7,000 Employees to Focus on A.I. | NYT · Technology | Technology | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html) |
+| 2026-05-18 | E.P.A. to Repeal Some Limits on ‘Forever Chemicals’ in Drinking Water | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/18/climate/epa-forever-chemicals-pfas-drinking-water.html) |
+| 2026-05-18 | Tesla’s Semi Truck could Jolt the Trucking Industry | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/teslas-semi-truck.html) |
+| 2026-05-18 | The New ‘Gold Rush’ of Geothermal Energy | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/climate/the-new-gold-rush-of-geothermal-energy.html) |
+| 2026-05-18 | Scientists Tweaked the Global Warming Outlook. So Trump Weighed In. | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/18/climate/trump-global-warming-truth-social.html) |
+| 2026-05-18 | CISA Admin Leaked AWS GovCloud Keys on Github | Krebs on Security · Security & Privacy | Security | tech | 2026-05-18 | [link](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/) |
+| 2026-05-18 | Weekly Update 504 | Troy Hunt · Security & Privacy | Security | tech | 2026-05-18 | [link](https://www.troyhunt.com/weekly-update-504/) |
+| 2026-05-18 | Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-18 | [link](https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk?unlocked_article_code=1.jVA.Cc2V.IwYuu2r4SJfQ) |
+| 2026-05-18 | AI Data Centers Are Deeply Unpopular, Across the Political Spectrum | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-18 | [link](https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx) |
+| 2026-05-18 | Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-18 | [link](https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything) |
+| 2026-05-18 | SIMD-accelerated integer-to-string conversion | Lemire.me · Tech & Engineering | Technology | tech | 2026-05-18 | [link](https://lemire.me/blog/2026/05/18/simd-accelerated-integer-to-string-conversion/) |
+| 2026-05-18 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-16 | Moving away from Tailwind, and learning to structure my CSS | HN | Technology | tech | 2026-05-16 | [link](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) |
 | 2026-05-16 | Zerostack – A Unix-inspired coding agent written in pure Rust | HN | Technology | tech | 2026-05-16 | [link](https://crates.io/crates/zerostack/1.0.0) |
 | 2026-05-16 | We've made the world too complicated | HN | Technology | tech | 2026-05-16 | [link](https://user8.bearblog.dev/the-world-is-too-complicated/) |

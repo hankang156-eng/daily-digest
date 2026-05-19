@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-17 · 383 days · 3830 stories*
+*Last updated: 2026-05-19 · 384 days · 3840 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-18 | Monday | 1 | Elon Musk has lost his lawsuit against Sam Altman and OpenAI | 1059 | 556 | Technology | [link](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/) · [HN](https://news.ycombinator.com/item?id=48182754) |
+| 2026-05-18 | Monday | 2 | The last six months in LLMs in five minutes | 720 | 547 | Technology | [link](https://simonwillison.net/2026/May/19/5-minute-llms/) · [HN](https://news.ycombinator.com/item?id=48188183) |
+| 2026-05-18 | Monday | 3 | Show HN: Files.md – Open-source alternative to Obsidian | 687 | 330 | Technology | [link](https://github.com/zakirullin/files.md) · [HN](https://news.ycombinator.com/item?id=48179677) |
+| 2026-05-18 | Monday | 4 | Garry Tan, the CEO of YC, accused me of unethical reporting | 549 | 191 | Technology | [link](https://radleybalko.substack.com/p/truth-power-and-honest-journalism) · [HN](https://news.ycombinator.com/item?id=48181041) |
+| 2026-05-18 | Monday | 5 | Anthropic acquires Stainless | 521 | 365 | Technology | [link](https://www.anthropic.com/news/anthropic-acquires-stainless) · [HN](https://news.ycombinator.com/item?id=48182281) |
+| 2026-05-18 | Monday | 6 | We stopped AI bot spam in our GitHub repo using Git's –author flag | 487 | 234 | Technology | [link](https://archestra.ai/blog/only-responsible-ai) · [HN](https://news.ycombinator.com/item?id=48181125) |
+| 2026-05-18 | Monday | 7 | Eric Schmidt speech about AI booed during graduation | 364 | 385 | Technology | [link](https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585) · [HN](https://news.ycombinator.com/item?id=48177785) |
+| 2026-05-18 | Monday | 8 | Click (2016) | 363 | 93 | Technology | [link](https://clickclickclick.click/) · [HN](https://news.ycombinator.com/item?id=48187054) |
+| 2026-05-18 | Monday | 9 | Project Glasswing: what Mythos showed us | 357 | 136 | Technology | [link](https://blog.cloudflare.com/cyber-frontier-models/) · [HN](https://news.ycombinator.com/item?id=48179732) |
+| 2026-05-18 | Monday | 10 | We let AIs run radio stations | 353 | 265 | Technology | [link](https://andonlabs.com/blog/andon-fm) · [HN](https://news.ycombinator.com/item?id=48183301) |
 | 2026-05-16 | Saturday | 1 | Moving away from Tailwind, and learning to structure my CSS | 652 | 369 | Technology | [link](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) · [HN](https://news.ycombinator.com/item?id=48158400) |
 | 2026-05-16 | Saturday | 2 | Zerostack – A Unix-inspired coding agent written in pure Rust | 531 | 294 | Technology | [link](https://crates.io/crates/zerostack/1.0.0) · [HN](https://news.ycombinator.com/item?id=48164287) |
 | 2026-05-16 | Saturday | 3 | We've made the world too complicated | 434 | 409 | Technology | [link](https://user8.bearblog.dev/the-world-is-too-complicated/) · [HN](https://news.ycombinator.com/item?id=48158065) |
