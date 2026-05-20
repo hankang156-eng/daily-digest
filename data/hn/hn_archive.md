@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-19 · 384 days · 3840 stories*
+*Last updated: 2026-05-20 · 385 days · 3850 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-19 | Tuesday | 1 | I’ve joined Anthropic | 1385 | 592 | Technology | [link](https://twitter.com/karpathy/status/2056753169888334312) · [HN](https://news.ycombinator.com/item?id=48194352) |
+| 2026-05-19 | Tuesday | 2 | Gemini 3.5 Flash | 914 | 624 | Technology | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) · [HN](https://news.ycombinator.com/item?id=48196570) |
+| 2026-05-19 | Tuesday | 3 | I’ve built a virtual museum with nearly every operating system you can think of | 913 | 201 | Technology | [link](https://virtualosmuseum.org/) · [HN](https://news.ycombinator.com/item?id=48195009) |
+| 2026-05-19 | Tuesday | 4 | Minnesota becomes first state to ban prediction markets | 748 | 230 | Technology | [link](https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets) · [HN](https://news.ycombinator.com/item?id=48197980) |
+| 2026-05-19 | Tuesday | 5 | Apple unveils new accessibility features | 708 | 374 | Technology | [link](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/) · [HN](https://news.ycombinator.com/item?id=48192224) |
+| 2026-05-19 | Tuesday | 6 | Google changes its search box | 645 | 878 | Technology | [link](https://blog.google/products-and-platforms/products/search/search-io-2026/) · [HN](https://news.ycombinator.com/item?id=48197370) |
+| 2026-05-19 | Tuesday | 7 | Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks | 614 | 220 | Technology | [link](https://github.com/antoinezambelli/forge) · [HN](https://news.ycombinator.com/item?id=48192383) |
+| 2026-05-19 | Tuesday | 8 | GitHub is investigating unauthorized access to their internal repositories | 578 | 314 | Technology | [link](https://twitter.com/github/status/2056884788179726685) · [HN](https://news.ycombinator.com/item?id=48201316) |
+| 2026-05-19 | Tuesday | 9 | Incident Report: Railway Blocked by Google Cloud [resolved] | 525 | 339 | Technology | [link](https://status.railway.com/incident/I23M92U0) · [HN](https://news.ycombinator.com/item?id=48201484) |
+| 2026-05-19 | Tuesday | 10 | Show HN: Gaussian Splat of a Strawberry | 513 | 193 | Technology | [link](https://superspl.at/scene/84df8849) · [HN](https://news.ycombinator.com/item?id=48191602) |
 | 2026-05-18 | Monday | 1 | Elon Musk has lost his lawsuit against Sam Altman and OpenAI | 1059 | 556 | Technology | [link](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/) · [HN](https://news.ycombinator.com/item?id=48182754) |
 | 2026-05-18 | Monday | 2 | The last six months in LLMs in five minutes | 720 | 547 | Technology | [link](https://simonwillison.net/2026/May/19/5-minute-llms/) · [HN](https://news.ycombinator.com/item?id=48188183) |
 | 2026-05-18 | Monday | 3 | Show HN: Files.md – Open-source alternative to Obsidian | 687 | 330 | Technology | [link](https://github.com/zakirullin/files.md) · [HN](https://news.ycombinator.com/item?id=48179677) |

@@ -1,9 +1,53 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-19 · 850 items*
+*Last updated: 2026-05-20 · 894 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-19 | I’ve joined Anthropic | HN | Technology | tech | 2026-05-19 | [link](https://twitter.com/karpathy/status/2056753169888334312) |
+| 2026-05-19 | Gemini 3.5 Flash | HN | Technology | tech | 2026-05-19 | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) |
+| 2026-05-19 | I’ve built a virtual museum with nearly every operating system you can think of | HN | Technology | tech | 2026-05-19 | [link](https://virtualosmuseum.org/) |
+| 2026-05-19 | Minnesota becomes first state to ban prediction markets | HN | Technology | tech | 2026-05-19 | [link](https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets) |
+| 2026-05-19 | Apple unveils new accessibility features | HN | Technology | tech | 2026-05-19 | [link](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/) |
+| 2026-05-19 | Google changes its search box | HN | Technology | tech | 2026-05-19 | [link](https://blog.google/products-and-platforms/products/search/search-io-2026/) |
+| 2026-05-19 | Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks | HN | Technology | tech | 2026-05-19 | [link](https://github.com/antoinezambelli/forge) |
+| 2026-05-19 | GitHub is investigating unauthorized access to their internal repositories | HN | Technology | tech | 2026-05-19 | [link](https://twitter.com/github/status/2056884788179726685) |
+| 2026-05-19 | Incident Report: Railway Blocked by Google Cloud [resolved] | HN | Technology | tech | 2026-05-19 | [link](https://status.railway.com/incident/I23M92U0) |
+| 2026-05-19 | Show HN: Gaussian Splat of a Strawberry | HN | Technology | tech | 2026-05-19 | [link](https://superspl.at/scene/84df8849) |
+| 2026-05-19 | Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day | HN | Technology | tech | 2026-05-19 | [link](https://www.autonocion.com/us/tesla-lithium-refinery-texas/) |
+| 2026-05-19 | CISA Admin Leaked AWS GovCloud Keys on GitHub | HN | Technology | tech | 2026-05-19 | [link](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/) |
+| 2026-05-19 | Disney erased FiveThirtyEight | HN | Technology | tech | 2026-05-19 | [link](https://www.natesilver.net/p/disney-erased-fivethirtyeight) |
+| 2026-05-19 | OpenBSD 7.9 | HN | Technology | tech | 2026-05-19 | [link](https://www.openbsd.org/79.html) |
+| 2026-05-19 | Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised | HN | Technology | tech | 2026-05-19 | [link](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/) |
+| 2026-05-19 | Remove-AI-Watermarks – CLI and library for removing AI watermarks from images | HN | Technology | tech | 2026-05-19 | [link](https://github.com/wiltodelta/remove-ai-watermarks) |
+| 2026-05-19 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
+| 2026-05-19 | As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead | NYT · Technology | Technology | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html) |
+| 2026-05-19 | After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer | NYT · Technology | Technology | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html) |
+| 2026-05-19 | OpenAI Prepares to File to Go Public in Coming Weeks | NYT · Technology | Technology | news | 2026-05-20 | [link](https://www.nytimes.com/2026/05/20/technology/openai-ipo.html) |
+| 2026-05-19 | A FOMO Moment for Mythos | NYT · Business | Business | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/dealbook/mythos-ai-fomo-moment.html) |
+| 2026-05-19 | Under a Cloud of Uncertainty, Alabama Voters Head to the Polls | NYT · Politics | Politics | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/us/politics/uncertainty-alabama-voters.html) |
+| 2026-05-19 | Inflation Fears Cloud G7 Economic Agenda as Iran War Persists | NYT · Economy | Economy | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/inflation-g7-economic-agenda-iran-war.html) |
+| 2026-05-19 | China Wants A.I. to Flourish, but Not at the Expense of Jobs | NYT · Business | Business | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/china-ai-unemployment.html) |
+| 2026-05-19 | What Silicon Valley Is Coming for Next | NYT · AI | AI | opinion | 2026-05-20 | [link](https://www.nytimes.com/2026/05/20/opinion/silicon-valley-ai-taste-culture.html) |
+| 2026-05-19 | Meta Lays Off 8,000 Employees, As A.I. Casualties Mount | NYT · AI | AI | news | 2026-05-20 | [link](https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html) |
+| 2026-05-19 | Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years | NYT · AI | AI | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html) |
+| 2026-05-19 | How Google Is Starting to Win the A.I. Race | NYT · AI | AI | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html) |
+| 2026-05-19 | Barney Frank, Gay Pioneer and Liberal Stalwart in Congress, Dies at 86 | NYT · Business | Business | news | 2026-05-20 | [link](https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html) |
+| 2026-05-19 | One Chatbot to Rule Everything | NYT · AI | AI | opinion | 2026-05-20 | [link](https://www.nytimes.com/video/opinion/100000010914268/one-chatbot-to-rule-everything.html) |
+| 2026-05-19 | Which Has Better Taste: A.I. or Humans? | NYT · AI | AI | opinion | 2026-05-20 | [link](https://www.nytimes.com/video/opinion/100000010910614/which-has-better-taste-ai-or-humans.html) |
+| 2026-05-19 | Why College Grads Are Booing Their Commencement Speakers | NYT · Opinion | Opinion | opinion | 2026-05-19 | [link](https://www.nytimes.com/2026/05/18/opinion/ai-boo-commencement-speeches.html) |
+| 2026-05-19 | Minnesota Becomes First State to Ban Prediction Markets | NYT · U.S. | U.S. | news | 2026-05-20 | [link](https://www.nytimes.com/2026/05/19/us/minnesota-prediction-market-ban.html) |
+| 2026-05-19 | OpenAI Bought Company That Offered A.I. Tools for Cloning Voices | NYT · Technology | Technology | news | 2026-05-16 | [link](https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html) |
+| 2026-05-19 | E.P.A. to Repeal Some Limits on ‘Forever Chemicals’ in Drinking Water | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/18/climate/epa-forever-chemicals-pfas-drinking-water.html) |
+| 2026-05-19 | Trump’s Stock Trades Raise Eyebrows. The Family Says He Keeps His Hands Off. | NYT · Business | Business | news | 2026-05-20 | [link](https://www.nytimes.com/2026/05/19/us/politics/trump-stock-trades.html) |
+| 2026-05-19 | Companies Don’t Have to Slash Jobs Because of AI | MIT Sloan Review · Strategy & Craft | Business | analysis | 2026-05-19 | [link](https://sloanreview.mit.edu/article/companies-dont-have-to-slash-jobs-because-of-ai/) |
+| 2026-05-19 | A Need for Nuance: The Economist’s Andrew Palmer | MIT Sloan Review · Strategy & Craft | Business | analysis | 2026-05-19 | [link](https://sloanreview.mit.edu/audio/a-need-for-nuance-the-economists-andrew-palmer/) |
+| 2026-05-19 | Gemini 3.5 Flash: more expensive, but Google plan to use it for everything | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-19 | [link](https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything) |
+| 2026-05-19 | Andrej Karpathy Joined Anthropic | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-19 | [link](https://x.com/karpathy/status/2056753169888334312) |
+| 2026-05-19 | [Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them. | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-19 | [link](https://workos.com/docs/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) |
+| 2026-05-19 | The last six months in LLMs in five minutes | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-19 | [link](https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything) |
+| 2026-05-19 | Book Review: Terrible Worlds: Destinations by Adrian Tchaikovsky ★★★★★ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-05-19 | [link](https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchaikovsky/) |
+| 2026-05-19 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-18 | Elon Musk has lost his lawsuit against Sam Altman and OpenAI | HN | Technology | tech | 2026-05-18 | [link](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/) |
 | 2026-05-18 | The last six months in LLMs in five minutes | HN | Technology | tech | 2026-05-18 | [link](https://simonwillison.net/2026/May/19/5-minute-llms/) |
 | 2026-05-18 | Show HN: Files.md – Open-source alternative to Obsidian | HN | Technology | tech | 2026-05-18 | [link](https://github.com/zakirullin/files.md) |
