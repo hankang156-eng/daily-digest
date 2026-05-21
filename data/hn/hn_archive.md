@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-20 · 385 days · 3850 stories*
+*Last updated: 2026-05-21 · 386 days · 3860 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-20 | Wednesday | 1 | An OpenAI model has disproved a central conjecture in discrete geometry | 1343 | 971 | Technology | [link](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) · [HN](https://news.ycombinator.com/item?id=48212493) |
+| 2026-05-20 | Wednesday | 2 | Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE | 1045 | 451 | Technology | [link](https://www.alqst.org/ar/posts/1190) · [HN](https://news.ycombinator.com/item?id=48206768) |
+| 2026-05-20 | Wednesday | 3 | GitHub confirms breach of 3,800 repos via malicious VSCode extension | 994 | 435 | Technology | [link](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/) · [HN](https://news.ycombinator.com/item?id=48207660) |
+| 2026-05-20 | Wednesday | 4 | Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment | 933 | 751 | Technology | [link](https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html) · [HN](https://news.ycombinator.com/item?id=48207004) |
+| 2026-05-20 | Wednesday | 5 | Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit | 753 | 498 | Technology | [link](https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment) · [HN](https://news.ycombinator.com/item?id=48208502) |
+| 2026-05-20 | Wednesday | 6 | Qwen3.7-Max: The Agent Frontier | 684 | 282 | Technology | [link](https://qwen.ai/blog?id=qwen3.7) · [HN](https://news.ycombinator.com/item?id=48205626) |
+| 2026-05-20 | Wednesday | 7 | Google Declaring War on the Web | 578 | 416 | Technology | [link](https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/) · [HN](https://news.ycombinator.com/item?id=48214449) |
+| 2026-05-20 | Wednesday | 8 | Everything in C is undefined behavior | 490 | 681 | Technology | [link](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html) · [HN](https://news.ycombinator.com/item?id=48203698) |
+| 2026-05-20 | Wednesday | 9 | Apparently Google hates us now | 489 | 246 | Technology | [link](https://twitter.com/pokemoncentral/status/2057123807404638250) · [HN](https://news.ycombinator.com/item?id=48210263) |
+| 2026-05-20 | Wednesday | 10 | Flipper One Tech Specs | 489 | 162 | Technology | [link](https://docs.flipper.net/one/general/tech-specs) · [HN](https://news.ycombinator.com/item?id=48212046) |
 | 2026-05-19 | Tuesday | 1 | I’ve joined Anthropic | 1385 | 592 | Technology | [link](https://twitter.com/karpathy/status/2056753169888334312) · [HN](https://news.ycombinator.com/item?id=48194352) |
 | 2026-05-19 | Tuesday | 2 | Gemini 3.5 Flash | 914 | 624 | Technology | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) · [HN](https://news.ycombinator.com/item?id=48196570) |
 | 2026-05-19 | Tuesday | 3 | I’ve built a virtual museum with nearly every operating system you can think of | 913 | 201 | Technology | [link](https://virtualosmuseum.org/) · [HN](https://news.ycombinator.com/item?id=48195009) |
