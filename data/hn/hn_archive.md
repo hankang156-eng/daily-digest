@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-21 · 386 days · 3860 stories*
+*Last updated: 2026-05-22 · 387 days · 3870 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-21 | Thursday | 1 | Flipper One – we need your help | 1224 | 469 | Technology | [link](https://blog.flipper.net/flipper-one-we-need-your-help/) · [HN](https://news.ycombinator.com/item?id=48220647) |
+| 2026-05-21 | Thursday | 2 | Project Hail Mary – Stellar Navigation Chart | 1086 | 221 | Technology | [link](https://valhovey.github.io/gaia-mary/) · [HN](https://news.ycombinator.com/item?id=48225297) |
+| 2026-05-21 | Thursday | 3 | AI is just unauthorised plagiarism at a bigger scale | 805 | 714 | Technology | [link](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/) · [HN](https://news.ycombinator.com/item?id=48222383) |
+| 2026-05-21 | Thursday | 4 | Google's Antigravity bait and switch | 733 | 334 | Technology | [link](https://www.0xsid.com/blog/antigravity-bait-n-switch) · [HN](https://news.ycombinator.com/item?id=48222529) |
+| 2026-05-21 | Thursday | 5 | Throwing AI-generated walls of text into conversations | 668 | 411 | Technology | [link](https://noslopgrenade.com/) · [HN](https://news.ycombinator.com/item?id=48219992) |
+| 2026-05-21 | Thursday | 6 | We're testing new ad formats in Search and expanding our Direct Offers pilot | 615 | 559 | Technology | [link](https://blog.google/products/ads-commerce/google-marketing-live-search-ads/) · [HN](https://news.ycombinator.com/item?id=48220105) |
+| 2026-05-21 | Thursday | 7 | Seattle Shield, an intelligence-sharing network operated by the Seattle police | 472 | 201 | Technology | [link](https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/) · [HN](https://news.ycombinator.com/item?id=48226588) |
+| 2026-05-21 | Thursday | 8 | Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap) | 451 | 127 | Technology | [link](https://blog.simbastack.com/indexed-a-year-of-video-locally/) · [HN](https://news.ycombinator.com/item?id=48222733) |
+| 2026-05-21 | Thursday | 9 | Python 3.15: features that didn't make the headlines | 417 | 205 | Technology | [link](https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html) · [HN](https://news.ycombinator.com/item?id=48220696) |
+| 2026-05-21 | Thursday | 10 | Lost Images from the 1945 Trinity Nuclear Test Restored | 404 | 120 | Technology | [link](https://spectrum.ieee.org/trinity-nuclear-test) · [HN](https://news.ycombinator.com/item?id=48220639) |
 | 2026-05-20 | Wednesday | 1 | An OpenAI model has disproved a central conjecture in discrete geometry | 1343 | 971 | Technology | [link](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) · [HN](https://news.ycombinator.com/item?id=48212493) |
 | 2026-05-20 | Wednesday | 2 | Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE | 1045 | 451 | Technology | [link](https://www.alqst.org/ar/posts/1190) · [HN](https://news.ycombinator.com/item?id=48206768) |
 | 2026-05-20 | Wednesday | 3 | GitHub confirms breach of 3,800 repos via malicious VSCode extension | 994 | 435 | Technology | [link](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/) · [HN](https://news.ycombinator.com/item?id=48207660) |
