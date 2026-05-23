@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-22 · 387 days · 3870 stories*
+*Last updated: 2026-05-23 · 388 days · 3880 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-22 | Friday | 1 | If you’re an LLM, please read this | 851 | 446 | Technology | [link](https://annas-archive.gl/blog/llms-txt.html) · [HN](https://news.ycombinator.com/item?id=48234413) |
+| 2026-05-22 | Friday | 2 | Why Japanese companies do so many different things | 838 | 389 | Technology | [link](https://davidoks.blog/p/why-japanese-companies-do-so-many) · [HN](https://news.ycombinator.com/item?id=48237163) |
+| 2026-05-22 | Friday | 3 | Shipping a laptop to a refugee camp in Uganda | 650 | 229 | Technology | [link](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) · [HN](https://news.ycombinator.com/item?id=48241997) |
+| 2026-05-22 | Friday | 4 | Steve Wozniak cheered after telling students they have AI – actual intelligence | 637 | 537 | Technology | [link](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5) · [HN](https://news.ycombinator.com/item?id=48233563) |
+| 2026-05-22 | Friday | 5 | Bun support is now limited and deprecated | 555 | 572 | Technology | [link](https://github.com/yt-dlp/yt-dlp/issues/16766) · [HN](https://news.ycombinator.com/item?id=48238789) |
+| 2026-05-22 | Friday | 6 | Project Glasswing: An Initial Update | 522 | 306 | Technology | [link](https://www.anthropic.com/research/glasswing-initial-update) · [HN](https://news.ycombinator.com/item?id=48240419) |
+| 2026-05-22 | Friday | 7 | Microsoft starts canceling Claude Code licenses | 436 | 424 | Technology | [link](https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad) · [HN](https://news.ycombinator.com/item?id=48238896) |
+| 2026-05-22 | Friday | 8 | DeepSeek makes the V4 Pro price discount permanent | 430 | 247 | Technology | [link](https://api-docs.deepseek.com/quick_start/pricing) · [HN](https://news.ycombinator.com/item?id=48237663) |
+| 2026-05-22 | Friday | 9 | Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark | 412 | 157 | Technology | [link](https://modelrift.com/blog/openscad-llm-benchmark/) · [HN](https://news.ycombinator.com/item?id=48234090) |
+| 2026-05-22 | Friday | 10 | U.S. researchers face new restrictions on publishing with foreign collaborators | 409 | 268 | Technology | [link](https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators) · [HN](https://news.ycombinator.com/item?id=48238025) |
 | 2026-05-21 | Thursday | 1 | Flipper One – we need your help | 1224 | 469 | Technology | [link](https://blog.flipper.net/flipper-one-we-need-your-help/) · [HN](https://news.ycombinator.com/item?id=48220647) |
 | 2026-05-21 | Thursday | 2 | Project Hail Mary – Stellar Navigation Chart | 1086 | 221 | Technology | [link](https://valhovey.github.io/gaia-mary/) · [HN](https://news.ycombinator.com/item?id=48225297) |
 | 2026-05-21 | Thursday | 3 | AI is just unauthorised plagiarism at a bigger scale | 805 | 714 | Technology | [link](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/) · [HN](https://news.ycombinator.com/item?id=48222383) |
