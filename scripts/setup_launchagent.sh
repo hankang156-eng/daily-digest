@@ -2,13 +2,15 @@
 # ─────────────────────────────────────────────────────────────────────────────
 # Daily Digest — macOS LaunchAgent Setup
 # Installs a native 6 AM scheduler that runs with your full internet access.
-# Run once: bash setup_launchagent.sh
+# Run once from the repo root: bash scripts/setup_launchagent.sh
 # ─────────────────────────────────────────────────────────────────────────────
 
 PLIST_NAME="com.michelle.dailydigest"
-PLIST_SRC="/Users/michellekang/Documents/daily_digest/com.michelle.dailydigest.plist"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+PLIST_SRC="$REPO_ROOT/scripts/com.michelle.dailydigest.plist"
 PLIST_DEST="$HOME/Library/LaunchAgents/$PLIST_NAME.plist"
-RUNNER="/Users/michellekang/Documents/daily_digest/run_digest.sh"
+RUNNER="$REPO_ROOT/scripts/run_digest.sh"
 
 echo ""
 echo "╔══════════════════════════════════════════════════════╗"
@@ -18,13 +20,16 @@ echo ""
 
 # Make runner executable
 chmod +x "$RUNNER"
-echo "  ✓ Made run_digest.sh executable"
+echo "  ✓ Made scripts/run_digest.sh executable"
 
 # Create LaunchAgents dir if missing
 mkdir -p "$HOME/Library/LaunchAgents"
 
-# Copy plist to LaunchAgents
-cp "$PLIST_SRC" "$PLIST_DEST"
+# Copy plist to LaunchAgents, filling in this checkout's current path.
+sed \
+  -e "s|__RUNNER__|$RUNNER|g" \
+  -e "s|__REPO_ROOT__|$REPO_ROOT|g" \
+  "$PLIST_SRC" > "$PLIST_DEST"
 echo "  ✓ Installed plist to ~/Library/LaunchAgents/"
 
 # Load the job with the modern per-user bootstrap command
@@ -37,10 +42,10 @@ echo "  ────────────────────────
 echo "  Done! Your digest will run every day at 6:00 AM."
 echo ""
 echo "  To test it right now:"
-echo "    bash run_digest.sh"
+echo "    bash scripts/run_digest.sh"
 echo ""
 echo "  To view the log:"
-echo "    cat digest.log"
+echo "    tail -80 data/digest_archives/digest.log"
 echo ""
 echo "  To uninstall the scheduler:"
 echo "    launchctl bootout gui/$(id -u) ~/Library/LaunchAgents/$PLIST_NAME.plist"

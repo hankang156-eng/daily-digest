@@ -12,10 +12,12 @@ Outputs:
 
 import datetime
 import html
+import argparse
 import json
 import os
 import re
 import subprocess
+import sys
 import time
 import zipfile
 from pathlib import Path
@@ -40,32 +42,43 @@ try:
 except ImportError:
     HAS_BS4 = False
 
+SCRIPT_DIR = Path(__file__).parent.resolve()
+REPO_ROOT = SCRIPT_DIR.parent
+RANKERS_DIR = SCRIPT_DIR / "rankers"
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+if str(RANKERS_DIR) not in sys.path:
+    sys.path.insert(0, str(RANKERS_DIR))
+
 try:
-    from nyt_wsj_rss_ranker import run_ranker as run_nyt_wsj_ranker
+    from src.rankers.nyt_wsj_rss_ranker import run_ranker as run_nyt_wsj_ranker
     HAS_NYT_WSJ_RANKER = True
 except Exception:
     HAS_NYT_WSJ_RANKER = False
     run_nyt_wsj_ranker = None
 
 try:
-    from blog_reading_ranker import run_ranker as run_blog_ranker
+    from src.rankers.blog_reading_ranker import run_ranker as run_blog_ranker
     HAS_BLOG_RANKER = True
 except Exception:
     HAS_BLOG_RANKER = False
     run_blog_ranker = None
 
 
-SCRIPT_DIR = Path(__file__).parent.resolve()
-CONFIG_FILE = SCRIPT_DIR / "config.json"
-DAILY_HTML_DIR = SCRIPT_DIR / "daily_html"
-DAILY_MD_DIR = SCRIPT_DIR / "daily_md"
+CONFIG_FILE = REPO_ROOT / "config" / "config.json"
+DAILY_HTML_DIR = REPO_ROOT / "output" / "daily_html"
+DAILY_MD_DIR = REPO_ROOT / "output" / "daily_md"
+RANKER_OUTPUT_DIR = REPO_ROOT / "output" / "ranker_diagnostics"
+HN_DATA_DIR = REPO_ROOT / "data" / "hn"
+DIGEST_ARCHIVE_DIR = REPO_ROOT / "data" / "digest_archives"
+DIGEST_ARCHIVE_PAGE = REPO_ROOT / "digest_archive.html"
 
 DEFAULT_CONFIG = {
     "settings": {
         "hn_digest_count": 16,
         "nyt_wsj_max_links": 20,
         "blog_max_links": 20,
-        "ranker_output_dir": "output"
+        "ranker_output_dir": "output/ranker_diagnostics"
     },
     "github_pages": {
         "enabled": False,
@@ -80,6 +93,29 @@ HTTP_HEADERS = {
         "Chrome/124.0 Safari/537.36"
     )
 }
+HN_COMPANION_BASE_URL = "https://app.hncompanion.com"
+ARTICLE_OVERVIEW_CACHE_FILE = RANKER_OUTPUT_DIR / "article_overview_cache.json"
+READING_STATS_CACHE_FILE = RANKER_OUTPUT_DIR / "article_reading_stats_cache.json"
+READING_WORDS_PER_MINUTE = 230
+
+NYT_ARTICLE_SEARCH_URL = "https://api.nytimes.com/svc/search/v2/articlesearch.json"
+NYT_API_MIN_INTERVAL = 6.0
+NYT_API_MAX_ATTEMPTS = 4
+NYT_API_BACKOFF_BASE = 4.0
+
+SUMMARY_PROVIDERS = ("gemini", "claude-sonnet", "claude-opus", "none")
+PREMIUM_SUMMARY_PROVIDERS = {"claude-sonnet", "claude-opus"}
+DEFAULT_SUMMARY_MODELS = {
+    "gemini": "gemini-3.5-flash",
+    "claude-sonnet": "claude-sonnet-4-6",
+    "claude-opus": "claude-opus-4-7",
+}
+
+GEMINI_API_BASE = "https://generativelanguage.googleapis.com/v1beta/models"
+GEMINI_FALLBACK_MODEL = "gemini-3.1-flash-lite"
+GEMINI_MAX_ATTEMPTS = 4
+GEMINI_BACKOFF_BASE = 2.0
+GEMINI_MIN_INTERVAL = 1.0
 
 NYT_FEEDS = [
     ("U.S.", "NYT", "https://rss.nytimes.com/services/xml/rss/nyt/US.xml"),
@@ -106,11 +142,9 @@ MIT_SCRAPE = {
 }
 
 BLOG_FEEDS = [
-    ("MIT Sloan Review", "https://sloanreview.mit.edu/feed/"),
     ("Krebs on Security", "https://krebsonsecurity.com/feed/"),
     ("Simon Willison", "https://simonwillison.net/atom/everything/"),
     ("Shkspr.mobi", "https://shkspr.mobi/blog/feed/"),
-    ("Rachel by the Bay", "https://rachelbythebay.com/w/atom.xml"),
     ("Dan Luu", "https://danluu.com/atom.xml"),
     ("Daring Fireball", "https://daringfireball.net/feeds/main"),
     ("Tonsky.me", "https://tonsky.me/blog/atom.xml"),
@@ -135,7 +169,6 @@ SOURCE_TOPICS = {
     "HackerNews": "Technology",
     "MIT IDE": "Research",
     "MIT Shaping Work": "Research",
-    "MIT Sloan Review": "Business",
     "Krebs on Security": "Security",
     "Troy Hunt": "Security",
     "Simon Willison": "Technology",
@@ -146,7 +179,6 @@ SOURCE_TOPICS = {
     "Lemire.me": "Technology",
     "Neal.fun": "Technology",
     "Daring Fireball": "Strategy",
-    "Rachel by the Bay": "Strategy",
     "Shkspr.mobi": "Strategy",
     "LinkedIn": "Business",
 }
@@ -157,7 +189,7 @@ BLOG_TECH = {
     "Gwern.net", "Lemire.me", "Neal.fun"
 }
 BLOG_STRATEGY = {
-    "MIT Sloan Review", "Daring Fireball", "Rachel by the Bay", "Shkspr.mobi"
+    "Daring Fireball", "Shkspr.mobi"
 }
 
 
@@ -181,6 +213,85 @@ def load_config():
 
 def get_yesterday():
     return datetime.date.today() - datetime.timedelta(days=1)
+
+
+def content_date_from_user_input(value):
+    try:
+        input_date = datetime.date.fromisoformat(value)
+    except ValueError as exc:
+        raise ValueError("Date must use YYYY-MM-DD format.") from exc
+    return input_date - datetime.timedelta(days=1)
+
+
+def parse_args(argv=None):
+    parser = argparse.ArgumentParser(
+        description=(
+            "Generate Daily Digest. By default, fetches yesterday's content. "
+            "--date YYYY-MM-DD fetches/ranks articles from previous day."
+        )
+    )
+    parser.add_argument(
+        "--date",
+        help="User input date in YYYY-MM-DD; digest content date becomes previous day.",
+    )
+    parser.add_argument(
+        "--summary-provider",
+        choices=SUMMARY_PROVIDERS,
+        default="none",
+        help=(
+            "Provider for NYT/WSJ and blog article overviews. Default: none (no LLM "
+            "summaries). Pass --summary-provider gemini to generate summaries with "
+            "gemini-3.5-flash (falls back to gemini-3.1-flash-lite)."
+        ),
+    )
+    parser.add_argument(
+        "--summary-model",
+        help="Override model id for the selected summary provider.",
+    )
+    parser.add_argument(
+        "--summary-nyt-sections",
+        help=(
+            "For claude-sonnet/claude-opus: comma-separated NYT/WSJ digest sections "
+            "to summarize with Claude, or 'all'. Other NYT/WSJ sections use Gemini."
+        ),
+    )
+    return parser.parse_args(argv)
+
+
+def _parse_section_filter(value):
+    if not value:
+        return set()
+    if value.strip().lower() == "all":
+        return "all"
+    return {part.strip() for part in re.split(r"[,;]", value) if part.strip()}
+
+
+def summary_config_from_args(args):
+    provider = args.summary_provider
+    if provider in PREMIUM_SUMMARY_PROVIDERS and not args.summary_nyt_sections:
+        raise ValueError("--summary-nyt-sections is required when using Claude summary providers.")
+    return {
+        "provider": provider,
+        "model": args.summary_model or DEFAULT_SUMMARY_MODELS.get(provider, ""),
+        "nyt_sections": _parse_section_filter(args.summary_nyt_sections),
+    }
+
+
+def article_summary_provider(article, group, config):
+    provider = config.get("provider", "gemini")
+    if provider == "none":
+        return None
+    if group == "blogs":
+        return provider
+    if group == "nyt_wsj":
+        if provider == "gemini":
+            return "gemini"
+        sections = config.get("nyt_sections") or set()
+        section = article.get("topic_tag") or article.get("section") or ""
+        if sections == "all" or section in sections:
+            return provider
+        return "gemini"
+    return None
 
 
 def unix_range(date):
@@ -220,6 +331,187 @@ def _rss_date(entry):
 
 def _clean_summary(text):
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", text or "")).strip()
+
+
+def reading_time_minutes(word_count, words_per_minute=READING_WORDS_PER_MINUTE):
+    try:
+        count = int(word_count)
+    except (TypeError, ValueError):
+        return 0
+    if count <= 0:
+        return 0
+    return max(1, (count + words_per_minute - 1) // words_per_minute)
+
+
+def _word_count(text):
+    return len(re.findall(r"\b[\w'-]+\b", text or ""))
+
+
+def article_word_count_from_html(html_text):
+    if not html_text:
+        return 0
+    if HAS_BS4:
+        soup = BeautifulSoup(html_text, "html.parser")
+        for node in soup(["script", "style", "noscript", "svg", "form", "nav", "header", "footer"]):
+            node.decompose()
+        article = soup.find("article")
+        text = (article or soup.body or soup).get_text(" ", strip=True)
+        return _word_count(text)
+    cleaned = re.sub(r"<(script|style|noscript|svg|form|nav|header|footer)\b.*?</\1>", " ", html_text, flags=re.I | re.S)
+    return _word_count(_clean_summary(cleaned))
+
+
+def _reading_stats_cache_key(article):
+    key = article_key(article)
+    title = (article.get("title") or "").strip().lower()
+    return f"{key}|{title}"
+
+
+def _reading_meta_text(article):
+    word_count = article.get("word_count")
+    minutes = article.get("reading_time_minutes")
+    if not word_count or not minutes:
+        return ""
+    try:
+        word_count = int(word_count)
+        minutes = int(minutes)
+    except (TypeError, ValueError):
+        return ""
+    return f"{word_count:,} words · {minutes} min read"
+
+
+def _normalize_url(url):
+    url = (url or "").strip()
+    url = url.split("?", 1)[0].split("#", 1)[0]
+    return url.rstrip("/").lower()
+
+
+_LAST_NYT_CALL = 0.0
+
+
+def _throttle_nyt():
+    global _LAST_NYT_CALL
+    elapsed = time.monotonic() - _LAST_NYT_CALL
+    if elapsed < NYT_API_MIN_INTERVAL:
+        time.sleep(NYT_API_MIN_INTERVAL - elapsed)
+    _LAST_NYT_CALL = time.monotonic()
+
+
+def _nyt_slug_query(url):
+    slug = _normalize_url(url).rsplit("/", 1)[-1]
+    if slug.endswith(".html"):
+        slug = slug[:-5]
+    return slug.replace("-", " ").strip()
+
+
+def _nyt_search_word_count(url, api_key):
+    # fq=web_url filtering returns zero results in this API version, so search by a
+    # slug-derived q and exact-match the returned web_url instead.
+    query = _nyt_slug_query(url)
+    if not query:
+        return None
+    target = _normalize_url(url)
+    last_error = None
+    for attempt in range(NYT_API_MAX_ATTEMPTS):
+        _throttle_nyt()
+        response = requests.get(
+            NYT_ARTICLE_SEARCH_URL,
+            params={"q": query, "fl": "web_url,word_count", "api-key": api_key},
+            timeout=20,
+        )
+        if response.status_code in (429, 503):
+            last_error = requests.HTTPError(f"{response.status_code} from NYT API")
+            if attempt < NYT_API_MAX_ATTEMPTS - 1:
+                wait = _retry_after_seconds(response)
+                if wait is None:
+                    wait = NYT_API_BACKOFF_BASE * (2 ** attempt)
+                time.sleep(wait)
+                continue
+            raise last_error
+        response.raise_for_status()
+        docs = ((response.json() or {}).get("response") or {}).get("docs") or []
+        for doc in docs:
+            if _normalize_url(doc.get("web_url")) == target:
+                return doc.get("word_count") or None
+        return None
+    if last_error:
+        raise last_error
+    return None
+
+
+def fetch_nyt_word_counts(urls):
+    api_key = os.environ.get("NYT_API_KEY")
+    urls = list(dict.fromkeys(url for url in urls if url))
+    if not api_key or not urls:
+        return {}
+    counts = {}
+    for url in urls:
+        try:
+            count = _nyt_search_word_count(url, api_key)
+        except Exception as e:
+            print(f"  [Reading stats] NYT API error: {e}")
+            break
+        if count:
+            counts[_normalize_url(url)] = count
+    return counts
+
+
+def fetch_article_reading_stats(article):
+    url = article.get("url")
+    if not url:
+        return {}
+    response = _request_get(url, "Reading stats", timeout=20)
+    if response is None:
+        return {}
+    count = article_word_count_from_html(response.text)
+    if not count:
+        return {}
+    return {"word_count": count, "reading_time_minutes": reading_time_minutes(count)}
+
+
+def enrich_article_reading_stats(data, cache=None, cache_path=None):
+    cache_path = cache_path or READING_STATS_CACHE_FILE
+    cache = cache if cache is not None else _load_json_file(cache_path, {})
+    changed = False
+    cached = fetched = missing = 0
+
+    pending_nyt_urls = []
+    for group in ("hn", "nyt_wsj", "blogs", "linkedin"):
+        for article in data.get(group, []):
+            if article.get("word_count") and article.get("reading_time_minutes"):
+                continue
+            if cache.get(_reading_stats_cache_key(article)):
+                continue
+            url = article.get("url") or ""
+            if "nytimes.com" in url:
+                pending_nyt_urls.append(url)
+    nyt_word_counts = fetch_nyt_word_counts(pending_nyt_urls)
+
+    for group in ("hn", "nyt_wsj", "blogs", "linkedin"):
+        for article in data.get(group, []):
+            if article.get("word_count") and article.get("reading_time_minutes"):
+                continue
+            key = _reading_stats_cache_key(article)
+            if cache.get(key):
+                article.update(cache[key])
+                cached += 1
+                continue
+            count = nyt_word_counts.get(_normalize_url(article.get("url")))
+            if count:
+                stats = {"word_count": count, "reading_time_minutes": reading_time_minutes(count)}
+            else:
+                stats = fetch_article_reading_stats(article)
+            if stats:
+                article.update(stats)
+                cache[key] = stats
+                fetched += 1
+                changed = True
+            else:
+                missing += 1
+    if changed:
+        _write_json_file(cache_path, cache)
+    print(f"  [Reading stats] Cached: {cached}; fetched: {fetched}; missing: {missing}.")
+    return data
 
 
 def _is_opinion(title, section):
@@ -264,7 +556,243 @@ def _request_get(url, source, timeout=15):
         return None
 
 
-def fetch_hackernews(n=12, date=None):
+def hn_companion_url(item_id):
+    return f"{HN_COMPANION_BASE_URL}/item?id={item_id}"
+
+
+def extract_hn_companion_overview(summary):
+    if not summary:
+        return ""
+    match = re.search(r"^# Overview\s*\n(?P<body>.*?)(?=\n# |\Z)", summary, flags=re.MULTILINE | re.DOTALL)
+    if not match:
+        return ""
+    overview = match.group("body").strip()
+    overview = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", overview)
+    overview = re.sub(r"[*_`>#-]+", "", overview)
+    return re.sub(r"\s+", " ", overview).strip()
+
+
+def fetch_hn_companion_overview(item_id):
+    if not HAS_REQUESTS:
+        return ""
+    try:
+        response = requests.get(
+            f"{HN_COMPANION_BASE_URL}/api/posts/{item_id}",
+            timeout=12,
+            headers=HTTP_HEADERS,
+        )
+        if response.status_code == 404:
+            return ""
+        response.raise_for_status()
+    except Exception as e:
+        print(f"  [HN Companion] Error fetching summary for {item_id}: {e}")
+        return ""
+    try:
+        return extract_hn_companion_overview(response.json().get("summary", ""))
+    except Exception as e:
+        print(f"  [HN Companion] Error parsing summary for {item_id}: {e}")
+        return ""
+
+
+def _load_json_file(path, default):
+    path = Path(path)
+    try:
+        if path.exists():
+            return json.loads(path.read_text(encoding="utf-8"))
+    except Exception as e:
+        print(f"  [Summaries] Error reading cache {path.name}: {e}")
+    return default
+
+
+def _write_json_file(path, value):
+    path = Path(path)
+    try:
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(json.dumps(value, indent=2, sort_keys=True), encoding="utf-8")
+    except Exception as e:
+        print(f"  [Summaries] Error writing cache {path.name}: {e}")
+
+
+def _article_overview_cache_key(article, provider, model):
+    key = article_key(article)
+    title = (article.get("title") or "").strip().lower()
+    return f"{provider}|{model}|{key}|{title}"
+
+
+def _article_overview_prompt(article):
+    source = article.get("outlet") or article.get("source") or "Unknown source"
+    section = article.get("topic_tag") or article.get("section") or article.get("topic") or ""
+    return (
+        "Write one concise, high-quality overview for this reading-list item.\n"
+        "Target 60-90 words. One paragraph. No markdown. Do not invent facts beyond provided metadata. "
+        "Explain what it covers and why it matters.\n\n"
+        f"Title: {article.get('title', '')}\n"
+        f"Source: {source}\n"
+        f"Section: {section}\n"
+        f"URL: {article.get('url', '')}\n"
+        f"Feed summary: {article.get('summary', '')}\n"
+        f"Ranking reason: {article.get('reason', '')}\n"
+        f"Reading mode: {article.get('reading_mode', '')}\n"
+    )
+
+
+def _clean_generated_overview(text):
+    text = re.sub(r"\s+", " ", text or "").strip()
+    text = re.sub(r"^overview:\s*", "", text, flags=re.IGNORECASE)
+    return text.strip(" -*_`")
+
+
+_LAST_GEMINI_CALL = 0.0
+
+
+def _retry_after_seconds(response):
+    value = response.headers.get("Retry-After")
+    if not value:
+        return None
+    try:
+        return float(value)
+    except (TypeError, ValueError):
+        return None
+
+
+def _throttle_gemini():
+    global _LAST_GEMINI_CALL
+    elapsed = time.monotonic() - _LAST_GEMINI_CALL
+    if elapsed < GEMINI_MIN_INTERVAL:
+        time.sleep(GEMINI_MIN_INTERVAL - elapsed)
+    _LAST_GEMINI_CALL = time.monotonic()
+
+
+def _gemini_generate(prompt, model, api_key):
+    last_error = None
+    for attempt in range(GEMINI_MAX_ATTEMPTS):
+        _throttle_gemini()
+        response = requests.post(
+            f"{GEMINI_API_BASE}/{model}:generateContent",
+            params={"key": api_key},
+            headers={"Content-Type": "application/json"},
+            json={
+                "contents": [{"role": "user", "parts": [{"text": prompt}]}],
+                "generationConfig": {"temperature": 0.2, "maxOutputTokens": 220},
+            },
+            timeout=45,
+        )
+        if response.status_code in (429, 503):
+            last_error = requests.HTTPError(f"{response.status_code} from {model}")
+            if attempt < GEMINI_MAX_ATTEMPTS - 1:
+                wait = _retry_after_seconds(response)
+                if wait is None:
+                    wait = GEMINI_BACKOFF_BASE * (2 ** attempt)
+                time.sleep(wait)
+                continue
+            raise last_error
+        response.raise_for_status()
+        parts = response.json().get("candidates", [{}])[0].get("content", {}).get("parts", [])
+        return _clean_generated_overview(" ".join(part.get("text", "") for part in parts))
+    if last_error:
+        raise last_error
+    return ""
+
+
+def _call_gemini_summary(prompt, model):
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        return ""
+    models = [model]
+    if GEMINI_FALLBACK_MODEL not in models:
+        models.append(GEMINI_FALLBACK_MODEL)
+    last_error = None
+    for index, candidate in enumerate(models):
+        try:
+            return _gemini_generate(prompt, candidate, api_key)
+        except Exception as e:
+            last_error = e
+            if index < len(models) - 1:
+                print(f"  [Summaries] gemini {candidate} unavailable ({e}); falling back to {models[index + 1]}.")
+    if last_error:
+        raise last_error
+    return ""
+
+
+def _call_claude_summary(prompt, model):
+    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    if not api_key:
+        return ""
+    response = requests.post(
+        "https://api.anthropic.com/v1/messages",
+        headers={
+            "Content-Type": "application/json",
+            "x-api-key": api_key,
+            "anthropic-version": "2023-06-01",
+        },
+        json={
+            "model": model,
+            "max_tokens": 220,
+            "temperature": 0.2,
+            "messages": [{"role": "user", "content": prompt}],
+        },
+        timeout=45,
+    )
+    response.raise_for_status()
+    chunks = [part.get("text", "") for part in response.json().get("content", []) if part.get("type") == "text"]
+    return _clean_generated_overview(" ".join(chunks))
+
+
+def generate_article_overview(article, provider, model):
+    if not HAS_REQUESTS:
+        return ""
+    prompt = _article_overview_prompt(article)
+    if provider == "gemini":
+        return _call_gemini_summary(prompt, model)
+    if provider in PREMIUM_SUMMARY_PROVIDERS:
+        return _call_claude_summary(prompt, model)
+    return ""
+
+
+def enrich_article_overviews(data, config, settings=None, cache_path=None):
+    if config.get("provider") == "none":
+        print("  [Summaries] Disabled.")
+        return data
+
+    settings = settings or DEFAULT_CONFIG["settings"]
+    cache_path = cache_path or ARTICLE_OVERVIEW_CACHE_FILE
+    cache = _load_json_file(cache_path, {})
+    changed = False
+    cached = generated = missing = 0
+
+    for group, articles in (("nyt_wsj", data.get("nyt_wsj", [])), ("blogs", data.get("blogs", []))):
+        for article in articles:
+            if article.get("article_overview"):
+                continue
+            provider = article_summary_provider(article, group, config)
+            if not provider:
+                continue
+            model = config.get("model") if provider == config.get("provider") else DEFAULT_SUMMARY_MODELS[provider]
+            key = _article_overview_cache_key(article, provider, model)
+            if cache.get(key):
+                article["article_overview"] = cache[key]
+                cached += 1
+                continue
+            try:
+                overview = generate_article_overview(article, provider, model)
+            except Exception as e:
+                print(f"  [Summaries] {provider} error for {article.get('title', '')[:70]}: {e}")
+                overview = ""
+            if overview:
+                article["article_overview"] = overview
+                cache[key] = overview
+                generated += 1
+                changed = True
+            else:
+                missing += 1
+
+    if changed:
+        _write_json_file(cache_path, cache)
+    print(f"  [Summaries] Cached: {cached}; generated: {generated}; missing: {missing}.")
+    return data
+
+
+def fetch_hackernews(n=12, date=None, verbose=False):
     if date is None:
         date = get_yesterday()
     start, end = unix_range(date)
@@ -273,11 +801,15 @@ def fetch_hackernews(n=12, date=None):
         f"?tags=story&hitsPerPage=1000"
         f"&numericFilters=created_at_i>{start},created_at_i<{end}"
     )
+    if verbose:
+        print(f"  [HN] Fetching Algolia stories for {date.isoformat()}...")
     response = _request_get(url, "HN", timeout=20)
     if response is None:
         return []
     try:
         hits = response.json().get("hits", [])
+        if verbose:
+            print(f"  [HN] Raw hits: {len(hits):,}")
         stories = []
         for hit in hits:
             object_id = hit.get("objectID")
@@ -288,6 +820,7 @@ def fetch_hackernews(n=12, date=None):
                 "title": title,
                 "url": hit.get("url") or f"https://news.ycombinator.com/item?id={object_id}",
                 "hn_url": f"https://news.ycombinator.com/item?id={object_id}",
+                "object_id": object_id,
                 "score": hit.get("points", 0) or 0,
                 "comments": hit.get("num_comments", 0) or 0,
                 "author": hit.get("author", ""),
@@ -297,7 +830,19 @@ def fetch_hackernews(n=12, date=None):
                 "section": None,
                 "date": date,
             })
-        return sorted(dedupe_articles(stories), key=lambda item: item["score"], reverse=True)[:n]
+        selected = sorted(dedupe_articles(stories), key=lambda item: item["score"], reverse=True)[:n]
+        if verbose:
+            print(f"  [HN] Ranked stories: {len(stories):,}; selected top {len(selected)}.")
+        for story in selected:
+            object_id = story.get("object_id")
+            if object_id:
+                story["hn_companion_url"] = hn_companion_url(object_id)
+                story["discussion_overview"] = fetch_hn_companion_overview(object_id)
+        if verbose:
+            summarized = sum(1 for story in selected if story.get("discussion_overview"))
+            missing = len(selected) - summarized
+            print(f"  [HN Companion] Cached overviews: {summarized}; missing: {missing}.")
+        return selected
     except Exception as e:
         print(f"  [HN] Error parsing response: {e}")
         return []
@@ -453,8 +998,6 @@ def _scrape_neal_fun():
 
 def _pick_blog_posts(source, url, target_date):
     posts = fetch_rss(url, source, max_items=20)
-    if not posts and source == "Rachel by the Bay":
-        posts = _scrape_links("https://rachelbythebay.com/w/", source, "long-form", max_items=10, min_title_len=10)
     exact = [post for post in posts if post.get("date") == target_date]
     chosen = exact[:2]
     if not chosen:
@@ -489,7 +1032,7 @@ def _split_news(articles):
 def build_sections(data, settings):
     hn_count = int(settings.get("hn_digest_count", 16))
     blog_items = data.get("blogs", [])
-    research_sources = {"MIT IDE", "MIT Shaping Work", "MIT Sloan Review"}
+    research_sources = {"MIT IDE", "MIT Shaping Work"}
     return {
         "hn": data.get("hn", [])[:hn_count],
         "nyt_wsj": data.get("nyt_wsj", []),
@@ -673,11 +1216,19 @@ def _article_row(article, show_score=False):
             f' <span style="font-size:11px;color:#888;margin-left:6px">'
             f'Score {float(article.get("score", 0)):.1f}</span>'
         )
+    reading_meta = _reading_meta_text(article)
+    if reading_meta:
+        score += (
+            f' <span style="font-size:11px;color:#888;margin-left:6px">'
+            f'{_html_escape(reading_meta)}</span>'
+        )
+    discussion_url = article.get("hn_companion_url") or article.get("hn_url")
     discuss = ""
-    if article.get("hn_url"):
+    if discussion_url:
+        label = "HN Companion" if article.get("hn_companion_url") else "discuss"
         discuss = (
-            f' <a href="{_html_escape(article["hn_url"])}" style="font-size:11px;color:#e67e22;'
-            f'margin-left:6px;text-decoration:none">discuss</a>'
+            f' <a href="{_html_escape(discussion_url)}" style="font-size:11px;color:#e67e22;'
+            f'margin-left:6px;text-decoration:none">{label}</a>'
         )
     date_note = _display_date(article)
     if date_note:
@@ -739,11 +1290,19 @@ def _article_row_content(article, show_score=False):
             f' <span style="font-size:11px;color:#888;margin-left:6px">'
             f'Score {float(article.get("score", 0)):.1f}</span>'
         )
+    reading_meta = _reading_meta_text(article)
+    if reading_meta:
+        score += (
+            f' <span style="font-size:11px;color:#888;margin-left:6px">'
+            f'{_html_escape(reading_meta)}</span>'
+        )
+    discussion_url = article.get("hn_companion_url") or article.get("hn_url")
     discuss = ""
-    if article.get("hn_url"):
+    if discussion_url:
+        label = "HN Companion" if article.get("hn_companion_url") else "discuss"
         discuss = (
-            f' <a href="{_html_escape(article["hn_url"])}" style="font-size:11px;color:#e67e22;'
-            f'margin-left:6px;text-decoration:none">discuss</a>'
+            f' <a href="{_html_escape(discussion_url)}" style="font-size:11px;color:#e67e22;'
+            f'margin-left:6px;text-decoration:none">{label}</a>'
         )
     date_note = _display_date(article)
     if date_note:
@@ -758,10 +1317,17 @@ def _article_row_content(article, show_score=False):
             f'{": " if mode and reason else ""}'
             f'{_html_escape(reason or "")}</div>'
         )
+    overview_text = article.get("discussion_overview") or article.get("article_overview")
+    overview = ""
+    if overview_text:
+        overview = (
+            f'<div style="font-size:12px;color:#555;line-height:1.45;margin-top:6px;margin-left:24px">'
+            f'<strong>Overview:</strong> {_html_escape(overview_text)}</div>'
+        )
     return (
         f'<a href="{_html_escape(article.get("url", "#"))}" style="color:#1a1a2e;font-size:14px;'
         f'text-decoration:none;line-height:1.45;font-weight:500" target="_blank">'
-        f'{_html_escape(article.get("title", ""))}</a>{badges}{score}{discuss}{date_note}{detail}'
+        f'{_html_escape(article.get("title", ""))}</a>{badges}{score}{discuss}{date_note}{detail}{overview}'
     )
 
 
@@ -809,7 +1375,70 @@ def _grouped_section_block(heading, articles, group_key, numbered=True):
     return "".join(blocks)
 
 
-def generate_html(date, data, settings=None):
+def digest_archive_entries(daily_html_dir=DAILY_HTML_DIR, href_prefix="output/daily_html"):
+    entries = []
+    for path in Path(daily_html_dir).glob("digest_*.html"):
+        date_text = path.stem.removeprefix("digest_")
+        try:
+            digest_date = datetime.date.fromisoformat(date_text)
+        except ValueError:
+            continue
+        entries.append((
+            date_text,
+            f"{date_text} ({digest_date.strftime('%A')})",
+            f"{href_prefix.rstrip('/')}/{path.name}",
+        ))
+    return sorted(entries, key=lambda entry: entry[0], reverse=True)
+
+
+def generate_digest_archive_html(entries=None):
+    entries = entries if entries is not None else digest_archive_entries()
+    links = "\n".join(
+        f'''      <li style="margin:0 0 10px"><a href="{_html_escape(href)}" style="color:#1a1a2e;text-decoration:none;font-weight:600">{_html_escape(label)}</a></li>'''
+        for _, label, href in entries
+    )
+    if not links:
+        links = '''      <li style="margin:0 0 10px;color:#777">No saved digests yet.</li>'''
+    generated = datetime.datetime.now().strftime("%-I:%M %p on %B %-d, %Y")
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Daily Digest Archive</title>
+</head>
+<body style="margin:0;padding:0;background:#f4f3f0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;color:#1a1a1a">
+<table width="100%" cellspacing="0" cellpadding="0" style="background:#f4f3f0">
+<tr><td align="center" style="padding:24px 16px">
+<table width="660" cellspacing="0" cellpadding="0" style="max-width:660px;width:100%">
+<tr><td style="background:#1a1a2e;border-radius:12px;padding:32px 36px">
+  <div style="font-size:11px;color:rgba(255,255,255,.55);letter-spacing:.15em;text-transform:uppercase;margin-bottom:6px">Daily Digest</div>
+  <div style="font-size:30px;font-weight:800;color:#fff;line-height:1.1">Past Daily Digests</div>
+  <div style="font-size:14px;color:rgba(255,255,255,.5);margin-top:10px"><a href="index.html" style="color:rgba(255,255,255,.75);text-decoration:none">Back to latest digest</a></div>
+</td></tr>
+<tr><td style="height:16px"></td></tr>
+<tr><td style="background:#fff;border-radius:12px;padding:28px 32px;box-shadow:0 1px 4px rgba(0,0,0,.06)">
+  <ul style="list-style:none;margin:0;padding:0">
+{links}
+  </ul>
+</td></tr>
+<tr><td style="height:16px"></td></tr>
+<tr><td style="text-align:center;padding:16px;font-size:11px;color:#999">
+  Generated {_html_escape(generated)} · Daily Digest
+</td></tr>
+</table>
+</td></tr>
+</table>
+</body>
+</html>"""
+
+
+def write_digest_archive_page(path=DIGEST_ARCHIVE_PAGE):
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(generate_digest_archive_html())
+
+
+def generate_html(date, data, settings=None, archive_href="digest_archive.html"):
     settings = settings or DEFAULT_CONFIG["settings"]
     sections = build_sections(data, settings)
     date_str = date.strftime("%A, %B %-d, %Y")
@@ -829,6 +1458,7 @@ def generate_html(date, data, settings=None):
   <div style="font-size:11px;color:rgba(255,255,255,.55);letter-spacing:.15em;text-transform:uppercase;margin-bottom:6px">Your Morning Read</div>
   <div style="font-size:30px;font-weight:800;color:#fff;line-height:1.1">{_html_escape(date_str)}</div>
   <div style="font-size:14px;color:rgba(255,255,255,.5);margin-top:6px">Daily Digest</div>
+  <div style="font-size:13px;margin-top:18px"><a href="{_html_escape(archive_href)}" style="color:rgba(255,255,255,.82);text-decoration:none;font-weight:700">Read past daily digests</a></div>
 </td></tr>
 <tr><td style="height:16px"></td></tr>
 <tr><td style="background:#fff;border-radius:12px;padding:28px 32px;box-shadow:0 1px 4px rgba(0,0,0,.06)">
@@ -863,10 +1493,18 @@ def _md_articles(articles, numbered=False, show_score=False):
             score = f" {int(article.get('score', 0))} pts · {int(article.get('comments', 0))} comments"
         elif article.get("score") not in (None, ""):
             score = f" · score {float(article.get('score', 0)):.1f}"
-        discuss = f" · [discuss]({article['hn_url']})" if article.get("hn_url") else ""
+        reading_meta = _reading_meta_text(article)
+        if reading_meta:
+            score += f" · {_md_escape(reading_meta)}"
+        discussion_url = article.get("hn_companion_url") or article.get("hn_url")
+        discuss_label = "HN Companion" if article.get("hn_companion_url") else "discuss"
+        discuss = f" · [{discuss_label}]({discussion_url})" if discussion_url else ""
         date_note = f" · {_md_escape(_display_date(article))}" if _display_date(article) else ""
         prefix = f"{index}." if numbered else "-"
         lines.append(f"{prefix} {badge}[{title}]({url}){score}{discuss}{date_note}")
+        overview_text = article.get("discussion_overview") or article.get("article_overview")
+        if overview_text:
+            lines.append(f"   - **Overview:** {_md_escape(overview_text)}")
         if article.get("reason") or article.get("reading_mode"):
             detail = " — ".join(part for part in (article.get("reading_mode"), article.get("reason")) if part)
             lines.append(f"   - {_md_escape(detail)}")
@@ -968,9 +1606,10 @@ def update_hn_archive(date, new_stories):
         print("  [HN Archive] No stories - skipping.")
         return
 
-    json_path = SCRIPT_DIR / "hn_archive_data.json"
-    md_path = SCRIPT_DIR / "hn_archive.md"
-    xlsx_path = SCRIPT_DIR / "hn_archive.xlsx"
+    HN_DATA_DIR.mkdir(parents=True, exist_ok=True)
+    json_path = HN_DATA_DIR / "hn_archive_data.json"
+    md_path = HN_DATA_DIR / "hn_archive.md"
+    xlsx_path = HN_DATA_DIR / "hn_archive.xlsx"
     archive = {}
     if json_path.exists():
         try:
@@ -1094,9 +1733,10 @@ def write_dd_archive_xlsx(archive, path):
 
 
 def update_dd_archive(date, data, settings=None):
-    json_path = SCRIPT_DIR / "dd_archive_data.json"
-    md_path = SCRIPT_DIR / "dd_archive.md"
-    xlsx_path = SCRIPT_DIR / "dd_archive.xlsx"
+    DIGEST_ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+    json_path = DIGEST_ARCHIVE_DIR / "dd_archive_data.json"
+    md_path = DIGEST_ARCHIVE_DIR / "dd_archive.md"
+    xlsx_path = DIGEST_ARCHIVE_DIR / "dd_archive.xlsx"
     archive = {}
     if json_path.exists():
         try:
@@ -1139,7 +1779,7 @@ def update_dd_archive(date, data, settings=None):
 
 
 def _clear_stale_git_lock(max_age_seconds=300):
-    lock_path = SCRIPT_DIR / ".git" / "index.lock"
+    lock_path = REPO_ROOT / ".git" / "index.lock"
     if not lock_path.exists():
         return False
     try:
@@ -1159,7 +1799,7 @@ def _run_git(args):
     if args and args[0] in {"add", "commit"}:
         _clear_stale_git_lock()
     result = subprocess.run(
-        ["git", "-C", str(SCRIPT_DIR)] + args,
+        ["git", "-C", str(REPO_ROOT)] + args,
         capture_output=True,
         text=True,
         timeout=45,
@@ -1168,7 +1808,7 @@ def _run_git(args):
         message = (result.stderr or result.stdout or "unknown git error").strip()
         if "index.lock" in message and _clear_stale_git_lock(max_age_seconds=0):
             result = subprocess.run(
-                ["git", "-C", str(SCRIPT_DIR)] + args,
+                ["git", "-C", str(REPO_ROOT)] + args,
                 capture_output=True,
                 text=True,
                 timeout=45,
@@ -1193,7 +1833,7 @@ def _run_nyt_wsj_ranker(date, settings):
         result = run_nyt_wsj_ranker(
             target_date=date,
             max_links=int(settings.get("nyt_wsj_max_links", 20)),
-            output_dir=SCRIPT_DIR / settings.get("ranker_output_dir", "output"),
+            output_dir=REPO_ROOT / settings.get("ranker_output_dir", "output/ranker_diagnostics"),
             write_files=True,
         )
         return result.get("selected", [])
@@ -1210,7 +1850,7 @@ def _run_blog_ranker(date, settings):
         result = run_blog_ranker(
             target_date=date,
             max_links=int(settings.get("blog_max_links", 20)),
-            output_dir=SCRIPT_DIR / settings.get("ranker_output_dir", "output"),
+            output_dir=REPO_ROOT / settings.get("ranker_output_dir", "output/ranker_diagnostics"),
             write_files=True,
         )
         return result.get("selected", [])
@@ -1219,31 +1859,42 @@ def _run_blog_ranker(date, settings):
         return []
 
 
+def github_pages_publish_files(date, settings, daily_html_dir=DAILY_HTML_DIR):
+    files = [
+        str(Path("output") / "daily_html" / f"digest_{date.isoformat()}.html"),
+        str(Path("output") / "daily_md" / f"digest_{date.isoformat()}.md"),
+        "index.html",
+        "digest_archive.html",
+        str(Path("data") / "hn" / "hn_archive.md"),
+        str(Path("data") / "hn" / "hn_archive.xlsx"),
+        str(Path("data") / "digest_archives" / "dd_archive.md"),
+        str(Path("data") / "digest_archives" / "dd_archive.xlsx"),
+    ]
+    for _, _, href in digest_archive_entries(daily_html_dir):
+        files.append(href)
+
+    output_dir = REPO_ROOT / settings.get("ranker_output_dir", "output/ranker_diagnostics")
+    for name in (
+        f"nyt_wsj_briefing_{date.isoformat()}.md",
+        f"nyt_wsj_candidates_{date.isoformat()}.csv",
+        f"blog_briefing_{date.isoformat()}.md",
+        f"blog_candidates_{date.isoformat()}.csv",
+    ):
+        if (output_dir / name).exists():
+            files.append(str(Path(settings.get("ranker_output_dir", "output/ranker_diagnostics")) / name))
+
+    return list(dict.fromkeys(files))
+
+
 def push_to_github(date, config):
     if os.environ.get("DAILY_DIGEST_SKIP_GITHUB") == "1":
         print("  [GitHub] Skipped because DAILY_DIGEST_SKIP_GITHUB=1.")
         return
     if not config.get("github_pages", {}).get("enabled"):
         return
+    settings = config.get("settings", {})
     try:
-        files = [
-            str(Path("daily_html") / f"digest_{date.isoformat()}.html"),
-            str(Path("daily_md") / f"digest_{date.isoformat()}.md"),
-            "index.html",
-            "hn_archive.md",
-            "hn_archive.xlsx",
-            "dd_archive.md",
-            "dd_archive.xlsx",
-        ]
-        output_dir = SCRIPT_DIR / "output"
-        for name in (
-            f"nyt_wsj_briefing_{date.isoformat()}.md",
-            f"nyt_wsj_candidates_{date.isoformat()}.csv",
-            f"blog_briefing_{date.isoformat()}.md",
-            f"blog_candidates_{date.isoformat()}.csv",
-        ):
-            if (output_dir / name).exists():
-                files.append(str(Path("output") / name))
+        files = github_pages_publish_files(date, settings)
         ok, _ = _run_git(["add"] + files)
         if not ok:
             return
@@ -1260,7 +1911,7 @@ def push_to_github(date, config):
         print(f"  [GitHub] Error: {e}")
 
 
-def main(target_date=None):
+def main(target_date=None, summary_config=None):
     print(f"\n{'-' * 50}")
     print(f"  Daily Digest - {datetime.date.today()}")
     print(f"{'-' * 50}")
@@ -1270,38 +1921,46 @@ def main(target_date=None):
     date = target_date or get_yesterday()
     print(f"  Fetching content for: {date}\n")
 
-    print("  [1/6] HackerNews...")
-    hn = fetch_hackernews(n=int(settings.get("hn_digest_count", 16)), date=date)
+    print("  [1/7] HackerNews...")
+    hn = fetch_hackernews(n=int(settings.get("hn_digest_count", 16)), date=date, verbose=True)
 
-    print("  [2/6] NYT / WSJ ranker...")
+    print("  [2/7] NYT / WSJ ranker...")
     nyt_wsj = _run_nyt_wsj_ranker(date, settings)
 
-    print("  [3/6] Blog / research ranker...")
+    print("  [3/7] Blog / research ranker...")
     blogs = _run_blog_ranker(date, settings)
-
-    print("  [4/6] LinkedIn...")
-    linkedin = fetch_linkedin_activity()
-
-    print("  [5/6] Rendering and archives...")
 
     data = {
         "hn": hn,
         "nyt_wsj": nyt_wsj,
         "blogs": blogs,
-        "linkedin": linkedin,
+        "linkedin": [],
     }
+
+    print("  [4/7] Reading stats...")
+    enrich_article_reading_stats(data)
+
+    print("  [5/7] Article overviews...")
+    summary_config = summary_config or {"provider": "none", "model": "", "nyt_sections": set()}
+    enrich_article_overviews(data, summary_config, settings)
+
+    print("  [6/7] LinkedIn...")
+    data["linkedin"] = fetch_linkedin_activity()
+
+    print("  [7/7] Rendering and archives...")
     publishable = _has_publishable_content(data)
 
     html_path = DAILY_HTML_DIR / f"digest_{date.isoformat()}.html"
     md_path = DAILY_MD_DIR / f"digest_{date.isoformat()}.md"
-    index_path = SCRIPT_DIR / "index.html"
+    index_path = REPO_ROOT / "index.html"
     preserve_existing_outputs = (
         not publishable
         and (html_path.exists() or md_path.exists() or index_path.exists())
     )
 
     print("\n  Generating outputs...")
-    html_doc = generate_html(date, data, settings)
+    html_doc = generate_html(date, data, settings, archive_href="../../digest_archive.html")
+    index_html_doc = generate_html(date, data, settings, archive_href="digest_archive.html")
     markdown = generate_markdown(date, data, settings)
 
     if preserve_existing_outputs:
@@ -1312,6 +1971,8 @@ def main(target_date=None):
                 html_doc = html_path.read_text(encoding="utf-8")
             elif index_path.exists():
                 html_doc = index_path.read_text(encoding="utf-8")
+            if index_path.exists():
+                index_html_doc = index_path.read_text(encoding="utf-8")
             if md_path.exists():
                 markdown = md_path.read_text(encoding="utf-8")
         except Exception as e:
@@ -1323,14 +1984,20 @@ def main(target_date=None):
             with open(html_path, "w", encoding="utf-8") as f:
                 f.write(html_doc)
             with open(index_path, "w", encoding="utf-8") as f:
-                f.write(html_doc)
+                f.write(index_html_doc)
             with open(md_path, "w", encoding="utf-8") as f:
                 f.write(markdown)
-            print(f"  Saved HTML:     {html_path.relative_to(SCRIPT_DIR)}")
+            print(f"  Saved HTML:     {html_path.relative_to(REPO_ROOT)}")
             print("  Saved index.html")
-            print(f"  Saved Markdown: {md_path.relative_to(SCRIPT_DIR)}")
+            print(f"  Saved Markdown: {md_path.relative_to(REPO_ROOT)}")
         except Exception as e:
             print(f"  [Output] Error writing digest files: {e}")
+
+    try:
+        write_digest_archive_page()
+        print(f"  Saved archive:  {DIGEST_ARCHIVE_PAGE.relative_to(REPO_ROOT)}")
+    except Exception as e:
+        print(f"  [Output] Error writing digest archive page: {e}")
 
     if publishable:
         print("  Updating HN archive...")
@@ -1357,5 +2024,18 @@ def main(target_date=None):
     }
 
 
+def cli(argv=None):
+    args = parse_args(argv)
+    target_date = content_date_from_user_input(args.date) if args.date else None
+    try:
+        summary_config = summary_config_from_args(args)
+    except ValueError as e:
+        raise SystemExit(str(e)) from e
+    if args.date:
+        print(f"  User input date: {args.date}")
+        print(f"  Content date:    {target_date.isoformat()} (previous day)")
+    return main(target_date=target_date, summary_config=summary_config)
+
+
 if __name__ == "__main__":
-    main()
+    cli()

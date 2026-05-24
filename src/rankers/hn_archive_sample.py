@@ -6,9 +6,11 @@ Run this first to verify output looks good before the full 365-day build.
 """
 import subprocess
 import sys
+from pathlib import Path
 
+SCRIPT_DIR = Path(__file__).parent.resolve()
 result = subprocess.run(
-    [sys.executable, "hn_historical.py", "--days", "7", "--top", "10", "--refresh"],
-    cwd=str(__import__('pathlib').Path(__file__).parent)
+    [sys.executable, str(SCRIPT_DIR / "hn_historical.py"), "--days", "7", "--top", "10", "--refresh"],
+    cwd=str(SCRIPT_DIR.parents[1]),
 )
 sys.exit(result.returncode)

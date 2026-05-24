@@ -7,7 +7,7 @@
 
     <key>ProgramArguments</key>
     <array>
-        <string>/Users/michellekang/Documents/daily_digest/run_digest.sh</string>
+        <string>__RUNNER__</string>
     </array>
 
     <!-- Run every day at 6:00 AM -->
@@ -25,7 +25,7 @@
     <string>/tmp/com.michelle.dailydigest.err.log</string>
 
     <key>WorkingDirectory</key>
-    <string>/Users/michellekang/Documents/daily_digest</string>
+    <string>__REPO_ROOT__</string>
 
     <key>RunAtLoad</key>
     <false/>

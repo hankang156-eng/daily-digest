@@ -7,9 +7,20 @@
 
 set -o pipefail
 
-SCRIPT_DIR="/Users/michellekang/Documents/daily_digest"
-VENV_PYTHON="/Users/michellekang/Documents/daily_digest/.venv/bin/python3"
-LOG_FILE="$SCRIPT_DIR/digest.log"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+VENV_PYTHON="$REPO_ROOT/.venv/bin/python3"
+LOG_FILE="$REPO_ROOT/data/digest_archives/digest.log"
+
+# Load API keys from a gitignored .env at the repo root, if present.
+# Covers manual and scheduled (LaunchAgent) runs since both invoke this script.
+# Expected keys: GEMINI_API_KEY, NYT_API_KEY, ANTHROPIC_API_KEY.
+if [ -f "$REPO_ROOT/.env" ]; then
+    set -a
+    # shellcheck disable=SC1091
+    . "$REPO_ROOT/.env"
+    set +a
+fi
 
 # Rotate log: keep only the last 500 lines
 if [ -f "$LOG_FILE" ]; then
@@ -23,7 +34,7 @@ log() {
 log ""
 log "========================================"
 log "  Daily Digest run started: $(date)"
-log "  Workspace: $SCRIPT_DIR"
+log "  Workspace: $REPO_ROOT"
 log "  Log file:  $LOG_FILE"
 log "========================================"
 
@@ -45,10 +56,10 @@ if [ "$PIP_STATUS" -ne 0 ]; then
     exit "$PIP_STATUS"
 fi
 
-cd "$SCRIPT_DIR"
+cd "$REPO_ROOT"
 log ""
-log "  [2/3] Running daily_digest.py..."
-PYTHONUNBUFFERED=1 "$PYTHON" daily_digest.py 2>&1 | tee -a "$LOG_FILE"
+log "  [2/3] Running src/daily_digest.py..."
+PYTHONUNBUFFERED=1 "$PYTHON" src/daily_digest.py "$@" 2>&1 | tee -a "$LOG_FILE"
 DIGEST_STATUS=${PIPESTATUS[0]}
 
 log ""

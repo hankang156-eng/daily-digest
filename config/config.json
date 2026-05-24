@@ -1,0 +1,12 @@
+{
+  "settings": {
+    "hn_digest_count": 16,
+    "nyt_wsj_max_links": 20,
+    "blog_max_links": 20,
+    "ranker_output_dir": "output/ranker_diagnostics"
+  },
+  "github_pages": {
+    "enabled": true,
+    "_setup": "Run: bash setup_github_pages.sh — then set enabled to true"
+  }
+}

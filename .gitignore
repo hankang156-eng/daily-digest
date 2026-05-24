@@ -1,12 +1,18 @@
 # Secrets
 config.json
+!config/config.json
 google_credentials.json
+.env
 
 # Large data files (regenerated from JSON)
 hn_archive_data.json
 dd_archive_data.json
 digest.log
 output/blog_cache.json
+data/digest_archives/digest.log
+data/reddit/audit_outputs/saved_posts_public_info.json
+data/reddit/audit_outputs/subreddit_metadata.json
+data/reddit/audit_outputs/reddit_cache/
 
 # Python cache
 __pycache__/
@@ -19,7 +25,6 @@ __pycache__/
 
 # Local workspace leftovers / Obsidian folder
 Daily Digest/
-daily_digest/
 PROMPT.md
 _trash/
 _inputs/

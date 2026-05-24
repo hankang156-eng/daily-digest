@@ -35,6 +35,8 @@ except ImportError:
 
 
 SCRIPT_DIR = Path(__file__).parent.resolve()
+REPO_ROOT = SCRIPT_DIR.parents[1]
+CONFIG_FILE = REPO_ROOT / "config" / "config.json"
 HTTP_HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -168,13 +170,13 @@ def load_json(path: Path, default: Any) -> Any:
 
 
 def load_config(path: Path | None = None) -> dict[str, Any]:
-    config = load_json(path or SCRIPT_DIR / "config.json", {})
+    config = load_json(path or CONFIG_FILE, {})
     return config.get("nyt_wsj_ranker", config)
 
 
 def read_suppressed(output_dir: Path) -> set[str]:
     urls = set()
-    for path in (SCRIPT_DIR / "read_urls.txt", output_dir / "read_urls.txt"):
+    for path in (REPO_ROOT / "read_urls.txt", output_dir / "read_urls.txt"):
         if path.exists():
             for line in path.read_text(encoding="utf-8").splitlines():
                 line = line.strip()
@@ -474,7 +476,7 @@ def run_ranker(
     target_date: dt.date | None = None,
     max_links: int = 20,
     days_back: int = 1,
-    output_dir: str | Path = "output",
+    output_dir: str | Path = REPO_ROOT / "output" / "ranker_diagnostics",
     include_nyt: bool = True,
     include_wsj: bool = True,
     debug: bool = False,
@@ -520,7 +522,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--max-links", type=int, default=20)
     parser.add_argument("--days-back", type=int, default=1)
     parser.add_argument("--date", type=str)
-    parser.add_argument("--output-dir", default="output")
+    parser.add_argument("--output-dir", default=str(REPO_ROOT / "output" / "ranker_diagnostics"))
     parser.add_argument("--weekly", action="store_true")
     parser.add_argument("--include-wsj", action="store_true", default=True)
     parser.add_argument("--exclude-wsj", action="store_true")

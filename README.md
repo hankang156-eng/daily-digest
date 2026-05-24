@@ -1,94 +1,164 @@
 # Daily Digest
 
-Personal daily reading digest for Hacker News, NYT/WSJ, and selected blogs/research sites.
+Personal daily reading digest for Hacker News, NYT/WSJ, selected blogs/research sites, and Reddit planning workflows.
 
 Workspace:
 
 ```bash
-/Users/michellekang/Documents/daily_digest
+daily_digest/
 ```
+
+## Layout
+
+| Path | Description |
+|------|-------------|
+| `src/daily_digest.py` | Main digest generator |
+| `src/rankers/` | HN, NYT/WSJ, and blog/research rankers |
+| `src/reddit/` | Reddit audit and cleanup/custom-feed workflows |
+| `config/config.json` | Digest configuration |
+| `scripts/` | Manual runner, LaunchAgent, and GitHub Pages setup |
+| `data/hn/` | HN archive data and rendered archive views |
+| `data/digest_archives/` | Selected digest archive data and logs |
+| `data/reddit/` | Reddit audit inputs, audit outputs, cleanup mapping, and action plans |
+| `output/daily_html/` | Date-stamped HTML digests |
+| `output/daily_md/` | Date-stamped Markdown digests |
+| `output/ranker_diagnostics/` | NYT/WSJ and blog ranker diagnostics |
 
 ## Manual Daily Run
 
 Use the project virtual environment:
 
 ```bash
-cd /Users/michellekang/Documents/daily_digest
 python3 -m venv .venv
 .venv/bin/python3 -m pip install -r requirements.txt
-bash run_digest.sh
-tail -80 digest.log
+bash scripts/run_digest.sh
+tail -80 data/digest_archives/digest.log
 ```
 
-`run_digest.sh` automatically uses `.venv/bin/python3` when it exists, installs dependencies as a fast no-op, runs `daily_digest.py`, writes `digest.log`, and lets `daily_digest.py` push to GitHub Pages when enabled in `config.json`.
+Run a digest for a prior input date. This fetches and ranks content from the previous day:
+
+```bash
+bash scripts/run_digest.sh --date 2026-05-24
+```
+
+### API keys (`.env`)
+
+API keys are read from a gitignored `.env` at the repo root, which `scripts/run_digest.sh` sources for both manual and scheduled (LaunchAgent) runs. Copy the template and fill in what you need:
+
+```bash
+cp .env.example .env
+# edit .env
+```
+
+| Key | Used for |
+|-----|----------|
+| `GEMINI_API_KEY` | LLM article overviews when `--summary-provider gemini` |
+| `NYT_API_KEY` | NYT article word counts via the Article Search API (free key from developer.nytimes.com) |
+| `ANTHROPIC_API_KEY` | Overviews when `--summary-provider claude-sonnet` / `claude-opus` |
+
+### Article overviews
+
+By default **no LLM summaries are generated**. Opt in with `--summary-provider gemini`, which uses `gemini-3.5-flash` and automatically falls back to `gemini-3.1-flash-lite` on rate limits (with retry/backoff and throttling):
+
+```bash
+bash scripts/run_digest.sh --summary-provider gemini
+```
+
+Use Claude Sonnet or Opus for all blog/research posts and selected NYT/WSJ digest sections. NYT/WSJ sections not listed fall back to Gemini:
+
+```bash
+bash scripts/run_digest.sh --summary-provider claude-sonnet --summary-nyt-sections "Technology / AI,Opinion / Analysis"
+bash scripts/run_digest.sh --summary-provider claude-opus --summary-nyt-sections all
+```
+
+Override the provider's default model when needed:
+
+```bash
+bash scripts/run_digest.sh --summary-provider gemini --summary-model gemini-3.1-flash-lite
+```
+
+### NYT word counts
+
+When `NYT_API_KEY` is set, NYT articles get accurate word counts and reading times from the NYT Article Search API instead of scraping (NYT returns 403 to scrapers). Other outlets (WSJ, Bloomberg) are still scraped and may have no reading stats. Without the key, NYT reading stats are simply skipped.
+
+`scripts/run_digest.sh` automatically uses `.venv/bin/python3` when it exists, installs dependencies as a fast no-op, sources `.env`, runs `src/daily_digest.py`, writes `data/digest_archives/digest.log`, and lets `src/daily_digest.py` push to GitHub Pages when enabled in `config/config.json`.
 
 ## Main Outputs
 
 | File | Description |
 |------|-------------|
-| `daily_html/digest_YYYY-MM-DD.html` | Styled web/mobile digest |
-| `daily_md/digest_YYYY-MM-DD.md` | Obsidian-friendly markdown digest |
+| `output/daily_html/digest_YYYY-MM-DD.html` | Styled web/mobile digest |
+| `output/daily_md/digest_YYYY-MM-DD.md` | Obsidian-friendly markdown digest |
 | `index.html` | Exact copy of the latest digest for GitHub Pages |
-| `hn_archive.md` / `hn_archive.xlsx` | HN top-10 archive views |
-| `hn_archive_data.json` | Raw HN archive data |
-| `dd_archive.md` / `dd_archive.xlsx` | Selected digest item archive views |
-| `dd_archive_data.json` | Raw digest archive data |
-
-## Digest Structure
-
-The digest is now one reading list, not Espresso/Lungo.
-
-- **Hacker News Top 16**: previous day's top HN stories by points, with numbering, score/comment metadata, and discussion links.
-- **NYT / WSJ Strategic Reading List**: up to 20 ranked articles, grouped by the most relevant NYT/WSJ section tag.
-- **MIT & Sloan Research**: MIT IDE, MIT Shaping Work, and MIT Sloan Review items split out from the blog list.
-- **Blogs & Craft**: ranked blog posts from security, engineering, strategy, and craft sources.
-- **LinkedIn - Rama's Activity**: direct placeholder link.
+| `digest_archive.html` | Links to saved daily HTML digests from newest to oldest |
+| `data/hn/hn_archive.md` / `data/hn/hn_archive.xlsx` | HN top-10 archive views |
+| `data/hn/hn_archive_data.json` | Raw HN archive data |
+| `data/digest_archives/dd_archive.md` / `data/digest_archives/dd_archive.xlsx` | Selected digest item archive views |
+| `data/digest_archives/dd_archive_data.json` | Raw digest archive data |
 
 ## Ranker Diagnostics
 
-The main digest is the canonical output. The rankers also write diagnostic files in `output/`:
+The main digest is the canonical output. The rankers also write diagnostic files in `output/ranker_diagnostics/`:
 
 ```bash
-output/nyt_wsj_briefing_YYYY-MM-DD.md
-output/nyt_wsj_candidates_YYYY-MM-DD.csv
-output/blog_briefing_YYYY-MM-DD.md
-output/blog_candidates_YYYY-MM-DD.csv
+output/ranker_diagnostics/nyt_wsj_briefing_YYYY-MM-DD.md
+output/ranker_diagnostics/nyt_wsj_candidates_YYYY-MM-DD.csv
+output/ranker_diagnostics/blog_briefing_YYYY-MM-DD.md
+output/ranker_diagnostics/blog_candidates_YYYY-MM-DD.csv
 ```
 
 Run rankers directly when tuning:
 
 ```bash
-.venv/bin/python3 nyt_wsj_rss_ranker.py --date 2026-04-29 --max-links 20 --output-dir output
-.venv/bin/python3 blog_reading_ranker.py --date 2026-04-29 --max-links 20 --output-dir output
+.venv/bin/python3 src/rankers/nyt_wsj_rss_ranker.py --date 2026-04-29 --max-links 20
+.venv/bin/python3 src/rankers/blog_reading_ranker.py --date 2026-04-29 --max-links 20
 ```
 
-## NYT / WSJ Ranker
+Use `read_urls.txt` in the project root or `output/ranker_diagnostics/` to suppress URLs you have already read or do not want to see again.
 
-`nyt_wsj_rss_ranker.py`:
+## Reddit Workflows
 
-- Fetches configured NYT/WSJ RSS feeds.
-- Attempts RSS/Atom discovery from section pages when exact feed URLs are unknown.
-- Deduplicates by canonical URL and fuzzy title matching.
-- Scores articles by section weight, keyword relevance, recency, cross-section signal, source differentiation, and opinion selectivity.
-- Applies diversity caps so the list does not become all politics, markets, or AI.
+Audit existing Reddit exports:
 
-NYT is weighted toward narrative, policy, social, health, and institutional context. WSJ is additive when it adds markets, capital, corporate, management, M&A, enterprise technology, or investor signal.
+```bash
+.venv/bin/python3 src/reddit/reddit_audit.py --fetch-posts --fetch-subs --cadence-for-candidates
+```
 
-## Blog / Research Ranker
+Create a dry-run Reddit cleanup/custom-feed plan from the approved mapping:
 
-`blog_reading_ranker.py`:
+```bash
+.venv/bin/python3 src/reddit/reddit_cleanup.py --username YOUR_REDDIT_USERNAME
+```
 
-- Fetches RSS/Atom feeds where available.
-- Uses respectful metadata scraping for MIT pages, Paul Graham, and Neal.fun when feeds are unavailable.
-- Filters mainly to the target date.
-- Uses `output/blog_cache.json` to detect newly seen low-frequency/no-date items.
-- Scores by source weight, category, user-interest keywords, freshness, durability, and category/source diversity.
+The cleanup workflow defaults to dry-run. Account-changing actions require Reddit OAuth environment variables and explicit execution flags:
 
-Use `read_urls.txt` in the project root or `output/` to suppress URLs you have already read or do not want to see again.
+```bash
+export REDDIT_CLIENT_ID=...
+export REDDIT_CLIENT_SECRET=...
+export REDDIT_REFRESH_TOKEN=...
+
+.venv/bin/python3 src/reddit/reddit_cleanup.py --execute --execute-custom-feeds
+.venv/bin/python3 src/reddit/reddit_cleanup.py --execute --execute-prune
+```
+
+Execution discovers the authenticated username via Reddit `/api/v1/me`; the optional `--username` is only for dry-run RSS link generation.
+
+The Reddit scripts use this User-Agent, matching Reddit's requested format:
+
+```text
+script:daily-digest-cleanup:v0.1.0 (by /u/miss_comte)
+```
+
+Reddit metadata caches in `data/reddit/audit_outputs/` are for short-term analysis. To keep local storage aligned with Reddit's deleted-content expectations, periodically delete or refresh:
+
+```bash
+rm data/reddit/audit_outputs/saved_posts_public_info.json
+rm data/reddit/audit_outputs/subreddit_metadata.json
+```
 
 ## Configuration
 
-Important defaults in `config.json`:
+Important defaults in `config/config.json`:
 
 ```json
 {
@@ -96,7 +166,7 @@ Important defaults in `config.json`:
     "hn_digest_count": 16,
     "nyt_wsj_max_links": 20,
     "blog_max_links": 20,
-    "ranker_output_dir": "output"
+    "ranker_output_dir": "output/ranker_diagnostics"
   },
   "github_pages": {
     "enabled": true
@@ -104,46 +174,24 @@ Important defaults in `config.json`:
 }
 ```
 
-Optional advanced overrides:
-
-- Add `nyt_wsj_ranker.feeds` to override or add NYT/WSJ feed definitions.
-- Add `blog_ranker.sources` to override blog/research source definitions.
-- Leave uncertain feed URLs blank and provide `section_url`; the ranker will try discovery and log failures without crashing.
-
-## GitHub Pages
-
-Run once if the repo is not configured yet:
-
-```bash
-bash setup_github_pages.sh
-```
-
-Then enable automatic push:
-
-```json
-"github_pages": { "enabled": true }
-```
-
-The script pushes the latest digest, archives, Excel archive files, and date-specific ranker diagnostic files.
-
 ## HN Historical Seed
 
 Seed up to the past year:
 
 ```bash
-.venv/bin/python3 hn_historical.py --days 365 --top 10 --refresh
+.venv/bin/python3 src/rankers/hn_historical.py --days 365 --top 10 --refresh
 ```
 
 Quick 7-day test:
 
 ```bash
-.venv/bin/python3 hn_archive_sample.py
+.venv/bin/python3 src/rankers/hn_archive_sample.py
 ```
 
-After this, `daily_digest.py` handles future daily HN archive entries.
+After this, `src/daily_digest.py` handles future daily HN archive entries.
 
 ## Failure Behavior
 
 Every fetch is isolated. One failed source should not crash the run.
 
-If no real network-fetched content is available, `daily_digest.py` preserves the existing digest/index/archive files and skips GitHub publishing. That prevents DNS or network failures from replacing a good digest with a placeholder.
+If no real network-fetched content is available, `src/daily_digest.py` preserves the existing digest/index/archive files and skips GitHub publishing. That prevents DNS or network failures from replacing a good digest with a placeholder.

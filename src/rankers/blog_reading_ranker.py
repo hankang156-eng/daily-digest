@@ -36,6 +36,8 @@ except ImportError:
 
 
 SCRIPT_DIR = Path(__file__).parent.resolve()
+REPO_ROOT = SCRIPT_DIR.parents[1]
+CONFIG_FILE = REPO_ROOT / "config" / "config.json"
 HTTP_HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -56,9 +58,8 @@ DEFAULT_SOURCES: list[dict[str, Any]] = [
     {"name": "Gwern.net", "category": "Tech & Engineering", "url": "https://gwern.net/", "feed_url": "https://gwern.net/feed/daily", "ingestion_type": "rss", "source_weight": 19, "notes": "research"},
     {"name": "Lemire.me", "category": "Tech & Engineering", "url": "https://lemire.me/blog/", "feed_url": "https://lemire.me/blog/feed/", "ingestion_type": "rss", "source_weight": 19, "notes": "performance and programming"},
     {"name": "Neal.fun", "category": "Tech & Engineering", "url": "https://neal.fun/", "feed_url": "", "ingestion_type": "rss_then_scrape", "source_weight": 16, "notes": "cache detects new projects"},
-    {"name": "MIT Sloan Review", "category": "Strategy & Craft", "url": "https://sloanreview.mit.edu/", "feed_url": "https://sloanreview.mit.edu/feed/", "ingestion_type": "rss", "source_weight": 23, "notes": "business strategy"},
+    {"name": "Superpower Daily", "category": "Tech & Engineering", "url": "https://www.superpowerdaily.com/archive?tags=%F0%9F%93%AC+Daily+Newsletter", "feed_url": "", "ingestion_type": "rss_then_scrape", "source_weight": 21, "notes": "daily AI newsletter"},
     {"name": "Daring Fireball", "category": "Strategy & Craft", "url": "https://daringfireball.net/", "feed_url": "https://daringfireball.net/feeds/main", "ingestion_type": "rss", "source_weight": 17, "notes": "tech taste"},
-    {"name": "Rachel by the Bay", "category": "Strategy & Craft", "url": "https://rachelbythebay.com/w/", "feed_url": "https://rachelbythebay.com/w/atom.xml", "ingestion_type": "atom", "source_weight": 17, "notes": "engineering craft"},
     {"name": "Shkspr.mobi", "category": "Strategy & Craft", "url": "https://shkspr.mobi/blog/", "feed_url": "https://shkspr.mobi/blog/feed/", "ingestion_type": "rss", "source_weight": 16, "notes": "open web and craft"},
 ]
 
@@ -91,7 +92,6 @@ DIVERSITY_CAPS = {
 SOURCE_DAILY_CAPS = {
     "Simon Willison": 2,
     "Daring Fireball": 2,
-    "MIT Sloan Review": 2,
     "MIT IDE": 2,
     "MIT Shaping Work": 2,
 }
@@ -160,13 +160,13 @@ def load_json(path: Path, default: Any) -> Any:
 
 
 def load_config() -> dict[str, Any]:
-    config = load_json(SCRIPT_DIR / "config.json", {})
+    config = load_json(CONFIG_FILE, {})
     return config.get("blog_ranker", config)
 
 
 def read_suppressed(output_dir: Path) -> set[str]:
     urls = set()
-    for path in (SCRIPT_DIR / "read_urls.txt", output_dir / "read_urls.txt"):
+    for path in (REPO_ROOT / "read_urls.txt", output_dir / "read_urls.txt"):
         if path.exists():
             for line in path.read_text(encoding="utf-8").splitlines():
                 line = line.strip()
@@ -176,7 +176,7 @@ def read_suppressed(output_dir: Path) -> set[str]:
 
 
 def load_cache(output_dir: Path) -> dict[str, Any]:
-    cache = load_json(SCRIPT_DIR / "blog_cache.json", {})
+    cache = load_json(REPO_ROOT / "data" / "digest_archives" / "blog_cache.json", {})
     local_cache = load_json(output_dir / "blog_cache.json", {})
     cache.setdefault("seen_urls", {})
     cache["seen_urls"].update(local_cache.get("seen_urls", {}))
@@ -462,10 +462,7 @@ def executive_summary(selected: list[BlogCandidate], no_new_sources: list[str]) 
 
 
 def candidate_to_article(item: BlogCandidate) -> dict[str, Any]:
-    if item.source == "MIT Sloan Review":
-        topic = "Business"
-        category = "analysis"
-    elif item.category == "MIT Research & Insights":
+    if item.category == "MIT Research & Insights":
         topic = "Research"
         category = "research"
     elif item.category == "Security & Privacy":
@@ -556,7 +553,7 @@ def run_ranker(
     days_back: int = 1,
     weekly: bool = False,
     max_links: int = 20,
-    output_dir: str | Path = "output",
+    output_dir: str | Path = REPO_ROOT / "output" / "ranker_diagnostics",
     include_categories: list[str] | None = None,
     exclude_categories: list[str] | None = None,
     debug: bool = False,
@@ -619,7 +616,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--days-back", type=int, default=1)
     parser.add_argument("--weekly", action="store_true")
     parser.add_argument("--max-links", type=int, default=20)
-    parser.add_argument("--output-dir", default="output")
+    parser.add_argument("--output-dir", default=str(REPO_ROOT / "output" / "ranker_diagnostics"))
     parser.add_argument("--include-categories", nargs="*")
     parser.add_argument("--exclude-categories", nargs="*")
     parser.add_argument("--debug", action="store_true")

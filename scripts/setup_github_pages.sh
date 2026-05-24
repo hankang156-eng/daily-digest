@@ -1,12 +1,13 @@
 #!/bin/bash
 # ─────────────────────────────────────────────────────────────────────────────
 # Daily Digest — GitHub Pages One-Time Setup
-# Run this once from the daily_digest workspace: bash setup_github_pages.sh
+# Run this once from the daily_digest workspace: bash scripts/setup_github_pages.sh
 # ─────────────────────────────────────────────────────────────────────────────
 
 set -e
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-cd "$SCRIPT_DIR"
+REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+cd "$REPO_ROOT"
 
 echo ""
 echo "╔══════════════════════════════════════════════════════╗"
@@ -30,12 +31,16 @@ fi
 cat > .gitignore << 'GITIGNORE'
 # Secrets
 config.json
+!config/config.json
 google_credentials.json
 
 # Large data files (regenerated from JSON)
 hn_archive_data.json
 dd_archive_data.json
 digest.log
+data/reddit/audit_outputs/saved_posts_public_info.json
+data/reddit/audit_outputs/subreddit_metadata.json
+data/reddit/audit_outputs/reddit_cache/
 
 # Python cache
 __pycache__/
@@ -48,7 +53,7 @@ __pycache__/
 
 # Local workspace leftovers / Obsidian folder
 Daily Digest/
-daily_digest/
+_trash/
 GITIGNORE
 echo "  ✓ Created .gitignore"
 
@@ -77,12 +82,8 @@ HTML
 fi
 
 # ── 4. Initial commit ────────────────────────────────────────────────────────
-git add index.html .gitignore requirements.txt README.md \
-        daily_digest.py nyt_wsj_rss_ranker.py blog_reading_ranker.py \
-        hn_historical.py setup_github_pages.sh \
-        hn_archive_sample.py run_digest.sh setup_launchagent.sh \
-        com.michelle.dailydigest.plist hn_archive.md hn_archive.xlsx \
-        dd_archive.md dd_archive.xlsx daily_html daily_md output 2>/dev/null || true
+git add index.html .gitignore README.md \
+        config scripts src data/hn data/digest_archives output 2>/dev/null || true
 git commit -m "initial setup" 2>/dev/null || echo "  (nothing new to commit)"
 
 # ── 5. Instructions ──────────────────────────────────────────────────────────
@@ -108,7 +109,7 @@ echo "     → Source: 'Deploy from a branch'"
 echo "     → Branch: main  /  (root)"
 echo "     → Save"
 echo ""
-echo "  4. Enable auto-push in config.json — change this:"
+echo "  4. Enable auto-push in config/config.json — change this:"
 echo "     \"github_pages\": { \"enabled\": true }"
 echo ""
 echo "  5. Your digest URL (ready in ~2 min after step 3):"

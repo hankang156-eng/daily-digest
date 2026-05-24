@@ -14,6 +14,12 @@ import sys
 import time
 from pathlib import Path
 
+SCRIPT_DIR = Path(__file__).parent.resolve()
+REPO_ROOT = SCRIPT_DIR.parents[1]
+HN_DATA_DIR = REPO_ROOT / "data" / "hn"
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+
 try:
     import requests
     HAS_REQUESTS = True
@@ -21,13 +27,12 @@ except ImportError:
     HAS_REQUESTS = False
 
 try:
-    from daily_digest import write_hn_archive_xlsx
+    from src.daily_digest import write_hn_archive_xlsx
     HAS_XLSX_EXPORT = True
 except Exception:
     HAS_XLSX_EXPORT = False
 
 
-SCRIPT_DIR = Path(__file__).parent.resolve()
 HTTP_HEADERS = {"User-Agent": "Daily Digest historical archive builder"}
 
 
@@ -147,7 +152,8 @@ def main():
     )
     args = parser.parse_args()
 
-    json_path = SCRIPT_DIR / "hn_archive_data.json"
+    HN_DATA_DIR.mkdir(parents=True, exist_ok=True)
+    json_path = HN_DATA_DIR / "hn_archive_data.json"
     existing = {}
     if json_path.exists():
         try:
@@ -178,10 +184,10 @@ def main():
         json.dump(merged, f, ensure_ascii=False, indent=2)
     print(f"\n  [JSON] Saved: {json_path} ({len(merged)} days total)")
 
-    write_md_table(merged, SCRIPT_DIR / "hn_archive.md")
+    write_md_table(merged, HN_DATA_DIR / "hn_archive.md")
     if HAS_XLSX_EXPORT:
-        write_hn_archive_xlsx(merged, SCRIPT_DIR / "hn_archive.xlsx")
-        print(f"  [XLSX] Saved: {SCRIPT_DIR / 'hn_archive.xlsx'}")
+        write_hn_archive_xlsx(merged, HN_DATA_DIR / "hn_archive.xlsx")
+        print(f"  [XLSX] Saved: {HN_DATA_DIR / 'hn_archive.xlsx'}")
     else:
         print("  [XLSX] Skipped: xlsx export helper could not be imported.")
     print("\n  Archive complete.\n")
