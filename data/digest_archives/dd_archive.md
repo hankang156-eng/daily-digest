@@ -1,6 +1,6 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-24 · 1139 items*
+*Last updated: 2026-05-24 · 1177 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
@@ -1143,3 +1143,41 @@
 | 2026-04-26 | It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too. | NYT · Your Money | Your Money | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html) |
 | 2026-04-26 | How Prediction Markets and Crypto Firms Steamrolled a Watchdog Agency | NYT · U.S. | U.S. | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html) |
 | 2026-04-26 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
+| 2026-04-25 | Amateur armed with ChatGPT solves an Erdős problem | HN | Technology | tech | 2026-04-25 | [link](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/) |
+| 2026-04-25 | New 10 GbE USB adapters are cooler, smaller, cheaper | HN | Technology | tech | 2026-04-25 | [link](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/) |
+| 2026-04-25 | Tell HN: An app is silently installing itself on my iPhone every day | HN | Technology | tech | 2026-04-25 | [link](https://news.ycombinator.com/item?id=47906253) |
+| 2026-04-25 | Trump fires NSF's oversight board | HN | Technology | tech | 2026-04-25 | [link](https://www.science.org/content/article/trump-fires-nsf-s-oversight-board) |
+| 2026-04-25 | USB Cheat Sheet (2022) | HN | Technology | tech | 2026-04-25 | [link](https://fabiensanglard.net/usbcheat/index.html) |
+| 2026-04-25 | Why has there been so little progress on Alzheimer's disease? | HN | Technology | tech | 2026-04-25 | [link](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/) |
+| 2026-04-25 | ASML became the chokepoint for cutting-edge chips | HN | Technology | tech | 2026-04-25 | [link](https://worksinprogress.co/issue/the-worlds-most-complex-machine/) |
+| 2026-04-25 | Using coding assistance tools to revive projects you never were going to finish | HN | Technology | tech | 2026-04-25 | [link](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/) |
+| 2026-04-25 | Three constraints before I build anything | HN | Technology | tech | 2026-04-25 | [link](https://jordanlord.co.uk/blog/3-constraints/) |
+| 2026-04-25 | EU Age Control: The trojan horse for digital IDs | HN | Technology | tech | 2026-04-25 | [link](https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/) |
+| 2026-04-25 | Fully Featured Audio DSP Firmware for the Raspberry Pi Pico | HN | Technology | tech | 2026-04-25 | [link](https://github.com/WeebLabs/DSPi) |
+| 2026-04-25 | The AI industry is discovering that the public hates it | HN | Technology | tech | 2026-04-25 | [link](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash) |
+| 2026-04-25 | I have officially retired from Emacs | HN | Technology | tech | 2026-04-25 | [link](https://nullprogram.com/blog/2026/04/26/) |
+| 2026-04-25 | Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git) | HN | Technology | tech | 2026-04-25 | [link](https://github.com/nex-crm/wuphf) |
+| 2026-04-25 | Niri 26.04: Scrollable-tiling Wayland compositor | HN | Technology | tech | 2026-04-25 | [link](https://github.com/niri-wm/niri/releases/tag/v26.04) |
+| 2026-04-25 | The quiet resurgence of RF engineering | HN | Technology | tech | 2026-04-25 | [link](https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/) |
+| 2026-04-25 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
+| 2026-04-25 | UK Institute Is Hunting for Dangers Lurking in AI | NYT · AI | AI | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html) |
+| 2026-04-25 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
+| 2026-04-25 | What A.I. Philanthropists Can Learn From the Gilded Age | NYT · AI | AI | opinion | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html) |
+| 2026-04-25 | Graduating Into A.I. Pessimism | NYT · AI | AI | opinion | 2026-05-23 | [link](https://www.nytimes.com/video/opinion/100000010918890/graduating-into-ai-pessimism.html) |
+| 2026-04-25 | A.I. Is a Job Creator | NYT · AI | AI | opinion | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/opinion/ai-job-crisis-goldman-sachs.html) |
+| 2026-04-25 | Move Over, Private Equity. It’s Great to Be a Banker Again. | NYT · Business | Business | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/banks-deals-profits.html) |
+| 2026-04-25 | Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models | NYT · Technology | Technology | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html) |
+| 2026-04-25 | SpaceX, OpenAI and Anthropic Race to Go Public | NYT · Business | Business | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html) |
+| 2026-04-25 | As a Doctor, I Can Understand the Allure of ChatGPT | NYT · AI | AI | opinion | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/opinion/doctor-ai-chatgpt.html) |
+| 2026-04-25 | After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer | NYT · Technology | Technology | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html) |
+| 2026-04-25 | A.I. Is Eliminating Jobs on Wall Street | NYT · AI | AI | news | 2026-04-28 | [link](https://www.nytimes.com/2026/04/21/business/ai-job-cuts-wall-street.html) |
+| 2026-04-25 | Sundar Pichai Understands Why People Are Anxious About A.I. | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html) |
+| 2026-04-25 | Giving Workers a Stake in A.I. Gains Traction | NYT · Business | Business | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html) |
+| 2026-04-25 | As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead | NYT · Technology | Technology | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html) |
+| 2026-04-25 | CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran | NYT · Economy | Economy | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html) |
+| 2026-04-25 | White House Approves $9 Billion for Spy Agencies to Catch Up on A.I. | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html) |
+| 2026-04-25 | Trump Administration Chips Away at Last Traces of Broad Inquiry Into Jan. 6 | NYT · Politics | Politics | news | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/us/politics/trump-prosecutors-jan-6.html) |
+| 2026-04-25 | It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too. | NYT · Your Money | Your Money | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html) |
+| 2026-04-25 | How Prediction Markets and Crypto Firms Steamrolled a Watchdog Agency | NYT · U.S. | U.S. | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html) |
+| 2026-04-25 | You can parse an .env file as an .ini with PHP - but there's a catch | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-04-25 | [link](https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/) |
+| 2026-04-25 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
