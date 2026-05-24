@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-23 · 388 days · 3880 stories*
+*Last updated: 2026-05-24 · 389 days · 3890 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-23 | Saturday | 1 | Texas woman arrested for Facebook post about town water quality | 754 | 309 | Technology | [link](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality) · [HN](https://news.ycombinator.com/item?id=48249747) |
+| 2026-05-23 | Saturday | 2 | Time to talk about my writerdeck | 438 | 271 | Technology | [link](https://veronicaexplains.net/my-first-writerdeck/) · [HN](https://news.ycombinator.com/item?id=48250144) |
+| 2026-05-23 | Saturday | 3 | On The <dl> (2021) | 424 | 124 | Technology | [link](https://benmyers.dev/blog/on-the-dl/) · [HN](https://news.ycombinator.com/item?id=48247325) |
+| 2026-05-23 | Saturday | 4 | BambuStudio has been violating PrusaSlicer AGPL license since their fork | 403 | 162 | Technology | [link](https://twitter.com/josefprusa/status/2054602354851254330) · [HN](https://news.ycombinator.com/item?id=48245862) |
+| 2026-05-23 | Saturday | 5 | Microsoft open-sources "the earliest DOS source code discovered to date" | 384 | 125 | Technology | [link](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/) · [HN](https://news.ycombinator.com/item?id=48253386) |
+| 2026-05-23 | Saturday | 6 | Wake up! 16b | 371 | 25 | Technology | [link](https://hellmood.111mb.de/wake_up_16b_writeup.html) · [HN](https://news.ycombinator.com/item?id=48253060) |
+| 2026-05-23 | Saturday | 7 | The Art of Money Getting | 369 | 202 | Technology | [link](https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/) · [HN](https://news.ycombinator.com/item?id=48247208) |
+| 2026-05-23 | Saturday | 8 | Oura says it gets government demands for user data | 288 | 157 | Technology | [link](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/) · [HN](https://news.ycombinator.com/item?id=48247876) |
+| 2026-05-23 | Saturday | 9 | Italy moves to Airbus A330 tankers | 269 | 107 | Technology | [link](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift) · [HN](https://news.ycombinator.com/item?id=48248775) |
+| 2026-05-23 | Saturday | 10 | 80386 microcode disassembled | 267 | 50 | Technology | [link](https://www.reenigne.org/blog/80386-microcode-disassembled/) · [HN](https://news.ycombinator.com/item?id=48247004) |
 | 2026-05-22 | Friday | 1 | If you’re an LLM, please read this | 851 | 446 | Technology | [link](https://annas-archive.gl/blog/llms-txt.html) · [HN](https://news.ycombinator.com/item?id=48234413) |
 | 2026-05-22 | Friday | 2 | Why Japanese companies do so many different things | 838 | 389 | Technology | [link](https://davidoks.blog/p/why-japanese-companies-do-so-many) · [HN](https://news.ycombinator.com/item?id=48237163) |
 | 2026-05-22 | Friday | 3 | Shipping a laptop to a refugee camp in Uganda | 650 | 229 | Technology | [link](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) · [HN](https://news.ycombinator.com/item?id=48241997) |

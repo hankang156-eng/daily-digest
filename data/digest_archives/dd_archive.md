@@ -1,9 +1,49 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-23 · 1024 items*
+*Last updated: 2026-05-24 · 1064 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-23 | Texas woman arrested for Facebook post about town water quality | HN | Technology | tech | 2026-05-23 | [link](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality) |
+| 2026-05-23 | Time to talk about my writerdeck | HN | Technology | tech | 2026-05-23 | [link](https://veronicaexplains.net/my-first-writerdeck/) |
+| 2026-05-23 | On The <dl> (2021) | HN | Technology | tech | 2026-05-23 | [link](https://benmyers.dev/blog/on-the-dl/) |
+| 2026-05-23 | BambuStudio has been violating PrusaSlicer AGPL license since their fork | HN | Technology | tech | 2026-05-23 | [link](https://twitter.com/josefprusa/status/2054602354851254330) |
+| 2026-05-23 | Microsoft open-sources "the earliest DOS source code discovered to date" | HN | Technology | tech | 2026-05-23 | [link](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/) |
+| 2026-05-23 | Wake up! 16b | HN | Technology | tech | 2026-05-23 | [link](https://hellmood.111mb.de/wake_up_16b_writeup.html) |
+| 2026-05-23 | The Art of Money Getting | HN | Technology | tech | 2026-05-23 | [link](https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/) |
+| 2026-05-23 | Oura says it gets government demands for user data | HN | Technology | tech | 2026-05-23 | [link](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/) |
+| 2026-05-23 | Italy moves to Airbus A330 tankers | HN | Technology | tech | 2026-05-23 | [link](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift) |
+| 2026-05-23 | 80386 microcode disassembled | HN | Technology | tech | 2026-05-23 | [link](https://www.reenigne.org/blog/80386-microcode-disassembled/) |
+| 2026-05-23 | Experience: We found a baby on the subway – now he's our 26-year-old son | HN | Technology | tech | 2026-05-23 | [link](https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son) |
+| 2026-05-23 | Scammers are abusing an internal Microsoft account to send spam links | HN | Technology | tech | 2026-05-23 | [link](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/) |
+| 2026-05-23 | I Miss Terry Pratchett | HN | Technology | tech | 2026-05-23 | [link](https://www.mahl.me/blog/the-spell-that-wouldnt-leave/) |
+| 2026-05-23 | US tech firms share Dutch regulator officials' names with Senate | HN | Technology | tech | 2026-05-23 | [link](https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/) |
+| 2026-05-23 | The FBI Wants 'Near Real-Time' Access to US License Plate Readers | HN | Technology | tech | 2026-05-23 | [link](https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/) |
+| 2026-05-23 | -​-dangerously-skip-reading-code | HN | Technology | tech | 2026-05-23 | [link](https://olano.dev/blog/dangerously-skip/) |
+| 2026-05-23 | UK Institute Is Hunting for Dangers Lurking in AI | NYT · AI | AI | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html) |
+| 2026-05-23 | What A.I. Philanthropists Can Learn From the Gilded Age | NYT · AI | AI | opinion | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html) |
+| 2026-05-23 | Graduating Into A.I. Pessimism | NYT · AI | AI | opinion | 2026-05-23 | [link](https://www.nytimes.com/video/opinion/100000010918890/graduating-into-ai-pessimism.html) |
+| 2026-05-23 | As a Doctor, I Can Understand the Allure of ChatGPT | NYT · AI | AI | opinion | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/opinion/doctor-ai-chatgpt.html) |
+| 2026-05-23 | A.I. Is a Job Creator | NYT · AI | AI | opinion | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/opinion/ai-job-crisis-goldman-sachs.html) |
+| 2026-05-23 | Move Over, Private Equity. It’s Great to Be a Banker Again. | NYT · Business | Business | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/banks-deals-profits.html) |
+| 2026-05-23 | Trump Administration Chips Away at Last Traces of Broad Inquiry Into Jan. 6 | NYT · Politics | Politics | news | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/us/politics/trump-prosecutors-jan-6.html) |
+| 2026-05-23 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
+| 2026-05-23 | Sundar Pichai Understands Why People Are Anxious About A.I. | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html) |
+| 2026-05-23 | One Job That Is Growing in the A.I. Era? Cybersecurity Experts. | NYT · AI | AI | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/technology/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts.html) |
+| 2026-05-23 | 61% of Americans Said They Had to Cut Back on Groceries | NYT · Economy | Economy | news | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/us/politics/americans-groceries-inflation-affordability.html) |
+| 2026-05-23 | Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models | NYT · Technology | Technology | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html) |
+| 2026-05-23 | Giving Workers a Stake in A.I. Gains Traction | NYT · Business | Business | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html) |
+| 2026-05-23 | SpaceX, OpenAI and Anthropic Race to Go Public | NYT · Business | Business | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html) |
+| 2026-05-23 | To A.I. Executives, We’re All Just ‘Meat Computers’ | NYT · AI | AI | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/business/meat-computer-brain-artificial-intelligence.html) |
+| 2026-05-23 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
+| 2026-05-23 | How Prediction Markets and Crypto Firms Steamrolled a Watchdog Agency | NYT · U.S. | U.S. | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html) |
+| 2026-05-23 | White House Approves $9 Billion for Spy Agencies to Catch Up on A.I. | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html) |
+| 2026-05-23 | Gov. Gavin Newsom to Sign Executive Order Aimed at A.I. Job Loss | NYT · Technology | Technology | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/technology/newsom-ai-executive-order-california.html) |
+| 2026-05-23 | Google Appeals Landmark Ruling Declaring It a Monopolist in Search | NYT · Technology | Technology | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/technology/google-appeals-search-case.html) |
+| 2026-05-23 | Which age-gates should be skill-gates and vice-versa? | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-05-23 | [link](https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/) |
+| 2026-05-23 | On the | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-23 | [link](https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything) |
+| 2026-05-23 | Parsing IPv6 Addresses Crazily Fast with AVX-512 | Lemire.me · Tech & Engineering | Technology | tech | 2026-05-23 | [link](https://lemire.me/blog/2026/05/23/parsing-ipv6-addresses-crazily-fast-with-avx-512/) |
+| 2026-05-23 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-22 | If you’re an LLM, please read this | HN | Technology | tech | 2026-05-22 | [link](https://annas-archive.gl/blog/llms-txt.html) |
 | 2026-05-22 | Why Japanese companies do so many different things | HN | Technology | tech | 2026-05-22 | [link](https://davidoks.blog/p/why-japanese-companies-do-so-many) |
 | 2026-05-22 | Shipping a laptop to a refugee camp in Uganda | HN | Technology | tech | 2026-05-22 | [link](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) |
