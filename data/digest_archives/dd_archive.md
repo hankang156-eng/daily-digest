@@ -1,6 +1,6 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-24 · 1215 items*
+*Last updated: 2026-05-24 · 1254 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
@@ -1219,3 +1219,42 @@
 | 2026-04-24 | How Prediction Markets and Crypto Firms Steamrolled a Watchdog Agency | NYT · U.S. | U.S. | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html) |
 | 2026-04-24 | Does Mythos mean you need to shut down your Open Source repositories? | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-04-24 | [link](https://shkspr.mobi/blog/2026/04/does-mythos-mean-you-need-to-shut-down-your-open-source-repos/) |
 | 2026-04-24 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
+| 2026-04-23 | DeepSeek v4 | HN | Technology | tech | 2026-04-23 | [link](https://api-docs.deepseek.com/news/news260424) |
+| 2026-04-23 | GPT-5.5 | HN | Technology | tech | 2026-04-23 | [link](https://openai.com/index/introducing-gpt-5-5/) |
+| 2026-04-23 | I am building a cloud | HN | Technology | tech | 2026-04-23 | [link](https://crawshaw.io/blog/building-a-cloud) |
+| 2026-04-23 | Palantir employees are starting to wonder if they're the bad guys | HN | Technology | tech | 2026-04-23 | [link](https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/) |
+| 2026-04-23 | An update on recent Claude Code quality reports | HN | Technology | tech | 2026-04-23 | [link](https://www.anthropic.com/engineering/april-23-postmortem) |
+| 2026-04-23 | Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign | HN | Technology | tech | 2026-04-23 | [link](https://socket.dev/blog/bitwarden-cli-compromised) |
+| 2026-04-23 | Meta tells staff it will cut 10% of jobs | HN | Technology | tech | 2026-04-23 | [link](https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency) |
+| 2026-04-23 | US special forces soldier arrested after allegedly winning $400k on Maduro raid | HN | Technology | tech | 2026-04-23 | [link](https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade) |
+| 2026-04-23 | Flipdiscs | HN | Technology | tech | 2026-04-23 | [link](https://flipdisc.io) |
+| 2026-04-23 | If America's so rich, how'd it get so sad? | HN | Technology | tech | 2026-04-23 | [link](https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so) |
+| 2026-04-23 | Investigation uncovers two sophisticated telecom surveillance campaigns | HN | Technology | tech | 2026-04-23 | [link](https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/) |
+| 2026-04-23 | French government agency confirms breach as hacker offers to sell data | HN | Technology | tech | 2026-04-23 | [link](https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/) |
+| 2026-04-23 | Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite | HN | Technology | tech | 2026-04-23 | [link](https://github.com/russellromney/honker) |
+| 2026-04-23 | MacBook Neo and how the iPad should be | HN | Technology | tech | 2026-04-23 | [link](https://craigmod.com/essays/ipad_neo/) |
+| 2026-04-23 | Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases | HN | Technology | tech | 2026-04-23 | [link](https://github.com/refactoringhq/tolaria) |
+| 2026-04-23 | Why I Write (1946) | HN | Technology | tech | 2026-04-23 | [link](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/) |
+| 2026-04-23 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
+| 2026-04-23 | UK Institute Is Hunting for Dangers Lurking in AI | NYT · AI | AI | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html) |
+| 2026-04-23 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
+| 2026-04-23 | What A.I. Philanthropists Can Learn From the Gilded Age | NYT · AI | AI | opinion | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html) |
+| 2026-04-23 | Graduating Into A.I. Pessimism | NYT · AI | AI | opinion | 2026-05-23 | [link](https://www.nytimes.com/video/opinion/100000010918890/graduating-into-ai-pessimism.html) |
+| 2026-04-23 | A.I. Is a Job Creator | NYT · AI | AI | opinion | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/opinion/ai-job-crisis-goldman-sachs.html) |
+| 2026-04-23 | Move Over, Private Equity. It’s Great to Be a Banker Again. | NYT · Business | Business | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/banks-deals-profits.html) |
+| 2026-04-23 | Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models | NYT · Technology | Technology | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html) |
+| 2026-04-23 | SpaceX, OpenAI and Anthropic Race to Go Public | NYT · Business | Business | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html) |
+| 2026-04-23 | As a Doctor, I Can Understand the Allure of ChatGPT | NYT · AI | AI | opinion | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/opinion/doctor-ai-chatgpt.html) |
+| 2026-04-23 | After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer | NYT · Technology | Technology | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html) |
+| 2026-04-23 | A.I. Is Eliminating Jobs on Wall Street | NYT · AI | AI | news | 2026-04-28 | [link](https://www.nytimes.com/2026/04/21/business/ai-job-cuts-wall-street.html) |
+| 2026-04-23 | Sundar Pichai Understands Why People Are Anxious About A.I. | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html) |
+| 2026-04-23 | Giving Workers a Stake in A.I. Gains Traction | NYT · Business | Business | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html) |
+| 2026-04-23 | As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead | NYT · Technology | Technology | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html) |
+| 2026-04-23 | CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran | NYT · Economy | Economy | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html) |
+| 2026-04-23 | White House Approves $9 Billion for Spy Agencies to Catch Up on A.I. | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html) |
+| 2026-04-23 | Trump Administration Chips Away at Last Traces of Broad Inquiry Into Jan. 6 | NYT · Politics | Politics | news | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/us/politics/trump-prosecutors-jan-6.html) |
+| 2026-04-23 | It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too. | NYT · Your Money | Your Money | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html) |
+| 2026-04-23 | How Prediction Markets and Crypto Firms Steamrolled a Watchdog Agency | NYT · U.S. | U.S. | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html) |
+| 2026-04-23 | OpenAI Beefs Up ChatGPT’s Image Generation Model | Superpower Daily · Tech & Engineering | Technology | tech | 2026-04-23 | [link](https://www.superpowerdaily.com/p/openai-beefs-up-chatgpt-s-image-generation-model) |
+| 2026-04-23 | Sneaky spam in conversational replies to blog posts | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-04-23 | [link](https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/) |
+| 2026-04-23 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
