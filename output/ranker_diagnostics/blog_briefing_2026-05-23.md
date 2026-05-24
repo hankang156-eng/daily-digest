@@ -1,16 +1,16 @@
 # Blog Briefing - 2026-05-23
 
-*Sources checked: 16 · Posts found: 3 · Posts selected: 3*
+*Sources checked: 14 · Posts found: 3 · Posts selected: 3*
 
 ## Executive Summary
 
 - Tech & Engineering: 2 selected items.
 - Strategy & Craft: 1 selected item.
-- 13 sources had no target-date posts.
+- 11 sources had no target-date posts.
 
 ## No New Posts
 
-Dan Luu, Daring Fireball, Gwern.net, Krebs on Security, MIT IDE, MIT Shaping Work, MIT Sloan Review, Neal.fun, Paul Graham, Rachel by the Bay, Superpower Daily, Tonsky.me, Troy Hunt
+Dan Luu, Daring Fireball, Gwern.net, Krebs on Security, MIT IDE, MIT Shaping Work, Neal.fun, Paul Graham, Superpower Daily, Tonsky.me, Troy Hunt
 
 ## Selected Reading List
 

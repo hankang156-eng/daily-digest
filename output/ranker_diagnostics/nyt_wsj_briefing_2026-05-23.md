@@ -52,35 +52,33 @@
 10. [One Job That Is Growing in the A.I. Era? Cybersecurity Experts.](https://www.nytimes.com/2026/05/24/technology/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts.html)
    - NYT · Artificial Intelligence / Technology · 2026-05-24
    - Score 69.0 · Read deeply · matches technology / ai; appears across sections
-### Politics / U.S.
-
-11. [61% of Americans Said They Had to Cut Back on Groceries](https://www.nytimes.com/2026/05/23/us/politics/americans-groceries-inflation-affordability.html)
-   - NYT · Economy / Politics / U.S. · 2026-05-23
-   - Score 68.95 · Read deeply · matches business / economy / markets; policy/social lens; appears across sections
 ### Business / Economy / Markets
 
-12. [Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models](https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html)
+11. [Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models](https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html)
    - NYT · Business / DealBook / Technology · 2026-05-21
    - Score 68.9 · Read deeply · matches technology / ai; strategic signal; appears across sections
-13. [Giving Workers a Stake in A.I. Gains Traction](https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html)
+12. [Giving Workers a Stake in A.I. Gains Traction](https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html)
    - NYT · Business / DealBook · 2026-05-22
    - Score 68.7 · Read deeply · matches technology / ai; strategic signal; appears across sections
-14. [SpaceX, OpenAI and Anthropic Race to Go Public](https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html)
+13. [SpaceX, OpenAI and Anthropic Race to Go Public](https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html)
    - NYT · Business / DealBook · 2026-05-21
    - Score 68.0 · Read deeply · matches technology / ai; appears across sections
-15. [To A.I. Executives, We’re All Just ‘Meat Computers’](https://www.nytimes.com/2026/05/24/business/meat-computer-brain-artificial-intelligence.html)
+14. [To A.I. Executives, We’re All Just ‘Meat Computers’](https://www.nytimes.com/2026/05/24/business/meat-computer-brain-artificial-intelligence.html)
    - NYT · Artificial Intelligence / Business · 2026-05-24
    - Score 67.8 · Read deeply · matches technology / ai; appears across sections
 ### Technology / AI
 
-16. [Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html)
+15. [Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html)
    - NYT · Energy & Environment / Technology · 2026-05-19
    - Score 67 · Read deeply · matches climate / energy / infrastructure; strategic signal; appears across sections
 ### Politics / U.S.
 
-17. [How Prediction Markets and Crypto Firms Steamrolled a Watchdog Agency](https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html)
+16. [How Prediction Markets and Crypto Firms Steamrolled a Watchdog Agency](https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html)
    - NYT · U.S. · 2026-05-24
    - Score 66.6 · Read deeply · matches business / economy / markets; policy/social lens
+17. [61% of Americans Said They Had to Cut Back on Groceries](https://www.nytimes.com/2026/05/23/us/politics/americans-groceries-inflation-affordability.html)
+   - NYT · Economy / Politics · 2026-05-23
+   - Score 65.95 · Read deeply · matches business / economy / markets; policy/social lens; appears across sections
 18. [White House Approves $9 Billion for Spy Agencies to Catch Up on A.I.](https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html)
    - NYT · Artificial Intelligence / Politics · 2026-05-22
    - Score 64.0 · Read deeply · matches technology / ai; policy/social lens; appears across sections
