@@ -1,6 +1,6 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-24 · 1101 items*
+*Last updated: 2026-05-24 · 1139 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
@@ -1068,6 +1068,44 @@
 | 2026-04-28 | Let's Get Digging! | Shkspr.mobi | Strategy | long-form | 2026-04-29 | [link](https://shkspr.mobi/blog/2026/04/lets-get-digging/) |
 | 2026-04-28 | Theatre Review: Hadestown ★★★★★ | Shkspr.mobi | Strategy | long-form | 2026-04-27 | [link](https://shkspr.mobi/blog/2026/04/theatre-review-hadestown/) |
 | 2026-04-28 | Rec League | Daring Fireball | Strategy | long-form | 2026-04-28 | [link](https://recleague.com/?lyr_campaign=df) |
+| 2026-04-27 | Microsoft and OpenAI end their exclusive and revenue-sharing deal | HN | Technology | tech | 2026-04-27 | [link](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai) |
+| 2026-04-27 | Talkie: a 13B vintage language model from 1930 | HN | Technology | tech | 2026-04-27 | [link](https://talkie-lm.com/introducing-talkie) |
+| 2026-04-27 | GitHub Copilot is moving to usage-based billing | HN | Technology | tech | 2026-04-27 | [link](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/) |
+| 2026-04-27 | Men who stare at walls | HN | Technology | tech | 2026-04-27 | [link](https://www.alexselimov.com/posts/men_who_stare_at_walls/) |
+| 2026-04-27 | Is my blue your blue? (2024) | HN | Technology | tech | 2026-04-27 | [link](https://ismy.blue/) |
+| 2026-04-27 | 4TB of voice samples just stolen from 40k AI contractors at Mercor | HN | Technology | tech | 2026-04-27 | [link](https://app.oravys.com/blog/mercor-breach-2026) |
+| 2026-04-27 | Noctua releases official 3D CAD models for its cooling fans | HN | Technology | tech | 2026-04-27 | [link](https://www.noctua.at/en/3d-cad-models) |
+| 2026-04-27 | Pgbackrest is no longer being maintained | HN | Technology | tech | 2026-04-27 | [link](https://github.com/pgbackrest/pgbackrest) |
+| 2026-04-27 | China blocks Meta's acquisition of AI startup Manus | HN | Technology | tech | 2026-04-27 | [link](https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html) |
+| 2026-04-27 | Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview | HN | Technology | tech | 2026-04-27 | [link](https://github.com/dirac-run/dirac) |
+| 2026-04-27 | You can beat the binary search | HN | Technology | tech | 2026-04-27 | [link](https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/) |
+| 2026-04-27 | Dutch central bank ditches AWS and chooses Lidl for European Cloud | HN | Technology | tech | 2026-04-27 | [link](https://www.techzine.eu/news/infrastructure/140634/dutch-central-bank-chooses-lidl-for-european-cloud/) |
+| 2026-04-27 | Quarkdown – Markdown with Superpowers | HN | Technology | tech | 2026-04-27 | [link](https://quarkdown.com/) |
+| 2026-04-27 | Super ZSNES – GPU Powered SNES Emulator | HN | Technology | tech | 2026-04-27 | [link](https://zsnes.com/) |
+| 2026-04-27 | GitHub is having issues now | HN | Technology | tech | 2026-04-27 | [link](https://www.githubstatus.com) |
+| 2026-04-27 | To my students | HN | Technology | tech | 2026-04-27 | [link](http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml) |
+| 2026-04-27 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
+| 2026-04-27 | UK Institute Is Hunting for Dangers Lurking in AI | NYT · AI | AI | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html) |
+| 2026-04-27 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
+| 2026-04-27 | What A.I. Philanthropists Can Learn From the Gilded Age | NYT · AI | AI | opinion | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html) |
+| 2026-04-27 | Graduating Into A.I. Pessimism | NYT · AI | AI | opinion | 2026-05-23 | [link](https://www.nytimes.com/video/opinion/100000010918890/graduating-into-ai-pessimism.html) |
+| 2026-04-27 | A.I. Is a Job Creator | NYT · AI | AI | opinion | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/opinion/ai-job-crisis-goldman-sachs.html) |
+| 2026-04-27 | Move Over, Private Equity. It’s Great to Be a Banker Again. | NYT · Business | Business | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/banks-deals-profits.html) |
+| 2026-04-27 | Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models | NYT · Technology | Technology | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html) |
+| 2026-04-27 | SpaceX, OpenAI and Anthropic Race to Go Public | NYT · Business | Business | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html) |
+| 2026-04-27 | As a Doctor, I Can Understand the Allure of ChatGPT | NYT · AI | AI | opinion | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/opinion/doctor-ai-chatgpt.html) |
+| 2026-04-27 | After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer | NYT · Technology | Technology | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html) |
+| 2026-04-27 | A.I. Is Eliminating Jobs on Wall Street | NYT · AI | AI | news | 2026-04-28 | [link](https://www.nytimes.com/2026/04/21/business/ai-job-cuts-wall-street.html) |
+| 2026-04-27 | Sundar Pichai Understands Why People Are Anxious About A.I. | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html) |
+| 2026-04-27 | Giving Workers a Stake in A.I. Gains Traction | NYT · Business | Business | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html) |
+| 2026-04-27 | As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead | NYT · Technology | Technology | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html) |
+| 2026-04-27 | CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran | NYT · Economy | Economy | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html) |
+| 2026-04-27 | White House Approves $9 Billion for Spy Agencies to Catch Up on A.I. | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html) |
+| 2026-04-27 | Trump Administration Chips Away at Last Traces of Broad Inquiry Into Jan. 6 | NYT · Politics | Politics | news | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/us/politics/trump-prosecutors-jan-6.html) |
+| 2026-04-27 | It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too. | NYT · Your Money | Your Money | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html) |
+| 2026-04-27 | How Prediction Markets and Crypto Firms Steamrolled a Watchdog Agency | NYT · U.S. | U.S. | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html) |
+| 2026-04-27 | Theatre Review: Hadestown ★★★★★ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-04-27 | [link](https://shkspr.mobi/blog/2026/04/theatre-review-hadestown/) |
+| 2026-04-27 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-04-26 | The West forgot how to make things, now it’s forgetting how to code | HN | Technology | tech | 2026-04-26 | [link](https://techtrenches.dev/p/the-west-forgot-how-to-make-things) |
 | 2026-04-26 | I bought Friendster for $30k – Here's what I'm doing with it | HN | Technology | tech | 2026-04-26 | [link](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d) |
 | 2026-04-26 | AI should elevate your thinking, not replace it | HN | Technology | tech | 2026-04-26 | [link](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/) |
