@@ -1,6 +1,6 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-24 · 1177 items*
+*Last updated: 2026-05-24 · 1215 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
@@ -1181,3 +1181,41 @@
 | 2026-04-25 | How Prediction Markets and Crypto Firms Steamrolled a Watchdog Agency | NYT · U.S. | U.S. | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html) |
 | 2026-04-25 | You can parse an .env file as an .ini with PHP - but there's a catch | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-04-25 | [link](https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/) |
 | 2026-04-25 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
+| 2026-04-24 | I cancelled Claude: Token issues, declining quality, and poor support | HN | Technology | tech | 2026-04-24 | [link](https://nickyreinert.de/en/2026/2026-04-24-claude-critics/) |
+| 2026-04-24 | Google plans to invest up to $40B in Anthropic | HN | Technology | tech | 2026-04-24 | [link](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic) |
+| 2026-04-24 | Sabotaging projects by overthinking, scope creep, and structural diffing | HN | Technology | tech | 2026-04-24 | [link](https://kevinlynagh.com/newsletter/2026_04_overthinking/) |
+| 2026-04-24 | Firefox Has Integrated Brave's Adblock Engine | HN | Technology | tech | 2026-04-24 | [link](https://itsfoss.com/news/firefox-ships-brave-adblock-engine/) |
+| 2026-04-24 | Norway set to become latest country to ban social media for under 16s | HN | Technology | tech | 2026-04-24 | [link](https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s) |
+| 2026-04-24 | How to be anti-social – a guide to incoherent and isolating social experiences | HN | Technology | tech | 2026-04-24 | [link](https://nate.leaflet.pub/3mk4xkaxobc2p) |
+| 2026-04-24 | Replace IBM Quantum back end with /dev/urandom | HN | Technology | tech | 2026-04-24 | [link](https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md) |
+| 2026-04-24 | There Will Be a Scientific Theory of Deep Learning | HN | Technology | tech | 2026-04-24 | [link](https://arxiv.org/abs/2604.21691) |
+| 2026-04-24 | Spinel: Ruby AOT Native Compiler | HN | Technology | tech | 2026-04-24 | [link](https://github.com/matz/spinel) |
+| 2026-04-24 | Ubuntu 26.04 | HN | Technology | tech | 2026-04-24 | [link](https://lwn.net/Articles/1069399/) |
+| 2026-04-24 | My audio interface has SSH enabled by default | HN | Technology | tech | 2026-04-24 | [link](https://hhh.hn/rodecaster-duo-fw/) |
+| 2026-04-24 | Plain text has been around for decades and it’s here to stay | HN | Technology | tech | 2026-04-24 | [link](https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/) |
+| 2026-04-24 | SDL Now Supports DOS | HN | Technology | tech | 2026-04-24 | [link](https://github.com/libsdl-org/SDL/pull/15377) |
+| 2026-04-24 | Habitual coffee intake shapes the microbiome, modifies physiology and cognition | HN | Technology | tech | 2026-04-24 | [link](https://www.nature.com/articles/s41467-026-71264-8) |
+| 2026-04-24 | The Classic American Diner | HN | Technology | tech | 2026-04-24 | [link](https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/) |
+| 2026-04-24 | OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API | HN | Technology | tech | 2026-04-24 | [link](https://developers.openai.com/api/docs/changelog) |
+| 2026-04-24 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
+| 2026-04-24 | UK Institute Is Hunting for Dangers Lurking in AI | NYT · AI | AI | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html) |
+| 2026-04-24 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
+| 2026-04-24 | What A.I. Philanthropists Can Learn From the Gilded Age | NYT · AI | AI | opinion | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html) |
+| 2026-04-24 | Graduating Into A.I. Pessimism | NYT · AI | AI | opinion | 2026-05-23 | [link](https://www.nytimes.com/video/opinion/100000010918890/graduating-into-ai-pessimism.html) |
+| 2026-04-24 | A.I. Is a Job Creator | NYT · AI | AI | opinion | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/opinion/ai-job-crisis-goldman-sachs.html) |
+| 2026-04-24 | Move Over, Private Equity. It’s Great to Be a Banker Again. | NYT · Business | Business | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/banks-deals-profits.html) |
+| 2026-04-24 | Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models | NYT · Technology | Technology | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html) |
+| 2026-04-24 | SpaceX, OpenAI and Anthropic Race to Go Public | NYT · Business | Business | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html) |
+| 2026-04-24 | As a Doctor, I Can Understand the Allure of ChatGPT | NYT · AI | AI | opinion | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/opinion/doctor-ai-chatgpt.html) |
+| 2026-04-24 | After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer | NYT · Technology | Technology | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html) |
+| 2026-04-24 | A.I. Is Eliminating Jobs on Wall Street | NYT · AI | AI | news | 2026-04-28 | [link](https://www.nytimes.com/2026/04/21/business/ai-job-cuts-wall-street.html) |
+| 2026-04-24 | Sundar Pichai Understands Why People Are Anxious About A.I. | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html) |
+| 2026-04-24 | Giving Workers a Stake in A.I. Gains Traction | NYT · Business | Business | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html) |
+| 2026-04-24 | As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead | NYT · Technology | Technology | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html) |
+| 2026-04-24 | CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran | NYT · Economy | Economy | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html) |
+| 2026-04-24 | White House Approves $9 Billion for Spy Agencies to Catch Up on A.I. | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html) |
+| 2026-04-24 | Trump Administration Chips Away at Last Traces of Broad Inquiry Into Jan. 6 | NYT · Politics | Politics | news | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/us/politics/trump-prosecutors-jan-6.html) |
+| 2026-04-24 | It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too. | NYT · Your Money | Your Money | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html) |
+| 2026-04-24 | How Prediction Markets and Crypto Firms Steamrolled a Watchdog Agency | NYT · U.S. | U.S. | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html) |
+| 2026-04-24 | Does Mythos mean you need to shut down your Open Source repositories? | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-04-24 | [link](https://shkspr.mobi/blog/2026/04/does-mythos-mean-you-need-to-shut-down-your-open-source-repos/) |
+| 2026-04-24 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
