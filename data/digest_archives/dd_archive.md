@@ -1,6 +1,6 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-24 · 1254 items*
+*Last updated: 2026-05-24 · 1293 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
@@ -1258,3 +1258,42 @@
 | 2026-04-23 | OpenAI Beefs Up ChatGPT’s Image Generation Model | Superpower Daily · Tech & Engineering | Technology | tech | 2026-04-23 | [link](https://www.superpowerdaily.com/p/openai-beefs-up-chatgpt-s-image-generation-model) |
 | 2026-04-23 | Sneaky spam in conversational replies to blog posts | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-04-23 | [link](https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/) |
 | 2026-04-23 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
+| 2026-04-21 | Framework Laptop 13 Pro | HN | Technology | tech | 2026-04-21 | [link](https://frame.work/laptop13pro) |
+| 2026-04-21 | Laws of Software Engineering | HN | Technology | tech | 2026-04-21 | [link](https://lawsofsoftwareengineering.com) |
+| 2026-04-21 | ChatGPT Images 2.0 | HN | Technology | tech | 2026-04-21 | [link](https://openai.com/index/introducing-chatgpt-images-2-0/) |
+| 2026-04-21 | SpaceX says it has agreement to acquire Cursor for $60B | HN | Technology | tech | 2026-04-21 | [link](https://twitter.com/spacex/status/2046713419978453374) |
+| 2026-04-21 | Meta to start capturing employee mouse movements, keystrokes for AI training | HN | Technology | tech | 2026-04-21 | [link](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/) |
+| 2026-04-21 | Claude Code to be removed from Anthropic's Pro plan? | HN | Technology | tech | 2026-04-21 | [link](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a) |
+| 2026-04-21 | Your hex editor should color-code bytes | HN | Technology | tech | 2026-04-21 | [link](https://simonomi.dev/blog/color-code-your-bytes/) |
+| 2026-04-21 | The Vercel breach: OAuth attack exposes risk in platform environment variables | HN | Technology | tech | 2026-04-21 | [link](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html) |
+| 2026-04-21 | Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica | HN | Technology | tech | 2026-04-21 | [link](https://britannica11.org/) |
+| 2026-04-21 | Tim Cook's Impeccable Timing | HN | Technology | tech | 2026-04-21 | [link](https://stratechery.com/2026/tim-cooks-impeccable-timing/) |
+| 2026-04-21 | Drunk post: Things I've learned as a senior engineer (2021) | HN | Technology | tech | 2026-04-21 | [link](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as) |
+| 2026-04-21 | Tell HN: I'm sick of AI everything | HN | Technology | tech | 2026-04-21 | [link](https://news.ycombinator.com/item?id=47857461) |
+| 2026-04-21 | Show HN: VidStudio, a browser based video editor that doesn't upload your files | HN | Technology | tech | 2026-04-21 | [link](https://vidstudio.app/video-editor) |
+| 2026-04-21 | A Roblox cheat and one AI tool brought down Vercel's platform | HN | Technology | tech | 2026-04-21 | [link](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform) |
+| 2026-04-21 | Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return | HN | Technology | tech | 2026-04-21 | [link](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/) |
+| 2026-04-21 | Original GrapheneOS responses to WIRED fact checker | HN | Technology | tech | 2026-04-21 | [link](https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker) |
+| 2026-04-21 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
+| 2026-04-21 | UK Institute Is Hunting for Dangers Lurking in AI | NYT · AI | AI | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html) |
+| 2026-04-21 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
+| 2026-04-21 | What A.I. Philanthropists Can Learn From the Gilded Age | NYT · AI | AI | opinion | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html) |
+| 2026-04-21 | Graduating Into A.I. Pessimism | NYT · AI | AI | opinion | 2026-05-23 | [link](https://www.nytimes.com/video/opinion/100000010918890/graduating-into-ai-pessimism.html) |
+| 2026-04-21 | A.I. Is a Job Creator | NYT · AI | AI | opinion | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/opinion/ai-job-crisis-goldman-sachs.html) |
+| 2026-04-21 | Move Over, Private Equity. It’s Great to Be a Banker Again. | NYT · Business | Business | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/banks-deals-profits.html) |
+| 2026-04-21 | Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models | NYT · Technology | Technology | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html) |
+| 2026-04-21 | Musk’s SpaceX Goals Shift Ahead of Its I.P.O. | NYT · AI | AI | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html) |
+| 2026-04-21 | SpaceX, OpenAI and Anthropic Race to Go Public | NYT · Business | Business | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html) |
+| 2026-04-21 | As a Doctor, I Can Understand the Allure of ChatGPT | NYT · AI | AI | opinion | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/opinion/doctor-ai-chatgpt.html) |
+| 2026-04-21 | After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer | NYT · Technology | Technology | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html) |
+| 2026-04-21 | A.I. Is Eliminating Jobs on Wall Street | NYT · AI | AI | news | 2026-04-28 | [link](https://www.nytimes.com/2026/04/21/business/ai-job-cuts-wall-street.html) |
+| 2026-04-21 | Sundar Pichai Understands Why People Are Anxious About A.I. | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html) |
+| 2026-04-21 | Giving Workers a Stake in A.I. Gains Traction | NYT · Business | Business | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html) |
+| 2026-04-21 | CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran | NYT · Economy | Economy | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html) |
+| 2026-04-21 | White House Approves $9 Billion for Spy Agencies to Catch Up on A.I. | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html) |
+| 2026-04-21 | It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too. | NYT · Your Money | Your Money | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html) |
+| 2026-04-21 | Trump Administration Chips Away at Last Traces of Broad Inquiry Into Jan. 6 | NYT · Politics | Politics | news | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/us/politics/trump-prosecutors-jan-6.html) |
+| 2026-04-21 | How Prediction Markets and Crypto Firms Steamrolled a Watchdog Agency | NYT · U.S. | U.S. | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html) |
+| 2026-04-21 | ‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty | Krebs on Security · Security & Privacy | Security | tech | 2026-04-21 | [link](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/) |
+| 2026-04-21 | OpenAI releases Codex ‘Chronicle’ feature for enhancing context | Superpower Daily · Tech & Engineering | Technology | tech | 2026-04-21 | [link](https://www.superpowerdaily.com/p/openai-releases-codex-chronicle-feature-for-enhancing-context) |
+| 2026-04-21 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
