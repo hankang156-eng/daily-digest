@@ -1,6 +1,6 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-24 · 389 days · 3890 stories*
+*Last updated: 2026-05-25 · 389 days · 3890 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
