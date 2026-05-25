@@ -1260,181 +1260,447 @@ def write_xlsx(path, sheet_name, headers, rows):
         zf.writestr("docProps/app.xml", app)
 
 
-def _badge(text, bg="#eeeeee", color="#333333"):
-    return (
-        f'<span style="display:inline-block;background:{bg};color:{color};font-size:10px;'
-        f'font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;'
-        f'margin-left:4px;vertical-align:middle">{_html_escape(text)}</span>'
-    )
+# ───────────────────────── HTML emission (editorial layout) ─────────────────────────
+# These helpers + generate_html() emit the editorial / newspaper-style HTML that
+# matches Daily Digest.html: 700px column, Lora serif / Inter sans toggle, DM Sans
+# meta line, per-section accent colors, collapsible <details> sections + per-article
+# Overview/Abstract panels, sticky toolbar with font / theme / expand-collapse toggles.
+
+_PAGE_CSS = """:root {
+  --bg: #f6f6f0;
+  --paper: #fbf9f3;
+  --ink: #14130f;
+  --ink-soft: #2f2c26;
+  --mute: #6a6760;
+  --faint: #a09a8e;
+  --rule: rgba(20, 19, 15, 0.14);
+  --rule-soft: rgba(20, 19, 15, 0.07);
+  --accent: #8a1a1a;
+  --hover: #8a1a1a;
+  --font-body: 'Lora', 'Iowan Old Style', Georgia, serif;
+  --font-meta: 'DM Sans', ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --col: 700px;
+  --body-size: 13px;
+  --row-pad: 10px;
+}
+
+[data-theme="dark"] {
+  --bg: #111216;
+  --paper: #1a1b20;
+  --ink: #b5b5b5;
+  --ink-soft: #9e9e9e;
+  --mute: #7a7a7a;
+  --faint: #5a5a5a;
+  --rule: rgba(181, 181, 181, 0.20);
+  --rule-soft: rgba(181, 181, 181, 0.10);
+  --accent: #d68c8c;
+  --hover: #d68c8c;
+}
+
+[data-font="sans"] { --font-body: 'Inter', ui-sans-serif, system-ui, -apple-system, sans-serif; }
+
+* { box-sizing: border-box; }
+html { background: var(--bg); scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: var(--body-size);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  transition: background-color 180ms ease, color 180ms ease;
+}
+[data-font="sans"] body { letter-spacing: -0.005em; line-height: 1.52; }
+::selection { background: var(--accent); color: var(--paper); }
+a { color: inherit; text-decoration: none; }
+
+/* Layout */
+.page { max-width: var(--col); margin: 0 auto; padding: 24px 24px 56px; }
+
+/* Toolbar */
+.toolbar {
+  position: sticky; top: 0; z-index: 100;
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 12px; padding: 10px 0; margin: 0 0 4px;
+  border-bottom: 1px solid var(--rule-soft);
+  font-family: var(--font-meta);
+  font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--mute);
+  background: var(--bg);
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: saturate(140%) blur(8px);
+  -webkit-backdrop-filter: saturate(140%) blur(8px);
+}
+.toolbar a { color: var(--mute); transition: color 120ms ease; }
+.toolbar a:hover { color: var(--ink); }
+.toolbar a.archive { letter-spacing: 0.06em; }
+.controls { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.btn {
+  background: transparent; border: 1px solid var(--rule); color: var(--mute);
+  font: inherit; letter-spacing: inherit; text-transform: inherit;
+  padding: 4px 9px; cursor: pointer; border-radius: 2px;
+  transition: color 120ms ease, border-color 120ms ease, background-color 120ms ease;
+}
+.btn:hover { color: var(--ink); border-color: var(--ink-soft); }
+.btn[aria-pressed="true"] { color: var(--ink); border-color: var(--ink-soft); background: var(--paper); }
+.seg { display: inline-flex; border: 1px solid var(--rule); border-radius: 2px; overflow: hidden; }
+.seg .btn { border: none; border-radius: 0; padding: 4px 9px; color: var(--mute); }
+.seg .btn + .btn { border-left: 1px solid var(--rule); }
+.seg .btn:hover { color: var(--ink); }
+.seg .btn[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+
+/* Masthead */
+.masthead {
+  text-align: left; padding: 28px 0 18px;
+  border-bottom: 1px solid var(--rule); margin-bottom: 24px;
+}
+.masthead .kicker {
+  font-family: var(--font-meta); font-size: 10.5px;
+  letter-spacing: 0.22em; text-transform: uppercase;
+  color: var(--mute); margin-bottom: 8px;
+}
+.wordmark {
+  font-family: var(--font-body); font-weight: 600;
+  font-size: clamp(30px, 5vw, 40px); line-height: 1.05;
+  letter-spacing: -0.018em; margin: 0; color: var(--ink);
+}
+[data-font="sans"] .wordmark { font-weight: 600; letter-spacing: -0.028em; }
+.fetched {
+  font-family: var(--font-meta); font-size: 11px;
+  letter-spacing: 0.06em; color: var(--mute); margin-top: 10px;
+}
+
+/* Per-section accents */
+details.section#hn        { --accent: #b8501c; --hover: #b8501c; }
+details.section#nyt       { --accent: #4a4a48; --hover: #4a4a48; }
+details.section#research  { --accent: #2a6b66; --hover: #2a6b66; }
+details.section#blogs     { --accent: #4f6b3e; --hover: #4f6b3e; }
+details.section#linkedin  { --accent: #2a5a8a; --hover: #2a5a8a; }
+[data-theme="dark"] details.section#hn        { --accent: #e09b6b; --hover: #e09b6b; }
+[data-theme="dark"] details.section#nyt       { --accent: #9a958a; --hover: #9a958a; }
+[data-theme="dark"] details.section#research  { --accent: #7fb8b0; --hover: #7fb8b0; }
+[data-theme="dark"] details.section#blogs     { --accent: #a8c08c; --hover: #a8c08c; }
+[data-theme="dark"] details.section#linkedin  { --accent: #7ba6d4; --hover: #7ba6d4; }
+
+/* Section */
+.section { margin-top: 32px; scroll-margin-top: 60px; }
+.section:first-of-type { margin-top: 8px; }
+.section-head {
+  margin-bottom: 14px; padding-bottom: 10px;
+  border-bottom: 1px solid var(--rule);
+  display: flex; align-items: baseline; justify-content: space-between;
+  gap: 16px; cursor: pointer; list-style: none; user-select: none;
+  transition: color 120ms ease;
+}
+.section-head::-webkit-details-marker { display: none; }
+.section-head:hover h2 { color: var(--accent); }
+.section:not([open]) > .section-head { margin-bottom: 0; }
+.section-head h2 {
+  font-family: var(--font-body); font-weight: 500;
+  font-size: 22px; line-height: 1.15; margin: 0;
+  letter-spacing: -0.012em; transition: color 120ms ease; flex: 1;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1.5px; text-underline-offset: 6px;
+  text-decoration-color: color-mix(in srgb, var(--accent) 55%, transparent);
+}
+[data-font="sans"] .section-head h2 { font-weight: 600; letter-spacing: -0.022em; }
+.section-head::after {
+  content: "▾"; font-family: var(--font-meta); font-size: 11px;
+  color: var(--accent); transition: transform 180ms ease;
+  display: inline-block; transform-origin: center;
+  flex-shrink: 0; margin-left: 12px; align-self: center;
+}
+.section:not([open]) > .section-head::after { transform: rotate(-90deg); }
+
+/* Subsection */
+.subsection { margin-top: 18px; }
+.subsection:first-of-type { margin-top: 6px; }
+.subhead {
+  display: flex; align-items: center; gap: 10px;
+  margin: 0 0 6px; cursor: pointer; list-style: none; user-select: none;
+  transition: color 120ms ease;
+}
+.subhead::-webkit-details-marker { display: none; }
+.subhead::before {
+  content: "▾"; font-size: 9px; color: var(--mute);
+  transition: transform 180ms ease;
+  display: inline-block; transform-origin: center; flex-shrink: 0;
+}
+.subsection:not([open]) > .subhead::before { transform: rotate(-90deg); }
+.subsection:not([open]) > .subhead { margin-bottom: 0; }
+.subhead:hover h3 { color: var(--ink); }
+.subhead::after {
+  content: ""; flex: 1; height: 1px; background: var(--rule-soft);
+}
+.subhead h3 {
+  font-family: var(--font-meta); font-size: 10.5px;
+  font-weight: 500; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--ink-soft); margin: 0; transition: color 120ms ease;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1px; text-underline-offset: 4px;
+  text-decoration-color: color-mix(in srgb, var(--accent) 55%, transparent);
+}
+
+/* Article */
+.article {
+  display: grid; grid-template-columns: 26px 1fr;
+  gap: 2px 12px; padding: var(--row-pad) 0 calc(var(--row-pad) + 1px);
+  border-bottom: 1px solid var(--rule-soft);
+}
+.article:last-child { border-bottom: none; }
+.article .num {
+  font-family: var(--font-meta); font-size: 11px;
+  color: var(--faint); font-feature-settings: "tnum";
+  padding-top: 4px; text-align: right;
+}
+.article .body { min-width: 0; }
+.article h4 {
+  margin: 0 0 4px; font-family: var(--font-body);
+  font-weight: 500; font-size: 20px; line-height: 1.25;
+  letter-spacing: -0.008em; text-wrap: pretty;
+}
+[data-font="sans"] .article h4 { font-weight: 600; letter-spacing: -0.015em; }
+.article h4 a {
+  background-image: linear-gradient(var(--ink), var(--ink));
+  background-repeat: no-repeat; background-position: 0 100%;
+  background-size: 0 1px;
+  transition: background-size 180ms ease, color 120ms ease;
+}
+.article h4 a:hover {
+  color: var(--hover);
+  background-image: linear-gradient(var(--hover), var(--hover));
+  background-size: 100% 1px;
+}
+
+/* Meta line — picks up the section accent */
+.meta {
+  font-family: var(--font-meta); font-size: 10px;
+  letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--accent);
+  display: flex; flex-wrap: wrap; align-items: center;
+  gap: 0 6px; line-height: 1.4;
+}
+.meta .sep { color: var(--accent); opacity: 0.55; }
+.meta a { color: #ed702e; border-bottom: 1px solid transparent; padding-bottom: 1px; }
+.meta a:hover { color: #ff8a3c; border-color: currentColor; }
+.meta .src { color: var(--accent); font-weight: 600; }
+.meta .cat { color: var(--accent); }
+.meta .reason {
+  width: 100%; color: var(--faint); font-style: italic;
+  text-transform: none; letter-spacing: 0;
+  font-size: 11px; font-family: var(--font-body); margin-top: 1px;
+}
+
+/* Article collapsibles */
+.article details { margin-top: 5px; }
+.article details summary {
+  list-style: none; cursor: pointer;
+  font-family: var(--font-meta); font-size: 10px;
+  letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--accent);
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 2px 0; transition: color 120ms ease; user-select: none;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1px; text-underline-offset: 3px;
+  text-decoration-color: currentColor;
+}
+.article details summary::-webkit-details-marker { display: none; }
+.article details summary:hover { color: var(--hover); }
+.article details summary::before {
+  content: "+"; display: inline-block; width: 9px;
+  text-align: center; color: var(--faint);
+  font-family: var(--font-meta);
+  transition: transform 150ms ease, color 120ms ease;
+}
+.article details[open] summary::before { content: "−"; color: var(--accent); }
+.article details[open] summary { color: var(--accent); }
+.article details .panel {
+  font-family: var(--font-body); font-size: 14px;
+  font-weight: 500; line-height: 1.25;
+  color: var(--panel-ink, var(--ink-soft));
+  margin: 5px 0 4px; text-wrap: pretty;
+}
+[data-theme="dark"] { --panel-ink: #b5b5b5; }
+.article details.abstract .panel { font-style: italic; color: var(--mute); }
+details.section#nyt .article details.abstract .panel { font-style: normal; }
+
+/* Side-by-side details (Abstract + Overview on NYT) */
+.details-row { display: flex; flex-wrap: wrap; gap: 0 16px; margin-top: 4px; }
+.details-row details { margin-top: 0; }
+
+/* Small screens */
+@media (max-width: 560px) {
+  .page { padding: 16px 16px 40px; }
+  .masthead { padding: 20px 0 16px; margin-bottom: 22px; }
+  .article { grid-template-columns: 22px 1fr; gap: 2px 10px; }
+  .article h4 { font-size: 18px; }
+  .toolbar { font-size: 9.5px; flex-wrap: wrap; gap: 8px; }
+  .section-head { flex-direction: column; align-items: flex-start; gap: 4px; }
+}
+
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 1px; }
+button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+"""
+
+_PAGE_SCRIPT = """(function () {
+  var root = document.documentElement;
+  function pressGroup(name, value) {
+    document.querySelectorAll('[data-tg="' + name + '"]').forEach(function (btn) {
+      btn.setAttribute('aria-pressed', btn.dataset.val === value ? 'true' : 'false');
+    });
+  }
+  function applyFont(v) {
+    root.setAttribute('data-font', v);
+    pressGroup('font', v);
+    try { localStorage.setItem('dd-font', v); } catch (e) {}
+  }
+  function applyTheme(v) {
+    root.setAttribute('data-theme', v);
+    pressGroup('theme', v);
+    try { localStorage.setItem('dd-theme', v); } catch (e) {}
+  }
+  document.querySelectorAll('[data-tg="font"]').forEach(function (btn) {
+    btn.addEventListener('click', function () { applyFont(btn.dataset.val); });
+  });
+  document.querySelectorAll('[data-tg="theme"]').forEach(function (btn) {
+    btn.addEventListener('click', function () { applyTheme(btn.dataset.val); });
+  });
+  var storedFont = null, storedTheme = null;
+  try { storedFont = localStorage.getItem('dd-font'); storedTheme = localStorage.getItem('dd-theme'); } catch (e) {}
+  applyFont(storedFont || 'serif');
+  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  applyTheme(storedTheme || (prefersDark ? 'dark' : 'light'));
+  document.getElementById('expandAll').addEventListener('click', function () {
+    document.querySelectorAll('details').forEach(function (d) { d.open = true; });
+  });
+  document.getElementById('collapseAll').addEventListener('click', function () {
+    document.querySelectorAll('details').forEach(function (d) { d.open = false; });
+  });
+})();
+"""
 
 
-def _collapsible_block(label, text):
-    """A tap-to-expand <details> block (collapsed by default). HTML output only."""
+def _short_date_label(article):
+    """Compact date for the meta line: 'May 23' (HN/blogs/general) or 'Sun, May 24' (NYT)."""
+    pub = article.get("date")
+    day = None
+    if isinstance(pub, datetime.date):
+        day = pub
+    elif pub:
+        try:
+            day = datetime.date.fromisoformat(str(pub)[:10])
+        except ValueError:
+            return str(pub)
+    if not day:
+        return ""
+    if article.get("outlet") == "NYT":
+        return day.strftime("%a, %b %-d")
+    return day.strftime("%b %-d")
+
+
+def _render_meta(article, show_score=False):
+    parts = []
+    src = article.get("outlet") or article.get("source")
+    if src:
+        parts.append(f'<span class="src">{_html_escape(src)}</span>')
+    cat = article.get("topic_tag") or article.get("section")
+    if cat:
+        parts.append(f'<span class="cat">{_html_escape(cat)}</span>')
+    if show_score:
+        score = article.get("score")
+        if score not in (None, ""):
+            try:
+                parts.append(f'<span>{int(score)} pts</span>')
+            except (TypeError, ValueError):
+                pass
+        comments = article.get("comments")
+        if comments not in (None, ""):
+            try:
+                parts.append(f'<span>{int(comments)} comments</span>')
+            except (TypeError, ValueError):
+                pass
+    else:
+        score = article.get("score")
+        if score not in (None, ""):
+            try:
+                parts.append(f'<span>{float(score):.1f}</span>')
+            except (TypeError, ValueError):
+                pass
+    minutes = article.get("reading_time_minutes")
+    word_count = article.get("word_count")
+    if word_count and minutes:
+        try:
+            parts.append(f'<span>{int(word_count):,} words · {int(minutes)} min read</span>')
+        except (TypeError, ValueError):
+            pass
+    elif minutes:
+        try:
+            parts.append(f'<span>{int(minutes)} min read</span>')
+        except (TypeError, ValueError):
+            pass
+    date_label = _short_date_label(article)
+    if date_label:
+        parts.append(f'<span>{_html_escape(date_label)}</span>')
+    if article.get("hn_companion_url"):
+        url = _html_escape(article["hn_companion_url"])
+        parts.append(f'<a href="{url}" target="_blank">HN Companion \u2197</a>')
+    inner = '<span class="sep">\u00b7</span>'.join(parts)
+    reason_text = " \u2014 ".join(part for part in (article.get("reading_mode"), article.get("reason")) if part)
+    reason_html = f'<span class="reason">{_html_escape(reason_text)}</span>' if reason_text else ""
+    return f'<div class="meta">{inner}{reason_html}</div>'
+
+
+def _render_collapsible(label, text, css_class=""):
     if not text:
         return ""
+    cls_attr = f' class="{css_class}"' if css_class else ""
     return (
-        '<details style="margin-top:6px;margin-left:24px">'
-        '<summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">'
-        f'{_html_escape(label)}</summary>'
-        '<div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">'
-        f'{_html_escape(text)}</div>'
-        '</details>'
+        f'<details{cls_attr}><summary>{_html_escape(label)}</summary>'
+        f'<div class="panel">{_html_escape(text)}</div></details>'
     )
 
 
-def _article_row(article, show_score=False):
-    outlet_colors = {
-        "NYT": ("#111111", "#ffffff"),
-        "WSJ": ("#00285e", "#ffffff"),
-        "HN": ("#ff6600", "#ffffff"),
-    }
-    badges = ""
-    outlet = article.get("outlet")
-    if outlet in outlet_colors:
-        bg, fg = outlet_colors[outlet]
-        badges += _badge(outlet, bg, fg)
-    if article.get("section"):
-        badges += _badge(article["section"], "#f0f0f0", "#666666")
-    if article.get("source") and not outlet:
-        badges += _badge(article["source"], "#f5f5f5", "#777777")
-
-    score = ""
-    if show_score and article.get("comments") is not None:
-        score = (
-            f' <span style="font-size:11px;color:#888;margin-left:6px">'
-            f'{int(article.get("score", 0))} pts · {int(article.get("comments", 0))} comments</span>'
+def _render_article(article, index, kind):
+    """kind ∈ {'hn', 'nyt', 'blog', 'linkedin'} — controls meta + details layout."""
+    show_score = (kind == "hn")
+    num = f"{index:02d}"
+    title = _html_escape(article.get("title", ""))
+    url = _html_escape(article.get("url") or "#")
+    meta = _render_meta(article, show_score=show_score)
+    if kind == "nyt":
+        abstract_html = _render_collapsible("Abstract", article.get("abstract"), css_class="abstract")
+        overview_html = _render_collapsible("Overview", article.get("article_overview"))
+        details_block = (
+            f'<div class="details-row">{abstract_html}{overview_html}</div>'
+            if (abstract_html or overview_html) else ""
         )
-    elif article.get("score") not in (None, ""):
-        score = (
-            f' <span style="font-size:11px;color:#888;margin-left:6px">'
-            f'Score {float(article.get("score", 0)):.1f}</span>'
-        )
-    reading_meta = _reading_meta_text(article)
-    if reading_meta:
-        score += (
-            f' <span style="font-size:11px;color:#888;margin-left:6px">'
-            f'{_html_escape(reading_meta)}</span>'
-        )
-    discussion_url = article.get("hn_companion_url") or article.get("hn_url")
-    discuss = ""
-    if discussion_url:
-        label = "HN Companion" if article.get("hn_companion_url") else "discuss"
-        discuss = (
-            f' <a href="{_html_escape(discussion_url)}" style="font-size:11px;color:#e67e22;'
-            f'margin-left:6px;text-decoration:none">{label}</a>'
-        )
-    date_note = _display_date(article)
-    if date_note:
-        date_note = f' <span style="font-size:11px;color:#999;margin-left:6px">{_html_escape(date_note)}</span>'
-    mode = article.get("reading_mode")
-    reason = article.get("reason")
-    detail = ""
-    if mode or reason:
-        detail = (
-            f'<div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px">'
-            f'{_html_escape(mode or "")}'
-            f'{": " if mode and reason else ""}'
-            f'{_html_escape(reason or "")}</div>'
-        )
-
-    return f'''<tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <a href="{_html_escape(article.get("url", "#"))}" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">{_html_escape(article.get("title", ""))}</a>
-        {badges}{score}{discuss}{date_note}
-        {detail}
-      </td>
-    </tr>'''
-
-
-def _article_list_item(article, index=None, show_score=False):
-    number = f'<span style="display:inline-block;width:24px;color:#999">{index}.</span>' if index is not None else ""
-    return f'''<tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        {number}{_article_row_content(article, show_score=show_score)}
-      </td>
-    </tr>'''
-
-
-def _article_row_content(article, show_score=False):
-    outlet_colors = {
-        "NYT": ("#111111", "#ffffff"),
-        "WSJ": ("#00285e", "#ffffff"),
-        "HN": ("#ff6600", "#ffffff"),
-    }
-    badges = ""
-    outlet = article.get("outlet")
-    if outlet in outlet_colors:
-        bg, fg = outlet_colors[outlet]
-        badges += _badge(outlet, bg, fg)
-    tag = article.get("topic_tag") or article.get("section")
-    if tag:
-        badges += _badge(tag, "#f0f0f0", "#666666")
-    if article.get("source") and not outlet:
-        badges += _badge(article["source"], "#f5f5f5", "#777777")
-
-    score = ""
-    if show_score and article.get("comments") is not None:
-        score = (
-            f' <span style="font-size:11px;color:#888;margin-left:6px">'
-            f'{int(article.get("score", 0))} pts · {int(article.get("comments", 0))} comments</span>'
-        )
-    elif article.get("score") not in (None, ""):
-        score = (
-            f' <span style="font-size:11px;color:#888;margin-left:6px">'
-            f'Score {float(article.get("score", 0)):.1f}</span>'
-        )
-    reading_meta = _reading_meta_text(article)
-    if reading_meta:
-        score += (
-            f' <span style="font-size:11px;color:#888;margin-left:6px">'
-            f'{_html_escape(reading_meta)}</span>'
-        )
-    discussion_url = article.get("hn_companion_url") or article.get("hn_url")
-    discuss = ""
-    if discussion_url:
-        label = "HN Companion" if article.get("hn_companion_url") else "discuss"
-        discuss = (
-            f' <a href="{_html_escape(discussion_url)}" style="font-size:11px;color:#e67e22;'
-            f'margin-left:6px;text-decoration:none">{label}</a>'
-        )
-    date_note = _display_date(article)
-    if date_note:
-        date_note = f' <span style="font-size:11px;color:#999;margin-left:6px">{_html_escape(date_note)}</span>'
-    mode = article.get("reading_mode")
-    reason = article.get("reason")
-    detail = ""
-    if mode or reason:
-        detail = (
-            f'<div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">'
-            f'{_html_escape(mode or "")}'
-            f'{": " if mode and reason else ""}'
-            f'{_html_escape(reason or "")}</div>'
-        )
-    abstract_text = article.get("abstract")
-    abstract = _collapsible_block("Abstract:", abstract_text)
-    overview_text = article.get("discussion_overview") or article.get("article_overview")
-    model_name = article.get("overview_model") or ""
-    overview_label = f"Overview (Model: {model_name}):" if model_name else "Overview:"
-    overview = _collapsible_block(overview_label, overview_text)
+    else:
+        overview_text = article.get("discussion_overview") or article.get("article_overview")
+        details_block = _render_collapsible("Overview", overview_text)
     return (
-        f'<a href="{_html_escape(article.get("url", "#"))}" style="color:#1a1a2e;font-size:14px;'
-        f'text-decoration:none;line-height:1.45;font-weight:500" target="_blank">'
-        f'{_html_escape(article.get("title", ""))}</a>{badges}{score}{discuss}{date_note}{detail}{abstract}{overview}'
+        '<article class="article">\n'
+        f'  <div class="num">{num}</div>\n'
+        '  <div class="body">\n'
+        f'    <h4><a href="{url}" target="_blank">{title}</a></h4>\n'
+        f'    {meta}\n'
+        f'    {details_block}\n'
+        '  </div>\n'
+        '</article>'
     )
 
 
-def _section_block(heading, articles, show_score=False, numbered=False):
+def _render_section(section_id, title, articles, kind):
     if not articles:
         return ""
-    rows = "".join(
-        _article_list_item(article, index=index if numbered else None, show_score=show_score)
-        for index, article in enumerate(articles, 1)
+    items = "\n".join(_render_article(a, i, kind) for i, a in enumerate(articles, 1))
+    return (
+        f'<details class="section" id="{section_id}" open>\n'
+        f'  <summary class="section-head"><h2>{_html_escape(title)}</h2></summary>\n'
+        f'{items}\n'
+        '</details>'
     )
-    return f'''
-    <div style="margin-bottom:28px">
-      <h3 style="font-size:13px;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:.08em;margin:0 0 10px;padding-bottom:8px;border-bottom:2px solid #f0f0f0">{heading}</h3>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody>{rows}</tbody></table>
-    </div>'''
 
 
 def _group_articles(articles, key):
@@ -1449,22 +1715,26 @@ def _group_articles(articles, key):
     return groups
 
 
-def _grouped_section_block(heading, articles, group_key, numbered=True):
+def _render_nyt_section(title, articles, group_key="topic_tag"):
     if not articles:
         return ""
-    blocks = [f'''
-    <div style="margin-bottom:28px">
-      <h3 style="font-size:13px;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:.08em;margin:0 0 10px;padding-bottom:8px;border-bottom:2px solid #f0f0f0">{heading}</h3>''']
+    sub_blocks = []
     for label, group in _group_articles(articles, group_key):
-        rows = "".join(
-            _article_list_item(article, index=index if numbered else None)
-            for index, article in enumerate(group, 1)
+        items = "\n".join(_render_article(a, i, "nyt") for i, a in enumerate(group, 1))
+        sub_blocks.append(
+            '<details class="subsection" open>\n'
+            f'  <summary class="subhead"><h3>{_html_escape(label)}</h3></summary>\n'
+            f'{items}\n'
+            '</details>'
         )
-        blocks.append(f'''
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">{_html_escape(label)}</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody>{rows}</tbody></table>''')
-    blocks.append("</div>")
-    return "".join(blocks)
+    return (
+        '<details class="section" id="nyt" open>\n'
+        f'  <summary class="section-head"><h2>{_html_escape(title)}</h2></summary>\n'
+        + "\n".join(sub_blocks) +
+        '\n</details>'
+    )
+
+
 
 
 def digest_archive_entries(daily_html_dir=DAILY_HTML_DIR, href_prefix="output/daily_html"):
@@ -1536,43 +1806,61 @@ def generate_html(date, data, settings=None, archive_href="digest_archive.html")
     date_str = digest_date_for(date).strftime("%A, %B %-d, %Y")
     fetched_str = datetime.datetime.now().strftime("%A, %b %d, %Y at %H:%M")
 
-    html_doc = f"""<!DOCTYPE html>
+    body_parts = [
+        _render_section("hn", "Yesterday on Hacker News", sections["hn"], "hn"),
+        _render_nyt_section("The Times — Strategic Reading", sections["nyt_wsj"]),
+        _render_section("research", "MIT & Sloan Research", sections["research"], "blog"),
+        _render_section("blogs", "Blogs & Craft", sections["blogs"], "blog"),
+        _render_section("linkedin", "From the Network", sections["linkedin"], "linkedin"),
+    ]
+    body_sections = "\n\n".join(part for part in body_parts if part)
+
+    return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Daily Digest - {_html_escape(date_str)}</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Daily Digest — {_html_escape(date_str)}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Inter:wght@400;500;600&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet">
+<style>
+{_PAGE_CSS}
+</style>
 </head>
-<body style="margin:0;padding:0;background:#f4f3f0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;color:#1a1a1a">
-<table width="100%" cellspacing="0" cellpadding="0" style="background:#f4f3f0">
-<tr><td align="center" style="padding:24px 16px">
-<table width="660" cellspacing="0" cellpadding="0" style="max-width:660px;width:100%">
-<tr><td style="background:#1a1a2e;border-radius:12px;padding:32px 36px">
-  <div style="font-size:11px;color:rgba(255,255,255,.55);letter-spacing:.15em;text-transform:uppercase;margin-bottom:6px">Your Morning Read</div>
-  <div style="font-size:30px;font-weight:800;color:#fff;line-height:1.1">{_html_escape(date_str)}</div>
-  <div style="font-size:12px;color:rgba(255,255,255,.6);margin-top:6px">Fetched: {_html_escape(fetched_str)}</div>
-  <div style="font-size:14px;color:rgba(255,255,255,.5);margin-top:6px">Daily Digest</div>
-  <div style="font-size:13px;margin-top:18px"><a href="{_html_escape(archive_href)}" style="color:rgba(255,255,255,.82);text-decoration:none;font-weight:700">Read past daily digests</a></div>
-</td></tr>
-<tr><td style="height:16px"></td></tr>
-<tr><td style="background:#fff;border-radius:12px;padding:28px 32px;box-shadow:0 1px 4px rgba(0,0,0,.06)">
-  {_section_block("🔶 Yesterday's Top HackerNews", sections["hn"], show_score=True, numbered=True)}
-  {_grouped_section_block("📰 NYT Strategic Reading List", sections["nyt_wsj"], "topic_tag")}
-  {_section_block("🎓 MIT & Sloan Research", sections["research"], numbered=True)}
-  {_section_block("📚 Blogs & Craft", sections["blogs"], numbered=True)}
-  {_section_block("💼 LinkedIn - Rama's Activity", sections["linkedin"])}
-</td></tr>
-<tr><td style="height:16px"></td></tr>
-<tr><td style="text-align:center;padding:16px;font-size:11px;color:#999">
-  Generated {_html_escape(datetime.datetime.now().strftime("%-I:%M %p on %B %-d, %Y"))} · Daily Digest
-</td></tr>
-</table>
-</td></tr>
-</table>
-</body>
-</html>"""
-    return html_doc
+<body>
+<div class="page">
+  <div class="toolbar">
+    <a class="archive" href="{_html_escape(archive_href)}">← Read past daily digests</a>
+    <div class="controls">
+      <div class="seg" role="group" aria-label="Font">
+        <button class="btn" data-tg="font" data-val="serif" aria-pressed="true">Serif</button>
+        <button class="btn" data-tg="font" data-val="sans" aria-pressed="false">Sans</button>
+      </div>
+      <div class="seg" role="group" aria-label="Theme">
+        <button class="btn" data-tg="theme" data-val="light" aria-pressed="true">Light</button>
+        <button class="btn" data-tg="theme" data-val="dark" aria-pressed="false">Dark</button>
+      </div>
+      <button class="btn" id="expandAll">Expand all</button>
+      <button class="btn" id="collapseAll">Collapse all</button>
+    </div>
+  </div>
 
+  <header class="masthead">
+    <div class="kicker">Your Morning Read</div>
+    <h1 class="wordmark">{_html_escape(date_str)}</h1>
+    <div class="fetched">Fetched: {_html_escape(fetched_str)}</div>
+  </header>
+
+{body_sections}
+
+</div>
+<script>
+{_PAGE_SCRIPT}
+</script>
+</body>
+</html>
+"""
 
 def _md_articles(articles, numbered=False, show_score=False):
     lines = []
