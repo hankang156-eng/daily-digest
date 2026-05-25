@@ -1,4 +1,4 @@
-# NYT / WSJ Briefing - 2026-05-23
+# NYT Briefing - 2026-05-23
 
 ## Executive Summary
 
@@ -34,16 +34,16 @@
 6. [Move Over, Private Equity. It’s Great to Be a Banker Again.](https://www.nytimes.com/2026/05/22/business/banks-deals-profits.html)
    - NYT · Business · 2026-05-22
    - Score 74.45 · Read deeply · matches regulation / policy; strategic signal
-### Politics / U.S.
-
-7. [Trump Administration Chips Away at Last Traces of Broad Inquiry Into Jan. 6](https://www.nytimes.com/2026/05/23/us/politics/trump-prosecutors-jan-6.html)
-   - NYT · Politics / U.S. · 2026-05-23
-   - Score 73.7 · Read deeply · matches technology / ai; policy/social lens; appears across sections
 ### Climate / Energy / Infrastructure
 
-8. [Trump Eases Restrictions on Climate ‘Super Pollutants’](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html)
+7. [Trump Eases Restrictions on Climate ‘Super Pollutants’](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html)
    - NYT · Energy & Environment · 2026-05-21
    - Score 71.0 · Read deeply · matches climate / energy / infrastructure; core news
+### Politics / U.S.
+
+8. [Trump Administration Chips Away at Last Traces of Broad Inquiry Into Jan. 6](https://www.nytimes.com/2026/05/23/us/politics/trump-prosecutors-jan-6.html)
+   - NYT · Politics · 2026-05-23
+   - Score 70.7 · Read deeply · matches technology / ai; policy/social lens
 ### Technology / AI
 
 9. [Sundar Pichai Understands Why People Are Anxious About A.I.](https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html)
