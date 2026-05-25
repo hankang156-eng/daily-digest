@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-25 · 389 days · 3890 stories*
+*Last updated: 2026-05-25 · 390 days · 3900 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-24 | Sunday | 1 | DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost | 698 | 271 | Technology | [link](https://esengine.github.io/DeepSeek-Reasonix/) · [HN](https://news.ycombinator.com/item?id=48256953) |
+| 2026-05-24 | Sunday | 2 | Show HN: Audiomass – a free, open-source multitrack audio editor for the web | 505 | 110 | Technology | [link](https://audiomass.co/?multitrack=1) · [HN](https://news.ycombinator.com/item?id=48258015) |
+| 2026-05-24 | Sunday | 3 | Migrating from Go to Rust | 444 | 454 | Technology | [link](https://corrode.dev/learn/migration-guides/go-to-rust/) · [HN](https://news.ycombinator.com/item?id=48259808) |
+| 2026-05-24 | Sunday | 4 | The Eternal Sloptember | 434 | 350 | Technology | [link](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html) · [HN](https://news.ycombinator.com/item?id=48263238) |
+| 2026-05-24 | Sunday | 5 | Memory has grown to nearly two-thirds of AI chip component costs | 429 | 468 | Technology | [link](https://epoch.ai/data-insights/ai-chip-component-cost-shares) · [HN](https://news.ycombinator.com/item?id=48258684) |
+| 2026-05-24 | Sunday | 6 | Why is Vivado 2026.1 dropping Linux support for free tier? | 347 | 209 | Technology | [link](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US) · [HN](https://news.ycombinator.com/item?id=48254309) |
+| 2026-05-24 | Sunday | 7 | Amazon Web Services – Four Years and Out | 319 | 135 | Technology | [link](https://www.adventuresinoss.com/aws-four-years/) · [HN](https://news.ycombinator.com/item?id=48254475) |
+| 2026-05-24 | Sunday | 8 | Jira Is Turing-Complete | 290 | 140 | Technology | [link](https://seriot.ch/computation/jira.html) · [HN](https://news.ycombinator.com/item?id=48263253) |
+| 2026-05-24 | Sunday | 9 | Constraint Decay: The Fragility of LLM Agents in Back End Code Generation | 277 | 185 | Technology | [link](https://arxiv.org/abs/2605.06445) · [HN](https://news.ycombinator.com/item?id=48256912) |
+| 2026-05-24 | Sunday | 10 | Claude is not your architect. Stop letting it pretend | 265 | 189 | Technology | [link](https://www.hollandtech.net/claude-is-not-your-architect/) · [HN](https://news.ycombinator.com/item?id=48259784) |
 | 2026-05-23 | Saturday | 1 | Texas woman arrested for Facebook post about town water quality | 754 | 309 | Technology | [link](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality) · [HN](https://news.ycombinator.com/item?id=48249747) |
 | 2026-05-23 | Saturday | 2 | Time to talk about my writerdeck | 438 | 271 | Technology | [link](https://veronicaexplains.net/my-first-writerdeck/) · [HN](https://news.ycombinator.com/item?id=48250144) |
 | 2026-05-23 | Saturday | 3 | On The <dl> (2021) | 424 | 124 | Technology | [link](https://benmyers.dev/blog/on-the-dl/) · [HN](https://news.ycombinator.com/item?id=48247325) |

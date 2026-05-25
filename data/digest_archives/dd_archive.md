@@ -1,9 +1,50 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-25 · 1293 items*
+*Last updated: 2026-05-25 · 1334 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-24 | DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost | HN | Technology | tech | 2026-05-24 | [link](https://esengine.github.io/DeepSeek-Reasonix/) |
+| 2026-05-24 | Show HN: Audiomass – a free, open-source multitrack audio editor for the web | HN | Technology | tech | 2026-05-24 | [link](https://audiomass.co/?multitrack=1) |
+| 2026-05-24 | Migrating from Go to Rust | HN | Technology | tech | 2026-05-24 | [link](https://corrode.dev/learn/migration-guides/go-to-rust/) |
+| 2026-05-24 | The Eternal Sloptember | HN | Technology | tech | 2026-05-24 | [link](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html) |
+| 2026-05-24 | Memory has grown to nearly two-thirds of AI chip component costs | HN | Technology | tech | 2026-05-24 | [link](https://epoch.ai/data-insights/ai-chip-component-cost-shares) |
+| 2026-05-24 | Why is Vivado 2026.1 dropping Linux support for free tier? | HN | Technology | tech | 2026-05-24 | [link](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US) |
+| 2026-05-24 | Amazon Web Services – Four Years and Out | HN | Technology | tech | 2026-05-24 | [link](https://www.adventuresinoss.com/aws-four-years/) |
+| 2026-05-24 | Jira Is Turing-Complete | HN | Technology | tech | 2026-05-24 | [link](https://seriot.ch/computation/jira.html) |
+| 2026-05-24 | Constraint Decay: The Fragility of LLM Agents in Back End Code Generation | HN | Technology | tech | 2026-05-24 | [link](https://arxiv.org/abs/2605.06445) |
+| 2026-05-24 | Claude is not your architect. Stop letting it pretend | HN | Technology | tech | 2026-05-24 | [link](https://www.hollandtech.net/claude-is-not-your-architect/) |
+| 2026-05-24 | The four-day workweek in Australia: insights from early adopters of 100:80:100 | HN | Technology | tech | 2026-05-24 | [link](https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/) |
+| 2026-05-24 | Childhood Computing | HN | Technology | tech | 2026-05-24 | [link](https://susam.net/childhood-computing.html) |
+| 2026-05-24 | A fundamental principle of aeronautical engineering has been overturned | HN | Technology | tech | 2026-05-24 | [link](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/) |
+| 2026-05-24 | Greg Brockman interview [video] | HN | Technology | tech | 2026-05-24 | [link](https://fs.blog/knowledge-project-podcast/greg-brockman/) |
+| 2026-05-24 | DeepSeek to Make Permanent 75% Discount on Flagship AI Model | HN | Technology | tech | 2026-05-24 | [link](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model) |
+| 2026-05-24 | Usborne 1980s Computer Books | HN | Technology | tech | 2026-05-24 | [link](https://usborne.com/us/books/computer-and-coding-books) |
+| 2026-05-24 | Artificial Intelligence Floods Court Dockets with Home-Brewed Lawsuits | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html) |
+| 2026-05-24 | UK Institute Is Hunting for Dangers Lurking in AI | NYT · AI | AI | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html) |
+| 2026-05-24 | As a Doctor, I Can Understand the Allure of ChatGPT | NYT · AI | AI | opinion | 2026-05-25 | [link](https://www.nytimes.com/2026/05/24/opinion/doctor-ai-chatgpt.html) |
+| 2026-05-24 | Graduating Into A.I. Pessimism | NYT · AI | AI | opinion | 2026-05-23 | [link](https://www.nytimes.com/video/opinion/100000010918890/graduating-into-ai-pessimism.html) |
+| 2026-05-24 | What A.I. Philanthropists Can Learn From the Gilded Age | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-05-25 | [link](https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html) |
+| 2026-05-24 | Pope Leo Warns of A.I. Risks in His First Papal Encyclical | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/video/world/europe/100000010924143/pope-leo-ai-encyclical-risks.html) |
+| 2026-05-24 | Move Over, Private Equity. It’s Great to Be a Banker Again. | NYT · Business | Business | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/banks-deals-profits.html) |
+| 2026-05-24 | Main Takeaways From Pope Leo’s Encyclical on A.I. | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/us/pope-leo-encyclical-highlights.html) |
+| 2026-05-24 | One Job That Is Growing in the A.I. Era? Cybersecurity Experts. | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/24/technology/ai-cybersecurity-jobs.html) |
+| 2026-05-24 | As A.I. Fever Rises in Silicon Valley, Pope Leo Has a Few Words | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/technology/pope-ai-silicon-valley.html) |
+| 2026-05-24 | To A.I. Executives, We’re All Just ‘Meat Computers’ | NYT · AI | AI | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/business/meat-computer-brain-artificial-intelligence.html) |
+| 2026-05-24 | Iran Is Trolling Us and We’re Not Doing Anything About It | NYT · AI | AI | opinion | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/opinion/iran-trolling-propaganda.html) |
+| 2026-05-24 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
+| 2026-05-24 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
+| 2026-05-24 | Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html) |
+| 2026-05-24 | Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models | NYT · Technology | Technology | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html) |
+| 2026-05-24 | Giving Workers a Stake in A.I. Gains Traction | NYT · Business | Business | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html) |
+| 2026-05-24 | SpaceX, OpenAI and Anthropic Race to Go Public | NYT · Business | Business | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html) |
+| 2026-05-24 | A Democrat Took on Red Sox Ownership in an Ad. A Network Pulled it. | NYT · Politics | Politics | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/us/politics/platner-ad-red-sox-midterms.html) |
+| 2026-05-24 | Trump Administration Chips Away at Last Traces of Broad Inquiry Into Jan. 6 | NYT · Politics | Politics | news | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/us/politics/trump-prosecutors-jan-6.html) |
+| 2026-05-24 | Weekly Update 505 | Troy Hunt · Security & Privacy | Security | tech | 2026-05-24 | [link](https://www.troyhunt.com/weekly-update-505/) |
+| 2026-05-24 | Quoting Armin Ronacher | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-24 | [link](https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything) |
+| 2026-05-24 | datasette-agent 0.1a4 | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-24 | [link](https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything) |
+| 2026-05-24 | Why Steve Kerr Stayed With the Warriors | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-24 | [link](https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry) |
+| 2026-05-24 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-23 | Texas woman arrested for Facebook post about town water quality | HN | Technology | tech | 2026-05-23 | [link](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality) |
 | 2026-05-23 | Time to talk about my writerdeck | HN | Technology | tech | 2026-05-23 | [link](https://veronicaexplains.net/my-first-writerdeck/) |
 | 2026-05-23 | Microsoft open-sources “the earliest DOS source code discovered to date” | HN | Technology | tech | 2026-05-23 | [link](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/) |
@@ -1274,26 +1315,26 @@
 | 2026-04-21 | A Roblox cheat and one AI tool brought down Vercel's platform | HN | Technology | tech | 2026-04-21 | [link](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform) |
 | 2026-04-21 | Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return | HN | Technology | tech | 2026-04-21 | [link](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/) |
 | 2026-04-21 | Original GrapheneOS responses to WIRED fact checker | HN | Technology | tech | 2026-04-21 | [link](https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker) |
-| 2026-04-21 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
-| 2026-04-21 | UK Institute Is Hunting for Dangers Lurking in AI | NYT · AI | AI | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html) |
-| 2026-04-21 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
-| 2026-04-21 | What A.I. Philanthropists Can Learn From the Gilded Age | NYT · AI | AI | opinion | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html) |
-| 2026-04-21 | Graduating Into A.I. Pessimism | NYT · AI | AI | opinion | 2026-05-23 | [link](https://www.nytimes.com/video/opinion/100000010918890/graduating-into-ai-pessimism.html) |
-| 2026-04-21 | A.I. Is a Job Creator | NYT · AI | AI | opinion | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/opinion/ai-job-crisis-goldman-sachs.html) |
-| 2026-04-21 | Move Over, Private Equity. It’s Great to Be a Banker Again. | NYT · Business | Business | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/banks-deals-profits.html) |
-| 2026-04-21 | Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models | NYT · Technology | Technology | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html) |
-| 2026-04-21 | Musk’s SpaceX Goals Shift Ahead of Its I.P.O. | NYT · AI | AI | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html) |
-| 2026-04-21 | SpaceX, OpenAI and Anthropic Race to Go Public | NYT · Business | Business | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html) |
-| 2026-04-21 | As a Doctor, I Can Understand the Allure of ChatGPT | NYT · AI | AI | opinion | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/opinion/doctor-ai-chatgpt.html) |
-| 2026-04-21 | After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer | NYT · Technology | Technology | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html) |
-| 2026-04-21 | A.I. Is Eliminating Jobs on Wall Street | NYT · AI | AI | news | 2026-04-28 | [link](https://www.nytimes.com/2026/04/21/business/ai-job-cuts-wall-street.html) |
-| 2026-04-21 | Sundar Pichai Understands Why People Are Anxious About A.I. | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html) |
-| 2026-04-21 | Giving Workers a Stake in A.I. Gains Traction | NYT · Business | Business | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html) |
-| 2026-04-21 | CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran | NYT · Economy | Economy | news | 2026-05-12 | [link](https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html) |
-| 2026-04-21 | White House Approves $9 Billion for Spy Agencies to Catch Up on A.I. | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html) |
-| 2026-04-21 | It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too. | NYT · Your Money | Your Money | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html) |
-| 2026-04-21 | Trump Administration Chips Away at Last Traces of Broad Inquiry Into Jan. 6 | NYT · Politics | Politics | news | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/us/politics/trump-prosecutors-jan-6.html) |
-| 2026-04-21 | How Prediction Markets and Crypto Firms Steamrolled a Watchdog Agency | NYT · U.S. | U.S. | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html) |
+| 2026-04-21 | The Consequences of SpaceX’s Latest A.I. Moonshot | NYT · DealBook | DealBook | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/business/dealbook/spacex-ai-cursor.html) |
+| 2026-04-21 | Coinbase and Gemini Accused of Illegal Gambling in N.Y. Lawsuits | NYT · U.S. | U.S. | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/nyregion/coinbase-crypto-prediction-markets-lawsuit.html) |
+| 2026-04-21 | Anthropic’s New A.I. Model Sets Off Global Alarms | NYT · Technology | Technology | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html) |
+| 2026-04-21 | For Frustrated G.O.P., Redistricting Fight Turns to Florida and the Courtroom | NYT · U.S. | U.S. | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/us/redistricting-republicans-democrats-florida-virginia.html) |
+| 2026-04-21 | A $440,000 Breast Reduction: How Doctors Cashed In on a Consumer Protection Law | NYT · Politics | Politics | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/us/politics/doctors-insurers-arbitration.html) |
+| 2026-04-21 | Pace of N.I.H. Funding Slows Further in Trump’s Second Year | NYT · Technology | Technology | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/science/trump-nih-funding-research.html) |
+| 2026-04-21 | Today, In Short | NYT · U.S. | U.S. | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/briefing/today-in-short.html) |
+| 2026-04-21 | David Scott, Longtime Georgia Congressman, Dies at 80 | NYT · Politics | Politics | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/us/politics/david-scott-dead-georgia-congress.html) |
+| 2026-04-21 | How the Southern Poverty Law Center Drew the Ire of Conservatives | NYT · U.S. | U.S. | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/us/southern-poverty-law-center-doj.html) |
+| 2026-04-21 | Mars or the Moon or A.I.? Elon Musk’s Changing Goals for SpaceX. | NYT · Technology | Technology | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html) |
+| 2026-04-21 | Anthropic’s Leaked Code Tests Copyright Challenges in A.I. Era | NYT · Technology | Technology | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/technology/anthropic-code-leak-copyright.html) |
+| 2026-04-21 | Stocks Rise as Investors Weigh Cease-Fire Extension | NYT · Business | Business | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/business/oi-gas-stocks-iran.html) |
+| 2026-04-21 | Trump’s Fed Pick Faces Tough Task Shedding ‘Sock Puppet’ Label | NYT · Business | Business | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/business/trumps-warsh-fed-sock-puppet.html) |
+| 2026-04-21 | Making an Omelet Without Breaking the Bank | NYT · U.S. | U.S. | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/headway/newsletter-eggs-cost-economy.html) |
+| 2026-04-21 | Devin Nunes Departs Trump Media After 4 Years as C.E.O. | NYT · Business | Business | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/21/business/devin-nunes-leaves-trump-media-ceo.html) |
+| 2026-04-21 | 4 Drugs That May Increase Your Dementia Risk | NYT · U.S. | U.S. | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/well/mind/medications-dementia-risk-increase.html) |
+| 2026-04-21 | Democrats Win Big in Election Map Fight, and Influencers Push Nicotine as a Health Hack | NYT · U.S. | U.S. | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/podcasts/the-headlines/virginia-referendum-influencers-nicotine.html) |
+| 2026-04-21 | ‘The Rich Don’t Play by the Rules. So Why Should I?’ | NYT · Opinion | Opinion | opinion | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/opinion/shoplifting-political-protest-microlooting-whole-foods.html) |
+| 2026-04-21 | Republicans Had an Earth Day Plan to Limit Species Protections. It Flopped. | NYT · Energy & Environment | Energy & Environment | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/climate/house-vote-endangered-species-earth-day.html) |
+| 2026-04-21 | There’s Another Reason Gen Z Can’t Find Work | NYT · Opinion | Opinion | opinion | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/opinion/gen-z-job-ladder.html) |
 | 2026-04-21 | ‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty | Krebs on Security · Security & Privacy | Security | tech | 2026-04-21 | [link](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/) |
 | 2026-04-21 | OpenAI releases Codex ‘Chronicle’ feature for enhancing context | Superpower Daily · Tech & Engineering | Technology | tech | 2026-04-21 | [link](https://www.superpowerdaily.com/p/openai-releases-codex-chronicle-feature-for-enhancing-context) |
 | 2026-04-21 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
