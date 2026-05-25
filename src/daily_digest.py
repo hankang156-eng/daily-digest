@@ -1268,6 +1268,20 @@ def _badge(text, bg="#eeeeee", color="#333333"):
     )
 
 
+def _collapsible_block(label, text):
+    """A tap-to-expand <details> block (collapsed by default). HTML output only."""
+    if not text:
+        return ""
+    return (
+        '<details style="margin-top:6px;margin-left:24px">'
+        '<summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">'
+        f'{_html_escape(label)}</summary>'
+        '<div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">'
+        f'{_html_escape(text)}</div>'
+        '</details>'
+    )
+
+
 def _article_row(article, show_score=False):
     outlet_colors = {
         "NYT": ("#111111", "#ffffff"),
@@ -1397,21 +1411,11 @@ def _article_row_content(article, show_score=False):
             f'{_html_escape(reason or "")}</div>'
         )
     abstract_text = article.get("abstract")
-    abstract = ""
-    if abstract_text:
-        abstract = (
-            f'<div style="font-size:12px;color:#555;line-height:1.45;margin-top:6px;margin-left:24px">'
-            f'<strong>Abstract:</strong> {_html_escape(abstract_text)}</div>'
-        )
+    abstract = _collapsible_block("Abstract:", abstract_text)
     overview_text = article.get("discussion_overview") or article.get("article_overview")
-    overview = ""
-    if overview_text:
-        model_name = article.get("overview_model") or ""
-        overview_label = f"Overview (Model: {model_name}):" if model_name else "Overview:"
-        overview = (
-            f'<div style="font-size:12px;color:#555;line-height:1.45;margin-top:6px;margin-left:24px">'
-            f'<strong>{_html_escape(overview_label)}</strong> {_html_escape(overview_text)}</div>'
-        )
+    model_name = article.get("overview_model") or ""
+    overview_label = f"Overview (Model: {model_name}):" if model_name else "Overview:"
+    overview = _collapsible_block(overview_label, overview_text)
     return (
         f'<a href="{_html_escape(article.get("url", "#"))}" style="color:#1a1a2e;font-size:14px;'
         f'text-decoration:none;line-height:1.45;font-weight:500" target="_blank">'
