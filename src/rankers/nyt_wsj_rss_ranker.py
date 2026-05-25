@@ -8,6 +8,7 @@ import csv
 import datetime as dt
 import json
 import logging
+import os
 import re
 from dataclasses import dataclass, field
 from difflib import SequenceMatcher
@@ -122,10 +123,51 @@ class Candidate:
     selected: bool = False
     exclusion_reason: str = ""
     publications: set[str] = field(default_factory=set)
+    word_count: int = 0
+    abstract: str = ""
+    prominence: float = 0.0
+
+
+# --- NYT Archive API (historical backfill source) ---------------------------
+NYT_ARCHIVE_URL = "https://api.nytimes.com/svc/archive/v1/{year}/{month}.json"
+ARCHIVE_CACHE_DIR = REPO_ROOT / "output" / "ranker_diagnostics" / "nyt_archive"
+# Use Archive as the NYT source only when the news date is older than this many
+# days (recent dates use live RSS, which is fresher than the Archive index).
+ARCHIVE_RECENCY_DAYS = 3
+ARCHIVE_KEEP_MATERIAL = {"News", "Op-Ed", "News Analysis", "Editorial"}
+READING_WPM = 230
+# Archive section_name / subsection_name (lowercased) -> (ranker section, category)
+ARCHIVE_SECTION_TO_RANKER = {
+    "technology": ("Technology", "Technology / AI"),
+    "artificial intelligence": ("Artificial Intelligence", "Technology / AI"),
+    "business": ("Business", "Business / Economy / Markets"),
+    "business day": ("Business", "Business / Economy / Markets"),
+    "dealbook": ("DealBook", "Business / Economy / Markets"),
+    "economy": ("Economy", "Business / Economy / Markets"),
+    "your money": ("Your Money", "Wellness / Personal finance / Personal tech"),
+    "climate": ("Energy & Environment", "Climate / Energy / Infrastructure"),
+    "opinion": ("Opinion", "Opinion / Analysis"),
+    "politics": ("Politics", "Politics / U.S."),
+    "u.s.": ("U.S.", "Politics / U.S."),
+    "world": ("U.S.", "Politics / U.S."),
+    "science": ("Technology", "Technology / AI"),
+    "health": ("Ask Well", "Wellness / Personal finance / Personal tech"),
+}
 
 
 def get_target_date(days_back: int = 1) -> dt.date:
     return dt.date.today() - dt.timedelta(days=days_back)
+
+
+def _reading_minutes(words: int) -> int:
+    return max(1, round(words / READING_WPM)) if words else 0
+
+
+def _map_archive_section(section_name: str, subsection: str) -> tuple[str, str]:
+    for probe in ((subsection or "").lower(), (section_name or "").lower()):
+        if probe in ARCHIVE_SECTION_TO_RANKER:
+            return ARCHIVE_SECTION_TO_RANKER[probe]
+    return ("U.S.", "General")
 
 
 def clean_text(value: str) -> str:
@@ -324,6 +366,91 @@ def classify(candidate: Candidate, topic_hint: str) -> None:
     candidate.reading_mode = "Read deeply" if candidate.score >= 55 else "Skim" if candidate.score >= 35 else "Save for weekly review"
 
 
+def _load_archive_month(year: int, month: int, api_key: str) -> list[dict[str, Any]] | None:
+    cache_path = ARCHIVE_CACHE_DIR / f"{year:04d}-{month:02d}.json"
+    if cache_path.exists():
+        try:
+            return json.loads(cache_path.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+    if not HAS_REQUESTS or not api_key:
+        return None
+    try:
+        response = requests.get(
+            NYT_ARCHIVE_URL.format(year=year, month=month),
+            params={"api-key": api_key}, timeout=60,
+        )
+        response.raise_for_status()
+        docs = (response.json().get("response") or {}).get("docs") or []
+    except Exception as exc:
+        logging.warning("[Archive] %04d-%02d fetch failed: %s", year, month, exc)
+        return None
+    today = dt.date.today()
+    if (year, month) != (today.year, today.month):  # cache only complete past months
+        ARCHIVE_CACHE_DIR.mkdir(parents=True, exist_ok=True)
+        cache_path.write_text(json.dumps(docs), encoding="utf-8")
+    return docs
+
+
+def _archive_prominence(doc: dict[str, Any]) -> float:
+    if (doc.get("print_section") or "").upper() != "A":
+        return 0.0
+    try:
+        page = int(doc.get("print_page") or 0)
+    except (TypeError, ValueError):
+        return 0.0
+    if page == 1:
+        return 10.0
+    if page <= 3:
+        return 6.0
+    if page <= 6:
+        return 3.0
+    return 0.0
+
+
+def archive_candidates(news_date: dt.date, api_key: str) -> list[Candidate]:
+    docs = _load_archive_month(news_date.year, news_date.month, api_key)
+    if not docs:
+        return []
+    out: list[Candidate] = []
+    for doc in docs:
+        if (doc.get("type_of_material") or "") not in ARCHIVE_KEEP_MATERIAL:
+            continue
+        try:
+            if dt.date.fromisoformat((doc.get("pub_date") or "")[:10]) != news_date:
+                continue
+        except ValueError:
+            continue
+        title = clean_text((doc.get("headline") or {}).get("main") or "")
+        url = (doc.get("web_url") or "").strip()
+        if not title or not url:
+            continue
+        section, category = _map_archive_section(doc.get("section_name") or "", doc.get("subsection_name") or "")
+        abstract = clean_text(doc.get("abstract") or doc.get("snippet") or "")
+        try:
+            word_count = int(doc.get("word_count") or 0)
+        except (TypeError, ValueError):
+            word_count = 0
+        candidate = Candidate(
+            title=title,
+            canonical_url=canonicalize_url(url),
+            original_url=url,
+            publication="NYT",
+            sections=[section],
+            published_date=news_date.isoformat(),
+            author=clean_text((doc.get("byline") or {}).get("original") or ""),
+            summary=abstract,
+            tags=[k.get("value", "") for k in (doc.get("keywords") or []) if k.get("value")][:8],
+            category=category,
+            publications={"NYT"},
+            word_count=word_count,
+            abstract=abstract,
+            prominence=_archive_prominence(doc),
+        )
+        out.append(candidate)
+    return out
+
+
 def score_candidate(candidate: Candidate, target_date: dt.date) -> None:
     section = candidate.sections[0] if candidate.sections else ""
     section_score = max(SECTION_WEIGHTS.get(s, 10) for s in candidate.sections or [section])
@@ -346,6 +473,7 @@ def score_candidate(candidate: Candidate, target_date: dt.date) -> None:
         "cross_section": cross,
         "source_differentiation": differentiation,
         "opinion": opinion_penalty,
+        "prominence": candidate.prominence,
     }
     candidate.score = round(sum(candidate.score_breakdown.values()), 2)
     classify(candidate, topic_hint)
@@ -401,7 +529,7 @@ def candidate_to_article(candidate: Candidate) -> dict[str, Any]:
     source = candidate.publication
     section = max(candidate.sections, key=lambda item: SECTION_WEIGHTS.get(item, 10)) if candidate.sections else source
     section_label = SECTION_LABELS.get(section, section)
-    return {
+    article = {
         "title": candidate.title,
         "url": candidate.original_url,
         "source": source,
@@ -416,6 +544,13 @@ def candidate_to_article(candidate: Candidate) -> dict[str, Any]:
         "reason": candidate.reason,
         "reading_mode": candidate.reading_mode,
     }
+    # Archive-sourced items carry word_count + abstract inline (no extra API calls).
+    if candidate.word_count:
+        article["word_count"] = candidate.word_count
+        article["reading_time_minutes"] = _reading_minutes(candidate.word_count)
+    if candidate.abstract:
+        article["abstract"] = candidate.abstract
+    return article
 
 
 def write_outputs(selected: list[Candidate], candidates: list[Candidate], target_date: dt.date, output_dir: Path) -> None:
@@ -471,30 +606,50 @@ def run_ranker(
     include_wsj: bool = True,
     debug: bool = False,
     write_files: bool = True,
+    news_date: dt.date | None = None,
 ) -> dict[str, Any]:
     logging.basicConfig(level=logging.DEBUG if debug else logging.INFO, format="%(message)s")
     target_date = target_date or get_target_date(days_back)
+    # The digest's NYT news date is the day after the content date (see digest_date_for).
+    news_date = news_date or (target_date + dt.timedelta(days=1))
     out_dir = Path(output_dir)
     config = load_config()
-    feeds = config.get("feeds", DEFAULT_FEEDS)
-    if not include_nyt:
-        feeds = [feed for feed in feeds if feed.get("publication") != "NYT"]
-    if not include_wsj:
-        feeds = [feed for feed in feeds if feed.get("publication") != "WSJ"]
-    stats = {"feeds_fetched": 0, "feed_failures": 0, "raw_articles": 0}
     suppressed = read_suppressed(out_dir)
-    raw: list[Candidate] = []
-    for feed in feeds:
-        raw.extend(fetch_feed(feed, stats))
-    stats["raw_articles"] = len(raw)
+    stats = {"feeds_fetched": 0, "feed_failures": 0, "raw_articles": 0}
+
+    api_key = os.environ.get("NYT_API_KEY")
+    use_archive = (
+        include_nyt and bool(api_key)
+        and (dt.date.today() - news_date).days > ARCHIVE_RECENCY_DAYS
+    )
+
+    if use_archive:
+        raw = archive_candidates(news_date, api_key)
+        stats["raw_articles"] = len(raw)
+        stats["source"] = "archive"
+        print(f"NYT source: Archive ({news_date.isoformat()})")
+        print(f"NYT archive articles: {len(raw)}")
+    else:
+        feeds = config.get("feeds", DEFAULT_FEEDS)
+        if not include_nyt:
+            feeds = [feed for feed in feeds if feed.get("publication") != "NYT"]
+        if not include_wsj:
+            feeds = [feed for feed in feeds if feed.get("publication") != "WSJ"]
+        raw = []
+        for feed in feeds:
+            raw.extend(fetch_feed(feed, stats))
+        stats["raw_articles"] = len(raw)
+        stats["source"] = "rss"
+        print(f"NYT source: RSS")
+        print(f"NYT feeds fetched: {stats['feeds_fetched']}")
+        print(f"NYT feed failures: {stats['feed_failures']}")
+
     candidates = [item for item in merge_candidates(raw) if item.canonical_url not in suppressed]
     for item in candidates:
         score_candidate(item, target_date)
     selected = select_candidates(candidates, max_links)
     if write_files and (stats["raw_articles"] or candidates):
         write_outputs(selected, candidates, target_date, out_dir)
-    print(f"NYT feeds fetched: {stats['feeds_fetched']}")
-    print(f"NYT feed failures: {stats['feed_failures']}")
     print(f"NYT raw articles: {stats['raw_articles']}")
     print(f"NYT after dedupe: {len(candidates)}")
     print(f"NYT selected: {len(selected)}")

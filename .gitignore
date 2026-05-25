@@ -9,6 +9,7 @@ hn_archive_data.json
 dd_archive_data.json
 digest.log
 output/blog_cache.json
+output/ranker_diagnostics/nyt_archive/
 data/digest_archives/digest.log
 data/reddit/audit_outputs/saved_posts_public_info.json
 data/reddit/audit_outputs/subreddit_metadata.json

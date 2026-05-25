@@ -85,9 +85,13 @@ bash scripts/run_digest.sh --model gemini --model-id gemini-3.1-flash-lite
 
 Overviews are cached per `provider|model|article` in `output/ranker_diagnostics/article_overview_cache.json`, so re-running a date with the same provider makes no API calls. Bump `OVERVIEW_CACHE_VERSION` in `src/daily_digest.py` when changing the prompt or generation params so stale entries are not reused.
 
+### NYT source: live RSS vs Archive backfill
+
+Recent dates use **live NYT RSS** for article selection. For **historical backfill** (news date older than ~3 days), the ranker switches to the **NYT Archive API** as the source, so the digest reflects what was actually published on that date — and `word_count` + `abstract` come from the same Archive call (no extra requests). Archive months are cached under `output/ranker_diagnostics/nyt_archive/` (gitignored). Requires `NYT_API_KEY`; without it, backfill falls back to live RSS (current articles).
+
 ### NYT word counts
 
-When `NYT_API_KEY` is set, NYT articles get accurate word counts and reading times from the NYT Article Search API instead of scraping (NYT returns 403 to scrapers). Without the key, NYT reading stats are simply skipped. (WSJ is no longer fetched.)
+For recent (RSS-sourced) NYT articles, word counts and reading times come from the NYT Article Search API instead of scraping (NYT returns 403 to scrapers). Without the key, NYT reading stats are simply skipped. (WSJ is no longer fetched.)
 
 ### Dates
 
