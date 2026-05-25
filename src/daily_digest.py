@@ -241,24 +241,27 @@ def parse_args(argv=None):
         help="User input date in YYYY-MM-DD; digest content date becomes previous day.",
     )
     parser.add_argument(
-        "--summary-provider",
+        "--model", "--summary-provider",
+        dest="summary_provider",
         choices=SUMMARY_PROVIDERS,
         default="none",
         help=(
-            "Provider for NYT/WSJ and blog article overviews. Default: none (no LLM "
-            "summaries). Pass --summary-provider gemini to generate summaries with "
-            "gemini-3.5-flash (falls back to gemini-3.1-flash-lite)."
+            "Model family for article overviews. Default: none (abstract only, no LLM). "
+            "Pass --model gemini to generate overviews with gemini-3.5-flash (falls back "
+            "to gemini-3.1-flash-lite); claude-sonnet / claude-opus also available."
         ),
     )
     parser.add_argument(
-        "--summary-model",
-        help="Override model id for the selected summary provider.",
+        "--model-id", "--summary-model",
+        dest="summary_model",
+        help="Override the exact model id for the selected --model family.",
     )
     parser.add_argument(
-        "--summary-nyt-sections",
+        "--sections", "--summary-nyt-sections",
+        dest="summary_nyt_sections",
         help=(
-            "For claude-sonnet/claude-opus: comma-separated NYT/WSJ digest sections "
-            "to summarize with Claude, or 'all'. Other NYT/WSJ sections use Gemini."
+            "For claude-sonnet/claude-opus: comma-separated NYT digest sections to "
+            "summarize with Claude, or 'all'. Other NYT sections use Gemini."
         ),
     )
     return parser.parse_args(argv)
@@ -621,8 +624,23 @@ def _write_json_file(path, value):
         print(f"  [Summaries] Error writing cache {path.name}: {e}")
 
 
-# Bump when generation params/prompt change so stale cached overviews are not reused.
-OVERVIEW_CACHE_VERSION = "v2"
+# Bump when generation params/prompt/cache-format change so stale entries are not reused.
+OVERVIEW_CACHE_VERSION = "v3"
+
+MODEL_DISPLAY_NAMES = {
+    "gemini-3.5-flash": "Gemini 3.5 Flash",
+    "gemini-3.1-flash-lite": "Gemini 3.1 Flash-Lite",
+    "claude-sonnet-4-6": "Claude Sonnet 4.6",
+    "claude-opus-4-7": "Claude Opus 4.7",
+}
+
+
+def _model_display_name(model):
+    if not model:
+        return ""
+    if model in MODEL_DISPLAY_NAMES:
+        return MODEL_DISPLAY_NAMES[model]
+    return model.replace("-", " ").title()
 
 
 def _article_overview_cache_key(article, provider, model):
@@ -713,27 +731,27 @@ def _gemini_generate(prompt, model, api_key):
 def _call_gemini_summary(prompt, model):
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
-        return ""
+        return "", ""
     models = [model]
     if GEMINI_FALLBACK_MODEL not in models:
         models.append(GEMINI_FALLBACK_MODEL)
     last_error = None
     for index, candidate in enumerate(models):
         try:
-            return _gemini_generate(prompt, candidate, api_key)
+            return _gemini_generate(prompt, candidate, api_key), candidate
         except Exception as e:
             last_error = e
             if index < len(models) - 1:
                 print(f"  [Summaries] gemini {candidate} unavailable ({e}); falling back to {models[index + 1]}.")
     if last_error:
         raise last_error
-    return ""
+    return "", ""
 
 
 def _call_claude_summary(prompt, model):
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
-        return ""
+        return "", ""
     response = requests.post(
         "https://api.anthropic.com/v1/messages",
         headers={
@@ -751,18 +769,19 @@ def _call_claude_summary(prompt, model):
     )
     response.raise_for_status()
     chunks = [part.get("text", "") for part in response.json().get("content", []) if part.get("type") == "text"]
-    return _clean_generated_overview(" ".join(chunks))
+    return _clean_generated_overview(" ".join(chunks)), model
 
 
 def generate_article_overview(article, provider, model):
+    """Return (overview_text, actual_model_id)."""
     if not HAS_REQUESTS:
-        return ""
+        return "", ""
     prompt = _article_overview_prompt(article)
     if provider == "gemini":
         return _call_gemini_summary(prompt, model)
     if provider in PREMIUM_SUMMARY_PROVIDERS:
         return _call_claude_summary(prompt, model)
-    return ""
+    return "", ""
 
 
 def enrich_article_overviews(data, config, settings=None, cache_path=None):
@@ -785,18 +804,21 @@ def enrich_article_overviews(data, config, settings=None, cache_path=None):
                 continue
             model = config.get("model") if provider == config.get("provider") else DEFAULT_SUMMARY_MODELS[provider]
             key = _article_overview_cache_key(article, provider, model)
-            if cache.get(key):
-                article["article_overview"] = cache[key]
+            entry = cache.get(key)
+            if entry:
+                article["article_overview"] = entry.get("text", "")
+                article["overview_model"] = _model_display_name(entry.get("model"))
                 cached += 1
                 continue
             try:
-                overview = generate_article_overview(article, provider, model)
+                overview, used_model = generate_article_overview(article, provider, model)
             except Exception as e:
                 print(f"  [Summaries] {provider} error for {article.get('title', '')[:70]}: {e}")
-                overview = ""
+                overview, used_model = "", ""
             if overview:
                 article["article_overview"] = overview
-                cache[key] = overview
+                article["overview_model"] = _model_display_name(used_model)
+                cache[key] = {"text": overview, "model": used_model}
                 generated += 1
                 changed = True
             else:
@@ -1367,9 +1389,11 @@ def _article_row_content(article, show_score=False):
     overview_text = article.get("discussion_overview") or article.get("article_overview")
     overview = ""
     if overview_text:
+        model_name = article.get("overview_model") or ""
+        overview_label = f"Overview (Model: {model_name}):" if model_name else "Overview:"
         overview = (
             f'<div style="font-size:12px;color:#555;line-height:1.45;margin-top:6px;margin-left:24px">'
-            f'<strong>Overview:</strong> {_html_escape(overview_text)}</div>'
+            f'<strong>{_html_escape(overview_label)}</strong> {_html_escape(overview_text)}</div>'
         )
     return (
         f'<a href="{_html_escape(article.get("url", "#"))}" style="color:#1a1a2e;font-size:14px;'
@@ -1555,7 +1579,9 @@ def _md_articles(articles, numbered=False, show_score=False):
             lines.append(f"   - **Abstract:** {_md_escape(article['abstract'])}")
         overview_text = article.get("discussion_overview") or article.get("article_overview")
         if overview_text:
-            lines.append(f"   - **Overview:** {_md_escape(overview_text)}")
+            model_name = article.get("overview_model") or ""
+            overview_label = f"Overview (Model: {model_name}):" if model_name else "Overview:"
+            lines.append(f"   - **{overview_label}** {_md_escape(overview_text)}")
         if article.get("reason") or article.get("reading_mode"):
             detail = " — ".join(part for part in (article.get("reading_mode"), article.get("reason")) if part)
             lines.append(f"   - {_md_escape(detail)}")

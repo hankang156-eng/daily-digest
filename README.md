@@ -52,16 +52,16 @@ cp .env.example .env
 
 | Key | Used for |
 |-----|----------|
-| `GEMINI_API_KEY` | LLM article overviews when `--summary-provider gemini` |
+| `GEMINI_API_KEY` | LLM article overviews when `--model gemini` |
 | `NYT_API_KEY` | NYT article word counts via the Article Search API (free key from developer.nytimes.com) |
-| `ANTHROPIC_API_KEY` | Overviews when `--summary-provider claude-sonnet` / `claude-opus` |
+| `ANTHROPIC_API_KEY` | Overviews when `--model claude-sonnet` / `claude-opus` |
 
 ### Article overviews
 
-NYT items always show their **Abstract** (the RSS description, free, no LLM). The richer **Overview** is LLM-generated and **opt-in**: by default no LLM summaries are generated. Opt in with `--summary-provider gemini`, which uses `gemini-3.5-flash` (falls back to `gemini-3.1-flash-lite` on rate limits, with retry/backoff and throttling):
+NYT items always show their **Abstract** (the RSS description, free, no LLM). The richer **Overview** is LLM-generated and **opt-in**: by default no LLM summaries are generated. Opt in with `--model gemini`, which uses `gemini-3.5-flash` (falls back to `gemini-3.1-flash-lite` on rate limits, with retry/backoff and throttling):
 
 ```bash
-bash scripts/run_digest.sh --summary-provider gemini
+bash scripts/run_digest.sh --model gemini
 ```
 
 Summary behavior by provider:
@@ -70,17 +70,17 @@ Summary behavior by provider:
 |----------|-----|------------------|
 | `none` (default) | Abstract only | none |
 | `gemini` | Abstract + Gemini Overview | Gemini Overview |
-| `claude-sonnet` / `claude-opus` | Abstract + Claude Overview for `--summary-nyt-sections` (others get Gemini Overview) | Claude Overview |
+| `claude-sonnet` / `claude-opus` | Abstract + Claude Overview for `--sections` (others get Gemini Overview) | Claude Overview |
 
 ```bash
-bash scripts/run_digest.sh --summary-provider claude-sonnet --summary-nyt-sections "Technology / AI,Opinion / Analysis"
-bash scripts/run_digest.sh --summary-provider claude-opus --summary-nyt-sections all
+bash scripts/run_digest.sh --model claude-sonnet --sections "Technology / AI,Opinion / Analysis"
+bash scripts/run_digest.sh --model claude-opus --sections all
 ```
 
 Override the provider's default model when needed:
 
 ```bash
-bash scripts/run_digest.sh --summary-provider gemini --summary-model gemini-3.1-flash-lite
+bash scripts/run_digest.sh --model gemini --model-id gemini-3.1-flash-lite
 ```
 
 Overviews are cached per `provider|model|article` in `output/ranker_diagnostics/article_overview_cache.json`, so re-running a date with the same provider makes no API calls. Bump `OVERVIEW_CACHE_VERSION` in `src/daily_digest.py` when changing the prompt or generation params so stale entries are not reused.
