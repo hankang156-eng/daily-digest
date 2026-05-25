@@ -215,6 +215,12 @@ def get_yesterday():
     return datetime.date.today() - datetime.timedelta(days=1)
 
 
+def digest_date_for(content_date):
+    # The digest represents the day after its content date: HN = yesterday's top,
+    # NYT = that day's news. Title, filenames, and archive labels use this date.
+    return content_date + datetime.timedelta(days=1)
+
+
 def content_date_from_user_input(value):
     try:
         input_date = datetime.date.fromisoformat(value)
@@ -278,12 +284,14 @@ def summary_config_from_args(args):
 
 
 def article_summary_provider(article, group, config):
-    provider = config.get("provider", "gemini")
+    provider = config.get("provider", "none")
     if provider == "none":
         return None
     if group == "blogs":
         return provider
     if group == "nyt_wsj":
+        # NYT always shows its RSS abstract (fill_nyt_abstracts); the LLM overview
+        # here is the richer, opt-in analytical summary shown alongside it.
         if provider == "gemini":
             return "gemini"
         sections = config.get("nyt_sections") or set()
@@ -613,10 +621,14 @@ def _write_json_file(path, value):
         print(f"  [Summaries] Error writing cache {path.name}: {e}")
 
 
+# Bump when generation params/prompt change so stale cached overviews are not reused.
+OVERVIEW_CACHE_VERSION = "v2"
+
+
 def _article_overview_cache_key(article, provider, model):
     key = article_key(article)
     title = (article.get("title") or "").strip().lower()
-    return f"{provider}|{model}|{key}|{title}"
+    return f"{OVERVIEW_CACHE_VERSION}|{provider}|{model}|{key}|{title}"
 
 
 def _article_overview_prompt(article):
@@ -673,7 +685,11 @@ def _gemini_generate(prompt, model, api_key):
             headers={"Content-Type": "application/json"},
             json={
                 "contents": [{"role": "user", "parts": [{"text": prompt}]}],
-                "generationConfig": {"temperature": 0.2, "maxOutputTokens": 220},
+                "generationConfig": {
+                    "temperature": 0.2,
+                    "maxOutputTokens": 800,
+                    "thinkingConfig": {"thinkingBudget": 0},
+                },
             },
             timeout=45,
         )
@@ -789,6 +805,19 @@ def enrich_article_overviews(data, config, settings=None, cache_path=None):
     if changed:
         _write_json_file(cache_path, cache)
     print(f"  [Summaries] Cached: {cached}; generated: {generated}; missing: {missing}.")
+    return data
+
+
+def fill_nyt_abstracts(data):
+    filled = 0
+    for article in data.get("nyt_wsj", []):
+        if article.get("abstract"):
+            continue
+        abstract = re.sub(r"\s+", " ", article.get("summary") or "").strip()
+        if abstract:
+            article["abstract"] = abstract
+            filled += 1
+    print(f"  [NYT abstracts] Filled: {filled}.")
     return data
 
 
@@ -1044,13 +1073,24 @@ def build_sections(data, settings):
 
 def _display_date(article):
     pub = article.get("date")
+    day = None
     if isinstance(pub, datetime.date):
+        day = pub
         label = pub.isoformat()
     elif pub:
         label = str(pub)
+        try:
+            day = datetime.date.fromisoformat(label[:10])
+        except ValueError:
+            day = None
     else:
         return ""
-    return f"latest from {label}" if article.get("is_fallback") else label
+    if article.get("is_fallback"):
+        return f"latest from {label}"
+    if article.get("outlet") == "NYT":
+        weekday = day.strftime("%a") if day else ""
+        return f"Published: {weekday}, {label}" if weekday else f"Published: {label}"
+    return label
 
 
 def _html_escape(value):
@@ -1317,6 +1357,13 @@ def _article_row_content(article, show_score=False):
             f'{": " if mode and reason else ""}'
             f'{_html_escape(reason or "")}</div>'
         )
+    abstract_text = article.get("abstract")
+    abstract = ""
+    if abstract_text:
+        abstract = (
+            f'<div style="font-size:12px;color:#555;line-height:1.45;margin-top:6px;margin-left:24px">'
+            f'<strong>Abstract:</strong> {_html_escape(abstract_text)}</div>'
+        )
     overview_text = article.get("discussion_overview") or article.get("article_overview")
     overview = ""
     if overview_text:
@@ -1327,7 +1374,7 @@ def _article_row_content(article, show_score=False):
     return (
         f'<a href="{_html_escape(article.get("url", "#"))}" style="color:#1a1a2e;font-size:14px;'
         f'text-decoration:none;line-height:1.45;font-weight:500" target="_blank">'
-        f'{_html_escape(article.get("title", ""))}</a>{badges}{score}{discuss}{date_note}{detail}{overview}'
+        f'{_html_escape(article.get("title", ""))}</a>{badges}{score}{discuss}{date_note}{detail}{abstract}{overview}'
     )
 
 
@@ -1441,7 +1488,8 @@ def write_digest_archive_page(path=DIGEST_ARCHIVE_PAGE):
 def generate_html(date, data, settings=None, archive_href="digest_archive.html"):
     settings = settings or DEFAULT_CONFIG["settings"]
     sections = build_sections(data, settings)
-    date_str = date.strftime("%A, %B %-d, %Y")
+    date_str = digest_date_for(date).strftime("%A, %B %-d, %Y")
+    fetched_str = datetime.datetime.now().strftime("%A, %b %d, %Y at %H:%M")
 
     html_doc = f"""<!DOCTYPE html>
 <html lang="en">
@@ -1457,13 +1505,14 @@ def generate_html(date, data, settings=None, archive_href="digest_archive.html")
 <tr><td style="background:#1a1a2e;border-radius:12px;padding:32px 36px">
   <div style="font-size:11px;color:rgba(255,255,255,.55);letter-spacing:.15em;text-transform:uppercase;margin-bottom:6px">Your Morning Read</div>
   <div style="font-size:30px;font-weight:800;color:#fff;line-height:1.1">{_html_escape(date_str)}</div>
+  <div style="font-size:12px;color:rgba(255,255,255,.6);margin-top:6px">Fetched: {_html_escape(fetched_str)}</div>
   <div style="font-size:14px;color:rgba(255,255,255,.5);margin-top:6px">Daily Digest</div>
   <div style="font-size:13px;margin-top:18px"><a href="{_html_escape(archive_href)}" style="color:rgba(255,255,255,.82);text-decoration:none;font-weight:700">Read past daily digests</a></div>
 </td></tr>
 <tr><td style="height:16px"></td></tr>
 <tr><td style="background:#fff;border-radius:12px;padding:28px 32px;box-shadow:0 1px 4px rgba(0,0,0,.06)">
-  {_section_block("🔶 Hacker News Top 16", sections["hn"], show_score=True, numbered=True)}
-  {_grouped_section_block("📰 NYT / WSJ Strategic Reading List", sections["nyt_wsj"], "topic_tag")}
+  {_section_block("🔶 Yesterday's Top HackerNews", sections["hn"], show_score=True, numbered=True)}
+  {_grouped_section_block("📰 NYT Strategic Reading List", sections["nyt_wsj"], "topic_tag")}
   {_section_block("🎓 MIT & Sloan Research", sections["research"], numbered=True)}
   {_section_block("📚 Blogs & Craft", sections["blogs"], numbered=True)}
   {_section_block("💼 LinkedIn - Rama's Activity", sections["linkedin"])}
@@ -1502,6 +1551,8 @@ def _md_articles(articles, numbered=False, show_score=False):
         date_note = f" · {_md_escape(_display_date(article))}" if _display_date(article) else ""
         prefix = f"{index}." if numbered else "-"
         lines.append(f"{prefix} {badge}[{title}]({url}){score}{discuss}{date_note}")
+        if article.get("abstract"):
+            lines.append(f"   - **Abstract:** {_md_escape(article['abstract'])}")
         overview_text = article.get("discussion_overview") or article.get("article_overview")
         if overview_text:
             lines.append(f"   - **Overview:** {_md_escape(overview_text)}")
@@ -1523,9 +1574,10 @@ def _md_grouped_articles(articles, group_key):
 def generate_markdown(date, data, settings=None):
     settings = settings or DEFAULT_CONFIG["settings"]
     sections = build_sections(data, settings)
-    date_str = date.strftime("%A, %B %-d, %Y")
+    date_str = digest_date_for(date).strftime("%A, %B %-d, %Y")
+    fetched_str = datetime.datetime.now().strftime("%A, %b %d, %Y at %H:%M")
 
-    parts = [f"# Daily Digest - {date_str}", "", "---", ""]
+    parts = [f"# Daily Digest - {date_str}", "", f"*Fetched: {fetched_str}*", "", "---", ""]
 
     def sec(heading, articles, numbered=False, score=False):
         if not articles:
@@ -1537,8 +1589,8 @@ def generate_markdown(date, data, settings=None):
             return []
         return [f"### {heading}", "", _md_grouped_articles(articles, group_key), ""]
 
-    parts += sec("🔶 Hacker News Top 16", sections["hn"], numbered=True, score=True)
-    parts += grouped_sec("📰 NYT / WSJ Strategic Reading List", sections["nyt_wsj"], "topic_tag")
+    parts += sec("🔶 Yesterday's Top HackerNews", sections["hn"], numbered=True, score=True)
+    parts += grouped_sec("📰 NYT Strategic Reading List", sections["nyt_wsj"], "topic_tag")
     parts += sec("🎓 MIT & Sloan Research", sections["research"], numbered=True)
     parts += sec("📚 Blogs & Craft", sections["blogs"], numbered=True)
     parts += sec("💼 LinkedIn - Rama's Activity", sections["linkedin"])
@@ -1860,9 +1912,10 @@ def _run_blog_ranker(date, settings):
 
 
 def github_pages_publish_files(date, settings, daily_html_dir=DAILY_HTML_DIR):
+    ddate = digest_date_for(date)
     files = [
-        str(Path("output") / "daily_html" / f"digest_{date.isoformat()}.html"),
-        str(Path("output") / "daily_md" / f"digest_{date.isoformat()}.md"),
+        str(Path("output") / "daily_html" / f"digest_{ddate.isoformat()}.html"),
+        str(Path("output") / "daily_md" / f"digest_{ddate.isoformat()}.md"),
         "index.html",
         "digest_archive.html",
         str(Path("data") / "hn" / "hn_archive.md"),
@@ -1924,7 +1977,7 @@ def main(target_date=None, summary_config=None):
     print("  [1/7] HackerNews...")
     hn = fetch_hackernews(n=int(settings.get("hn_digest_count", 16)), date=date, verbose=True)
 
-    print("  [2/7] NYT / WSJ ranker...")
+    print("  [2/7] NYT ranker...")
     nyt_wsj = _run_nyt_wsj_ranker(date, settings)
 
     print("  [3/7] Blog / research ranker...")
@@ -1943,6 +1996,7 @@ def main(target_date=None, summary_config=None):
     print("  [5/7] Article overviews...")
     summary_config = summary_config or {"provider": "none", "model": "", "nyt_sections": set()}
     enrich_article_overviews(data, summary_config, settings)
+    fill_nyt_abstracts(data)
 
     print("  [6/7] LinkedIn...")
     data["linkedin"] = fetch_linkedin_activity()
@@ -1950,8 +2004,9 @@ def main(target_date=None, summary_config=None):
     print("  [7/7] Rendering and archives...")
     publishable = _has_publishable_content(data)
 
-    html_path = DAILY_HTML_DIR / f"digest_{date.isoformat()}.html"
-    md_path = DAILY_MD_DIR / f"digest_{date.isoformat()}.md"
+    ddate = digest_date_for(date)
+    html_path = DAILY_HTML_DIR / f"digest_{ddate.isoformat()}.html"
+    md_path = DAILY_MD_DIR / f"digest_{ddate.isoformat()}.md"
     index_path = REPO_ROOT / "index.html"
     preserve_existing_outputs = (
         not publishable

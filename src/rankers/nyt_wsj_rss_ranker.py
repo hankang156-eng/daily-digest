@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Rank NYT and WSJ RSS items for the daily digest."""
+"""Rank NYT RSS items for the daily digest."""
 
 from __future__ import annotations
 
@@ -63,16 +63,6 @@ DEFAULT_FEEDS: list[dict[str, Any]] = [
     {"publication": "NYT", "section": "Artificial Intelligence", "category": "Technology / AI", "url": "", "section_url": "https://www.nytimes.com/spotlight/artificial-intelligence"},
     {"publication": "NYT", "section": "Opinion", "category": "Opinion / Analysis", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Opinion.xml", "section_url": "https://www.nytimes.com/section/opinion"},
     {"publication": "NYT", "section": "Sunday Opinion", "category": "Opinion / Analysis", "url": "https://rss.nytimes.com/services/xml/rss/nyt/sunday-review.xml", "section_url": "https://www.nytimes.com/section/opinion/sunday"},
-    {"publication": "WSJ", "section": "Business", "category": "Business / Economy / Markets", "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml", "section_url": "https://www.wsj.com/business"},
-    {"publication": "WSJ", "section": "Markets", "category": "Business / Economy / Markets", "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml", "section_url": "https://www.wsj.com/finance"},
-    {"publication": "WSJ", "section": "Economy", "category": "Business / Economy / Markets", "url": "https://feeds.a.dj.com/rss/WSJcomUSEconomy.xml", "section_url": "https://www.wsj.com/economy", "enabled": False},
-    {"publication": "WSJ", "section": "Technology", "category": "Technology / AI", "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml", "section_url": "https://www.wsj.com/tech"},
-    {"publication": "WSJ", "section": "Opinion", "category": "Opinion / Analysis", "url": "https://feeds.a.dj.com/rss/RSSOpinion.xml", "section_url": "https://www.wsj.com/news/opinion"},
-    {"publication": "WSJ", "section": "Deals / M&A", "category": "Business / Economy / Markets", "url": "", "section_url": "https://www.wsj.com/business/deals", "enabled": False},
-    {"publication": "WSJ", "section": "Heard on the Street", "category": "Opinion / Analysis", "url": "", "section_url": "https://www.wsj.com/news/heard-on-the-street", "enabled": False},
-    {"publication": "WSJ", "section": "Management / Workplace", "category": "Business / Economy / Markets", "url": "", "section_url": "https://www.wsj.com/business/management", "enabled": False},
-    {"publication": "WSJ", "section": "C-Suite", "category": "Business / Economy / Markets", "url": "", "section_url": "https://www.wsj.com/business/c-suite", "enabled": False},
-    {"publication": "WSJ", "section": "Energy / Climate", "category": "Climate / Energy / Infrastructure", "url": "", "section_url": "https://www.wsj.com/business/energy-oil", "enabled": False},
 ]
 
 SECTION_WEIGHTS = {
@@ -404,7 +394,7 @@ def executive_summary(selected: list[Candidate]) -> list[str]:
     for item in selected:
         clusters[item.topic_cluster] = clusters.get(item.topic_cluster, 0) + 1
     bullets = [f"{cluster}: {count} selected item{'s' if count != 1 else ''}." for cluster, count in sorted(clusters.items(), key=lambda kv: kv[1], reverse=True)[:6]]
-    return bullets or ["No NYT/WSJ articles matched the ranking criteria."]
+    return bullets or ["No NYT articles matched the ranking criteria."]
 
 
 def candidate_to_article(candidate: Candidate) -> dict[str, Any]:
@@ -432,7 +422,7 @@ def write_outputs(selected: list[Candidate], candidates: list[Candidate], target
     output_dir.mkdir(parents=True, exist_ok=True)
     md_path = output_dir / f"nyt_wsj_briefing_{target_date.isoformat()}.md"
     csv_path = output_dir / f"nyt_wsj_candidates_{target_date.isoformat()}.csv"
-    lines = [f"# NYT / WSJ Briefing - {target_date.isoformat()}", ""]
+    lines = [f"# NYT Briefing - {target_date.isoformat()}", ""]
     lines += ["## Executive Summary", ""]
     lines += [f"- {line}" for line in executive_summary(selected)]
     lines += ["", "## Selected Reading List", ""]
@@ -503,11 +493,11 @@ def run_ranker(
     selected = select_candidates(candidates, max_links)
     if write_files and (stats["raw_articles"] or candidates):
         write_outputs(selected, candidates, target_date, out_dir)
-    print(f"NYT/WSJ feeds fetched: {stats['feeds_fetched']}")
-    print(f"NYT/WSJ feed failures: {stats['feed_failures']}")
-    print(f"NYT/WSJ raw articles: {stats['raw_articles']}")
-    print(f"NYT/WSJ after dedupe: {len(candidates)}")
-    print(f"NYT/WSJ selected: {len(selected)}")
+    print(f"NYT feeds fetched: {stats['feeds_fetched']}")
+    print(f"NYT feed failures: {stats['feed_failures']}")
+    print(f"NYT raw articles: {stats['raw_articles']}")
+    print(f"NYT after dedupe: {len(candidates)}")
+    print(f"NYT selected: {len(selected)}")
     for rank, item in enumerate(selected[:20], 1):
         print(f"{rank:2}. {item.publication} {item.score:5.1f} - {item.title} ({item.reason})")
     return {
@@ -518,7 +508,7 @@ def run_ranker(
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Rank NYT and WSJ RSS articles.")
+    parser = argparse.ArgumentParser(description="Rank NYT RSS articles.")
     parser.add_argument("--max-links", type=int, default=20)
     parser.add_argument("--days-back", type=int, default=1)
     parser.add_argument("--date", type=str)

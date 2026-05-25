@@ -72,9 +72,13 @@ bash scripts/setup_launchagent.sh
 
 API keys live in a gitignored `.env` at the repo root (template: `.env.example`). `scripts/run_digest.sh` sources `.env` near the top, so both manual and scheduled (LaunchAgent) runs pick up keys without an `EnvironmentVariables` block in the plist. Relevant keys: `GEMINI_API_KEY`, `NYT_API_KEY`, `ANTHROPIC_API_KEY`.
 
-Article overviews default to **none** — no LLM summaries are generated unless the user passes `--summary-provider`. Opt in with `--summary-provider gemini` (model `gemini-3.5-flash`, automatic fallback to `gemini-3.1-flash-lite` on 429/503, with retry/backoff and a per-call throttle). The Claude providers (`claude-sonnet`, `claude-opus`) require `--summary-nyt-sections`.
+NYT items always show their RSS **abstract** (`fill_nyt_abstracts`, free, no LLM), rendered as "Abstract:". The richer LLM **"Overview:"** is opt-in via `--summary-provider`. Default is **none** (abstract only). With `gemini`: NYT and blogs get a Gemini overview (`gemini-3.5-flash`, fallback to `gemini-3.1-flash-lite` on 429/503, retry/backoff + per-call throttle). With `claude-sonnet`/`claude-opus` (requires `--summary-nyt-sections`): blogs and the listed NYT sections get Claude; other NYT sections fall back to Gemini. WSJ is no longer fetched (NYT-only ranker).
+
+Overviews are cached per `OVERVIEW_CACHE_VERSION|provider|model|url|title` in `output/ranker_diagnostics/article_overview_cache.json` — a full-result cache (a hit makes no API call). Re-running a date with the same provider costs nothing; switching providers only bills the newly requested entries. Bump `OVERVIEW_CACHE_VERSION` when changing the prompt or generation params so stale entries are not reused. The Gemini call sets `thinkingConfig.thinkingBudget=0` and `maxOutputTokens=800` (Gemini 3.x thinking tokens otherwise consume the budget and truncate output).
 
 NYT word counts come from the NYT Article Search API, not scraping (NYT returns 403 to the scraper). Filtering by `fq=web_url` returns zero results in this API version; instead the code derives a `q` query from the URL slug, searches, and exact-matches the returned `web_url` (see `_nyt_search_word_count`). Lookups are per-URL, throttled, cached, and degrade to scraping (then to nothing) when the key is missing or an article isn't found.
+
+The **digest date** (title, output filenames, archive labels) is the content date + 1 — the day the digest represents (HN = previous day's top, NYT = that day's news); see `digest_date_for`. The header also shows `Fetched:` = compile timestamp (always now, even for backfill). HN archive and `dd_archive` still key off the content date.
 
 ## Path Conventions
 

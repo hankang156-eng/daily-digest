@@ -116,12 +116,34 @@ class DailyDigestFormatTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "YYYY-MM-DD"):
             daily_digest.content_date_from_user_input("05/24/2026")
 
-    def test_summary_provider_defaults_to_gemini_and_can_be_disabled(self):
-        self.assertEqual(daily_digest.parse_args([]).summary_provider, "gemini")
+    def test_summary_provider_defaults_to_none_and_opts_in(self):
+        self.assertEqual(daily_digest.parse_args([]).summary_provider, "none")
         self.assertEqual(
-            daily_digest.parse_args(["--summary-provider", "none"]).summary_provider,
-            "none",
+            daily_digest.parse_args(["--summary-provider", "gemini"]).summary_provider,
+            "gemini",
         )
+
+    def test_nyt_uses_gemini_overview_when_opted_in_else_none(self):
+        gemini_cfg = {"provider": "gemini", "model": "gemini-3.5-flash", "nyt_sections": set()}
+        self.assertEqual(
+            daily_digest.article_summary_provider({"topic_tag": "Technology / AI"}, "nyt_wsj", gemini_cfg),
+            "gemini",
+        )
+        none_cfg = {"provider": "none", "nyt_sections": set()}
+        self.assertIsNone(
+            daily_digest.article_summary_provider({"topic_tag": "Technology / AI"}, "nyt_wsj", none_cfg)
+        )
+
+    def test_fill_nyt_abstracts_sets_abstract_field(self):
+        data = {"nyt_wsj": [
+            {"title": "A", "summary": "RSS abstract text."},
+            {"title": "B", "summary": "x", "abstract": "kept"},
+            {"title": "C", "summary": ""},
+        ]}
+        daily_digest.fill_nyt_abstracts(data)
+        self.assertEqual(data["nyt_wsj"][0]["abstract"], "RSS abstract text.")
+        self.assertEqual(data["nyt_wsj"][1]["abstract"], "kept")
+        self.assertNotIn("abstract", data["nyt_wsj"][2])
 
     def test_claude_summary_provider_requires_nyt_sections(self):
         with self.assertRaisesRegex(ValueError, "--summary-nyt-sections"):

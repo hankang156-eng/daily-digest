@@ -58,13 +58,19 @@ cp .env.example .env
 
 ### Article overviews
 
-By default **no LLM summaries are generated**. Opt in with `--summary-provider gemini`, which uses `gemini-3.5-flash` and automatically falls back to `gemini-3.1-flash-lite` on rate limits (with retry/backoff and throttling):
+NYT items always show their **Abstract** (the RSS description, free, no LLM). The richer **Overview** is LLM-generated and **opt-in**: by default no LLM summaries are generated. Opt in with `--summary-provider gemini`, which uses `gemini-3.5-flash` (falls back to `gemini-3.1-flash-lite` on rate limits, with retry/backoff and throttling):
 
 ```bash
 bash scripts/run_digest.sh --summary-provider gemini
 ```
 
-Use Claude Sonnet or Opus for all blog/research posts and selected NYT/WSJ digest sections. NYT/WSJ sections not listed fall back to Gemini:
+Summary behavior by provider:
+
+| Provider | NYT | Blogs / research |
+|----------|-----|------------------|
+| `none` (default) | Abstract only | none |
+| `gemini` | Abstract + Gemini Overview | Gemini Overview |
+| `claude-sonnet` / `claude-opus` | Abstract + Claude Overview for `--summary-nyt-sections` (others get Gemini Overview) | Claude Overview |
 
 ```bash
 bash scripts/run_digest.sh --summary-provider claude-sonnet --summary-nyt-sections "Technology / AI,Opinion / Analysis"
@@ -77,9 +83,15 @@ Override the provider's default model when needed:
 bash scripts/run_digest.sh --summary-provider gemini --summary-model gemini-3.1-flash-lite
 ```
 
+Overviews are cached per `provider|model|article` in `output/ranker_diagnostics/article_overview_cache.json`, so re-running a date with the same provider makes no API calls. Bump `OVERVIEW_CACHE_VERSION` in `src/daily_digest.py` when changing the prompt or generation params so stale entries are not reused.
+
 ### NYT word counts
 
-When `NYT_API_KEY` is set, NYT articles get accurate word counts and reading times from the NYT Article Search API instead of scraping (NYT returns 403 to scrapers). Other outlets (WSJ, Bloomberg) are still scraped and may have no reading stats. Without the key, NYT reading stats are simply skipped.
+When `NYT_API_KEY` is set, NYT articles get accurate word counts and reading times from the NYT Article Search API instead of scraping (NYT returns 403 to scrapers). Without the key, NYT reading stats are simply skipped. (WSJ is no longer fetched.)
+
+### Dates
+
+The title date is the **digest date** — the day the digest represents (content date + 1): HN shows the previous day's top stories, NYT shows that day's news. The header also shows `Fetched: <weekday, date, time>` = when the digest was compiled (always now, even for backfill). NYT items show `Published: <weekday, YYYY-MM-DD>`. Output filenames use the digest date (`digest_YYYY-MM-DD.*`).
 
 `scripts/run_digest.sh` automatically uses `.venv/bin/python3` when it exists, installs dependencies as a fast no-op, sources `.env`, runs `src/daily_digest.py`, writes `data/digest_archives/digest.log`, and lets `src/daily_digest.py` push to GitHub Pages when enabled in `config/config.json`.
 
