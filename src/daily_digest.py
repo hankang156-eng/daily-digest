@@ -113,9 +113,17 @@ DEFAULT_SUMMARY_MODELS = {
 
 GEMINI_API_BASE = "https://generativelanguage.googleapis.com/v1beta/models"
 GEMINI_FALLBACK_MODEL = "gemini-3.1-flash-lite"
-GEMINI_MAX_ATTEMPTS = 4
+# Free-tier RPM is low, so space calls ~5s (probe: flash-lite is reliable at 5s).
+GEMINI_MIN_INTERVAL = 5.0
 GEMINI_BACKOFF_BASE = 2.0
-GEMINI_MIN_INTERVAL = 1.0
+# Primary model fails fast (1 try) -> fall back immediately; the final fallback
+# model is the workhorse and gets real retries.
+GEMINI_PRIMARY_ATTEMPTS = 1
+GEMINI_FALLBACK_ATTEMPTS = 3
+# Circuit breaker: once the primary 429s this many times in a run, skip it for the
+# rest of the run (free-tier flash often exhausts its daily quota mid-run).
+GEMINI_PRIMARY_429_LIMIT = 2
+_gemini_primary_strikes = 0
 
 NYT_FEEDS = [
     ("U.S.", "NYT", "https://rss.nytimes.com/services/xml/rss/nyt/US.xml"),
@@ -693,9 +701,9 @@ def _throttle_gemini():
     _LAST_GEMINI_CALL = time.monotonic()
 
 
-def _gemini_generate(prompt, model, api_key):
+def _gemini_generate(prompt, model, api_key, max_attempts=GEMINI_FALLBACK_ATTEMPTS):
     last_error = None
-    for attempt in range(GEMINI_MAX_ATTEMPTS):
+    for attempt in range(max_attempts):
         _throttle_gemini()
         response = requests.post(
             f"{GEMINI_API_BASE}/{model}:generateContent",
@@ -713,7 +721,7 @@ def _gemini_generate(prompt, model, api_key):
         )
         if response.status_code in (429, 503):
             last_error = requests.HTTPError(f"{response.status_code} from {model}")
-            if attempt < GEMINI_MAX_ATTEMPTS - 1:
+            if attempt < max_attempts - 1:
                 wait = _retry_after_seconds(response)
                 if wait is None:
                     wait = GEMINI_BACKOFF_BASE * (2 ** attempt)
@@ -729,19 +737,26 @@ def _gemini_generate(prompt, model, api_key):
 
 
 def _call_gemini_summary(prompt, model):
+    global _gemini_primary_strikes
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         return "", ""
     models = [model]
     if GEMINI_FALLBACK_MODEL not in models:
         models.append(GEMINI_FALLBACK_MODEL)
+    # Circuit breaker: skip an exhausted primary for the rest of the run.
+    if len(models) > 1 and _gemini_primary_strikes >= GEMINI_PRIMARY_429_LIMIT:
+        models = models[1:]
     last_error = None
     for index, candidate in enumerate(models):
+        is_final = index == len(models) - 1
+        attempts = GEMINI_FALLBACK_ATTEMPTS if is_final else GEMINI_PRIMARY_ATTEMPTS
         try:
-            return _gemini_generate(prompt, candidate, api_key), candidate
+            return _gemini_generate(prompt, candidate, api_key, attempts), candidate
         except Exception as e:
             last_error = e
-            if index < len(models) - 1:
+            if not is_final:
+                _gemini_primary_strikes += 1
                 print(f"  [Summaries] gemini {candidate} unavailable ({e}); falling back to {models[index + 1]}.")
     if last_error:
         raise last_error
@@ -785,9 +800,11 @@ def generate_article_overview(article, provider, model):
 
 
 def enrich_article_overviews(data, config, settings=None, cache_path=None):
+    global _gemini_primary_strikes
     if config.get("provider") == "none":
         print("  [Summaries] Disabled.")
         return data
+    _gemini_primary_strikes = 0
 
     settings = settings or DEFAULT_CONFIG["settings"]
     cache_path = cache_path or ARTICLE_OVERVIEW_CACHE_FILE
