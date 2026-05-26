@@ -1,225 +1,713 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Daily Digest - Monday, May 25, 2026</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Daily Digest — Monday, May 25, 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Inter:wght@400;500;600&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #f6f6f0;
+  --paper: #fbf9f3;
+  --ink: #14130f;
+  --ink-soft: #2f2c26;
+  --mute: #6a6760;
+  --faint: #a09a8e;
+  --rule: rgba(20, 19, 15, 0.14);
+  --rule-soft: rgba(20, 19, 15, 0.07);
+  --accent: #8a1a1a;
+  --hover: #8a1a1a;
+  --font-body: 'Lora', 'Iowan Old Style', Georgia, serif;
+  --font-meta: 'DM Sans', ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --col: 700px;
+  --body-size: 13px;
+  --row-pad: 10px;
+}
+
+[data-theme="dark"] {
+  --bg: #111216;
+  --paper: #1a1b20;
+  --ink: #b5b5b5;
+  --ink-soft: #9e9e9e;
+  --mute: #7a7a7a;
+  --faint: #5a5a5a;
+  --rule: rgba(181, 181, 181, 0.20);
+  --rule-soft: rgba(181, 181, 181, 0.10);
+  --accent: #d68c8c;
+  --hover: #d68c8c;
+}
+
+[data-font="sans"] { --font-body: 'Inter', ui-sans-serif, system-ui, -apple-system, sans-serif; }
+
+* { box-sizing: border-box; }
+html { background: var(--bg); scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: var(--body-size);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  transition: background-color 180ms ease, color 180ms ease;
+}
+[data-font="sans"] body { letter-spacing: -0.005em; line-height: 1.52; }
+::selection { background: var(--accent); color: var(--paper); }
+a { color: inherit; text-decoration: none; }
+
+/* Layout */
+.page { max-width: var(--col); margin: 0 auto; padding: 24px 24px 56px; }
+
+/* Toolbar */
+.toolbar {
+  position: sticky; top: 0; z-index: 100;
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 12px; padding: 10px 0; margin: 0 0 4px;
+  border-bottom: 1px solid var(--rule-soft);
+  font-family: var(--font-meta);
+  font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--mute);
+  background: var(--bg);
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: saturate(140%) blur(8px);
+  -webkit-backdrop-filter: saturate(140%) blur(8px);
+}
+.toolbar a { color: var(--mute); transition: color 120ms ease; }
+.toolbar a:hover { color: var(--ink); }
+.toolbar a.archive { letter-spacing: 0.06em; }
+.controls { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.btn {
+  background: transparent; border: 1px solid var(--rule); color: var(--mute);
+  font: inherit; letter-spacing: inherit; text-transform: inherit;
+  padding: 4px 9px; cursor: pointer; border-radius: 2px;
+  transition: color 120ms ease, border-color 120ms ease, background-color 120ms ease;
+}
+.btn:hover { color: var(--ink); border-color: var(--ink-soft); }
+.btn[aria-pressed="true"] { color: var(--ink); border-color: var(--ink-soft); background: var(--paper); }
+.seg { display: inline-flex; border: 1px solid var(--rule); border-radius: 2px; overflow: hidden; }
+.seg .btn { border: none; border-radius: 0; padding: 4px 9px; color: var(--mute); }
+.seg .btn + .btn { border-left: 1px solid var(--rule); }
+.seg .btn:hover { color: var(--ink); }
+.seg .btn[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+
+/* Masthead */
+.masthead {
+  text-align: left; padding: 28px 0 18px;
+  border-bottom: 1px solid var(--rule); margin-bottom: 24px;
+}
+.masthead .kicker {
+  font-family: var(--font-meta); font-size: 10.5px;
+  letter-spacing: 0.22em; text-transform: uppercase;
+  color: var(--mute); margin-bottom: 8px;
+}
+.wordmark {
+  font-family: var(--font-body); font-weight: 600;
+  font-size: clamp(30px, 5vw, 40px); line-height: 1.05;
+  letter-spacing: -0.018em; margin: 0; color: var(--ink);
+}
+[data-font="sans"] .wordmark { font-weight: 600; letter-spacing: -0.028em; }
+.fetched {
+  font-family: var(--font-meta); font-size: 11px;
+  letter-spacing: 0.06em; color: var(--mute); margin-top: 10px;
+}
+
+/* Per-section accents */
+details.section#hn        { --accent: #b8501c; --hover: #b8501c; }
+details.section#nyt       { --accent: #4a4a48; --hover: #4a4a48; }
+details.section#research  { --accent: #2a6b66; --hover: #2a6b66; }
+details.section#blogs     { --accent: #4f6b3e; --hover: #4f6b3e; }
+details.section#linkedin  { --accent: #2a5a8a; --hover: #2a5a8a; }
+[data-theme="dark"] details.section#hn        { --accent: #e09b6b; --hover: #e09b6b; }
+[data-theme="dark"] details.section#nyt       { --accent: #9a958a; --hover: #9a958a; }
+[data-theme="dark"] details.section#research  { --accent: #7fb8b0; --hover: #7fb8b0; }
+[data-theme="dark"] details.section#blogs     { --accent: #a8c08c; --hover: #a8c08c; }
+[data-theme="dark"] details.section#linkedin  { --accent: #7ba6d4; --hover: #7ba6d4; }
+
+/* Section */
+.section { margin-top: 32px; scroll-margin-top: 60px; }
+.section:first-of-type { margin-top: 8px; }
+.section-head {
+  margin-bottom: 14px; padding-bottom: 10px;
+  border-bottom: 1px solid var(--rule);
+  display: flex; align-items: baseline; justify-content: space-between;
+  gap: 16px; cursor: pointer; list-style: none; user-select: none;
+  transition: color 120ms ease;
+}
+.section-head::-webkit-details-marker { display: none; }
+.section-head:hover h2 { color: var(--accent); }
+.section:not([open]) > .section-head { margin-bottom: 0; }
+.section-head h2 {
+  font-family: var(--font-body); font-weight: 500;
+  font-size: 22px; line-height: 1.15; margin: 0;
+  letter-spacing: -0.012em; transition: color 120ms ease; flex: 1;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1.5px; text-underline-offset: 6px;
+  text-decoration-color: color-mix(in srgb, var(--accent) 55%, transparent);
+}
+[data-font="sans"] .section-head h2 { font-weight: 600; letter-spacing: -0.022em; }
+.section-head::after {
+  content: "▾"; font-family: var(--font-meta); font-size: 11px;
+  color: var(--accent); transition: transform 180ms ease;
+  display: inline-block; transform-origin: center;
+  flex-shrink: 0; margin-left: 12px; align-self: center;
+}
+.section:not([open]) > .section-head::after { transform: rotate(-90deg); }
+
+/* Subsection */
+.subsection { margin-top: 18px; }
+.subsection:first-of-type { margin-top: 6px; }
+.subhead {
+  display: flex; align-items: center; gap: 10px;
+  margin: 0 0 6px; cursor: pointer; list-style: none; user-select: none;
+  transition: color 120ms ease;
+}
+.subhead::-webkit-details-marker { display: none; }
+.subhead::before {
+  content: "▾"; font-size: 9px; color: var(--mute);
+  transition: transform 180ms ease;
+  display: inline-block; transform-origin: center; flex-shrink: 0;
+}
+.subsection:not([open]) > .subhead::before { transform: rotate(-90deg); }
+.subsection:not([open]) > .subhead { margin-bottom: 0; }
+.subhead:hover h3 { color: var(--ink); }
+.subhead::after {
+  content: ""; flex: 1; height: 1px; background: var(--rule-soft);
+}
+.subhead h3 {
+  font-family: var(--font-meta); font-size: 10.5px;
+  font-weight: 500; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--ink-soft); margin: 0; transition: color 120ms ease;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1px; text-underline-offset: 4px;
+  text-decoration-color: color-mix(in srgb, var(--accent) 55%, transparent);
+}
+
+/* Article */
+.article {
+  display: grid; grid-template-columns: 26px 1fr;
+  gap: 2px 12px; padding: var(--row-pad) 0 calc(var(--row-pad) + 1px);
+  border-bottom: 1px solid var(--rule-soft);
+}
+.article:last-child { border-bottom: none; }
+.article .num {
+  font-family: var(--font-meta); font-size: 11px;
+  color: var(--faint); font-feature-settings: "tnum";
+  padding-top: 4px; text-align: right;
+}
+.article .body { min-width: 0; }
+.article h4 {
+  margin: 0 0 4px; font-family: var(--font-body);
+  font-weight: 500; font-size: 20px; line-height: 1.25;
+  letter-spacing: -0.008em; text-wrap: pretty;
+}
+[data-font="sans"] .article h4 { font-weight: 600; letter-spacing: -0.015em; }
+.article h4 a {
+  background-image: linear-gradient(var(--ink), var(--ink));
+  background-repeat: no-repeat; background-position: 0 100%;
+  background-size: 0 1px;
+  transition: background-size 180ms ease, color 120ms ease;
+}
+.article h4 a:hover {
+  color: var(--hover);
+  background-image: linear-gradient(var(--hover), var(--hover));
+  background-size: 100% 1px;
+}
+
+/* Meta line — picks up the section accent */
+.meta {
+  font-family: var(--font-meta); font-size: 10px;
+  letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--accent);
+  display: flex; flex-wrap: wrap; align-items: center;
+  gap: 0 6px; line-height: 1.4;
+}
+.meta .sep { color: var(--accent); opacity: 0.55; }
+.meta a { color: #ed702e; border-bottom: 1px solid transparent; padding-bottom: 1px; }
+.meta a:hover { color: #ff8a3c; border-color: currentColor; }
+.meta .src { color: var(--accent); font-weight: 600; }
+.meta .cat { color: var(--accent); }
+.meta .reason {
+  width: 100%; color: var(--faint); font-style: italic;
+  text-transform: none; letter-spacing: 0;
+  font-size: 11px; font-family: var(--font-body); margin-top: 1px;
+}
+
+/* Article collapsibles */
+.article details { margin-top: 5px; }
+.article details summary {
+  list-style: none; cursor: pointer;
+  font-family: var(--font-meta); font-size: 10px;
+  letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--accent);
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 2px 0; transition: color 120ms ease; user-select: none;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1px; text-underline-offset: 3px;
+  text-decoration-color: currentColor;
+}
+.article details summary::-webkit-details-marker { display: none; }
+.article details summary:hover { color: var(--hover); }
+.article details summary::before {
+  content: "+"; display: inline-block; width: 9px;
+  text-align: center; color: var(--faint);
+  font-family: var(--font-meta);
+  transition: transform 150ms ease, color 120ms ease;
+}
+.article details[open] summary::before { content: "−"; color: var(--accent); }
+.article details[open] summary { color: var(--accent); }
+.article details .panel {
+  font-family: var(--font-body); font-size: 14px;
+  font-weight: 500; line-height: 1.25;
+  color: var(--panel-ink, var(--ink-soft));
+  margin: 5px 0 4px; text-wrap: pretty;
+}
+[data-theme="dark"] { --panel-ink: #b5b5b5; }
+.article details.abstract .panel { font-style: italic; color: var(--mute); }
+details.section#nyt .article details.abstract .panel { font-style: normal; }
+
+/* Side-by-side details (Abstract + Overview on NYT) */
+.details-row { display: flex; flex-wrap: wrap; gap: 0 16px; margin-top: 4px; }
+.details-row details { margin-top: 0; }
+
+/* Small screens */
+@media (max-width: 560px) {
+  .page { padding: 16px 16px 40px; }
+  .masthead { padding: 20px 0 16px; margin-bottom: 22px; }
+  .article { grid-template-columns: 22px 1fr; gap: 2px 10px; }
+  .article h4 { font-size: 18px; }
+  .toolbar { font-size: 9.5px; flex-wrap: wrap; gap: 8px; }
+  .section-head { flex-direction: column; align-items: flex-start; gap: 4px; }
+}
+
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 1px; }
+button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+</style>
 </head>
-<body style="margin:0;padding:0;background:#f4f3f0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;color:#1a1a1a">
-<table width="100%" cellspacing="0" cellpadding="0" style="background:#f4f3f0">
-<tr><td align="center" style="padding:24px 16px">
-<table width="660" cellspacing="0" cellpadding="0" style="max-width:660px;width:100%">
-<tr><td style="background:#1a1a2e;border-radius:12px;padding:32px 36px">
-  <div style="font-size:11px;color:rgba(255,255,255,.55);letter-spacing:.15em;text-transform:uppercase;margin-bottom:6px">Your Morning Read</div>
-  <div style="font-size:30px;font-weight:800;color:#fff;line-height:1.1">Monday, May 25, 2026</div>
-  <div style="font-size:12px;color:rgba(255,255,255,.6);margin-top:6px">Fetched: Monday, May 25, 2026 at 19:37</div>
-  <div style="font-size:14px;color:rgba(255,255,255,.5);margin-top:6px">Daily Digest</div>
-  <div style="font-size:13px;margin-top:18px"><a href="../../digest_archive.html" style="color:rgba(255,255,255,.82);text-decoration:none;font-weight:700">Read past daily digests</a></div>
-</td></tr>
-<tr><td style="height:16px"></td></tr>
-<tr><td style="background:#fff;border-radius:12px;padding:28px 32px;box-shadow:0 1px 4px rgba(0,0,0,.06)">
-  
-    <div style="margin-bottom:28px">
-      <h3 style="font-size:13px;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:.08em;margin:0 0 10px;padding-bottom:8px;border-bottom:2px solid #f0f0f0">🔶 Yesterday's Top HackerNews</h3>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://esengine.github.io/DeepSeek-Reasonix/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">705 pts · 271 comments</span> <a href="https://app.hncompanion.com/item?id=48256953" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-24</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The discussion centers on Reasonix, a new opensource coding agent designed to maximize the efficiency of DeepSeek&#x27;s API through aggressive prefix caching. While the tool&#x27;s costsaving potential is recognized, the community is deeply divided over whether its specialized caching strategy is a genuine innovation or &quot;AI slop,&quot; and whether it offers significant advantages over established harnesses like Claude Code, OpenCode, or Pi.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">2.</span><a href="https://audiomass.co/?multitrack=1" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Show HN: Audiomass – a free, open-source multitrack audio editor for the web</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">509 pts · 110 comments</span> <a href="https://app.hncompanion.com/item?id=48258015" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-24</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Audiomass is a free, opensource, webbased multitrack audio editor that has received significant praise for its lightweight, efficient, and intuitive design. The discussion centers on the potential for webbased audio tools to facilitate collaborative music creation, the technical challenges of version control for audio, and the app&#x27;s impressive performance despite its minimal footprint.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">3.</span><a href="https://corrode.dev/learn/migration-guides/go-to-rust/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Migrating from Go to Rust</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">452 pts · 458 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">8,261 words · 36 min read</span> <a href="https://app.hncompanion.com/item?id=48259808" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-24</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This discussion explores the technical and philosophical tradeoffs between migrating from Go to Rust, specifically within the context of web backend development. While some users advocate for Rust&#x27;s superior safety and performance, a significant portion of the community defends Go&#x27;s simplicity, rapid compilation, and robust standard library as superior for highvelocity service development.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">4.</span><a href="https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">The Eternal Sloptember</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">435 pts · 350 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">901 words · 4 min read</span> <a href="https://app.hncompanion.com/item?id=48263238" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-24</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This discussion centers on a critique by George &quot;geohot&quot; Hotz regarding the limitations of LLMs in software engineering, specifically arguing that they are statistical mimics rather than true engineers. The community is deeply divided, debating whether LLMs are revolutionary tools that amplify expert productivity or &quot;slop&quot; generators that threaten to degrade codebase quality and engineering discipline.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">5.</span><a href="https://epoch.ai/data-insights/ai-chip-component-cost-shares" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Memory has grown to nearly two-thirds of AI chip component costs</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">430 pts · 469 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">803 words · 4 min read</span> <a href="https://app.hncompanion.com/item?id=48258684" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-24</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The discussion centers on the dramatic surge in memory costs, which now account for nearly twothirds of AI chip component expenses. Users debate whether this is a temporary supplydemand imbalance driven by the AI boom, a strategic move by existing manufacturers to maintain high margins, or a permanent shift caused by new geopolitical players like China.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">6.</span><a href="https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Why is Vivado 2026.1 dropping Linux support for free tier?</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">348 pts · 210 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">7 words · 1 min read</span> <a href="https://app.hncompanion.com/item?id=48254309" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-24</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The discussion centers on AMD&#x27;s decision to remove Linux support from the free tier of its Vivado FPGA design software, while maintaining it for Windows users. Users express significant frustration, viewing this as a &quot;rug pull&quot; that alienates the student, hobbyist, and professional Linux communities, potentially damaging AMD&#x27;s longterm market share.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">7.</span><a href="https://www.adventuresinoss.com/aws-four-years/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Amazon Web Services – Four Years and Out</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">319 pts · 135 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">1,714 words · 8 min read</span> <a href="https://app.hncompanion.com/item?id=48254475" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-24</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The discussion centers on the perceived decline of Amazon Web Services (AWS), focusing on a shift from engineeringled innovation to a managementdriven culture that prioritizes costcutting and &quot;good enough&quot; standards. Users share anecdotes regarding deteriorating customer support, the intrusive and often useless implementation of Generative AI, and an organizational ethos that treats both customers and employees as interchangeable, &quot;fungible&quot; commodities.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">8.</span><a href="https://seriot.ch/computation/jira.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Jira Is Turing-Complete</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">290 pts · 140 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">769 words · 4 min read</span> <a href="https://app.hncompanion.com/item?id=48263253" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-24</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The discussion centers on the overwhelming complexity, inefficiency, and &quot;awfulness&quot; of Jira, sparked by the provocative claim that the tool is Turingcomplete. Users debate whether its complexity is a result of poor engineering, corporate bloat, or the inevitable consequence of extreme customization by dysfunctional organizations.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">9.</span><a href="https://arxiv.org/abs/2605.06445" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Constraint Decay: The Fragility of LLM Agents in Back End Code Generation</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">277 pts · 185 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">641 words · 3 min read</span> <a href="https://app.hncompanion.com/item?id=48256912" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-24</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This discussion explores the phenomenon of &quot;constraint decay&quot; in LLMbased coding agents, where model performance degrades as architectural and structural requirements increase. While users acknowledge massive productivity gains, a significant debate emerges regarding the longterm maintainability of codebases where complexity is shifted from deterministic programming languages to nondeterministic natural language instructions.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">10.</span><a href="https://www.hollandtech.net/claude-is-not-your-architect/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Claude is not your architect. Stop letting it pretend</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">265 pts · 189 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">1,438 words · 7 min read</span> <a href="https://app.hncompanion.com/item?id=48259784" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-24</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The discussion centers on the limitations of Large Language Models (LLMs) like Claude when used for highlevel software architecture. While the original post warns against treating AI as an autonomous architect, the community is divided between those who view AI&#x27;s &quot;subservience&quot; as a dangerous flaw and those who see it as a necessary tool property that requires skilled human oversight.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">11.</span><a href="https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">The four-day workweek in Australia: insights from early adopters of 100:80:100</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">254 pts · 253 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">1,731 words · 8 min read</span> <a href="https://app.hncompanion.com/item?id=48259990" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-24</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The discussion revolves around the validity and implications of a study suggesting that a fourday work week boosts productivity in Australia. While some users question the scientific rigor of the study, others debate the economic feasibility, the psychological effects of workplace changes, and the systemic reasons why such models are not more widely adopted.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">12.</span><a href="https://susam.net/childhood-computing.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Childhood Computing</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">239 pts · 118 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">949 words · 5 min read</span> <a href="https://app.hncompanion.com/item?id=48256597" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-24</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This discussion is a nostalgic and deeply reflective journey through the evolution of personal computing, centered on how early interactions with hardware and software shaped the careers of many participants. Users share vivid memories of &quot;tinkering&quot; with machines like the Commodore 64 and Apple II, contrasting the magical, openended nature of early computing with the highly controlled, &quot;lockeddown&quot; digital environments of today.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">13.</span><a href="https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">A fundamental principle of aeronautical engineering has been overturned</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">227 pts · 118 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">1,236 words · 6 min read</span> <a href="https://app.hncompanion.com/item?id=48260117" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-24</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The discussion centers on a scientific finding suggesting that microroughness can reduce aerodynamic drag by delaying the transition from laminar to turbulent flow. While the headline claims a &quot;fundamental principle&quot; has been overturned, the community largely debates whether this is a revolutionary discovery or an incremental refinement of existing fluid dynamics knowledge.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">14.</span><a href="https://fs.blog/knowledge-project-podcast/greg-brockman/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Greg Brockman interview [video]</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">211 pts · 240 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">274 words · 2 min read</span> <a href="https://app.hncompanion.com/item?id=48255593" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-24</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The discussion surrounding the Greg Brockman interview centers on the tension between OpenAI&#x27;s original nonprofit mission and its current massive commercial scale. Users debate the ethics of its corporate restructuring, the legality of its data ingestion practices, and the personal motivations of its leadership.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">15.</span><a href="https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">DeepSeek to Make Permanent 75% Discount on Flagship AI Model</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">209 pts · 2 comments</span> <a href="https://app.hncompanion.com/item?id=48257410" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-24</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The discussion centers on DeepSeek&#x27;s decision to implement a permanent 75% discount on its flagship AI model, sparking a debate on the geopolitical, economic, and technical implications of Chinese AI competition. Users weigh the benefits of drastically lower token costs and opensource accessibility against concerns regarding data privacy, ideological bias, and the longterm sustainability of such aggressive pricing.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">16.</span><a href="https://usborne.com/us/books/computer-and-coding-books" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Usborne 1980s Computer Books</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">182 pts · 61 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">31 words · 1 min read</span> <a href="https://app.hncompanion.com/item?id=48258194" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-24</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This discussion is a nostalgic and reflective look at the impact of Usborne&#x27;s 1980s computer programming books on a generation of developers. Users share personal stories of how these highly visual, instructional guides served as critical gateways into software engineering, robotics, and lowlevel computing during an era of limited internet access and hardware scarcity.</div></details>
-      </td>
-    </tr></tbody></table>
+<body>
+<div class="page">
+  <div class="toolbar">
+    <a class="archive" href="../../digest_archive.html">← Read past daily digests</a>
+    <div class="controls">
+      <div class="seg" role="group" aria-label="Font">
+        <button class="btn" data-tg="font" data-val="serif" aria-pressed="true">Serif</button>
+        <button class="btn" data-tg="font" data-val="sans" aria-pressed="false">Sans</button>
+      </div>
+      <div class="seg" role="group" aria-label="Theme">
+        <button class="btn" data-tg="theme" data-val="light" aria-pressed="true">Light</button>
+        <button class="btn" data-tg="theme" data-val="dark" aria-pressed="false">Dark</button>
+      </div>
+      <button class="btn" id="expandAll">Expand all</button>
+      <button class="btn" id="collapseAll">Collapse all</button>
     </div>
-  
-    <div style="margin-bottom:28px">
-      <h3 style="font-size:13px;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:.08em;margin:0 0 10px;padding-bottom:8px;border-bottom:2px solid #f0f0f0">📰 NYT Strategic Reading List</h3>
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">AI</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Artificial Intelligence Floods Court Dockets with Home-Brewed Lawsuits</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">AI</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 89.9</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Mon, 2026-05-25</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; policy/social lens; appears across sections</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">For years, courts have welcomed cases brought by self-represented litigants. Now those plaintiffs have A.I., and their filings are consuming more and more bandwidth.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.5 Flash):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times article examines how the rise of generative artificial intelligence is enabling self-represented litigants to flood the judicial system with complex, home-brewed lawsuits. While courts have historically accommodated plaintiffs representing themselves, the sudden influx of AI-generated filings is consuming unprecedented administrative bandwidth. This trend matters because it highlights a critical intersection of technology and policy, illustrating how democratized access to sophisticated legal tools can overwhelm judicial infrastructure and challenge the traditional operations of the legal system.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">2.</span><a href="https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">UK Institute Is Hunting for Dangers Lurking in AI</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">AI</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 89.9</span> <span style="font-size:11px;color:#888;margin-left:6px">1,246 words · 6 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Sun, 2026-05-24</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; strategic signal; appears across sections</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The government’s A.I. Security Institute, staffed by alumni from OpenAI and Google, is becoming a model for countries grappling with A.I.’s emerging risks.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times article examines the role of the United Kingdom’s AI Safety Institute as a global benchmark for government-led oversight of artificial intelligence. Staffed by former researchers from industry leaders like OpenAI and Google, the institute focuses on identifying and mitigating emerging risks associated with advanced models. This development is significant because it highlights how nations are shifting from passive observation to active, technical scrutiny, establishing a critical framework for international policy as governments worldwide struggle to balance rapid technological innovation with public safety.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">3.</span><a href="https://www.nytimes.com/2026/05/24/opinion/doctor-ai-chatgpt.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">As a Doctor, I Can Understand the Allure of ChatGPT</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">AI</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 83.4</span> <span style="font-size:11px;color:#888;margin-left:6px">964 words · 5 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Mon, 2026-05-25</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; opinion/argument; appears across sections</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Even doctors can learn something from A.I.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">In this New York Times opinion piece, a physician explores the growing appeal of ChatGPT within the medical profession, examining how artificial intelligence is beginning to reshape clinical workflows. The author balances the undeniable efficiency and diagnostic support offered by AI against the critical need for human oversight and empathy in patient care. This article is essential reading for understanding the practical integration of generative technology in healthcare, highlighting how AI serves as a powerful tool that complements, rather than replaces, medical expertise.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">4.</span><a href="https://www.nytimes.com/video/opinion/100000010918890/graduating-into-ai-pessimism.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Graduating Into A.I. Pessimism</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">AI</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 74.7</span> <span style="font-size:11px;color:#888;margin-left:6px">1,068 words · 5 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Sat, 2026-05-23</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; opinion/argument; appears across sections</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Backlash to artificial intelligence is here, and digital natives are leading the charge. The Opinion columnist Michelle Goldberg argues that the A.I. pessimism in America stems from a lack of responsible regulation.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">In this New York Times opinion piece, columnist Michelle Goldberg explores the growing wave of skepticism toward artificial intelligence among younger generations. She argues that this rising backlash is not merely a rejection of technology, but a direct response to the absence of meaningful government oversight and corporate accountability. By highlighting how digital natives are leading the charge against unchecked innovation, the video underscores why robust regulation is essential to addressing public anxiety and ensuring that AI development aligns with broader societal interests.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">5.</span><a href="https://www.nytimes.com/video/world/europe/100000010924143/pope-leo-ai-encyclical-risks.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Pope Leo Warns of A.I. Risks in His First Papal Encyclical</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">AI</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 70.8</span> <span style="font-size:11px;color:#888;margin-left:6px">315 words · 2 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Mon, 2026-05-25</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; strategic signal</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Pope Leo XIV presented his first encyclical, “Magnifica Humanitas,” in which he outlined his desire to protect human dignity and agency in an age when technology threatens to replace people in many professional and social roles.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.5 Flash):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">In his first papal encyclical, &quot;Magnifica Humanitas,&quot; Pope Leo XIV addresses the profound ethical challenges posed by artificial intelligence, warning of its potential to undermine human dignity and agency. The document covers the urgent need to protect human roles in professional and social spheres as technology increasingly threatens to replace them. This strategic signal matters because it represents a major global institution establishing a moral framework for AI development, urging humanity to prioritize human-centric values over unchecked technological advancement.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">6.</span><a href="https://www.nytimes.com/2026/05/25/us/pope-leo-encyclical-highlights.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Main Takeaways From Pope Leo’s Encyclical on A.I.</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">AI</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 69.0</span> <span style="font-size:11px;color:#888;margin-left:6px">1,220 words · 6 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Mon, 2026-05-25</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; appears across sections</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">In his letter, the first American pontiff called for putting care for humans at the heart of technological change.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.5 Flash):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times article outlines the key takeaways from Pope Leo’s groundbreaking encyclical on artificial intelligence, marking a historic moment as the first American pontiff addresses technological advancement. The piece covers his urgent call to prioritize human dignity and care at the center of AI development. This coverage matters because it highlights how global religious leadership is actively engaging with rapid technological change, offering a crucial ethical framework to guide future AI governance, development, and societal integration.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">7.</span><a href="https://www.nytimes.com/2026/05/24/technology/ai-cybersecurity-jobs.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">One Job That Is Growing in the A.I. Era? Cybersecurity Experts.</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">AI</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 69.0</span> <span style="font-size:11px;color:#888;margin-left:6px">1,028 words · 5 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Mon, 2026-05-25</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; appears across sections</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Demand for security engineers has surged as artificial intelligence generates a glut of new code and models like Anthropic’s Mythos create new concerns.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.5 Flash):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This article explores the surging demand for cybersecurity experts in the era of artificial intelligence, driven by a massive influx of AI-generated code and emerging security concerns from advanced models like Anthropic’s Mythos. It covers how the rapid proliferation of AI technologies has created new digital vulnerabilities, making security engineers more vital than ever. This piece is essential for understanding how the AI boom is actively reshaping the tech job market, proving that automation is simultaneously driving critical employment growth in digital defense.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">8.</span><a href="https://www.nytimes.com/2026/05/25/technology/pope-ai-silicon-valley.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">As A.I. Fever Rises in Silicon Valley, Pope Leo Has a Few Words</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">AI</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 69.0</span> <span style="font-size:11px;color:#888;margin-left:6px">1,555 words · 7 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Mon, 2026-05-25</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; appears across sections</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The American pope wants to take artificial intelligence down a notch. Is he challenging the tech companies, or will tech take over the papacy?</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.5 Flash):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times article explores the intersection of technology and theology as the American pope challenges Silicon Valley&#x27;s rapid advancement of artificial intelligence. By examining the Vatican&#x27;s efforts to temper AI enthusiasm, the piece addresses a critical tension: whether religious authority can successfully guide the ethical boundaries of tech giants, or if the pervasive influence of AI will ultimately reshape the papacy itself. It matters because it highlights the growing global pushback against unchecked technological power from traditional moral institutions.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">9.</span><a href="https://www.nytimes.com/2026/05/24/business/meat-computer-brain-artificial-intelligence.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">To A.I. Executives, We’re All Just ‘Meat Computers’</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">AI</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 67.8</span> <span style="font-size:11px;color:#888;margin-left:6px">583 words · 3 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Sun, 2026-05-24</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; appears across sections</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">A term first used in philosophy and cognitive science circles has lately taken on a more ominous cast. Moo.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">In this New York Times piece, the author explores the unsettling rise of the term meat computers to describe human beings within the artificial intelligence industry. Originally a concept rooted in philosophy and cognitive science, the phrase has evolved into a reductive label that frames human cognition as mere biological hardware. This shift is significant because it reflects a growing trend among tech executives to commodify human intelligence, raising critical ethical questions about how the industry perceives and values human life in the age of AI.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">10.</span><a href="https://www.nytimes.com/2026/05/25/opinion/iran-trolling-propaganda.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Iran Is Trolling Us and We’re Not Doing Anything About It</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">AI</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 67.8</span> <span style="font-size:11px;color:#888;margin-left:6px">788 words · 4 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Mon, 2026-05-25</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; opinion/argument; appears across sections</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This is a novel form of propaganda.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.5 Flash):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">In this New York Times opinion piece, the author examines a novel form of propaganda, arguing that Iran is actively trolling the United States with impunity. Located at the intersection of technology and artificial intelligence, the article explores how these modern tools are being leveraged to conduct sophisticated influence operations. This piece is crucial for understanding the evolving landscape of digital warfare, as it highlights the urgent need for a response to state-sponsored disinformation campaigns that exploit emerging technologies to undermine public trust and national security.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">11.</span><a href="https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">AI</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 64.8</span> <span style="font-size:11px;color:#888;margin-left:6px">1,262 words · 6 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Mon, 2026-05-25</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The document marks a powerful foray by the leader of the Roman Catholic Church into the debate about the misuse or overuse of artificial intelligence.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">In this extensive encyclical, Pope Leo offers a profound theological and ethical critique of artificial intelligence, addressing the significant risks posed by its rapid integration into modern society. By examining the potential for misuse and the dangers of over-reliance on automated systems, the document serves as a critical intervention from the Roman Catholic Church in the global technology debate. It is essential reading for understanding how religious leadership is shaping the moral framework necessary to navigate the complex societal implications of emerging AI.</div></details>
-      </td>
-    </tr></tbody></table>
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">Sunday Opinion</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">What A.I. Philanthropists Can Learn From the Gilded Age</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Sunday Opinion</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 71.2</span> <span style="font-size:11px;color:#888;margin-left:6px">879 words · 4 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Mon, 2026-05-25</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; appears across sections</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Leave a physical legacy to future generations, not just a record of programs and disbursements.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times opinion piece examines how modern artificial intelligence philanthropists should approach their legacy by drawing parallels to the Gilded Age. Rather than focusing solely on digital programs or financial disbursements, the author argues that tech leaders should invest in tangible, physical infrastructure that benefits future generations. By prioritizing enduring monuments and public spaces, AI donors can ensure their contributions leave a lasting, visible impact on society, moving beyond the ephemeral nature of software to create a permanent cultural footprint.</div></details>
-      </td>
-    </tr></tbody></table>
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">Business</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.nytimes.com/2026/05/22/business/banks-deals-profits.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Move Over, Private Equity. It’s Great to Be a Banker Again.</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Business</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 69.5</span> <span style="font-size:11px;color:#888;margin-left:6px">982 words · 5 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Fri, 2026-05-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches regulation / policy; strategic signal</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">They played second fiddle to private equity and hedge funds for years, but 2026 is shaping up to be “the year of the bank,” one consultant said.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times article examines the shifting landscape of the financial sector in 2026, highlighting a significant resurgence for traditional banking institutions. After years of playing a secondary role to private equity firms and hedge funds, banks are reclaiming their dominance in deal-making and profitability. This shift serves as a critical strategic signal for the industry, suggesting that evolving regulatory environments and policy changes are finally favoring traditional lenders, marking a pivotal transition in how major financial transactions are structured and financed.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">2.</span><a href="https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Giving Workers a Stake in A.I. Gains Traction</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Business</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 63.7</span> <span style="font-size:11px;color:#888;margin-left:6px">1,995 words · 9 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Fri, 2026-05-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; strategic signal; appears across sections</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Gov. Gavin Newsom of California has floated a policy idea that’s getting attention in Silicon Valley: let workers own a piece of technology disruption.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times article examines a provocative policy proposal from California Governor Gavin Newsom aimed at ensuring workers share in the economic benefits of artificial intelligence. By exploring the concept of universal basic capital, the piece highlights a growing movement to grant employees ownership stakes in the technologies that disrupt their industries. This discussion is significant because it signals a shift in how policymakers and Silicon Valley leaders are beginning to address the potential for AI-driven wealth inequality and labor displacement.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">3.</span><a href="https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">SpaceX, OpenAI and Anthropic Race to Go Public</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Business</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 63.0</span> <span style="font-size:11px;color:#888;margin-left:6px">1,880 words · 9 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Thu, 2026-05-21</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; appears across sections</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">SpaceX, OpenAI, and Anthropic, giants of the artificial intelligence sector, are rushing to test investor appetite in the stock markets.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times report examines the intensifying pressure on industry titans SpaceX, OpenAI, and Anthropic to transition from private entities to publicly traded companies. As these organizations dominate the artificial intelligence and aerospace sectors, their potential initial public offerings represent a critical inflection point for global capital markets. By analyzing their race to test investor appetite, the article highlights how these firms are navigating the complex transition toward public accountability, signaling a major shift in how high-stakes innovation is funded and valued.</div></details>
-      </td>
-    </tr></tbody></table>
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">Energy &amp; Environment</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Energy &amp; Environment</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 67.0</span> <span style="font-size:11px;color:#888;margin-left:6px">1,161 words · 6 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Tue, 2026-05-19</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches climate / energy / infrastructure; strategic signal; appears across sections</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">NextEra’s proposed acquisition of Dominion Energy comes as Americans are paying a lot more for electricity, and data centers are demanding a lot more power from utilities.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times report examines NextEra Energy’s proposed acquisition of Dominion Energy, framing the deal within the broader context of a strained American power grid. As electricity rates climb nationwide, the rapid expansion of energy-intensive data centers is placing unprecedented pressure on utility providers to meet surging demand. This potential merger serves as a critical signal for the energy sector, highlighting how infrastructure consolidation and the race to power the digital economy are reshaping utility strategy, regulatory landscapes, and consumer costs.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">2.</span><a href="https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Trump Eases Restrictions on Climate ‘Super Pollutants’</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Energy &amp; Environment</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 66.0</span> <span style="font-size:11px;color:#888;margin-left:6px">917 words · 4 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Thu, 2026-05-21</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches climate / energy / infrastructure; core news</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The administration is delaying a phaseout of hydrofluorocarbons, potent planet-warming chemicals used in air-conditioning and refrigeration.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times report details the Trump administration’s decision to delay the mandatory phaseout of hydrofluorocarbons, which are potent greenhouse gases commonly used in refrigeration and air-conditioning systems. By easing these regulatory restrictions, the administration is effectively slowing efforts to curb these climate-warming super pollutants. This development is significant because it marks a major shift in environmental policy, potentially undermining international climate commitments and accelerating global warming trends by allowing the continued widespread use of chemicals that trap heat far more effectively than carbon dioxide.</div></details>
-      </td>
-    </tr></tbody></table>
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">Technology</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Technology</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 63.9</span> <span style="font-size:11px;color:#888;margin-left:6px">541 words · 3 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Thu, 2026-05-21</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; strategic signal; appears across sections</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The president said he postponed the executive order, which would give the government power to evaluate A.I. models before their release, over concerns about “aspects of it.”</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times report details President Trump’s decision to postpone a significant executive order intended to grant the federal government oversight authority over artificial intelligence models. By requiring pre-release evaluations, the proposed policy aimed to establish a regulatory framework for emerging technology. The cancellation signals a strategic shift in the administration’s approach to AI governance, highlighting ongoing internal tensions regarding the balance between national security, safety oversight, and the potential stifling of technological innovation within the competitive AI sector.</div></details>
-      </td>
-    </tr></tbody></table>
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">Politics</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.nytimes.com/2026/05/24/us/politics/platner-ad-red-sox-midterms.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">A Democrat Took on Red Sox Ownership in an Ad. A Network Pulled it.</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Politics</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 59.7</span> <span style="font-size:11px;color:#888;margin-left:6px">849 words · 4 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Sun, 2026-05-24</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches business / economy / markets; policy/social lens; appears across sections</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Graham Platner, a Senate candidate in Maine, blamed private equity for destroying “our favorite baseball team.” NESN, which is owned by the team, pulled his campaign ad, citing an intellectual property violation.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.5 Flash):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times article examines the intersection of politics, corporate media, and sports ownership through the lens of Maine Senate candidate Graham Platner’s pulled campaign advertisement. After Platner’s ad blamed private equity for ruining the Boston Red Sox, the team-owned New England Sports Network (NESN) removed it, citing intellectual property violations. This incident highlights critical debates surrounding corporate censorship, the influence of private equity in professional sports, and the challenges political candidates face when challenging powerful business interests within their own media markets.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">2.</span><a href="https://www.nytimes.com/2026/05/23/us/politics/trump-prosecutors-jan-6.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Trump Administration Chips Away at Last Traces of Broad Inquiry Into Jan. 6</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Politics</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 59.7</span> <span style="font-size:11px;color:#888;margin-left:6px">623 words · 3 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Sat, 2026-05-23</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; policy/social lens</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Two recent moves aligned the department ever more closely with President Trump’s own efforts to whitewash the events of that day.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times report examines how the Trump administration is systematically dismantling the remaining federal investigations into the January 6 Capitol attack. By detailing two recent departmental actions, the article illustrates a deliberate shift toward aligning the Justice Department with the president’s efforts to reframe the historical narrative of that day. This coverage is significant because it highlights the erosion of institutional independence and the potential long-term consequences for accountability, transparency, and the preservation of democratic norms regarding political violence.</div></details>
-      </td>
-    </tr></tbody></table></div>
-  
-  
-    <div style="margin-bottom:28px">
-      <h3 style="font-size:13px;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:.08em;margin:0 0 10px;padding-bottom:8px;border-bottom:2px solid #f0f0f0">📚 Blogs & Craft</h3>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.troyhunt.com/weekly-update-505/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Weekly Update 505</a><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Security</span><span style="display:inline-block;background:#f5f5f5;color:#777777;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Troy Hunt</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 124.7</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-24</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches security / privacy; durable read</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.5 Flash):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">In this weekly update, cybersecurity expert Troy Hunt discusses the sudden resurgence of the ShinyHunters hacking group following rumors of a massive ransom payment from Instructure. The post covers the implications of paying ransoms to cybercriminals, highlighting how such financial windfalls fuel further malicious activities rather than buying permanent peace. This analysis is crucial for security professionals and organizations navigating the complex ethics and practical consequences of ransomware negotiations, illustrating why capitulating to extortionists rarely guarantees long-term safety.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">2.</span><a href="https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Quoting Armin Ronacher</a><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Technology</span><span style="display:inline-block;background:#f5f5f5;color:#777777;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Simon Willison</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 104.0</span> <span style="font-size:11px;color:#888;margin-left:6px">277 words · 2 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-24</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches ai / agents / llms</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.5 Flash):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">In this post, Simon Willison highlights a quote from developer Armin Ronacher addressing a frustrating new challenge in open-source software maintenance: the influx of AI-generated bug reports. Ronacher explains how users increasingly use LLMs to draft issues, resulting in overly confident, inaccurate diagnoses and fabricated reproduction steps that obscure the actual problems. This piece is crucial because it exposes how the misuse of generative AI tools is actively degrading developer workflows, wasting maintainers&#x27; time, and complicating the collaborative nature of open-source communities.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">3.</span><a href="https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">datasette-agent 0.1a4</a><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Technology</span><span style="display:inline-block;background:#f5f5f5;color:#777777;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Simon Willison</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 98.3</span> <span style="font-size:11px;color:#888;margin-left:6px">203 words · 1 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-24</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Skim: matches software engineering</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.5 Flash):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Simon Willison’s release of datasette-agent 0.1a4 introduces a &quot;Start a new agent chat&quot; interface directly within the Datasette &quot;Jump to&quot; menu, accessible by pressing the slash key. This update leverages the new makeJumpSections() JavaScript plugin hook introduced in Datasette 1.0a30. It matters because it significantly improves user experience and accessibility, allowing developers and data analysts to seamlessly initiate AI-driven agent interactions directly from their database interface, which can be tested live at agent.datasette.io using GitHub authentication.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">4.</span><a href="https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Why Steve Kerr Stayed With the Warriors</a><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Strategy</span><span style="display:inline-block;background:#f5f5f5;color:#777777;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Daring Fireball</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 89.4</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-24</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches strategy / business models</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.5 Flash):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This poignant ESPN profile by Wright Thompson explores Golden State Warriors head coach Steve Kerr’s decision to remain with the franchise rather than walk away. Drawing on his firsthand observations of Michael Jordan’s turbulent career endings and Gregg Popovich’s late-career struggles, Kerr reveals his desire to guide the Warriors through their inevitable decline without the bitter grudges that fractured the New England Patriots. It is a crucial study in sports strategy, leadership, and organizational longevity, illustrating how elite leaders navigate the painful transition from championship dominance to rebuilding.</div></details>
-      </td>
-    </tr></tbody></table>
-    </div>
-  
-    <div style="margin-bottom:28px">
-      <h3 style="font-size:13px;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:.08em;margin:0 0 10px;padding-bottom:8px;border-bottom:2px solid #f0f0f0">💼 LinkedIn - Rama's Activity</h3>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <a href="https://www.linkedin.com/in/ramar/recent-activity/all/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">View Rama&#x27;s recent LinkedIn activity</a><span style="display:inline-block;background:#f5f5f5;color:#777777;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">LinkedIn</span>
-      </td>
-    </tr></tbody></table>
-    </div>
-</td></tr>
-<tr><td style="height:16px"></td></tr>
-<tr><td style="text-align:center;padding:16px;font-size:11px;color:#999">
-  Generated 7:37 PM on May 25, 2026 · Daily Digest
-</td></tr>
-</table>
-</td></tr>
-</table>
+  </div>
+
+  <header class="masthead">
+    <div class="kicker">Your Morning Read</div>
+    <h1 class="wordmark">Monday, May 25, 2026</h1>
+    <div class="fetched">Fetched: Tuesday, May 26, 2026 at 17:04</div>
+  </header>
+
+<details class="section" id="hn" open>
+  <summary class="section-head"><h2>Yesterday on Hacker News</h2></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://esengine.github.io/DeepSeek-Reasonix/" target="_blank">DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><span>721 pts</span><span class="sep">·</span><span>277 comments</span><span class="sep">·</span><span>May 24</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48256953" target="_blank">HN Companion ↗</a></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on Reasonix, a new opensource coding agent designed to maximize the efficiency of DeepSeek&#x27;s API through aggressive prefix caching. While the tool&#x27;s costsaving potential is recognized, the community is deeply divided over whether its specialized caching strategy is a genuine innovation or &quot;AI slop,&quot; and whether it offers significant advantages over established harnesses like Claude Code, OpenCode, or Pi.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://audiomass.co/?multitrack=1" target="_blank">Show HN: Audiomass – a free, open-source multitrack audio editor for the web</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><span>530 pts</span><span class="sep">·</span><span>115 comments</span><span class="sep">·</span><span>May 24</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48258015" target="_blank">HN Companion ↗</a></div>
+    <details><summary>Overview</summary><div class="panel">Audiomass is a free, opensource, webbased multitrack audio editor that has received significant praise for its lightweight, efficient, and intuitive design. The discussion centers on the potential for webbased audio tools to facilitate collaborative music creation, the technical challenges of version control for audio, and the app&#x27;s impressive performance despite its minimal footprint.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html" target="_blank">The Eternal Sloptember</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><span>476 pts</span><span class="sep">·</span><span>366 comments</span><span class="sep">·</span><span>901 words · 4 min read</span><span class="sep">·</span><span>May 24</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48263238" target="_blank">HN Companion ↗</a></div>
+    <details><summary>Overview</summary><div class="panel">This discussion centers on a critique by George &quot;geohot&quot; Hotz regarding the limitations of LLMs in software engineering, specifically arguing that they are statistical mimics rather than true engineers. The community is deeply divided, debating whether LLMs are revolutionary tools that amplify expert productivity or &quot;slop&quot; generators that threaten to degrade codebase quality and engineering discipline.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://corrode.dev/learn/migration-guides/go-to-rust/" target="_blank">Migrating from Go to Rust</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><span>469 pts</span><span class="sep">·</span><span>489 comments</span><span class="sep">·</span><span>8,261 words · 36 min read</span><span class="sep">·</span><span>May 24</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48259808" target="_blank">HN Companion ↗</a></div>
+    <details><summary>Overview</summary><div class="panel">This discussion explores the technical and philosophical tradeoffs between migrating from Go to Rust, specifically within the context of web backend development. While some users advocate for Rust&#x27;s superior safety and performance, a significant portion of the community defends Go&#x27;s simplicity, rapid compilation, and robust standard library as superior for highvelocity service development.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://epoch.ai/data-insights/ai-chip-component-cost-shares" target="_blank">Memory has grown to nearly two-thirds of AI chip component costs</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><span>441 pts</span><span class="sep">·</span><span>489 comments</span><span class="sep">·</span><span>803 words · 4 min read</span><span class="sep">·</span><span>May 24</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48258684" target="_blank">HN Companion ↗</a></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on the dramatic surge in memory costs, which now account for nearly twothirds of AI chip component expenses. Users debate whether this is a temporary supplydemand imbalance driven by the AI boom, a strategic move by existing manufacturers to maintain high margins, or a permanent shift caused by new geopolitical players like China.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">06</div>
+  <div class="body">
+    <h4><a href="https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US" target="_blank">Why is Vivado 2026.1 dropping Linux support for free tier?</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><span>360 pts</span><span class="sep">·</span><span>221 comments</span><span class="sep">·</span><span>7 words · 1 min read</span><span class="sep">·</span><span>May 24</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48254309" target="_blank">HN Companion ↗</a></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on AMD&#x27;s decision to remove Linux support from the free tier of its Vivado FPGA design software, while maintaining it for Windows users. Users express significant frustration, viewing this as a &quot;rug pull&quot; that alienates the student, hobbyist, and professional Linux communities, potentially damaging AMD&#x27;s longterm market share.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">07</div>
+  <div class="body">
+    <h4><a href="https://www.adventuresinoss.com/aws-four-years/" target="_blank">Amazon Web Services – Four Years and Out</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><span>327 pts</span><span class="sep">·</span><span>137 comments</span><span class="sep">·</span><span>1,714 words · 8 min read</span><span class="sep">·</span><span>May 24</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48254475" target="_blank">HN Companion ↗</a></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on the perceived decline of Amazon Web Services (AWS), focusing on a shift from engineeringled innovation to a managementdriven culture that prioritizes costcutting and &quot;good enough&quot; standards. Users share anecdotes regarding deteriorating customer support, the intrusive and often useless implementation of Generative AI, and an organizational ethos that treats both customers and employees as interchangeable, &quot;fungible&quot; commodities.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">08</div>
+  <div class="body">
+    <h4><a href="https://seriot.ch/computation/jira.html" target="_blank">Jira Is Turing-Complete</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><span>301 pts</span><span class="sep">·</span><span>147 comments</span><span class="sep">·</span><span>769 words · 4 min read</span><span class="sep">·</span><span>May 24</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48263253" target="_blank">HN Companion ↗</a></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on the overwhelming complexity, inefficiency, and &quot;awfulness&quot; of Jira, sparked by the provocative claim that the tool is Turingcomplete. Users debate whether its complexity is a result of poor engineering, corporate bloat, or the inevitable consequence of extreme customization by dysfunctional organizations.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">09</div>
+  <div class="body">
+    <h4><a href="https://arxiv.org/abs/2605.06445" target="_blank">Constraint Decay: The Fragility of LLM Agents in Back End Code Generation</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><span>283 pts</span><span class="sep">·</span><span>191 comments</span><span class="sep">·</span><span>641 words · 3 min read</span><span class="sep">·</span><span>May 24</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48256912" target="_blank">HN Companion ↗</a></div>
+    <details><summary>Overview</summary><div class="panel">This discussion explores the phenomenon of &quot;constraint decay&quot; in LLMbased coding agents, where model performance degrades as architectural and structural requirements increase. While users acknowledge massive productivity gains, a significant debate emerges regarding the longterm maintainability of codebases where complexity is shifted from deterministic programming languages to nondeterministic natural language instructions.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">10</div>
+  <div class="body">
+    <h4><a href="https://www.hollandtech.net/claude-is-not-your-architect/" target="_blank">Claude is not your architect. Stop letting it pretend</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><span>272 pts</span><span class="sep">·</span><span>189 comments</span><span class="sep">·</span><span>1,438 words · 7 min read</span><span class="sep">·</span><span>May 24</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48259784" target="_blank">HN Companion ↗</a></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on the limitations of Large Language Models (LLMs) like Claude when used for highlevel software architecture. While the original post warns against treating AI as an autonomous architect, the community is divided between those who view AI&#x27;s &quot;subservience&quot; as a dangerous flaw and those who see it as a necessary tool property that requires skilled human oversight.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">11</div>
+  <div class="body">
+    <h4><a href="https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/" target="_blank">The four-day workweek in Australia: insights from early adopters of 100:80:100</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><span>256 pts</span><span class="sep">·</span><span>255 comments</span><span class="sep">·</span><span>1,731 words · 8 min read</span><span class="sep">·</span><span>May 24</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48259990" target="_blank">HN Companion ↗</a></div>
+    <details><summary>Overview</summary><div class="panel">The discussion revolves around the validity and implications of a study suggesting that a fourday work week boosts productivity in Australia. While some users question the scientific rigor of the study, others debate the economic feasibility, the psychological effects of workplace changes, and the systemic reasons why such models are not more widely adopted.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">12</div>
+  <div class="body">
+    <h4><a href="https://susam.net/childhood-computing.html" target="_blank">Childhood Computing</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><span>249 pts</span><span class="sep">·</span><span>124 comments</span><span class="sep">·</span><span>949 words · 5 min read</span><span class="sep">·</span><span>May 24</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48256597" target="_blank">HN Companion ↗</a></div>
+    <details><summary>Overview</summary><div class="panel">This discussion is a nostalgic and deeply reflective journey through the evolution of personal computing, centered on how early interactions with hardware and software shaped the careers of many participants. Users share vivid memories of &quot;tinkering&quot; with machines like the Commodore 64 and Apple II, contrasting the magical, openended nature of early computing with the highly controlled, &quot;lockeddown&quot; digital environments of today.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">13</div>
+  <div class="body">
+    <h4><a href="https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/" target="_blank">A fundamental principle of aeronautical engineering has been overturned</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><span>239 pts</span><span class="sep">·</span><span>124 comments</span><span class="sep">·</span><span>1,236 words · 6 min read</span><span class="sep">·</span><span>May 24</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48260117" target="_blank">HN Companion ↗</a></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on a scientific finding suggesting that microroughness can reduce aerodynamic drag by delaying the transition from laminar to turbulent flow. While the headline claims a &quot;fundamental principle&quot; has been overturned, the community largely debates whether this is a revolutionary discovery or an incremental refinement of existing fluid dynamics knowledge.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">14</div>
+  <div class="body">
+    <h4><a href="https://fs.blog/knowledge-project-podcast/greg-brockman/" target="_blank">Greg Brockman interview [video]</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><span>212 pts</span><span class="sep">·</span><span>244 comments</span><span class="sep">·</span><span>274 words · 2 min read</span><span class="sep">·</span><span>May 24</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48255593" target="_blank">HN Companion ↗</a></div>
+    <details><summary>Overview</summary><div class="panel">The discussion surrounding the Greg Brockman interview centers on the tension between OpenAI&#x27;s original nonprofit mission and its current massive commercial scale. Users debate the ethics of its corporate restructuring, the legality of its data ingestion practices, and the personal motivations of its leadership.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">15</div>
+  <div class="body">
+    <h4><a href="https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model" target="_blank">DeepSeek to Make Permanent 75% Discount on Flagship AI Model</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><span>209 pts</span><span class="sep">·</span><span>2 comments</span><span class="sep">·</span><span>May 24</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48257410" target="_blank">HN Companion ↗</a></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on DeepSeek&#x27;s decision to implement a permanent 75% discount on its flagship AI model, sparking a debate on the geopolitical, economic, and technical implications of Chinese AI competition. Users weigh the benefits of drastically lower token costs and opensource accessibility against concerns regarding data privacy, ideological bias, and the longterm sustainability of such aggressive pricing.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">16</div>
+  <div class="body">
+    <h4><a href="https://lucumr.pocoo.org/2026/5/24/pi-oss/" target="_blank">Building Pi with Pi</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><span>187 pts</span><span class="sep">·</span><span>146 comments</span><span class="sep">·</span><span>1,996 words · 9 min read</span><span class="sep">·</span><span>May 24</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48259192" target="_blank">HN Companion ↗</a></div>
+    <details><summary>Overview</summary><div class="panel">This discussion centers on the terminology and philosophical implications of AI &quot;agents,&quot; specifically sparked by the use of the term &quot;clanker&quot; in the linked article. The conversation evolves from a debate over linguistic labels and the definition of &quot;agency&quot; into a deep philosophical conflict regarding the anthropomorphization of machines and the social weight of derogatory language.</div></details>
+  </div>
+</article>
+</details>
+
+<details class="section" id="nyt" open>
+  <summary class="section-head"><h2>The Times — Strategic Reading</h2></summary>
+<details class="subsection" open>
+  <summary class="subhead"><h3>AI</h3></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/26/business/dealbook/openrouter-ai-models-fundraising.html" target="_blank">OpenRouter, an Exchange for A.I. Models, Raises $113 Million</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">AI</span><span class="sep">·</span><span>93.0</span><span class="sep">·</span><span>570 words · 3 min read</span><span class="sep">·</span><span>Tue, May 26</span><span class="reason">Read deeply — matches technology / ai; appears across sections</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">An investment arm of Alphabet is backing OpenRouter, which helps companies choose among hundreds of models for different software tasks.</div></details><details><summary>Overview</summary><div class="panel">This New York Times article covers a major 113 million dollar fundraising round for OpenRouter, backed by an investment arm of Alphabet. OpenRouter operates as an exchange that helps businesses navigate the crowded artificial intelligence landscape by selecting the most suitable options from hundreds of competing models for specific software tasks. This development is significant because it highlights the growing commercial demand for model-routing services and signals Alphabet&#x27;s strategic interest in platforms that simplify AI integration for enterprises.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/26/business/dealbook/vatican-ai-silicon-valley.html" target="_blank">The Vatican Takes on Silicon Valley With an A.I. Warning</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">AI</span><span class="sep">·</span><span>89.9</span><span class="sep">·</span><span>1,984 words · 9 min read</span><span class="sep">·</span><span>Tue, May 26</span><span class="reason">Read deeply — matches technology / ai; strategic signal; appears across sections</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Pope Leo XIV’s encyclical on artificial intelligence puts technology giants on notice. But will it slow down the A.I. race?</div></details><details><summary>Overview</summary><div class="panel">This New York Times article examines Pope Leo XIV’s landmark encyclical on artificial intelligence, which delivers a direct ethical warning to Silicon Valley’s technology giants. The piece covers the Vatican&#x27;s strategic intervention into the tech sector, analyzing the moral framework the Catholic Church proposes to govern rapid technological advancement. This coverage matters because it signals a major global institution stepping into the AI debate, challenging the industry&#x27;s self-regulation and questioning whether spiritual and ethical authority can effectively slow down the competitive global AI race.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/26/us/pope-leo-ai-anthropic.html" target="_blank">To Understand Pope Leo’s Efforts on A.I., Look at the Man Shaking His Hand</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">AI</span><span class="sep">·</span><span>86.9</span><span class="sep">·</span><span>1,123 words · 5 min read</span><span class="sep">·</span><span>Tue, May 26</span><span class="reason">Read deeply — matches technology / ai; policy/social lens; appears across sections</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The co-founder of a prominent A.I. company was nearby as the pope implored A.I. leaders to slow down and consider the technology’s possible perils.</div></details><details><summary>Overview</summary><div class="panel">This New York Times article examines the intersection of faith, ethics, and technology by focusing on a meeting between Pope Leo and a co-founder of the prominent artificial intelligence company Anthropic. As the Pope urges tech leaders to slow down and carefully consider the existential perils of rapid AI development, this encounter highlights the growing role of religious and moral authorities in shaping tech policy. It matters because it illustrates how global spiritual leaders are actively engaging with industry pioneers to advocate for ethical guardrails and human-centric AI design.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/26/opinion/progressives-left-ai.html" target="_blank">Progressives Are Listening to the Wrong People on A.I.</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">AI</span><span class="sep">·</span><span>86.9</span><span class="sep">·</span><span>1,015 words · 5 min read</span><span class="sep">·</span><span>Tue, May 26</span><span class="reason">Read deeply — matches technology / ai; opinion/argument; appears across sections</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">An obsession with the most doomer prospects of A.I. is blinding progressives from thinking about serious, realistic policies.</div></details><details><summary>Overview</summary><div class="panel">This New York Times opinion piece argues that progressives are undermining their own policy goals by focusing excessively on existential, &quot;doomer&quot; scenarios of artificial intelligence. It covers how this fixation on sci-fi catastrophes distracts from addressing immediate, tangible challenges like algorithmic bias, labor displacement, and corporate monopolization. By shifting the focus back to realistic, near-term consequences, the article explains why a pragmatic policy approach is essential for progressives to effectively regulate the technology and protect vulnerable communities from its actual, present-day harms.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html" target="_blank">Artificial Intelligence Floods Court Dockets with Home-Brewed Lawsuits</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">AI</span><span class="sep">·</span><span>83.9</span><span class="sep">·</span><span>Mon, May 25</span><span class="reason">Read deeply — matches technology / ai; strategic signal</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">For years, courts have welcomed cases brought by self-represented litigants. Now those plaintiffs have A.I., and their filings are consuming more and more bandwidth.</div></details><details><summary>Overview</summary><div class="panel">This New York Times article examines how the rise of generative artificial intelligence is enabling self-represented litigants to flood the judicial system with complex, home-brewed lawsuits. While courts have historically accommodated plaintiffs representing themselves, the sudden influx of AI-generated filings is consuming unprecedented administrative bandwidth. This trend matters because it highlights a critical intersection of technology and policy, illustrating how democratized access to sophisticated legal tools can overwhelm judicial infrastructure and challenge the traditional operations of the legal system.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">06</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/26/podcasts/the-headlines/white-house-green-card-pope-ai.html" target="_blank">White House Shakes Up Green Card Policy, and the Pope Takes On A.I.</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">AI</span><span class="sep">·</span><span>82.7</span><span class="sep">·</span><span>179 words · 1 min read</span><span class="sep">·</span><span>Tue, May 26</span><span class="reason">Read deeply — matches technology / ai; strategic signal</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Plus, will anyone want an electric Ferrari?</div></details><details><summary>Overview</summary><div class="panel">This episode of The Headlines explores the intersection of emerging technology, ethics, and global policy. It covers the White House’s strategic shift in green card policies to attract global AI talent, alongside Pope Francis’s high-profile address on the moral implications of artificial intelligence. Additionally, it examines the market viability of electric luxury vehicles, specifically Ferrari. This matters because it highlights how world leaders and global institutions are actively reshaping immigration, ethics, and industry standards to navigate the rapid rise of AI and sustainable technology.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">07</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/26/us/data-centers-kassi-solberg.html" target="_blank">You Can’t Stop This Data Center, a Mom Was Told. She Won’t Quit.</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">AI</span><span class="sep">·</span><span>70.8</span><span class="sep">·</span><span>2,861 words · 13 min read</span><span class="sep">·</span><span>Tue, May 26</span><span class="reason">Read deeply — matches technology / ai; appears across sections</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Kassi Solberg has concerns about a proposed complex, the size of 3,800 football fields, near her home. Trust us, the developer says.</div></details><details><summary>Overview</summary><div class="panel">This New York Times report examines the growing friction between local communities and the rapid expansion of massive data centers required to fuel the artificial intelligence boom. By profiling Kassi Solberg’s grassroots opposition to a sprawling facility near her home, the article highlights the environmental and quality-of-life concerns residents face when industrial-scale tech infrastructure encroaches on residential areas. It serves as a critical case study on the tension between the global demand for AI computing power and the localized impact of its physical footprint.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">08</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html" target="_blank">At the A.I. Epicenter, Technologists Dismiss Pope Leo’s Warnings About the New Technology</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">AI</span><span class="sep">·</span><span>69.0</span><span class="sep">·</span><span>1,511 words · 7 min read</span><span class="sep">·</span><span>Tue, May 26</span><span class="reason">Read deeply — matches technology / ai; appears across sections</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Pope Leo XIV’s spiritual message on artificial intelligence arrived as Silicon Valley’s A.I. enthusiasts pursue their own spirituality through technology.</div></details><details><summary>Overview</summary><div class="panel">This New York Times article examines the growing ideological divide between the Vatican and Silicon Valley regarding the rapid advancement of artificial intelligence. It highlights how Pope Leo XIV’s recent spiritual warnings about the risks of AI are being largely dismissed by industry leaders who view the technology through a lens of techno-optimism and secular spirituality. By contrasting traditional religious caution with the industry’s pursuit of digital transcendence, the piece underscores the profound ethical and philosophical tensions shaping the future of human-machine interaction.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">09</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/25/technology/pope-ai-silicon-valley.html" target="_blank">As A.I. Fever Rises in Silicon Valley, Pope Leo Has a Few Words</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">AI</span><span class="sep">·</span><span>67.8</span><span class="sep">·</span><span>1,555 words · 7 min read</span><span class="sep">·</span><span>Mon, May 25</span><span class="reason">Read deeply — matches technology / ai; appears across sections</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The American pope wants to take artificial intelligence down a notch. Is he challenging the tech companies, or will tech take over the papacy?</div></details><details><summary>Overview</summary><div class="panel">This New York Times article explores the intersection of technology and theology as the American pope challenges Silicon Valley&#x27;s rapid advancement of artificial intelligence. By examining the Vatican&#x27;s efforts to temper AI enthusiasm, the piece addresses a critical tension: whether religious authority can successfully guide the ethical boundaries of tech giants, or if the pervasive influence of AI will ultimately reshape the papacy itself. It matters because it highlights the growing global pushback against unchecked technological power from traditional moral institutions.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">10</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/26/opinion/ezra-klein-podcast-yuval-noah-harari.html" target="_blank">Yuval Noah Harari on Donald Trump’s Core Delusion</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">AI</span><span class="sep">·</span><span>67.8</span><span class="sep">·</span><span>16,167 words · 71 min read</span><span class="sep">·</span><span>Tue, May 26</span><span class="reason">Read deeply — matches technology / ai; opinion/argument; appears across sections</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The best-selling author of “Sapiens” and “Nexus” discusses the core delusions deranging our politics.</div></details><details><summary>Overview</summary><div class="panel">In this New York Times opinion piece, historian Yuval Noah Harari examines the fundamental misconceptions shaping modern political discourse, specifically focusing on the rhetoric of Donald Trump. By analyzing the intersection of human cognition and emerging technologies, Harari explores how digital-age delusions distort reality and threaten democratic stability. This analysis is essential for understanding the broader implications of AI and information warfare, as it highlights how the manipulation of truth and narrative can undermine the collective decision-making processes necessary for a functioning society.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">11</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/26/opinion/pope-leo-encyclical-ai.html" target="_blank">Pope Leo’s Encyclical on A.I. Is Disappointingly Mild</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">AI</span><span class="sep">·</span><span>67.8</span><span class="sep">·</span><span>1,315 words · 6 min read</span><span class="sep">·</span><span>Tue, May 26</span><span class="reason">Read deeply — matches technology / ai; appears across sections</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">“Magnifica Humanitas” was measured and cautious.</div></details><details><summary>Overview</summary><div class="panel">In this New York Times opinion piece, the author critiques Pope Leo’s recent encyclical, Magnifica Humanitas, for its surprisingly cautious and measured approach to artificial intelligence. While the document addresses the intersection of faith and emerging technology, the author argues that its mild tone fails to provide the bold moral guidance required for such a transformative era. This critique is significant because it highlights the growing tension between traditional religious institutions and the rapid, disruptive pace of modern technological advancement in society.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">12</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/26/well/eat/ai-chatbots-nutrition-advice.html" target="_blank">Should You Take Nutrition Advice From a Chatbot?</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">AI</span><span class="sep">·</span><span>66.0</span><span class="sep">·</span><span>1,332 words · 6 min read</span><span class="sep">·</span><span>Tue, May 26</span><span class="reason">Read deeply — matches technology / ai</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Many people are turning to artificial intelligence for help with their diet. Experts weigh the potential pros and cons.</div></details><details><summary>Overview</summary><div class="panel">As artificial intelligence becomes an increasingly popular tool for dietary planning, this New York Times article examines the reliability of chatbots in providing nutritional guidance. By consulting industry experts, the piece weighs the potential benefits of AI-driven convenience against significant risks, such as the dissemination of inaccurate health information or the lack of personalized medical context. This analysis is essential for readers navigating the intersection of technology and wellness, highlighting why human oversight remains critical when making decisions about personal health and nutrition.</div></details></div>
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Technology</h3></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html" target="_blank">UK Institute Is Hunting for Dangers Lurking in AI</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>81.9</span><span class="sep">·</span><span>1,246 words · 6 min read</span><span class="sep">·</span><span>Sun, May 24</span><span class="reason">Read deeply — matches technology / ai; strategic signal; appears across sections</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The government’s A.I. Security Institute, staffed by alumni from OpenAI and Google, is becoming a model for countries grappling with A.I.’s emerging risks.</div></details><details><summary>Overview</summary><div class="panel">This New York Times article examines the role of the United Kingdom’s AI Safety Institute as a global benchmark for government-led oversight of artificial intelligence. Staffed by former researchers from industry leaders like OpenAI and Google, the institute focuses on identifying and mitigating emerging risks associated with advanced models. This development is significant because it highlights how nations are shifting from passive observation to active, technical scrutiny, establishing a critical framework for international policy as governments worldwide struggle to balance rapid technological innovation with public safety.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html" target="_blank">SpaceX IPO Filing Reveals Favorable Terms for Elon Musk</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>72.5</span><span class="sep">·</span><span>821 words · 4 min read</span><span class="sep">·</span><span>Tue, May 26</span><span class="reason">Read deeply — matches business / economy / markets; appears across sections</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The ways it set up its board and Mr. Musk’s pay appear to benefit him at the expense of other shareholders, corporate governance experts said.</div></details><details><summary>Overview</summary><div class="panel">This New York Times report examines the regulatory filings for the SpaceX initial public offering, highlighting controversial governance structures that disproportionately favor Elon Musk. By analyzing the company’s board composition and executive compensation packages, the article details how these terms potentially disadvantage minority shareholders. This coverage is essential for investors and market observers, as it underscores the tension between Musk’s concentrated control and standard corporate governance expectations, raising significant questions about transparency and equity in the lead-up to one of the decade’s most anticipated market debuts.</div></details></div>
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Business</h3></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/26/business/oil-gas-price-iran.html" target="_blank">Global Oil Price Rises After U.S. Strikes in Iran Cloud Peace Deal</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Business</span><span class="sep">·</span><span>72.8</span><span class="sep">·</span><span>432 words · 2 min read</span><span class="sep">·</span><span>Tue, May 26</span><span class="reason">Read deeply — matches business / economy / markets</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Optimism for a resolution to the conflict and the reopening of the Strait of Hormuz was checked after the United States said it had carried out strikes on missile launch sites in Iran.</div></details><details><summary>Overview</summary><div class="panel">This New York Times article examines the sudden surge in global oil prices following U.S. military strikes on missile launch sites in Iran, which disrupted emerging hopes for a regional peace agreement. It covers how these geopolitical tensions have stalled negotiations to reopen the critical Strait of Hormuz shipping lane. This development matters because it directly threatens global energy security, heightens market volatility, and underscores how quickly military escalations in the Middle East can disrupt international trade and fuel inflationary pressures worldwide.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/26/business/eli-lilly-vaccines-shingles-epstein-barr.html" target="_blank">Eli Lilly to Buy 3 Vaccine Developers</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Business</span><span class="sep">·</span><span>70.3</span><span class="sep">·</span><span>286 words · 2 min read</span><span class="sep">·</span><span>Tue, May 26</span><span class="reason">Read deeply — matches business / economy / markets; strategic signal</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The drugmaker said it would spend up to $4 billion to acquire small companies exploring vaccines for shingles, Epstein-Barr virus and other pathogens.</div></details><details><summary>Overview</summary><div class="panel">Eli Lilly has announced a strategic expansion into the vaccine market through the acquisition of three specialized developers for up to $4 billion. This investment targets the development of novel vaccines for shingles, the Epstein-Barr virus, and other significant pathogens. By diversifying its portfolio beyond its core pharmaceutical offerings, Eli Lilly is signaling a major shift in its long-term growth strategy. This move is significant for market observers as it highlights the company’s intent to capture emerging opportunities within the competitive global vaccine landscape.</div></details></div>
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Sunday Opinion</h3></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html" target="_blank">What A.I. Philanthropists Can Learn From the Gilded Age</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Sunday Opinion</span><span class="sep">·</span><span>71.2</span><span class="sep">·</span><span>879 words · 4 min read</span><span class="sep">·</span><span>Mon, May 25</span><span class="reason">Read deeply — matches technology / ai; appears across sections</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Leave a physical legacy to future generations, not just a record of programs and disbursements.</div></details><details><summary>Overview</summary><div class="panel">This New York Times opinion piece examines how modern artificial intelligence philanthropists should approach their legacy by drawing parallels to the Gilded Age. Rather than focusing solely on digital programs or financial disbursements, the author argues that tech leaders should invest in tangible, physical infrastructure that benefits future generations. By prioritizing enduring monuments and public spaces, AI donors can ensure their contributions leave a lasting, visible impact on society, moving beyond the ephemeral nature of software to create a permanent cultural footprint.</div></details></div>
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Energy &amp; Environment</h3></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html" target="_blank">Trump Eases Restrictions on Climate ‘Super Pollutants’</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Energy &amp; Environment</span><span class="sep">·</span><span>66.0</span><span class="sep">·</span><span>917 words · 4 min read</span><span class="sep">·</span><span>Thu, May 21</span><span class="reason">Read deeply — matches climate / energy / infrastructure; core news</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The administration is delaying a phaseout of hydrofluorocarbons, potent planet-warming chemicals used in air-conditioning and refrigeration.</div></details><details><summary>Overview</summary><div class="panel">This New York Times report details the Trump administration’s decision to delay the mandatory phaseout of hydrofluorocarbons, which are potent greenhouse gases commonly used in refrigeration and air-conditioning systems. By easing these regulatory restrictions, the administration is effectively slowing efforts to curb these climate-warming super pollutants. This development is significant because it marks a major shift in environmental policy, potentially undermining international climate commitments and accelerating global warming trends by allowing the continued widespread use of chemicals that trap heat far more effectively than carbon dioxide.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/18/climate/epa-forever-chemicals-pfas-drinking-water.html" target="_blank">E.P.A. to Repeal Some Limits on ‘Forever Chemicals’ in Drinking Water</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Energy &amp; Environment</span><span class="sep">·</span><span>65.3</span><span class="sep">·</span><span>1,409 words · 7 min read</span><span class="sep">·</span><span>Tue, May 26</span><span class="reason">Read deeply — matches regulation / policy; core news</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The rules were established by the Biden administration after research linked the compounds to a range of serious health problems.</div></details><details><summary>Overview</summary><div class="panel">This New York Times report examines the Environmental Protection Agency’s decision to repeal specific federal limits on PFAS, commonly known as forever chemicals, in public drinking water. Originally established by the Biden administration to mitigate significant health risks associated with these persistent compounds, the regulations faced intense scrutiny and legal challenges. This policy shift is critical as it marks a major reversal in federal environmental protection efforts, directly impacting public health standards and the ongoing national debate over how to regulate toxic industrial contaminants.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html" target="_blank">Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Energy &amp; Environment</span><span class="sep">·</span><span>64.0</span><span class="sep">·</span><span>1,161 words · 6 min read</span><span class="sep">·</span><span>Tue, May 19</span><span class="reason">Read deeply — matches climate / energy / infrastructure; core news</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">NextEra’s proposed acquisition of Dominion Energy comes as Americans are paying a lot more for electricity, and data centers are demanding a lot more power from utilities.</div></details><details><summary>Overview</summary><div class="panel">This New York Times report examines NextEra Energy’s proposed acquisition of Dominion Energy, framing the deal within the broader context of a strained American power grid. As electricity rates climb nationwide, the rapid expansion of energy-intensive data centers is placing unprecedented pressure on utility providers to meet surging demand. This potential merger serves as a critical signal for the energy sector, highlighting how infrastructure consolidation and the race to power the digital economy are reshaping utility strategy, regulatory landscapes, and consumer costs.</div></details></div>
+  </div>
+</article>
+</details>
+</details>
+
+<details class="section" id="blogs" open>
+  <summary class="section-head"><h2>Blogs &amp; Craft</h2></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.troyhunt.com/weekly-update-505/" target="_blank">Weekly Update 505</a></h4>
+    <div class="meta"><span class="src">Troy Hunt</span><span class="sep">·</span><span class="cat">Security</span><span class="sep">·</span><span>124.7</span><span class="sep">·</span><span>May 24</span><span class="reason">Read deeply — matches security / privacy; durable read</span></div>
+    <details><summary>Overview</summary><div class="panel">In this weekly update, cybersecurity expert Troy Hunt discusses the sudden resurgence of the ShinyHunters hacking group following rumors of a massive ransom payment from Instructure. The post covers the implications of paying ransoms to cybercriminals, highlighting how such financial windfalls fuel further malicious activities rather than buying permanent peace. This analysis is crucial for security professionals and organizations navigating the complex ethics and practical consequences of ransomware negotiations, illustrating why capitulating to extortionists rarely guarantees long-term safety.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything" target="_blank">Quoting Armin Ronacher</a></h4>
+    <div class="meta"><span class="src">Simon Willison</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>104.0</span><span class="sep">·</span><span>277 words · 2 min read</span><span class="sep">·</span><span>May 24</span><span class="reason">Read deeply — matches ai / agents / llms</span></div>
+    <details><summary>Overview</summary><div class="panel">In this post, Simon Willison highlights a quote from developer Armin Ronacher addressing a frustrating new challenge in open-source software maintenance: the influx of AI-generated bug reports. Ronacher explains how users increasingly use LLMs to draft issues, resulting in overly confident, inaccurate diagnoses and fabricated reproduction steps that obscure the actual problems. This piece is crucial because it exposes how the misuse of generative AI tools is actively degrading developer workflows, wasting maintainers&#x27; time, and complicating the collaborative nature of open-source communities.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything" target="_blank">datasette-agent 0.1a4</a></h4>
+    <div class="meta"><span class="src">Simon Willison</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>98.3</span><span class="sep">·</span><span>203 words · 1 min read</span><span class="sep">·</span><span>May 24</span><span class="reason">Skim — matches software engineering</span></div>
+    <details><summary>Overview</summary><div class="panel">Simon Willison’s release of datasette-agent 0.1a4 introduces a &quot;Start a new agent chat&quot; interface directly within the Datasette &quot;Jump to&quot; menu, accessible by pressing the slash key. This update leverages the new makeJumpSections() JavaScript plugin hook introduced in Datasette 1.0a30. It matters because it significantly improves user experience and accessibility, allowing developers and data analysts to seamlessly initiate AI-driven agent interactions directly from their database interface, which can be tested live at agent.datasette.io using GitHub authentication.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry" target="_blank">Why Steve Kerr Stayed With the Warriors</a></h4>
+    <div class="meta"><span class="src">Daring Fireball</span><span class="sep">·</span><span class="cat">Strategy</span><span class="sep">·</span><span>89.4</span><span class="sep">·</span><span>May 24</span><span class="reason">Read deeply — matches strategy / business models</span></div>
+    <details><summary>Overview</summary><div class="panel">This poignant ESPN profile by Wright Thompson explores Golden State Warriors head coach Steve Kerr’s decision to remain with the franchise rather than walk away. Drawing on his firsthand observations of Michael Jordan’s turbulent career endings and Gregg Popovich’s late-career struggles, Kerr reveals his desire to guide the Warriors through their inevitable decline without the bitter grudges that fractured the New England Patriots. It is a crucial study in sports strategy, leadership, and organizational longevity, illustrating how elite leaders navigate the painful transition from championship dominance to rebuilding.</div></details>
+  </div>
+</article>
+</details>
+
+<details class="section" id="linkedin" open>
+  <summary class="section-head"><h2>From the Network</h2></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.linkedin.com/in/ramar/recent-activity/all/" target="_blank">View Rama&#x27;s recent LinkedIn activity</a></h4>
+    <div class="meta"><span class="src">LinkedIn</span></div>
+    
+  </div>
+</article>
+</details>
+
+</div>
+<script>
+(function () {
+  var root = document.documentElement;
+  function pressGroup(name, value) {
+    document.querySelectorAll('[data-tg="' + name + '"]').forEach(function (btn) {
+      btn.setAttribute('aria-pressed', btn.dataset.val === value ? 'true' : 'false');
+    });
+  }
+  function applyFont(v) {
+    root.setAttribute('data-font', v);
+    pressGroup('font', v);
+    try { localStorage.setItem('dd-font', v); } catch (e) {}
+  }
+  function applyTheme(v) {
+    root.setAttribute('data-theme', v);
+    pressGroup('theme', v);
+    try { localStorage.setItem('dd-theme', v); } catch (e) {}
+  }
+  document.querySelectorAll('[data-tg="font"]').forEach(function (btn) {
+    btn.addEventListener('click', function () { applyFont(btn.dataset.val); });
+  });
+  document.querySelectorAll('[data-tg="theme"]').forEach(function (btn) {
+    btn.addEventListener('click', function () { applyTheme(btn.dataset.val); });
+  });
+  var storedFont = null, storedTheme = null;
+  try { storedFont = localStorage.getItem('dd-font'); storedTheme = localStorage.getItem('dd-theme'); } catch (e) {}
+  applyFont(storedFont || 'serif');
+  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  applyTheme(storedTheme || (prefersDark ? 'dark' : 'light'));
+  document.getElementById('expandAll').addEventListener('click', function () {
+    document.querySelectorAll('details').forEach(function (d) { d.open = true; });
+  });
+  document.getElementById('collapseAll').addEventListener('click', function () {
+    document.querySelectorAll('details').forEach(function (d) { d.open = false; });
+  });
+})();
+
+</script>
 </body>
 </html>

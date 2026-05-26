@@ -1,13 +1,13 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-25 · 1334 items*
+*Last updated: 2026-05-26 · 1334 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
 | 2026-05-24 | DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost | HN | Technology | tech | 2026-05-24 | [link](https://esengine.github.io/DeepSeek-Reasonix/) |
 | 2026-05-24 | Show HN: Audiomass – a free, open-source multitrack audio editor for the web | HN | Technology | tech | 2026-05-24 | [link](https://audiomass.co/?multitrack=1) |
-| 2026-05-24 | Migrating from Go to Rust | HN | Technology | tech | 2026-05-24 | [link](https://corrode.dev/learn/migration-guides/go-to-rust/) |
 | 2026-05-24 | The Eternal Sloptember | HN | Technology | tech | 2026-05-24 | [link](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html) |
+| 2026-05-24 | Migrating from Go to Rust | HN | Technology | tech | 2026-05-24 | [link](https://corrode.dev/learn/migration-guides/go-to-rust/) |
 | 2026-05-24 | Memory has grown to nearly two-thirds of AI chip component costs | HN | Technology | tech | 2026-05-24 | [link](https://epoch.ai/data-insights/ai-chip-component-cost-shares) |
 | 2026-05-24 | Why is Vivado 2026.1 dropping Linux support for free tier? | HN | Technology | tech | 2026-05-24 | [link](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US) |
 | 2026-05-24 | Amazon Web Services – Four Years and Out | HN | Technology | tech | 2026-05-24 | [link](https://www.adventuresinoss.com/aws-four-years/) |
@@ -19,27 +19,27 @@
 | 2026-05-24 | A fundamental principle of aeronautical engineering has been overturned | HN | Technology | tech | 2026-05-24 | [link](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/) |
 | 2026-05-24 | Greg Brockman interview [video] | HN | Technology | tech | 2026-05-24 | [link](https://fs.blog/knowledge-project-podcast/greg-brockman/) |
 | 2026-05-24 | DeepSeek to Make Permanent 75% Discount on Flagship AI Model | HN | Technology | tech | 2026-05-24 | [link](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model) |
-| 2026-05-24 | Usborne 1980s Computer Books | HN | Technology | tech | 2026-05-24 | [link](https://usborne.com/us/books/computer-and-coding-books) |
+| 2026-05-24 | Building Pi with Pi | HN | Technology | tech | 2026-05-24 | [link](https://lucumr.pocoo.org/2026/5/24/pi-oss/) |
+| 2026-05-24 | OpenRouter, an Exchange for A.I. Models, Raises $113 Million | NYT · AI | AI | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/dealbook/openrouter-ai-models-fundraising.html) |
+| 2026-05-24 | The Vatican Takes on Silicon Valley With an A.I. Warning | NYT · AI | AI | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/dealbook/vatican-ai-silicon-valley.html) |
+| 2026-05-24 | To Understand Pope Leo’s Efforts on A.I., Look at the Man Shaking His Hand | NYT · AI | AI | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/us/pope-leo-ai-anthropic.html) |
+| 2026-05-24 | Progressives Are Listening to the Wrong People on A.I. | NYT · AI | AI | opinion | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/opinion/progressives-left-ai.html) |
 | 2026-05-24 | Artificial Intelligence Floods Court Dockets with Home-Brewed Lawsuits | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html) |
-| 2026-05-24 | UK Institute Is Hunting for Dangers Lurking in AI | NYT · AI | AI | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html) |
-| 2026-05-24 | As a Doctor, I Can Understand the Allure of ChatGPT | NYT · AI | AI | opinion | 2026-05-25 | [link](https://www.nytimes.com/2026/05/24/opinion/doctor-ai-chatgpt.html) |
-| 2026-05-24 | Graduating Into A.I. Pessimism | NYT · AI | AI | opinion | 2026-05-23 | [link](https://www.nytimes.com/video/opinion/100000010918890/graduating-into-ai-pessimism.html) |
+| 2026-05-24 | White House Shakes Up Green Card Policy, and the Pope Takes On A.I. | NYT · AI | AI | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/podcasts/the-headlines/white-house-green-card-pope-ai.html) |
+| 2026-05-24 | UK Institute Is Hunting for Dangers Lurking in AI | NYT · Technology | Technology | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html) |
+| 2026-05-24 | Global Oil Price Rises After U.S. Strikes in Iran Cloud Peace Deal | NYT · Business | Business | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/oil-gas-price-iran.html) |
+| 2026-05-24 | SpaceX IPO Filing Reveals Favorable Terms for Elon Musk | NYT · Technology | Technology | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html) |
 | 2026-05-24 | What A.I. Philanthropists Can Learn From the Gilded Age | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-05-25 | [link](https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html) |
-| 2026-05-24 | Pope Leo Warns of A.I. Risks in His First Papal Encyclical | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/video/world/europe/100000010924143/pope-leo-ai-encyclical-risks.html) |
-| 2026-05-24 | Move Over, Private Equity. It’s Great to Be a Banker Again. | NYT · Business | Business | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/banks-deals-profits.html) |
-| 2026-05-24 | Main Takeaways From Pope Leo’s Encyclical on A.I. | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/us/pope-leo-encyclical-highlights.html) |
-| 2026-05-24 | One Job That Is Growing in the A.I. Era? Cybersecurity Experts. | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/24/technology/ai-cybersecurity-jobs.html) |
+| 2026-05-24 | You Can’t Stop This Data Center, a Mom Was Told. She Won’t Quit. | NYT · AI | AI | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/us/data-centers-kassi-solberg.html) |
+| 2026-05-24 | Eli Lilly to Buy 3 Vaccine Developers | NYT · Business | Business | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/eli-lilly-vaccines-shingles-epstein-barr.html) |
+| 2026-05-24 | At the A.I. Epicenter, Technologists Dismiss Pope Leo’s Warnings About the New Technology | NYT · AI | AI | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html) |
 | 2026-05-24 | As A.I. Fever Rises in Silicon Valley, Pope Leo Has a Few Words | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/technology/pope-ai-silicon-valley.html) |
-| 2026-05-24 | To A.I. Executives, We’re All Just ‘Meat Computers’ | NYT · AI | AI | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/business/meat-computer-brain-artificial-intelligence.html) |
-| 2026-05-24 | Iran Is Trolling Us and We’re Not Doing Anything About It | NYT · AI | AI | opinion | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/opinion/iran-trolling-propaganda.html) |
-| 2026-05-24 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
+| 2026-05-24 | Yuval Noah Harari on Donald Trump’s Core Delusion | NYT · AI | AI | opinion | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/opinion/ezra-klein-podcast-yuval-noah-harari.html) |
+| 2026-05-24 | Pope Leo’s Encyclical on A.I. Is Disappointingly Mild | NYT · AI | AI | opinion | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/opinion/pope-leo-encyclical-ai.html) |
 | 2026-05-24 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
-| 2026-05-24 | Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html) |
-| 2026-05-24 | Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models | NYT · Technology | Technology | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html) |
-| 2026-05-24 | Giving Workers a Stake in A.I. Gains Traction | NYT · Business | Business | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html) |
-| 2026-05-24 | SpaceX, OpenAI and Anthropic Race to Go Public | NYT · Business | Business | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html) |
-| 2026-05-24 | A Democrat Took on Red Sox Ownership in an Ad. A Network Pulled it. | NYT · Politics | Politics | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/us/politics/platner-ad-red-sox-midterms.html) |
-| 2026-05-24 | Trump Administration Chips Away at Last Traces of Broad Inquiry Into Jan. 6 | NYT · Politics | Politics | news | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/us/politics/trump-prosecutors-jan-6.html) |
+| 2026-05-24 | Should You Take Nutrition Advice From a Chatbot? | NYT · AI | AI | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/well/eat/ai-chatbots-nutrition-advice.html) |
+| 2026-05-24 | E.P.A. to Repeal Some Limits on ‘Forever Chemicals’ in Drinking Water | NYT · Energy & Environment | Energy & Environment | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/18/climate/epa-forever-chemicals-pfas-drinking-water.html) |
+| 2026-05-24 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
 | 2026-05-24 | Weekly Update 505 | Troy Hunt · Security & Privacy | Security | tech | 2026-05-24 | [link](https://www.troyhunt.com/weekly-update-505/) |
 | 2026-05-24 | Quoting Armin Ronacher | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-24 | [link](https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything) |
 | 2026-05-24 | datasette-agent 0.1a4 | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-24 | [link](https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything) |
