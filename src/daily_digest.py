@@ -1530,13 +1530,29 @@ details.section#nyt .article details.abstract .panel { font-style: normal; }
 .details-row { display: flex; flex-wrap: wrap; gap: 0 16px; margin-top: 4px; }
 .details-row details { margin-top: 0; }
 
-/* Small screens */
+/* "More" chunk toggles (HN list): indent ONLY the button so expanded content is full-width */
+.more { margin: 6px 0 0 0; }
+.more > summary { display: inline-block; margin-left: 32px; padding: 4px 10px; border: 1px solid var(--rule); border-radius: 2px; color: var(--mute); cursor: pointer; font-size: 12px; letter-spacing: 0.04em; }
+.more > summary:hover { color: var(--ink); border-color: var(--ink-soft); }
+.more[open] > summary { margin-bottom: 6px; }
+
+/* Toolbar icon glyphs */
+.toolbar .ico { display: inline-block; min-width: 1em; text-align: center; }
+.toolbar .ico-serif { font-family: 'Lora', Georgia, serif; font-weight: 600; }
+.toolbar .ico-sans { font-family: 'Inter', -apple-system, sans-serif; font-weight: 600; }
+
+/* Small screens: icons-only toolbar, fit one line */
 @media (max-width: 560px) {
   .page { padding: 16px 16px 40px; }
   .masthead { padding: 20px 0 16px; margin-bottom: 22px; }
   .article { grid-template-columns: 22px 1fr; gap: 2px 10px; }
   .article h4 { font-size: 18px; }
-  .toolbar { font-size: 9.5px; flex-wrap: wrap; gap: 8px; }
+  .toolbar { font-size: 11px; flex-wrap: nowrap; gap: 6px; align-items: center; }
+  .toolbar .lbl { display: none; }
+  .toolbar .archive { padding: 2px 4px; }
+  .toolbar .btn { padding: 4px 6px; font-size: 12px; }
+  .toolbar .seg .btn { padding: 4px 7px; }
+  .controls { gap: 4px; flex-wrap: nowrap; }
   .section-head { flex-direction: column; align-items: flex-start; gap: 4px; }
 }
 
@@ -1583,7 +1599,7 @@ _PAGE_SCRIPT = """(function () {
 
 
 def _short_date_label(article):
-    """Compact date for the meta line: 'May 23' (HN/blogs/general) or 'Sun, May 24' (NYT)."""
+    """Compact date for the meta line: 'Sun, May 24' (NYT) or 'Published: Sun, May 24' (HN/blogs/general)."""
     pub = article.get("date")
     day = None
     if isinstance(pub, datetime.date):
@@ -1597,59 +1613,84 @@ def _short_date_label(article):
         return ""
     if article.get("outlet") == "NYT":
         return day.strftime("%a, %b %-d")
-    return day.strftime("%b %-d")
+    return day.strftime("%a, %b %-d")
 
 
-def _render_meta(article, show_score=False):
-    parts = []
-    src = article.get("outlet") or article.get("source")
-    if src:
-        parts.append(f'<span class="src">{_html_escape(src)}</span>')
-    cat = article.get("topic_tag") or article.get("section")
-    if cat:
-        parts.append(f'<span class="cat">{_html_escape(cat)}</span>')
-    if show_score:
-        score = article.get("score")
-        if score not in (None, ""):
+def _render_meta(article, kind="generic"):
+    """Per-kind meta line.
+      HN  : HN \u00b7 date \u00b7 words/min \u00b7 pts \u00b7 comments \u00b7 HN Companion
+      NYT : NYT \u00b7 section \u00b7 date \u00b7 words/min \u00b7 score
+      blog: source \u00b7 category \u00b7 date \u00b7 words/min \u00b7 score
+    """
+    def span(text):
+        return f'<span>{_html_escape(text)}</span>'
+
+    def wc_span():
+        wc, mins = article.get("word_count"), article.get("reading_time_minutes")
+        if wc and mins:
             try:
-                parts.append(f'<span>{int(score)} pts</span>')
+                return f'<span>{int(wc):,} words \u00b7 {int(mins)} min read</span>'
             except (TypeError, ValueError):
-                pass
-        comments = article.get("comments")
-        if comments not in (None, ""):
+                return None
+        if mins:
             try:
-                parts.append(f'<span>{int(comments)} comments</span>')
+                return f'<span>{int(mins)} min read</span>'
             except (TypeError, ValueError):
-                pass
-    else:
-        score = article.get("score")
-        if score not in (None, ""):
-            try:
-                parts.append(f'<span>{float(score):.1f}</span>')
-            except (TypeError, ValueError):
-                pass
-    minutes = article.get("reading_time_minutes")
-    word_count = article.get("word_count")
-    if word_count and minutes:
+                return None
+        return None
+
+    def int_span(val, suffix):
+        if val in (None, ""):
+            return None
         try:
-            parts.append(f'<span>{int(word_count):,} words · {int(minutes)} min read</span>')
+            return f'<span>{int(val)} {suffix}</span>'
         except (TypeError, ValueError):
-            pass
-    elif minutes:
+            return None
+
+    def score_span():
+        sc = article.get("score")
+        if sc in (None, ""):
+            return None
         try:
-            parts.append(f'<span>{int(minutes)} min read</span>')
+            return f'<span>{float(sc):.1f}</span>'
         except (TypeError, ValueError):
-            pass
+            return None
+
     date_label = _short_date_label(article)
-    if date_label:
-        parts.append(f'<span>{_html_escape(date_label)}</span>')
-    if article.get("hn_companion_url"):
-        url = _html_escape(article["hn_companion_url"])
-        parts.append(f'<a href="{url}" target="_blank">HN Companion \u2197</a>')
+    parts = []
+    if kind == "hn":
+        parts.append(f'<span class="src">{_html_escape(article.get("outlet") or article.get("source") or "HN")}</span>')
+        hn_url = article.get("hn_companion_url")
+        if hn_url:
+            parts.append(f'<a href="{_html_escape(hn_url)}" target="_blank">HN Companion \u2197</a>')
+        if date_label: parts.append(span(date_label))
+        wc = wc_span()
+        if wc: parts.append(wc)
+        pts = int_span(article.get("score"), "pts")
+        if pts: parts.append(pts)
+        cm = int_span(article.get("comments"), "comments")
+        if cm: parts.append(cm)
+    elif kind == "nyt":
+        parts.append(f'<span class="src">{_html_escape(article.get("outlet") or "NYT")}</span>')
+        sect = article.get("topic_tag") or article.get("section")
+        if sect: parts.append(f'<span class="cat">{_html_escape(sect)}</span>')
+        if date_label: parts.append(span(date_label))
+        wc = wc_span()
+        if wc: parts.append(wc)
+        sc = score_span()
+        if sc: parts.append(sc)
+    else:
+        src = article.get("source") or article.get("outlet")
+        if src: parts.append(f'<span class="src">{_html_escape(src)}</span>')
+        cat = article.get("topic_tag") or article.get("section")
+        if cat: parts.append(f'<span class="cat">{_html_escape(cat)}</span>')
+        if date_label: parts.append(span(date_label))
+        wc = wc_span()
+        if wc: parts.append(wc)
+        sc = score_span()
+        if sc: parts.append(sc)
     inner = '<span class="sep">\u00b7</span>'.join(parts)
-    reason_text = " \u2014 ".join(part for part in (article.get("reading_mode"), article.get("reason")) if part)
-    reason_html = f'<span class="reason">{_html_escape(reason_text)}</span>' if reason_text else ""
-    return f'<div class="meta">{inner}{reason_html}</div>'
+    return f'<div class="meta">{inner}</div>'
 
 
 def _render_collapsible(label, text, css_class=""):
@@ -1664,21 +1705,24 @@ def _render_collapsible(label, text, css_class=""):
 
 def _render_article(article, index, kind):
     """kind ∈ {'hn', 'nyt', 'blog', 'linkedin'} — controls meta + details layout."""
-    show_score = (kind == "hn")
     num = f"{index:02d}"
     title = _html_escape(article.get("title", ""))
     url = _html_escape(article.get("url") or "#")
-    meta = _render_meta(article, show_score=show_score)
+    meta = _render_meta(article, kind=kind)
+    model = article.get("overview_model")
+    ov_label = f"Overview (Model: {model})" if model else "Overview"
     if kind == "nyt":
         abstract_html = _render_collapsible("Abstract", article.get("abstract"), css_class="abstract")
-        overview_html = _render_collapsible("Overview", article.get("article_overview"))
+        overview_html = _render_collapsible(ov_label, article.get("article_overview"))
         details_block = (
             f'<div class="details-row">{abstract_html}{overview_html}</div>'
             if (abstract_html or overview_html) else ""
         )
     else:
         overview_text = article.get("discussion_overview") or article.get("article_overview")
-        details_block = _render_collapsible("Overview", overview_text)
+        # HN discussion overviews carry no model; only article_overview from blogs does.
+        label = "Overview" if article.get("discussion_overview") else ov_label
+        details_block = _render_collapsible(label, overview_text)
     return (
         '<article class="article">\n'
         f'  <div class="num">{num}</div>\n'
@@ -1694,7 +1738,23 @@ def _render_article(article, index, kind):
 def _render_section(section_id, title, articles, kind):
     if not articles:
         return ""
-    items = "\n".join(_render_article(a, i, kind) for i, a in enumerate(articles, 1))
+    if kind == "hn":
+        visible = articles[:5]
+        second = articles[5:10]
+        third = articles[10:16]
+        first = "\n".join(_render_article(a, i, kind) for i, a in enumerate(visible, 1))
+        items = first
+        if second or third:
+            items_second = "\n".join(_render_article(a, i, kind) for i, a in enumerate(second, 6))
+            if third:
+                items_third = "\n".join(_render_article(a, i, kind) for i, a in enumerate(third, 11))
+                nested = f'<details class="more"><summary>More</summary>\n{items_third}\n</details>'
+                inner = f'{items_second}\n{nested}' if items_second else nested
+            else:
+                inner = items_second
+            items += f'\n<details class="more"><summary>More</summary>\n{inner}\n</details>'
+    else:
+        items = "\n".join(_render_article(a, i, kind) for i, a in enumerate(articles, 1))
     return (
         f'<details class="section" id="{section_id}" open>\n'
         f'  <summary class="section-head"><h2>{_html_escape(title)}</h2></summary>\n'
@@ -1808,9 +1868,9 @@ def generate_html(date, data, settings=None, archive_href="digest_archive.html")
 
     body_parts = [
         _render_section("hn", "Yesterday on Hacker News", sections["hn"], "hn"),
-        _render_nyt_section("The Times — Strategic Reading", sections["nyt_wsj"]),
+        _render_nyt_section("Today on The New York Times", sections["nyt_wsj"]),
         _render_section("research", "MIT & Sloan Research", sections["research"], "blog"),
-        _render_section("blogs", "Blogs & Craft", sections["blogs"], "blog"),
+        _render_section("blogs", "Blog Posts", sections["blogs"], "blog"),
         _render_section("linkedin", "From the Network", sections["linkedin"], "linkedin"),
     ]
     body_sections = "\n\n".join(part for part in body_parts if part)
@@ -1831,18 +1891,18 @@ def generate_html(date, data, settings=None, archive_href="digest_archive.html")
 <body>
 <div class="page">
   <div class="toolbar">
-    <a class="archive" href="{_html_escape(archive_href)}">← Read past daily digests</a>
+    <a class="archive" href="{_html_escape(archive_href)}" title="Read past daily digests"><span class="ico" aria-hidden="true">←</span><span class="lbl"> Read past daily digests</span></a>
     <div class="controls">
       <div class="seg" role="group" aria-label="Font">
-        <button class="btn" data-tg="font" data-val="serif" aria-pressed="true">Serif</button>
-        <button class="btn" data-tg="font" data-val="sans" aria-pressed="false">Sans</button>
+        <button class="btn" data-tg="font" data-val="serif" aria-pressed="true" title="Serif"><span class="ico ico-serif" aria-hidden="true">A</span><span class="lbl"> Serif</span></button>
+        <button class="btn" data-tg="font" data-val="sans" aria-pressed="false" title="Sans"><span class="ico ico-sans" aria-hidden="true">A</span><span class="lbl"> Sans</span></button>
       </div>
       <div class="seg" role="group" aria-label="Theme">
-        <button class="btn" data-tg="theme" data-val="light" aria-pressed="true">Light</button>
-        <button class="btn" data-tg="theme" data-val="dark" aria-pressed="false">Dark</button>
+        <button class="btn" data-tg="theme" data-val="light" aria-pressed="true" title="Light"><span class="ico" aria-hidden="true">☀</span><span class="lbl"> Light</span></button>
+        <button class="btn" data-tg="theme" data-val="dark" aria-pressed="false" title="Dark"><span class="ico" aria-hidden="true">☾</span><span class="lbl"> Dark</span></button>
       </div>
-      <button class="btn" id="expandAll">Expand all</button>
-      <button class="btn" id="collapseAll">Collapse all</button>
+      <button class="btn" id="expandAll" title="Expand all"><span class="ico" aria-hidden="true">▾</span><span class="lbl"> Expand all</span></button>
+      <button class="btn" id="collapseAll" title="Collapse all"><span class="ico" aria-hidden="true">▴</span><span class="lbl"> Collapse all</span></button>
     </div>
   </div>
 
@@ -1925,9 +1985,9 @@ def generate_markdown(date, data, settings=None):
         return [f"### {heading}", "", _md_grouped_articles(articles, group_key), ""]
 
     parts += sec("🔶 Yesterday's Top HackerNews", sections["hn"], numbered=True, score=True)
-    parts += grouped_sec("📰 NYT Strategic Reading List", sections["nyt_wsj"], "topic_tag")
+    parts += grouped_sec("📰 Today on The New York Times", sections["nyt_wsj"], "topic_tag")
     parts += sec("🎓 MIT & Sloan Research", sections["research"], numbered=True)
-    parts += sec("📚 Blogs & Craft", sections["blogs"], numbered=True)
+    parts += sec("📚 Blog Posts", sections["blogs"], numbered=True)
     parts += sec("💼 LinkedIn - Rama's Activity", sections["linkedin"])
     parts += ["---", f"*Generated {datetime.datetime.now().strftime('%-I:%M %p')} on {datetime.date.today().strftime('%B %-d, %Y')}*"]
     return "\n".join(parts)
