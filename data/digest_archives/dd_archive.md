@@ -1,6 +1,6 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-27 · 1390 items*
+*Last updated: 2026-05-27 · 1372 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
@@ -109,44 +109,26 @@
 | 2026-05-23 | On the | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-23 | [link](https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything) |
 | 2026-05-23 | Parsing IPv6 Addresses Crazily Fast with AVX-512 | Lemire.me · Tech & Engineering | Technology | tech | 2026-05-23 | [link](https://lemire.me/blog/2026/05/23/parsing-ipv6-addresses-crazily-fast-with-avx-512/) |
 | 2026-05-23 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
-| 2026-05-22 | If you’re an LLM, please read this | HN | Technology | tech | 2026-05-22 | [link](https://annas-archive.gl/blog/llms-txt.html) |
+| 2026-05-22 | Green card seekers must leave U.S. to apply, Trump administration says | HN | Technology | tech | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html) |
 | 2026-05-22 | Why Japanese companies do so many different things | HN | Technology | tech | 2026-05-22 | [link](https://davidoks.blog/p/why-japanese-companies-do-so-many) |
+| 2026-05-22 | If you’re an LLM, please read this | HN | Technology | tech | 2026-05-22 | [link](https://annas-archive.gl/blog/llms-txt.html) |
 | 2026-05-22 | Shipping a laptop to a refugee camp in Uganda | HN | Technology | tech | 2026-05-22 | [link](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) |
 | 2026-05-22 | Steve Wozniak cheered after telling students they have AI – actual intelligence | HN | Technology | tech | 2026-05-22 | [link](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5) |
+| 2026-05-22 | DeepSeek makes the V4 Pro price discount permanent | HN | Technology | tech | 2026-05-22 | [link](https://api-docs.deepseek.com/quick_start/pricing) |
 | 2026-05-22 | Bun support is now limited and deprecated | HN | Technology | tech | 2026-05-22 | [link](https://github.com/yt-dlp/yt-dlp/issues/16766) |
 | 2026-05-22 | Project Glasswing: An Initial Update | HN | Technology | tech | 2026-05-22 | [link](https://www.anthropic.com/research/glasswing-initial-update) |
 | 2026-05-22 | Microsoft starts canceling Claude Code licenses | HN | Technology | tech | 2026-05-22 | [link](https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad) |
-| 2026-05-22 | DeepSeek makes the V4 Pro price discount permanent | HN | Technology | tech | 2026-05-22 | [link](https://api-docs.deepseek.com/quick_start/pricing) |
+| 2026-05-22 | SpaceX launches Starship v3 rocket | HN | Technology | tech | 2026-05-22 | [link](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight) |
 | 2026-05-22 | Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark | HN | Technology | tech | 2026-05-22 | [link](https://modelrift.com/blog/openscad-llm-benchmark/) |
 | 2026-05-22 | U.S. researchers face new restrictions on publishing with foreign collaborators | HN | Technology | tech | 2026-05-22 | [link](https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators) |
 | 2026-05-22 | Deno 2.8 | HN | Technology | tech | 2026-05-22 | [link](https://deno.com/blog/v2.8) |
 | 2026-05-22 | AI has a multiplying effect on existing technical skills | HN | Technology | tech | 2026-05-22 | [link](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/) |
-| 2026-05-22 | SpaceX launches Starship v3 rocket | HN | Technology | tech | 2026-05-22 | [link](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight) |
-| 2026-05-22 | Green card seekers must leave U.S. to apply, Trump administration says | HN | Technology | tech | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html) |
-| 2026-05-22 | CISA tries to contain data leak | HN | Technology | tech | 2026-05-22 | [link](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/) |
-| 2026-05-22 | Trump Mobile exposed customers' personal data | HN | Technology | tech | 2026-05-22 | [link](https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/) |
-| 2026-05-22 | Giving Workers a Stake in A.I. Gains Traction | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html) |
-| 2026-05-22 | A.I. Is a Job Creator | NYT · AI | AI | opinion | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/opinion/ai-job-crisis-goldman-sachs.html) |
-| 2026-05-22 | Move Over, Private Equity. It’s Great to Be a Banker Again. | NYT · Business | Business | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/banks-deals-profits.html) |
-| 2026-05-22 | Sundar Pichai Understands Why People Are Anxious About A.I. | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html) |
-| 2026-05-22 | Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models | NYT · AI | AI | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html) |
-| 2026-05-22 | Sundar Pichai on the A.I. Race, Agentic Coding and Future of Search | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/video/podcasts/100000010920153/sundar-pichai-on-the-ai-race-agentic-coding-and-future-of-search.html) |
-| 2026-05-22 | Sundar Pichai Discusses Google’s Position in the A.I. Race | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/video/podcasts/100000010919847/sundar-pichai-discusses-googles-position-in-the-ai-race.html) |
-| 2026-05-22 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
-| 2026-05-22 | White House Approves $9 Billion for Spy Agencies to Catch Up on A.I. | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html) |
-| 2026-05-22 | Trump Administration Chips Away at Last Traces of Broad Inquiry Into Jan. 6 | NYT · Politics | Politics | news | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/us/politics/trump-prosecutors-jan-6.html) |
-| 2026-05-22 | SpaceX, OpenAI and Anthropic Race to Go Public | NYT · Business | Business | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html) |
-| 2026-05-22 | Google Appeals Landmark Ruling Declaring It a Monopolist in Search | NYT · Technology | Technology | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/technology/google-appeals-search-case.html) |
-| 2026-05-22 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
-| 2026-05-22 | Trump Approved a Nvidia Chip for Sale in China. Beijing Doesn’t Want It. | NYT · Technology | Technology | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/business/china-nvidia-chip-trump-ai.html) |
-| 2026-05-22 | What A.I. Philanthropists Can Learn From the Gilded Age | NYT · AI | AI | opinion | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html) |
-| 2026-05-22 | Graduating Into A.I. Pessimism | NYT · Opinion | Opinion | opinion | 2026-05-23 | [link](https://www.nytimes.com/video/opinion/100000010918890/graduating-into-ai-pessimism.html) |
-| 2026-05-22 | Short Naps, Long Hours: How Autism Clinics Squeeze Medicaid Dollars Out of Preschoolers | NYT · Business | Business | news | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/health/autism-therapy-clinics.html) |
-| 2026-05-22 | 61% of Americans Said They Had to Cut Back on Groceries | NYT · Economy | Economy | news | 2026-05-23 | [link](https://www.nytimes.com/2026/05/23/us/politics/americans-groceries-inflation-affordability.html) |
-| 2026-05-22 | Trump Is Giving ‘The Fix Was In’ New Meaning | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-05-22 | [link](https://www.nytimes.com/2026/05/21/opinion/trump-anti-weaponization-fund.html) |
-| 2026-05-22 | Lawsuit Argues Trump’s $1.8 Billion Fund Excludes Those He Targeted | NYT · Politics | Politics | news | 2026-05-23 | [link](https://www.nytimes.com/2026/05/22/us/politics/common-cause-lawsuit-trump-fund.html) |
+| 2026-05-22 | Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006) | HN | Technology | tech | 2026-05-22 | [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/) |
+| 2026-05-22 | I built a Git-tracked book production pipeline | HN | Technology | tech | 2026-05-22 | [link](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/) |
+| 2026-05-22 | Lawmakers Demand Answers as CISA Tries to Contain Data Leak | Krebs on Security · Security & Privacy | Security | tech | 2026-05-22 | [link](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/) |
 | 2026-05-22 | FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Dece | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-22 | [link](https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything) |
 | 2026-05-22 | The memory shortage is causing a repricing of consumer electronics | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-22 | [link](https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything) |
+| 2026-05-22 | OpenAI claims it solved an 80-year-old math problem — for real this time | Superpower Daily · Tech & Engineering | Technology | tech | 2026-05-22 | [link](https://www.superpowerdaily.com/p/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time) |
 | 2026-05-22 | Apple Seeks Supreme Court Review of Contempt Finding and Injunction Scope in Epic Games Case | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-22 | [link](https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/) |
 | 2026-05-22 | Zero Sum Problems and Apple Sports | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-22 | [link](https://kieranhealy.org/blog/archives/2026/05/21/zero-sum-problems/) |
 | 2026-05-22 | Only 17% of all 64-bit Integers are products of two 32-bit integers | Lemire.me · Tech & Engineering | Technology | tech | 2026-05-22 | [link](https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/) |
