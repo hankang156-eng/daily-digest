@@ -61,6 +61,7 @@
 | 2026-05-25 | Nobody cracks open a programming book anymore | HN | Technology | tech | 2026-05-25 | [link](https://unix.foo/posts/nobody-cracks-open-a-programming-book/) |
 | 2026-05-25 | Two of America’s Thorniest Political Issues Are Dividing an Arizona Town | NYT · AI | AI | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/us/politics/marana-arizona-data-center-ice-detention.html) |
 | 2026-05-25 | Why Memory Chips Are Dominating the A.I. Rally | NYT · AI | AI | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/business/dealbook/ai-chips-war-samsung-micron.html) |
+| 2026-05-25 | Pope Leo’s A.I. Vision Might Not Be Strange Enough | NYT · AI | AI | opinion | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/opinion/pope-leo-ai-encyclical.html) |
 | 2026-05-25 | OpenRouter, an Exchange for A.I. Models, Raises $113 Million | NYT · Business | Business | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/dealbook/openrouter-ai-models-fundraising.html) |
 | 2026-05-25 | Artificial Intelligence Floods Court Dockets with Home-Brewed Lawsuits | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html) |
 | 2026-05-25 | The Two Issues That Could Swing This District | NYT · AI | AI | news | 2026-05-27 | [link](https://www.nytimes.com/video/us/100000010903992/ai-data-center-ice-detention-center-arizona.html) |
@@ -73,7 +74,6 @@
 | 2026-05-25 | Progressives Are Listening to the Wrong People on A.I. | NYT · Opinion | Opinion | opinion | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/opinion/progressives-left-ai.html) |
 | 2026-05-25 | As A.I. Fever Rises in Silicon Valley, Pope Leo Has a Few Words | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/technology/pope-ai-silicon-valley.html) |
 | 2026-05-25 | A.I. Money From I.P.O.s Will Change Philanthropy | NYT · AI | AI | opinion | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/opinion/ai-philanthropy-charity.html) |
-| 2026-05-25 | Writing Is Fundamental to How We Think | NYT · AI | AI | opinion | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/opinion/writing-creativity-ai.html) |
 | 2026-05-25 | E.P.A. to Repeal Some Limits on ‘Forever Chemicals’ in Drinking Water | NYT · Energy & Environment | Energy & Environment | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/18/climate/epa-forever-chemicals-pfas-drinking-water.html) |
 | 2026-05-25 | Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html) |
 | 2026-05-25 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
