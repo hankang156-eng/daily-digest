@@ -1775,9 +1775,20 @@ def _group_articles(articles, key):
     return groups
 
 
-def _render_nyt_section(title, articles, group_key="topic_tag"):
+def _render_nyt_section(title, articles, group_key="topic_tag", note=""):
     if not articles:
-        return ""
+        if not note:
+            return ""
+        body = (
+            f'<p class="empty-note" style="margin:8px 0 0;color:var(--mute);'
+            f'font-size:14px;line-height:1.5">{_html_escape(note)}</p>'
+        )
+        return (
+            '<details class="section" id="nyt" open>\n'
+            f'  <summary class="section-head"><h2>{_html_escape(title)}</h2></summary>\n'
+            f'{body}\n'
+            '</details>'
+        )
     sub_blocks = []
     for label, group in _group_articles(articles, group_key):
         items = "\n".join(_render_article(a, i, "nyt") for i, a in enumerate(group, 1))
@@ -1868,7 +1879,7 @@ def generate_html(date, data, settings=None, archive_href="digest_archive.html")
 
     body_parts = [
         _render_section("hn", "Yesterday on Hacker News", sections["hn"], "hn"),
-        _render_nyt_section("Today on The New York Times", sections["nyt_wsj"]),
+        _render_nyt_section("Today on The New York Times", sections["nyt_wsj"], note=data.get("nyt_note", "")),
         _render_section("research", "MIT & Sloan Research", sections["research"], "blog"),
         _render_section("blogs", "Blog Posts", sections["blogs"], "blog"),
         _render_section("linkedin", "From the Network", sections["linkedin"], "linkedin"),
@@ -1985,7 +1996,11 @@ def generate_markdown(date, data, settings=None):
         return [f"### {heading}", "", _md_grouped_articles(articles, group_key), ""]
 
     parts += sec("🔶 Yesterday's Top HackerNews", sections["hn"], numbered=True, score=True)
-    parts += grouped_sec("📰 Today on The New York Times", sections["nyt_wsj"], "topic_tag")
+    nyt_note = data.get("nyt_note", "")
+    if sections["nyt_wsj"]:
+        parts += grouped_sec("📰 Today on The New York Times", sections["nyt_wsj"], "topic_tag")
+    elif nyt_note:
+        parts += ["### 📰 Today on The New York Times", "", f"*{nyt_note}*", ""]
     parts += sec("🎓 MIT & Sloan Research", sections["research"], numbered=True)
     parts += sec("📚 Blog Posts", sections["blogs"], numbered=True)
     parts += sec("💼 LinkedIn - Rama's Activity", sections["linkedin"])
@@ -2273,9 +2288,11 @@ def _has_publishable_content(data):
 
 
 def _run_nyt_wsj_ranker(date, settings):
+    """Return (selected_articles, optional_note). The note flags lag cases so the
+    renderer can show a placeholder instead of a silently-empty NYT section."""
     if not HAS_NYT_WSJ_RANKER or run_nyt_wsj_ranker is None:
         print("  [NYT/WSJ Ranker] Error: nyt_wsj_rss_ranker.py could not be imported.")
-        return []
+        return [], ""
     try:
         result = run_nyt_wsj_ranker(
             target_date=date,
@@ -2283,10 +2300,20 @@ def _run_nyt_wsj_ranker(date, settings):
             output_dir=REPO_ROOT / settings.get("ranker_output_dir", "output/ranker_diagnostics"),
             write_files=True,
         )
-        return result.get("selected", [])
+        selected = result.get("selected", [])
+        stats = result.get("stats", {}) or {}
+        note = ""
+        if not selected and stats.get("source") == "archive":
+            news_date = date + datetime.timedelta(days=1)
+            note = (
+                f"The NYT Archive API has not yet indexed articles for {news_date.isoformat()}. "
+                "NYT typically lags ~1–2 days in production; this snapshot is lagging further. "
+                "Re-run this date later to populate this section."
+            )
+        return selected, note
     except Exception as e:
         print(f"  [NYT/WSJ Ranker] Error: {e}")
-        return []
+        return [], ""
 
 
 def _run_blog_ranker(date, settings):
@@ -2373,7 +2400,7 @@ def main(target_date=None, summary_config=None):
     hn = fetch_hackernews(n=int(settings.get("hn_digest_count", 16)), date=date, verbose=True)
 
     print("  [2/7] NYT ranker...")
-    nyt_wsj = _run_nyt_wsj_ranker(date, settings)
+    nyt_wsj, nyt_note = _run_nyt_wsj_ranker(date, settings)
 
     print("  [3/7] Blog / research ranker...")
     blogs = _run_blog_ranker(date, settings)
@@ -2383,6 +2410,7 @@ def main(target_date=None, summary_config=None):
         "nyt_wsj": nyt_wsj,
         "blogs": blogs,
         "linkedin": [],
+        "nyt_note": nyt_note,
     }
 
     print("  [4/7] Reading stats...")

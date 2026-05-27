@@ -407,8 +407,16 @@ def _archive_prominence(doc: dict[str, Any]) -> float:
     return 0.0
 
 
-def archive_candidates(news_date: dt.date, api_key: str) -> list[Candidate]:
+ARCHIVE_WINDOW_DAYS = 2  # also include articles published up to this many days before news_date
+
+
+def archive_candidates(news_date: dt.date, api_key: str, window_days: int = ARCHIVE_WINDOW_DAYS) -> list[Candidate]:
     docs = _load_archive_month(news_date.year, news_date.month, api_key)
+    earliest = news_date - dt.timedelta(days=window_days)
+    # If the window straddles a month boundary, also pull the prior month.
+    if earliest.month != news_date.month:
+        prev_docs = _load_archive_month(earliest.year, earliest.month, api_key) or []
+        docs = (docs or []) + prev_docs
     if not docs:
         return []
     out: list[Candidate] = []
@@ -416,9 +424,10 @@ def archive_candidates(news_date: dt.date, api_key: str) -> list[Candidate]:
         if (doc.get("type_of_material") or "") not in ARCHIVE_KEEP_MATERIAL:
             continue
         try:
-            if dt.date.fromisoformat((doc.get("pub_date") or "")[:10]) != news_date:
-                continue
+            pub = dt.date.fromisoformat((doc.get("pub_date") or "")[:10])
         except ValueError:
+            continue
+        if not (earliest <= pub <= news_date):
             continue
         title = clean_text((doc.get("headline") or {}).get("main") or "")
         url = (doc.get("web_url") or "").strip()
@@ -436,7 +445,7 @@ def archive_candidates(news_date: dt.date, api_key: str) -> list[Candidate]:
             original_url=url,
             publication="NYT",
             sections=[section],
-            published_date=news_date.isoformat(),
+            published_date=pub.isoformat(),  # actual pub date, not news_date
             author=clean_text((doc.get("byline") or {}).get("original") or ""),
             summary=abstract,
             tags=[k.get("value", "") for k in (doc.get("keywords") or []) if k.get("value")][:8],
@@ -617,23 +626,21 @@ def run_ranker(
     stats = {"feeds_fetched": 0, "feed_failures": 0, "raw_articles": 0}
 
     api_key = os.environ.get("NYT_API_KEY")
-    # Any non-today news date routes to Archive so backfills reflect what was
-    # actually published that day (RSS would leak today's articles). Daily cron
-    # (news_date = today) stays on live RSS. Empty Archive (index lag for very
-    # recent days) falls back to RSS.
+    # Backfill (news_date < today): use Archive with a small backward window
+    # [news_date - ARCHIVE_WINDOW_DAYS, news_date]. Never fall back to RSS for
+    # backfills — that would leak today's articles stamped with the digest date.
+    # Daily cron (news_date == today): live RSS.
     raw = []
-    archive_tried = False
     if include_nyt and api_key and news_date < dt.date.today():
-        archive_tried = True
         raw = archive_candidates(news_date, api_key)
         stats["raw_articles"] = len(raw)
-        if raw:
-            stats["source"] = "archive"
-            print(f"NYT source: Archive ({news_date.isoformat()})")
-            print(f"NYT archive articles: {len(raw)}")
-        else:
-            print(f"NYT source: Archive ({news_date.isoformat()}) returned 0 docs; falling back to RSS")
-    if not raw:
+        stats["source"] = "archive"
+        window_start = (news_date - dt.timedelta(days=ARCHIVE_WINDOW_DAYS)).isoformat()
+        print(f"NYT source: Archive [{window_start} .. {news_date.isoformat()}]")
+        print(f"NYT archive articles: {len(raw)}")
+        if not raw:
+            print("NYT archive window is empty; leaving NYT section empty (no RSS fallback for backfill).")
+    else:
         feeds = config.get("feeds", DEFAULT_FEEDS)
         if not include_nyt:
             feeds = [feed for feed in feeds if feed.get("publication") != "NYT"]
@@ -642,8 +649,8 @@ def run_ranker(
         for feed in feeds:
             raw.extend(fetch_feed(feed, stats))
         stats["raw_articles"] = len(raw)
-        stats["source"] = "rss" if not archive_tried else "rss_fallback"
-        print(f"NYT source: RSS{' (Archive fallback)' if archive_tried else ''}")
+        stats["source"] = "rss"
+        print(f"NYT source: RSS")
         print(f"NYT feeds fetched: {stats['feeds_fetched']}")
         print(f"NYT feed failures: {stats['feed_failures']}")
 
