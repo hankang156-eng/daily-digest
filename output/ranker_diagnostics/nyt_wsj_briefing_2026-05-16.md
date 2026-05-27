@@ -2,96 +2,104 @@
 
 ## Executive Summary
 
-- General: 7 selected items.
-- Business / Economy / Markets: 4 selected items.
+- Business / Economy / Markets: 6 selected items.
+- Technology / AI: 4 selected items.
 - Politics / U.S.: 4 selected items.
 - Opinion / Analysis: 3 selected items.
-- Climate / Energy / Infrastructure: 1 selected item.
+- Climate / Energy / Infrastructure: 2 selected items.
 - Regulation / Policy: 1 selected item.
 
 ## Selected Reading List
 
+### Technology / AI
+
+1. [OpenAI Bought Company That Offered A.I. Tools for Cloning Voices](https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html)
+   - NYT · Technology · 2026-05-16
+   - Score 86.95 · Read deeply · matches technology / ai; strategic signal
 ### Business / Economy / Markets
 
-1. [NextEra Energy to Acquire Dominion, Creating a Utility Giant](https://www.nytimes.com/2026/05/17/business/nextera-dominion-deal.html)
+2. [NextEra Energy to Acquire Dominion, Creating a Utility Giant](https://www.nytimes.com/2026/05/17/business/nextera-dominion-deal.html)
    - NYT · Business · 2026-05-17
    - Score 81.0 · Read deeply · matches technology / ai
-2. [For Trump, Soaring Prices Test Voters’ Finances and Patience](https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html)
+3. [For Trump, Soaring Prices Test Voters’ Finances and Patience](https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html)
    - NYT · Business · 2026-05-17
    - Score 71.95 · Read deeply · matches business / economy / markets; strategic signal
 ### Politics / U.S.
 
-3. [How a Secretive Firm Tried (and Failed) to Fix an Epstein Friend’s Tattered Image](https://www.nytimes.com/2026/05/17/us/politics/epstein-reummler-reputation-management.html)
+4. [How a Secretive Firm Tried (and Failed) to Fix an Epstein Friend’s Tattered Image](https://www.nytimes.com/2026/05/17/us/politics/epstein-reummler-reputation-management.html)
    - NYT · Politics · 2026-05-17
    - Score 71.4 · Read deeply · matches technology / ai; policy/social lens
+### Business / Economy / Markets
+
+5. [It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too.](https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html)
+   - NYT · Business · 2026-05-15
+   - Score 70.0 · Read deeply · matches technology / ai
+6. [The Stock Market’s Winning Streak Is About to Be Tested](https://www.nytimes.com/2026/05/15/business/stocks-bonds-interest-rates-inflation.html)
+   - NYT · Business · 2026-05-15
+   - Score 70.0 · Read deeply · matches business / economy / markets
 ### Opinion / Analysis
 
-4. [What A.I. Did to My College Class](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html)
+7. [What A.I. Did to My College Class](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html)
    - NYT · Opinion · 2026-05-17
    - Score 69.95 · Read deeply · matches technology / ai
+### Politics / U.S.
+
+8. [On Capitol Hill, a Sexual Harassment ‘Minefield’ Persists](https://www.nytimes.com/2026/05/16/us/politics/on-capitol-hill-a-sexual-harassment-minefield-persists.html)
+   - NYT · Politics · 2026-05-16
+   - Score 63.9 · Read deeply · matches regulation / policy; policy/social lens
+### Technology / AI
+
+9. [A.I. Safety Is So Back + Mythos Mayhem with Nikesh Arora + Hot Mess Express](https://www.nytimes.com/2026/05/15/podcasts/ai-safety-is-so-back-mythos-mayhem-with-nikesh-arora-hot-mess-express.html)
+   - NYT · U.S. · 2026-05-15
+   - Score 63.7 · Read deeply · matches technology / ai; strategic signal
+### Politics / U.S.
+
+10. [Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs.](https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html)
+   - NYT · U.S. · 2026-05-16
+   - Score 61.9 · Read deeply · matches regulation / policy; policy/social lens
 ### Climate / Energy / Infrastructure
 
-5. [The Quest for an Elusive Clean Fuel Is Moving Underground](https://www.nytimes.com/2026/05/17/climate/geologic-hydrogen-clean-energy-underground.html)
+11. [How a ‘Model’ for Climate Migration Became a Cautionary Tale](https://www.nytimes.com/2026/05/16/climate/isle-jean-charles-relocation.html)
+   - NYT · Energy & Environment · 2026-05-16
+   - Score 60.4 · Read deeply · matches climate / energy / infrastructure; core news
+### Business / Economy / Markets
+
+12. [OpenAI and Khan Academy Made a Chatbot. What Can We Learn?](https://www.nytimes.com/2026/05/16/business/tyrangiel-ai-book-openai-khan-academy-khanmigo.html)
+   - NYT · Business · 2026-05-16
+   - Score 60.0 · Read deeply · matches technology / ai
+### Climate / Energy / Infrastructure
+
+13. [The Quest for an Elusive Clean Fuel Is Moving Underground](https://www.nytimes.com/2026/05/17/climate/geologic-hydrogen-clean-energy-underground.html)
    - NYT · Energy & Environment · 2026-05-17
    - Score 58.95 · Read deeply · matches business / economy / markets
 ### Politics / U.S.
 
-6. [W.H.O. Declares Ebola Outbreak a Global Health Emergency](https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html)
-   - NYT · U.S. · 2026-05-17
+14. [How a Nature Cruise Turned Into a Nightmare](https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html)
+   - NYT · U.S. · 2026-05-16
    - Score 58.4 · Read deeply · matches personal utility; policy/social lens
-7. [To Critics, Trump Remarks Reveal a Billionaire Out of Touch](https://www.nytimes.com/2026/05/17/us/politics/trump-billionaire-iran-war-cost.html)
-   - NYT · Politics · 2026-05-17
-   - Score 56.7 · Read deeply · matches business / economy / markets; policy/social lens
-8. [7 Republicans Voted to Convict Trump. Most Are No Longer in Office.](https://www.nytimes.com/2026/05/16/us/politics/republicans-trump-cassidy-conviction-impeachment.html)
-   - NYT · Politics · 2026-05-17
-   - Score 53.9 · Skim · matches regulation / policy; policy/social lens
+### Technology / AI
+
+15. [OpenAI Considers Legal Action Against Apple in Strained Relationship](https://www.nytimes.com/2026/05/14/technology/openai-apple-legal-action.html)
+   - NYT · Technology · 2026-05-15
+   - Score 56.0 · Read deeply · matches technology / ai; strategic signal
+16. [A Stolen Charity or Sour Grapes? Musk’s OpenAI Suit Is in Jury’s Hands.](https://www.nytimes.com/2026/05/14/technology/openai-trial-elon-musk-sam-altman.html)
+   - NYT · Technology · 2026-05-15
+   - Score 54.8 · Skim · matches technology / ai; strategic signal
+### Business / Economy / Markets
+
+17. [Nvidia’s Future in China Remains Unclear After Trump-Xi Summit](https://www.nytimes.com/2026/05/15/business/nvidia-china-chips.html)
+   - NYT · Business · 2026-05-15
+   - Score 53.8 · Skim · matches technology / ai; strategic signal
 ### Regulation / Policy
 
-9. [After a Rough Start, Mamdani Focuses on Skeptical Black New Yorkers](https://www.nytimes.com/2026/05/17/nyregion/mamdani-black-voters-nyc.html)
+18. [After a Rough Start, Mamdani Focuses on Skeptical Black New Yorkers](https://www.nytimes.com/2026/05/17/nyregion/mamdani-black-voters-nyc.html)
    - NYT · U.S. · 2026-05-17
    - Score 51.9 · Skim · matches regulation / policy; policy/social lens
 ### Opinion / Analysis
 
-10. [We Are Sliding Back Into the Middle Ages](https://www.nytimes.com/2026/05/17/opinion/supernatural-religion-reality.html)
-   - NYT · Opinion · 2026-05-17
-   - Score 42.8 · Skim · matches technology / ai
-### Business / Economy / Markets
-
-11. [Shoppers’ Frenzy for ‘Royal Pop’ Pocket Watches Forces Swatch to Shut Stores](https://www.nytimes.com/2026/05/16/business/swatch-audemars-piguet-watch-launch-closures.html)
-   - NYT · Business · 2026-05-17
-   - Score 42.0 · Skim · strategic signal
-### General
-
-12. [Bulgaria Wins Eurovision Song Contest as Israel Takes Second](https://www.nytimes.com/2026/05/16/arts/music/dara-bulgaria-bangaranga-eurovision-winner.html)
-   - NYT · U.S. · 2026-05-17
-   - Score 40.0 · Skim · core news
-13. [A Newspaper’s Birches Bend and Occasionally Break](https://www.nytimes.com/2026/05/17/insider/birch-trees-new-york-times-building.html)
-   - NYT · U.S. · 2026-05-17
-   - Score 40.0 · Skim · strong U.S. signal
-14. [Why Neutral Maps Could Empower Black Voters as Much as the Voting Rights Act](https://www.nytimes.com/2026/05/17/upshot/redistricting-race-court-gerrymanders-elections.html)
-   - NYT · U.S. · 2026-05-17
-   - Score 40.0 · Skim · core news
-15. [Stereotypically Antisocial Pets](https://www.nytimes.com/2026/05/17/crosswords/daily-puzzle-2026-05-18.html)
-   - NYT · U.S. · 2026-05-17
-   - Score 40.0 · Skim · core news
-### Business / Economy / Markets
-
-16. [The Iran War Is Crippling One of the World’s Wealthiest Nations](https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html)
-   - NYT · Business · 2026-05-17
-   - Score 36.0 · Skim · strong Business signal
-### Opinion / Analysis
-
-17. [Trump and Xi Would Need Personality Transplants to Get This Deal Done](https://www.nytimes.com/2026/05/17/opinion/trump-china-xi-trade.html)
-   - NYT · Opinion · 2026-05-17
-   - Score 35.9 · Skim · matches regulation / policy; opinion/argument
-### General
-
-18. [Corrections: May 17, 2026](https://www.nytimes.com/2026/05/17/pageoneplus/corrections-may-17-2026.html)
-   - NYT · U.S. · 2026-05-17
-   - Score 34.0 · Save for weekly review · strong U.S. signal
-19. [The Value in Recording Hard Conversations](https://www.nytimes.com/2026/05/17/briefing/the-value-in-recording-hard-conversations.html)
-   - NYT · U.S. · 2026-05-17
-   - Score 34.0 · Save for weekly review · strong U.S. signal
-20. [Spelling Bee Forum](https://www.nytimes.com/2026/05/17/crosswords/spelling-bee-forum.html)
-   - NYT · U.S. · 2026-05-17
-   - Score 34.0 · Save for weekly review · strong U.S. signal
+19. [The Revolt Against the Girl Bosses Has Finally Come](https://www.nytimes.com/2026/05/15/opinion/reese-witherspoon-mel-robbins-girlboss-ai.html)
+   - NYT · Opinion · 2026-05-15
+   - Score 50.4 · Skim · matches technology / ai; opinion/argument
+20. [What A.I. Kant Do](https://www.nytimes.com/2026/05/16/opinion/ai-liberal-arts.html)
+   - NYT · Opinion · 2026-05-16
+   - Score 48.8 · Skim · matches technology / ai
