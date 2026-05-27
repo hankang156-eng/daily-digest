@@ -1,102 +1,100 @@
-# NYT / WSJ Briefing - 2026-05-14
+# NYT Briefing - 2026-05-14
 
 ## Executive Summary
 
 - Business / Economy / Markets: 6 selected items.
 - Technology / AI: 5 selected items.
-- Opinion / Analysis: 4 selected items.
 - Politics / U.S.: 4 selected items.
-- Climate / Energy / Infrastructure: 1 selected item.
+- Climate / Energy / Infrastructure: 3 selected items.
+- Opinion / Analysis: 2 selected items.
 
 ## Selected Reading List
 
 ### Business / Economy / Markets
 
-1. [It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too.](https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html)
-   - NYT · Artificial Intelligence / Business / Your Money · 2026-05-15
-   - Score 93.0 · Read deeply · matches technology / ai; appears across sections
-2. [Stock Market Rally Confronts Inflation and Higher Interest Rates](https://www.nytimes.com/2026/05/15/business/stocks-bonds-interest-rates-inflation.html)
-   - NYT · Artificial Intelligence / Business · 2026-05-15
-   - Score 90 · Read deeply · matches business / economy / markets; appears across sections
-3. [Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up](https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html)
-   - NYT · Business / DealBook / Technology · 2026-05-14
-   - Score 88.0 · Read deeply · matches technology / ai; appears across sections
-### Technology / AI
-
-4. [Wrongful Death Lawsuits Against OpenAI Test a New Strategy](https://www.nytimes.com/2026/05/12/technology/chatgpt-lawsuit-wrongful-death.html)
-   - NYT · Technology · 2026-05-14
-   - Score 88 · Read deeply · matches technology / ai; strategic signal
-### Business / Economy / Markets
-
-5. [Mamdani Urges State to Block Western Union’s Deal for Intermex](https://www.nytimes.com/2026/05/13/business/zohran-mamdani-western-union-intermex.html)
+1. [Mamdani Urges New York State to Block Western Union Deal](https://www.nytimes.com/2026/05/13/business/zohran-mamdani-western-union-intermex.html)
    - NYT · Business · 2026-05-14
    - Score 86.45 · Read deeply · matches business / economy / markets; strategic signal
-### Technology / AI
-
-6. [A.I. Safety Is So Back + Mythos Mayhem with Nikesh Arora + Hot Mess Express](https://www.nytimes.com/2026/05/15/podcasts/ai-safety-is-so-back-mythos-mayhem-with-nikesh-arora-hot-mess-express.html)
-   - NYT · Artificial Intelligence / Technology · 2026-05-15
-   - Score 85.7 · Read deeply · matches technology / ai; strategic signal; appears across sections
-### Business / Economy / Markets
-
-7. [What Trump Gained, and Didn’t, From China](https://www.nytimes.com/2026/05/15/business/dealbook/trump-china-summit-report-card.html)
-   - NYT · Artificial Intelligence / Business / DealBook · 2026-05-15
-   - Score 82.7 · Read deeply · matches technology / ai; strategic signal; appears across sections
-### Opinion / Analysis
-
-8. [The Revolt Against the Girl Bosses Has Finally Come](https://www.nytimes.com/2026/05/15/opinion/reese-witherspoon-mel-robbins-girlboss-ai.html)
-   - NYT · Artificial Intelligence / Opinion · 2026-05-15
-   - Score 80.4 · Read deeply · matches technology / ai; opinion/argument; appears across sections
-### Technology / AI
-
-9. [Why A.I. Safety Controls Are Not Very Effective](https://www.nytimes.com/2026/05/14/technology/artificial-intelligence-safety-controls.html)
-   - NYT · Technology · 2026-05-14
-   - Score 78.9 · Read deeply · matches technology / ai; strategic signal
-### Opinion / Analysis
-
-10. [Why China Fears the ‘A.I. Girlfriend’](https://www.nytimes.com/video/opinion/100000010892482/why-china-fears-the-ai-girlfriend.html)
-   - NYT · Opinion · 2026-05-15
-   - Score 77 · Read deeply · matches technology / ai; opinion/argument
 ### Politics / U.S.
 
-11. [U.S. and China Will Start Discussing A.I. Safety, Bessent Says](https://www.nytimes.com/2026/05/14/world/asia/china-us-ai-safety.html)
-   - NYT · Artificial Intelligence / Politics / Technology · 2026-05-15
-   - Score 76.8 · Read deeply · matches technology / ai; policy/social lens; appears across sections
-### Business / Economy / Markets
-
-12. [Nvidia’s Future in China Remains Unclear After Trump-Xi Summit](https://www.nytimes.com/2026/05/15/business/nvidia-china-chips.html)
-   - NYT · Artificial Intelligence / Business / Technology · 2026-05-15
-   - Score 76.8 · Read deeply · matches technology / ai; strategic signal; appears across sections
+2. [Why A.I. is the Hidden Minefield of Trump’s China Visit](https://www.nytimes.com/2026/05/13/world/asia/us-china-trump-xi-beijing-ai.html)
+   - NYT · U.S. · 2026-05-13
+   - Score 84.0 · Read deeply · matches technology / ai; policy/social lens
 ### Technology / AI
 
-13. [OpenAI Considers Legal Action Against Apple in Strained Relationship](https://www.nytimes.com/2026/05/14/technology/openai-apple-legal-action.html)
-   - NYT · Artificial Intelligence / Technology · 2026-05-15
-   - Score 75.0 · Read deeply · matches technology / ai; strategic signal; appears across sections
-14. [A.I. and Humans Battle It Out in a Cybersecurity Showdown](https://www.nytimes.com/2026/05/12/technology/ai-cybersecurity-competition.html)
-   - NYT · Technology · 2026-05-15
-   - Score 73.6 · Read deeply · matches technology / ai
-### Opinion / Analysis
+3. [A.I. Chip Maker Soars 68% in Market Debut, as Tech I.P.O.s Ramp Up](https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html)
+   - NYT · Technology · 2026-05-14
+   - Score 82.0 · Read deeply · matches technology / ai
+### Business / Economy / Markets
 
-15. [Why We Keep Tricking Ourselves Into Thinking A.I. Is Conscious](https://www.nytimes.com/2026/05/15/opinion/ai-consciousness.html)
-   - NYT · Artificial Intelligence / Opinion · 2026-05-15
-   - Score 69.0 · Read deeply · matches technology / ai; appears across sections
+4. [It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too.](https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html)
+   - NYT · Business · 2026-05-15
+   - Score 81.0 · Read deeply · matches technology / ai
+5. [The Stock Market’s Winning Streak Is About to Be Tested](https://www.nytimes.com/2026/05/15/business/stocks-bonds-interest-rates-inflation.html)
+   - NYT · Business · 2026-05-15
+   - Score 81.0 · Read deeply · matches business / economy / markets
 ### Climate / Energy / Infrastructure
 
-16. [Tom Steyer Thinks California Is Ready for a Different Climate Message](https://www.nytimes.com/2026/05/12/climate/tom-steyer-california-governor.html)
-   - NYT · Energy & Environment · 2026-05-13
-   - Score 67.5 · Read deeply · matches climate / energy / infrastructure; core news
-### Opinion / Analysis
+6. [Is Musk Running an Illegal Power Plant? The D.O.J. Says It Might Weigh In.](https://www.nytimes.com/2026/05/14/climate/elon-musk-xai-data-center-doj.html)
+   - NYT · Energy & Environment · 2026-05-14
+   - Score 79.7 · Read deeply · matches technology / ai; core news
+### Technology / AI
 
-17. [China Is Worried About A.I. Too](https://www.nytimes.com/video/opinion/100000010892470/china-is-worried-about-ai-too.html)
-   - NYT · Opinion · 2026-05-15
-   - Score 66.7 · Read deeply · matches technology / ai; opinion/argument
+7. [Why A.I. Safety Controls Are Not Very Effective](https://www.nytimes.com/2026/05/14/technology/artificial-intelligence-safety-controls.html)
+   - NYT · Technology · 2026-05-14
+   - Score 78.9 · Read deeply · matches technology / ai; strategic signal
+8. [A.I. Safety Is So Back + Mythos Mayhem with Nikesh Arora + Hot Mess Express](https://www.nytimes.com/2026/05/15/podcasts/ai-safety-is-so-back-mythos-mayhem-with-nikesh-arora-hot-mess-express.html)
+   - NYT · U.S. · 2026-05-15
+   - Score 74.7 · Read deeply · matches technology / ai; strategic signal
+### Climate / Energy / Infrastructure
+
+9. [E.P.A. Moves to Weaken Water Pollution Rule for Coal Plants](https://www.nytimes.com/2026/05/14/climate/epa-coal-plants-wastewater.html)
+   - NYT · Energy & Environment · 2026-05-14
+   - Score 73.7 · Read deeply · matches technology / ai; core news
+### Technology / AI
+
+10. [Notable Researchers Join $4 Billion Effort to Build Self-Improving A.I.](https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html)
+   - NYT · Technology · 2026-05-13
+   - Score 69.95 · Read deeply · matches technology / ai
+11. [Anduril Raises $5 Billion, as Push to Modernize the Military Accelerates](https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html)
+   - NYT · Technology · 2026-05-13
+   - Score 68.75 · Read deeply · matches technology / ai
 ### Politics / U.S.
 
-18. [A Republican’s Mysterious Absence Reflects Congress’s Silence on Health](https://www.nytimes.com/2026/05/15/us/politics/thomas-kean-jr-congress-health.html)
-   - NYT · Politics / U.S. · 2026-05-15
-   - Score 65.3 · Read deeply · matches regulation / policy; policy/social lens; appears across sections
-19. [Some Medicare Patients Can Now Get Free CBD](https://www.nytimes.com/2026/05/15/health/medicare-cbd.html)
-   - NYT · Business / Politics · 2026-05-15
-   - Score 65.3 · Read deeply · matches regulation / policy; policy/social lens; appears across sections
-20. [As Powell Steps Down, the Fed Confronts ‘Regime Change’](https://www.nytimes.com/2026/05/15/us/politics/jerome-powell-kevin-warsh-federal-reserve.html)
-   - NYT · Business / Politics / U.S. · 2026-05-15
-   - Score 62.7 · Read deeply · matches business / economy / markets; policy/social lens; appears across sections
+12. [Trump Cites Inaccurate Data to Downplay Economic Toll of Iran War](https://www.nytimes.com/2026/05/14/us/politics/trump-iran-war-economy-cost.html)
+   - NYT · Politics · 2026-05-14
+   - Score 68.6 · Read deeply · matches business / economy / markets; policy/social lens
+### Business / Economy / Markets
+
+13. [What Could One Banana Cost? $10? Maybe for You, Some Fear.](https://www.nytimes.com/2026/05/14/nyregion/nyc-grocery-stores-surveillance-pricing.html)
+   - NYT · U.S. · 2026-05-14
+   - Score 67.3 · Read deeply · matches business / economy / markets; strategic signal
+14. [Nvidia’s Future in China Remains Unclear After Trump-Xi Summit](https://www.nytimes.com/2026/05/15/business/nvidia-china-chips.html)
+   - NYT · Business · 2026-05-15
+   - Score 64.8 · Read deeply · matches technology / ai; strategic signal
+### Politics / U.S.
+
+15. [Supreme Court Allows Abortion Pill Access by Mail to Continue](https://www.nytimes.com/2026/05/14/us/politics/supreme-court-abortion-pill.html)
+   - NYT · Politics · 2026-05-14
+   - Score 63.9 · Read deeply · matches regulation / policy; policy/social lens
+16. [Trump Administration Weighs $1.7 Billion Fund for Allies Investigated Under Biden](https://www.nytimes.com/2026/05/15/us/politics/trump-allies-weaponization-fund.html)
+   - NYT · Politics · 2026-05-15
+   - Score 63.9 · Read deeply · matches regulation / policy; policy/social lens
+### Opinion / Analysis
+
+17. [He Was Good at Steering the Fed, but He Was a Genius at Ignoring Trump’s Threats](https://www.nytimes.com/2026/05/14/opinion/jerome-powell-fed-chair.html)
+   - NYT · Opinion · 2026-05-14
+   - Score 63.85 · Read deeply · matches business / economy / markets; opinion/argument
+18. [The Revolt Against the Girl Bosses Has Finally Come](https://www.nytimes.com/2026/05/15/opinion/reese-witherspoon-mel-robbins-girlboss-ai.html)
+   - NYT · Opinion · 2026-05-15
+   - Score 61.4 · Read deeply · matches technology / ai; opinion/argument
+### Climate / Energy / Infrastructure
+
+19. [Federal Chemical Safety Board Sends Warning on Trump Disaster Policy](https://www.nytimes.com/2026/05/14/climate/chemical-safety-board-disaster-warning-letter.html)
+   - NYT · Energy & Environment · 2026-05-14
+   - Score 61.15 · Read deeply · matches regulation / policy; core news
+### Business / Economy / Markets
+
+20. [Consumers Spent More in April Despite High Gas Prices](https://www.nytimes.com/2026/05/14/business/retail-sales-consumer-spending-april.html)
+   - NYT · Business · 2026-05-14
+   - Score 59.1 · Read deeply · matches business / economy / markets
