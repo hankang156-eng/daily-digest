@@ -1,6 +1,6 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-27 · 392 days · 3920 stories*
+*Last updated: 2026-05-27 · 393 days · 3930 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
@@ -94,6 +94,16 @@
 | 2026-05-18 | Monday | 8 | Click (2016) | 363 | 93 | Technology | [link](https://clickclickclick.click/) · [HN](https://news.ycombinator.com/item?id=48187054) |
 | 2026-05-18 | Monday | 9 | Project Glasswing: what Mythos showed us | 357 | 136 | Technology | [link](https://blog.cloudflare.com/cyber-frontier-models/) · [HN](https://news.ycombinator.com/item?id=48179732) |
 | 2026-05-18 | Monday | 10 | We let AIs run radio stations | 353 | 265 | Technology | [link](https://andonlabs.com/blog/andon-fm) · [HN](https://news.ycombinator.com/item?id=48183301) |
+| 2026-05-17 | Sunday | 1 | Mozilla to UK regulators: VPNs are essential privacy and security tools | 808 | 354 | Technology | [link](https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/) · [HN](https://news.ycombinator.com/item?id=48166459) |
+| 2026-05-17 | Sunday | 2 | I don't think AI will make your processes go faster | 679 | 454 | Technology | [link](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/) · [HN](https://news.ycombinator.com/item?id=48168221) |
+| 2026-05-17 | Sunday | 3 | Security researcher says Microsoft built a Bitlocker backdoor, releases exploit | 593 | 263 | Technology | [link](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html) · [HN](https://news.ycombinator.com/item?id=48168856) |
+| 2026-05-17 | Sunday | 4 | How fast is N tokens per second really? | 492 | 96 | Technology | [link](https://mikeveerman.github.io/tokenspeed/) · [HN](https://news.ycombinator.com/item?id=48174920) |
+| 2026-05-17 | Sunday | 5 | AI is a technology not a product | 479 | 209 | Technology | [link](https://daringfireball.net/2026/05/ai_is_technology_not_a_product) · [HN](https://news.ycombinator.com/item?id=48168626) |
+| 2026-05-17 | Sunday | 6 | Native all the way, until you need text | 452 | 307 | Technology | [link](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/) · [HN](https://news.ycombinator.com/item?id=48168058) |
+| 2026-05-17 | Sunday | 7 | I turned a $80 RK3562 Android tablet into a Debian Linux workstation | 449 | 237 | Technology | [link](https://github.com/tech4bot/rk3562deb) · [HN](https://news.ycombinator.com/item?id=48168668) |
+| 2026-05-17 | Sunday | 8 | Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep | 444 | 151 | Technology | [link](https://github.com/MinishLab/semble) · [HN](https://news.ycombinator.com/item?id=48169874) |
+| 2026-05-17 | Sunday | 9 | At least 25 Flock cameras have been destroyed in five states since April 2025 | 443 | 326 | Technology | [link](https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/) · [HN](https://news.ycombinator.com/item?id=48170798) |
+| 2026-05-17 | Sunday | 10 | GenCAD | 440 | 127 | Technology | [link](https://gencad.github.io/) · [HN](https://news.ycombinator.com/item?id=48173429) |
 | 2026-05-16 | Saturday | 1 | Moving away from Tailwind, and learning to structure my CSS | 652 | 369 | Technology | [link](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) · [HN](https://news.ycombinator.com/item?id=48158400) |
 | 2026-05-16 | Saturday | 2 | Zerostack – A Unix-inspired coding agent written in pure Rust | 531 | 294 | Technology | [link](https://crates.io/crates/zerostack/1.0.0) · [HN](https://news.ycombinator.com/item?id=48164287) |
 | 2026-05-16 | Saturday | 3 | We've made the world too complicated | 434 | 409 | Technology | [link](https://user8.bearblog.dev/the-world-is-too-complicated/) · [HN](https://news.ycombinator.com/item?id=48158065) |

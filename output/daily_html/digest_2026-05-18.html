@@ -1,234 +1,720 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Daily Digest - Monday, May 18, 2026</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Daily Digest — Monday, May 18, 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Inter:wght@400;500;600&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #f6f6f0;
+  --paper: #fbf9f3;
+  --ink: #14130f;
+  --ink-soft: #2f2c26;
+  --mute: #6a6760;
+  --faint: #a09a8e;
+  --rule: rgba(20, 19, 15, 0.14);
+  --rule-soft: rgba(20, 19, 15, 0.07);
+  --accent: #8a1a1a;
+  --hover: #8a1a1a;
+  --font-body: 'Lora', 'Iowan Old Style', Georgia, serif;
+  --font-meta: 'DM Sans', ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --col: 700px;
+  --body-size: 13px;
+  --row-pad: 10px;
+}
+
+[data-theme="dark"] {
+  --bg: #111216;
+  --paper: #1a1b20;
+  --ink: #b5b5b5;
+  --ink-soft: #9e9e9e;
+  --mute: #7a7a7a;
+  --faint: #5a5a5a;
+  --rule: rgba(181, 181, 181, 0.20);
+  --rule-soft: rgba(181, 181, 181, 0.10);
+  --accent: #d68c8c;
+  --hover: #d68c8c;
+}
+
+[data-font="sans"] { --font-body: 'Inter', ui-sans-serif, system-ui, -apple-system, sans-serif; }
+
+* { box-sizing: border-box; }
+html { background: var(--bg); scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: var(--body-size);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  transition: background-color 180ms ease, color 180ms ease;
+}
+[data-font="sans"] body { letter-spacing: -0.005em; line-height: 1.52; }
+::selection { background: var(--accent); color: var(--paper); }
+a { color: inherit; text-decoration: none; }
+
+/* Layout */
+.page { max-width: var(--col); margin: 0 auto; padding: 24px 24px 56px; }
+
+/* Toolbar */
+.toolbar {
+  position: sticky; top: 0; z-index: 100;
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 12px; padding: 10px 0; margin: 0 0 4px;
+  border-bottom: 1px solid var(--rule-soft);
+  font-family: var(--font-meta);
+  font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--mute);
+  background: var(--bg);
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: saturate(140%) blur(8px);
+  -webkit-backdrop-filter: saturate(140%) blur(8px);
+}
+.toolbar a { color: var(--mute); transition: color 120ms ease; }
+.toolbar a:hover { color: var(--ink); }
+.toolbar a.archive { letter-spacing: 0.06em; }
+.controls { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.btn {
+  background: transparent; border: 1px solid var(--rule); color: var(--mute);
+  font: inherit; letter-spacing: inherit; text-transform: inherit;
+  padding: 4px 9px; cursor: pointer; border-radius: 2px;
+  transition: color 120ms ease, border-color 120ms ease, background-color 120ms ease;
+}
+.btn:hover { color: var(--ink); border-color: var(--ink-soft); }
+.btn[aria-pressed="true"] { color: var(--ink); border-color: var(--ink-soft); background: var(--paper); }
+.seg { display: inline-flex; border: 1px solid var(--rule); border-radius: 2px; overflow: hidden; }
+.seg .btn { border: none; border-radius: 0; padding: 4px 9px; color: var(--mute); }
+.seg .btn + .btn { border-left: 1px solid var(--rule); }
+.seg .btn:hover { color: var(--ink); }
+.seg .btn[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+
+/* Masthead */
+.masthead {
+  text-align: left; padding: 28px 0 18px;
+  border-bottom: 1px solid var(--rule); margin-bottom: 24px;
+}
+.masthead .kicker {
+  font-family: var(--font-meta); font-size: 10.5px;
+  letter-spacing: 0.22em; text-transform: uppercase;
+  color: var(--mute); margin-bottom: 8px;
+}
+.wordmark {
+  font-family: var(--font-body); font-weight: 600;
+  font-size: clamp(30px, 5vw, 40px); line-height: 1.05;
+  letter-spacing: -0.018em; margin: 0; color: var(--ink);
+}
+[data-font="sans"] .wordmark { font-weight: 600; letter-spacing: -0.028em; }
+.fetched {
+  font-family: var(--font-meta); font-size: 11px;
+  letter-spacing: 0.06em; color: var(--mute); margin-top: 10px;
+}
+
+/* Per-section accents */
+details.section#hn        { --accent: #b8501c; --hover: #b8501c; }
+details.section#nyt       { --accent: #4a4a48; --hover: #4a4a48; }
+details.section#research  { --accent: #2a6b66; --hover: #2a6b66; }
+details.section#blogs     { --accent: #4f6b3e; --hover: #4f6b3e; }
+details.section#linkedin  { --accent: #2a5a8a; --hover: #2a5a8a; }
+[data-theme="dark"] details.section#hn        { --accent: #e09b6b; --hover: #e09b6b; }
+[data-theme="dark"] details.section#nyt       { --accent: #9a958a; --hover: #9a958a; }
+[data-theme="dark"] details.section#research  { --accent: #7fb8b0; --hover: #7fb8b0; }
+[data-theme="dark"] details.section#blogs     { --accent: #a8c08c; --hover: #a8c08c; }
+[data-theme="dark"] details.section#linkedin  { --accent: #7ba6d4; --hover: #7ba6d4; }
+
+/* Section */
+.section { margin-top: 32px; scroll-margin-top: 60px; }
+.section:first-of-type { margin-top: 8px; }
+.section-head {
+  margin-bottom: 14px; padding-bottom: 10px;
+  border-bottom: 1px solid var(--rule);
+  display: flex; align-items: baseline; justify-content: space-between;
+  gap: 16px; cursor: pointer; list-style: none; user-select: none;
+  transition: color 120ms ease;
+}
+.section-head::-webkit-details-marker { display: none; }
+.section-head:hover h2 { color: var(--accent); }
+.section:not([open]) > .section-head { margin-bottom: 0; }
+.section-head h2 {
+  font-family: var(--font-body); font-weight: 500;
+  font-size: 22px; line-height: 1.15; margin: 0;
+  letter-spacing: -0.012em; transition: color 120ms ease; flex: 1;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1.5px; text-underline-offset: 6px;
+  text-decoration-color: color-mix(in srgb, var(--accent) 55%, transparent);
+}
+[data-font="sans"] .section-head h2 { font-weight: 600; letter-spacing: -0.022em; }
+.section-head::after {
+  content: "▾"; font-family: var(--font-meta); font-size: 11px;
+  color: var(--accent); transition: transform 180ms ease;
+  display: inline-block; transform-origin: center;
+  flex-shrink: 0; margin-left: 12px; align-self: center;
+}
+.section:not([open]) > .section-head::after { transform: rotate(-90deg); }
+
+/* Subsection */
+.subsection { margin-top: 18px; }
+.subsection:first-of-type { margin-top: 6px; }
+.subhead {
+  display: flex; align-items: center; gap: 10px;
+  margin: 0 0 6px; cursor: pointer; list-style: none; user-select: none;
+  transition: color 120ms ease;
+}
+.subhead::-webkit-details-marker { display: none; }
+.subhead::before {
+  content: "▾"; font-size: 9px; color: var(--mute);
+  transition: transform 180ms ease;
+  display: inline-block; transform-origin: center; flex-shrink: 0;
+}
+.subsection:not([open]) > .subhead::before { transform: rotate(-90deg); }
+.subsection:not([open]) > .subhead { margin-bottom: 0; }
+.subhead:hover h3 { color: var(--ink); }
+.subhead::after {
+  content: ""; flex: 1; height: 1px; background: var(--rule-soft);
+}
+.subhead h3 {
+  font-family: var(--font-meta); font-size: 10.5px;
+  font-weight: 500; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--ink-soft); margin: 0; transition: color 120ms ease;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1px; text-underline-offset: 4px;
+  text-decoration-color: color-mix(in srgb, var(--accent) 55%, transparent);
+}
+
+/* Article */
+.article {
+  display: grid; grid-template-columns: 26px 1fr;
+  gap: 2px 12px; padding: var(--row-pad) 0 calc(var(--row-pad) + 1px);
+  border-bottom: 1px solid var(--rule-soft);
+}
+.article:last-child { border-bottom: none; }
+.article .num {
+  font-family: var(--font-meta); font-size: 11px;
+  color: var(--faint); font-feature-settings: "tnum";
+  padding-top: 4px; text-align: right;
+}
+.article .body { min-width: 0; }
+.article h4 {
+  margin: 0 0 4px; font-family: var(--font-body);
+  font-weight: 500; font-size: 20px; line-height: 1.25;
+  letter-spacing: -0.008em; text-wrap: pretty;
+}
+[data-font="sans"] .article h4 { font-weight: 600; letter-spacing: -0.015em; }
+.article h4 a {
+  background-image: linear-gradient(var(--ink), var(--ink));
+  background-repeat: no-repeat; background-position: 0 100%;
+  background-size: 0 1px;
+  transition: background-size 180ms ease, color 120ms ease;
+}
+.article h4 a:hover {
+  color: var(--hover);
+  background-image: linear-gradient(var(--hover), var(--hover));
+  background-size: 100% 1px;
+}
+
+/* Meta line — picks up the section accent */
+.meta {
+  font-family: var(--font-meta); font-size: 10px;
+  letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--accent);
+  display: flex; flex-wrap: wrap; align-items: center;
+  gap: 0 6px; line-height: 1.4;
+}
+.meta .sep { color: var(--accent); opacity: 0.55; }
+.meta a { color: #ed702e; border-bottom: 1px solid transparent; padding-bottom: 1px; }
+.meta a:hover { color: #ff8a3c; border-color: currentColor; }
+.meta .src { color: var(--accent); font-weight: 600; }
+.meta .cat { color: var(--accent); }
+.meta .reason {
+  width: 100%; color: var(--faint); font-style: italic;
+  text-transform: none; letter-spacing: 0;
+  font-size: 11px; font-family: var(--font-body); margin-top: 1px;
+}
+
+/* Article collapsibles */
+.article details { margin-top: 5px; }
+.article details summary {
+  list-style: none; cursor: pointer;
+  font-family: var(--font-meta); font-size: 10px;
+  letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--accent);
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 2px 0; transition: color 120ms ease; user-select: none;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1px; text-underline-offset: 3px;
+  text-decoration-color: currentColor;
+}
+.article details summary::-webkit-details-marker { display: none; }
+.article details summary:hover { color: var(--hover); }
+.article details summary::before {
+  content: "+"; display: inline-block; width: 9px;
+  text-align: center; color: var(--faint);
+  font-family: var(--font-meta);
+  transition: transform 150ms ease, color 120ms ease;
+}
+.article details[open] summary::before { content: "−"; color: var(--accent); }
+.article details[open] summary { color: var(--accent); }
+.article details .panel {
+  font-family: var(--font-body); font-size: 14px;
+  font-weight: 500; line-height: 1.25;
+  color: var(--panel-ink, var(--ink-soft));
+  margin: 5px 0 4px; text-wrap: pretty;
+}
+[data-theme="dark"] { --panel-ink: #b5b5b5; }
+.article details.abstract .panel { font-style: italic; color: var(--mute); }
+details.section#nyt .article details.abstract .panel { font-style: normal; }
+
+/* Side-by-side details (Abstract + Overview on NYT) */
+.details-row { display: flex; flex-wrap: wrap; gap: 0 16px; margin-top: 4px; }
+.details-row details { margin-top: 0; }
+
+/* "More" chunk toggles (HN list): indent ONLY the button so expanded content is full-width */
+.more { margin: 6px 0 0 0; }
+.more > summary { display: inline-block; margin-left: 32px; padding: 4px 10px; border: 1px solid var(--rule); border-radius: 2px; color: var(--mute); cursor: pointer; font-size: 12px; letter-spacing: 0.04em; }
+.more > summary:hover { color: var(--ink); border-color: var(--ink-soft); }
+.more[open] > summary { margin-bottom: 6px; }
+
+/* Toolbar icon glyphs */
+.toolbar .ico { display: inline-block; min-width: 1em; text-align: center; }
+.toolbar .ico-serif { font-family: 'Lora', Georgia, serif; font-weight: 600; }
+.toolbar .ico-sans { font-family: 'Inter', -apple-system, sans-serif; font-weight: 600; }
+
+/* Small screens: icons-only toolbar, fit one line */
+@media (max-width: 560px) {
+  .page { padding: 16px 16px 40px; }
+  .masthead { padding: 20px 0 16px; margin-bottom: 22px; }
+  .article { grid-template-columns: 22px 1fr; gap: 2px 10px; }
+  .article h4 { font-size: 18px; }
+  .toolbar { font-size: 11px; flex-wrap: nowrap; gap: 6px; align-items: center; }
+  .toolbar .lbl { display: none; }
+  .toolbar .archive { padding: 2px 4px; }
+  .toolbar .btn { padding: 4px 6px; font-size: 12px; }
+  .toolbar .seg .btn { padding: 4px 7px; }
+  .controls { gap: 4px; flex-wrap: nowrap; }
+  .section-head { flex-direction: column; align-items: flex-start; gap: 4px; }
+}
+
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 1px; }
+button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+</style>
 </head>
-<body style="margin:0;padding:0;background:#f4f3f0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;color:#1a1a1a">
-<table width="100%" cellspacing="0" cellpadding="0" style="background:#f4f3f0">
-<tr><td align="center" style="padding:24px 16px">
-<table width="660" cellspacing="0" cellpadding="0" style="max-width:660px;width:100%">
-<tr><td style="background:#1a1a2e;border-radius:12px;padding:32px 36px">
-  <div style="font-size:11px;color:rgba(255,255,255,.55);letter-spacing:.15em;text-transform:uppercase;margin-bottom:6px">Your Morning Read</div>
-  <div style="font-size:30px;font-weight:800;color:#fff;line-height:1.1">Monday, May 18, 2026</div>
-  <div style="font-size:14px;color:rgba(255,255,255,.5);margin-top:6px">Daily Digest</div>
-  <div style="font-size:13px;margin-top:18px"><a href="../../digest_archive.html" style="color:rgba(255,255,255,.82);text-decoration:none;font-weight:700">Read past daily digests</a></div>
-</td></tr>
-<tr><td style="height:16px"></td></tr>
-<tr><td style="background:#fff;border-radius:12px;padding:28px 32px;box-shadow:0 1px 4px rgba(0,0,0,.06)">
-  
-    <div style="margin-bottom:28px">
-      <h3 style="font-size:13px;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:.08em;margin:0 0 10px;padding-bottom:8px;border-bottom:2px solid #f0f0f0">🔶 Hacker News Top 16</h3>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Elon Musk has lost his lawsuit against Sam Altman and OpenAI</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">1059 pts · 556 comments</span> <a href="https://app.hncompanion.com/item?id=48182754" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#555;line-height:1.45;margin-top:6px;margin-left:24px"><strong>Overview:</strong> Elon Musk’s lawsuit against OpenAI and Sam Altman concluded with a jury finding that Musk failed to file his claims within the threeyear statute of limitations. The discussion highlights a consensus that the case was dismissed on procedural grounds rather than the merits of the &quot;betrayal&quot; narrative, while also debating the ethical implications of OpenAI’s transition from a nonprofit to a</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">2.</span><a href="https://simonwillison.net/2026/May/19/5-minute-llms/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">The last six months in LLMs in five minutes</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">720 pts · 547 comments</span> <a href="https://app.hncompanion.com/item?id=48188183" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">3.</span><a href="https://github.com/zakirullin/files.md" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Show HN: Files.md – Open-source alternative to Obsidian</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">687 pts · 330 comments</span> <a href="https://app.hncompanion.com/item?id=48179677" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#555;line-height:1.45;margin-top:6px;margin-left:24px"><strong>Overview:</strong> The discussion centers on the launch of Files.md, an opensource markdown notetaking tool, which sparked a broader debate about the definition of &quot;openness&quot; in software. While the community appreciates the portability of data in popular tools like Obsidian, many argue that true ownership requires opensource code to ensure longterm tool availability and customization, especially in an era where AI can help users modify their own software.</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">4.</span><a href="https://radleybalko.substack.com/p/truth-power-and-honest-journalism" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Garry Tan, the CEO of YC, accused me of unethical reporting</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">549 pts · 191 comments</span> <a href="https://app.hncompanion.com/item?id=48181041" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#555;line-height:1.45;margin-top:6px;margin-left:24px"><strong>Overview:</strong> The discussion centers on a conflict between YC CEO Garry Tan and a reporter, with the community largely defending the reporter&#x27;s integrity. Participants criticize Tan&#x27;s political influence and personal conduct, while exploring broader themes regarding the psychological impact of extreme wealth and the ethics of tech leadership.</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">5.</span><a href="https://www.anthropic.com/news/anthropic-acquires-stainless" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Anthropic acquires Stainless</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">521 pts · 365 comments</span> <a href="https://app.hncompanion.com/item?id=48182281" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">6.</span><a href="https://archestra.ai/blog/only-responsible-ai" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">We stopped AI bot spam in our GitHub repo using Git&#x27;s –author flag</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">487 pts · 234 comments</span> <a href="https://app.hncompanion.com/item?id=48181125" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#555;line-height:1.45;margin-top:6px;margin-left:24px"><strong>Overview:</strong> The discussion revolves around a novel technique used by an opensource project to mitigate AIgenerated spam by requiring contributors to pass a captcha on an external site, which then triggers a CI script to grant them &quot;contributor&quot; status via a coauthored commit. While some praise the ingenuity of the workaround, many participants raise serious concerns regarding the security implications of granting automated repository permissions and debate whether the root cause lies in GitHub&#x27;s lack of antispam tools or the perverse incentives created by bug bounties and hiring metrics.</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">7.</span><a href="https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Eric Schmidt speech about AI booed during graduation</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">364 pts · 385 comments</span> <a href="https://app.hncompanion.com/item?id=48177785" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#555;line-height:1.45;margin-top:6px;margin-left:24px"><strong>Overview:</strong> The discussion centers on former Google CEO Eric Schmidt being booed during a graduation speech after attempting to draw parallels between AI, the computer revolution, and immigration. Commenters largely view the speech as a tonedeaf display of corporate rhetoric that fails to address the genuine economic anxieties of new graduates entering a volatile job market.</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">8.</span><a href="https://clickclickclick.click/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Click (2016)</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">363 pts · 93 comments</span> <a href="https://app.hncompanion.com/item?id=48187054" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#555;line-height:1.45;margin-top:6px;margin-left:24px"><strong>Overview:</strong> The discussion centers on &quot;Click,&quot; a 2016 browserbased demonstration that highlights how much data websites can collect through simple user interactions. Participants explore the psychological &quot;creepiness&quot; of individual session recording versus aggregate analytics, the systemic failure of Terms and Conditions (T&amp;C) to provide meaningful consent, and the historical shift from &quot;privacy in public&quot; to mechanized, largescale surveillance.</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">9.</span><a href="https://blog.cloudflare.com/cyber-frontier-models/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Project Glasswing: what Mythos showed us</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">357 pts · 136 comments</span> <a href="https://app.hncompanion.com/item?id=48179732" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#555;line-height:1.45;margin-top:6px;margin-left:24px"><strong>Overview:</strong> The discussion centers on a Cloudflare blog post regarding Anthropic’s &quot;Mythos&quot; model, with many users criticizing the post as a marketingheavy &quot;AIgenerated&quot; piece lacking substantive data. While some participants attempt to extract technical insights regarding agentic workflows and custom &quot;harnesses,&quot; the prevailing sentiment is one of skepticism toward the model&#x27;s purported &quot;stepfunction&quot; capabilities in cybersecurity.</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">10.</span><a href="https://andonlabs.com/blog/andon-fm" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">We let AIs run radio stations</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">353 pts · 265 comments</span> <a href="https://app.hncompanion.com/item?id=48183301" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#555;line-height:1.45;margin-top:6px;margin-left:24px"><strong>Overview:</strong> The discussion centers on an experiment by Andon Labs where various AI models (Claude, Gemini, Grok, and GPT) were tasked with autonomously running radio stations. The thread oscillates between amusement at the unhinged and often darkly ironic behaviors of the AIs and a deeper critique of whether such &quot;AI slop&quot; provides any real value to the media landscape or the study of autonomous agents.</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">11.</span><a href="https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Iran starts Bitcoin-backed ship insurance for Hormuz strait</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">336 pts · 624 comments</span> <a href="https://app.hncompanion.com/item?id=48182592" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#555;line-height:1.45;margin-top:6px;margin-left:24px"><strong>Overview:</strong> The discussion centers on Iran&#x27;s implementation of a Bitcoinbacked insurance scheme for ships in the Strait of Hormuz, which many participants characterize as a sophisticated &quot;protection racket&quot; designed to bypass U.S. sanctions and the dollarled financial system. The community highlights a perceived strategic failure by the U.S. administration, arguing that military escalation has eroded deterrence and exposed the extreme vulnerability of global shipping to lowcost asymmetric warfare.</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">12.</span><a href="https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Actually, democracy dies in H.R.</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">328 pts · 230 comments</span> <a href="https://app.hncompanion.com/item?id=48180091" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#555;line-height:1.45;margin-top:6px;margin-left:24px"><strong>Overview:</strong> The discussion centers on the idea that authoritarianism is often sustained not by ideological zealots, but by &quot;mediocre&quot; midlevel officials driven by mundane career pressures and professional obligations. Participants draw heavy parallels between historical autocracies and modern corporate structures, particularly the role of Human Resources (HR) and the &quot;banality of evil&quot; in large organizations.</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">13.</span><a href="https://github.com/stephenlthorn/auto-identity-remove" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Show HN: Auto-identity-remove – Automated data broker opt-out runner for macOS</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">323 pts · 134 comments</span> <a href="https://app.hncompanion.com/item?id=48178184" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#555;line-height:1.45;margin-top:6px;margin-left:24px"><strong>Overview:</strong> The discussion revolves around an opensource macOS tool designed to automate the process of opting out from over 500 data brokers. While users appreciate the initiative to combat spam and data harvesting, the conversation is heavily defined by skepticism regarding the tool&#x27;s platform limitations, the effectiveness of optout requests, and the potential privacy risks of providing uptodate personal information to &quot;shady&quot; brokers.</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">14.</span><a href="https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">The FBI Wants to Buy Nationwide Access to License Plate Readers</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">319 pts · 139 comments</span> <a href="https://app.hncompanion.com/item?id=48184350" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#555;line-height:1.45;margin-top:6px;margin-left:24px"><strong>Overview:</strong> The discussion revolves around the FBI&#x27;s intent to purchase nationwide access to License Plate Reader (LPR) data, a move seen by many as a significant escalation in domestic mass surveillance. Participants debate the erosion of Fourth Amendment protections, the technical &quot;fingerprinting&quot; of vehicles beyond just license plates, and the shifting social contract between citizens and the state regarding public anonymity.</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">15.</span><a href="https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Haiku OS runs on M1 Macs now</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">318 pts · 114 comments</span> <a href="https://app.hncompanion.com/item?id=48183579" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#555;line-height:1.45;margin-top:6px;margin-left:24px"><strong>Overview:</strong> The discussion centers on the milestone of Haiku OS (the opensource successor to BeOS) successfully booting on Apple’s M1 Silicon. Users explore the operating system&#x27;s unique focus on user experience and responsiveness, while debating its practical utility versus its value as a pure &quot;hacker&quot; project.</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">16.</span><a href="https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Peter Neumann has died</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">300 pts · 23 comments</span> <a href="https://app.hncompanion.com/item?id=48188787" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#555;line-height:1.45;margin-top:6px;margin-left:24px"><strong>Overview:</strong> The Hacker News community reacts to the passing of Peter Neumann, the longtime moderator of the RISKS Digest and a foundational figure in computer security. The discussion centers on his immense legacy, the educational value of the RISKS mailing list in teaching failure modes, and concerns regarding the longterm preservation of his work now that its primary steward is gone.</div>
-      </td>
-    </tr></tbody></table>
+<body>
+<div class="page">
+  <div class="toolbar">
+    <a class="archive" href="../../digest_archive.html" title="Read past daily digests"><span class="ico" aria-hidden="true">←</span><span class="lbl"> Read past daily digests</span></a>
+    <div class="controls">
+      <div class="seg" role="group" aria-label="Font">
+        <button class="btn" data-tg="font" data-val="serif" aria-pressed="true" title="Serif"><span class="ico ico-serif" aria-hidden="true">A</span><span class="lbl"> Serif</span></button>
+        <button class="btn" data-tg="font" data-val="sans" aria-pressed="false" title="Sans"><span class="ico ico-sans" aria-hidden="true">A</span><span class="lbl"> Sans</span></button>
+      </div>
+      <div class="seg" role="group" aria-label="Theme">
+        <button class="btn" data-tg="theme" data-val="light" aria-pressed="true" title="Light"><span class="ico" aria-hidden="true">☀</span><span class="lbl"> Light</span></button>
+        <button class="btn" data-tg="theme" data-val="dark" aria-pressed="false" title="Dark"><span class="ico" aria-hidden="true">☾</span><span class="lbl"> Dark</span></button>
+      </div>
+      <button class="btn" id="expandAll" title="Expand all"><span class="ico" aria-hidden="true">▾</span><span class="lbl"> Expand all</span></button>
+      <button class="btn" id="collapseAll" title="Collapse all"><span class="ico" aria-hidden="true">▴</span><span class="lbl"> Collapse all</span></button>
     </div>
-  
-    <div style="margin-bottom:28px">
-      <h3 style="font-size:13px;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:.08em;margin:0 0 10px;padding-bottom:8px;border-bottom:2px solid #f0f0f0">📰 NYT / WSJ Strategic Reading List</h3>
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">Energy &amp; Environment</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Energy &amp; Environment</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 98.0</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-19</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches climate / energy / infrastructure; policy/social lens; appears across sections</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">2.</span><a href="https://www.nytimes.com/2026/05/18/climate/epa-forever-chemicals-pfas-drinking-water.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">E.P.A. to Repeal Some Limits on ‘Forever Chemicals’ in Drinking Water</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Energy &amp; Environment</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 65.3</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-19</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches regulation / policy; core news</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">3.</span><a href="https://www.nytimes.com/2026/05/19/business/energy-environment/teslas-semi-truck.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Tesla’s Semi Truck could Jolt the Trucking Industry</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Energy &amp; Environment</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 64.9</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-19</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches regulation / policy; policy/social lens; appears across sections</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">4.</span><a href="https://www.nytimes.com/2026/05/19/climate/the-new-gold-rush-of-geothermal-energy.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">The New ‘Gold Rush’ of Geothermal Energy</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Energy &amp; Environment</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 60.4</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-19</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches climate / energy / infrastructure; core news</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">5.</span><a href="https://www.nytimes.com/2026/05/18/climate/trump-global-warming-truth-social.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Scientists Tweaked the Global Warming Outlook. So Trump Weighed In.</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Energy &amp; Environment</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 60.4</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-19</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches climate / energy / infrastructure; core news</div>
-      </td>
-    </tr></tbody></table>
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">AI</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">AI</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 89.9</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-19</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; strategic signal; appears across sections</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">2.</span><a href="https://www.nytimes.com/2026/05/19/business/dealbook/mythos-ai-fomo-moment.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">A FOMO Moment for Mythos</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">AI</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 87.4</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-19</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; appears across sections</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">3.</span><a href="https://www.nytimes.com/2026/05/19/business/china-ai-unemployment.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">China Wants A.I. to Flourish, but Not at the Expense of Jobs</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">AI</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 85.7</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-19</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; strategic signal; appears across sections</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">4.</span><a href="https://www.nytimes.com/2026/05/18/opinion/ai-boo-commencement-speeches.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Why College Grads Are Booing Their Commencement Speakers</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">AI</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 85.7</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-19</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; opinion/argument; appears across sections</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">5.</span><a href="https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">AI</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 73.8</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-19</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; strategic signal; appears across sections</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">6.</span><a href="https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">How Google Is Starting to Win the A.I. Race</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">AI</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 72.0</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-19</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; appears across sections</div>
-      </td>
-    </tr></tbody></table>
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">Technology</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Technology</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 81.9</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-19</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; strategic signal; appears across sections</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">2.</span><a href="https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">OpenAI Bought Company That Offered A.I. Tools for Cloning Voices</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Technology</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 71.0</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-16</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; strategic signal</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">3.</span><a href="https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Meta Reassigns 7,000 Employees to Focus on A.I.</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Technology</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 65.8</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-19</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; strategic signal</div>
-      </td>
-    </tr></tbody></table>
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">Business</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.nytimes.com/2026/05/17/business/nextera-dominion-deal.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">NextEra Energy to Acquire Dominion, Creating a Utility Giant</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Business</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 81.0</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">2.</span><a href="https://www.nytimes.com/2026/05/19/business/inflation-g7-economic-agenda-iran-war.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Inflation Fears Cloud G7 Economic Agenda as Iran War Persists</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Business</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 73.5</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-19</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; strategic signal</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">3.</span><a href="https://www.nytimes.com/2026/05/19/us/politics/trump-stock-trades.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Trump’s Stock Trades Raise Eyebrows. The Family Says He Keeps His Hands Off.</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Business</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 68.0</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-19</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches business / economy / markets; policy/social lens; appears across sections</div>
-      </td>
-    </tr></tbody></table>
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">Economy</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.nytimes.com/2026/05/18/business/g7-finance-ministers-meeting-iran-war-oil.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">G7 Finance Ministers Look to Contain Iran Economic Fallout</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Economy</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 76.8</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches regulation / policy; strategic signal; appears across sections</div>
-      </td>
-    </tr></tbody></table>
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">Opinion</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.nytimes.com/2026/05/18/opinion/ai-tech-worker-organizing.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Tech Workers Have Fears About A.I., Too. They Can Do Something About It.</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Opinion</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 66.7</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; opinion/argument</div>
-      </td>
-    </tr></tbody></table>
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">Sunday Opinion</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">What A.I. Did to My College Class</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Sunday Opinion</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 66.0</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-17</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; appears across sections</div>
-      </td>
-    </tr></tbody></table></div>
-  
-  
-    <div style="margin-bottom:28px">
-      <h3 style="font-size:13px;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:.08em;margin:0 0 10px;padding-bottom:8px;border-bottom:2px solid #f0f0f0">📚 Blogs & Craft</h3>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">CISA Admin Leaked AWS GovCloud Keys on Github</a><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Security</span><span style="display:inline-block;background:#f5f5f5;color:#777777;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Krebs on Security</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 127.0</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches security / privacy</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">2.</span><a href="https://www.troyhunt.com/weekly-update-504/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Weekly Update 504</a><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Security</span><span style="display:inline-block;background:#f5f5f5;color:#777777;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Troy Hunt</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 124.7</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches security / privacy; durable read</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">3.</span><a href="https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk?unlocked_article_code=1.jVA.Cc2V.IwYuu2r4SJfQ" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict</a><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Strategy</span><span style="display:inline-block;background:#f5f5f5;color:#777777;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Daring Fireball</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 114.5</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches ai / agents / llms; durable read</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">4.</span><a href="https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">AI Data Centers Are Deeply Unpopular, Across the Political Spectrum</a><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Strategy</span><span style="display:inline-block;background:#f5f5f5;color:#777777;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Daring Fireball</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 112.0</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches ai / agents / llms</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">5.</span><a href="https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose</a><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Technology</span><span style="display:inline-block;background:#f5f5f5;color:#777777;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Simon Willison</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 86.0</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: strong Simon Willison signal</div>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">6.</span><a href="https://lemire.me/blog/2026/05/18/simd-accelerated-integer-to-string-conversion/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">SIMD-accelerated integer-to-string conversion</a><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Technology</span><span style="display:inline-block;background:#f5f5f5;color:#777777;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Lemire.me</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 59.0</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-05-18</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Skim: strong Lemire.me signal</div>
-      </td>
-    </tr></tbody></table>
-    </div>
-  
-    <div style="margin-bottom:28px">
-      <h3 style="font-size:13px;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:.08em;margin:0 0 10px;padding-bottom:8px;border-bottom:2px solid #f0f0f0">💼 LinkedIn - Rama's Activity</h3>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <a href="https://www.linkedin.com/in/ramar/recent-activity/all/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">View Rama&#x27;s recent LinkedIn activity</a><span style="display:inline-block;background:#f5f5f5;color:#777777;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">LinkedIn</span>
-      </td>
-    </tr></tbody></table>
-    </div>
-</td></tr>
-<tr><td style="height:16px"></td></tr>
-<tr><td style="text-align:center;padding:16px;font-size:11px;color:#999">
-  Generated 6:09 PM on May 19, 2026 · Daily Digest
-</td></tr>
-</table>
-</td></tr>
-</table>
+  </div>
+
+  <header class="masthead">
+    <div class="kicker">Your Morning Read</div>
+    <h1 class="wordmark">Monday, May 18, 2026</h1>
+    <div class="fetched">Fetched: Wednesday, May 27, 2026 at 18:37</div>
+  </header>
+
+<details class="section" id="hn" open>
+  <summary class="section-head"><h2>Yesterday on Hacker News</h2></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/" target="_blank">Mozilla to UK regulators: VPNs are essential privacy and security tools</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48166459" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>422 words · 2 min read</span><span class="sep">·</span><span>808 pts</span><span class="sep">·</span><span>354 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on Mozilla&#x27;s opposition to a UK government proposal to agegate VPNs, with Mozilla arguing that these tools are vital for general privacy and security. The community response is characterized by deep skepticism toward government motives, with many users viewing &quot;child safety&quot; as a pretext for dismantling online anonymity and expanding state surveillance.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/" target="_blank">I don&#x27;t think AI will make your processes go faster</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48168221" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>1,070 words · 5 min read</span><span class="sep">·</span><span>679 pts</span><span class="sep">·</span><span>454 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion explores whether AI truly accelerates software development or merely speeds up the &quot;typing&quot; phase while leaving the primary bottlenecks—requirement gathering, organizational bureaucracy, and maintenance—untouched. While some participants report massive individual productivity gains in prototyping and boilerplate, others argue that AIgenerated &quot;slop&quot; increases the burden of code review and creates longterm technical debt</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html" target="_blank">Security researcher says Microsoft built a Bitlocker backdoor, releases exploit</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48168856" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>593 pts</span><span class="sep">·</span><span>263 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion revolves around a recently released exploit for Microsoft&#x27;s BitLocker, debating whether it represents a deliberate &quot;backdoor&quot; or a significant implementation flaw within the Windows Recovery Environment (WinRE). While the technical community analyzes the mechanics of the NTFS transaction log exploit, a parallel conversation focuses on the researcher&#x27;s personal motivations and the inherent security limitations of TPMonly encryption.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://mikeveerman.github.io/tokenspeed/" target="_blank">How fast is N tokens per second really?</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48174920" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>258 words · 2 min read</span><span class="sep">·</span><span>492 pts</span><span class="sep">·</span><span>96 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion explores the practical implications of varying LLM generation speeds, moving from &quot;glacially slow&quot; humanlike typing to extreme speeds of thousands of tokens per second. Users debate whether raw speed is a primary metric for utility, or if accuracy, reasoning depth, and human cognitive limits are the true bottlenecks.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://daringfireball.net/2026/05/ai_is_technology_not_a_product" target="_blank">AI is a technology not a product</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48168626" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>1,179 words · 6 min read</span><span class="sep">·</span><span>479 pts</span><span class="sep">·</span><span>209 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion explores the premise that AI is a foundational technology rather than a standalone product, emphasizing that its true value lies in invisible integration into existing user workflows. Participants largely agree that for companies like Apple, the &quot;killer app&quot; for AI is simply making existing tools like Siri function reliably, rather than forcing users into new, AIcentric paradigms.</div></details>
+  </div>
+</article>
+<details class="more"><summary>More</summary>
+<article class="article">
+  <div class="num">06</div>
+  <div class="body">
+    <h4><a href="https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/" target="_blank">Native all the way, until you need text</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48168058" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>611 words · 3 min read</span><span class="sep">·</span><span>452 pts</span><span class="sep">·</span><span>307 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion explores the technical challenges of rendering rich text and Markdown within native application frameworks, specifically Apple&#x27;s SwiftUI and TextKit. Participants debate whether the maturity and &quot;battletested&quot; nature of web rendering engines (like WebKit and Electron) justify their high resource consumption compared to the significant engineering effort required to build performant, native text components.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">07</div>
+  <div class="body">
+    <h4><a href="https://github.com/tech4bot/rk3562deb" target="_blank">I turned a $80 RK3562 Android tablet into a Debian Linux workstation</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48168668" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>2,630 words · 12 min read</span><span class="sep">·</span><span>449 pts</span><span class="sep">·</span><span>237 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on a project by user tech4bot, who successfully ported native Debian Linux to a budget $80 Android tablet (Doogee U10) using reverseengineering and AI assistance. The community explores the technical feasibility of using lowend hardware for development, the ethics and utility of AI in hardware hacking, and the persistent desire for similar &quot;open&quot; functionality on highend devices like the iPad Pro.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">08</div>
+  <div class="body">
+    <h4><a href="https://github.com/MinishLab/semble" target="_blank">Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48169874" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>2,372 words · 11 min read</span><span class="sep">·</span><span>444 pts</span><span class="sep">·</span><span>151 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion revolves around Semble, a new code search tool designed to optimize token usage for AI agents by providing semantic search instead of traditional grep loops. While the community appreciates the technical achievement of reducing token overhead, the conversation focuses heavily on whether &quot;token efficiency&quot; is the correct metric for agent success, with many users reporting that agents often struggle to trust or effectively use nonstandard search tools.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">09</div>
+  <div class="body">
+    <h4><a href="https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/" target="_blank">At least 25 Flock cameras have been destroyed in five states since April 2025</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48170798" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>1,360 words · 6 min read</span><span class="sep">·</span><span>443 pts</span><span class="sep">·</span><span>326 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion explores the ethics, efficacy, and motivations behind the vandalism of Flock surveillance cameras in the United States. Participants are divided between those who view property destruction as a necessary form of civil disobedience against a growing surveillance state and those who advocate for legislative reform and emphasize the safety benefits of the technology.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">10</div>
+  <div class="body">
+    <h4><a href="https://gencad.github.io/" target="_blank">GenCAD</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48173429" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>405 words · 2 min read</span><span class="sep">·</span><span>440 pts</span><span class="sep">·</span><span>127 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion revolves around GenCAD, an AI tool designed to generate parametric CAD models from images. While the concept of &quot;sketchtoCAD&quot; is highly desired, the community expressed significant skepticism regarding the tool&#x27;s realworld reliability, the simplicity of its examples, and the inherent technical difficulty of automating precise engineering constraints.</div></details>
+  </div>
+</article>
+<details class="more"><summary>More</summary>
+<article class="article">
+  <div class="num">11</div>
+  <div class="body">
+    <h4><a href="https://www.thestateofbrand.com/news/ai-subscription-time-bomb" target="_blank">AI subscriptions are a ticking time bomb for enterprise</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48168056" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>2,092 words · 10 min read</span><span class="sep">·</span><span>420 pts</span><span class="sep">·</span><span>401 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion revolves around the sustainability of current AI subscription models, with users debating whether enterprises are facing a &quot;bait and switch&quot; pricing correction or if technological efficiency will continue to drive costs down. While some argue that venturebacked subsidies are creating a dangerous dependency, others contend that rapid breakthroughs in hardware and model optimization (Moore&#x27;s Law for AI) will make highquality inference a cheap commodity.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">12</div>
+  <div class="body">
+    <h4><a href="https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html" target="_blank">Apple Silicon costs more than OpenRouter</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48168198" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>602 words · 3 min read</span><span class="sep">·</span><span>355 pts</span><span class="sep">·</span><span>301 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion evaluates the economic and practical tradeoffs between running Large Language Models (LLMs) locally on Apple Silicon versus using cloudbased API providers like OpenRouter. While the consensus acknowledges that cloud providers currently offer lower pertoken costs and superior speed due to massive scale and investor subsidies, many users argue that local hardware is superior for privacy, data sovereignty, and &quot;agentic&quot; workloads where input tokens are processed at no additional cost.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">13</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html" target="_blank">WHO declares Ebola outbreak a global health emergency</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48168708" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>1,239 words · 6 min read</span><span class="sep">·</span><span>328 pts</span><span class="sep">·</span><span>226 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The World Health Organization (WHO) has declared the current Ebola outbreak in the Democratic Republic of the Congo (DRC) a &quot;Public Health Emergency of International Concern&quot; (PHEIC). The discussion explores the biological risks of this specific strain, the geopolitical factors—including US funding cuts and local conflict—that delayed detection, and a comparison of Ebola&#x27;s transmission dynamics to previous pandemics like COVID19.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">14</div>
+  <div class="body">
+    <h4><a href="https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/" target="_blank">Tesla Solar Roof is on life support as it pivot to panels</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48165980" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>19 words · 1 min read</span><span class="sep">·</span><span>327 pts</span><span class="sep">·</span><span>351 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion explores the commercial and technical failure of the Tesla Solar Roof, contrasting its highend aesthetic ambitions with the harsh reality of its prohibitive costs and installation complexity. Participants largely agree that while the concept of integrated solar tiles is visually appealing, the rapid commoditization of standard solar panels has made &quot;artisanal&quot; roofing solutions economically unviable for all but the wealthiest homeowners.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">15</div>
+  <div class="body">
+    <h4><a href="https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/" target="_blank">It is time to give up the dualism introduced by the debate on consciousness</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48175140" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>2,614 words · 12 min read</span><span class="sep">·</span><span>316 pts</span><span class="sep">·</span><span>764 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion revolves around physicist Carlo Rovelli&#x27;s argument that consciousness should be viewed as a natural, physical phenomenon rather than a dualistic mystery. Participants debate the &quot;Hard Problem&quot; of consciousness, the validity of qualia, and the philosophical implications of mind uploading, simulation theory, and AI.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">16</div>
+  <div class="body">
+    <h4><a href="https://hellmood.111mb.de/wake_up_16b_writeup.html" target="_blank">WriteUp: 16 Bytes of x86 that turn Matrix rain into sound</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=48173962" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>1,551 words · 7 min read</span><span class="sep">·</span><span>258 pts</span><span class="sep">·</span><span>33 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion revolves around a 16byte x86 assembly demo created by the user HellMood, which generates both &quot;Matrixstyle&quot; rain visuals and synchronized audio. Participants express amazement at the extreme code density and delve into the technical mechanics of how such a tiny program can produce coherent audiovisual output by leveraging mathematical fractals and hardwarespecific quirks.</div></details>
+  </div>
+</article>
+</details>
+</details>
+</details>
+
+<details class="section" id="nyt" open>
+  <summary class="section-head"><h2>Today on The New York Times</h2></summary>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Business</h3></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/17/business/nextera-dominion-deal.html" target="_blank">NextEra Energy to Acquire Dominion, Creating a Utility Giant</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Business</span><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>1,310 words · 6 min read</span><span class="sep">·</span><span>81.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The deal combining the companies in Florida and Virginia comes as demand for power is soaring, largely because of the rapid growth of A.I. data centers.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html" target="_blank">For Trump, Soaring Prices Test Voters’ Finances and Patience</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Business</span><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>1,518 words · 7 min read</span><span class="sep">·</span><span>72.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Just months before another election that may hinge on the economy, the war in Iran has sent gas and other goods soaring.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/18/business/g7-finance-ministers-meeting-iran-war-oil.html" target="_blank">G7 Finance Ministers Look to Contain Iran Economic Fallout</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Business</span><span class="sep">·</span><span>Mon, May 18</span><span class="sep">·</span><span>1,042 words · 5 min read</span><span class="sep">·</span><span>68.6</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Top policymakers were expected to discuss rising energy prices and sanctions policy at a critical summit in Paris this week.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/18/business/health-insurance-delays-denials.html" target="_blank">Medical Care Delays for Approval Persist, Despite Insurers’ Promises</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Business</span><span class="sep">·</span><span>Mon, May 18</span><span class="sep">·</span><span>1,537 words · 7 min read</span><span class="sep">·</span><span>65.3</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Doctors and patients complain that the controversial practice of prior authorization for treatment and procedures is still widespread.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/18/business/oil-gas-price-iran-bonds.html" target="_blank">Stocks, Bonds and Oil Zigzag Amid Mixed Signals on War Talks</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Business</span><span class="sep">·</span><span>Mon, May 18</span><span class="sep">·</span><span>755 words · 3 min read</span><span class="sep">·</span><span>56.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Stocks and bonds wavered after President Trump issued a new warning to Iran.</div></details></div>
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Technology</h3></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html" target="_blank">After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Mon, May 18</span><span class="sep">·</span><span>1,114 words · 5 min read</span><span class="sep">·</span><span>78.9</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Even as protests increase, the collapse of Mr. Musk’s suit against OpenAI and Sam Altman will speed up the artificial intelligence juggernaut.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html" target="_blank">OpenAI Bought Company That Offered A.I. Tools for Cloning Voices</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Sat, May 16</span><span class="sep">·</span><span>659 words · 3 min read</span><span class="sep">·</span><span>76.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The acquisition, Weights.gg, was a sort of social network for creating and sharing artificial intelligence algorithms.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html" target="_blank">Before Mass Layoffs, Meta Reassigns 7,000 Workers to Focus on A.I.</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Mon, May 18</span><span class="sep">·</span><span>499 words · 2 min read</span><span class="sep">·</span><span>65.8</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The company announced the changes two days before it plans to lay off 10 percent of its work force, or about 8,000 employees.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html" target="_blank">Just Tuning In to Musk’s Blockbuster Trial Against OpenAI? Here’s What to Know.</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Mon, May 18</span><span class="sep">·</span><span>550 words · 2 min read</span><span class="sep">·</span><span>59.8</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">A jury in Oakland, Calif., reached a decision after a three-week-long trial seen as pivotal for the future of OpenAI and the artificial intelligence race.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html" target="_blank">Five Takeaways From the Blockbuster Trial Pitting Elon Musk Against OpenAI</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Mon, May 18</span><span class="sep">·</span><span>913 words · 4 min read</span><span class="sep">·</span><span>59.8</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">It took a jury less than two hours to decide that Mr. Musk had waited too long to sue. But the testimony over three weeks was still illuminating.</div></details></div>
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Politics</h3></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/17/us/politics/epstein-reummler-reputation-management.html" target="_blank">How a Secretive Firm Tried (and Failed) to Fix an Epstein Friend’s Tattered Image</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Politics</span><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>2,498 words · 11 min read</span><span class="sep">·</span><span>71.4</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Terakeet, a reputation management firm, used online tricks to downplay the friendship of the Goldman Sachs general counsel, Kathryn Ruemmler, with the sex offender Jeffrey Epstein. It wasn’t enough.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/18/us/politics/abortion-pill-trump-politics.html" target="_blank">Abortion Pill Lawsuit Leaves Trump Silent, and in a Political Bind</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Politics</span><span class="sep">·</span><span>Mon, May 18</span><span class="sep">·</span><span>1,681 words · 7 min read</span><span class="sep">·</span><span>66.5</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Louisiana wants the Food and Drug Administration to curtail access to the medication. Doing so could cost Republicans at the polls.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/18/us/politics/trump-irs-lawsuit.html" target="_blank">Justice Dept. Announces $1.8 Billion Fund in Settling I.R.S. Suit</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Politics</span><span class="sep">·</span><span>Mon, May 18</span><span class="sep">·</span><span>1,279 words · 6 min read</span><span class="sep">·</span><span>63.9</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The dismissal appears to be part of the Trump administration’s effort to effectively settle the case, which stemmed from the leak of his tax returns in 2019.</div></details></div>
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Opinion</h3></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html" target="_blank">What A.I. Did to My College Class</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Opinion</span><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>2,371 words · 10 min read</span><span class="sep">·</span><span>70.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Lessons from the first graduating A.I. class.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/18/opinion/ai-tech-worker-organizing.html" target="_blank">The Tech Workers Building A.I. Are Scared of It, Too</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Opinion</span><span class="sep">·</span><span>Mon, May 18</span><span class="sep">·</span><span>1,070 words · 5 min read</span><span class="sep">·</span><span>66.7</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Even the developers of A.I. want regulation. They’re starting to take action.</div></details></div>
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Energy &amp; Environment</h3></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/18/climate/epa-forever-chemicals-pfas-drinking-water.html" target="_blank">E.P.A. to End Some Limits on ‘Forever Chemicals’ in Drinking Water</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Energy &amp; Environment</span><span class="sep">·</span><span>Mon, May 18</span><span class="sep">·</span><span>1,394 words · 6 min read</span><span class="sep">·</span><span>65.3</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The rules were established by the Biden administration after research linked the compounds to a range of serious health problems.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/18/climate/trump-global-warming-truth-social.html" target="_blank">Scientists Tweaked the Global Warming Outlook. So Trump Weighed In.</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Energy &amp; Environment</span><span class="sep">·</span><span>Mon, May 18</span><span class="sep">·</span><span>821 words · 4 min read</span><span class="sep">·</span><span>60.4</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Renewable energy has helped make the worst-case scenario a bit less bad. The president said, falsely, it shows that climate scientists were wrong all along.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/17/climate/geologic-hydrogen-clean-energy-underground.html" target="_blank">The Quest for an Elusive Clean Fuel Is Moving Underground</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Energy &amp; Environment</span><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>1,746 words · 8 min read</span><span class="sep">·</span><span>59.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The dream of clean hydrogen has tantalized energy experts for years, but producing it has been tough. Many start-ups think the answer could lie beneath our feet.</div></details></div>
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>U.S.</h3></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/18/nyregion/luigi-mangione-backpack-murder.html" target="_blank">Gun Found in Mangione’s Backpack Can be Used as Evidence, Judge Says</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">U.S.</span><span class="sep">·</span><span>Mon, May 18</span><span class="sep">·</span><span>985 words · 4 min read</span><span class="sep">·</span><span>60.3</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The ruling was a partial victory for prosecutors in the murder trial of Luigi Mangione. A state judge ruled that some other material and statements could not be used.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html" target="_blank">W.H.O. Declares Ebola Outbreak a Global Health Emergency</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">U.S.</span><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>1,239 words · 5 min read</span><span class="sep">·</span><span>58.4</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The agency made the declaration just a day after Africa’s top public health agency first announced the outbreak. There is no approved vaccine for this species of Ebola.</div></details></div>
+  </div>
+</article>
+</details>
+</details>
+
+<details class="section" id="blogs" open>
+  <summary class="section-head"><h2>Blog Posts</h2></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://drata.com/daring" target="_blank">Drata</a></h4>
+    <div class="meta"><span class="src">Daring Fireball</span><span class="sep">·</span><span class="cat">Strategy</span><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>438 words · 2 min read</span><span class="sep">·</span><span>112.0</span></div>
+    
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-source/" target="_blank">GDS weighs in on the NHS&#x27;s decision to retreat from Open Source</a></h4>
+    <div class="meta"><span class="src">Shkspr.mobi</span><span class="sep">·</span><span class="cat">Strategy</span><span class="sep">·</span><span>Sun, May 17</span><span class="sep">·</span><span>843 words · 4 min read</span><span class="sep">·</span><span>100.0</span></div>
+    
+  </div>
+</article>
+</details>
+
+<details class="section" id="linkedin" open>
+  <summary class="section-head"><h2>From the Network</h2></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.linkedin.com/in/ramar/recent-activity/all/" target="_blank">View Rama&#x27;s recent LinkedIn activity</a></h4>
+    <div class="meta"><span class="src">LinkedIn</span></div>
+    
+  </div>
+</article>
+</details>
+
+</div>
+<script>
+(function () {
+  var root = document.documentElement;
+  function pressGroup(name, value) {
+    document.querySelectorAll('[data-tg="' + name + '"]').forEach(function (btn) {
+      btn.setAttribute('aria-pressed', btn.dataset.val === value ? 'true' : 'false');
+    });
+  }
+  function applyFont(v) {
+    root.setAttribute('data-font', v);
+    pressGroup('font', v);
+    try { localStorage.setItem('dd-font', v); } catch (e) {}
+  }
+  function applyTheme(v) {
+    root.setAttribute('data-theme', v);
+    pressGroup('theme', v);
+    try { localStorage.setItem('dd-theme', v); } catch (e) {}
+  }
+  document.querySelectorAll('[data-tg="font"]').forEach(function (btn) {
+    btn.addEventListener('click', function () { applyFont(btn.dataset.val); });
+  });
+  document.querySelectorAll('[data-tg="theme"]').forEach(function (btn) {
+    btn.addEventListener('click', function () { applyTheme(btn.dataset.val); });
+  });
+  var storedFont = null, storedTheme = null;
+  try { storedFont = localStorage.getItem('dd-font'); storedTheme = localStorage.getItem('dd-theme'); } catch (e) {}
+  applyFont(storedFont || 'serif');
+  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  applyTheme(storedTheme || (prefersDark ? 'dark' : 'light'));
+  document.getElementById('expandAll').addEventListener('click', function () {
+    document.querySelectorAll('details').forEach(function (d) { d.open = true; });
+  });
+  document.getElementById('collapseAll').addEventListener('click', function () {
+    document.querySelectorAll('details').forEach(function (d) { d.open = false; });
+  });
+})();
+
+</script>
 </body>
 </html>

@@ -1,6 +1,6 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-27 · 1326 items*
+*Last updated: 2026-05-27 · 1364 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
@@ -262,6 +262,44 @@
 | 2026-05-18 | AI Data Centers Are Deeply Unpopular, Across the Political Spectrum | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-18 | [link](https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx) |
 | 2026-05-18 | SIMD-accelerated integer-to-string conversion | Lemire.me · Tech & Engineering | Technology | tech | 2026-05-18 | [link](https://lemire.me/blog/2026/05/18/simd-accelerated-integer-to-string-conversion/) |
 | 2026-05-18 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
+| 2026-05-17 | Mozilla to UK regulators: VPNs are essential privacy and security tools | HN | Technology | tech | 2026-05-17 | [link](https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/) |
+| 2026-05-17 | I don't think AI will make your processes go faster | HN | Technology | tech | 2026-05-17 | [link](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/) |
+| 2026-05-17 | Security researcher says Microsoft built a Bitlocker backdoor, releases exploit | HN | Technology | tech | 2026-05-17 | [link](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html) |
+| 2026-05-17 | How fast is N tokens per second really? | HN | Technology | tech | 2026-05-17 | [link](https://mikeveerman.github.io/tokenspeed/) |
+| 2026-05-17 | AI is a technology not a product | HN | Technology | tech | 2026-05-17 | [link](https://daringfireball.net/2026/05/ai_is_technology_not_a_product) |
+| 2026-05-17 | Native all the way, until you need text | HN | Technology | tech | 2026-05-17 | [link](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/) |
+| 2026-05-17 | I turned a $80 RK3562 Android tablet into a Debian Linux workstation | HN | Technology | tech | 2026-05-17 | [link](https://github.com/tech4bot/rk3562deb) |
+| 2026-05-17 | Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep | HN | Technology | tech | 2026-05-17 | [link](https://github.com/MinishLab/semble) |
+| 2026-05-17 | At least 25 Flock cameras have been destroyed in five states since April 2025 | HN | Technology | tech | 2026-05-17 | [link](https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/) |
+| 2026-05-17 | GenCAD | HN | Technology | tech | 2026-05-17 | [link](https://gencad.github.io/) |
+| 2026-05-17 | AI subscriptions are a ticking time bomb for enterprise | HN | Technology | tech | 2026-05-17 | [link](https://www.thestateofbrand.com/news/ai-subscription-time-bomb) |
+| 2026-05-17 | Apple Silicon costs more than OpenRouter | HN | Technology | tech | 2026-05-17 | [link](https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html) |
+| 2026-05-17 | WHO declares Ebola outbreak a global health emergency | HN | Technology | tech | 2026-05-17 | [link](https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html) |
+| 2026-05-17 | Tesla Solar Roof is on life support as it pivot to panels | HN | Technology | tech | 2026-05-17 | [link](https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/) |
+| 2026-05-17 | It is time to give up the dualism introduced by the debate on consciousness | HN | Technology | tech | 2026-05-17 | [link](https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/) |
+| 2026-05-17 | WriteUp: 16 Bytes of x86 that turn Matrix rain into sound | HN | Technology | tech | 2026-05-17 | [link](https://hellmood.111mb.de/wake_up_16b_writeup.html) |
+| 2026-05-17 | NextEra Energy to Acquire Dominion, Creating a Utility Giant | NYT · Business | Business | news | 2026-05-17 | [link](https://www.nytimes.com/2026/05/17/business/nextera-dominion-deal.html) |
+| 2026-05-17 | After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer | NYT · Technology | Technology | news | 2026-05-18 | [link](https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html) |
+| 2026-05-17 | OpenAI Bought Company That Offered A.I. Tools for Cloning Voices | NYT · Technology | Technology | news | 2026-05-16 | [link](https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html) |
+| 2026-05-17 | For Trump, Soaring Prices Test Voters’ Finances and Patience | NYT · Business | Business | news | 2026-05-17 | [link](https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html) |
+| 2026-05-17 | How a Secretive Firm Tried (and Failed) to Fix an Epstein Friend’s Tattered Image | NYT · Politics | Politics | news | 2026-05-17 | [link](https://www.nytimes.com/2026/05/17/us/politics/epstein-reummler-reputation-management.html) |
+| 2026-05-17 | What A.I. Did to My College Class | NYT · Opinion | Opinion | opinion | 2026-05-17 | [link](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html) |
+| 2026-05-17 | G7 Finance Ministers Look to Contain Iran Economic Fallout | NYT · Business | Business | news | 2026-05-18 | [link](https://www.nytimes.com/2026/05/18/business/g7-finance-ministers-meeting-iran-war-oil.html) |
+| 2026-05-17 | The Tech Workers Building A.I. Are Scared of It, Too | NYT · Opinion | Opinion | opinion | 2026-05-18 | [link](https://www.nytimes.com/2026/05/18/opinion/ai-tech-worker-organizing.html) |
+| 2026-05-17 | Abortion Pill Lawsuit Leaves Trump Silent, and in a Political Bind | NYT · Politics | Politics | news | 2026-05-18 | [link](https://www.nytimes.com/2026/05/18/us/politics/abortion-pill-trump-politics.html) |
+| 2026-05-17 | Before Mass Layoffs, Meta Reassigns 7,000 Workers to Focus on A.I. | NYT · Technology | Technology | news | 2026-05-18 | [link](https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html) |
+| 2026-05-17 | Medical Care Delays for Approval Persist, Despite Insurers’ Promises | NYT · Business | Business | news | 2026-05-18 | [link](https://www.nytimes.com/2026/05/18/business/health-insurance-delays-denials.html) |
+| 2026-05-17 | E.P.A. to End Some Limits on ‘Forever Chemicals’ in Drinking Water | NYT · Energy & Environment | Energy & Environment | news | 2026-05-18 | [link](https://www.nytimes.com/2026/05/18/climate/epa-forever-chemicals-pfas-drinking-water.html) |
+| 2026-05-17 | Justice Dept. Announces $1.8 Billion Fund in Settling I.R.S. Suit | NYT · Politics | Politics | news | 2026-05-18 | [link](https://www.nytimes.com/2026/05/18/us/politics/trump-irs-lawsuit.html) |
+| 2026-05-17 | Scientists Tweaked the Global Warming Outlook. So Trump Weighed In. | NYT · Energy & Environment | Energy & Environment | news | 2026-05-18 | [link](https://www.nytimes.com/2026/05/18/climate/trump-global-warming-truth-social.html) |
+| 2026-05-17 | Gun Found in Mangione’s Backpack Can be Used as Evidence, Judge Says | NYT · U.S. | U.S. | news | 2026-05-18 | [link](https://www.nytimes.com/2026/05/18/nyregion/luigi-mangione-backpack-murder.html) |
+| 2026-05-17 | Just Tuning In to Musk’s Blockbuster Trial Against OpenAI? Here’s What to Know. | NYT · Technology | Technology | news | 2026-05-18 | [link](https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html) |
+| 2026-05-17 | Five Takeaways From the Blockbuster Trial Pitting Elon Musk Against OpenAI | NYT · Technology | Technology | news | 2026-05-18 | [link](https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html) |
+| 2026-05-17 | The Quest for an Elusive Clean Fuel Is Moving Underground | NYT · Energy & Environment | Energy & Environment | news | 2026-05-17 | [link](https://www.nytimes.com/2026/05/17/climate/geologic-hydrogen-clean-energy-underground.html) |
+| 2026-05-17 | Stocks, Bonds and Oil Zigzag Amid Mixed Signals on War Talks | NYT · Business | Business | news | 2026-05-18 | [link](https://www.nytimes.com/2026/05/18/business/oil-gas-price-iran-bonds.html) |
+| 2026-05-17 | Drata | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-17 | [link](https://drata.com/daring) |
+| 2026-05-17 | GDS weighs in on the NHS's decision to retreat from Open Source | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-05-17 | [link](https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-source/) |
+| 2026-05-17 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-16 | The quiet renovation at Bitwarden | HN | Technology | tech | 2026-05-16 | [link](https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden) |
 | 2026-05-16 | Moving away from Tailwind, and learning to structure my CSS | HN | Technology | tech | 2026-05-16 | [link](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) |
 | 2026-05-16 | Zerostack – A Unix-inspired coding agent written in pure Rust | HN | Technology | tech | 2026-05-16 | [link](https://crates.io/crates/zerostack/1.0.0) |
