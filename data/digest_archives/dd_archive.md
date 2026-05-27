@@ -1,19 +1,19 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-27 · 1416 items*
+*Last updated: 2026-05-27 · 1453 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
 | 2026-05-26 | Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence | HN | Technology | tech | 2026-05-26 | [link](https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/) |
 | 2026-05-26 | GitHub Actions was down | HN | Technology | tech | 2026-05-26 | [link](https://www.githubstatus.com/?today) |
-| 2026-05-26 | Netherlands blocks US takeover of vital digital supplier | HN | Technology | tech | 2026-05-26 | [link](https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/) |
 | 2026-05-26 | The worst job interview I ever had | HN | Technology | tech | 2026-05-26 | [link](https://www.oliverio.dev/blog/the-worst-job-interview-i-had) |
+| 2026-05-26 | Netherlands blocks US takeover of vital digital supplier | HN | Technology | tech | 2026-05-26 | [link](https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/) |
 | 2026-05-26 | Big tech's anti-labor playbook has come for Wikipedia | HN | Technology | tech | 2026-05-26 | [link](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943) |
-| 2026-05-26 | The real cost of owning a home | HN | Technology | tech | 2026-05-26 | [link](https://ericturner.dev/posts/cost-of-home-ownership/) |
 | 2026-05-26 | That Methyl Methacrylate Tank | HN | Technology | tech | 2026-05-26 | [link](https://www.science.org/content/blog-post/methyl-methacrylate-tank) |
+| 2026-05-26 | The real cost of owning a home | HN | Technology | tech | 2026-05-26 | [link](https://ericturner.dev/posts/cost-of-home-ownership/) |
 | 2026-05-26 | Dropbox CEO Drew Houston to step down | HN | Technology | tech | 2026-05-26 | [link](https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html) |
-| 2026-05-26 | DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD | HN | Technology | tech | 2026-05-26 | [link](https://dynip.dev/) |
 | 2026-05-26 | Cloudflare Flagship | HN | Technology | tech | 2026-05-26 | [link](https://developers.cloudflare.com/flagship/) |
+| 2026-05-26 | DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD | HN | Technology | tech | 2026-05-26 | [link](https://dynip.dev/) |
 | 2026-05-26 | Outsourcing plus local AI will soon become more economical vs. frontier labs | HN | Technology | tech | 2026-05-26 | [link](https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/) |
 | 2026-05-26 | Stripe is friendly to “friendly fraud” | HN | Technology | tech | 2026-05-26 | [link](https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/) |
 | 2026-05-26 | Uber president says AI spending is getting 'harder to justify' | HN | Technology | tech | 2026-05-26 | [link](https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify) |
@@ -22,24 +22,24 @@
 | 2026-05-26 | Erin Brockovich made a map to track data centers around the country | HN | Technology | tech | 2026-05-26 | [link](https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/) |
 | 2026-05-26 | Two of America’s Thorniest Political Issues Are Dividing an Arizona Town | NYT · AI | AI | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/us/politics/marana-arizona-data-center-ice-detention.html) |
 | 2026-05-26 | Why Memory Chips Are Dominating the A.I. Rally | NYT · AI | AI | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/business/dealbook/ai-chips-war-samsung-micron.html) |
+| 2026-05-26 | Pope Leo’s A.I. Vision Might Not Be Strange Enough | NYT · AI | AI | opinion | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/opinion/pope-leo-ai-encyclical.html) |
 | 2026-05-26 | OpenRouter, an Exchange for A.I. Models, Raises $113 Million | NYT · Business | Business | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/dealbook/openrouter-ai-models-fundraising.html) |
 | 2026-05-26 | The Two Issues That Could Swing This District | NYT · AI | AI | news | 2026-05-27 | [link](https://www.nytimes.com/video/us/100000010903992/ai-data-center-ice-detention-center-arizona.html) |
 | 2026-05-26 | The Vatican Takes on Silicon Valley With an A.I. Warning | NYT · Business | Business | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/dealbook/vatican-ai-silicon-valley.html) |
 | 2026-05-26 | Spencer Pratt Wants to Be Mayor. His Fans Want Him to Be Batman. | NYT · AI | AI | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/magazine/spencer-pratt-batman-ads-mayor.html) |
+| 2026-05-26 | KFF’s Chief Executive to Retire | NYT · Business | Business | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/business/media/kff-drew-altman.html) |
 | 2026-05-26 | Artificial Intelligence Floods Court Dockets with Home-Brewed Lawsuits | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html) |
 | 2026-05-26 | Global Oil Price Rises After U.S. Strikes in Iran Cloud Peace Deal | NYT · Business | Business | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/oil-gas-price-iran.html) |
 | 2026-05-26 | SpaceX IPO Filing Reveals Favorable Terms for Elon Musk | NYT · Technology | Technology | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html) |
-| 2026-05-26 | Teachers Union Urges Schools to Curb A.I. Chatbots and Screen Time | NYT · AI | AI | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/technology/ai-screens-schools-weingarten.html) |
-| 2026-05-26 | At the A.I. Epicenter, Technologists Dismiss Pope Leo’s Warnings About the New Technology | NYT · AI | AI | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html) |
 | 2026-05-26 | Progressives Are Listening to the Wrong People on A.I. | NYT · Opinion | Opinion | opinion | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/opinion/progressives-left-ai.html) |
+| 2026-05-26 | A.I. Money From I.P.O.s Will Change Philanthropy | NYT · AI | AI | opinion | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/opinion/ai-philanthropy-charity.html) |
 | 2026-05-26 | Writing Is Fundamental to How We Think | NYT · AI | AI | opinion | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/opinion/writing-creativity-ai.html) |
 | 2026-05-26 | E.P.A. to Repeal Some Limits on ‘Forever Chemicals’ in Drinking Water | NYT · Energy & Environment | Energy & Environment | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/18/climate/epa-forever-chemicals-pfas-drinking-water.html) |
-| 2026-05-26 | As a Doctor, I Can Understand the Allure of ChatGPT | NYT · Opinion | Opinion | opinion | 2026-05-26 | [link](https://www.nytimes.com/2026/05/24/opinion/doctor-ai-chatgpt.html) |
 | 2026-05-26 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
 | 2026-05-26 | Mayes Middleton Defeats Chip Roy in the Runoff for Texas Attorney General | NYT · Politics | Politics | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/26/us/politics/texas-attorney-general.html) |
+| 2026-05-26 | At the A.I. Epicenter, Technologists Dismiss Pope Leo’s Warnings About the New Technology | NYT · Technology | Technology | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html) |
 | 2026-05-26 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
-| 2026-05-26 | What A.I. Philanthropists Can Learn From the Gilded Age | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-05-25 | [link](https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html) |
-| 2026-05-26 | How Cannes Is Grappling With Changes | NYT · AI | AI | news | 2026-05-27 | [link](https://www.nytimes.com/video/movies/100000010860400/alissa-reviews-cannes.html) |
+| 2026-05-26 | Musk’s SpaceX Goals Shift Ahead of Its I.P.O. | NYT · AI | AI | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html) |
 | 2026-05-26 | The pressure | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-26 | [link](https://simonwillison.net/2026/May/26/the-pressure/#atom-everything) |
 | 2026-05-26 | Microsoft Copilot Cowork Exfiltrates Files | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-26 | [link](https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything) |
 | 2026-05-26 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
@@ -1420,3 +1420,40 @@
 | 2026-04-21 | ‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty | Krebs on Security · Security & Privacy | Security | tech | 2026-04-21 | [link](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/) |
 | 2026-04-21 | OpenAI releases Codex ‘Chronicle’ feature for enhancing context | Superpower Daily · Tech & Engineering | Technology | tech | 2026-04-21 | [link](https://www.superpowerdaily.com/p/openai-releases-codex-chronicle-feature-for-enhancing-context) |
 | 2026-04-21 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
+| 2026-03-02 | Motorola announces a partnership with GrapheneOS | HN | Technology | tech | 2026-03-02 | [link](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/) |
+| 2026-03-02 | Meta’s AI smart glasses and data privacy concerns | HN | Technology | tech | 2026-03-02 | [link](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything) |
+| 2026-03-02 | “Microslop” filtered in the official Microsoft Copilot Discord server | HN | Technology | tech | 2026-03-02 | [link](https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/) |
+| 2026-03-02 | British Columbia is permanently adopting daylight time | HN | Technology | tech | 2026-03-02 | [link](https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657) |
+| 2026-03-02 | How to talk to anyone and why you should | HN | Technology | tech | 2026-03-02 | [link](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should) |
+| 2026-03-02 | /e/OS is a complete, fully “deGoogled” mobile ecosystem | HN | Technology | tech | 2026-03-02 | [link](https://e.foundation/e-os/) |
+| 2026-03-02 | Ars Technica fires reporter after AI controversy involving fabricated quotes | HN | Technology | tech | 2026-03-02 | [link](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes) |
+| 2026-03-02 | Show HN: I built a sub-500ms latency voice agent from scratch | HN | Technology | tech | 2026-03-02 | [link](https://www.ntik.me/posts/voice-agent) |
+| 2026-03-02 | Jolla phone – a full-stack European alternative | HN | Technology | tech | 2026-03-02 | [link](https://commerce.jolla.com/products/jolla-phone-sept-26) |
+| 2026-03-02 | New iPad Air, powered by M4 | HN | Technology | tech | 2026-03-02 | [link](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/) |
+| 2026-03-02 | Anthropic Cowork feature creates 10GB VM bundle on macOS without warning | HN | Technology | tech | 2026-03-02 | [link](https://github.com/anthropics/claude-code/issues/22543) |
+| 2026-03-02 | U.S. science agency moves to restrict foreign scientists from its labs | HN | Technology | tech | 2026-03-02 | [link](https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs) |
+| 2026-03-02 | First in-utero stem cell therapy for fetal spina bifida repair is safe: study | HN | Technology | tech | 2026-03-02 | [link](https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02) |
+| 2026-03-02 | Welcome (back) to Macintosh | HN | Technology | tech | 2026-03-02 | [link](https://take.surf/2026/03/01/welcome-back-to-macintosh) |
+| 2026-03-02 | iPhone 17e | HN | Technology | tech | 2026-03-02 | [link](https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/) |
+| 2026-03-02 | Payphone Go | HN | Technology | tech | 2026-03-02 | [link](https://walzr.com/payphone-go/) |
+| 2026-03-02 | Live Nation Accused of Hurting Music Fans as Antitrust Trial Begins | NYT · U.S. | U.S. | news | 2026-03-03 | [link](https://www.nytimes.com/2026/03/03/arts/music/live-nation-antitrust-trial.html) |
+| 2026-03-02 | Big Lenders’ Risky Loans Are Rattling Wall Street | NYT · Business | Business | news | 2026-03-03 | [link](https://www.nytimes.com/2026/03/03/business/private-credit-crisis-blue-owl-capital.html) |
+| 2026-03-02 | Iran’s Strategy: Expand the War, Increase the Cost, Outlast Trump | NYT · U.S. | U.S. | news | 2026-03-03 | [link](https://www.nytimes.com/2026/03/03/world/europe/iran-war-strategy-trump-israel.html) |
+| 2026-03-02 | MrBeast Is Getting Into Financial Services. Parents Should Pay Attention. | NYT · Business | Business | news | 2026-03-03 | [link](https://www.nytimes.com/2026/03/03/business/mrbeast-step-banking-crypto.html) |
+| 2026-03-02 | Who Could Profit From an Energy Crisis? | NYT · Energy & Environment | Energy & Environment | news | 2026-03-03 | [link](https://www.nytimes.com/2026/03/03/climate/iran-energy-crisis-climate.html) |
+| 2026-03-02 | Congestion Pricing Wins in Court After Lengthy Battle With Trump | NYT · U.S. | U.S. | news | 2026-03-03 | [link](https://www.nytimes.com/2026/03/03/nyregion/nyc-congestion-pricing-ruling.html) |
+| 2026-03-02 | Trump Lays Out His ‘Worst Case’ Scenario in Iran | NYT · Politics | Politics | news | 2026-03-03 | [link](https://www.nytimes.com/2026/03/03/us/politics/trump-iran-leaders.html) |
+| 2026-03-02 | OpenAI Amends A.I. Deal With the Pentagon | NYT · Technology | Technology | news | 2026-03-03 | [link](https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html) |
+| 2026-03-02 | Tariffs Confound Small Businesses Again | NYT · Economy | Economy | news | 2026-03-03 | [link](https://www.nytimes.com/2026/03/03/business/economy/tariffs-small-business-confusion-refunds.html) |
+| 2026-03-02 | Noem Defends Describing Minneapolis Protesters’ Actions as Domestic Terrorism | NYT · Politics | Politics | news | 2026-03-03 | [link](https://www.nytimes.com/2026/03/03/us/politics/kristi-noem-senate-hearing.html) |
+| 2026-03-02 | Supreme Court Sides With Religious Parents, Blocking California’s Trans Student Policy | NYT · Politics | Politics | news | 2026-03-03 | [link](https://www.nytimes.com/2026/03/02/us/politics/supreme-court-california-trans-students.html) |
+| 2026-03-02 | Oil and Natural Gas Prices Keep Climbing as Iran Attacks Escalate | NYT · Business | Business | news | 2026-03-03 | [link](https://www.nytimes.com/2026/03/03/business/energy-environment/oil-natural-gas-iran-israel-united-states.html) |
+| 2026-03-02 | U.S. Automakers Risk Being Reduced to Niche Producers of Gas Vehicles | NYT · Business | Business | news | 2026-03-03 | [link](https://www.nytimes.com/2026/03/03/business/ford-gm-ev-self-driving-cars-china.html) |
+| 2026-03-02 | Potomac River Reopens to Some Recreation After Sewer Collapse | NYT · Energy & Environment | Energy & Environment | news | 2026-03-03 | [link](https://www.nytimes.com/2026/03/03/climate/potomac-river-reopens-sewer-collapse.html) |
+| 2026-03-02 | Crockett vs. Talarico. Progressive vs. Moderate. Right? | NYT · U.S. | U.S. | news | 2026-03-03 | [link](https://www.nytimes.com/2026/03/03/upshot/crockett-talarico-texas-senate-election.html) |
+| 2026-03-02 | Mamdani’s Parks Dept. Aims to Offer More Recreation With Smaller Budget | NYT · U.S. | U.S. | news | 2026-03-03 | [link](https://www.nytimes.com/2026/03/03/nyregion/affordable-gyms-new-york.html) |
+| 2026-03-02 | Offering Warmth and Care to Homeless People, as Cold Deaths Mount | NYT · U.S. | U.S. | news | 2026-03-03 | [link](https://www.nytimes.com/2026/03/03/nyregion/nyc-homeless-cold-medical-services.html) |
+| 2026-03-02 | Get a Dog, Live Longer? | NYT · U.S. | U.S. | news | 2026-03-03 | [link](https://www.nytimes.com/2026/03/03/well/pet-longevity-health-benefits.html) |
+| 2026-03-02 | Why Does Drinking Mess With My Emotions? | NYT · U.S. | U.S. | news | 2026-03-03 | [link](https://www.nytimes.com/2026/03/03/well/mind/alcohol-emotions-hangovers.html) |
+| 2026-03-02 | In Dimes Square, a Party Where Toothpicks Were Crucial | NYT · U.S. | U.S. | news | 2026-03-03 | [link](https://www.nytimes.com/2026/03/02/t-magazine/eel-bar-party-pintxos.html) |
+| 2026-03-02 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
