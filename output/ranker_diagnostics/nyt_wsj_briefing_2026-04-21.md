@@ -1,99 +1,95 @@
-# NYT / WSJ Briefing - 2026-04-21
+# NYT Briefing - 2026-04-21
 
 ## Executive Summary
 
 - Business / Economy / Markets: 6 selected items.
 - Technology / AI: 5 selected items.
-- Opinion / Analysis: 4 selected items.
-- Politics / U.S.: 3 selected items.
+- Politics / U.S.: 4 selected items.
+- Personal Utility: 2 selected items.
+- Opinion / Analysis: 2 selected items.
 - Climate / Energy / Infrastructure: 1 selected item.
-- Wellness / Personal finance / Personal tech: 1 selected item.
 
 ## Selected Reading List
 
-### Technology / AI
-
-1. [Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html)
-   - NYT · Energy & Environment / Technology · 2026-05-19
-   - Score 93 · Read deeply · matches climate / energy / infrastructure; strategic signal; appears across sections
 ### Business / Economy / Markets
 
-2. [UK Institute Is Hunting for Dangers Lurking in AI](https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html)
-   - NYT · Artificial Intelligence / Business / Technology · 2026-05-24
-   - Score 89.9 · Read deeply · matches technology / ai; strategic signal; appears across sections
+1. [The Consequences of SpaceX’s Latest A.I. Moonshot](https://www.nytimes.com/2026/04/22/business/dealbook/spacex-ai-cursor.html)
+   - NYT · DealBook · 2026-04-22
+   - Score 76.95 · Read deeply · matches technology / ai
+2. [Coinbase and Gemini Accused of Illegal Gambling in N.Y. Lawsuits](https://www.nytimes.com/2026/04/22/nyregion/coinbase-crypto-prediction-markets-lawsuit.html)
+   - NYT · U.S. · 2026-04-22
+   - Score 75.0 · Read deeply · matches business / economy / markets; strategic signal
+### Technology / AI
+
+3. [Anthropic’s New A.I. Model Sets Off Global Alarms](https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html)
+   - NYT · Technology · 2026-04-22
+   - Score 67.0 · Read deeply · matches technology / ai; strategic signal
+### Politics / U.S.
+
+4. [For Frustrated G.O.P., Redistricting Fight Turns to Florida and the Courtroom](https://www.nytimes.com/2026/04/22/us/redistricting-republicans-democrats-florida-virginia.html)
+   - NYT · U.S. · 2026-04-22
+   - Score 64.5 · Read deeply · matches corporate strategy; policy/social lens
+5. [A $440,000 Breast Reduction: How Doctors Cashed In on a Consumer Protection Law](https://www.nytimes.com/2026/04/22/us/politics/doctors-insurers-arbitration.html)
+   - NYT · Politics · 2026-04-22
+   - Score 64.0 · Read deeply · matches personal utility; policy/social lens
+### Technology / AI
+
+6. [Pace of N.I.H. Funding Slows Further in Trump’s Second Year](https://www.nytimes.com/2026/04/22/science/trump-nih-funding-research.html)
+   - NYT · Technology · 2026-04-22
+   - Score 64.0 · Read deeply · matches corporate strategy; strategic signal
+7. [Today, In Short](https://www.nytimes.com/2026/04/22/briefing/today-in-short.html)
+   - NYT · U.S. · 2026-04-22
+   - Score 62.8 · Read deeply · matches technology / ai; strategic signal
+### Politics / U.S.
+
+8. [David Scott, Longtime Georgia Congressman, Dies at 80](https://www.nytimes.com/2026/04/22/us/politics/david-scott-dead-georgia-congress.html)
+   - NYT · Politics · 2026-04-22
+   - Score 62.3 · Read deeply · matches regulation / policy; policy/social lens
+9. [How the Southern Poverty Law Center Drew the Ire of Conservatives](https://www.nytimes.com/2026/04/22/us/southern-poverty-law-center-doj.html)
+   - NYT · U.S. · 2026-04-22
+   - Score 61.9 · Read deeply · matches regulation / policy; policy/social lens
+### Technology / AI
+
+10. [Mars or the Moon or A.I.? Elon Musk’s Changing Goals for SpaceX.](https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html)
+   - NYT · Technology · 2026-04-22
+   - Score 61.0 · Read deeply · matches technology / ai
+11. [Anthropic’s Leaked Code Tests Copyright Challenges in A.I. Era](https://www.nytimes.com/2026/04/22/technology/anthropic-code-leak-copyright.html)
+   - NYT · Technology · 2026-04-22
+   - Score 61.0 · Read deeply · matches technology / ai
+### Business / Economy / Markets
+
+12. [Stocks Rise as Investors Weigh Cease-Fire Extension](https://www.nytimes.com/2026/04/22/business/oi-gas-stocks-iran.html)
+   - NYT · Business · 2026-04-22
+   - Score 55.95 · Read deeply · matches business / economy / markets
+13. [Trump’s Fed Pick Faces Tough Task Shedding ‘Sock Puppet’ Label](https://www.nytimes.com/2026/04/22/business/trumps-warsh-fed-sock-puppet.html)
+   - NYT · Business · 2026-04-22
+   - Score 55.95 · Read deeply · matches business / economy / markets
+14. [Making an Omelet Without Breaking the Bank](https://www.nytimes.com/2026/04/22/headway/newsletter-eggs-cost-economy.html)
+   - NYT · U.S. · 2026-04-22
+   - Score 53.95 · Skim · matches business / economy / markets
+15. [Devin Nunes Departs Trump Media After 4 Years as C.E.O.](https://www.nytimes.com/2026/04/21/business/devin-nunes-leaves-trump-media-ceo.html)
+   - NYT · Business · 2026-04-22
+   - Score 53.9 · Skim · matches regulation / policy; strategic signal
+### Personal Utility
+
+16. [4 Drugs That May Increase Your Dementia Risk](https://www.nytimes.com/2026/04/22/well/mind/medications-dementia-risk-increase.html)
+   - NYT · U.S. · 2026-04-22
+   - Score 48.4 · Skim · matches personal utility; core news
+17. [Democrats Win Big in Election Map Fight, and Influencers Push Nicotine as a Health Hack](https://www.nytimes.com/2026/04/22/podcasts/the-headlines/virginia-referendum-influencers-nicotine.html)
+   - NYT · U.S. · 2026-04-22
+   - Score 48.4 · Skim · matches personal utility; core news
+### Opinion / Analysis
+
+18. [‘The Rich Don’t Play by the Rules. So Why Should I?’](https://www.nytimes.com/2026/04/22/opinion/shoplifting-political-protest-microlooting-whole-foods.html)
+   - NYT · Opinion · 2026-04-22
+   - Score 46.7 · Skim · matches business / economy / markets; opinion/argument
 ### Climate / Energy / Infrastructure
 
-3. [Trump Eases Restrictions on Climate ‘Super Pollutants’](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html)
-   - NYT · Energy & Environment · 2026-05-21
-   - Score 87.0 · Read deeply · matches climate / energy / infrastructure; core news
+19. [Republicans Had an Earth Day Plan to Limit Species Protections. It Flopped.](https://www.nytimes.com/2026/04/22/climate/house-vote-endangered-species-earth-day.html)
+   - NYT · Energy & Environment · 2026-04-22
+   - Score 45.0 · Skim · core news
 ### Opinion / Analysis
 
-4. [What A.I. Philanthropists Can Learn From the Gilded Age](https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html)
-   - NYT · Artificial Intelligence / Opinion / Sunday Opinion · 2026-05-23
-   - Score 86.2 · Read deeply · matches technology / ai; appears across sections
-5. [Graduating Into A.I. Pessimism](https://www.nytimes.com/video/opinion/100000010918890/graduating-into-ai-pessimism.html)
-   - NYT · Artificial Intelligence / Opinion · 2026-05-23
-   - Score 85.7 · Read deeply · matches technology / ai; opinion/argument; appears across sections
-6. [A.I. Is a Job Creator](https://www.nytimes.com/2026/05/22/opinion/ai-job-crisis-goldman-sachs.html)
-   - NYT · Artificial Intelligence / Opinion / Sunday Opinion · 2026-05-22
-   - Score 85.5 · Read deeply · matches technology / ai; appears across sections
-### Business / Economy / Markets
-
-7. [Move Over, Private Equity. It’s Great to Be a Banker Again.](https://www.nytimes.com/2026/05/22/business/banks-deals-profits.html)
-   - NYT · Business · 2026-05-22
-   - Score 85.45 · Read deeply · matches regulation / policy; strategic signal
-8. [Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models](https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html)
-   - NYT · Business / DealBook / Technology · 2026-05-21
-   - Score 84.9 · Read deeply · matches technology / ai; strategic signal; appears across sections
-### Technology / AI
-
-9. [Musk’s SpaceX Goals Shift Ahead of Its I.P.O.](https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html)
-   - NYT · Artificial Intelligence · 2026-04-22
-   - Score 84.75 · Read deeply · matches technology / ai
-### Business / Economy / Markets
-
-10. [SpaceX, OpenAI and Anthropic Race to Go Public](https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html)
-   - NYT · Business / DealBook · 2026-05-21
-   - Score 84.0 · Read deeply · matches technology / ai; appears across sections
-### Opinion / Analysis
-
-11. [As a Doctor, I Can Understand the Allure of ChatGPT](https://www.nytimes.com/2026/05/24/opinion/doctor-ai-chatgpt.html)
-   - NYT · Artificial Intelligence / Opinion · 2026-05-24
-   - Score 83.4 · Read deeply · matches technology / ai; opinion/argument; appears across sections
-### Technology / AI
-
-12. [After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer](https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html)
-   - NYT · DealBook / Technology · 2026-05-19
-   - Score 81.9 · Read deeply · matches technology / ai; strategic signal; appears across sections
-13. [A.I. Is Eliminating Jobs on Wall Street](https://www.nytimes.com/2026/04/21/business/ai-job-cuts-wall-street.html)
-   - NYT · Artificial Intelligence · 2026-04-28
-   - Score 81.9 · Read deeply · matches technology / ai
-14. [Sundar Pichai Understands Why People Are Anxious About A.I.](https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html)
-   - NYT · Artificial Intelligence / Technology · 2026-05-22
-   - Score 81.6 · Read deeply · matches technology / ai; appears across sections
-### Business / Economy / Markets
-
-15. [Giving Workers a Stake in A.I. Gains Traction](https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html)
-   - NYT · Business / DealBook · 2026-05-22
-   - Score 79.7 · Read deeply · matches technology / ai; strategic signal; appears across sections
-16. [CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran](https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html)
-   - NYT · Economy · 2026-05-12
-   - Score 78.0 · Read deeply · matches business / economy / markets; strategic signal
-### Politics / U.S.
-
-17. [White House Approves $9 Billion for Spy Agencies to Catch Up on A.I.](https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html)
-   - NYT · Artificial Intelligence / Politics · 2026-05-22
-   - Score 75.0 · Read deeply · matches technology / ai; policy/social lens; appears across sections
-### Wellness / Personal finance / Personal tech
-
-18. [It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too.](https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html)
-   - NYT · Your Money · 2026-05-15
-   - Score 73.0 · Read deeply · matches technology / ai
-### Politics / U.S.
-
-19. [Trump Administration Chips Away at Last Traces of Broad Inquiry Into Jan. 6](https://www.nytimes.com/2026/05/23/us/politics/trump-prosecutors-jan-6.html)
-   - NYT · Politics · 2026-05-23
-   - Score 70.7 · Read deeply · matches technology / ai; policy/social lens
-20. [How Prediction Markets and Crypto Firms Steamrolled a Watchdog Agency](https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html)
-   - NYT · U.S. · 2026-05-24
-   - Score 66.6 · Read deeply · matches business / economy / markets; policy/social lens
+20. [There’s Another Reason Gen Z Can’t Find Work](https://www.nytimes.com/2026/04/22/opinion/gen-z-job-ladder.html)
+   - NYT · Opinion · 2026-04-22
+   - Score 42.8 · Skim · matches technology / ai

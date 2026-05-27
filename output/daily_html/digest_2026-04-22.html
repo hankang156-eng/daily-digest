@@ -1,219 +1,723 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Daily Digest - Wednesday, April 22, 2026</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Daily Digest — Wednesday, April 22, 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Inter:wght@400;500;600&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #f6f6f0;
+  --paper: #fbf9f3;
+  --ink: #14130f;
+  --ink-soft: #2f2c26;
+  --mute: #6a6760;
+  --faint: #a09a8e;
+  --rule: rgba(20, 19, 15, 0.14);
+  --rule-soft: rgba(20, 19, 15, 0.07);
+  --accent: #8a1a1a;
+  --hover: #8a1a1a;
+  --font-body: 'Lora', 'Iowan Old Style', Georgia, serif;
+  --font-meta: 'DM Sans', ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --col: 700px;
+  --body-size: 13px;
+  --row-pad: 10px;
+}
+
+[data-theme="dark"] {
+  --bg: #111216;
+  --paper: #1a1b20;
+  --ink: #b5b5b5;
+  --ink-soft: #9e9e9e;
+  --mute: #7a7a7a;
+  --faint: #5a5a5a;
+  --rule: rgba(181, 181, 181, 0.20);
+  --rule-soft: rgba(181, 181, 181, 0.10);
+  --accent: #d68c8c;
+  --hover: #d68c8c;
+}
+
+[data-font="sans"] { --font-body: 'Inter', ui-sans-serif, system-ui, -apple-system, sans-serif; }
+
+* { box-sizing: border-box; }
+html { background: var(--bg); scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: var(--body-size);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  transition: background-color 180ms ease, color 180ms ease;
+}
+[data-font="sans"] body { letter-spacing: -0.005em; line-height: 1.52; }
+::selection { background: var(--accent); color: var(--paper); }
+a { color: inherit; text-decoration: none; }
+
+/* Layout */
+.page { max-width: var(--col); margin: 0 auto; padding: 24px 24px 56px; }
+
+/* Toolbar */
+.toolbar {
+  position: sticky; top: 0; z-index: 100;
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 12px; padding: 10px 0; margin: 0 0 4px;
+  border-bottom: 1px solid var(--rule-soft);
+  font-family: var(--font-meta);
+  font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--mute);
+  background: var(--bg);
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: saturate(140%) blur(8px);
+  -webkit-backdrop-filter: saturate(140%) blur(8px);
+}
+.toolbar a { color: var(--mute); transition: color 120ms ease; }
+.toolbar a:hover { color: var(--ink); }
+.toolbar a.archive { letter-spacing: 0.06em; }
+.controls { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.btn {
+  background: transparent; border: 1px solid var(--rule); color: var(--mute);
+  font: inherit; letter-spacing: inherit; text-transform: inherit;
+  padding: 4px 9px; cursor: pointer; border-radius: 2px;
+  transition: color 120ms ease, border-color 120ms ease, background-color 120ms ease;
+}
+.btn:hover { color: var(--ink); border-color: var(--ink-soft); }
+.btn[aria-pressed="true"] { color: var(--ink); border-color: var(--ink-soft); background: var(--paper); }
+.seg { display: inline-flex; border: 1px solid var(--rule); border-radius: 2px; overflow: hidden; }
+.seg .btn { border: none; border-radius: 0; padding: 4px 9px; color: var(--mute); }
+.seg .btn + .btn { border-left: 1px solid var(--rule); }
+.seg .btn:hover { color: var(--ink); }
+.seg .btn[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+
+/* Masthead */
+.masthead {
+  text-align: left; padding: 28px 0 18px;
+  border-bottom: 1px solid var(--rule); margin-bottom: 24px;
+}
+.masthead .kicker {
+  font-family: var(--font-meta); font-size: 10.5px;
+  letter-spacing: 0.22em; text-transform: uppercase;
+  color: var(--mute); margin-bottom: 8px;
+}
+.wordmark {
+  font-family: var(--font-body); font-weight: 600;
+  font-size: clamp(30px, 5vw, 40px); line-height: 1.05;
+  letter-spacing: -0.018em; margin: 0; color: var(--ink);
+}
+[data-font="sans"] .wordmark { font-weight: 600; letter-spacing: -0.028em; }
+.fetched {
+  font-family: var(--font-meta); font-size: 11px;
+  letter-spacing: 0.06em; color: var(--mute); margin-top: 10px;
+}
+
+/* Per-section accents */
+details.section#hn        { --accent: #b8501c; --hover: #b8501c; }
+details.section#nyt       { --accent: #4a4a48; --hover: #4a4a48; }
+details.section#research  { --accent: #2a6b66; --hover: #2a6b66; }
+details.section#blogs     { --accent: #4f6b3e; --hover: #4f6b3e; }
+details.section#linkedin  { --accent: #2a5a8a; --hover: #2a5a8a; }
+[data-theme="dark"] details.section#hn        { --accent: #e09b6b; --hover: #e09b6b; }
+[data-theme="dark"] details.section#nyt       { --accent: #9a958a; --hover: #9a958a; }
+[data-theme="dark"] details.section#research  { --accent: #7fb8b0; --hover: #7fb8b0; }
+[data-theme="dark"] details.section#blogs     { --accent: #a8c08c; --hover: #a8c08c; }
+[data-theme="dark"] details.section#linkedin  { --accent: #7ba6d4; --hover: #7ba6d4; }
+
+/* Section */
+.section { margin-top: 32px; scroll-margin-top: 60px; }
+.section:first-of-type { margin-top: 8px; }
+.section-head {
+  margin-bottom: 14px; padding-bottom: 10px;
+  border-bottom: 1px solid var(--rule);
+  display: flex; align-items: baseline; justify-content: space-between;
+  gap: 16px; cursor: pointer; list-style: none; user-select: none;
+  transition: color 120ms ease;
+}
+.section-head::-webkit-details-marker { display: none; }
+.section-head:hover h2 { color: var(--accent); }
+.section:not([open]) > .section-head { margin-bottom: 0; }
+.section-head h2 {
+  font-family: var(--font-body); font-weight: 500;
+  font-size: 22px; line-height: 1.15; margin: 0;
+  letter-spacing: -0.012em; transition: color 120ms ease; flex: 1;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1.5px; text-underline-offset: 6px;
+  text-decoration-color: color-mix(in srgb, var(--accent) 55%, transparent);
+}
+[data-font="sans"] .section-head h2 { font-weight: 600; letter-spacing: -0.022em; }
+.section-head::after {
+  content: "▾"; font-family: var(--font-meta); font-size: 11px;
+  color: var(--accent); transition: transform 180ms ease;
+  display: inline-block; transform-origin: center;
+  flex-shrink: 0; margin-left: 12px; align-self: center;
+}
+.section:not([open]) > .section-head::after { transform: rotate(-90deg); }
+
+/* Subsection */
+.subsection { margin-top: 18px; }
+.subsection:first-of-type { margin-top: 6px; }
+.subhead {
+  display: flex; align-items: center; gap: 10px;
+  margin: 0 0 6px; cursor: pointer; list-style: none; user-select: none;
+  transition: color 120ms ease;
+}
+.subhead::-webkit-details-marker { display: none; }
+.subhead::before {
+  content: "▾"; font-size: 9px; color: var(--mute);
+  transition: transform 180ms ease;
+  display: inline-block; transform-origin: center; flex-shrink: 0;
+}
+.subsection:not([open]) > .subhead::before { transform: rotate(-90deg); }
+.subsection:not([open]) > .subhead { margin-bottom: 0; }
+.subhead:hover h3 { color: var(--ink); }
+.subhead::after {
+  content: ""; flex: 1; height: 1px; background: var(--rule-soft);
+}
+.subhead h3 {
+  font-family: var(--font-meta); font-size: 10.5px;
+  font-weight: 500; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--ink-soft); margin: 0; transition: color 120ms ease;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1px; text-underline-offset: 4px;
+  text-decoration-color: color-mix(in srgb, var(--accent) 55%, transparent);
+}
+
+/* Article */
+.article {
+  display: grid; grid-template-columns: 26px 1fr;
+  gap: 2px 12px; padding: var(--row-pad) 0 calc(var(--row-pad) + 1px);
+  border-bottom: 1px solid var(--rule-soft);
+}
+.article:last-child { border-bottom: none; }
+.article .num {
+  font-family: var(--font-meta); font-size: 11px;
+  color: var(--faint); font-feature-settings: "tnum";
+  padding-top: 4px; text-align: right;
+}
+.article .body { min-width: 0; }
+.article h4 {
+  margin: 0 0 4px; font-family: var(--font-body);
+  font-weight: 500; font-size: 20px; line-height: 1.25;
+  letter-spacing: -0.008em; text-wrap: pretty;
+}
+[data-font="sans"] .article h4 { font-weight: 600; letter-spacing: -0.015em; }
+.article h4 a {
+  background-image: linear-gradient(var(--ink), var(--ink));
+  background-repeat: no-repeat; background-position: 0 100%;
+  background-size: 0 1px;
+  transition: background-size 180ms ease, color 120ms ease;
+}
+.article h4 a:hover {
+  color: var(--hover);
+  background-image: linear-gradient(var(--hover), var(--hover));
+  background-size: 100% 1px;
+}
+
+/* Meta line — picks up the section accent */
+.meta {
+  font-family: var(--font-meta); font-size: 10px;
+  letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--accent);
+  display: flex; flex-wrap: wrap; align-items: center;
+  gap: 0 6px; line-height: 1.4;
+}
+.meta .sep { color: var(--accent); opacity: 0.55; }
+.meta a { color: #ed702e; border-bottom: 1px solid transparent; padding-bottom: 1px; }
+.meta a:hover { color: #ff8a3c; border-color: currentColor; }
+.meta .src { color: var(--accent); font-weight: 600; }
+.meta .cat { color: var(--accent); }
+.meta .reason {
+  width: 100%; color: var(--faint); font-style: italic;
+  text-transform: none; letter-spacing: 0;
+  font-size: 11px; font-family: var(--font-body); margin-top: 1px;
+}
+
+/* Article collapsibles */
+.article details { margin-top: 5px; }
+.article details summary {
+  list-style: none; cursor: pointer;
+  font-family: var(--font-meta); font-size: 10px;
+  letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--accent);
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 2px 0; transition: color 120ms ease; user-select: none;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1px; text-underline-offset: 3px;
+  text-decoration-color: currentColor;
+}
+.article details summary::-webkit-details-marker { display: none; }
+.article details summary:hover { color: var(--hover); }
+.article details summary::before {
+  content: "+"; display: inline-block; width: 9px;
+  text-align: center; color: var(--faint);
+  font-family: var(--font-meta);
+  transition: transform 150ms ease, color 120ms ease;
+}
+.article details[open] summary::before { content: "−"; color: var(--accent); }
+.article details[open] summary { color: var(--accent); }
+.article details .panel {
+  font-family: var(--font-body); font-size: 14px;
+  font-weight: 500; line-height: 1.25;
+  color: var(--panel-ink, var(--ink-soft));
+  margin: 5px 0 4px; text-wrap: pretty;
+}
+[data-theme="dark"] { --panel-ink: #b5b5b5; }
+.article details.abstract .panel { font-style: italic; color: var(--mute); }
+details.section#nyt .article details.abstract .panel { font-style: normal; }
+
+/* Side-by-side details (Abstract + Overview on NYT) */
+.details-row { display: flex; flex-wrap: wrap; gap: 0 16px; margin-top: 4px; }
+.details-row details { margin-top: 0; }
+
+/* "More" chunk toggles (HN list): indent ONLY the button so expanded content is full-width */
+.more { margin: 6px 0 0 0; }
+.more > summary { display: inline-block; margin-left: 32px; padding: 4px 10px; border: 1px solid var(--rule); border-radius: 2px; color: var(--mute); cursor: pointer; font-size: 12px; letter-spacing: 0.04em; }
+.more > summary:hover { color: var(--ink); border-color: var(--ink-soft); }
+.more[open] > summary { margin-bottom: 6px; }
+
+/* Toolbar icon glyphs */
+.toolbar .ico { display: inline-block; min-width: 1em; text-align: center; }
+.toolbar .ico-serif { font-family: 'Lora', Georgia, serif; font-weight: 600; }
+.toolbar .ico-sans { font-family: 'Inter', -apple-system, sans-serif; font-weight: 600; }
+
+/* Small screens: icons-only toolbar, fit one line */
+@media (max-width: 560px) {
+  .page { padding: 16px 16px 40px; }
+  .masthead { padding: 20px 0 16px; margin-bottom: 22px; }
+  .article { grid-template-columns: 22px 1fr; gap: 2px 10px; }
+  .article h4 { font-size: 18px; }
+  .toolbar { font-size: 11px; flex-wrap: nowrap; gap: 6px; align-items: center; }
+  .toolbar .lbl { display: none; }
+  .toolbar .archive { padding: 2px 4px; }
+  .toolbar .btn { padding: 4px 6px; font-size: 12px; }
+  .toolbar .seg .btn { padding: 4px 7px; }
+  .controls { gap: 4px; flex-wrap: nowrap; }
+  .section-head { flex-direction: column; align-items: flex-start; gap: 4px; }
+}
+
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 1px; }
+button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+</style>
 </head>
-<body style="margin:0;padding:0;background:#f4f3f0;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;color:#1a1a1a">
-<table width="100%" cellspacing="0" cellpadding="0" style="background:#f4f3f0">
-<tr><td align="center" style="padding:24px 16px">
-<table width="660" cellspacing="0" cellpadding="0" style="max-width:660px;width:100%">
-<tr><td style="background:#1a1a2e;border-radius:12px;padding:32px 36px">
-  <div style="font-size:11px;color:rgba(255,255,255,.55);letter-spacing:.15em;text-transform:uppercase;margin-bottom:6px">Your Morning Read</div>
-  <div style="font-size:30px;font-weight:800;color:#fff;line-height:1.1">Wednesday, April 22, 2026</div>
-  <div style="font-size:12px;color:rgba(255,255,255,.6);margin-top:6px">Fetched: Monday, May 25, 2026 at 01:52</div>
-  <div style="font-size:14px;color:rgba(255,255,255,.5);margin-top:6px">Daily Digest</div>
-  <div style="font-size:13px;margin-top:18px"><a href="../../digest_archive.html" style="color:rgba(255,255,255,.82);text-decoration:none;font-weight:700">Read past daily digests</a></div>
-</td></tr>
-<tr><td style="height:16px"></td></tr>
-<tr><td style="background:#fff;border-radius:12px;padding:28px 32px;box-shadow:0 1px 4px rgba(0,0,0,.06)">
-  
-    <div style="margin-bottom:28px">
-      <h3 style="font-size:13px;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:.08em;margin:0 0 10px;padding-bottom:8px;border-bottom:2px solid #f0f0f0">🔶 Yesterday's Top HackerNews</h3>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://frame.work/laptop13pro" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Framework Laptop 13 Pro</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">1479 pts · 769 comments</span> <a href="https://app.hncompanion.com/item?id=47852177" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-04-21</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The Hacker News discussion revolves around the newly announced Framework Laptop 13 Pro, focusing on its design, upgradeability, performance, and comparisons to competitors like MacBooks. The community expresses strong approval of Framework&#x27;s commitment to backward compatibility and modular design, while also raising concerns about pricing, component availability, and Linux support. The CEO of Framework, nrp, actively participates in the discussion, answering questions and addressing concerns.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">2.</span><a href="https://lawsofsoftwareengineering.com" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Laws of Software Engineering</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">1172 pts · 530 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">993 words · 5 min read</span> <a href="https://app.hncompanion.com/item?id=47847179" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-04-21</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The Hacker News discussion revolves around the &quot;Laws of Software Engineering,&quot; specifically examining the relevance, interpretation, and potential misapplication of established principles like &quot;premature optimization is the root of all evil&quot; and SOLID principles in modern software development. The conversation explores how these laws are often used, misused, and how their applicability may have changed with evolving technology and architectural paradigms.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">3.</span><a href="https://openai.com/index/introducing-chatgpt-images-2-0/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">ChatGPT Images 2.0</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">1049 pts · 975 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">37 words · 1 min read</span> <a href="https://app.hncompanion.com/item?id=47852835" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-04-21</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The Hacker News discussion revolves around OpenAI&#x27;s new image generation model, ChatGPT Images 2.0, with users sharing their initial impressions, test results, and concerns about its potential impact. The discussion covers the model&#x27;s capabilities, limitations, ethical considerations, and potential use cases. Many users express amazement at the improvements in photorealism and text rendering, while others remain skeptical, pointing out persistent issues and raising concerns about the broader societal implications of AIgenerated content.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">4.</span><a href="https://twitter.com/spacex/status/2046713419978453374" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">SpaceX says it has agreement to acquire Cursor for $60B</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">823 pts · 989 comments</span> <a href="https://app.hncompanion.com/item?id=47855293" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-04-21</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The Hacker News discussion revolves around SpaceX&#x27;s agreement to potentially acquire Cursor, an AIpowered code editor, for a staggering $60 billion. The deal is structured as an option, allowing SpaceX to acquire Cursor later this year or pay $10 billion for ongoing collaboration. The conversation explores the rationale behind this move, its implications for both companies, and whether the valuation is justified in the current AI landscape.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">5.</span><a href="https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Meta to start capturing employee mouse movements, keystrokes for AI training</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">803 pts · 525 comments</span> <a href="https://app.hncompanion.com/item?id=47851948" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-04-21</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The Hacker News discussion revolves around Meta&#x27;s decision to capture employee mouse movements and keystrokes for AI training purposes. The discussion encompasses concerns about employee privacy, potential misuse of data, the legality and ethics of such practices, and the broader implications for worker rights and the future of employment in the age of AI. The overall sentiment is critical, with many users expressing dismay and concern over Meta&#x27;s actions.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">6.</span><a href="https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Claude Code to be removed from Anthropic&#x27;s Pro plan?</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">683 pts · 642 comments</span> <a href="https://app.hncompanion.com/item?id=47854477" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-04-21</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The Hacker News discussion revolves around the potential removal of Claude Code from Anthropic&#x27;s Pro plan, sparking widespread user concern and speculation about the company&#x27;s motives. Users express frustration over unclear communication, potential &quot;enshittification,&quot; and the impact on both individual developers and enterprise adoption. Many are considering switching to competing services like OpenAI&#x27;s Codex, GLM, or local models.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">7.</span><a href="https://simonomi.dev/blog/color-code-your-bytes/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Your hex editor should color-code bytes</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">614 pts · 157 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">6,361 words · 28 min read</span> <a href="https://app.hncompanion.com/item?id=47846688" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-04-21</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The Hacker News discussion revolves around the idea of colorcoding bytes in hex editors to improve readability and pattern recognition. The discussion covers the potential benefits of syntax highlighting in hex editors, considerations for accessibility (particularly color blindness), and alternative approaches to visualizing and analyzing binary data. Various tools and techniques are mentioned, with a focus on user configurability and semantic analysis.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">8.</span><a href="https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">The Vercel breach: OAuth attack exposes risk in platform environment variables</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">369 pts · 117 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">6,911 words · 31 min read</span> <a href="https://app.hncompanion.com/item?id=47851634" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-04-21</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The Hacker News discussion revolves around the Vercel breach, focusing on the root causes, the role of OAuth and thirdparty integrations, and broader implications for cloud security. Key points include criticism of Vercel&#x27;s security practices, the dangers of overprivileged OAuth applications, and the potential for AI to accelerate attacks. The discussion also explores the complexities of secret management and the need for architectural changes to mitigate risks in platform environments.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">9.</span><a href="https://britannica11.org/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">353 pts · 131 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">11 words · 1 min read</span> <a href="https://app.hncompanion.com/item?id=47851885" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-04-21</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The Hacker News discussion revolves around britannica11.org, a project that presents the 1911 Encyclopædia Britannica in a structured and navigable online format. The discussion highlights the value of the 1911 edition as a historical snapshot and praises the project&#x27;s accessibility. Feedback focuses on potential improvements, data access, and comparisons to similar initiatives.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">10.</span><a href="https://stratechery.com/2026/tim-cooks-impeccable-timing/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Tim Cook&#x27;s Impeccable Timing</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">350 pts · 416 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">3,094 words · 14 min read</span> <a href="https://app.hncompanion.com/item?id=47847324" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-04-21</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The Hacker News discussion revolves around Tim Cook&#x27;s legacy as Apple&#x27;s CEO and the prospects for his successor, focusing on his operational strengths, strategic decisions, and potential missteps. Key themes include Apple&#x27;s approach to manufacturing, innovation, AI, and the balance between hardware and software. The community expresses both admiration for Cook&#x27;s achievements and hopes for a renewed focus on product innovation under the new leadership.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">11.</span><a href="https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Drunk post: Things I&#x27;ve learned as a senior engineer (2021)</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">347 pts · 244 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">3,884 words · 17 min read</span> <a href="https://app.hncompanion.com/item?id=47856535" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-04-21</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The Hacker News discussion revolves around a &quot;drunk post&quot; reflecting on lessons learned as a senior engineer. The conversation covers a range of topics, including the importance of community, documentation, career advancement, and financial planning, with a mix of agreement, disagreement, and personal anecdotes.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">12.</span><a href="https://news.ycombinator.com/item?id=47857461" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Tell HN: I&#x27;m sick of AI everything</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">346 pts · 193 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">11,769 words · 52 min read</span> <a href="https://app.hncompanion.com/item?id=47857461" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-04-21</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The Hacker News discussion revolves around a growing sentiment of &quot;AI fatigue,&quot; with many expressing weariness towards the oversaturation of AI in various aspects of technology, media, and even daily life. Participants draw parallels to the dotcom bubble, critique the quality of AIgenerated content, and raise concerns about the societal implications of widespread AI adoption. The discussion also explores potential benefits and practical applications of AI when used responsibly.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">13.</span><a href="https://vidstudio.app/video-editor" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Show HN: VidStudio, a browser based video editor that doesn&#x27;t upload your files</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">301 pts · 109 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">1,071 words · 5 min read</span> <a href="https://app.hncompanion.com/item?id=47847558" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-04-21</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The Hacker News discussion revolves around VidStudio, a browserbased video editor that operates locally without uploading user files. The discussion covers topics such as the licensing implications of using FFmpeg, performance considerations, browser compatibility, and comparisons to other video editing solutions. Users also appreciate the privacyfocused approach of the application and discuss the potential for opensourcing the project.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">14.</span><a href="https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">A Roblox cheat and one AI tool brought down Vercel&#x27;s platform</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">283 pts · 162 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">1,055 words · 5 min read</span> <a href="https://app.hncompanion.com/item?id=47844431" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-04-21</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The Hacker News discussion revolves around a security incident where Vercel&#x27;s platform was compromised due to a Roblox cheat installed on a Context.ai employee&#x27;s machine, ultimately leading to a Vercel employee&#x27;s Google Workspace account being accessed. The discussion encompasses various aspects of the incident, including the role of personal responsibility, the security practices of AI companies, the challenges of securing environment variables, and the potential risks associated with AIintegrated workflows. There is also some skepticism about the article&#x27;s authenticity, with some users suspecting it was AIgenerated.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">15.</span><a href="https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">277 pts · 289 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">411 words · 2 min read</span> <a href="https://app.hncompanion.com/item?id=47848276" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-04-21</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The Hacker News discussion revolves around Amazon&#x27;s $5 billion investment in Anthropic, with a commitment to spend $100 billion on Amazon&#x27;s cloud services. The discussion explores whether this deal is a sign of a potential AI bubble, the sustainability of current AI business models, and the strategic implications of choosing to build proprietary data centers versus using thirdparty cloud providers. The community shows skepticism about the longterm viability and profitability of the current AI landscape and the financial implications.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">16.</span><a href="https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Original GrapheneOS responses to WIRED fact checker</a><span style="display:inline-block;background:#ff6600;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">HN</span> <span style="font-size:11px;color:#888;margin-left:6px">267 pts · 250 comments</span> <span style="font-size:11px;color:#888;margin-left:6px">22 words · 1 min read</span> <a href="https://app.hncompanion.com/item?id=47849854" style="font-size:11px;color:#e67e22;margin-left:6px;text-decoration:none">HN Companion</a> <span style="font-size:11px;color:#999;margin-left:6px">2026-04-21</span><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The Hacker News discussion revolves around GrapheneOS&#x27;s official responses to a WIRED article, focusing on the project&#x27;s history, the personalities involved, and the implications for its reputation and trustworthiness. Key themes include the CopperheadOS split, concerns about GrapheneOS&#x27;s communication style, and the balance between security focus and community engagement. The discussion also touches on the broader challenges of opensource development and the pressures faced by project leaders.</div></details>
-      </td>
-    </tr></tbody></table>
+<body>
+<div class="page">
+  <div class="toolbar">
+    <a class="archive" href="../../digest_archive.html" title="Read past daily digests"><span class="ico" aria-hidden="true">←</span><span class="lbl"> Read past daily digests</span></a>
+    <div class="controls">
+      <div class="seg" role="group" aria-label="Font">
+        <button class="btn" data-tg="font" data-val="serif" aria-pressed="true" title="Serif"><span class="ico ico-serif" aria-hidden="true">A</span><span class="lbl"> Serif</span></button>
+        <button class="btn" data-tg="font" data-val="sans" aria-pressed="false" title="Sans"><span class="ico ico-sans" aria-hidden="true">A</span><span class="lbl"> Sans</span></button>
+      </div>
+      <div class="seg" role="group" aria-label="Theme">
+        <button class="btn" data-tg="theme" data-val="light" aria-pressed="true" title="Light"><span class="ico" aria-hidden="true">☀</span><span class="lbl"> Light</span></button>
+        <button class="btn" data-tg="theme" data-val="dark" aria-pressed="false" title="Dark"><span class="ico" aria-hidden="true">☾</span><span class="lbl"> Dark</span></button>
+      </div>
+      <button class="btn" id="expandAll" title="Expand all"><span class="ico" aria-hidden="true">▾</span><span class="lbl"> Expand all</span></button>
+      <button class="btn" id="collapseAll" title="Collapse all"><span class="ico" aria-hidden="true">▴</span><span class="lbl"> Collapse all</span></button>
     </div>
-  
-    <div style="margin-bottom:28px">
-      <h3 style="font-size:13px;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:.08em;margin:0 0 10px;padding-bottom:8px;border-bottom:2px solid #f0f0f0">📰 NYT Strategic Reading List</h3>
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">DealBook</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.nytimes.com/2026/04/22/business/dealbook/spacex-ai-cursor.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">The Consequences of SpaceX’s Latest A.I. Moonshot</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">DealBook</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 77.0</span> <span style="font-size:11px;color:#888;margin-left:6px">1,970 words · 9 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Wed, 2026-04-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Elon Musk’s rocket and satellite internet titan may pay $60 billion for an A.I. coding start-up. It further clouds SpaceX’s once-simple business plan.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times DealBook analysis examines the strategic implications of SpaceX’s potential $60 billion acquisition of an artificial intelligence coding startup. The article explores how this massive investment complicates the company’s traditional business model, which previously focused primarily on aerospace and satellite connectivity. By integrating advanced AI capabilities, SpaceX signals a significant pivot in its long-term corporate strategy. This development is essential reading for understanding how the intersection of space exploration and generative technology is reshaping the valuation and operational trajectory of industry giants.</div></details>
-      </td>
-    </tr></tbody></table>
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">U.S.</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.nytimes.com/2026/04/22/nyregion/coinbase-crypto-prediction-markets-lawsuit.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Coinbase and Gemini Accused of Illegal Gambling in N.Y. Lawsuits</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">U.S.</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 75.0</span> <span style="font-size:11px;color:#888;margin-left:6px">681 words · 3 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Wed, 2026-04-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches business / economy / markets; strategic signal</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Attorney General Letitia James said the cryptocurrency giants were illegally running gambling platforms in the state after they expanded into prediction markets, which are loosely regulated.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">New York Attorney General Letitia James has filed lawsuits against major cryptocurrency exchanges Coinbase and Gemini, alleging they are operating illegal gambling platforms within the state. The legal action centers on the companies&#x27; recent expansion into prediction markets, which currently face minimal regulatory oversight. This case is significant as it challenges the boundaries of digital asset services and highlights a growing conflict between crypto firms and state regulators regarding the classification of speculative financial products, potentially setting a major precedent for the industry&#x27;s future.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">2.</span><a href="https://www.nytimes.com/2026/04/22/us/redistricting-republicans-democrats-florida-virginia.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">For Frustrated G.O.P., Redistricting Fight Turns to Florida and the Courtroom</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">U.S.</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 64.5</span> <span style="font-size:11px;color:#888;margin-left:6px">1,178 words · 5 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Wed, 2026-04-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches corporate strategy; policy/social lens</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">A victory for Democrats in Virginia has left Republicans grumbling about their strategy and looking to the next phase of a coast-to-coast battle.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times report examines the evolving national redistricting landscape as Republicans pivot their strategy following recent electoral setbacks in Virginia. By shifting focus to Florida and intensifying legal challenges, the party seeks to regain momentum in the ongoing battle over congressional map-drawing. This analysis is essential for understanding how partisan litigation and state-level maneuvering directly influence the balance of power in the House of Representatives, highlighting the high-stakes intersection of judicial intervention and political survival in American electoral policy.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">3.</span><a href="https://www.nytimes.com/2026/04/22/briefing/today-in-short.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Today, In Short</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">U.S.</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 62.8</span> <span style="font-size:11px;color:#888;margin-left:6px">473 words · 2 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Wed, 2026-04-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; strategic signal</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">“The Devil Wears Prada 2” premiere. Day-in-my-life videos. And a smoking ban in Britain.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Today, In Short from The New York Times provides a concise, curated briefing on the day’s most significant cultural and policy developments. By bridging disparate topics—ranging from the entertainment industry’s latest blockbuster premieres and the rise of personal digital storytelling to major international legislative shifts like Britain’s smoking ban—it offers a strategic snapshot of the current zeitgeist. This digest is essential for readers seeking to understand how evolving media trends and global regulatory changes intersect within the modern information landscape.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">4.</span><a href="https://www.nytimes.com/2026/04/22/us/southern-poverty-law-center-doj.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">How the Southern Poverty Law Center Drew the Ire of Conservatives</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">U.S.</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 61.9</span> <span style="font-size:11px;color:#888;margin-left:6px">1,490 words · 6 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Wed, 2026-04-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches regulation / policy; policy/social lens</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Before the Justice Department filed charges against it, the group had faced scandal and critiques from both the left and the right.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times report examines the mounting controversies surrounding the Southern Poverty Law Center, detailing how the organization transitioned from a celebrated civil rights watchdog to a target of intense scrutiny. By analyzing critiques from across the political spectrum and the group’s internal scandals, the article provides essential context for the Justice Department’s recent legal actions. It is a critical read for understanding the intersection of advocacy, institutional accountability, and the shifting landscape of American policy and social oversight.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">5.</span><a href="https://www.nytimes.com/2026/04/22/headway/newsletter-eggs-cost-economy.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Making an Omelet Without Breaking the Bank</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">U.S.</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 54.0</span> <span style="font-size:11px;color:#888;margin-left:6px">1,307 words · 6 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Wed, 2026-04-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Skim: matches business / economy / markets</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Plus, why eggs in California are more expensive.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times article examines the economic factors driving fluctuating egg prices, specifically focusing on the regional disparities that make eggs significantly more expensive in California. By analyzing the intersection of supply chain logistics, production costs, and state-specific regulatory impacts, the piece provides a clear look at how broader market trends manifest in everyday grocery bills. It is a vital read for understanding how localized policy and economic pressures directly influence consumer purchasing power and the stability of essential food markets.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">6.</span><a href="https://www.nytimes.com/2026/04/22/well/mind/medications-dementia-risk-increase.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">4 Drugs That May Increase Your Dementia Risk</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">U.S.</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 48.4</span> <span style="font-size:11px;color:#888;margin-left:6px">838 words · 4 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Wed, 2026-04-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Skim: matches personal utility; core news</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Experts have flagged several over-the-counter and prescription medications.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times article examines a growing body of medical research identifying specific over-the-counter and prescription medications that may be linked to an increased risk of dementia. By highlighting common drugs that experts have flagged for potential cognitive side effects, the piece provides essential health guidance for readers managing their long-term wellness. It serves as a critical resource for those looking to understand how routine pharmaceutical choices might impact brain health, offering actionable information to facilitate informed discussions with healthcare providers.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">7.</span><a href="https://www.nytimes.com/2026/04/22/podcasts/the-headlines/virginia-referendum-influencers-nicotine.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Democrats Win Big in Election Map Fight, and Influencers Push Nicotine as a Health Hack</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">U.S.</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 48.4</span> <span style="font-size:11px;color:#888;margin-left:6px">194 words · 1 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Wed, 2026-04-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Skim: matches personal utility; core news</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Plus, how rainforests can bounce back.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times podcast episode covers two distinct developments: a significant victory for Democrats in a high-stakes legal battle over electoral maps and the growing, controversial trend of social media influencers promoting nicotine as a health-enhancing supplement. By contrasting major political shifts with emerging public health concerns, the report provides essential context on how legislative outcomes and digital misinformation shape contemporary society. It is a valuable listen for those tracking both the evolving landscape of American democracy and the influence of online wellness trends.</div></details>
-      </td>
-    </tr></tbody></table>
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">Technology</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Anthropic’s New A.I. Model Sets Off Global Alarms</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Technology</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 67.0</span> <span style="font-size:11px;color:#888;margin-left:6px">1,157 words · 5 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Wed, 2026-04-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai; strategic signal</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Mythos has triggered emergency responses from central banks and intelligence agencies globally, as Anthropic decides who has access to the powerful model.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times report examines the global fallout following the release of Anthropic’s powerful new AI model, Mythos. The article details how the model’s unprecedented capabilities have prompted emergency interventions from central banks and intelligence agencies concerned about systemic stability and national security. By highlighting the intense geopolitical friction surrounding Anthropic’s restricted access policies, the piece underscores the critical tension between rapid technological advancement and the urgent need for institutional oversight in an era where AI models can disrupt global infrastructure.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">2.</span><a href="https://www.nytimes.com/2026/04/22/science/trump-nih-funding-research.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Pace of N.I.H. Funding Slows Further in Trump’s Second Year</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Technology</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 64.0</span> <span style="font-size:11px;color:#888;margin-left:6px">1,509 words · 7 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Wed, 2026-04-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches corporate strategy; strategic signal</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The agency has approved far fewer new grants than it did in years past. A renewed effort to screen for disfavored terms and a loss of personnel are contributing.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times report examines the significant decline in new grant approvals by the National Institutes of Health during the second year of the Trump administration. The article attributes this slowdown to a combination of staff attrition and the implementation of stricter ideological screening processes for research terminology. Understanding these shifts is critical for stakeholders, as the reduced funding pipeline and administrative hurdles signal a broader strategic pivot in federal science policy that could fundamentally alter the landscape of medical research and innovation.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">3.</span><a href="https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Mars or the Moon or A.I.? Elon Musk’s Changing Goals for SpaceX.</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Technology</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 61.0</span> <span style="font-size:11px;color:#888;margin-left:6px">1,244 words · 5 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Wed, 2026-04-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">As SpaceX prepares to go public, Mr. Musk has proposed moonshots that differ from the company’s original aim of reaching Mars.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times article examines the strategic evolution of SpaceX as the company prepares for an initial public offering. While SpaceX was founded with the singular, ambitious mission of colonizing Mars, Elon Musk has recently pivoted toward new priorities, including lunar exploration and artificial intelligence integration. This shift is significant because it reflects changing corporate objectives and investor expectations. By analyzing these evolving goals, the piece highlights how SpaceX is recalibrating its long-term vision to align with modern technological demands and financial realities.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">4.</span><a href="https://www.nytimes.com/2026/04/22/technology/anthropic-code-leak-copyright.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Anthropic’s Leaked Code Tests Copyright Challenges in A.I. Era</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Technology</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 61.0</span> <span style="font-size:11px;color:#888;margin-left:6px">1,020 words · 4 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Wed, 2026-04-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches technology / ai</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Artificial intelligence tools are making it faster than ever to reproduce creative work. Does copyright even matter anymore?</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times report examines the legal and ethical implications of a leaked code repository from Anthropic, highlighting the growing tension between generative artificial intelligence and intellectual property rights. By analyzing how AI tools can rapidly reproduce proprietary creative work, the article questions the ongoing relevance of copyright law in an automated landscape. This case is significant because it serves as a critical test for how courts and regulators will balance technological innovation against the protection of original human authorship in the AI era.</div></details>
-      </td>
-    </tr></tbody></table>
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">Politics</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.nytimes.com/2026/04/22/us/politics/doctors-insurers-arbitration.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">A $440,000 Breast Reduction: How Doctors Cashed In on a Consumer Protection Law</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Politics</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 64.0</span> <span style="font-size:11px;color:#888;margin-left:6px">1,939 words · 8 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Wed, 2026-04-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches personal utility; policy/social lens</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">A law meant to end surprise medical billing accidentally created a multibillion-dollar industry that is making doctors richer.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times investigation examines how the No Surprises Act, a federal law designed to protect patients from unexpected medical bills, has been exploited to generate massive profits for certain medical providers. By analyzing the arbitration process intended to resolve payment disputes between doctors and insurers, the article reveals how providers are leveraging the system to inflate fees significantly. This report is essential reading for understanding the unintended economic consequences of healthcare policy and how legislative efforts to lower costs can inadvertently enrich industry stakeholders.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">2.</span><a href="https://www.nytimes.com/2026/04/22/us/politics/david-scott-dead-georgia-congress.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">David Scott, Longtime Georgia Congressman, Dies at 80</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Politics</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 62.3</span> <span style="font-size:11px;color:#888;margin-left:6px">1,082 words · 5 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Wed, 2026-04-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches regulation / policy; policy/social lens</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">A former Georgia state lawmaker, he supported Black communities in the House and drew attention for his refusal to retire despite health problems.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times obituary details the life and career of David Scott, a long-serving Georgia congressman and former state lawmaker. The article chronicles his legislative tenure, highlighting his dedicated advocacy for Black communities and his influential role in shaping federal policy. It also addresses the controversy surrounding his later years, specifically his decision to remain in office despite persistent health challenges. This piece is essential for understanding Scott’s political legacy and the broader implications of aging leadership within the United States Congress.</div></details>
-      </td>
-    </tr></tbody></table>
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">Business</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.nytimes.com/2026/04/22/business/oi-gas-stocks-iran.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Stocks Rise as Investors Weigh Cease-Fire Extension</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Business</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 56.0</span> <span style="font-size:11px;color:#888;margin-left:6px">395 words · 2 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Wed, 2026-04-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches business / economy / markets</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Oil prices stablized as investors scrambled to make sense of President Trump’s decision to extend the cease-fire with Iran</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times business report examines the impact of President Trump’s decision to extend the cease-fire with Iran on global financial markets. As investors navigate the geopolitical uncertainty surrounding this development, the article details how oil prices have stabilized and equity markets have responded to the news. This coverage is essential for understanding the intersection of international diplomacy and economic stability, providing critical context on how shifting foreign policy decisions directly influence investor sentiment and the broader performance of energy and stock markets.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">2.</span><a href="https://www.nytimes.com/2026/04/22/business/trumps-warsh-fed-sock-puppet.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Trump’s Fed Pick Faces Tough Task Shedding ‘Sock Puppet’ Label</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Business</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 56.0</span> <span style="font-size:11px;color:#888;margin-left:6px">1,472 words · 6 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Wed, 2026-04-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches business / economy / markets</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Kevin M. Warsh, at his confirmation hearing to lead the Federal Reserve, sought to dispel concerns that he would cut interest rates to please President Trump.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">In this New York Times report, Kevin M. Warsh faces intense scrutiny during his Federal Reserve confirmation hearing regarding his perceived independence from the executive branch. As he seeks to lead the central bank, Warsh must actively dispel widespread concerns that he would prioritize President Trump’s political agenda over sound monetary policy by prematurely cutting interest rates. This article is essential reading for understanding the critical tension between political influence and institutional autonomy, highlighting the challenges Warsh faces in establishing credibility with markets and policymakers.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">3.</span><a href="https://www.nytimes.com/2026/04/21/business/devin-nunes-leaves-trump-media-ceo.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Devin Nunes Departs Trump Media After 4 Years as C.E.O.</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Business</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 53.9</span> <span style="font-size:11px;color:#888;margin-left:6px">397 words · 2 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Wed, 2026-04-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Skim: matches regulation / policy; strategic signal</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">The former congressman said it was an “appropriate time” for a leadership change at Truth Social’s parent company, whose share price has floundered.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Devin Nunes has stepped down as chief executive of Trump Media and Technology Group, the parent company of Truth Social, after four years at the helm. This leadership transition follows a period of significant financial instability, marked by a struggling share price and ongoing operational challenges for the platform. As a key figure bridging political influence and corporate management, Nunes’s departure serves as a critical strategic signal regarding the company’s future direction and its ability to sustain long-term viability in a volatile media market.</div></details>
-      </td>
-    </tr></tbody></table>
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">Opinion</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.nytimes.com/2026/04/22/opinion/shoplifting-political-protest-microlooting-whole-foods.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">‘The Rich Don’t Play by the Rules. So Why Should I?’</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Opinion</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 46.7</span> <span style="font-size:11px;color:#888;margin-left:6px">5,460 words · 24 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Wed, 2026-04-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Skim: matches business / economy / markets; opinion/argument</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">Why petty theft might be the new political protest.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times opinion piece examines the growing phenomenon of shoplifting as a form of political protest, often referred to as microlooting. The author explores the psychological and socioeconomic motivations behind this trend, arguing that individuals are increasingly justifying petty theft as a response to perceived systemic inequality and the belief that the wealthy operate above the law. By framing retail theft as a moral rebellion rather than simple criminality, the article highlights a significant shift in public attitudes toward property rights and economic justice.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">2.</span><a href="https://www.nytimes.com/2026/04/22/opinion/gen-z-job-ladder.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">There’s Another Reason Gen Z Can’t Find Work</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Opinion</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 42.8</span> <span style="font-size:11px;color:#888;margin-left:6px">1,199 words · 5 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Wed, 2026-04-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Skim: matches technology / ai</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">It’s not just because of A.I. This started 40 years ago.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">In this New York Times opinion piece, the author challenges the common narrative that artificial intelligence is the primary culprit behind Gen Z’s current employment struggles. Instead, the article traces the roots of the issue back four decades, arguing that structural shifts in the labor market have systematically dismantled the traditional job ladder. By contextualizing these challenges within a long-term historical framework, the piece provides a vital perspective for understanding why entry-level opportunities have eroded, moving the conversation beyond immediate technological anxieties.</div></details>
-      </td>
-    </tr></tbody></table>
-      <div style="font-size:12px;font-weight:800;color:#1a1a2e;margin:18px 0 6px">Energy &amp; Environment</div>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://www.nytimes.com/2026/04/22/climate/house-vote-endangered-species-earth-day.html" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">Republicans Had an Earth Day Plan to Limit Species Protections. It Flopped.</a><span style="display:inline-block;background:#111111;color:#ffffff;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">NYT</span><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Energy &amp; Environment</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 45.0</span> <span style="font-size:11px;color:#888;margin-left:6px">938 words · 4 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">Published: Wed, 2026-04-22</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Skim: core news</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Abstract:</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">House leaders abruptly canceled a vote on the measure when support started to look shaky.</div></details><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This New York Times report details a failed legislative attempt by House Republicans to weaken the Endangered Species Act, a move strategically timed to coincide with Earth Day. The article explains how the initiative collapsed after party leadership abruptly canceled the vote due to insufficient support among lawmakers. This event is significant as it highlights internal political divisions regarding environmental policy and demonstrates the ongoing legislative tension surrounding the protection of vulnerable wildlife and the potential rollback of long-standing conservation mandates.</div></details>
-      </td>
-    </tr></tbody></table></div>
-  
-  
-    <div style="margin-bottom:28px">
-      <h3 style="font-size:13px;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:.08em;margin:0 0 10px;padding-bottom:8px;border-bottom:2px solid #f0f0f0">📚 Blogs & Craft</h3>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">1.</span><a href="https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty</a><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Security</span><span style="display:inline-block;background:#f5f5f5;color:#777777;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Krebs on Security</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 104.0</span> <span style="font-size:11px;color:#888;margin-left:6px">849 words · 4 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-04-21</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Read deeply: matches security / privacy</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">This report from Krebs on Security details the guilty plea of Tyler Robert Buchanan, a key member of the notorious cybercrime syndicate Scattered Spider. Buchanan admitted to participating in a sophisticated 2022 phishing campaign that compromised at least twelve major technology firms, resulting in the theft of tens of millions in cryptocurrency. This case is significant as it highlights the operational tactics of a high-profile threat actor and represents a major legal victory in the ongoing effort to dismantle organized cybercriminal networks targeting global infrastructure.</div></details>
-      </td>
-    </tr><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <span style="display:inline-block;width:24px;color:#999">2.</span><a href="https://www.superpowerdaily.com/p/openai-releases-codex-chronicle-feature-for-enhancing-context" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">OpenAI releases Codex ‘Chronicle’ feature for enhancing context</a><span style="display:inline-block;background:#f0f0f0;color:#666666;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Technology</span><span style="display:inline-block;background:#f5f5f5;color:#777777;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">Superpower Daily</span> <span style="font-size:11px;color:#888;margin-left:6px">Score 80.1</span> <span style="font-size:11px;color:#888;margin-left:6px">1,281 words · 6 min read</span> <span style="font-size:11px;color:#999;margin-left:6px">2026-04-21</span><div style="font-size:12px;color:#777;line-height:1.35;margin-top:4px;margin-left:24px">Skim: matches ai / agents / llms</div><details style="margin-top:6px;margin-left:24px"><summary style="font-size:12px;color:#555;font-weight:700;cursor:pointer">Overview (Model: Gemini 3.1 Flash-Lite):</summary><div style="font-size:12px;color:#555;line-height:1.45;margin-top:4px">OpenAI has introduced the Codex Chronicle feature, a significant update designed to improve how AI models manage and retain context during complex interactions. By allowing the system to maintain a more coherent history of user inputs and project requirements, this tool addresses a common limitation in long-form coding and reasoning tasks. This development is essential for developers and power users, as it enhances the reliability and continuity of AI-assisted workflows, ultimately making large language models more effective for sustained, multi-step technical projects.</div></details>
-      </td>
-    </tr></tbody></table>
-    </div>
-  
-    <div style="margin-bottom:28px">
-      <h3 style="font-size:13px;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:.08em;margin:0 0 10px;padding-bottom:8px;border-bottom:2px solid #f0f0f0">💼 LinkedIn - Rama's Activity</h3>
-      <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr>
-      <td style="padding:9px 0;border-bottom:1px solid #f5f5f5;vertical-align:top">
-        <a href="https://www.linkedin.com/in/ramar/recent-activity/all/" style="color:#1a1a2e;font-size:14px;text-decoration:none;line-height:1.45;font-weight:500" target="_blank">View Rama&#x27;s recent LinkedIn activity</a><span style="display:inline-block;background:#f5f5f5;color:#777777;font-size:10px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.04em;margin-left:4px;vertical-align:middle">LinkedIn</span>
-      </td>
-    </tr></tbody></table>
-    </div>
-</td></tr>
-<tr><td style="height:16px"></td></tr>
-<tr><td style="text-align:center;padding:16px;font-size:11px;color:#999">
-  Generated 1:52 AM on May 25, 2026 · Daily Digest
-</td></tr>
-</table>
-</td></tr>
-</table>
+  </div>
+
+  <header class="masthead">
+    <div class="kicker">Your Morning Read</div>
+    <h1 class="wordmark">Wednesday, April 22, 2026</h1>
+    <div class="fetched">Fetched: Wednesday, May 27, 2026 at 14:16</div>
+  </header>
+
+<details class="section" id="hn" open>
+  <summary class="section-head"><h2>Yesterday on Hacker News</h2></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://frame.work/laptop13pro" target="_blank">Framework Laptop 13 Pro</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=47852177" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Tue, Apr 21</span><span class="sep">·</span><span>1479 pts</span><span class="sep">·</span><span>769 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The Hacker News discussion revolves around the newly announced Framework Laptop 13 Pro, focusing on its design, upgradeability, performance, and comparisons to competitors like MacBooks. The community expresses strong approval of Framework&#x27;s commitment to backward compatibility and modular design, while also raising concerns about pricing, component availability, and Linux support. The CEO of Framework, nrp, actively participates in the discussion, answering questions and addressing concerns.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://lawsofsoftwareengineering.com" target="_blank">Laws of Software Engineering</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=47847179" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Tue, Apr 21</span><span class="sep">·</span><span>993 words · 5 min read</span><span class="sep">·</span><span>1172 pts</span><span class="sep">·</span><span>530 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The Hacker News discussion revolves around the &quot;Laws of Software Engineering,&quot; specifically examining the relevance, interpretation, and potential misapplication of established principles like &quot;premature optimization is the root of all evil&quot; and SOLID principles in modern software development. The conversation explores how these laws are often used, misused, and how their applicability may have changed with evolving technology and architectural paradigms.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://openai.com/index/introducing-chatgpt-images-2-0/" target="_blank">ChatGPT Images 2.0</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=47852835" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Tue, Apr 21</span><span class="sep">·</span><span>37 words · 1 min read</span><span class="sep">·</span><span>1049 pts</span><span class="sep">·</span><span>975 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The Hacker News discussion revolves around OpenAI&#x27;s new image generation model, ChatGPT Images 2.0, with users sharing their initial impressions, test results, and concerns about its potential impact. The discussion covers the model&#x27;s capabilities, limitations, ethical considerations, and potential use cases. Many users express amazement at the improvements in photorealism and text rendering, while others remain skeptical, pointing out persistent issues and raising concerns about the broader societal implications of AIgenerated content.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://twitter.com/spacex/status/2046713419978453374" target="_blank">SpaceX says it has agreement to acquire Cursor for $60B</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=47855293" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Tue, Apr 21</span><span class="sep">·</span><span>823 pts</span><span class="sep">·</span><span>989 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The Hacker News discussion revolves around SpaceX&#x27;s agreement to potentially acquire Cursor, an AIpowered code editor, for a staggering $60 billion. The deal is structured as an option, allowing SpaceX to acquire Cursor later this year or pay $10 billion for ongoing collaboration. The conversation explores the rationale behind this move, its implications for both companies, and whether the valuation is justified in the current AI landscape.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/" target="_blank">Meta to start capturing employee mouse movements, keystrokes for AI training</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=47851948" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Tue, Apr 21</span><span class="sep">·</span><span>803 pts</span><span class="sep">·</span><span>525 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The Hacker News discussion revolves around Meta&#x27;s decision to capture employee mouse movements and keystrokes for AI training purposes. The discussion encompasses concerns about employee privacy, potential misuse of data, the legality and ethics of such practices, and the broader implications for worker rights and the future of employment in the age of AI. The overall sentiment is critical, with many users expressing dismay and concern over Meta&#x27;s actions.</div></details>
+  </div>
+</article>
+<details class="more"><summary>More</summary>
+<article class="article">
+  <div class="num">06</div>
+  <div class="body">
+    <h4><a href="https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a" target="_blank">Claude Code to be removed from Anthropic&#x27;s Pro plan?</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=47854477" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Tue, Apr 21</span><span class="sep">·</span><span>683 pts</span><span class="sep">·</span><span>642 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The Hacker News discussion revolves around the potential removal of Claude Code from Anthropic&#x27;s Pro plan, sparking widespread user concern and speculation about the company&#x27;s motives. Users express frustration over unclear communication, potential &quot;enshittification,&quot; and the impact on both individual developers and enterprise adoption. Many are considering switching to competing services like OpenAI&#x27;s Codex, GLM, or local models.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">07</div>
+  <div class="body">
+    <h4><a href="https://simonomi.dev/blog/color-code-your-bytes/" target="_blank">Your hex editor should color-code bytes</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=47846688" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Tue, Apr 21</span><span class="sep">·</span><span>6,361 words · 28 min read</span><span class="sep">·</span><span>614 pts</span><span class="sep">·</span><span>157 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The Hacker News discussion revolves around the idea of colorcoding bytes in hex editors to improve readability and pattern recognition. The discussion covers the potential benefits of syntax highlighting in hex editors, considerations for accessibility (particularly color blindness), and alternative approaches to visualizing and analyzing binary data. Various tools and techniques are mentioned, with a focus on user configurability and semantic analysis.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">08</div>
+  <div class="body">
+    <h4><a href="https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html" target="_blank">The Vercel breach: OAuth attack exposes risk in platform environment variables</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=47851634" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Tue, Apr 21</span><span class="sep">·</span><span>6,911 words · 31 min read</span><span class="sep">·</span><span>369 pts</span><span class="sep">·</span><span>117 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The Hacker News discussion revolves around the Vercel breach, focusing on the root causes, the role of OAuth and thirdparty integrations, and broader implications for cloud security. Key points include criticism of Vercel&#x27;s security practices, the dangers of overprivileged OAuth applications, and the potential for AI to accelerate attacks. The discussion also explores the complexities of secret management and the need for architectural changes to mitigate risks in platform environments.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">09</div>
+  <div class="body">
+    <h4><a href="https://britannica11.org/" target="_blank">Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=47851885" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Tue, Apr 21</span><span class="sep">·</span><span>11 words · 1 min read</span><span class="sep">·</span><span>353 pts</span><span class="sep">·</span><span>131 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The Hacker News discussion revolves around britannica11.org, a project that presents the 1911 Encyclopædia Britannica in a structured and navigable online format. The discussion highlights the value of the 1911 edition as a historical snapshot and praises the project&#x27;s accessibility. Feedback focuses on potential improvements, data access, and comparisons to similar initiatives.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">10</div>
+  <div class="body">
+    <h4><a href="https://stratechery.com/2026/tim-cooks-impeccable-timing/" target="_blank">Tim Cook&#x27;s Impeccable Timing</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=47847324" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Tue, Apr 21</span><span class="sep">·</span><span>3,094 words · 14 min read</span><span class="sep">·</span><span>350 pts</span><span class="sep">·</span><span>416 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The Hacker News discussion revolves around Tim Cook&#x27;s legacy as Apple&#x27;s CEO and the prospects for his successor, focusing on his operational strengths, strategic decisions, and potential missteps. Key themes include Apple&#x27;s approach to manufacturing, innovation, AI, and the balance between hardware and software. The community expresses both admiration for Cook&#x27;s achievements and hopes for a renewed focus on product innovation under the new leadership.</div></details>
+  </div>
+</article>
+<details class="more"><summary>More</summary>
+<article class="article">
+  <div class="num">11</div>
+  <div class="body">
+    <h4><a href="https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as" target="_blank">Drunk post: Things I&#x27;ve learned as a senior engineer (2021)</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=47856535" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Tue, Apr 21</span><span class="sep">·</span><span>3,884 words · 17 min read</span><span class="sep">·</span><span>347 pts</span><span class="sep">·</span><span>244 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The Hacker News discussion revolves around a &quot;drunk post&quot; reflecting on lessons learned as a senior engineer. The conversation covers a range of topics, including the importance of community, documentation, career advancement, and financial planning, with a mix of agreement, disagreement, and personal anecdotes.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">12</div>
+  <div class="body">
+    <h4><a href="https://news.ycombinator.com/item?id=47857461" target="_blank">Tell HN: I&#x27;m sick of AI everything</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=47857461" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Tue, Apr 21</span><span class="sep">·</span><span>11,769 words · 52 min read</span><span class="sep">·</span><span>346 pts</span><span class="sep">·</span><span>193 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The Hacker News discussion revolves around a growing sentiment of &quot;AI fatigue,&quot; with many expressing weariness towards the oversaturation of AI in various aspects of technology, media, and even daily life. Participants draw parallels to the dotcom bubble, critique the quality of AIgenerated content, and raise concerns about the societal implications of widespread AI adoption. The discussion also explores potential benefits and practical applications of AI when used responsibly.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">13</div>
+  <div class="body">
+    <h4><a href="https://vidstudio.app/video-editor" target="_blank">Show HN: VidStudio, a browser based video editor that doesn&#x27;t upload your files</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=47847558" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Tue, Apr 21</span><span class="sep">·</span><span>1,071 words · 5 min read</span><span class="sep">·</span><span>301 pts</span><span class="sep">·</span><span>109 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The Hacker News discussion revolves around VidStudio, a browserbased video editor that operates locally without uploading user files. The discussion covers topics such as the licensing implications of using FFmpeg, performance considerations, browser compatibility, and comparisons to other video editing solutions. Users also appreciate the privacyfocused approach of the application and discuss the potential for opensourcing the project.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">14</div>
+  <div class="body">
+    <h4><a href="https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform" target="_blank">A Roblox cheat and one AI tool brought down Vercel&#x27;s platform</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=47844431" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Tue, Apr 21</span><span class="sep">·</span><span>1,055 words · 5 min read</span><span class="sep">·</span><span>283 pts</span><span class="sep">·</span><span>162 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The Hacker News discussion revolves around a security incident where Vercel&#x27;s platform was compromised due to a Roblox cheat installed on a Context.ai employee&#x27;s machine, ultimately leading to a Vercel employee&#x27;s Google Workspace account being accessed. The discussion encompasses various aspects of the incident, including the role of personal responsibility, the security practices of AI companies, the challenges of securing environment variables, and the potential risks associated with AIintegrated workflows. There is also some skepticism about the article&#x27;s authenticity, with some users suspecting it was AIgenerated.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">15</div>
+  <div class="body">
+    <h4><a href="https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/" target="_blank">Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=47848276" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Tue, Apr 21</span><span class="sep">·</span><span>411 words · 2 min read</span><span class="sep">·</span><span>277 pts</span><span class="sep">·</span><span>289 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The Hacker News discussion revolves around Amazon&#x27;s $5 billion investment in Anthropic, with a commitment to spend $100 billion on Amazon&#x27;s cloud services. The discussion explores whether this deal is a sign of a potential AI bubble, the sustainability of current AI business models, and the strategic implications of choosing to build proprietary data centers versus using thirdparty cloud providers. The community shows skepticism about the longterm viability and profitability of the current AI landscape and the financial implications.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">16</div>
+  <div class="body">
+    <h4><a href="https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker" target="_blank">Original GrapheneOS responses to WIRED fact checker</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=47849854" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Tue, Apr 21</span><span class="sep">·</span><span>22 words · 1 min read</span><span class="sep">·</span><span>267 pts</span><span class="sep">·</span><span>250 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The Hacker News discussion revolves around GrapheneOS&#x27;s official responses to a WIRED article, focusing on the project&#x27;s history, the personalities involved, and the implications for its reputation and trustworthiness. Key themes include the CopperheadOS split, concerns about GrapheneOS&#x27;s communication style, and the balance between security focus and community engagement. The discussion also touches on the broader challenges of opensource development and the pressures faced by project leaders.</div></details>
+  </div>
+</article>
+</details>
+</details>
+</details>
+
+<details class="section" id="nyt" open>
+  <summary class="section-head"><h2>Today on The New York Times</h2></summary>
+<details class="subsection" open>
+  <summary class="subhead"><h3>DealBook</h3></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/04/22/business/dealbook/spacex-ai-cursor.html" target="_blank">The Consequences of SpaceX’s Latest A.I. Moonshot</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">DealBook</span><span class="sep">·</span><span>Wed, Apr 22</span><span class="sep">·</span><span>1,970 words · 9 min read</span><span class="sep">·</span><span>77.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Elon Musk’s rocket and satellite internet titan may pay $60 billion for an A.I. coding start-up. It further clouds SpaceX’s once-simple business plan.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times DealBook analysis examines the strategic implications of SpaceX’s potential $60 billion acquisition of an artificial intelligence coding startup. The article explores how this massive investment complicates the company’s traditional business model, which previously focused primarily on aerospace and satellite connectivity. By integrating advanced AI capabilities, SpaceX signals a significant pivot in its long-term corporate strategy. This development is essential reading for understanding how the intersection of space exploration and generative technology is reshaping the valuation and operational trajectory of industry giants.</div></details></div>
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>U.S.</h3></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/04/22/nyregion/coinbase-crypto-prediction-markets-lawsuit.html" target="_blank">Coinbase and Gemini Accused of Illegal Gambling in N.Y. Lawsuits</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">U.S.</span><span class="sep">·</span><span>Wed, Apr 22</span><span class="sep">·</span><span>681 words · 3 min read</span><span class="sep">·</span><span>75.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Attorney General Letitia James said the cryptocurrency giants were illegally running gambling platforms in the state after they expanded into prediction markets, which are loosely regulated.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">New York Attorney General Letitia James has filed lawsuits against major cryptocurrency exchanges Coinbase and Gemini, alleging they are operating illegal gambling platforms within the state. The legal action centers on the companies&#x27; recent expansion into prediction markets, which currently face minimal regulatory oversight. This case is significant as it challenges the boundaries of digital asset services and highlights a growing conflict between crypto firms and state regulators regarding the classification of speculative financial products, potentially setting a major precedent for the industry&#x27;s future.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/04/22/us/redistricting-republicans-democrats-florida-virginia.html" target="_blank">For Frustrated G.O.P., Redistricting Fight Turns to Florida and the Courtroom</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">U.S.</span><span class="sep">·</span><span>Wed, Apr 22</span><span class="sep">·</span><span>1,178 words · 5 min read</span><span class="sep">·</span><span>64.5</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">A victory for Democrats in Virginia has left Republicans grumbling about their strategy and looking to the next phase of a coast-to-coast battle.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times report examines the evolving national redistricting landscape as Republicans pivot their strategy following recent electoral setbacks in Virginia. By shifting focus to Florida and intensifying legal challenges, the party seeks to regain momentum in the ongoing battle over congressional map-drawing. This analysis is essential for understanding how partisan litigation and state-level maneuvering directly influence the balance of power in the House of Representatives, highlighting the high-stakes intersection of judicial intervention and political survival in American electoral policy.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/04/22/briefing/today-in-short.html" target="_blank">Today, In Short</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">U.S.</span><span class="sep">·</span><span>Wed, Apr 22</span><span class="sep">·</span><span>473 words · 2 min read</span><span class="sep">·</span><span>62.8</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">“The Devil Wears Prada 2” premiere. Day-in-my-life videos. And a smoking ban in Britain.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">Today, In Short from The New York Times provides a concise, curated briefing on the day’s most significant cultural and policy developments. By bridging disparate topics—ranging from the entertainment industry’s latest blockbuster premieres and the rise of personal digital storytelling to major international legislative shifts like Britain’s smoking ban—it offers a strategic snapshot of the current zeitgeist. This digest is essential for readers seeking to understand how evolving media trends and global regulatory changes intersect within the modern information landscape.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/04/22/us/southern-poverty-law-center-doj.html" target="_blank">How the Southern Poverty Law Center Drew the Ire of Conservatives</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">U.S.</span><span class="sep">·</span><span>Wed, Apr 22</span><span class="sep">·</span><span>1,490 words · 6 min read</span><span class="sep">·</span><span>61.9</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Before the Justice Department filed charges against it, the group had faced scandal and critiques from both the left and the right.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times report examines the mounting controversies surrounding the Southern Poverty Law Center, detailing how the organization transitioned from a celebrated civil rights watchdog to a target of intense scrutiny. By analyzing critiques from across the political spectrum and the group’s internal scandals, the article provides essential context for the Justice Department’s recent legal actions. It is a critical read for understanding the intersection of advocacy, institutional accountability, and the shifting landscape of American policy and social oversight.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/04/22/headway/newsletter-eggs-cost-economy.html" target="_blank">Making an Omelet Without Breaking the Bank</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">U.S.</span><span class="sep">·</span><span>Wed, Apr 22</span><span class="sep">·</span><span>1,307 words · 6 min read</span><span class="sep">·</span><span>54.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Plus, why eggs in California are more expensive.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times article examines the economic factors driving fluctuating egg prices, specifically focusing on the regional disparities that make eggs significantly more expensive in California. By analyzing the intersection of supply chain logistics, production costs, and state-specific regulatory impacts, the piece provides a clear look at how broader market trends manifest in everyday grocery bills. It is a vital read for understanding how localized policy and economic pressures directly influence consumer purchasing power and the stability of essential food markets.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">06</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/04/22/well/mind/medications-dementia-risk-increase.html" target="_blank">4 Drugs That May Increase Your Dementia Risk</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">U.S.</span><span class="sep">·</span><span>Wed, Apr 22</span><span class="sep">·</span><span>838 words · 4 min read</span><span class="sep">·</span><span>48.4</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Experts have flagged several over-the-counter and prescription medications.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times article examines a growing body of medical research identifying specific over-the-counter and prescription medications that may be linked to an increased risk of dementia. By highlighting common drugs that experts have flagged for potential cognitive side effects, the piece provides essential health guidance for readers managing their long-term wellness. It serves as a critical resource for those looking to understand how routine pharmaceutical choices might impact brain health, offering actionable information to facilitate informed discussions with healthcare providers.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">07</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/04/22/podcasts/the-headlines/virginia-referendum-influencers-nicotine.html" target="_blank">Democrats Win Big in Election Map Fight, and Influencers Push Nicotine as a Health Hack</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">U.S.</span><span class="sep">·</span><span>Wed, Apr 22</span><span class="sep">·</span><span>194 words · 1 min read</span><span class="sep">·</span><span>48.4</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Plus, how rainforests can bounce back.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times podcast episode covers two distinct developments: a significant victory for Democrats in a high-stakes legal battle over electoral maps and the growing, controversial trend of social media influencers promoting nicotine as a health-enhancing supplement. By contrasting major political shifts with emerging public health concerns, the report provides essential context on how legislative outcomes and digital misinformation shape contemporary society. It is a valuable listen for those tracking both the evolving landscape of American democracy and the influence of online wellness trends.</div></details></div>
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Technology</h3></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html" target="_blank">Anthropic’s New A.I. Model Sets Off Global Alarms</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Wed, Apr 22</span><span class="sep">·</span><span>1,157 words · 5 min read</span><span class="sep">·</span><span>67.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Mythos has triggered emergency responses from central banks and intelligence agencies globally, as Anthropic decides who has access to the powerful model.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times report examines the global fallout following the release of Anthropic’s powerful new AI model, Mythos. The article details how the model’s unprecedented capabilities have prompted emergency interventions from central banks and intelligence agencies concerned about systemic stability and national security. By highlighting the intense geopolitical friction surrounding Anthropic’s restricted access policies, the piece underscores the critical tension between rapid technological advancement and the urgent need for institutional oversight in an era where AI models can disrupt global infrastructure.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/04/22/science/trump-nih-funding-research.html" target="_blank">Pace of N.I.H. Funding Slows Further in Trump’s Second Year</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Wed, Apr 22</span><span class="sep">·</span><span>1,509 words · 7 min read</span><span class="sep">·</span><span>64.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The agency has approved far fewer new grants than it did in years past. A renewed effort to screen for disfavored terms and a loss of personnel are contributing.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times report examines the significant decline in new grant approvals by the National Institutes of Health during the second year of the Trump administration. The article attributes this slowdown to a combination of staff attrition and the implementation of stricter ideological screening processes for research terminology. Understanding these shifts is critical for stakeholders, as the reduced funding pipeline and administrative hurdles signal a broader strategic pivot in federal science policy that could fundamentally alter the landscape of medical research and innovation.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html" target="_blank">Mars or the Moon or A.I.? Elon Musk’s Changing Goals for SpaceX.</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Wed, Apr 22</span><span class="sep">·</span><span>1,244 words · 5 min read</span><span class="sep">·</span><span>61.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">As SpaceX prepares to go public, Mr. Musk has proposed moonshots that differ from the company’s original aim of reaching Mars.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times article examines the strategic evolution of SpaceX as the company prepares for an initial public offering. While SpaceX was founded with the singular, ambitious mission of colonizing Mars, Elon Musk has recently pivoted toward new priorities, including lunar exploration and artificial intelligence integration. This shift is significant because it reflects changing corporate objectives and investor expectations. By analyzing these evolving goals, the piece highlights how SpaceX is recalibrating its long-term vision to align with modern technological demands and financial realities.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/04/22/technology/anthropic-code-leak-copyright.html" target="_blank">Anthropic’s Leaked Code Tests Copyright Challenges in A.I. Era</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Wed, Apr 22</span><span class="sep">·</span><span>1,020 words · 4 min read</span><span class="sep">·</span><span>61.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Artificial intelligence tools are making it faster than ever to reproduce creative work. Does copyright even matter anymore?</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times report examines the legal and ethical implications of a leaked code repository from Anthropic, highlighting the growing tension between generative artificial intelligence and intellectual property rights. By analyzing how AI tools can rapidly reproduce proprietary creative work, the article questions the ongoing relevance of copyright law in an automated landscape. This case is significant because it serves as a critical test for how courts and regulators will balance technological innovation against the protection of original human authorship in the AI era.</div></details></div>
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Politics</h3></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/04/22/us/politics/doctors-insurers-arbitration.html" target="_blank">A $440,000 Breast Reduction: How Doctors Cashed In on a Consumer Protection Law</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Politics</span><span class="sep">·</span><span>Wed, Apr 22</span><span class="sep">·</span><span>1,939 words · 8 min read</span><span class="sep">·</span><span>64.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">A law meant to end surprise medical billing accidentally created a multibillion-dollar industry that is making doctors richer.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times investigation examines how the No Surprises Act, a federal law designed to protect patients from unexpected medical bills, has been exploited to generate massive profits for certain medical providers. By analyzing the arbitration process intended to resolve payment disputes between doctors and insurers, the article reveals how providers are leveraging the system to inflate fees significantly. This report is essential reading for understanding the unintended economic consequences of healthcare policy and how legislative efforts to lower costs can inadvertently enrich industry stakeholders.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/04/22/us/politics/david-scott-dead-georgia-congress.html" target="_blank">David Scott, Longtime Georgia Congressman, Dies at 80</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Politics</span><span class="sep">·</span><span>Wed, Apr 22</span><span class="sep">·</span><span>1,082 words · 5 min read</span><span class="sep">·</span><span>62.3</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">A former Georgia state lawmaker, he supported Black communities in the House and drew attention for his refusal to retire despite health problems.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times obituary details the life and career of David Scott, a long-serving Georgia congressman and former state lawmaker. The article chronicles his legislative tenure, highlighting his dedicated advocacy for Black communities and his influential role in shaping federal policy. It also addresses the controversy surrounding his later years, specifically his decision to remain in office despite persistent health challenges. This piece is essential for understanding Scott’s political legacy and the broader implications of aging leadership within the United States Congress.</div></details></div>
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Business</h3></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/04/22/business/oi-gas-stocks-iran.html" target="_blank">Stocks Rise as Investors Weigh Cease-Fire Extension</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Business</span><span class="sep">·</span><span>Wed, Apr 22</span><span class="sep">·</span><span>395 words · 2 min read</span><span class="sep">·</span><span>56.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Oil prices stablized as investors scrambled to make sense of President Trump’s decision to extend the cease-fire with Iran</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times business report examines the impact of President Trump’s decision to extend the cease-fire with Iran on global financial markets. As investors navigate the geopolitical uncertainty surrounding this development, the article details how oil prices have stabilized and equity markets have responded to the news. This coverage is essential for understanding the intersection of international diplomacy and economic stability, providing critical context on how shifting foreign policy decisions directly influence investor sentiment and the broader performance of energy and stock markets.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/04/22/business/trumps-warsh-fed-sock-puppet.html" target="_blank">Trump’s Fed Pick Faces Tough Task Shedding ‘Sock Puppet’ Label</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Business</span><span class="sep">·</span><span>Wed, Apr 22</span><span class="sep">·</span><span>1,472 words · 6 min read</span><span class="sep">·</span><span>56.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Kevin M. Warsh, at his confirmation hearing to lead the Federal Reserve, sought to dispel concerns that he would cut interest rates to please President Trump.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">In this New York Times report, Kevin M. Warsh faces intense scrutiny during his Federal Reserve confirmation hearing regarding his perceived independence from the executive branch. As he seeks to lead the central bank, Warsh must actively dispel widespread concerns that he would prioritize President Trump’s political agenda over sound monetary policy by prematurely cutting interest rates. This article is essential reading for understanding the critical tension between political influence and institutional autonomy, highlighting the challenges Warsh faces in establishing credibility with markets and policymakers.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/04/21/business/devin-nunes-leaves-trump-media-ceo.html" target="_blank">Devin Nunes Departs Trump Media After 4 Years as C.E.O.</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Business</span><span class="sep">·</span><span>Wed, Apr 22</span><span class="sep">·</span><span>397 words · 2 min read</span><span class="sep">·</span><span>53.9</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The former congressman said it was an “appropriate time” for a leadership change at Truth Social’s parent company, whose share price has floundered.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">Devin Nunes has stepped down as chief executive of Trump Media and Technology Group, the parent company of Truth Social, after four years at the helm. This leadership transition follows a period of significant financial instability, marked by a struggling share price and ongoing operational challenges for the platform. As a key figure bridging political influence and corporate management, Nunes’s departure serves as a critical strategic signal regarding the company’s future direction and its ability to sustain long-term viability in a volatile media market.</div></details></div>
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Opinion</h3></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/04/22/opinion/shoplifting-political-protest-microlooting-whole-foods.html" target="_blank">‘The Rich Don’t Play by the Rules. So Why Should I?’</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Opinion</span><span class="sep">·</span><span>Wed, Apr 22</span><span class="sep">·</span><span>5,460 words · 24 min read</span><span class="sep">·</span><span>46.7</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Why petty theft might be the new political protest.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times opinion piece examines the growing phenomenon of shoplifting as a form of political protest, often referred to as microlooting. The author explores the psychological and socioeconomic motivations behind this trend, arguing that individuals are increasingly justifying petty theft as a response to perceived systemic inequality and the belief that the wealthy operate above the law. By framing retail theft as a moral rebellion rather than simple criminality, the article highlights a significant shift in public attitudes toward property rights and economic justice.</div></details></div>
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/04/22/opinion/gen-z-job-ladder.html" target="_blank">There’s Another Reason Gen Z Can’t Find Work</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Opinion</span><span class="sep">·</span><span>Wed, Apr 22</span><span class="sep">·</span><span>1,199 words · 5 min read</span><span class="sep">·</span><span>42.8</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">It’s not just because of A.I. This started 40 years ago.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">In this New York Times opinion piece, the author challenges the common narrative that artificial intelligence is the primary culprit behind Gen Z’s current employment struggles. Instead, the article traces the roots of the issue back four decades, arguing that structural shifts in the labor market have systematically dismantled the traditional job ladder. By contextualizing these challenges within a long-term historical framework, the piece provides a vital perspective for understanding why entry-level opportunities have eroded, moving the conversation beyond immediate technological anxieties.</div></details></div>
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Energy &amp; Environment</h3></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/04/22/climate/house-vote-endangered-species-earth-day.html" target="_blank">Republicans Had an Earth Day Plan to Limit Species Protections. It Flopped.</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Energy &amp; Environment</span><span class="sep">·</span><span>Wed, Apr 22</span><span class="sep">·</span><span>938 words · 4 min read</span><span class="sep">·</span><span>45.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">House leaders abruptly canceled a vote on the measure when support started to look shaky.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times report details a failed legislative attempt by House Republicans to weaken the Endangered Species Act, a move strategically timed to coincide with Earth Day. The article explains how the initiative collapsed after party leadership abruptly canceled the vote due to insufficient support among lawmakers. This event is significant as it highlights internal political divisions regarding environmental policy and demonstrates the ongoing legislative tension surrounding the protection of vulnerable wildlife and the potential rollback of long-standing conservation mandates.</div></details></div>
+  </div>
+</article>
+</details>
+</details>
+
+<details class="section" id="blogs" open>
+  <summary class="section-head"><h2>Blog Posts</h2></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/" target="_blank">‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty</a></h4>
+    <div class="meta"><span class="src">Krebs on Security</span><span class="sep">·</span><span class="cat">Security</span><span class="sep">·</span><span>Tue, Apr 21</span><span class="sep">·</span><span>849 words · 4 min read</span><span class="sep">·</span><span>104.0</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This report from Krebs on Security details the guilty plea of Tyler Robert Buchanan, a key member of the notorious cybercrime syndicate Scattered Spider. Buchanan admitted to participating in a sophisticated 2022 phishing campaign that compromised at least twelve major technology firms, resulting in the theft of tens of millions in cryptocurrency. This case is significant as it highlights the operational tactics of a high-profile threat actor and represents a major legal victory in the ongoing effort to dismantle organized cybercriminal networks targeting global infrastructure.</div></details>
+  </div>
+</article>
+<article class="article">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.superpowerdaily.com/p/openai-releases-codex-chronicle-feature-for-enhancing-context" target="_blank">OpenAI releases Codex ‘Chronicle’ feature for enhancing context</a></h4>
+    <div class="meta"><span class="src">Superpower Daily</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Tue, Apr 21</span><span class="sep">·</span><span>1,281 words · 6 min read</span><span class="sep">·</span><span>80.1</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">OpenAI has introduced the Codex Chronicle feature, a significant update designed to improve how AI models manage and retain context during complex interactions. By allowing the system to maintain a more coherent history of user inputs and project requirements, this tool addresses a common limitation in long-form coding and reasoning tasks. This development is essential for developers and power users, as it enhances the reliability and continuity of AI-assisted workflows, ultimately making large language models more effective for sustained, multi-step technical projects.</div></details>
+  </div>
+</article>
+</details>
+
+<details class="section" id="linkedin" open>
+  <summary class="section-head"><h2>From the Network</h2></summary>
+<article class="article">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.linkedin.com/in/ramar/recent-activity/all/" target="_blank">View Rama&#x27;s recent LinkedIn activity</a></h4>
+    <div class="meta"><span class="src">LinkedIn</span></div>
+    
+  </div>
+</article>
+</details>
+
+</div>
+<script>
+(function () {
+  var root = document.documentElement;
+  function pressGroup(name, value) {
+    document.querySelectorAll('[data-tg="' + name + '"]').forEach(function (btn) {
+      btn.setAttribute('aria-pressed', btn.dataset.val === value ? 'true' : 'false');
+    });
+  }
+  function applyFont(v) {
+    root.setAttribute('data-font', v);
+    pressGroup('font', v);
+    try { localStorage.setItem('dd-font', v); } catch (e) {}
+  }
+  function applyTheme(v) {
+    root.setAttribute('data-theme', v);
+    pressGroup('theme', v);
+    try { localStorage.setItem('dd-theme', v); } catch (e) {}
+  }
+  document.querySelectorAll('[data-tg="font"]').forEach(function (btn) {
+    btn.addEventListener('click', function () { applyFont(btn.dataset.val); });
+  });
+  document.querySelectorAll('[data-tg="theme"]').forEach(function (btn) {
+    btn.addEventListener('click', function () { applyTheme(btn.dataset.val); });
+  });
+  var storedFont = null, storedTheme = null;
+  try { storedFont = localStorage.getItem('dd-font'); storedTheme = localStorage.getItem('dd-theme'); } catch (e) {}
+  applyFont(storedFont || 'serif');
+  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  applyTheme(storedTheme || (prefersDark ? 'dark' : 'light'));
+  document.getElementById('expandAll').addEventListener('click', function () {
+    document.querySelectorAll('details').forEach(function (d) { d.open = true; });
+  });
+  document.getElementById('collapseAll').addEventListener('click', function () {
+    document.querySelectorAll('details').forEach(function (d) { d.open = false; });
+  });
+})();
+
+</script>
 </body>
 </html>
