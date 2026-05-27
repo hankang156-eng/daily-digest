@@ -1,6 +1,6 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-27 · 1371 items*
+*Last updated: 2026-05-27 · 1416 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
@@ -43,6 +43,51 @@
 | 2026-05-26 | The pressure | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-26 | [link](https://simonwillison.net/2026/May/26/the-pressure/#atom-everything) |
 | 2026-05-26 | Microsoft Copilot Cowork Exfiltrates Files | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-26 | [link](https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything) |
 | 2026-05-26 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
+| 2026-05-25 | Magnifica Humanitas | HN | Technology | tech | 2026-05-25 | [link](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) |
+| 2026-05-25 | Using AI to write better code more slowly | HN | Technology | tech | 2026-05-25 | [link](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/) |
+| 2026-05-25 | California moves to exempt Linux from its age-verification law after backlash | HN | Technology | tech | 2026-05-25 | [link](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law) |
+| 2026-05-25 | Taking a walk may lead to more creativity than sitting, study finds (2014) | HN | Technology | tech | 2026-05-25 | [link](https://www.apa.org/news/press/releases/2014/04/creativity-walk) |
+| 2026-05-25 | Search engines alternatives now that Google isn't Google anymore | HN | Technology | tech | 2026-05-25 | [link](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/) |
+| 2026-05-25 | What we lost when we stopped letting kids leave the front yard | HN | Technology | tech | 2026-05-25 | [link](https://stevemagness.substack.com/p/the-cost-of-safetyism) |
+| 2026-05-25 | Ferrari Luce | HN | Technology | tech | 2026-05-25 | [link](https://www.ferrari.com/en-EN/auto/ferrari-luce) |
+| 2026-05-25 | Exit IP VPN servers mitigation rollout | HN | Technology | tech | 2026-05-25 | [link](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout) |
+| 2026-05-25 | Hacker News front page as a site | HN | Technology | tech | 2026-05-25 | [link](https://thefrontpage.dev/) |
+| 2026-05-25 | A few interesting modern pixel fonts | HN | Technology | tech | 2026-05-25 | [link](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/) |
+| 2026-05-25 | Motorola phones have started hijacking the Amazon app to insert affiliate codes | HN | Technology | tech | 2026-05-25 | [link](https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/) |
+| 2026-05-25 | How Shamir's Secret Sharing Works | HN | Technology | tech | 2026-05-25 | [link](https://ente.com/blog/how-shamirs-secret-sharing-works/) |
+| 2026-05-25 | Leave Me Behind | HN | Technology | tech | 2026-05-25 | [link](http://androidessence.com/leave-me-behind/) |
+| 2026-05-25 | Pope Leo XIV says AI must serve humanity, not the powerful few | HN | Technology | tech | 2026-05-25 | [link](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/) |
+| 2026-05-25 | Norway's 2 petabytes of Huawei flash storage and LLM training | HN | Technology | tech | 2026-05-25 | [link](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910) |
+| 2026-05-25 | Nobody cracks open a programming book anymore | HN | Technology | tech | 2026-05-25 | [link](https://unix.foo/posts/nobody-cracks-open-a-programming-book/) |
+| 2026-05-25 | Two of America’s Thorniest Political Issues Are Dividing an Arizona Town | NYT · AI | AI | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/us/politics/marana-arizona-data-center-ice-detention.html) |
+| 2026-05-25 | Why Memory Chips Are Dominating the A.I. Rally | NYT · AI | AI | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/business/dealbook/ai-chips-war-samsung-micron.html) |
+| 2026-05-25 | OpenRouter, an Exchange for A.I. Models, Raises $113 Million | NYT · Business | Business | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/dealbook/openrouter-ai-models-fundraising.html) |
+| 2026-05-25 | Artificial Intelligence Floods Court Dockets with Home-Brewed Lawsuits | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html) |
+| 2026-05-25 | The Two Issues That Could Swing This District | NYT · AI | AI | news | 2026-05-27 | [link](https://www.nytimes.com/video/us/100000010903992/ai-data-center-ice-detention-center-arizona.html) |
+| 2026-05-25 | The Vatican Takes on Silicon Valley With an A.I. Warning | NYT · Business | Business | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/dealbook/vatican-ai-silicon-valley.html) |
+| 2026-05-25 | Spencer Pratt Wants to Be Mayor. His Fans Want Him to Be Batman. | NYT · AI | AI | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/magazine/spencer-pratt-batman-ads-mayor.html) |
+| 2026-05-25 | Global Oil Price Rises After U.S. Strikes in Iran Cloud Peace Deal | NYT · Business | Business | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/oil-gas-price-iran.html) |
+| 2026-05-25 | SpaceX IPO Filing Reveals Favorable Terms for Elon Musk | NYT · Technology | Technology | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html) |
+| 2026-05-25 | Teachers Union Urges Schools to Curb A.I. Chatbots and Screen Time | NYT · AI | AI | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/technology/ai-screens-schools-weingarten.html) |
+| 2026-05-25 | What A.I. Philanthropists Can Learn From the Gilded Age | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-05-25 | [link](https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html) |
+| 2026-05-25 | At the A.I. Epicenter, Technologists Dismiss Pope Leo’s Warnings About the New Technology | NYT · AI | AI | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html) |
+| 2026-05-25 | Progressives Are Listening to the Wrong People on A.I. | NYT · Opinion | Opinion | opinion | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/opinion/progressives-left-ai.html) |
+| 2026-05-25 | As A.I. Fever Rises in Silicon Valley, Pope Leo Has a Few Words | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/technology/pope-ai-silicon-valley.html) |
+| 2026-05-25 | Writing Is Fundamental to How We Think | NYT · AI | AI | opinion | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/opinion/writing-creativity-ai.html) |
+| 2026-05-25 | E.P.A. to Repeal Some Limits on ‘Forever Chemicals’ in Drinking Water | NYT · Energy & Environment | Energy & Environment | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/18/climate/epa-forever-chemicals-pfas-drinking-water.html) |
+| 2026-05-25 | Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html) |
+| 2026-05-25 | As a Doctor, I Can Understand the Allure of ChatGPT | NYT · Opinion | Opinion | opinion | 2026-05-26 | [link](https://www.nytimes.com/2026/05/24/opinion/doctor-ai-chatgpt.html) |
+| 2026-05-25 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
+| 2026-05-25 | Mayes Middleton Defeats Chip Roy in the Runoff for Texas Attorney General | NYT · Politics | Politics | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/26/us/politics/texas-attorney-general.html) |
+| 2026-05-25 | Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks | Krebs on Security · Security & Privacy | Security | tech | 2026-05-25 | [link](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/) |
+| 2026-05-25 | Notes on Pope Leo XIV's encyclical on AI | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-25 | [link](https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything) |
+| 2026-05-25 | Welcoming the Bhutanese Government to Have I Been Pwned | Troy Hunt · Security & Privacy | Security | tech | 2026-05-25 | [link](https://www.troyhunt.com/welcoming-the-bhutanese-government-to-have-i-been-pwned/) |
+| 2026-05-25 | WorkOS: ‘Agents Need Context. Ship the Integrations That Give It to Them.’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-25 | [link](https://workos.com/docs/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) |
+| 2026-05-25 | [Sponsor] exe.dev | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-25 | [link](https://exe.dev/?df) |
+| 2026-05-25 | The Amish Are Falling in Love With ChatGPT | Superpower Daily · Tech & Engineering | Technology | tech | 2026-05-25 | [link](https://www.superpowerdaily.com/p/the-amish-are-falling-in-love-with-chatgpt) |
+| 2026-05-25 | PHP - simple way to send HTTP headers before a script ends | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-05-25 | [link](https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/) |
+| 2026-05-25 | California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-25 | [link](https://simonwillison.net/2026/May/25/sighting-365297287/#atom-everything) |
+| 2026-05-25 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-24 | DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost | HN | Technology | tech | 2026-05-24 | [link](https://esengine.github.io/DeepSeek-Reasonix/) |
 | 2026-05-24 | Show HN: Audiomass – a free, open-source multitrack audio editor for the web | HN | Technology | tech | 2026-05-24 | [link](https://audiomass.co/?multitrack=1) |
 | 2026-05-24 | The Eternal Sloptember | HN | Technology | tech | 2026-05-24 | [link](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html) |

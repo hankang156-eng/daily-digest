@@ -1,6 +1,6 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-27 · 391 days · 3910 stories*
+*Last updated: 2026-05-27 · 392 days · 3920 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
@@ -14,6 +14,16 @@
 | 2026-05-26 | Tuesday | 8 | DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD | 328 | 120 | Technology | [link](https://dynip.dev/) · [HN](https://news.ycombinator.com/item?id=48276363) |
 | 2026-05-26 | Tuesday | 9 | The worst job interview I ever had | 309 | 251 | Technology | [link](https://www.oliverio.dev/blog/the-worst-job-interview-i-had) · [HN](https://news.ycombinator.com/item?id=48285344) |
 | 2026-05-26 | Tuesday | 10 | The user is visibly frustrated | 288 | 250 | Technology | [link](https://pscanf.com/s/354/) · [HN](https://news.ycombinator.com/item?id=48275059) |
+| 2026-05-25 | Monday | 1 | Magnifica Humanitas | 1609 | 942 | Technology | [link](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) · [HN](https://news.ycombinator.com/item?id=48265206) |
+| 2026-05-25 | Monday | 2 | Using AI to write better code more slowly | 1209 | 443 | Technology | [link](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/) · [HN](https://news.ycombinator.com/item?id=48272984) |
+| 2026-05-25 | Monday | 3 | California moves to exempt Linux from its age-verification law after backlash | 1057 | 489 | Technology | [link](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law) · [HN](https://news.ycombinator.com/item?id=48269961) |
+| 2026-05-25 | Monday | 4 | Taking a walk may lead to more creativity than sitting, study finds (2014) | 589 | 233 | Technology | [link](https://www.apa.org/news/press/releases/2014/04/creativity-walk) · [HN](https://news.ycombinator.com/item?id=48272670) |
+| 2026-05-25 | Monday | 5 | Search engines alternatives now that Google isn't Google anymore | 565 | 568 | Technology | [link](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/) · [HN](https://news.ycombinator.com/item?id=48266051) |
+| 2026-05-25 | Monday | 6 | What we lost when we stopped letting kids leave the front yard | 526 | 595 | Technology | [link](https://stevemagness.substack.com/p/the-cost-of-safetyism) · [HN](https://news.ycombinator.com/item?id=48267290) |
+| 2026-05-25 | Monday | 7 | Ferrari Luce | 487 | 896 | Technology | [link](https://www.ferrari.com/en-EN/auto/ferrari-luce) · [HN](https://news.ycombinator.com/item?id=48271629) |
+| 2026-05-25 | Monday | 8 | Exit IP VPN servers mitigation rollout | 422 | 94 | Technology | [link](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout) · [HN](https://news.ycombinator.com/item?id=48269580) |
+| 2026-05-25 | Monday | 9 | Hacker News front page as a site | 419 | 113 | Technology | [link](https://thefrontpage.dev/) · [HN](https://news.ycombinator.com/item?id=48271127) |
+| 2026-05-25 | Monday | 10 | A few interesting modern pixel fonts | 404 | 104 | Technology | [link](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/) · [HN](https://news.ycombinator.com/item?id=48271448) |
 | 2026-05-24 | Sunday | 1 | DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost | 698 | 271 | Technology | [link](https://esengine.github.io/DeepSeek-Reasonix/) · [HN](https://news.ycombinator.com/item?id=48256953) |
 | 2026-05-24 | Sunday | 2 | Show HN: Audiomass – a free, open-source multitrack audio editor for the web | 505 | 110 | Technology | [link](https://audiomass.co/?multitrack=1) · [HN](https://news.ycombinator.com/item?id=48258015) |
 | 2026-05-24 | Sunday | 3 | Migrating from Go to Rust | 444 | 454 | Technology | [link](https://corrode.dev/learn/migration-guides/go-to-rust/) · [HN](https://news.ycombinator.com/item?id=48259808) |
