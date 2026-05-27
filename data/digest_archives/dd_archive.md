@@ -1,6 +1,6 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-27 · 1349 items*
+*Last updated: 2026-05-27 · 1328 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
@@ -138,44 +138,23 @@
 | 2026-05-21 | AI is just unauthorised plagiarism at a bigger scale | HN | Technology | tech | 2026-05-21 | [link](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/) |
 | 2026-05-21 | Google's Antigravity bait and switch | HN | Technology | tech | 2026-05-21 | [link](https://www.0xsid.com/blog/antigravity-bait-n-switch) |
 | 2026-05-21 | Throwing AI-generated walls of text into conversations | HN | Technology | tech | 2026-05-21 | [link](https://noslopgrenade.com/) |
+| 2026-05-21 | I spent 50 hours drawing a line graph | HN | Technology | tech | 2026-05-21 | [link](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html) |
 | 2026-05-21 | We're testing new ad formats in Search and expanding our Direct Offers pilot | HN | Technology | tech | 2026-05-21 | [link](https://blog.google/products/ads-commerce/google-marketing-live-search-ads/) |
+| 2026-05-21 | The memory shortage is causing a repricing of consumer electronics | HN | Technology | tech | 2026-05-21 | [link](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone) |
 | 2026-05-21 | Seattle Shield, an intelligence-sharing network operated by the Seattle police | HN | Technology | tech | 2026-05-21 | [link](https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/) |
 | 2026-05-21 | Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap) | HN | Technology | tech | 2026-05-21 | [link](https://blog.simbastack.com/indexed-a-year-of-video-locally/) |
 | 2026-05-21 | Python 3.15: features that didn't make the headlines | HN | Technology | tech | 2026-05-21 | [link](https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html) |
 | 2026-05-21 | Lost Images from the 1945 Trinity Nuclear Test Restored | HN | Technology | tech | 2026-05-21 | [link](https://spectrum.ieee.org/trinity-nuclear-test) |
-| 2026-05-21 | The memory shortage is causing a repricing of consumer electronics | HN | Technology | tech | 2026-05-21 | [link](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone) |
+| 2026-05-21 | Show HN: Freenet, a peer-to-peer platform for decentralized apps | HN | Technology | tech | 2026-05-21 | [link](https://freenet.org/) |
+| 2026-05-21 | Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD | HN | Technology | tech | 2026-05-21 | [link](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/) |
 | 2026-05-21 | Shunning AI is the human choice | HN | Technology | tech | 2026-05-21 | [link](https://www.thehandbasket.co/p/hating-ai-is-good-actually) |
 | 2026-05-21 | Vivaldi 8.0 | HN | Technology | tech | 2026-05-21 | [link](https://vivaldi.com/blog/vivaldi-on-desktop-8-0/) |
-| 2026-05-21 | Waymo pauses Atlanta service as its robotaxis keep driving into floods | HN | Technology | tech | 2026-05-21 | [link](https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/) |
-| 2026-05-21 | Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD | HN | Technology | tech | 2026-05-21 | [link](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/) |
-| 2026-05-21 | Show HN: Freenet, a peer-to-peer platform for decentralized apps | HN | Technology | tech | 2026-05-21 | [link](https://freenet.org/) |
-| 2026-05-21 | Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models | NYT · AI | AI | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html) |
-| 2026-05-21 | Giving Workers a Stake in A.I. Gains Traction | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html) |
-| 2026-05-21 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
-| 2026-05-21 | Gov. Gavin Newsom to Sign Executive Order Aimed at A.I. Job Loss | NYT · AI | AI | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/technology/newsom-ai-executive-order-california.html) |
-| 2026-05-21 | Move Over, Private Equity. It’s Great to Be a Banker Again. | NYT · Business | Business | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/business/banks-deals-profits.html) |
-| 2026-05-21 | SpaceX, OpenAI and Anthropic Race to Go Public | NYT · Business | Business | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html) |
-| 2026-05-21 | A.I. Is a Job Creator | NYT · AI | AI | opinion | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/opinion/ai-job-crisis-goldman-sachs.html) |
-| 2026-05-21 | Trump Approved a Nvidia Chip for Sale in China. Beijing Doesn’t Want It. | NYT · Technology | Technology | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/business/china-nvidia-chip-trump-ai.html) |
-| 2026-05-21 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
-| 2026-05-21 | Sundar Pichai Understands Why People Are Anxious About A.I. | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html) |
-| 2026-05-21 | Sundar Pichai on the A.I. Race, Agentic Coding and Future of Search | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/video/podcasts/100000010920153/sundar-pichai-on-the-ai-race-agentic-coding-and-future-of-search.html) |
-| 2026-05-21 | Warsh Takes Charge of Fed Facing Rising Inflation Threat | NYT · Politics | Politics | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/us/politics/kevin-warsh-federal-reserve-swearing-in.html) |
-| 2026-05-21 | Sundar Pichai Discusses Google’s Position in the A.I. Race | NYT · AI | AI | news | 2026-05-22 | [link](https://www.nytimes.com/video/podcasts/100000010919847/sundar-pichai-discusses-googles-position-in-the-ai-race.html) |
-| 2026-05-21 | Google Appeals Landmark Ruling Declaring It a Monopolist in Search | NYT · Technology | Technology | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/technology/google-appeals-search-case.html) |
-| 2026-05-21 | Lutnick Donated $5 Million to House Republicans Before Epstein Testimony | NYT · Politics | Politics | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/us/politics/howard-lutnick-donation-house-republicans.html) |
-| 2026-05-21 | Wasserman Schultz Will Run in Majority-Black District in South Florida | NYT · Politics | Politics | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/us/politics/wasserman-schultz-redistricting.html) |
-| 2026-05-21 | Fact-Checking the Trump Administration’s Inaccurate Claims About the $1.8 Billion Fund | NYT · Politics | Politics | news | 2026-05-22 | [link](https://www.nytimes.com/2026/05/22/us/politics/trump-fund-irs-fact-check.html) |
-| 2026-05-21 | Trump Is Giving ‘The Fix Was In’ New Meaning | NYT · Opinion | Opinion | opinion | 2026-05-22 | [link](https://www.nytimes.com/2026/05/21/opinion/trump-anti-weaponization-fund.html) |
-| 2026-05-21 | What Silicon Valley Is Coming for Next | NYT · Opinion | Opinion | opinion | 2026-05-22 | [link](https://www.nytimes.com/2026/05/20/opinion/silicon-valley-ai-taste-culture.html) |
-| 2026-05-21 | MAHA Is No Longer Useful to Trump | NYT · Opinion | Opinion | opinion | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/opinion/maha-public-health-rfk-jr.html) |
-| 2026-05-21 | Data Transformation Is the CEO’s Business | MIT Sloan Review · Strategy & Craft | Business | analysis | 2026-05-21 | [link](https://sloanreview.mit.edu/article/data-transformation-is-the-ceos-business/) |
 | 2026-05-21 | Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada | Krebs on Security · Security & Privacy | Security | tech | 2026-05-21 | [link](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/) |
 | 2026-05-21 | WSJ: ‘Google Unveils New Gemini AI Agent for Personal Tasks’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-21 | [link](https://www.wsj.com/tech/ai/google-unveils-new-gemini-ai-agent-for-personal-tasks-b8093197?st=BFmPev) |
 | 2026-05-21 | Datasette Agent | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-21 | [link](https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything) |
 | 2026-05-21 | The Verge: ‘The 13 Biggest Announcements at Google I/O 2026’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-21 | [link](https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Ik5tNTBSc0hxRXQiLCJwIjoiL3RlY2gvOTMzNDE1L2dvb2dsZS1pby0yMDI2LWJpZ2dlc3QtYW5ub3VuY2VtZW50cy1haS1nZW1pbmkiLCJleHAiOjE3Nzk3NTk5MjQsImlhdCI6MTc3OTMyNzkyNH0.g_JiqbJBfi9YcDT1re8aofzmpb3tcZNwY2jQybgwJL0) |
-| 2026-05-21 | datasette-agent 0.1a3 | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-21 | [link](https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything) |
 | 2026-05-21 | Whale Fall | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-05-21 | [link](https://shkspr.mobi/blog/2026/05/whale-fall/) |
+| 2026-05-21 | datasette-agent-sprites 0.1a0 | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-21 | [link](https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything) |
 | 2026-05-21 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-20 | An OpenAI model has disproved a central conjecture in discrete geometry | HN | Technology | tech | 2026-05-20 | [link](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) |
 | 2026-05-20 | Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE | HN | Technology | tech | 2026-05-20 | [link](https://www.alqst.org/ar/posts/1190) |
