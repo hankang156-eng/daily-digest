@@ -1,6 +1,6 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-27 · 1453 items*
+*Last updated: 2026-05-27 · 1430 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
@@ -35,8 +35,8 @@
 | 2026-05-26 | A.I. Money From I.P.O.s Will Change Philanthropy | NYT · AI | AI | opinion | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/opinion/ai-philanthropy-charity.html) |
 | 2026-05-26 | Writing Is Fundamental to How We Think | NYT · AI | AI | opinion | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/opinion/writing-creativity-ai.html) |
 | 2026-05-26 | E.P.A. to Repeal Some Limits on ‘Forever Chemicals’ in Drinking Water | NYT · Energy & Environment | Energy & Environment | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/18/climate/epa-forever-chemicals-pfas-drinking-water.html) |
+| 2026-05-26 | Court Orders Customs Chief to Address Compliance on Refunding Tariffs | NYT · Business | Business | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/us/politics/trade-court-customs-chief-tariff-refunds.html) |
 | 2026-05-26 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
-| 2026-05-26 | Mayes Middleton Defeats Chip Roy in the Runoff for Texas Attorney General | NYT · Politics | Politics | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/26/us/politics/texas-attorney-general.html) |
 | 2026-05-26 | At the A.I. Epicenter, Technologists Dismiss Pope Leo’s Warnings About the New Technology | NYT · Technology | Technology | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html) |
 | 2026-05-26 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
 | 2026-05-26 | Musk’s SpaceX Goals Shift Ahead of Its I.P.O. | NYT · AI | AI | news | 2026-04-22 | [link](https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html) |
@@ -59,26 +59,6 @@
 | 2026-05-25 | Pope Leo XIV says AI must serve humanity, not the powerful few | HN | Technology | tech | 2026-05-25 | [link](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/) |
 | 2026-05-25 | Norway's 2 petabytes of Huawei flash storage and LLM training | HN | Technology | tech | 2026-05-25 | [link](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910) |
 | 2026-05-25 | Nobody cracks open a programming book anymore | HN | Technology | tech | 2026-05-25 | [link](https://unix.foo/posts/nobody-cracks-open-a-programming-book/) |
-| 2026-05-25 | Two of America’s Thorniest Political Issues Are Dividing an Arizona Town | NYT · AI | AI | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/us/politics/marana-arizona-data-center-ice-detention.html) |
-| 2026-05-25 | Why Memory Chips Are Dominating the A.I. Rally | NYT · AI | AI | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/business/dealbook/ai-chips-war-samsung-micron.html) |
-| 2026-05-25 | Pope Leo’s A.I. Vision Might Not Be Strange Enough | NYT · AI | AI | opinion | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/opinion/pope-leo-ai-encyclical.html) |
-| 2026-05-25 | OpenRouter, an Exchange for A.I. Models, Raises $113 Million | NYT · Business | Business | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/dealbook/openrouter-ai-models-fundraising.html) |
-| 2026-05-25 | Artificial Intelligence Floods Court Dockets with Home-Brewed Lawsuits | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html) |
-| 2026-05-25 | The Two Issues That Could Swing This District | NYT · AI | AI | news | 2026-05-27 | [link](https://www.nytimes.com/video/us/100000010903992/ai-data-center-ice-detention-center-arizona.html) |
-| 2026-05-25 | The Vatican Takes on Silicon Valley With an A.I. Warning | NYT · Business | Business | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/dealbook/vatican-ai-silicon-valley.html) |
-| 2026-05-25 | Spencer Pratt Wants to Be Mayor. His Fans Want Him to Be Batman. | NYT · AI | AI | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/magazine/spencer-pratt-batman-ads-mayor.html) |
-| 2026-05-25 | KFF’s Chief Executive to Retire | NYT · Business | Business | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/business/media/kff-drew-altman.html) |
-| 2026-05-25 | Global Oil Price Rises After U.S. Strikes in Iran Cloud Peace Deal | NYT · Business | Business | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/oil-gas-price-iran.html) |
-| 2026-05-25 | SpaceX IPO Filing Reveals Favorable Terms for Elon Musk | NYT · Technology | Technology | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html) |
-| 2026-05-25 | What A.I. Philanthropists Can Learn From the Gilded Age | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-05-25 | [link](https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html) |
-| 2026-05-25 | Progressives Are Listening to the Wrong People on A.I. | NYT · Opinion | Opinion | opinion | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/opinion/progressives-left-ai.html) |
-| 2026-05-25 | As A.I. Fever Rises in Silicon Valley, Pope Leo Has a Few Words | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/technology/pope-ai-silicon-valley.html) |
-| 2026-05-25 | A.I. Money From I.P.O.s Will Change Philanthropy | NYT · AI | AI | opinion | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/opinion/ai-philanthropy-charity.html) |
-| 2026-05-25 | E.P.A. to Repeal Some Limits on ‘Forever Chemicals’ in Drinking Water | NYT · Energy & Environment | Energy & Environment | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/18/climate/epa-forever-chemicals-pfas-drinking-water.html) |
-| 2026-05-25 | Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html) |
-| 2026-05-25 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
-| 2026-05-25 | Mayes Middleton Defeats Chip Roy in the Runoff for Texas Attorney General | NYT · Politics | Politics | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/26/us/politics/texas-attorney-general.html) |
-| 2026-05-25 | At the A.I. Epicenter, Technologists Dismiss Pope Leo’s Warnings About the New Technology | NYT · Technology | Technology | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html) |
 | 2026-05-25 | Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks | Krebs on Security · Security & Privacy | Security | tech | 2026-05-25 | [link](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/) |
 | 2026-05-25 | Notes on Pope Leo XIV's encyclical on AI | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-25 | [link](https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything) |
 | 2026-05-25 | Welcoming the Bhutanese Government to Have I Been Pwned | Troy Hunt · Security & Privacy | Security | tech | 2026-05-25 | [link](https://www.troyhunt.com/welcoming-the-bhutanese-government-to-have-i-been-pwned/) |
@@ -471,8 +451,8 @@
 | 2026-05-14 | Removing the modem and GPS from my 2024 RAV4 hybrid | HN | Technology | tech | 2026-05-14 | [link](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) |
 | 2026-05-14 | Rewrite Bun in Rust has been merged | HN | Technology | tech | 2026-05-14 | [link](https://github.com/oven-sh/bun/pull/30412) |
 | 2026-05-14 | RTX 5090 and M4 MacBook Air: Can It Game? | HN | Technology | tech | 2026-05-14 | [link](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/) |
-| 2026-05-14 | A message from President Kornbluth about funding and the talent pipeline | HN | Technology | tech | 2026-05-14 | [link](https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline) |
 | 2026-05-14 | New arXiv policy: 1-year ban for hallucinated references | HN | Technology | tech | 2026-05-14 | [link](https://twitter.com/tdietterich/status/2055000956144935055) |
+| 2026-05-14 | A message from President Kornbluth about funding and the talent pipeline | HN | Technology | tech | 2026-05-14 | [link](https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline) |
 | 2026-05-14 | Mullvad exit IPs are surprisingly identifying | HN | Technology | tech | 2026-05-14 | [link](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/) |
 | 2026-05-14 | AI is making me dumb | HN | Technology | tech | 2026-05-14 | [link](https://jpain.io/god-damn-ai-is-making-me-dumb/) |
 | 2026-05-14 | UK government replaces Palantir software with internally-built refugee system | HN | Technology | tech | 2026-05-14 | [link](https://www.bbc.com/news/articles/c2l2j1lxdk5o) |
@@ -484,31 +464,28 @@
 | 2026-05-14 | Ontario auditors find doctors' AI note takers routinely blow basic facts | HN | Technology | tech | 2026-05-14 | [link](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771) |
 | 2026-05-14 | Details of the Daring Airdrop at Tristan Da Cunha | HN | Technology | tech | 2026-05-14 | [link](https://www.tristandc.com/government/news-2026-05-11-airdrop.php) |
 | 2026-05-14 | USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought | HN | Technology | tech | 2026-05-14 | [link](https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought) |
-| 2026-05-14 | It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too. | NYT · AI | AI | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html) |
-| 2026-05-14 | Stock Market Rally Confronts Inflation and Higher Interest Rates | NYT · AI | AI | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/stocks-bonds-interest-rates-inflation.html) |
-| 2026-05-14 | Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up | NYT · Technology | Technology | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html) |
-| 2026-05-14 | Wrongful Death Lawsuits Against OpenAI Test a New Strategy | NYT · Technology | Technology | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/12/technology/chatgpt-lawsuit-wrongful-death.html) |
-| 2026-05-14 | Mamdani Urges State to Block Western Union’s Deal for Intermex | NYT · Business | Business | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/13/business/zohran-mamdani-western-union-intermex.html) |
-| 2026-05-14 | A.I. Safety Is So Back + Mythos Mayhem with Nikesh Arora + Hot Mess Express | NYT · AI | AI | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/podcasts/ai-safety-is-so-back-mythos-mayhem-with-nikesh-arora-hot-mess-express.html) |
-| 2026-05-14 | What Trump Gained, and Didn’t, From China | NYT · AI | AI | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/dealbook/trump-china-summit-report-card.html) |
-| 2026-05-14 | The Revolt Against the Girl Bosses Has Finally Come | NYT · AI | AI | opinion | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/opinion/reese-witherspoon-mel-robbins-girlboss-ai.html) |
+| 2026-05-14 | Mamdani Urges New York State to Block Western Union Deal | NYT · Business | Business | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/13/business/zohran-mamdani-western-union-intermex.html) |
+| 2026-05-14 | Why A.I. is the Hidden Minefield of Trump’s China Visit | NYT · U.S. | U.S. | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/13/world/asia/us-china-trump-xi-beijing-ai.html) |
+| 2026-05-14 | A.I. Chip Maker Soars 68% in Market Debut, as Tech I.P.O.s Ramp Up | NYT · Technology | Technology | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html) |
+| 2026-05-14 | It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too. | NYT · Business | Business | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html) |
+| 2026-05-14 | The Stock Market’s Winning Streak Is About to Be Tested | NYT · Business | Business | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/stocks-bonds-interest-rates-inflation.html) |
+| 2026-05-14 | Is Musk Running an Illegal Power Plant? The D.O.J. Says It Might Weigh In. | NYT · Energy & Environment | Energy & Environment | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/climate/elon-musk-xai-data-center-doj.html) |
 | 2026-05-14 | Why A.I. Safety Controls Are Not Very Effective | NYT · Technology | Technology | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/technology/artificial-intelligence-safety-controls.html) |
-| 2026-05-14 | Why China Fears the ‘A.I. Girlfriend’ | NYT · Opinion | Opinion | opinion | 2026-05-15 | [link](https://www.nytimes.com/video/opinion/100000010892482/why-china-fears-the-ai-girlfriend.html) |
-| 2026-05-14 | U.S. and China Will Start Discussing A.I. Safety, Bessent Says | NYT · AI | AI | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/14/world/asia/china-us-ai-safety.html) |
-| 2026-05-14 | Nvidia’s Future in China Remains Unclear After Trump-Xi Summit | NYT · AI | AI | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/nvidia-china-chips.html) |
-| 2026-05-14 | OpenAI Considers Legal Action Against Apple in Strained Relationship | NYT · AI | AI | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/14/technology/openai-apple-legal-action.html) |
-| 2026-05-14 | A.I. and Humans Battle It Out in a Cybersecurity Showdown | NYT · Technology | Technology | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/12/technology/ai-cybersecurity-competition.html) |
-| 2026-05-14 | Why We Keep Tricking Ourselves Into Thinking A.I. Is Conscious | NYT · AI | AI | opinion | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/opinion/ai-consciousness.html) |
-| 2026-05-14 | Tom Steyer Thinks California Is Ready for a Different Climate Message | NYT · Energy & Environment | Energy & Environment | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/12/climate/tom-steyer-california-governor.html) |
-| 2026-05-14 | China Is Worried About A.I. Too | NYT · Opinion | Opinion | opinion | 2026-05-15 | [link](https://www.nytimes.com/video/opinion/100000010892470/china-is-worried-about-ai-too.html) |
-| 2026-05-14 | A Republican’s Mysterious Absence Reflects Congress’s Silence on Health | NYT · Politics | Politics | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/us/politics/thomas-kean-jr-congress-health.html) |
-| 2026-05-14 | Some Medicare Patients Can Now Get Free CBD | NYT · Business | Business | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/health/medicare-cbd.html) |
-| 2026-05-14 | As Powell Steps Down, the Fed Confronts ‘Regime Change’ | NYT · Business | Business | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/us/politics/jerome-powell-kevin-warsh-federal-reserve.html) |
-| 2026-05-14 | How Job Design for Disability Improves Work for Everyone | MIT Sloan Review · Strategy & Craft | Business | analysis | 2026-05-14 | [link](https://sloanreview.mit.edu/article/how-job-design-for-disability-improves-work-for-everyone/) |
+| 2026-05-14 | A.I. Safety Is So Back + Mythos Mayhem with Nikesh Arora + Hot Mess Express | NYT · U.S. | U.S. | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/podcasts/ai-safety-is-so-back-mythos-mayhem-with-nikesh-arora-hot-mess-express.html) |
+| 2026-05-14 | E.P.A. Moves to Weaken Water Pollution Rule for Coal Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/climate/epa-coal-plants-wastewater.html) |
+| 2026-05-14 | Notable Researchers Join $4 Billion Effort to Build Self-Improving A.I. | NYT · Technology | Technology | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html) |
+| 2026-05-14 | Anduril Raises $5 Billion, as Push to Modernize the Military Accelerates | NYT · Technology | Technology | news | 2026-05-13 | [link](https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html) |
+| 2026-05-14 | Trump Cites Inaccurate Data to Downplay Economic Toll of Iran War | NYT · Politics | Politics | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/us/politics/trump-iran-war-economy-cost.html) |
+| 2026-05-14 | What Could One Banana Cost? $10? Maybe for You, Some Fear. | NYT · U.S. | U.S. | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/nyregion/nyc-grocery-stores-surveillance-pricing.html) |
+| 2026-05-14 | Nvidia’s Future in China Remains Unclear After Trump-Xi Summit | NYT · Business | Business | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/business/nvidia-china-chips.html) |
+| 2026-05-14 | Supreme Court Allows Abortion Pill Access by Mail to Continue | NYT · Politics | Politics | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/us/politics/supreme-court-abortion-pill.html) |
+| 2026-05-14 | Trump Administration Weighs $1.7 Billion Fund for Allies Investigated Under Biden | NYT · Politics | Politics | news | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/us/politics/trump-allies-weaponization-fund.html) |
+| 2026-05-14 | He Was Good at Steering the Fed, but He Was a Genius at Ignoring Trump’s Threats | NYT · Opinion | Opinion | opinion | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/opinion/jerome-powell-fed-chair.html) |
+| 2026-05-14 | The Revolt Against the Girl Bosses Has Finally Come | NYT · Opinion | Opinion | opinion | 2026-05-15 | [link](https://www.nytimes.com/2026/05/15/opinion/reese-witherspoon-mel-robbins-girlboss-ai.html) |
+| 2026-05-14 | Federal Chemical Safety Board Sends Warning on Trump Disaster Policy | NYT · Energy & Environment | Energy & Environment | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/climate/chemical-safety-board-disaster-warning-letter.html) |
+| 2026-05-14 | Consumers Spent More in April Despite High Gas Prices | NYT · Business | Business | news | 2026-05-14 | [link](https://www.nytimes.com/2026/05/14/business/retail-sales-consumer-spending-april.html) |
 | 2026-05-14 | Welcoming the Bahamian Government to Have I Been Pwned | Troy Hunt · Security & Privacy | Security | tech | 2026-05-14 | [link](https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/) |
-| 2026-05-14 | Geoffrey Fowler and the Launch of the Youth AI Safety Institute | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-14 | [link](https://geoffreyfowler.substack.com/p/what-is-ai-doing-to-our-kids-im-going) |
-| 2026-05-14 | Not so locked in any more | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-14 | [link](https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything) |
-| 2026-05-14 | Quoting Mitchell Hashimoto | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-14 | [link](https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything) |
+| 2026-05-14 | A $6.6 Billion Payday for OpenAI Employees | Superpower Daily · Tech & Engineering | Technology | tech | 2026-05-14 | [link](https://www.superpowerdaily.com/p/a-6-6-billion-payday-for-openai-employees) |
 | 2026-05-14 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-13 | I moved my digital stack to Europe | HN | Technology | tech | 2026-05-13 | [link](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/) |
 | 2026-05-13 | Leaving GitHub for Forgejo | HN | Technology | tech | 2026-05-13 | [link](https://jorijn.com/en/blog/leaving-github-for-forgejo/) |

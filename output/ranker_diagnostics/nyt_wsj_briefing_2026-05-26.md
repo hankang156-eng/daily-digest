@@ -79,14 +79,16 @@
 15. [E.P.A. to Repeal Some Limits on ‘Forever Chemicals’ in Drinking Water](https://www.nytimes.com/2026/05/18/climate/epa-forever-chemicals-pfas-drinking-water.html)
    - NYT · Energy & Environment · 2026-05-26
    - Score 65.3 · Read deeply · matches regulation / policy; core news
-16. [Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html)
-   - NYT · Energy & Environment · 2026-05-19
-   - Score 64.0 · Read deeply · matches climate / energy / infrastructure; core news
 ### Politics / U.S.
 
-17. [Mayes Middleton Defeats Chip Roy in the Runoff for Texas Attorney General](https://www.nytimes.com/2026/05/26/us/politics/texas-attorney-general.html)
-   - NYT · Politics / U.S. · 2026-05-27
-   - Score 61.8 · Read deeply · matches technology / ai; policy/social lens; appears across sections
+16. [Court Orders Customs Chief to Address Compliance on Refunding Tariffs](https://www.nytimes.com/2026/05/27/us/politics/trade-court-customs-chief-tariff-refunds.html)
+   - NYT · Business / Politics / U.S. · 2026-05-27
+   - Score 64.15 · Read deeply · matches regulation / policy; policy/social lens; appears across sections
+### Climate / Energy / Infrastructure
+
+17. [Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html)
+   - NYT · Energy & Environment · 2026-05-19
+   - Score 64.0 · Read deeply · matches climate / energy / infrastructure; core news
 ### Technology / AI
 
 18. [At the A.I. Epicenter, Technologists Dismiss Pope Leo’s Warnings About the New Technology](https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html)
