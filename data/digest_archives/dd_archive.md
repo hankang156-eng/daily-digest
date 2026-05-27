@@ -1,6 +1,6 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-27 · 1372 items*
+*Last updated: 2026-05-27 · 1352 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
@@ -184,40 +184,20 @@
 | 2026-05-20 | Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit | HN | Technology | tech | 2026-05-20 | [link](https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment) |
 | 2026-05-20 | Qwen3.7-Max: The Agent Frontier | HN | Technology | tech | 2026-05-20 | [link](https://qwen.ai/blog?id=qwen3.7) |
 | 2026-05-20 | Google Declaring War on the Web | HN | Technology | tech | 2026-05-20 | [link](https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/) |
-| 2026-05-20 | Everything in C is undefined behavior | HN | Technology | tech | 2026-05-20 | [link](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html) |
-| 2026-05-20 | Apparently Google hates us now | HN | Technology | tech | 2026-05-20 | [link](https://twitter.com/pokemoncentral/status/2057123807404638250) |
 | 2026-05-20 | Flipper One Tech Specs | HN | Technology | tech | 2026-05-20 | [link](https://docs.flipper.net/one/general/tech-specs) |
+| 2026-05-20 | Apparently Google hates us now | HN | Technology | tech | 2026-05-20 | [link](https://twitter.com/pokemoncentral/status/2057123807404638250) |
+| 2026-05-20 | Everything in C is undefined behavior | HN | Technology | tech | 2026-05-20 | [link](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html) |
+| 2026-05-20 | SpaceX S-1 | HN | Technology | tech | 2026-05-20 | [link](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm) |
 | 2026-05-20 | Incident Report: May 19, 2026 – GCP Account Suspension | HN | Technology | tech | 2026-05-20 | [link](https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage) |
 | 2026-05-20 | Map of Metal | HN | Technology | tech | 2026-05-20 | [link](https://mapofmetal.com/) |
-| 2026-05-20 | SpaceX S-1 | HN | Technology | tech | 2026-05-20 | [link](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm) |
-| 2026-05-20 | Saying goodbye to asm.js | HN | Technology | tech | 2026-05-20 | [link](https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html) |
 | 2026-05-20 | Show HN: I reverse engineered Apple's video wallpapers | HN | Technology | tech | 2026-05-20 | [link](https://github.com/kageroumado/phosphene) |
-| 2026-05-20 | College students drown out AI-praising commencement speeches with boos | HN | Technology | tech | 2026-05-20 | [link](https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role) |
-| 2026-05-20 | SpaceX, OpenAI and Anthropic Race to Go Public | NYT · AI | AI | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html) |
-| 2026-05-20 | Trump Plans to Sign Executive Order Granting Oversight of A.I. Models | NYT · AI | AI | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html) |
-| 2026-05-20 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
-| 2026-05-20 | Trump Approved a Nvidia Chip for Sale in China. Beijing Doesn’t Want It. | NYT · AI | AI | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/business/china-nvidia-chip-trump-ai.html) |
-| 2026-05-20 | Gov. Gavin Newsom to Sign Executive Order Aimed at A.I. Job Loss | NYT · AI | AI | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/technology/newsom-ai-executive-order-california.html) |
-| 2026-05-20 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
-| 2026-05-20 | How the $1.8 Billion Trump Fund May Violate Past Practice and Policy | NYT · Politics | Politics | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/20/us/politics/trump-fund-explainer.html) |
-| 2026-05-20 | Elon Musk and Other CEOs on Trump’s Trip to China Sought Relief | NYT · Economy | Economy | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/business/economy/trump-china-trip-ceos-tesla-musk.html) |
-| 2026-05-20 | A Defense of a Liberal Arts Education in the Age of A.I. | NYT · AI | AI | opinion | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/opinion/ai-liberal-arts-education.html) |
-| 2026-05-20 | Trump Gets His Payback in Primary Elections, but It Comes at a Cost in Congress | NYT · Politics | Politics | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/20/us/politics/trump-republicans-congress.html) |
-| 2026-05-20 | Justices Decline to Rule in Death Penalty Case Over Intellectual Disabilities | NYT · Politics | Politics | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/us/politics/supreme-court-intellectually-disabled-executions.html) |
-| 2026-05-20 | As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead | NYT · Technology | Technology | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html) |
-| 2026-05-20 | After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer | NYT · Technology | Technology | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html) |
-| 2026-05-20 | How Banks Battled for $1 Billion in Fees From SpaceX Listing | NYT · AI | AI | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/business/spacex-ipo-banks-goldman-sachs.html) |
-| 2026-05-20 | Soundtrack to 8,000 Job Cuts: A Meta Worker’s Layoff-Themed A.I. Songs | NYT · Technology | Technology | news | 2026-05-20 | [link](https://www.nytimes.com/2026/05/20/technology/meta-layoffs-ai-song.html) |
-| 2026-05-20 | Meta Lays Off 8,000 Employees, as A.I. Casualties Mount | NYT · Technology | Technology | news | 2026-05-20 | [link](https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html) |
-| 2026-05-20 | Thousands of N.Y.C. Jobs Could Be Lost to A.I. Boom, Report Says | NYT · AI | AI | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/nyregion/nyc-ai-job-loss.html) |
-| 2026-05-20 | The Quest for Clean Hydrogen Moves Underground | NYT · Energy & Environment | Energy & Environment | news | 2026-05-20 | [link](https://www.nytimes.com/2026/05/17/climate/geologic-hydrogen-clean-energy-underground.html) |
-| 2026-05-20 | Trump Is Giving ‘The Fix Was In’ New Meaning | NYT · Opinion | Opinion | opinion | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/opinion/trump-anti-weaponization-fund.html) |
-| 2026-05-20 | What Silicon Valley Is Coming for Next | NYT · Opinion | Opinion | opinion | 2026-05-20 | [link](https://www.nytimes.com/2026/05/20/opinion/silicon-valley-ai-taste-culture.html) |
+| 2026-05-20 | Saying goodbye to asm.js | HN | Technology | tech | 2026-05-20 | [link](https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html) |
+| 2026-05-20 | Declining America | HN | Technology | tech | 2026-05-20 | [link](https://www.tbray.org/ongoing/When/202x/2026/05/19/Declining-America) |
 | 2026-05-20 | The Quantum Computing Race Is on, but Who’s in the Lead? | MIT IDE · MIT Research & Insights | Research | research | 2026-05-20 | [link](https://ide.mit.edu/insights/the-quantum-computing-race/) |
-| 2026-05-20 | What It Takes to Scale Value-Based Industrial Solutions | MIT Sloan Review · Strategy & Craft | Business | analysis | 2026-05-20 | [link](https://sloanreview.mit.edu/article/what-it-takes-to-scale-value-based-industrial-solutions/) |
 | 2026-05-20 | Quoting SpaceX S-1 | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-20 | [link](https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything) |
 | 2026-05-20 | NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-20 | [link](https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&smid=url-share) |
 | 2026-05-20 | Google I/O, Gemini Spark, Antigravity | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-20 | [link](https://simonwillison.net/2026/May/20/google-io/#atom-everything) |
+| 2026-05-20 | OpenAI launches ChatGPT for personal finance, will let you connect bank accounts | Superpower Daily · Tech & Engineering | Technology | tech | 2026-05-20 | [link](https://www.superpowerdaily.com/p/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts) |
 | 2026-05-20 | ‘You Do Not Need Fancy Equipment, You Do Not Need a Degree, to Make Money and to Do This as Your Job | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-20 | [link](https://www.tiktok.com/@brye.shhh/video/7641047549758934285) |
 | 2026-05-20 | [RSS Club] Let's meet up AFK | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-05-20 | [link](https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/) |
 | 2026-05-20 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
