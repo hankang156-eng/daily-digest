@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-26 · 390 days · 3900 stories*
+*Last updated: 2026-05-27 · 391 days · 3910 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-26 | Tuesday | 1 | Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence | 925 | 426 | Technology | [link](https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/) · [HN](https://news.ycombinator.com/item?id=48279316) |
+| 2026-05-26 | Tuesday | 2 | GitHub Actions was down | 649 | 1 | Technology | [link](https://www.githubstatus.com/?today) · [HN](https://news.ycombinator.com/item?id=48278374) |
+| 2026-05-26 | Tuesday | 3 | Netherlands blocks US takeover of vital digital supplier | 558 | 219 | Technology | [link](https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/) · [HN](https://news.ycombinator.com/item?id=48278406) |
+| 2026-05-26 | Tuesday | 4 | Big tech's anti-labor playbook has come for Wikipedia | 494 | 286 | Technology | [link](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943) · [HN](https://news.ycombinator.com/item?id=48285592) |
+| 2026-05-26 | Tuesday | 5 | The real cost of owning a home | 366 | 741 | Technology | [link](https://ericturner.dev/posts/cost-of-home-ownership/) · [HN](https://news.ycombinator.com/item?id=48281611) |
+| 2026-05-26 | Tuesday | 6 | Dropbox CEO Drew Houston to step down | 348 | 369 | Technology | [link](https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html) · [HN](https://news.ycombinator.com/item?id=48279453) |
+| 2026-05-26 | Tuesday | 7 | That Methyl Methacrylate Tank | 329 | 130 | Technology | [link](https://www.science.org/content/blog-post/methyl-methacrylate-tank) · [HN](https://news.ycombinator.com/item?id=48284712) |
+| 2026-05-26 | Tuesday | 8 | DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD | 328 | 120 | Technology | [link](https://dynip.dev/) · [HN](https://news.ycombinator.com/item?id=48276363) |
+| 2026-05-26 | Tuesday | 9 | The worst job interview I ever had | 309 | 251 | Technology | [link](https://www.oliverio.dev/blog/the-worst-job-interview-i-had) · [HN](https://news.ycombinator.com/item?id=48285344) |
+| 2026-05-26 | Tuesday | 10 | The user is visibly frustrated | 288 | 250 | Technology | [link](https://pscanf.com/s/354/) · [HN](https://news.ycombinator.com/item?id=48275059) |
 | 2026-05-24 | Sunday | 1 | DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost | 698 | 271 | Technology | [link](https://esengine.github.io/DeepSeek-Reasonix/) · [HN](https://news.ycombinator.com/item?id=48256953) |
 | 2026-05-24 | Sunday | 2 | Show HN: Audiomass – a free, open-source multitrack audio editor for the web | 505 | 110 | Technology | [link](https://audiomass.co/?multitrack=1) · [HN](https://news.ycombinator.com/item?id=48258015) |
 | 2026-05-24 | Sunday | 3 | Migrating from Go to Rust | 444 | 454 | Technology | [link](https://corrode.dev/learn/migration-guides/go-to-rust/) · [HN](https://news.ycombinator.com/item?id=48259808) |
