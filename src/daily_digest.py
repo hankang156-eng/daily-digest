@@ -1816,11 +1816,18 @@ def digest_archive_entries(daily_html_dir=DAILY_HTML_DIR, href_prefix="output/da
             digest_date = datetime.date.fromisoformat(date_text)
         except ValueError:
             continue
-        entries.append((
-            date_text,
-            f"{date_text} ({digest_date.strftime('%A')})",
-            f"{href_prefix.rstrip('/')}/{path.name}",
-        ))
+        label = f"{date_text} ({digest_date.strftime('%A')})"
+        # If the digest's <title> carries a status suffix (e.g. "— NYT Archive
+        # pending"), surface it on the archive page so it's clear at a glance
+        # which days need to be re-run later.
+        try:
+            head = path.read_text(errors="ignore")[:2000]
+            m = re.search(r"<title>\s*Daily Digest\s*[—-]\s*[^<]*?(—[^<]+)</title>", head)
+            if m:
+                label += f" {m.group(1).strip()}"
+        except Exception:
+            pass
+        entries.append((date_text, label, f"{href_prefix.rstrip('/')}/{path.name}"))
     return sorted(entries, key=lambda entry: entry[0], reverse=True)
 
 
@@ -1875,6 +1882,8 @@ def generate_html(date, data, settings=None, archive_href="digest_archive.html")
     settings = settings or DEFAULT_CONFIG["settings"]
     sections = build_sections(data, settings)
     date_str = digest_date_for(date).strftime("%A, %B %-d, %Y")
+    if data.get("nyt_note"):
+        date_str = f"{date_str} — NYT Archive pending"
     fetched_str = datetime.datetime.now().strftime("%A, %b %d, %Y at %H:%M")
 
     body_parts = [
@@ -1981,6 +1990,8 @@ def generate_markdown(date, data, settings=None):
     settings = settings or DEFAULT_CONFIG["settings"]
     sections = build_sections(data, settings)
     date_str = digest_date_for(date).strftime("%A, %B %-d, %Y")
+    if data.get("nyt_note"):
+        date_str = f"{date_str} — NYT Archive pending"
     fetched_str = datetime.datetime.now().strftime("%A, %b %d, %Y at %H:%M")
 
     parts = [f"# Daily Digest - {date_str}", "", f"*Fetched: {fetched_str}*", "", "---", ""]
