@@ -131,9 +131,8 @@ class Candidate:
 # --- NYT Archive API (historical backfill source) ---------------------------
 NYT_ARCHIVE_URL = "https://api.nytimes.com/svc/archive/v1/{year}/{month}.json"
 ARCHIVE_CACHE_DIR = REPO_ROOT / "output" / "ranker_diagnostics" / "nyt_archive"
-# Use Archive as the NYT source only when the news date is older than this many
-# days (recent dates use live RSS, which is fresher than the Archive index).
-ARCHIVE_RECENCY_DAYS = 3
+# Use Archive whenever news_date is in the past; RSS only for today (daily cron).
+# Empty Archive (NYT index lag for very recent days) auto-falls back to RSS.
 ARCHIVE_KEEP_MATERIAL = {"News", "Op-Ed", "News Analysis", "Editorial"}
 READING_WPM = 230
 # Archive section_name / subsection_name (lowercased) -> (ranker section, category)
@@ -618,29 +617,33 @@ def run_ranker(
     stats = {"feeds_fetched": 0, "feed_failures": 0, "raw_articles": 0}
 
     api_key = os.environ.get("NYT_API_KEY")
-    use_archive = (
-        include_nyt and bool(api_key)
-        and (dt.date.today() - news_date).days > ARCHIVE_RECENCY_DAYS
-    )
-
-    if use_archive:
+    # Any non-today news date routes to Archive so backfills reflect what was
+    # actually published that day (RSS would leak today's articles). Daily cron
+    # (news_date = today) stays on live RSS. Empty Archive (index lag for very
+    # recent days) falls back to RSS.
+    raw = []
+    archive_tried = False
+    if include_nyt and api_key and news_date < dt.date.today():
+        archive_tried = True
         raw = archive_candidates(news_date, api_key)
         stats["raw_articles"] = len(raw)
-        stats["source"] = "archive"
-        print(f"NYT source: Archive ({news_date.isoformat()})")
-        print(f"NYT archive articles: {len(raw)}")
-    else:
+        if raw:
+            stats["source"] = "archive"
+            print(f"NYT source: Archive ({news_date.isoformat()})")
+            print(f"NYT archive articles: {len(raw)}")
+        else:
+            print(f"NYT source: Archive ({news_date.isoformat()}) returned 0 docs; falling back to RSS")
+    if not raw:
         feeds = config.get("feeds", DEFAULT_FEEDS)
         if not include_nyt:
             feeds = [feed for feed in feeds if feed.get("publication") != "NYT"]
         if not include_wsj:
             feeds = [feed for feed in feeds if feed.get("publication") != "WSJ"]
-        raw = []
         for feed in feeds:
             raw.extend(fetch_feed(feed, stats))
         stats["raw_articles"] = len(raw)
-        stats["source"] = "rss"
-        print(f"NYT source: RSS")
+        stats["source"] = "rss" if not archive_tried else "rss_fallback"
+        print(f"NYT source: RSS{' (Archive fallback)' if archive_tried else ''}")
         print(f"NYT feeds fetched: {stats['feeds_fetched']}")
         print(f"NYT feed failures: {stats['feed_failures']}")
 
