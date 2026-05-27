@@ -1,6 +1,6 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-27 · 1430 items*
+*Last updated: 2026-05-27 · 1410 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
@@ -84,26 +84,6 @@
 | 2026-05-24 | Greg Brockman interview [video] | HN | Technology | tech | 2026-05-24 | [link](https://fs.blog/knowledge-project-podcast/greg-brockman/) |
 | 2026-05-24 | DeepSeek to Make Permanent 75% Discount on Flagship AI Model | HN | Technology | tech | 2026-05-24 | [link](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model) |
 | 2026-05-24 | Building Pi with Pi | HN | Technology | tech | 2026-05-24 | [link](https://lucumr.pocoo.org/2026/5/24/pi-oss/) |
-| 2026-05-24 | OpenRouter, an Exchange for A.I. Models, Raises $113 Million | NYT · AI | AI | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/dealbook/openrouter-ai-models-fundraising.html) |
-| 2026-05-24 | The Vatican Takes on Silicon Valley With an A.I. Warning | NYT · AI | AI | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/dealbook/vatican-ai-silicon-valley.html) |
-| 2026-05-24 | To Understand Pope Leo’s Efforts on A.I., Look at the Man Shaking His Hand | NYT · AI | AI | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/us/pope-leo-ai-anthropic.html) |
-| 2026-05-24 | Progressives Are Listening to the Wrong People on A.I. | NYT · AI | AI | opinion | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/opinion/progressives-left-ai.html) |
-| 2026-05-24 | Artificial Intelligence Floods Court Dockets with Home-Brewed Lawsuits | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html) |
-| 2026-05-24 | White House Shakes Up Green Card Policy, and the Pope Takes On A.I. | NYT · AI | AI | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/podcasts/the-headlines/white-house-green-card-pope-ai.html) |
-| 2026-05-24 | UK Institute Is Hunting for Dangers Lurking in AI | NYT · Technology | Technology | news | 2026-05-24 | [link](https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html) |
-| 2026-05-24 | Global Oil Price Rises After U.S. Strikes in Iran Cloud Peace Deal | NYT · Business | Business | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/oil-gas-price-iran.html) |
-| 2026-05-24 | SpaceX IPO Filing Reveals Favorable Terms for Elon Musk | NYT · Technology | Technology | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html) |
-| 2026-05-24 | What A.I. Philanthropists Can Learn From the Gilded Age | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-05-25 | [link](https://www.nytimes.com/2026/05/23/opinion/artificial-intelligence-philanthropy-beauty.html) |
-| 2026-05-24 | You Can’t Stop This Data Center, a Mom Was Told. She Won’t Quit. | NYT · AI | AI | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/us/data-centers-kassi-solberg.html) |
-| 2026-05-24 | Eli Lilly to Buy 3 Vaccine Developers | NYT · Business | Business | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/eli-lilly-vaccines-shingles-epstein-barr.html) |
-| 2026-05-24 | At the A.I. Epicenter, Technologists Dismiss Pope Leo’s Warnings About the New Technology | NYT · AI | AI | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html) |
-| 2026-05-24 | As A.I. Fever Rises in Silicon Valley, Pope Leo Has a Few Words | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/technology/pope-ai-silicon-valley.html) |
-| 2026-05-24 | Yuval Noah Harari on Donald Trump’s Core Delusion | NYT · AI | AI | opinion | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/opinion/ezra-klein-podcast-yuval-noah-harari.html) |
-| 2026-05-24 | Pope Leo’s Encyclical on A.I. Is Disappointingly Mild | NYT · AI | AI | opinion | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/opinion/pope-leo-encyclical-ai.html) |
-| 2026-05-24 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
-| 2026-05-24 | Should You Take Nutrition Advice From a Chatbot? | NYT · AI | AI | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/well/eat/ai-chatbots-nutrition-advice.html) |
-| 2026-05-24 | E.P.A. to Repeal Some Limits on ‘Forever Chemicals’ in Drinking Water | NYT · Energy & Environment | Energy & Environment | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/18/climate/epa-forever-chemicals-pfas-drinking-water.html) |
-| 2026-05-24 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
 | 2026-05-24 | Weekly Update 505 | Troy Hunt · Security & Privacy | Security | tech | 2026-05-24 | [link](https://www.troyhunt.com/weekly-update-505/) |
 | 2026-05-24 | Quoting Armin Ronacher | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-24 | [link](https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything) |
 | 2026-05-24 | datasette-agent 0.1a4 | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-24 | [link](https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything) |
