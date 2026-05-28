@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-27 · 393 days · 3930 stories*
+*Last updated: 2026-05-28 · 394 days · 3940 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-27 | Wednesday | 1 | I'm Tired of Talking to AI | 1936 | 922 | Technology | [link](https://orchidfiles.com/im-tired-of-ai-generated-answers/) · [HN](https://news.ycombinator.com/item?id=48292224) |
+| 2026-05-27 | Wednesday | 2 | Can we have the day off? | 1186 | 671 | Technology | [link](https://mlsu.io/posts/day-off/) · [HN](https://news.ycombinator.com/item?id=48302745) |
+| 2026-05-27 | Wednesday | 3 | YouTube to automatically label AI-generated videos | 1036 | 622 | Technology | [link](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) · [HN](https://news.ycombinator.com/item?id=48299753) |
+| 2026-05-27 | Wednesday | 4 | I think Anthropic and OpenAI have found product-market fit | 962 | 1069 | Technology | [link](https://simonwillison.net/2026/May/27/product-market-fit/) · [HN](https://news.ycombinator.com/item?id=48296794) |
+| 2026-05-27 | Wednesday | 5 | DuckDuckGo search saw 28% more visits after Google said people love AI mode | 943 | 445 | Technology | [link](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/) · [HN](https://news.ycombinator.com/item?id=48296649) |
+| 2026-05-27 | Wednesday | 6 | Last.fm is now independent | 766 | 200 | Technology | [link](https://support.last.fm/t/last-fm-is-now-independent/118591) · [HN](https://news.ycombinator.com/item?id=48295892) |
+| 2026-05-27 | Wednesday | 7 | Tech CEOs are apparently suffering from AI psychosis | 670 | 328 | Technology | [link](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/) · [HN](https://news.ycombinator.com/item?id=48295679) |
+| 2026-05-27 | Wednesday | 8 | Canada to order military plane fleet from Sweden in shift from US suppliers | 577 | 422 | Technology | [link](https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft) · [HN](https://news.ycombinator.com/item?id=48296994) |
+| 2026-05-27 | Wednesday | 9 | Private equity bought America's essential services | 521 | 525 | Technology | [link](https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/) · [HN](https://news.ycombinator.com/item?id=48292941) |
+| 2026-05-27 | Wednesday | 10 | All of human cooking compressed into 2 megabytes | 419 | 164 | Technology | [link](https://arxiv.org/abs/2605.22391) · [HN](https://news.ycombinator.com/item?id=48291225) |
 | 2026-05-26 | Tuesday | 1 | Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence | 925 | 426 | Technology | [link](https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/) · [HN](https://news.ycombinator.com/item?id=48279316) |
 | 2026-05-26 | Tuesday | 2 | GitHub Actions was down | 649 | 1 | Technology | [link](https://www.githubstatus.com/?today) · [HN](https://news.ycombinator.com/item?id=48278374) |
 | 2026-05-26 | Tuesday | 3 | Netherlands blocks US takeover of vital digital supplier | 558 | 219 | Technology | [link](https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/) · [HN](https://news.ycombinator.com/item?id=48278406) |

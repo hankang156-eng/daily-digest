@@ -1,9 +1,50 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-27 · 1359 items*
+*Last updated: 2026-05-28 · 1400 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-27 | I'm Tired of Talking to AI | HN | Technology | tech | 2026-05-27 | [link](https://orchidfiles.com/im-tired-of-ai-generated-answers/) |
+| 2026-05-27 | Can we have the day off? | HN | Technology | tech | 2026-05-27 | [link](https://mlsu.io/posts/day-off/) |
+| 2026-05-27 | YouTube to automatically label AI-generated videos | HN | Technology | tech | 2026-05-27 | [link](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) |
+| 2026-05-27 | I think Anthropic and OpenAI have found product-market fit | HN | Technology | tech | 2026-05-27 | [link](https://simonwillison.net/2026/May/27/product-market-fit/) |
+| 2026-05-27 | DuckDuckGo search saw 28% more visits after Google said people love AI mode | HN | Technology | tech | 2026-05-27 | [link](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/) |
+| 2026-05-27 | Last.fm is now independent | HN | Technology | tech | 2026-05-27 | [link](https://support.last.fm/t/last-fm-is-now-independent/118591) |
+| 2026-05-27 | Tech CEOs are apparently suffering from AI psychosis | HN | Technology | tech | 2026-05-27 | [link](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/) |
+| 2026-05-27 | Canada to order military plane fleet from Sweden in shift from US suppliers | HN | Technology | tech | 2026-05-27 | [link](https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft) |
+| 2026-05-27 | Private equity bought America's essential services | HN | Technology | tech | 2026-05-27 | [link](https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/) |
+| 2026-05-27 | All of human cooking compressed into 2 megabytes | HN | Technology | tech | 2026-05-27 | [link](https://arxiv.org/abs/2605.22391) |
+| 2026-05-27 | Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs | HN | Technology | tech | 2026-05-27 | [link](https://arps18.github.io/posts/claude-code-mastery/) |
+| 2026-05-27 | SimCity 3k in 4k (2025) | HN | Technology | tech | 2026-05-27 | [link](https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html) |
+| 2026-05-27 | FBI Arrests CIA Official with $40M in Gold Bars in His Home | HN | Technology | tech | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html) |
+| 2026-05-27 | What Apple and Google are doing to push notifications | HN | Technology | tech | 2026-05-27 | [link](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications) |
+| 2026-05-27 | Incident with Pull Requests, Issues, Git Operations and API Requests | HN | Technology | tech | 2026-05-27 | [link](https://www.githubstatus.com/incidents/xy1tt3hs572m) |
+| 2026-05-27 | Hallucinate – Massively Multiplayer Online Rave | HN | Technology | tech | 2026-05-27 | [link](https://hallucinate.site) |
+| 2026-05-27 | Why Memory Chips Are Dominating the A.I. Rally | NYT · AI | AI | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/business/dealbook/ai-chips-war-samsung-micron.html) |
+| 2026-05-27 | Pope Leo’s A.I. Vision Might Not Be Strange Enough | NYT · AI | AI | opinion | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/opinion/pope-leo-ai-encyclical.html) |
+| 2026-05-27 | Online Scams Have Evolved in the A.I. Era. Here’s What to Do. | NYT · AI | AI | news | 2026-05-28 | [link](https://www.nytimes.com/2026/05/28/technology/personaltech/online-scams-have-evolved-in-the-ai-era-heres-what-to-do.html) |
+| 2026-05-27 | KFF’s Chief Executive to Retire | NYT · Business | Business | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/business/media/kff-drew-altman.html) |
+| 2026-05-27 | OpenRouter, an Exchange for A.I. Models, Raises $113 Million | NYT · Business | Business | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/dealbook/openrouter-ai-models-fundraising.html) |
+| 2026-05-27 | Teachers Union Urges Schools to Curb A.I. Chatbots and Screen Time | NYT · AI | AI | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/technology/ai-screens-schools-weingarten.html) |
+| 2026-05-27 | The Vatican Takes on Silicon Valley With an A.I. Warning | NYT · Business | Business | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/dealbook/vatican-ai-silicon-valley.html) |
+| 2026-05-27 | I Tried to Sell My House With A.I. | NYT · AI | AI | news | 2026-05-28 | [link](https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html) |
+| 2026-05-27 | Artificial Intelligence Floods Court Dockets with Home-Brewed Lawsuits | NYT · AI | AI | news | 2026-05-25 | [link](https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html) |
+| 2026-05-27 | Our Military Is Built for the Wrong Century | NYT · AI | AI | opinion | 2026-05-28 | [link](https://www.nytimes.com/2026/05/28/opinion/military-iran-ukraine-russia-war-drones.html) |
+| 2026-05-27 | A.I. Money From I.P.O.s Will Change Philanthropy | NYT · AI | AI | opinion | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/opinion/ai-philanthropy-charity.html) |
+| 2026-05-27 | YouTuber Defamed Movie Star Using A.I., South Korean Police Say | NYT · AI | AI | news | 2026-05-28 | [link](https://www.nytimes.com/2026/05/28/world/asia/kim-soo-hyun-youtube-arrest.html) |
+| 2026-05-27 | Can A.I. Make People Feel Less Lonely? | NYT · AI | AI | news | 2026-05-28 | [link](https://www.nytimes.com/2026/05/28/podcasts/the-daily/ai-robot-elderly-loneliness.html) |
+| 2026-05-27 | Court Orders Customs Chief to Address Compliance on Refunding Tariffs | NYT · Business | Business | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/us/politics/trade-court-customs-chief-tariff-refunds.html) |
+| 2026-05-27 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
+| 2026-05-27 | Spencer Pratt Wants to Be Mayor. His Fans Want Him to Be Batman. | NYT · Technology | Technology | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/magazine/spencer-pratt-batman-ads-mayor.html) |
+| 2026-05-27 | Alabama Republicans Ask Supreme Court to Allow New Congressional Map in Redistricting Fight | NYT · Politics | Politics | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/us/politics/supreme-court-alabama-voting-maps.html) |
+| 2026-05-27 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
+| 2026-05-27 | Massie Visits Greene in Costa Rica for Fishing and ‘Spicy’ Political Talks | NYT · Politics | Politics | news | 2026-05-28 | [link](https://www.nytimes.com/2026/05/27/us/politics/massie-marjorie-taylor-greene-costa-rica.html) |
+| 2026-05-27 | Justice Dept. Is Said to Open Criminal Inquiry of E. Jean Carroll, Who Accused Trump of Rape | NYT · Politics | Politics | news | 2026-05-28 | [link](https://www.nytimes.com/2026/05/27/us/politics/criminal-inquiry-e-jean-carroll-trump-accusations.html) |
+| 2026-05-27 | sqlite AGENTS.md | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-27 | [link](https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything) |
+| 2026-05-27 | I think Anthropic and OpenAI have found product-market fit | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-27 | [link](https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything) |
+| 2026-05-27 | Pope Leo isn't joining Anthropic, but the memes are funny | Superpower Daily · Tech & Engineering | Technology | tech | 2026-05-27 | [link](https://www.superpowerdaily.com/p/pope-leo-isn-t-joining-anthropic-but-the-memes-are-funny) |
+| 2026-05-27 | Gadget Review: Chuwi Minibook X N150 + Linux ★★★★☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-05-27 | [link](https://shkspr.mobi/blog/2026/05/gadget-review-chuwi-minibook-x-n150-linux/) |
+| 2026-05-27 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-26 | Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence | HN | Technology | tech | 2026-05-26 | [link](https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/) |
 | 2026-05-26 | GitHub Actions was down | HN | Technology | tech | 2026-05-26 | [link](https://www.githubstatus.com/?today) |
 | 2026-05-26 | The worst job interview I ever had | HN | Technology | tech | 2026-05-26 | [link](https://www.oliverio.dev/blog/the-worst-job-interview-i-had) |
