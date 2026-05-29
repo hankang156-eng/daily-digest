@@ -1,9 +1,52 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-28 · 1400 items*
+*Last updated: 2026-05-29 · 1443 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-28 | Claude Opus 4.8 | HN | Technology | tech | 2026-05-28 | [link](https://www.anthropic.com/news/claude-opus-4-8) |
+| 2026-05-28 | Bricks and Minifigs Stole a Man's $200k Lego Collection | HN | Technology | tech | 2026-05-28 | [link](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection) |
+| 2026-05-28 | Disagreement among frontier LLMs on real-world fact-checks | HN | Technology | tech | 2026-05-28 | [link](https://lenz.io/research/llm-disagreement) |
+| 2026-05-28 | I made a million dollar product from my dorm room (2025) | HN | Technology | tech | 2026-05-28 | [link](https://nick.winans.io/blog/nice-nano/) |
+| 2026-05-28 | Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM | HN | Technology | tech | 2026-05-28 | [link](https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions) |
+| 2026-05-28 | GitHub bans security researcher who posted zero-day Windows exploits | HN | Technology | tech | 2026-05-28 | [link](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation) |
+| 2026-05-28 | Anthropic raises $65B in Series H funding at $965B post-money valuation | HN | Technology | tech | 2026-05-28 | [link](https://www.anthropic.com/news/series-h) |
+| 2026-05-28 | EU fines Temu €200M for allowing sale of illegal products | HN | Technology | tech | 2026-05-28 | [link](https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o) |
+| 2026-05-28 | AMD pulls a bait-and-switch on Linux users with Vivado licensing changes | HN | Technology | tech | 2026-05-28 | [link](https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/) |
+| 2026-05-28 | Cars collect a startling amount of data about you | HN | Technology | tech | 2026-05-28 | [link](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse) |
+| 2026-05-28 | Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue | HN | Technology | tech | 2026-05-28 | [link](https://llmgame.scalex.dev) |
+| 2026-05-28 | Building durable workflows on Postgres | HN | Technology | tech | 2026-05-28 | [link](https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution) |
+| 2026-05-28 | Various LLM Smells | HN | Technology | tech | 2026-05-28 | [link](https://shvbsle.in/various-llm-smells/) |
+| 2026-05-28 | Blue Origin's New Glenn blows up during static fire test | HN | Technology | tech | 2026-05-28 | [link](https://twitter.com/nasaspaceflight/status/2060164928472854821) |
+| 2026-05-28 | New York passes pied-a-terre tax | HN | Technology | tech | 2026-05-28 | [link](https://www.cnbc.com/2026/05/28/new-york-mamdani-pied-a-terre-tax-passes.html) |
+| 2026-05-28 | Nitpicking the shell history scene in 'Tron: Legacy' | HN | Technology | tech | 2026-05-28 | [link](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/) |
+| 2026-05-28 | How NextEra Energy Wielded Political Power in Florida | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/business/energy-environment/nextera-energy-florida-politics-dominion.html) |
+| 2026-05-28 | Should We Let Robots Kill People? | NYT · AI | AI | opinion | 2026-05-29 | [link](https://www.nytimes.com/video/opinion/100000010921316/should-we-let-robots-kill-people.html) |
+| 2026-05-28 | Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up | NYT · AI | AI | news | 2026-05-28 | [link](https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html) |
+| 2026-05-28 | A.I. Doesn’t Have to Mean Layoffs | NYT · AI | AI | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/business/economy/ai-jobs-productivity.html) |
+| 2026-05-28 | A.I. Is Making Scams Hard to Spot. Here’s How to Protect Yourself. | NYT · AI | AI | news | 2026-05-28 | [link](https://www.nytimes.com/2026/05/28/technology/personaltech/scams-ai.html) |
+| 2026-05-28 | Artificial Intelligence Floods Court Dockets with Home-Brewed Lawsuits | NYT · AI | AI | news | 2026-05-28 | [link](https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html) |
+| 2026-05-28 | Go Ask Alice Why Tech Start-Ups Are Spending Big on Hype Videos | NYT · Technology | Technology | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/technology/ai-startups-videos-marketing.html) |
+| 2026-05-28 | Trump’s Retribution Comes to Texas as Paxton Defeats Cornyn | NYT · AI | AI | opinion | 2026-05-28 | [link](https://www.nytimes.com/2026/05/28/opinion/trump-texas-paxton-cornyn.html) |
+| 2026-05-28 | Why Memory Chips Are Dominating the A.I. Rally | NYT · Business | Business | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/business/dealbook/ai-chips-war-samsung-micron.html) |
+| 2026-05-28 | OpenRouter, an Exchange for A.I. Models, Raises $113 Million | NYT · Business | Business | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/dealbook/openrouter-ai-models-fundraising.html) |
+| 2026-05-28 | Dell Gets a $9.7 Billion Defense Contract. Trump’s Portfolio Stands to Benefit. | NYT · Politics | Politics | news | 2026-05-28 | [link](https://www.nytimes.com/2026/05/28/us/politics/trump-dell-stock-purchases.html) |
+| 2026-05-28 | A.I. Boom Leads to Record Home Prices in San Francisco | NYT · AI | AI | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/realestate/san-francisco-ai-housing-market.html) |
+| 2026-05-28 | A.I.’s Big Next Step | NYT · AI | AI | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/28/world/ai-ipo-anthropic-openai-spacex-iran.html) |
+| 2026-05-28 | What Plunging Pork Prices Say About China’s Economy | NYT · Business | Business | news | 2026-05-28 | [link](https://www.nytimes.com/2026/05/28/business/china-pork-prices-economy.html) |
+| 2026-05-28 | The Vatican Takes on Silicon Valley With an A.I. Warning | NYT · Business | Business | news | 2026-05-26 | [link](https://www.nytimes.com/2026/05/26/business/dealbook/vatican-ai-silicon-valley.html) |
+| 2026-05-28 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
+| 2026-05-28 | Where Do E. Jean Carroll’s Lawsuits Against President Trump Stand? | NYT · Politics | Politics | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/28/us/politics/e-jean-carroll-trump-lawsuits.html) |
+| 2026-05-28 | In Carroll Lawsuits Inquiry, Scrutiny Turns Toward Private Citizens Who Antagonized Trump | NYT · Politics | Politics | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/28/us/politics/justice-department-carroll-hoffman-lawsuit-trump.html) |
+| 2026-05-28 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
+| 2026-05-28 | Pope Leo’s A.I. Vision Might Not Be Strange Enough | NYT · Opinion | Opinion | opinion | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/opinion/pope-leo-ai-encyclical.html) |
+| 2026-05-28 | Adding AI to the Org Chart? Do It with Intention | MIT IDE · MIT Research & Insights | Research | research | 2026-05-28 | [link](https://ide.mit.edu/insights/adding-ai-to-the-org-chart-do-it-with-intention/) |
+| 2026-05-28 | Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-28 | [link](https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/) |
+| 2026-05-28 | Embodied cognition and agentic AI | Lemire.me · Tech & Engineering | Technology | tech | 2026-05-28 | [link](https://lemire.me/blog/2026/05/28/embodied-cognition-and-agentic-ai/) |
+| 2026-05-28 | Claude Opus 4.8: "a modest but tangible improvement" | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-28 | [link](https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything) |
+| 2026-05-28 | llm-anthropic 0.25.1 | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-28 | [link](https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything) |
+| 2026-05-28 | Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-28 | [link](https://tv.apple.com/us/sporting-event/mls-wrap-up/umc.cse.3a198p24hrehwhonbhgx2zvhv) |
+| 2026-05-28 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-27 | I'm Tired of Talking to AI | HN | Technology | tech | 2026-05-27 | [link](https://orchidfiles.com/im-tired-of-ai-generated-answers/) |
 | 2026-05-27 | Can we have the day off? | HN | Technology | tech | 2026-05-27 | [link](https://mlsu.io/posts/day-off/) |
 | 2026-05-27 | YouTube to automatically label AI-generated videos | HN | Technology | tech | 2026-05-27 | [link](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) |

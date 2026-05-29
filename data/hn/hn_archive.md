@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-28 · 394 days · 3940 stories*
+*Last updated: 2026-05-29 · 395 days · 3950 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-28 | Thursday | 1 | Claude Opus 4.8 | 1531 | 1196 | Technology | [link](https://www.anthropic.com/news/claude-opus-4-8) · [HN](https://news.ycombinator.com/item?id=48311647) |
+| 2026-05-28 | Thursday | 2 | Bricks and Minifigs Stole a Man's $200k Lego Collection | 950 | 440 | Technology | [link](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection) · [HN](https://news.ycombinator.com/item?id=48314136) |
+| 2026-05-28 | Thursday | 3 | Disagreement among frontier LLMs on real-world fact-checks | 489 | 341 | Technology | [link](https://lenz.io/research/llm-disagreement) · [HN](https://news.ycombinator.com/item?id=48307887) |
+| 2026-05-28 | Thursday | 4 | I made a million dollar product from my dorm room (2025) | 403 | 62 | Technology | [link](https://nick.winans.io/blog/nice-nano/) · [HN](https://news.ycombinator.com/item?id=48314951) |
+| 2026-05-28 | Thursday | 5 | Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM | 395 | 610 | Technology | [link](https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions) · [HN](https://news.ycombinator.com/item?id=48309233) |
+| 2026-05-28 | Thursday | 6 | GitHub bans security researcher who posted zero-day Windows exploits | 393 | 174 | Technology | [link](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation) · [HN](https://news.ycombinator.com/item?id=48315968) |
+| 2026-05-28 | Thursday | 7 | Anthropic raises $65B in Series H funding at $965B post-money valuation | 344 | 364 | Technology | [link](https://www.anthropic.com/news/series-h) · [HN](https://news.ycombinator.com/item?id=48313048) |
+| 2026-05-28 | Thursday | 8 | EU fines Temu €200M for allowing sale of illegal products | 330 | 329 | Technology | [link](https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o) · [HN](https://news.ycombinator.com/item?id=48309302) |
+| 2026-05-28 | Thursday | 9 | AMD pulls a bait-and-switch on Linux users with Vivado licensing changes | 330 | 158 | Technology | [link](https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/) · [HN](https://news.ycombinator.com/item?id=48307231) |
+| 2026-05-28 | Thursday | 10 | Cars collect a startling amount of data about you | 330 | 152 | Technology | [link](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse) · [HN](https://news.ycombinator.com/item?id=48318481) |
 | 2026-05-27 | Wednesday | 1 | I'm Tired of Talking to AI | 1936 | 922 | Technology | [link](https://orchidfiles.com/im-tired-of-ai-generated-answers/) · [HN](https://news.ycombinator.com/item?id=48292224) |
 | 2026-05-27 | Wednesday | 2 | Can we have the day off? | 1186 | 671 | Technology | [link](https://mlsu.io/posts/day-off/) · [HN](https://news.ycombinator.com/item?id=48302745) |
 | 2026-05-27 | Wednesday | 3 | YouTube to automatically label AI-generated videos | 1036 | 622 | Technology | [link](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) · [HN](https://news.ycombinator.com/item?id=48299753) |
