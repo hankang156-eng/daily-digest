@@ -1,9 +1,50 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-29 · 1443 items*
+*Last updated: 2026-05-30 · 1484 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-29 | The dead economy theory | HN | Technology | tech | 2026-05-29 | [link](https://www.owenmcgrann.com/p/the-dead-economy-theory) |
+| 2026-05-29 | I am retiring from tech to live offline | HN | Technology | tech | 2026-05-29 | [link](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/) |
+| 2026-05-29 | Please Use AI | HN | Technology | tech | 2026-05-29 | [link](https://shawnsmucker.substack.com/p/please-use-ai) |
+| 2026-05-29 | GTA 6 Developers Unionize | HN | Technology | tech | 2026-05-29 | [link](https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/) |
+| 2026-05-29 | SQLite is all you need for durable workflows | HN | Technology | tech | 2026-05-29 | [link](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/) |
+| 2026-05-29 | Volkswagen blocks Home Assistant by requiring client assertion | HN | Technology | tech | 2026-05-29 | [link](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967) |
+| 2026-05-29 | Notes from the Mistral AI Now Summit | HN | Technology | tech | 2026-05-29 | [link](https://koenvangilst.nl/lab/mistral-ai-now-summit) |
+| 2026-05-29 | What Is a Dickover? | HN | Technology | tech | 2026-05-29 | [link](https://daringfireball.net/2026/05/what_is_a_dickover) |
+| 2026-05-29 | Is AI causing a repeat of frontend’s lost decade? | HN | Technology | tech | 2026-05-29 | [link](https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/) |
+| 2026-05-29 | You can just say it | HN | Technology | tech | 2026-05-29 | [link](https://noperator.dev/posts/you-can-just-say-it/) |
+| 2026-05-29 | It's hard to justify buying a Framework 12 | HN | Technology | tech | 2026-05-29 | [link](https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/) |
+| 2026-05-29 | Danish Pension Blacklists SpaceX over 'Catastrophic Governance' | HN | Technology | tech | 2026-05-29 | [link](https://www.bloomberg.com/news/articles/2026-05-29/danish-pension-fund-blacklists-spacex-citing-governance-issues) |
+| 2026-05-29 | Microsoft 0-day feud escalates as researcher threatens another exploit dump | HN | Technology | tech | 2026-05-29 | [link](https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085) |
+| 2026-05-29 | MCP is dead? | HN | Technology | tech | 2026-05-29 | [link](https://www.quandri.io/engineering-blog/mcp-is-dead) |
+| 2026-05-29 | The California state assembly has passed the 'Protect Our Games Act' | HN | Technology | tech | 2026-05-29 | [link](https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill) |
+| 2026-05-29 | Bijou64: A variable-length integer encoding | HN | Technology | tech | 2026-05-29 | [link](https://www.inkandswitch.com/tangents/bijou64/) |
+| 2026-05-29 | Sky-High I.P.O. Pricing Isn’t Great for Real People | NYT · AI | AI | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/business/spacex-openai-anthropic-ipo-invest.html) |
+| 2026-05-29 | How NextEra Energy Wielded Political Power in Florida | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/business/energy-environment/nextera-energy-florida-politics-dominion.html) |
+| 2026-05-29 | Should We Let Robots Kill People? | NYT · AI | AI | opinion | 2026-05-29 | [link](https://www.nytimes.com/video/opinion/100000010921316/should-we-let-robots-kill-people.html) |
+| 2026-05-29 | The $900 Billion Giant: How Anthropic Got So Big, So Fast | NYT · AI | AI | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/business/dealbook/anthropic-ai-openai.html) |
+| 2026-05-29 | Powerful A.I. Super PACs Duel Over the Midterms: ‘This Is a War’ | NYT · AI | AI | news | 2026-05-30 | [link](https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html) |
+| 2026-05-29 | S.E.C. Proposes to Kill Climate Change Disclosure Rule | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/climate/sec-climate-disclosure-rule.html) |
+| 2026-05-29 | A.I. Doesn’t Have to Mean Layoffs | NYT · AI | AI | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/business/economy/ai-jobs-productivity.html) |
+| 2026-05-29 | A Clean Energy PAC Helped Beat Chip Roy, and Now It Has New Targets | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/climate/clean-energy-pac-chip-roy.html) |
+| 2026-05-29 | Can California Convince Teens to Work in Construction? | NYT · AI | AI | news | 2026-05-30 | [link](https://www.nytimes.com/video/us/100000010907463/california-high-schools-construction-trade-classes.html) |
+| 2026-05-29 | Is the U.S. Prepared for a Major War? | NYT · AI | AI | opinion | 2026-05-29 | [link](https://www.nytimes.com/video/opinion/100000010921317/is-the-us-prepared-for-a-major-war.html) |
+| 2026-05-29 | Want to ‘Optimize’ Your Happiness? This Happiness Expert Says: Don’t. | NYT · AI | AI | news | 2026-05-30 | [link](https://www.nytimes.com/2026/05/30/magazine/laurie-santos-interview.html) |
+| 2026-05-29 | Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up | NYT · Technology | Technology | news | 2026-05-28 | [link](https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html) |
+| 2026-05-29 | Artificial Intelligence Floods Court Dockets with Home-Brewed Lawsuits | NYT · AI | AI | news | 2026-05-28 | [link](https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html) |
+| 2026-05-29 | Go Ask Alice Why Tech Start-Ups Are Spending Big on Hype Videos | NYT · Technology | Technology | news | 2026-05-27 | [link](https://www.nytimes.com/2026/05/27/technology/ai-startups-videos-marketing.html) |
+| 2026-05-29 | 9 U.S. Voters Tell Us How They’re Coping With Higher Prices | NYT · Politics | Politics | news | 2026-05-30 | [link](https://www.nytimes.com/2026/05/30/us/midterm-voters-affordability.html) |
+| 2026-05-29 | I Tried to Sell My House With A.I. | NYT · Technology | Technology | news | 2026-05-28 | [link](https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html) |
+| 2026-05-29 | A.I. Is Making Scams Hard to Spot. Here’s How to Protect Yourself. | NYT · Technology | Technology | news | 2026-05-28 | [link](https://www.nytimes.com/2026/05/28/technology/personaltech/scams-ai.html) |
+| 2026-05-29 | Trump Squeezes Immigrants by Cutting Them Off From Jobs, Healthcare and Housing | NYT · Politics | Politics | news | 2026-05-30 | [link](https://www.nytimes.com/2026/05/30/us/politics/trump-immigrants-health-housing.html) |
+| 2026-05-29 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
+| 2026-05-29 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
+| 2026-05-29 | Anthropic's run-rate revenue hits $47 billion | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-29 | [link](https://simonwillison.net/2026/May/29/anthropic/#atom-everything) |
+| 2026-05-29 | datasette 1.0a31 | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-29 | [link](https://simonwillison.net/2026/May/29/datasette/#atom-everything) |
+| 2026-05-29 | One Group, Clearly, Is Deranged | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-29 | [link](https://paulkrugman.substack.com/p/whos-deranged-exactly) |
+| 2026-05-29 | The UK Government's Low Value Purchase System is a Waste of Time | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-05-29 | [link](https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/) |
+| 2026-05-29 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-28 | Claude Opus 4.8 | HN | Technology | tech | 2026-05-28 | [link](https://www.anthropic.com/news/claude-opus-4-8) |
 | 2026-05-28 | Bricks and Minifigs Stole a Man's $200k Lego Collection | HN | Technology | tech | 2026-05-28 | [link](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection) |
 | 2026-05-28 | Disagreement among frontier LLMs on real-world fact-checks | HN | Technology | tech | 2026-05-28 | [link](https://lenz.io/research/llm-disagreement) |

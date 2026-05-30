@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-29 · 395 days · 3950 stories*
+*Last updated: 2026-05-30 · 396 days · 3960 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-29 | Friday | 1 | The dead economy theory | 1004 | 1149 | Technology | [link](https://www.owenmcgrann.com/p/the-dead-economy-theory) · [HN](https://news.ycombinator.com/item?id=48324712) |
+| 2026-05-29 | Friday | 2 | I am retiring from tech to live offline | 796 | 544 | Technology | [link](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/) · [HN](https://news.ycombinator.com/item?id=48323683) |
+| 2026-05-29 | Friday | 3 | Please Use AI | 746 | 379 | Technology | [link](https://shawnsmucker.substack.com/p/please-use-ai) · [HN](https://news.ycombinator.com/item?id=48323101) |
+| 2026-05-29 | Friday | 4 | GTA 6 Developers Unionize | 683 | 463 | Technology | [link](https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/) · [HN](https://news.ycombinator.com/item?id=48324499) |
+| 2026-05-29 | Friday | 5 | SQLite is all you need for durable workflows | 539 | 268 | Technology | [link](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/) · [HN](https://news.ycombinator.com/item?id=48326802) |
+| 2026-05-29 | Friday | 6 | Volkswagen blocks Home Assistant by requiring client assertion | 377 | 186 | Technology | [link](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967) · [HN](https://news.ycombinator.com/item?id=48319509) |
+| 2026-05-29 | Friday | 7 | Notes from the Mistral AI Now Summit | 377 | 154 | Technology | [link](https://koenvangilst.nl/lab/mistral-ai-now-summit) · [HN](https://news.ycombinator.com/item?id=48325340) |
+| 2026-05-29 | Friday | 8 | What Is a Dickover? | 353 | 133 | Technology | [link](https://daringfireball.net/2026/05/what_is_a_dickover) · [HN](https://news.ycombinator.com/item?id=48330882) |
+| 2026-05-29 | Friday | 9 | Is AI causing a repeat of frontend’s lost decade? | 349 | 295 | Technology | [link](https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/) · [HN](https://news.ycombinator.com/item?id=48321631) |
+| 2026-05-29 | Friday | 10 | You can just say it | 331 | 171 | Technology | [link](https://noperator.dev/posts/you-can-just-say-it/) · [HN](https://news.ycombinator.com/item?id=48324853) |
 | 2026-05-28 | Thursday | 1 | Claude Opus 4.8 | 1531 | 1196 | Technology | [link](https://www.anthropic.com/news/claude-opus-4-8) · [HN](https://news.ycombinator.com/item?id=48311647) |
 | 2026-05-28 | Thursday | 2 | Bricks and Minifigs Stole a Man's $200k Lego Collection | 950 | 440 | Technology | [link](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection) · [HN](https://news.ycombinator.com/item?id=48314136) |
 | 2026-05-28 | Thursday | 3 | Disagreement among frontier LLMs on real-world fact-checks | 489 | 341 | Technology | [link](https://lenz.io/research/llm-disagreement) · [HN](https://news.ycombinator.com/item?id=48307887) |
