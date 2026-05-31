@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-30 · 396 days · 3960 stories*
+*Last updated: 2026-05-31 · 397 days · 3970 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-30 | Saturday | 1 | Microsoft Office 2019 and 2021 for Mac view-only conversion | 859 | 303 | Technology | [link](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)) · [HN](https://news.ycombinator.com/item?id=48341578) |
+| 2026-05-30 | Saturday | 2 | Domain expertise has always been the real moat | 595 | 354 | Technology | [link](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) · [HN](https://news.ycombinator.com/item?id=48340411) |
+| 2026-05-30 | Saturday | 3 | Danish pension fund excludes SpaceX citing governance and valuation | 458 | 12 | Technology | [link](https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/) · [HN](https://news.ycombinator.com/item?id=48333820) |
+| 2026-05-30 | Saturday | 4 | OpenRouter raises $113M Series B | 419 | 200 | Technology | [link](https://openrouter.ai/announcements/series-b) · [HN](https://news.ycombinator.com/item?id=48338660) |
+| 2026-05-30 | Saturday | 5 | Openrsync: An implementation of rsync, by the OpenBSD team | 410 | 153 | Technology | [link](https://github.com/kristapsdz/openrsync) · [HN](https://news.ycombinator.com/item?id=48334854) |
+| 2026-05-30 | Saturday | 6 | Anthropic surpasses OpenAI to become most valuable AI startup | 406 | 457 | Technology | [link](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup) · [HN](https://news.ycombinator.com/item?id=48336233) |
+| 2026-05-30 | Saturday | 7 | Pandoc Templates | 398 | 50 | Technology | [link](https://pandoc-templates.org/) · [HN](https://news.ycombinator.com/item?id=48334515) |
+| 2026-05-30 | Saturday | 8 | Zig: Build System Reworked | 350 | 230 | Technology | [link](https://ziglang.org/devlog/2026/#2026-05-26) · [HN](https://news.ycombinator.com/item?id=48334048) |
+| 2026-05-30 | Saturday | 9 | Proposed new US funding rules: We can cancel any grant at any time | 315 | 3 | Technology | [link](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/) · [HN](https://news.ycombinator.com/item?id=48335135) |
+| 2026-05-30 | Saturday | 10 | EY Canada published a cybersecurity report and most citations were hallucinated | 297 | 132 | Technology | [link](https://gptzero.me/investigations/ey) · [HN](https://news.ycombinator.com/item?id=48339580) |
 | 2026-05-29 | Friday | 1 | The dead economy theory | 1004 | 1149 | Technology | [link](https://www.owenmcgrann.com/p/the-dead-economy-theory) · [HN](https://news.ycombinator.com/item?id=48324712) |
 | 2026-05-29 | Friday | 2 | I am retiring from tech to live offline | 796 | 544 | Technology | [link](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/) · [HN](https://news.ycombinator.com/item?id=48323683) |
 | 2026-05-29 | Friday | 3 | Please Use AI | 746 | 379 | Technology | [link](https://shawnsmucker.substack.com/p/please-use-ai) · [HN](https://news.ycombinator.com/item?id=48323101) |

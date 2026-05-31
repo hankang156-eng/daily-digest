@@ -1,9 +1,50 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-30 · 1484 items*
+*Last updated: 2026-05-31 · 1525 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-30 | Microsoft Office 2019 and 2021 for Mac view-only conversion | HN | Technology | tech | 2026-05-30 | [link](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)) |
+| 2026-05-30 | Domain expertise has always been the real moat | HN | Technology | tech | 2026-05-30 | [link](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) |
+| 2026-05-30 | Danish pension fund excludes SpaceX citing governance and valuation | HN | Technology | tech | 2026-05-30 | [link](https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/) |
+| 2026-05-30 | OpenRouter raises $113M Series B | HN | Technology | tech | 2026-05-30 | [link](https://openrouter.ai/announcements/series-b) |
+| 2026-05-30 | Openrsync: An implementation of rsync, by the OpenBSD team | HN | Technology | tech | 2026-05-30 | [link](https://github.com/kristapsdz/openrsync) |
+| 2026-05-30 | Anthropic surpasses OpenAI to become most valuable AI startup | HN | Technology | tech | 2026-05-30 | [link](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup) |
+| 2026-05-30 | Pandoc Templates | HN | Technology | tech | 2026-05-30 | [link](https://pandoc-templates.org/) |
+| 2026-05-30 | Zig: Build System Reworked | HN | Technology | tech | 2026-05-30 | [link](https://ziglang.org/devlog/2026/#2026-05-26) |
+| 2026-05-30 | Proposed new US funding rules: We can cancel any grant at any time | HN | Technology | tech | 2026-05-30 | [link](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/) |
+| 2026-05-30 | EY Canada published a cybersecurity report and most citations were hallucinated | HN | Technology | tech | 2026-05-30 | [link](https://gptzero.me/investigations/ey) |
+| 2026-05-30 | Accenture to acquire Ookla | HN | Technology | tech | 2026-05-30 | [link](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises) |
+| 2026-05-30 | Voxel Space (2017) | HN | Technology | tech | 2026-05-30 | [link](https://s-macke.github.io/VoxelSpace/) |
+| 2026-05-30 | Shantell Sans (2023) | HN | Technology | tech | 2026-05-30 | [link](https://shantellsans.com/process) |
+| 2026-05-30 | Please Do Not Vibe Fuck Up This Software | HN | Technology | tech | 2026-05-30 | [link](https://github.com/RsyncProject/rsync/issues/929) |
+| 2026-05-30 | Leo's first encyclical attacks technological messianism | HN | Technology | tech | 2026-05-30 | [link](https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism) |
+| 2026-05-30 | The AV2 Video Standard Has Released (Final v1.0 Specification) | HN | Technology | tech | 2026-05-30 | [link](https://av2.aomedia.org) |
+| 2026-05-30 | Sky-High I.P.O. Pricing Isn’t Great for Real People | NYT · AI | AI | news | 2026-05-30 | [link](https://www.nytimes.com/2026/05/29/business/spacex-openai-anthropic-ipo-invest.html) |
+| 2026-05-30 | Powerful A.I. Super PACs Duel Over the Midterms: ‘This Is a War’ | NYT · AI | AI | news | 2026-05-30 | [link](https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html) |
+| 2026-05-30 | A.I. Doesn’t Have to Mean Layoffs | NYT · AI | AI | news | 2026-05-30 | [link](https://www.nytimes.com/2026/05/29/business/economy/ai-jobs-productivity.html) |
+| 2026-05-30 | Can California Convince Teens to Work in Construction? | NYT · AI | AI | news | 2026-05-30 | [link](https://www.nytimes.com/video/us/100000010907463/california-high-schools-construction-trade-classes.html) |
+| 2026-05-30 | How NextEra Energy Wielded Political Power in Florida | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/business/energy-environment/nextera-energy-florida-politics-dominion.html) |
+| 2026-05-30 | The $900 Billion Giant: How Anthropic Got So Big, So Fast | NYT · AI | AI | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/business/dealbook/anthropic-ai-openai.html) |
+| 2026-05-30 | Want to ‘Optimize’ Your Happiness? This Happiness Expert Says: Don’t. | NYT · AI | AI | news | 2026-05-30 | [link](https://www.nytimes.com/2026/05/30/magazine/laurie-santos-interview.html) |
+| 2026-05-30 | What Is Airbnb For, Exactly? | NYT · AI | AI | news | 2026-05-31 | [link](https://www.nytimes.com/2026/05/31/business/airbnb-brian-chesky.html) |
+| 2026-05-30 | S.E.C. Proposes to Kill Climate Change Disclosure Rule | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/climate/sec-climate-disclosure-rule.html) |
+| 2026-05-30 | C.I.A. Officer Arrested With Gold Once Worked With No. 2 Pentagon Official | NYT · Politics | Politics | news | 2026-05-30 | [link](https://www.nytimes.com/2026/05/30/us/politics/cia-gold-bars-stephen-feinberg.html) |
+| 2026-05-30 | A Clean Energy PAC Helped Beat Chip Roy, and Now It Has New Targets | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/climate/clean-energy-pac-chip-roy.html) |
+| 2026-05-30 | 9 U.S. Voters Tell Us How They’re Coping With Higher Prices | NYT · Politics | Politics | news | 2026-05-30 | [link](https://www.nytimes.com/2026/05/30/us/midterm-voters-affordability.html) |
+| 2026-05-30 | Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up | NYT · Technology | Technology | news | 2026-05-28 | [link](https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html) |
+| 2026-05-30 | Artificial Intelligence Floods Court Dockets with Home-Brewed Lawsuits | NYT · AI | AI | news | 2026-05-28 | [link](https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html) |
+| 2026-05-30 | The First A.I. High School in the U.S. Is Surprisingly Human | NYT · AI | AI | opinion | 2026-05-30 | [link](https://www.nytimes.com/2026/05/30/opinion/ai-high-school.html) |
+| 2026-05-30 | My Partner’s Dependence on Chatbots Is Becoming a Problem. How Do I Tell Him? | NYT · AI | AI | news | 2026-05-30 | [link](https://www.nytimes.com/2026/05/30/magazine/partner-chatbot-dependence-ethics.html) |
+| 2026-05-30 | This Is Why Your Groceries Are So Expensive | NYT · Opinion | Opinion | opinion | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/opinion/business-economics/groceries-expensive-price-fixing-consolidation.html) |
+| 2026-05-30 | Tilly Norwood, A.I. Actress, Wants to Know Why Everyone’s Mad at Her | NYT · AI | AI | news | 2026-05-31 | [link](https://www.nytimes.com/2026/05/31/magazine/ai-actress-tilly-norwood.html) |
+| 2026-05-30 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
+| 2026-05-30 | Should We Let Robots Kill People? | NYT · Opinion | Opinion | opinion | 2026-05-29 | [link](https://www.nytimes.com/video/opinion/100000010921316/should-we-let-robots-kill-people.html) |
+| 2026-05-30 | Running Python ASGI apps in the browser via Pyodide + a service worker | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-30 | [link](https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything) |
+| 2026-05-30 | How we contain Claude across products | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-30 | [link](https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything) |
+| 2026-05-30 | Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-30 | [link](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/) |
+| 2026-05-30 | Daniel Jalkut on AI | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-30 | [link](https://mastodon.social/@danielpunkass/116639318125898071) |
+| 2026-05-30 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-29 | The dead economy theory | HN | Technology | tech | 2026-05-29 | [link](https://www.owenmcgrann.com/p/the-dead-economy-theory) |
 | 2026-05-29 | I am retiring from tech to live offline | HN | Technology | tech | 2026-05-29 | [link](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/) |
 | 2026-05-29 | Please Use AI | HN | Technology | tech | 2026-05-29 | [link](https://shawnsmucker.substack.com/p/please-use-ai) |
