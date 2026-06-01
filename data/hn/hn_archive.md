@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-05-31 · 397 days · 3970 stories*
+*Last updated: 2026-06-01 · 398 days · 3980 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-05-31 | Sunday | 1 | Cloudflare Turnstile requiring fingerprintable WebGL | 677 | 367 | Technology | [link](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting) · [HN](https://news.ycombinator.com/item?id=48345840) |
+| 2026-05-31 | Sunday | 2 | Codex just found a "workaround" of not having sudo on my PC | 551 | 264 | Technology | [link](https://twitter.com/i/status/2060746160558543217) · [HN](https://news.ycombinator.com/item?id=48348578) |
+| 2026-05-31 | Sunday | 3 | Creatine raises brain energy levels and slows cognitive decline: study | 515 | 344 | Technology | [link](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/) · [HN](https://news.ycombinator.com/item?id=48346947) |
+| 2026-05-31 | Sunday | 4 | The Website Specification | 502 | 200 | Technology | [link](https://specification.website/) · [HN](https://news.ycombinator.com/item?id=48343683) |
+| 2026-05-31 | Sunday | 5 | Dav2d | 487 | 173 | Technology | [link](https://jbkempf.com/blog/2026/dav2d/) · [HN](https://news.ycombinator.com/item?id=48344961) |
+| 2026-05-31 | Sunday | 6 | 1-Bit Bonsai Image 4B Image Generation for Local Devices | 388 | 154 | Technology | [link](https://prismml.com/news/bonsai-image-4b) · [HN](https://news.ycombinator.com/item?id=48346257) |
+| 2026-05-31 | Sunday | 7 | The solution might be cancelling my AI subscription | 361 | 229 | Technology | [link](https://thoughts.hmmz.org/2026-05-31.html) · [HN](https://news.ycombinator.com/item?id=48345896) |
+| 2026-05-31 | Sunday | 8 | United Airlines 767 returns to Newark after Bluetooth name sparks alert | 356 | 691 | Technology | [link](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/) · [HN](https://news.ycombinator.com/item?id=48345248) |
+| 2026-05-31 | Sunday | 9 | I put a datacenter GPU in my gaming PC | 305 | 171 | Technology | [link](https://blog.tymscar.com/posts/v100localllm/) · [HN](https://news.ycombinator.com/item?id=48345694) |
+| 2026-05-31 | Sunday | 10 | London's Free Roof Terraces | 305 | 142 | Technology | [link](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html) · [HN](https://news.ycombinator.com/item?id=48343714) |
 | 2026-05-30 | Saturday | 1 | Microsoft Office 2019 and 2021 for Mac view-only conversion | 859 | 303 | Technology | [link](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)) · [HN](https://news.ycombinator.com/item?id=48341578) |
 | 2026-05-30 | Saturday | 2 | Domain expertise has always been the real moat | 595 | 354 | Technology | [link](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) · [HN](https://news.ycombinator.com/item?id=48340411) |
 | 2026-05-30 | Saturday | 3 | Danish pension fund excludes SpaceX citing governance and valuation | 458 | 12 | Technology | [link](https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/) · [HN](https://news.ycombinator.com/item?id=48333820) |

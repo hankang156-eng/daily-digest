@@ -1,9 +1,49 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-05-31 · 1525 items*
+*Last updated: 2026-06-01 · 1565 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-05-31 | Cloudflare Turnstile requiring fingerprintable WebGL | HN | Technology | tech | 2026-05-31 | [link](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting) |
+| 2026-05-31 | Codex just found a "workaround" of not having sudo on my PC | HN | Technology | tech | 2026-05-31 | [link](https://twitter.com/i/status/2060746160558543217) |
+| 2026-05-31 | Creatine raises brain energy levels and slows cognitive decline: study | HN | Technology | tech | 2026-05-31 | [link](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/) |
+| 2026-05-31 | The Website Specification | HN | Technology | tech | 2026-05-31 | [link](https://specification.website/) |
+| 2026-05-31 | Dav2d | HN | Technology | tech | 2026-05-31 | [link](https://jbkempf.com/blog/2026/dav2d/) |
+| 2026-05-31 | 1-Bit Bonsai Image 4B Image Generation for Local Devices | HN | Technology | tech | 2026-05-31 | [link](https://prismml.com/news/bonsai-image-4b) |
+| 2026-05-31 | The solution might be cancelling my AI subscription | HN | Technology | tech | 2026-05-31 | [link](https://thoughts.hmmz.org/2026-05-31.html) |
+| 2026-05-31 | United Airlines 767 returns to Newark after Bluetooth name sparks alert | HN | Technology | tech | 2026-05-31 | [link](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/) |
+| 2026-05-31 | I put a datacenter GPU in my gaming PC | HN | Technology | tech | 2026-05-31 | [link](https://blog.tymscar.com/posts/v100localllm/) |
+| 2026-05-31 | London's Free Roof Terraces | HN | Technology | tech | 2026-05-31 | [link](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html) |
+| 2026-05-31 | Chuwi Minibook X | HN | Technology | tech | 2026-05-31 | [link](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/) |
+| 2026-05-31 | Restartable Sequences | HN | Technology | tech | 2026-05-31 | [link](https://justine.lol/rseq/) |
+| 2026-05-31 | Meta launches Instagram, Facebook, and WhatsApp subscriptions | HN | Technology | tech | 2026-05-31 | [link](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/) |
+| 2026-05-31 | ChatGPT for Google Sheets exfiltrates workbooks | HN | Technology | tech | 2026-05-31 | [link](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration) |
+| 2026-05-31 | Deflock hits 100k ALPRs Mapped in USA | HN | Technology | tech | 2026-05-31 | [link](https://deflock.org/) |
+| 2026-05-31 | 'Backrooms' Stuns with $81M Debut | HN | Technology | tech | 2026-05-31 | [link](https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/) |
+| 2026-05-31 | Chinese Military Sought Nvidia Chips for Years, Report Says | NYT · AI | AI | news | 2026-06-01 | [link](https://www.nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html) |
+| 2026-05-31 | S.E.C. Proposes to Kill Climate Change Disclosure Rule | NYT · Energy & Environment | Energy & Environment | news | 2026-05-31 | [link](https://www.nytimes.com/2026/05/29/climate/sec-climate-disclosure-rule.html) |
+| 2026-05-31 | What Is Airbnb For, Exactly? | NYT · AI | AI | news | 2026-05-31 | [link](https://www.nytimes.com/2026/05/31/business/airbnb-brian-chesky.html) |
+| 2026-05-31 | China Aims A.I. at Predicting Who Could Pose a Political Risk | NYT · AI | AI | news | 2026-06-01 | [link](https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html) |
+| 2026-05-31 | How NextEra Energy Wielded Political Power in Florida | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/business/energy-environment/nextera-energy-florida-politics-dominion.html) |
+| 2026-05-31 | We Have to Take the Future of A.I. Into Our Own Hands | NYT · AI | AI | opinion | 2026-05-31 | [link](https://www.nytimes.com/2026/05/31/opinion/artificial-intelligence-public-good.html) |
+| 2026-05-31 | The Joy of Hate-Watching A.I. Slop | NYT · AI | AI | opinion | 2026-06-01 | [link](https://www.nytimes.com/2026/06/01/opinion/fruit-love-island-ai-slop.html) |
+| 2026-05-31 | Sky-High I.P.O. Pricing Isn’t Great for Real People | NYT · Business | Business | news | 2026-05-30 | [link](https://www.nytimes.com/2026/05/29/business/spacex-openai-anthropic-ipo-invest.html) |
+| 2026-05-31 | Nvidia Has a Plan to Put Its Chips in Personal Computers | NYT · AI | AI | news | 2026-06-01 | [link](https://www.nytimes.com/2026/06/01/technology/nvidia-chips-personal-computers.html) |
+| 2026-05-31 | Powerful A.I. Super PACs Duel Over the Midterms: ‘This Is a War’ | NYT · Technology | Technology | news | 2026-05-30 | [link](https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html) |
+| 2026-05-31 | Bernie Sanders: A.I. Belongs to the People, Not to Billionaires | NYT · AI | AI | opinion | 2026-06-01 | [link](https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html) |
+| 2026-05-31 | The $900 Billion Giant: How Anthropic Got So Big, So Fast | NYT · Business | Business | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/business/dealbook/anthropic-ai-openai.html) |
+| 2026-05-31 | A Clean Energy PAC Helped Beat Chip Roy, and Now It Has New Targets | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/climate/clean-energy-pac-chip-roy.html) |
+| 2026-05-31 | What It’s Like to Be a Student at the First A.I.-Powered University | NYT · AI | AI | news | 2026-06-01 | [link](https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html) |
+| 2026-05-31 | How Should You Use A.I. Ethically? | NYT · AI | AI | news | 2026-05-31 | [link](https://www.nytimes.com/2026/05/31/briefing/pope-leo-encyclical-ai-ethics.html) |
+| 2026-05-31 | Scene Stealer | NYT · AI | AI | news | 2026-05-31 | [link](https://www.nytimes.com/2026/05/31/briefing/ai-actress-tilly-norwood.html) |
+| 2026-05-31 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
+| 2026-05-31 | Germany Has Lost What It Did Best | NYT · AI | AI | opinion | 2026-06-01 | [link](https://www.nytimes.com/2026/06/01/opinion/germany-economy-merz-trump.html) |
+| 2026-05-31 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
+| 2026-05-31 | Joby Demonstrated its Air Taxi in Manhattan, but You Can’t Fly in It Yet | NYT · Technology | Technology | news | 2026-05-31 | [link](https://www.nytimes.com/2026/05/31/business/air-taxis-joby-helicopters.html) |
+| 2026-05-31 | The solution might be cancelling my AI subscription | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-31 | [link](https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything) |
+| 2026-05-31 | datasette 1.0a32 | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-31 | [link](https://simonwillison.net/2026/May/31/datasette/#atom-everything) |
+| 2026-05-31 | Who are the actors in the UK's 2015 passport? | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-05-31 | [link](https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/) |
+| 2026-05-31 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-30 | Microsoft Office 2019 and 2021 for Mac view-only conversion | HN | Technology | tech | 2026-05-30 | [link](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)) |
 | 2026-05-30 | Domain expertise has always been the real moat | HN | Technology | tech | 2026-05-30 | [link](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) |
 | 2026-05-30 | Danish pension fund excludes SpaceX citing governance and valuation | HN | Technology | tech | 2026-05-30 | [link](https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/) |
