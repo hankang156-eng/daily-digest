@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-01 · 398 days · 3980 stories*
+*Last updated: 2026-06-02 · 399 days · 3990 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-01 | Monday | 1 | The newest Instagram “exploit” is the goofiest I've seen | 1810 | 415 | Technology | [link](https://www.0xsid.com/blog/meta-account-takeover-fiasco) · [HN](https://news.ycombinator.com/item?id=48359102) |
+| 2026-06-01 | Monday | 2 | Malicious npm packages detected across Red Hat Cloud Services | 750 | 429 | Technology | [link](https://github.com/RedHatInsights/javascript-clients/issues/492) · [HN](https://news.ycombinator.com/item?id=48356625) |
+| 2026-06-01 | Monday | 3 | A 10 year old Xeon is all you need | 694 | 274 | Technology | [link](https://point.free/blog/gemma-4-on-a-2016-xeon/) · [HN](https://news.ycombinator.com/item?id=48353348) |
+| 2026-06-01 | Monday | 4 | The Pirate Bay Remains Resilient, 20 Years After the Raid | 576 | 265 | Technology | [link](https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/) · [HN](https://news.ycombinator.com/item?id=48357154) |
+| 2026-06-01 | Monday | 5 | Anthropic confidentially submits draft S-1 to the SEC | 498 | 405 | Technology | [link](https://www.anthropic.com/news/confidential-draft-s1-sec) · [HN](https://news.ycombinator.com/item?id=48358646) |
+| 2026-06-01 | Monday | 6 | CS336: Language Modeling from Scratch | 463 | 47 | Technology | [link](https://cs336.stanford.edu/) · [HN](https://news.ycombinator.com/item?id=48357075) |
+| 2026-06-01 | Monday | 7 | AI Agent Guidelines for CS336 at Stanford | 417 | 137 | Technology | [link](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md) · [HN](https://news.ycombinator.com/item?id=48359232) |
+| 2026-06-01 | Monday | 8 | Nvidia RTX Spark | 392 | 382 | Technology | [link](https://www.nvidia.com/en-us/products/rtx-spark/) · [HN](https://news.ycombinator.com/item?id=48352939) |
+| 2026-06-01 | Monday | 9 | Can the stockmarket swallow Anthropic, SpaceX and OpenAI? | 368 | 641 | Technology | [link](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai) · [HN](https://news.ycombinator.com/item?id=48364055) |
+| 2026-06-01 | Monday | 10 | DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms | 299 | 144 | Technology | [link](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/) · [HN](https://news.ycombinator.com/item?id=48359130) |
 | 2026-05-31 | Sunday | 1 | Cloudflare Turnstile requiring fingerprintable WebGL | 677 | 367 | Technology | [link](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting) · [HN](https://news.ycombinator.com/item?id=48345840) |
 | 2026-05-31 | Sunday | 2 | Codex just found a "workaround" of not having sudo on my PC | 551 | 264 | Technology | [link](https://twitter.com/i/status/2060746160558543217) · [HN](https://news.ycombinator.com/item?id=48348578) |
 | 2026-05-31 | Sunday | 3 | Creatine raises brain energy levels and slows cognitive decline: study | 515 | 344 | Technology | [link](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/) · [HN](https://news.ycombinator.com/item?id=48346947) |

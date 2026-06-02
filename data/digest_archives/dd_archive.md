@@ -1,9 +1,54 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-01 · 1565 items*
+*Last updated: 2026-06-02 · 1610 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-01 | The newest Instagram “exploit” is the goofiest I've seen | HN | Technology | tech | 2026-06-01 | [link](https://www.0xsid.com/blog/meta-account-takeover-fiasco) |
+| 2026-06-01 | Malicious npm packages detected across Red Hat Cloud Services | HN | Technology | tech | 2026-06-01 | [link](https://github.com/RedHatInsights/javascript-clients/issues/492) |
+| 2026-06-01 | A 10 year old Xeon is all you need | HN | Technology | tech | 2026-06-01 | [link](https://point.free/blog/gemma-4-on-a-2016-xeon/) |
+| 2026-06-01 | The Pirate Bay Remains Resilient, 20 Years After the Raid | HN | Technology | tech | 2026-06-01 | [link](https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/) |
+| 2026-06-01 | Anthropic confidentially submits draft S-1 to the SEC | HN | Technology | tech | 2026-06-01 | [link](https://www.anthropic.com/news/confidential-draft-s1-sec) |
+| 2026-06-01 | CS336: Language Modeling from Scratch | HN | Technology | tech | 2026-06-01 | [link](https://cs336.stanford.edu/) |
+| 2026-06-01 | AI Agent Guidelines for CS336 at Stanford | HN | Technology | tech | 2026-06-01 | [link](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md) |
+| 2026-06-01 | Nvidia RTX Spark | HN | Technology | tech | 2026-06-01 | [link](https://www.nvidia.com/en-us/products/rtx-spark/) |
+| 2026-06-01 | Can the stockmarket swallow Anthropic, SpaceX and OpenAI? | HN | Technology | tech | 2026-06-01 | [link](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai) |
+| 2026-06-01 | DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms | HN | Technology | tech | 2026-06-01 | [link](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/) |
+| 2026-06-01 | OpenAI frontier models and Codex are now available on AWS | HN | Technology | tech | 2026-06-01 | [link](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/) |
+| 2026-06-01 | Age verification for social media, the beginning of the end for a free internet? | HN | Technology | tech | 2026-06-01 | [link](https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet) |
+| 2026-06-01 | Should you normalize RGB values by 255 or 256? | HN | Technology | tech | 2026-06-01 | [link](https://30fps.net/pages/255-vs-256-division/) |
+| 2026-06-01 | macOS needs its grid back | HN | Technology | tech | 2026-06-01 | [link](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/) |
+| 2026-06-01 | KDE at 30 | HN | Technology | tech | 2026-06-01 | [link](https://kde.org/anniversaries/30/) |
+| 2026-06-01 | What appear to be biochemical processes may be a natural feature of geology | HN | Technology | tech | 2026-06-01 | [link](https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/) |
+| 2026-06-01 | Chinese Military Sought Nvidia Chips for Years, Report Says | NYT · AI | AI | news | 2026-06-01 | [link](https://www.nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html) |
+| 2026-06-01 | How Box Created 13 New Types of Jobs Because of A.I. | NYT · AI | AI | news | 2026-06-01 | [link](https://www.nytimes.com/2026/06/01/technology/box-13-new-types-jobs-ai.html) |
+| 2026-06-01 | Ex-F.B.I. Officials Form New Group to Help Agents Grapple With Patel’s Changes | NYT · Politics | Politics | news | 2026-06-01 | [link](https://www.nytimes.com/2026/06/01/us/politics/fbi-support-network-agents-trump-patel.html) |
+| 2026-06-01 | China Aims A.I. at Predicting Who Could Pose a Political Risk | NYT · AI | AI | news | 2026-06-01 | [link](https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html) |
+| 2026-06-01 | A.I. Doesn’t Have to Mean Layoffs | NYT · Economy | Economy | news | 2026-06-02 | [link](https://www.nytimes.com/2026/05/29/business/economy/ai-jobs-productivity.html) |
+| 2026-06-01 | S.E.C. Proposes to Kill Climate Change Disclosure Rule | NYT · Energy & Environment | Energy & Environment | news | 2026-05-31 | [link](https://www.nytimes.com/2026/05/29/climate/sec-climate-disclosure-rule.html) |
+| 2026-06-01 | Is A.I. Replacing Tech Workers or Providing an Excuse for Job Cuts? | NYT · AI | AI | news | 2026-06-01 | [link](https://www.nytimes.com/2026/06/01/technology/ai-tech-job-cuts.html) |
+| 2026-06-01 | Florida Sues OpenAI Over Chatbot Safety Concerns | NYT · AI | AI | news | 2026-06-01 | [link](https://www.nytimes.com/2026/06/01/technology/florida-sues-openai-chatgpt-safety.html) |
+| 2026-06-01 | Tribeca Festival 25th Anniversary: An Interview With Robert De Niro, Jane Rosenthal, Rebecca Glashow | NYT · AI | AI | news | 2026-06-01 | [link](https://www.nytimes.com/2026/06/01/movies/tribeca-festival-25-deniro-rosenthal-glashow.html) |
+| 2026-06-01 | Barry Diller’s People Inc. Plans a Takeover Bid for MGM Resorts | NYT · Business | Business | news | 2026-06-01 | [link](https://www.nytimes.com/2026/06/01/business/dealbook/diller-people-mgm-resorts.html) |
+| 2026-06-01 | How NextEra Energy Wielded Political Power in Florida | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/business/energy-environment/nextera-energy-florida-politics-dominion.html) |
+| 2026-06-01 | Can Content Creators Get Rich Off A.I. Slop Like Tung Tung Tung Sahur? | NYT · AI | AI | news | 2026-06-01 | [link](https://www.nytimes.com/interactive/2026/06/01/magazine/ai-slop-viral-videos.html) |
+| 2026-06-01 | Anthropic Files to Go Public, Setting Stage for Huge I.P.O. | NYT · AI | AI | news | 2026-06-01 | [link](https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html) |
+| 2026-06-01 | Sky-High I.P.O. Pricing Isn’t Great for Real People | NYT · Business | Business | news | 2026-05-30 | [link](https://www.nytimes.com/2026/05/29/business/spacex-openai-anthropic-ipo-invest.html) |
+| 2026-06-01 | Why America Is Its Own Biggest Geopolitical Risk | NYT · AI | AI | opinion | 2026-06-02 | [link](https://www.nytimes.com/2026/06/02/opinion/ezra-klein-podcast-ian-bremmer.html) |
+| 2026-06-01 | Ian Bremmer on the Risks America Poses to the World | NYT · AI | AI | opinion | 2026-06-02 | [link](https://www.nytimes.com/video/opinion/100000010932835/ian-bremmer-on-the-risks-america-poses-to-the-world.html) |
+| 2026-06-01 | Bernie Sanders: A.I. Belongs to the People, Not to Billionaires | NYT · AI | AI | opinion | 2026-06-01 | [link](https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html) |
+| 2026-06-01 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
+| 2026-06-01 | A Clean Energy PAC Helped Beat Chip Roy, and Now It Has New Targets | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/climate/clean-energy-pac-chip-roy.html) |
+| 2026-06-01 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
+| 2026-06-01 | 1,000 Data Breaches Later, the Disclosure Lag is Worse Than Ever | Troy Hunt · Security & Privacy | Security | tech | 2026-06-01 | [link](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/) |
+| 2026-06-01 | Weekly Update 506 | Troy Hunt · Security & Privacy | Security | tech | 2026-06-01 | [link](https://www.troyhunt.com/weekly-update-506/) |
+| 2026-06-01 | Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-01 | [link](https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything) |
+| 2026-06-01 | Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts | Krebs on Security · Security & Privacy | Security | tech | 2026-06-01 | [link](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/) |
+| 2026-06-01 | DeepMind CEO Demis Hassabis says AGI may arrive by 2029, warns world unprepared | Superpower Daily · Tech & Engineering | Technology | tech | 2026-06-01 | [link](https://www.superpowerdaily.com/p/deepmind-ceo-demis-hassabis-says-agi-may-arrive-by-2029-warns-world-unprepared) |
+| 2026-06-01 | exe.dev | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-01 | [link](https://exe.dev/?df) |
+| 2026-06-01 | Take Two | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-01 | [link](https://x.com/markgurman/status/2061236259843182813) |
+| 2026-06-01 | May 2026 newsletter | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-01 | [link](https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything) |
+| 2026-06-01 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-31 | Cloudflare Turnstile requiring fingerprintable WebGL | HN | Technology | tech | 2026-05-31 | [link](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting) |
 | 2026-05-31 | Codex just found a "workaround" of not having sudo on my PC | HN | Technology | tech | 2026-05-31 | [link](https://twitter.com/i/status/2060746160558543217) |
 | 2026-05-31 | Creatine raises brain energy levels and slows cognitive decline: study | HN | Technology | tech | 2026-05-31 | [link](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/) |
