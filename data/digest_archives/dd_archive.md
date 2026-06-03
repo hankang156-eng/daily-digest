@@ -1,9 +1,51 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-02 · 1610 items*
+*Last updated: 2026-06-03 · 1652 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-02 | Gmail thinks I'm stupid, so I left | HN | Technology | tech | 2026-06-02 | [link](https://moddedbear.com/gmail-thinks-im-stupid-so-i-left) |
+| 2026-06-02 | Please don't spam people looking for employment. It's just cruel | HN | Technology | tech | 2026-06-02 | [link](https://news.ycombinator.com/item?id=48370330) |
+| 2026-06-02 | Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai | HN | Technology | tech | 2026-06-02 | [link](https://blog.adafruit.com/) |
+| 2026-06-02 | 1-Click GitHub Token Stealing via a VSCode Bug | HN | Technology | tech | 2026-06-02 | [link](https://blog.ammaraskar.com/github-token-stealing/) |
+| 2026-06-02 | MAI-Code-1-Flash | HN | Technology | tech | 2026-06-02 | [link](https://microsoft.ai/news/introducingmai-code-1-flash/) |
+| 2026-06-02 | Why Janet? (2023) | HN | Technology | tech | 2026-06-02 | [link](https://ianthehenry.com/posts/why-janet/) |
+| 2026-06-02 | CT scans of BYD car parts | HN | Technology | tech | 2026-06-02 | [link](https://www.lumafield.com/scan-of-the-month/byd) |
+| 2026-06-02 | A walking tour of surveillance infrastructure in Seattle (2020) | HN | Technology | tech | 2026-06-02 | [link](https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/) |
+| 2026-06-02 | Use your Nvidia GPU's VRAM as swap space on Linux | HN | Technology | tech | 2026-06-02 | [link](https://github.com/c0dejedi/nbd-vram) |
+| 2026-06-02 | Love systemd timers | HN | Technology | tech | 2026-06-02 | [link](https://blog.tjll.net/you-dont-love-systemd-timers-enough/) |
+| 2026-06-02 | AI outperforms law professors in Stanford Law study | HN | Technology | tech | 2026-06-02 | [link](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/) |
+| 2026-06-02 | Larry Ellison: "Citizens will be on their best behavior because we’re recording" | HN | Technology | tech | 2026-06-02 | [link](https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy) |
+| 2026-06-02 | Apple rejected my dictation app for using the accessibility API | HN | Technology | tech | 2026-06-02 | [link](https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/) |
+| 2026-06-02 | Stop Ruining It | HN | Technology | tech | 2026-06-02 | [link](https://seths.blog/2026/06/stop-ruining-it/) |
+| 2026-06-02 | My thoughts after using Clojure for about a month | HN | Technology | tech | 2026-06-02 | [link](https://www.acdw.net/clojure/) |
+| 2026-06-02 | Show HN: Eyeball | HN | Technology | tech | 2026-06-02 | [link](https://eyeball.rory.codes/) |
+| 2026-06-02 | European Union Outlines Plan to Reduce Dependence on American Tech | NYT · AI | AI | news | 2026-06-03 | [link](https://www.nytimes.com/2026/06/03/technology/european-union-tech-sovereignty.html) |
+| 2026-06-02 | What’s Driving Trump’s Big A.I. Pivot | NYT · AI | AI | news | 2026-06-03 | [link](https://www.nytimes.com/2026/06/03/business/dealbook/trump-ai-pivot.html) |
+| 2026-06-02 | S.E.C. Proposes to Kill Climate Change Disclosure Rule | NYT · Energy & Environment | Energy & Environment | news | 2026-06-02 | [link](https://www.nytimes.com/2026/05/29/climate/sec-climate-disclosure-rule.html) |
+| 2026-06-02 | Congress to Consider Restricting How the Military Uses A.I. | NYT · AI | AI | news | 2026-06-02 | [link](https://www.nytimes.com/2026/06/02/us/politics/military-ai-laws-congress.html) |
+| 2026-06-02 | What Elon Musk Really Wants From the SpaceX I.P.O. | NYT · AI | AI | opinion | 2026-06-03 | [link](https://www.nytimes.com/2026/06/03/opinion/elon-musk-spacex-ipo-leo-rockefeller.html) |
+| 2026-06-02 | U.S. Is Said to Be Investigating George Santos Over Kalshi Betting | NYT · Politics | Politics | news | 2026-06-03 | [link](https://www.nytimes.com/2026/06/02/us/politics/george-santos-investigation-prediction-markets.html) |
+| 2026-06-02 | Scientists Find Way to Supercharge Dangerous Computer ‘Worms’ With A.I. | NYT · AI | AI | news | 2026-06-03 | [link](https://www.nytimes.com/2026/06/02/technology/scientists-find-way-to-supercharge-dangerous-computer-worms-with-ai.html) |
+| 2026-06-02 | A.I. Doesn’t Have to Mean Layoffs | NYT · Economy | Economy | news | 2026-06-02 | [link](https://www.nytimes.com/2026/05/29/business/economy/ai-jobs-productivity.html) |
+| 2026-06-02 | Trump Signs Executive Order Seeking Oversight of A.I. Models | NYT · AI | AI | news | 2026-06-03 | [link](https://www.nytimes.com/2026/06/02/technology/trump-executive-order-ai.html) |
+| 2026-06-02 | Chinese Military Sought Nvidia Chips for Years, Report Says | NYT · Economy | Economy | news | 2026-06-01 | [link](https://www.nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html) |
+| 2026-06-02 | Katie Porter: 5 Facts About the Candidate for California Governor | NYT · Politics | Politics | news | 2026-06-03 | [link](https://www.nytimes.com/2026/06/02/us/politics/katie-porter-california-governor.html) |
+| 2026-06-02 | How Box Created 13 New Types of Jobs Because of A.I. | NYT · Economy | Economy | news | 2026-06-01 | [link](https://www.nytimes.com/2026/06/01/technology/box-13-new-types-jobs-ai.html) |
+| 2026-06-02 | Florida Sues OpenAI Over Chatbot Safety Concerns | NYT · Technology | Technology | news | 2026-06-01 | [link](https://www.nytimes.com/2026/06/01/technology/florida-sues-openai-chatgpt-safety.html) |
+| 2026-06-02 | Martin Scorsese Is Embracing A.I. | NYT · AI | AI | news | 2026-06-02 | [link](https://www.nytimes.com/2026/06/02/business/media/martin-scorsese-artificial-intelligence.html) |
+| 2026-06-02 | Feeling Nihilistic? You’re Not Alone. | NYT · AI | AI | opinion | 2026-06-03 | [link](https://www.nytimes.com/2026/06/03/opinion/american-dream-politics-negativity.html) |
+| 2026-06-02 | Why America Is Its Own Biggest Geopolitical Risk | NYT · AI | AI | opinion | 2026-06-03 | [link](https://www.nytimes.com/2026/06/02/opinion/ezra-klein-podcast-ian-bremmer.html) |
+| 2026-06-02 | Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid | NYT · Energy & Environment | Energy & Environment | news | 2026-05-19 | [link](https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html) |
+| 2026-06-02 | How NextEra Energy Wielded Political Power in Florida | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/business/energy-environment/nextera-energy-florida-politics-dominion.html) |
+| 2026-06-02 | Trump Eases Restrictions on Climate ‘Super Pollutants’ | NYT · Energy & Environment | Energy & Environment | news | 2026-05-21 | [link](https://www.nytimes.com/2026/05/21/climate/trump-super-pollutants-hfc-epa-climate-change.html) |
+| 2026-06-02 | Pushing Treatment, Trump Administration Limits Housing Aid for Homeless | NYT · Politics | Politics | news | 2026-06-03 | [link](https://www.nytimes.com/2026/06/02/us/politics/housing-first-homeless-hud.html) |
+| 2026-06-02 | Microsoft's new MAI models | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-02 | [link](https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything) |
+| 2026-06-02 | [Sponsor] Mux — Video for Developers | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-02 | [link](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) |
+| 2026-06-02 | Pasted File Editor | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-02 | [link](https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything) |
+| 2026-06-02 | ‘The Metaverse Fever Dream’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-02 | [link](https://pxlnv.com/blog/metaverse-fever-dream/) |
+| 2026-06-02 | Using FourSquare's API to post location checkins to social media | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-06-02 | [link](https://shkspr.mobi/blog/2026/06/using-foursquares-api-to-post-location-checkins-to-social-media/) |
+| 2026-06-02 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-01 | The newest Instagram “exploit” is the goofiest I've seen | HN | Technology | tech | 2026-06-01 | [link](https://www.0xsid.com/blog/meta-account-takeover-fiasco) |
 | 2026-06-01 | Malicious npm packages detected across Red Hat Cloud Services | HN | Technology | tech | 2026-06-01 | [link](https://github.com/RedHatInsights/javascript-clients/issues/492) |
 | 2026-06-01 | A 10 year old Xeon is all you need | HN | Technology | tech | 2026-06-01 | [link](https://point.free/blog/gemma-4-on-a-2016-xeon/) |

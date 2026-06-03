@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-02 · 399 days · 3990 stories*
+*Last updated: 2026-06-03 · 400 days · 4000 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-02 | Tuesday | 1 | Gmail thinks I'm stupid, so I left | 1093 | 726 | Technology | [link](https://moddedbear.com/gmail-thinks-im-stupid-so-i-left) · [HN](https://news.ycombinator.com/item?id=48375016) |
+| 2026-06-02 | Tuesday | 2 | Please don't spam people looking for employment. It's just cruel | 944 | 265 | Technology | [link](https://news.ycombinator.com/item?id=48370330) · [HN](https://news.ycombinator.com/item?id=48370330) |
+| 2026-06-02 | Tuesday | 3 | Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai | 662 | 272 | Technology | [link](https://blog.adafruit.com/) · [HN](https://news.ycombinator.com/item?id=48368121) |
+| 2026-06-02 | Tuesday | 4 | 1-Click GitHub Token Stealing via a VSCode Bug | 552 | 82 | Technology | [link](https://blog.ammaraskar.com/github-token-stealing/) · [HN](https://news.ycombinator.com/item?id=48371562) |
+| 2026-06-02 | Tuesday | 5 | MAI-Code-1-Flash | 507 | 237 | Technology | [link](https://microsoft.ai/news/introducingmai-code-1-flash/) · [HN](https://news.ycombinator.com/item?id=48374466) |
+| 2026-06-02 | Tuesday | 6 | Why Janet? (2023) | 470 | 255 | Technology | [link](https://ianthehenry.com/posts/why-janet/) · [HN](https://news.ycombinator.com/item?id=48367907) |
+| 2026-06-02 | Tuesday | 7 | CT scans of BYD car parts | 453 | 315 | Technology | [link](https://www.lumafield.com/scan-of-the-month/byd) · [HN](https://news.ycombinator.com/item?id=48375824) |
+| 2026-06-02 | Tuesday | 8 | A walking tour of surveillance infrastructure in Seattle (2020) | 402 | 300 | Technology | [link](https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/) · [HN](https://news.ycombinator.com/item?id=48369980) |
+| 2026-06-02 | Tuesday | 9 | Use your Nvidia GPU's VRAM as swap space on Linux | 396 | 105 | Technology | [link](https://github.com/c0dejedi/nbd-vram) · [HN](https://news.ycombinator.com/item?id=48377404) |
+| 2026-06-02 | Tuesday | 10 | Love systemd timers | 381 | 263 | Technology | [link](https://blog.tjll.net/you-dont-love-systemd-timers-enough/) · [HN](https://news.ycombinator.com/item?id=48367904) |
 | 2026-06-01 | Monday | 1 | The newest Instagram “exploit” is the goofiest I've seen | 1810 | 415 | Technology | [link](https://www.0xsid.com/blog/meta-account-takeover-fiasco) · [HN](https://news.ycombinator.com/item?id=48359102) |
 | 2026-06-01 | Monday | 2 | Malicious npm packages detected across Red Hat Cloud Services | 750 | 429 | Technology | [link](https://github.com/RedHatInsights/javascript-clients/issues/492) · [HN](https://news.ycombinator.com/item?id=48356625) |
 | 2026-06-01 | Monday | 3 | A 10 year old Xeon is all you need | 694 | 274 | Technology | [link](https://point.free/blog/gemma-4-on-a-2016-xeon/) · [HN](https://news.ycombinator.com/item?id=48353348) |
