@@ -1,9 +1,51 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-05 · 1672 items*
+*Last updated: 2026-06-05 · 1714 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-04 | SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P | HN | Technology | tech | 2026-06-04 | [link](https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation) |
+| 2026-06-04 | VoidZero Is Joining Cloudflare | HN | Technology | tech | 2026-06-04 | [link](https://blog.cloudflare.com/voidzero-joins-cloudflare/) |
+| 2026-06-04 | Ian's Secure Shoelace Knot | HN | Technology | tech | 2026-06-04 | [link](https://www.fieggen.com/shoelace/secureknot.htm) |
+| 2026-06-04 | Anthropic's open-source framework for AI-powered vulnerability discovery | HN | Technology | tech | 2026-06-04 | [link](https://github.com/anthropics/defending-code-reference-harness) |
+| 2026-06-04 | When AI Builds Itself: Our progress toward recursive self-improvement | HN | Technology | tech | 2026-06-04 | [link](https://www.anthropic.com/institute/recursive-self-improvement) |
+| 2026-06-04 | French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56 | HN | Technology | tech | 2026-06-04 | [link](https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56) |
+| 2026-06-04 | Wind and solar generated more power than gas globally in April 2026 | HN | Technology | tech | 2026-06-04 | [link](https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/) |
+| 2026-06-04 | The desperation of NYTimes | HN | Technology | tech | 2026-06-04 | [link](https://rozumem.xyz/posts/16) |
+| 2026-06-04 | UK media fails to disclose defence sector links in nearly 60% of cases | HN | Technology | tech | 2026-06-04 | [link](https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/) |
+| 2026-06-04 | Retro-Tech Parenting | HN | Technology | tech | 2026-06-04 | [link](https://havenweb.org/2026/05/28/retro-tech.html) |
+| 2026-06-04 | Meta's ships facial recognition on smart glasses | HN | Technology | tech | 2026-06-04 | [link](https://www.buchodi.com/meta-glasses-facial-recognition/) |
+| 2026-06-04 | Meta enables ADB on deprecated Portal devices [video] | HN | Technology | tech | 2026-06-04 | [link](https://fb.watch/HxPu0fSyeH/) |
+| 2026-06-04 | Open Code Review – An AI-powered code review CLI tool | HN | Technology | tech | 2026-06-04 | [link](https://github.com/alibaba/open-code-review) |
+| 2026-06-04 | Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites | HN | Technology | tech | 2026-06-04 | [link](https://uruky.com/?il=en) |
+| 2026-06-04 | Do transformers need three projections? Systematic study of QKV variants | HN | Technology | tech | 2026-06-04 | [link](https://arxiv.org/abs/2606.04032) |
+| 2026-06-04 | Sagrada Família Lego set | HN | Technology | tech | 2026-06-04 | [link](https://www.lego.com/en-us/product/sagrada-familia-21065) |
+| 2026-06-04 | Central Ohio Becomes Hub for Tech and Manufacturing | NYT · AI | AI | news | 2026-06-05 | [link](https://www.nytimes.com/2026/06/05/business/ohio-tech-manufacturing-hub.html) |
+| 2026-06-04 | Why the SpaceX IPO Will Affect Your 401(k), Like It or Not | NYT · AI | AI | news | 2026-06-05 | [link](https://www.nytimes.com/2026/06/05/technology/spacex-indexes-401k.html) |
+| 2026-06-04 | The Small-Business Owners Managing Whole Armies of A.I. Employees | NYT · AI | AI | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html) |
+| 2026-06-04 | Anthropic’s Call for A.I. Nonproliferation | NYT · AI | AI | news | 2026-06-05 | [link](https://www.nytimes.com/2026/06/05/business/dealbook/anthropic-ai-nonproliferation.html) |
+| 2026-06-04 | Wary of U.S., Carney Bets on AI Strategy for Canada | NYT · AI | AI | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/world/canada/canada-national-ai-strategy.html) |
+| 2026-06-04 | Elon Musk Dominates List of Highest Paid C.E.O.s | NYT · Business | Business | news | 2026-06-05 | [link](https://www.nytimes.com/2026/06/05/business/highest-paid-ceos-elon-musk.html) |
+| 2026-06-04 | SpaceX IPO to Be Largest Ever at $135 Share Price | NYT · Technology | Technology | news | 2026-06-05 | [link](https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html) |
+| 2026-06-04 | Supreme Court Finds S.E.C. Can Strip Wrongdoers of Illegal Financial Gains, Even Without Proof of Vi | NYT · Business | Business | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/us/politics/supreme-court-sec-disgorgement.html) |
+| 2026-06-04 | Trump Is Finally Facing Reality on A.I. | NYT · Opinion | Opinion | opinion | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/opinion/trump-ai-executive-order-cybersecurity.html) |
+| 2026-06-04 | Hot I.P.O. Summer + What Is A.I. Doing to Math? + HatGPT | NYT · AI | AI | news | 2026-06-05 | [link](https://www.nytimes.com/2026/06/05/podcasts/hardfork-ipo-math.html) |
+| 2026-06-04 | What Are A.I. Agents Actually Doing? | NYT · AI | AI | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/technology/ai-agents-arena.html) |
+| 2026-06-04 | S.E.C. Proposes to Kill Climate Change Disclosure Rule | NYT · Energy & Environment | Energy & Environment | news | 2026-06-02 | [link](https://www.nytimes.com/2026/05/29/climate/sec-climate-disclosure-rule.html) |
+| 2026-06-04 | From Cow-Milking Robots to Weed-Zapping Lasers, Farmers Are Embracing A.I. | NYT · AI | AI | news | 2026-06-05 | [link](https://www.nytimes.com/2026/06/05/magazine/ai-farms-technology.html) |
+| 2026-06-04 | Postal Service Frees Up Enough Cash to Keep Operating for ‘Several Years’ | NYT · Politics | Politics | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/us/politics/postal-service-finances.html) |
+| 2026-06-04 | How NextEra Energy Wielded Political Power in Florida | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/business/energy-environment/nextera-energy-florida-politics-dominion.html) |
+| 2026-06-04 | It’s No Wonder Grads Are Booing Their Commencement Speakers | NYT · AI | AI | opinion | 2026-06-05 | [link](https://www.nytimes.com/2026/06/05/opinion/graduation-speakers-ai-college-commencement.html) |
+| 2026-06-04 | Senators Cassidy and Booker Ask Judge to Maintain Block on $1.8 Billion Fund | NYT · Politics | Politics | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/us/politics/cassidy-booker-lawsuit-trump-fund.html) |
+| 2026-06-04 | Should You Outsource Your Morning Routine to a Chatbot? | NYT · Personal Technology | Personal Technology | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/magazine/ai-chatbot-morning-routine-videos.html) |
+| 2026-06-04 | Trump Keeps Immunity from I.R.S. Audits, Even as $1.8 Billion Fund Falls Away | NYT · Politics | Politics | news | 2026-06-05 | [link](https://www.nytimes.com/2026/06/05/us/politics/trump-immunity-tax-audit.html) |
+| 2026-06-04 | Appeals Court Panel to Hear Arguments Over Trump’s Ballroom | NYT · Politics | Politics | news | 2026-06-05 | [link](https://www.nytimes.com/2026/06/05/us/politics/appeals-court-trump-ballroom.html) |
+| 2026-06-04 | ‘The Insider’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-04 | [link](https://letterboxd.com/film/the-insider/) |
+| 2026-06-04 | ‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-04 | [link](https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ) |
+| 2026-06-04 | AI enthusiasts are in a race against time, AI skeptics are in a race against entropy | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-04 | [link](https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything) |
+| 2026-06-04 | Quoting Emanuel Maiberg, 404 Media | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-04 | [link](https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything) |
+| 2026-06-04 | Book Review: Accessible Communications by Lisa Riemers and Matisse Hamel-Nelis ★★★★★ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-06-04 | [link](https://shkspr.mobi/blog/2026/06/book-review-accessible-communications-by-lisa-riemers-and-matisse-hamel-nelis/) |
+| 2026-06-04 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-03 | They’re made out of weights | HN | Technology | tech | 2026-06-03 | [link](https://maxleiter.com/blog/weights) |
 | 2026-06-03 | Gemma 4 12B: A unified, encoder-free multimodal model | HN | Technology | tech | 2026-06-03 | [link](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) |
 | 2026-06-03 | Elixir v1.20: Now a gradually typed language | HN | Technology | tech | 2026-06-03 | [link](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) |

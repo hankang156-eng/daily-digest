@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-05 · 401 days · 4010 stories*
+*Last updated: 2026-06-05 · 402 days · 4020 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-04 | Thursday | 1 | SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P | 866 | 465 | Technology | [link](https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation) · [HN](https://news.ycombinator.com/item?id=48405718) |
+| 2026-06-04 | Thursday | 2 | VoidZero Is Joining Cloudflare | 660 | 295 | Technology | [link](https://blog.cloudflare.com/voidzero-joins-cloudflare/) · [HN](https://news.ycombinator.com/item?id=48398055) |
+| 2026-06-04 | Thursday | 3 | Ian's Secure Shoelace Knot | 570 | 216 | Technology | [link](https://www.fieggen.com/shoelace/secureknot.htm) · [HN](https://news.ycombinator.com/item?id=48397028) |
+| 2026-06-04 | Thursday | 4 | Anthropic's open-source framework for AI-powered vulnerability discovery | 499 | 140 | Technology | [link](https://github.com/anthropics/defending-code-reference-harness) · [HN](https://news.ycombinator.com/item?id=48403980) |
+| 2026-06-04 | Thursday | 5 | When AI Builds Itself: Our progress toward recursive self-improvement | 492 | 661 | Technology | [link](https://www.anthropic.com/institute/recursive-self-improvement) · [HN](https://news.ycombinator.com/item?id=48400842) |
+| 2026-06-04 | Thursday | 6 | French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56 | 443 | 128 | Technology | [link](https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56) · [HN](https://news.ycombinator.com/item?id=48397233) |
+| 2026-06-04 | Thursday | 7 | Wind and solar generated more power than gas globally in April 2026 | 394 | 374 | Technology | [link](https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/) · [HN](https://news.ycombinator.com/item?id=48399332) |
+| 2026-06-04 | Thursday | 8 | The desperation of NYTimes | 376 | 310 | Technology | [link](https://rozumem.xyz/posts/16) · [HN](https://news.ycombinator.com/item?id=48401965) |
+| 2026-06-04 | Thursday | 9 | UK media fails to disclose defence sector links in nearly 60% of cases | 374 | 214 | Technology | [link](https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/) · [HN](https://news.ycombinator.com/item?id=48395938) |
+| 2026-06-04 | Thursday | 10 | Retro-Tech Parenting | 332 | 231 | Technology | [link](https://havenweb.org/2026/05/28/retro-tech.html) · [HN](https://news.ycombinator.com/item?id=48400588) |
 | 2026-06-03 | Wednesday | 1 | They’re made out of weights | 1473 | 665 | Technology | [link](https://maxleiter.com/blog/weights) · [HN](https://news.ycombinator.com/item?id=48391611) |
 | 2026-06-03 | Wednesday | 2 | Gemma 4 12B: A unified, encoder-free multimodal model | 1042 | 386 | Technology | [link](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) · [HN](https://news.ycombinator.com/item?id=48385906) |
 | 2026-06-03 | Wednesday | 3 | Elixir v1.20: Now a gradually typed language | 980 | 399 | Technology | [link](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) · [HN](https://news.ycombinator.com/item?id=48388324) |
