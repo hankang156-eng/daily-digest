@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-03 · 400 days · 4000 stories*
+*Last updated: 2026-06-05 · 401 days · 4010 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-03 | Wednesday | 1 | They’re made out of weights | 1473 | 665 | Technology | [link](https://maxleiter.com/blog/weights) · [HN](https://news.ycombinator.com/item?id=48391611) |
+| 2026-06-03 | Wednesday | 2 | Gemma 4 12B: A unified, encoder-free multimodal model | 1042 | 386 | Technology | [link](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) · [HN](https://news.ycombinator.com/item?id=48385906) |
+| 2026-06-03 | Wednesday | 3 | Elixir v1.20: Now a gradually typed language | 980 | 399 | Technology | [link](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) · [HN](https://news.ycombinator.com/item?id=48388324) |
+| 2026-06-03 | Wednesday | 4 | Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes | 798 | 763 | Technology | [link](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html) · [HN](https://news.ycombinator.com/item?id=48392004) |
+| 2026-06-03 | Wednesday | 5 | Artificial intelligence is not conscious – Ted Chiang | 767 | 1332 | Technology | [link](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/) · [HN](https://news.ycombinator.com/item?id=48387270) |
+| 2026-06-03 | Wednesday | 6 | Meta workers can opt out of being tracked at work up to 30 min | 762 | 737 | Technology | [link](https://www.bbc.com/news/articles/c93x0k194yno) · [HN](https://news.ycombinator.com/item?id=48383220) |
+| 2026-06-03 | Wednesday | 7 | I was recently diagnosed with anti-NMDA receptor encephalitis | 742 | 248 | Technology | [link](https://burntsushi.net/encephalitis/) · [HN](https://news.ycombinator.com/item?id=48384355) |
+| 2026-06-03 | Wednesday | 8 | Pwnd Blaster: Hacking your PC using your speaker without ever touching it | 688 | 118 | Technology | [link](https://blog.nns.ee/2026/06/03/katana-badusb/) · [HN](https://news.ycombinator.com/item?id=48382310) |
+| 2026-06-03 | Wednesday | 9 | U.S. to dismantle system tracking Atlantic currents that are at risk of collapse | 623 | 473 | Technology | [link](https://e360.yale.edu/digest/trump-ooi-amoc) · [HN](https://news.ycombinator.com/item?id=48392232) |
+| 2026-06-03 | Wednesday | 10 | Uber's $1,500/month AI limit is a useful signal for AI tool pricing | 609 | 758 | Technology | [link](https://simonwillison.net/2026/Jun/3/uber-caps-usage/) · [HN](https://news.ycombinator.com/item?id=48383056) |
 | 2026-06-02 | Tuesday | 1 | Gmail thinks I'm stupid, so I left | 1093 | 726 | Technology | [link](https://moddedbear.com/gmail-thinks-im-stupid-so-i-left) · [HN](https://news.ycombinator.com/item?id=48375016) |
 | 2026-06-02 | Tuesday | 2 | Please don't spam people looking for employment. It's just cruel | 944 | 265 | Technology | [link](https://news.ycombinator.com/item?id=48370330) · [HN](https://news.ycombinator.com/item?id=48370330) |
 | 2026-06-02 | Tuesday | 3 | Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai | 662 | 272 | Technology | [link](https://blog.adafruit.com/) · [HN](https://news.ycombinator.com/item?id=48368121) |

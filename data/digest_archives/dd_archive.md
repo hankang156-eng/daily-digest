@@ -1,9 +1,33 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-03 · 1652 items*
+*Last updated: 2026-06-05 · 1676 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-03 | They’re made out of weights | HN | Technology | tech | 2026-06-03 | [link](https://maxleiter.com/blog/weights) |
+| 2026-06-03 | Gemma 4 12B: A unified, encoder-free multimodal model | HN | Technology | tech | 2026-06-03 | [link](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) |
+| 2026-06-03 | Elixir v1.20: Now a gradually typed language | HN | Technology | tech | 2026-06-03 | [link](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) |
+| 2026-06-03 | Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes | HN | Technology | tech | 2026-06-03 | [link](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html) |
+| 2026-06-03 | Artificial intelligence is not conscious – Ted Chiang | HN | Technology | tech | 2026-06-03 | [link](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/) |
+| 2026-06-03 | Meta workers can opt out of being tracked at work up to 30 min | HN | Technology | tech | 2026-06-03 | [link](https://www.bbc.com/news/articles/c93x0k194yno) |
+| 2026-06-03 | I was recently diagnosed with anti-NMDA receptor encephalitis | HN | Technology | tech | 2026-06-03 | [link](https://burntsushi.net/encephalitis/) |
+| 2026-06-03 | Pwnd Blaster: Hacking your PC using your speaker without ever touching it | HN | Technology | tech | 2026-06-03 | [link](https://blog.nns.ee/2026/06/03/katana-badusb/) |
+| 2026-06-03 | U.S. to dismantle system tracking Atlantic currents that are at risk of collapse | HN | Technology | tech | 2026-06-03 | [link](https://e360.yale.edu/digest/trump-ooi-amoc) |
+| 2026-06-03 | Uber's $1,500/month AI limit is a useful signal for AI tool pricing | HN | Technology | tech | 2026-06-03 | [link](https://simonwillison.net/2026/Jun/3/uber-caps-usage/) |
+| 2026-06-03 | DaVinci Resolve 21 | HN | Technology | tech | 2026-06-03 | [link](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew) |
+| 2026-06-03 | 32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building | HN | Technology | tech | 2026-06-03 | [link](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building) |
+| 2026-06-03 | MacBook Neo is so popular that Apple doubled production | HN | Technology | tech | 2026-06-03 | [link](https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/) |
+| 2026-06-03 | I built a vulnerable app and spent $1,500 seeing if LLMs could hack it | HN | Technology | tech | 2026-06-03 | [link](https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/) |
+| 2026-06-03 | ESP32-S31 | HN | Technology | tech | 2026-06-03 | [link](https://www.espressif.com/en/products/socs/esp32-s31) |
+| 2026-06-03 | PlayStation Architecture | HN | Technology | tech | 2026-06-03 | [link](https://www.copetti.org/writings/consoles/playstation/) |
+| 2026-06-03 | AI Agents Want to Shop for You: The Future of Agentic Commerce | MIT IDE · MIT Research & Insights | Research | research | 2026-06-03 | [link](https://ide.mit.edu/insights/ai-agents-want-to-shop-for-you-the-future-of-agentic-commerce/) |
+| 2026-06-03 | Welcoming the Philippine Government to Have I Been Pwned | Troy Hunt · Security & Privacy | Security | tech | 2026-06-03 | [link](https://www.troyhunt.com/welcoming-the-philippine-government-to-have-i-been-pwned/) |
+| 2026-06-03 | Uber Caps Usage of AI Tools Like Claude Code to Manage Costs | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-03 | [link](https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything) |
+| 2026-06-03 | Scott Pelley on Leaving ‘60 Minutes’: ‘Incompetence and Unprofessionalism in the New Management Have | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-03 | [link](https://www.instagram.com/p/DZHlWAoG3_3/?img_index=1) |
+| 2026-06-03 | The Underworld Market to Remove the Recording Indicator Light on Meta Glasses | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-03 | [link](https://www.youtube.com/watch?v=EaJSPeJmqis) |
+| 2026-06-03 | Nvidia unveils PC 'superchip' in challenge to Apple and Intel | Superpower Daily · Tech & Engineering | Technology | tech | 2026-06-03 | [link](https://www.superpowerdaily.com/p/nvidia-unveils-pc-superchip-in-challenge-to-apple-and-intel) |
+| 2026-06-03 | London Data Store Relaunch | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-06-03 | [link](https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/) |
+| 2026-06-03 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-02 | Gmail thinks I'm stupid, so I left | HN | Technology | tech | 2026-06-02 | [link](https://moddedbear.com/gmail-thinks-im-stupid-so-i-left) |
 | 2026-06-02 | Please don't spam people looking for employment. It's just cruel | HN | Technology | tech | 2026-06-02 | [link](https://news.ycombinator.com/item?id=48370330) |
 | 2026-06-02 | Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai | HN | Technology | tech | 2026-06-02 | [link](https://blog.adafruit.com/) |
