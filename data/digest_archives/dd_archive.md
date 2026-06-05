@@ -1,6 +1,6 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-05 · 1676 items*
+*Last updated: 2026-06-05 · 1672 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
@@ -490,11 +490,7 @@
 | 2026-05-20 | Saying goodbye to asm.js | HN | Technology | tech | 2026-05-20 | [link](https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html) |
 | 2026-05-20 | Declining America | HN | Technology | tech | 2026-05-20 | [link](https://www.tbray.org/ongoing/When/202x/2026/05/19/Declining-America) |
 | 2026-05-20 | The Quantum Computing Race Is on, but Who’s in the Lead? | MIT IDE · MIT Research & Insights | Research | research | 2026-05-20 | [link](https://ide.mit.edu/insights/the-quantum-computing-race/) |
-| 2026-05-20 | Quoting SpaceX S-1 | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-20 | [link](https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything) |
-| 2026-05-20 | NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-20 | [link](https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&smid=url-share) |
-| 2026-05-20 | Google I/O, Gemini Spark, Antigravity | Simon Willison · Tech & Engineering | Technology | tech | 2026-05-20 | [link](https://simonwillison.net/2026/May/20/google-io/#atom-everything) |
 | 2026-05-20 | OpenAI launches ChatGPT for personal finance, will let you connect bank accounts | Superpower Daily · Tech & Engineering | Technology | tech | 2026-05-20 | [link](https://www.superpowerdaily.com/p/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts) |
-| 2026-05-20 | ‘You Do Not Need Fancy Equipment, You Do Not Need a Degree, to Make Money and to Do This as Your Job | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-05-20 | [link](https://www.tiktok.com/@brye.shhh/video/7641047549758934285) |
 | 2026-05-20 | [RSS Club] Let's meet up AFK | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-05-20 | [link](https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/) |
 | 2026-05-20 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-05-19 | I’ve joined Anthropic | HN | Technology | tech | 2026-05-19 | [link](https://twitter.com/karpathy/status/2056753169888334312) |
