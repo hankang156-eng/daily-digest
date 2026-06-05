@@ -46,6 +46,18 @@ else
 fi
 log "  Python: $PYTHON"
 
+# Wait for network/DNS to be ready. LaunchAgent fires on system wake before
+# WiFi/DNS settles -> all fetches fail with "nodename nor servname provided"
+# and the run silently preserves stale files. Probe HN as a canary; up to 60s.
+for i in 1 2 3 4 5 6 7 8 9 10 11 12; do
+    if curl -fsS --max-time 4 -o /dev/null https://news.ycombinator.com 2>/dev/null; then
+        log "  [Network] ready after $((i*5))s"
+        break
+    fi
+    [ "$i" -eq 12 ] && log "  [Network] still not ready after 60s; proceeding anyway"
+    sleep 5
+done
+
 # Ensure dependencies are installed (fast no-op if already present)
 log ""
 log "  [1/3] Checking Python dependencies..."
