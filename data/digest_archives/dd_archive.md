@@ -1,9 +1,36 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-05 · 1714 items*
+*Last updated: 2026-06-07 · 1741 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-06 | Sorry, I’m Not Available. Talk to the A.I. Version of Me. | NYT · AI | AI | news | 2026-06-07 | [link](https://www.nytimes.com/2026/06/06/business/dealbook/ai-digital-twin.html) |
+| 2026-06-06 | N.Y. Lawmakers Move to Pause Data Centers and Curb Surveillance Pricing | NYT · AI | AI | news | 2026-06-06 | [link](https://www.nytimes.com/2026/06/06/nyregion/data-centers-ai-ny.html) |
+| 2026-06-06 | When Is It Wrong to Use A.I.? | NYT · AI | AI | opinion | 2026-06-06 | [link](https://www.nytimes.com/2026/06/06/opinion/ai-pope-leo-encyclical.html) |
+| 2026-06-06 | Central Ohio Becomes Hub for Tech and Manufacturing | NYT · AI | AI | news | 2026-06-05 | [link](https://www.nytimes.com/2026/06/05/business/ohio-tech-manufacturing-hub.html) |
+| 2026-06-06 | A.I. Companies Don’t Know What to Do With Alex Bores | NYT · AI | AI | news | 2026-06-06 | [link](https://www.nytimes.com/2026/06/06/nyregion/alex-bores-primary-ai-palantir.html) |
+| 2026-06-06 | Why the SpaceX IPO Will Affect Your 401(k), Like It or Not | NYT · AI | AI | news | 2026-06-05 | [link](https://www.nytimes.com/2026/06/05/technology/spacex-indexes-401k.html) |
+| 2026-06-06 | Anthropic’s Call for A.I. Nonproliferation | NYT · AI | AI | news | 2026-06-05 | [link](https://www.nytimes.com/2026/06/05/business/dealbook/anthropic-ai-nonproliferation.html) |
+| 2026-06-06 | The Small-Business Owners Managing Whole Armies of A.I. Employees | NYT · AI | AI | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html) |
+| 2026-06-06 | Trump Pardons Stephen Buyer, Former Congressman Convicted of Insider Trading | NYT · Politics | Politics | news | 2026-06-06 | [link](https://www.nytimes.com/2026/06/06/us/politics/trump-pardon-stephen-buyer-insider-trading.html) |
+| 2026-06-06 | SpaceX Has $30 Billion Deal to Provide Google With A.I. Computing Power | NYT · AI | AI | news | 2026-06-06 | [link](https://www.nytimes.com/2026/06/05/technology/spacex-google-deal.html) |
+| 2026-06-06 | Elon Musk Dominates List of Highest Paid C.E.O.s | NYT · Business | Business | news | 2026-06-05 | [link](https://www.nytimes.com/2026/06/05/business/highest-paid-ceos-elon-musk.html) |
+| 2026-06-06 | SpaceX IPO to Be Largest Ever at $135 Share Price | NYT · Technology | Technology | news | 2026-06-05 | [link](https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html) |
+| 2026-06-06 | Between the Knicks and the Pope, Villanova Finds the Spotlight | NYT · AI | AI | news | 2026-06-07 | [link](https://www.nytimes.com/2026/06/07/us/knicks-pope-leo-villanova.html) |
+| 2026-06-06 | RFK Jr. Appears Disengaged on Many Health Department Matters Beyond Vaccines | NYT · Politics | Politics | news | 2026-06-07 | [link](https://www.nytimes.com/2026/06/07/us/politics/ebola-vaccines-kennedy-health-department.html) |
+| 2026-06-06 | Wary of U.S., Carney Bets on AI Strategy for Canada | NYT · Technology | Technology | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/world/canada/canada-national-ai-strategy.html) |
+| 2026-06-06 | How NextEra Energy Wielded Political Power in Florida | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/business/energy-environment/nextera-energy-florida-politics-dominion.html) |
+| 2026-06-06 | Trump Is Finally Facing Reality on A.I. | NYT · Opinion | Opinion | opinion | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/opinion/trump-ai-executive-order-cybersecurity.html) |
+| 2026-06-06 | Trump Says Iran Has Made a ‘Big’ Nuclear Promise. It Isn’t New. | NYT · Politics | Politics | news | 2026-06-07 | [link](https://www.nytimes.com/2026/06/07/us/politics/trump-iran-nuclear-promise.html) |
+| 2026-06-06 | S.E.C. Proposes to Kill Climate Change Disclosure Rule | NYT · Energy & Environment | Energy & Environment | news | 2026-06-02 | [link](https://www.nytimes.com/2026/05/29/climate/sec-climate-disclosure-rule.html) |
+| 2026-06-06 | A Clean Energy PAC Helped Beat Chip Roy, and Now It Has New Targets | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/climate/clean-energy-pac-chip-roy.html) |
+| 2026-06-06 | Running Python code in a sandbox with MicroPython and WASM | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-06 | [link](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything) |
+| 2026-06-06 | 60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-06 | [link](https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html?unlocked_article_code=1.oFA.xooG.Pz8cQv8odz7Z) |
+| 2026-06-06 | Trump Lawyer Argues Trump Can Tear Down Statue of Liberty | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-06 | [link](https://talkingpointsmemo.com/edblog/trump-can-tear-down-statue-of-liberty-says-trump-lawyer) |
+| 2026-06-06 | There's still no point in gigabit broadband | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-06-06 | [link](https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/) |
+| 2026-06-06 | micropython-wasm 0.1a2 | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-06 | [link](https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything) |
+| 2026-06-06 | How much do amd64 microarchitecture levels help in Go? | Lemire.me · Tech & Engineering | Technology | tech | 2026-06-06 | [link](https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/) |
+| 2026-06-06 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-04 | SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P | HN | Technology | tech | 2026-06-04 | [link](https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation) |
 | 2026-06-04 | VoidZero Is Joining Cloudflare | HN | Technology | tech | 2026-06-04 | [link](https://blog.cloudflare.com/voidzero-joins-cloudflare/) |
 | 2026-06-04 | Ian's Secure Shoelace Knot | HN | Technology | tech | 2026-06-04 | [link](https://www.fieggen.com/shoelace/secureknot.htm) |
