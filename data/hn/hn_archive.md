@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-05 · 402 days · 4020 stories*
+*Last updated: 2026-06-08 · 403 days · 4030 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-07 | Sunday | 1 | LLMs are eroding my software engineering career and I don't know what to do | 971 | 939 | Technology | [link](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/) · [HN](https://news.ycombinator.com/item?id=48434312) |
+| 2026-06-07 | Sunday | 2 | Building from zero after addiction, prison, and a felony | 634 | 275 | Technology | [link](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony) · [HN](https://news.ycombinator.com/item?id=48437406) |
+| 2026-06-07 | Sunday | 3 | Anthropic, please ship an official Claude Desktop for Linux | 496 | 283 | Technology | [link](https://github.com/anthropics/claude-code/issues/65697) · [HN](https://news.ycombinator.com/item?id=48434436) |
+| 2026-06-07 | Sunday | 4 | How's Linear so fast? A technical breakdown | 412 | 190 | Technology | [link](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown) · [HN](https://news.ycombinator.com/item?id=48437609) |
+| 2026-06-07 | Sunday | 5 | The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners | 395 | 89 | Technology | [link](https://www.ioccc.org/2025/) · [HN](https://news.ycombinator.com/item?id=48432199) |
+| 2026-06-07 | Sunday | 6 | Scientists ejected from diabetes conference for distributing journal reprints | 328 | 209 | Technology | [link](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/) · [HN](https://news.ycombinator.com/item?id=48433410) |
+| 2026-06-07 | Sunday | 7 | Show HN: Lathe – Use LLMs to learn a new domain, not skip past it | 318 | 55 | Technology | [link](https://github.com/devenjarvis/lathe) · [HN](https://news.ycombinator.com/item?id=48433756) |
+| 2026-06-07 | Sunday | 8 | Dopamine Fracking | 317 | 141 | Technology | [link](https://igerman.cc/blog/dopamine-fracking/) · [HN](https://news.ycombinator.com/item?id=48440792) |
+| 2026-06-07 | Sunday | 9 | I design with Claude more than Figma now | 286 | 250 | Technology | [link](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/) · [HN](https://news.ycombinator.com/item?id=48431981) |
+| 2026-06-07 | Sunday | 10 | DeepSeek V4 Pro beats GPT-5.5 Pro on precision | 268 | 120 | Technology | [link](https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision) · [HN](https://news.ycombinator.com/item?id=48440448) |
 | 2026-06-04 | Thursday | 1 | SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P | 866 | 465 | Technology | [link](https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation) · [HN](https://news.ycombinator.com/item?id=48405718) |
 | 2026-06-04 | Thursday | 2 | VoidZero Is Joining Cloudflare | 660 | 295 | Technology | [link](https://blog.cloudflare.com/voidzero-joins-cloudflare/) · [HN](https://news.ycombinator.com/item?id=48398055) |
 | 2026-06-04 | Thursday | 3 | Ian's Secure Shoelace Knot | 570 | 216 | Technology | [link](https://www.fieggen.com/shoelace/secureknot.htm) · [HN](https://news.ycombinator.com/item?id=48397028) |

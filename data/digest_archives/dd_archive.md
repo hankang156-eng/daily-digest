@@ -1,9 +1,48 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-07 · 1741 items*
+*Last updated: 2026-06-08 · 1780 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-07 | LLMs are eroding my software engineering career and I don't know what to do | HN | Technology | tech | 2026-06-07 | [link](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/) |
+| 2026-06-07 | Building from zero after addiction, prison, and a felony | HN | Technology | tech | 2026-06-07 | [link](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony) |
+| 2026-06-07 | Anthropic, please ship an official Claude Desktop for Linux | HN | Technology | tech | 2026-06-07 | [link](https://github.com/anthropics/claude-code/issues/65697) |
+| 2026-06-07 | How's Linear so fast? A technical breakdown | HN | Technology | tech | 2026-06-07 | [link](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown) |
+| 2026-06-07 | The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners | HN | Technology | tech | 2026-06-07 | [link](https://www.ioccc.org/2025/) |
+| 2026-06-07 | Scientists ejected from diabetes conference for distributing journal reprints | HN | Technology | tech | 2026-06-07 | [link](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/) |
+| 2026-06-07 | Show HN: Lathe – Use LLMs to learn a new domain, not skip past it | HN | Technology | tech | 2026-06-07 | [link](https://github.com/devenjarvis/lathe) |
+| 2026-06-07 | Dopamine Fracking | HN | Technology | tech | 2026-06-07 | [link](https://igerman.cc/blog/dopamine-fracking/) |
+| 2026-06-07 | I design with Claude more than Figma now | HN | Technology | tech | 2026-06-07 | [link](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/) |
+| 2026-06-07 | DeepSeek V4 Pro beats GPT-5.5 Pro on precision | HN | Technology | tech | 2026-06-07 | [link](https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision) |
+| 2026-06-07 | Making peace with your unlived dreams (2023) | HN | Technology | tech | 2026-06-07 | [link](https://nik.art/making-peace-with-your-unlived-dreams/) |
+| 2026-06-07 | APC–2 – A professional record cutter for producing original playback discs | HN | Technology | tech | 2026-06-07 | [link](https://teenage.engineering/products/apc-2) |
+| 2026-06-07 | The Smallest Brain You Can Build: A Perceptron in Python | HN | Technology | tech | 2026-06-07 | [link](https://ranpara.net/posts/perceptron-explained-from-scratch/) |
+| 2026-06-07 | Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years | HN | Technology | tech | 2026-06-07 | [link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122) |
+| 2026-06-07 | New drug 'functionally cures' many hepatitis B virus infections | HN | Technology | tech | 2026-06-07 | [link](https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08) |
+| 2026-06-07 | 1k Data Breaches Later, the Disclosure Lag Is Worse | HN | Technology | tech | 2026-06-07 | [link](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/) |
+| 2026-06-07 | Sorry, I’m Not Available. Talk to the A.I. Version of Me. | NYT · AI | AI | news | 2026-06-07 | [link](https://www.nytimes.com/2026/06/06/business/dealbook/ai-digital-twin.html) |
+| 2026-06-07 | N.Y. Lawmakers Move to Pause Data Centers and Curb Surveillance Pricing | NYT · AI | AI | news | 2026-06-06 | [link](https://www.nytimes.com/2026/06/06/nyregion/data-centers-ai-ny.html) |
+| 2026-06-07 | When Is It Wrong to Use A.I.? | NYT · AI | AI | opinion | 2026-06-06 | [link](https://www.nytimes.com/2026/06/06/opinion/ai-pope-leo-encyclical.html) |
+| 2026-06-07 | A.I. Companies Don’t Know What to Do With Alex Bores | NYT · AI | AI | news | 2026-06-06 | [link](https://www.nytimes.com/2026/06/06/nyregion/alex-bores-primary-ai-palantir.html) |
+| 2026-06-07 | Can These ChatGPT Ads Make You Love A.I.? | NYT · AI | AI | news | 2026-06-07 | [link](https://www.nytimes.com/2026/06/04/style/chatgpt-advertising-campaign-artificial-intelligence.html) |
+| 2026-06-07 | The Small-Business Owners Managing Whole Armies of A.I. Employees | NYT · AI | AI | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html) |
+| 2026-06-07 | Central Ohio Becomes Hub for Tech and Manufacturing | NYT · Business | Business | news | 2026-06-05 | [link](https://www.nytimes.com/2026/06/05/business/ohio-tech-manufacturing-hub.html) |
+| 2026-06-07 | Daughter of Mrs. Fields Starts Fields Good, a Healthy Cookie Brand | NYT · Business | Business | news | 2026-06-07 | [link](https://www.nytimes.com/2026/06/07/business/mrs-fields-daughter-cookies.html) |
+| 2026-06-07 | Why the SpaceX IPO Will Affect Your 401(k), Like It or Not | NYT · Technology | Technology | news | 2026-06-05 | [link](https://www.nytimes.com/2026/06/05/technology/spacex-indexes-401k.html) |
+| 2026-06-07 | Want an A.I. Degree? Here’s What You Should Think About. | NYT · AI | AI | news | 2026-06-08 | [link](https://www.nytimes.com/2026/06/08/us/ai-studies-major-explained.html) |
+| 2026-06-07 | A.I. Degree Programs Surge as Colleges Seek Students and Relevance | NYT · AI | AI | news | 2026-06-08 | [link](https://www.nytimes.com/2026/06/08/us/ai-college-degrees.html) |
+| 2026-06-07 | Between the Knicks and the Pope, Villanova Finds the Spotlight | NYT · AI | AI | news | 2026-06-07 | [link](https://www.nytimes.com/2026/06/07/us/knicks-pope-leo-villanova.html) |
+| 2026-06-07 | Why Your Next Diagnosis May Be Guided by an A.I. Helper | NYT · AI | AI | news | 2026-06-08 | [link](https://www.nytimes.com/2026/06/08/business/ai-medicine-doctors.html) |
+| 2026-06-07 | Apple Expected to Detail Its A.I. Plans at Conference | NYT · AI | AI | news | 2026-06-08 | [link](https://www.nytimes.com/2026/06/08/technology/apple-ai-artificial-intelligence-wwdc.html) |
+| 2026-06-07 | The A.I. Classroom Is Quiet. Way Too Quiet. | NYT · AI | AI | opinion | 2026-06-08 | [link](https://www.nytimes.com/2026/06/08/opinion/ai-classroom-silence-reform.html) |
+| 2026-06-07 | How NextEra Energy Wielded Political Power in Florida | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/business/energy-environment/nextera-energy-florida-politics-dominion.html) |
+| 2026-06-07 | RFK Jr. Appears Disengaged on Many Health Department Matters Beyond Vaccines | NYT · Politics | Politics | news | 2026-06-07 | [link](https://www.nytimes.com/2026/06/07/us/politics/ebola-vaccines-kennedy-health-department.html) |
+| 2026-06-07 | SpaceX IPO to Be Largest Ever at $135 Share Price | NYT · Technology | Technology | news | 2026-06-05 | [link](https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html) |
+| 2026-06-07 | S.E.C. Proposes to Kill Climate Change Disclosure Rule | NYT · Energy & Environment | Energy & Environment | news | 2026-06-02 | [link](https://www.nytimes.com/2026/05/29/climate/sec-climate-disclosure-rule.html) |
+| 2026-06-07 | A Clean Energy PAC Helped Beat Chip Roy, and Now It Has New Targets | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/climate/clean-energy-pac-chip-roy.html) |
+| 2026-06-07 | datasette-agent-edit 0.1a0 | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-07 | [link](https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything) |
+| 2026-06-07 | Halide Mark III | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-07 | [link](https://www.lux.camera/halide-mark-iii/) |
+| 2026-06-07 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-06 | Sorry, I’m Not Available. Talk to the A.I. Version of Me. | NYT · AI | AI | news | 2026-06-07 | [link](https://www.nytimes.com/2026/06/06/business/dealbook/ai-digital-twin.html) |
 | 2026-06-06 | N.Y. Lawmakers Move to Pause Data Centers and Curb Surveillance Pricing | NYT · AI | AI | news | 2026-06-06 | [link](https://www.nytimes.com/2026/06/06/nyregion/data-centers-ai-ny.html) |
 | 2026-06-06 | When Is It Wrong to Use A.I.? | NYT · AI | AI | opinion | 2026-06-06 | [link](https://www.nytimes.com/2026/06/06/opinion/ai-pope-leo-encyclical.html) |
