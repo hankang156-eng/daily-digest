@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-08 · 403 days · 4030 stories*
+*Last updated: 2026-06-09 · 404 days · 4040 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-08 | Monday | 1 | Show HN: Performative-UI – A react component library of design tropes | 979 | 180 | Technology | [link](https://vorpus.github.io/performativeUI/) · [HN](https://news.ycombinator.com/item?id=48445554) |
+| 2026-06-08 | Monday | 2 | Anti-social: It's fads, not friends, which now dominate social media feeds | 645 | 432 | Technology | [link](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social) · [HN](https://news.ycombinator.com/item?id=48444228) |
+| 2026-06-08 | Monday | 3 | Stop the Apple Music app from launching | 628 | 247 | Technology | [link](https://lowtechguys.com/musicdecoy/) · [HN](https://news.ycombinator.com/item?id=48447935) |
+| 2026-06-08 | Monday | 4 | Apple reveals new AI architecture built around Google Gemini models | 597 | 452 | Technology | [link](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/) · [HN](https://news.ycombinator.com/item?id=48450142) |
+| 2026-06-08 | Monday | 5 | Siri AI | 581 | 535 | Technology | [link](https://www.apple.com/apple-intelligence/) · [HN](https://news.ycombinator.com/item?id=48449084) |
+| 2026-06-08 | Monday | 6 | MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second | 571 | 420 | Technology | [link](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps) · [HN](https://news.ycombinator.com/item?id=48446639) |
+| 2026-06-08 | Monday | 7 | Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf] | 571 | 217 | Technology | [link](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf) · [HN](https://news.ycombinator.com/item?id=48450646) |
+| 2026-06-08 | Monday | 8 | xAI is looking more like a datacentre REIT than a frontier lab | 567 | 442 | Technology | [link](https://martinalderson.com/posts/xais-new-rental-business/) · [HN](https://news.ycombinator.com/item?id=48446428) |
+| 2026-06-08 | Monday | 9 | AI is slowing down | 554 | 582 | Technology | [link](https://www.wheresyoured.at/ai-is-slowing-down/) · [HN](https://news.ycombinator.com/item?id=48446893) |
+| 2026-06-08 | Monday | 10 | A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center | 429 | 237 | Technology | [link](https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/) · [HN](https://news.ycombinator.com/item?id=48446439) |
 | 2026-06-07 | Sunday | 1 | LLMs are eroding my software engineering career and I don't know what to do | 971 | 939 | Technology | [link](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/) · [HN](https://news.ycombinator.com/item?id=48434312) |
 | 2026-06-07 | Sunday | 2 | Building from zero after addiction, prison, and a felony | 634 | 275 | Technology | [link](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony) · [HN](https://news.ycombinator.com/item?id=48437406) |
 | 2026-06-07 | Sunday | 3 | Anthropic, please ship an official Claude Desktop for Linux | 496 | 283 | Technology | [link](https://github.com/anthropics/claude-code/issues/65697) · [HN](https://news.ycombinator.com/item?id=48434436) |

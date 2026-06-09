@@ -1,9 +1,51 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-08 · 1780 items*
+*Last updated: 2026-06-09 · 1822 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-08 | Show HN: Performative-UI – A react component library of design tropes | HN | Technology | tech | 2026-06-08 | [link](https://vorpus.github.io/performativeUI/) |
+| 2026-06-08 | Anti-social: It's fads, not friends, which now dominate social media feeds | HN | Technology | tech | 2026-06-08 | [link](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social) |
+| 2026-06-08 | Stop the Apple Music app from launching | HN | Technology | tech | 2026-06-08 | [link](https://lowtechguys.com/musicdecoy/) |
+| 2026-06-08 | Apple reveals new AI architecture built around Google Gemini models | HN | Technology | tech | 2026-06-08 | [link](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/) |
+| 2026-06-08 | Siri AI | HN | Technology | tech | 2026-06-08 | [link](https://www.apple.com/apple-intelligence/) |
+| 2026-06-08 | MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second | HN | Technology | tech | 2026-06-08 | [link](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps) |
+| 2026-06-08 | Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf] | HN | Technology | tech | 2026-06-08 | [link](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf) |
+| 2026-06-08 | xAI is looking more like a datacentre REIT than a frontier lab | HN | Technology | tech | 2026-06-08 | [link](https://martinalderson.com/posts/xais-new-rental-business/) |
+| 2026-06-08 | AI is slowing down | HN | Technology | tech | 2026-06-08 | [link](https://www.wheresyoured.at/ai-is-slowing-down/) |
+| 2026-06-08 | A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center | HN | Technology | tech | 2026-06-08 | [link](https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/) |
+| 2026-06-08 | How much of Thermo Fisher's antibody data has been manipulated? | HN | Technology | tech | 2026-06-08 | [link](https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/) |
+| 2026-06-08 | EU-banned pesticides found in rice, tea and spices | HN | Technology | tech | 2026-06-08 | [link](https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices) |
+| 2026-06-08 | The Cypherpunk Library | HN | Technology | tech | 2026-06-08 | [link](https://www.cypherpunkbooks.com) |
+| 2026-06-08 | Confidential submission of draft S-1 to the SEC | HN | Technology | tech | 2026-06-08 | [link](https://openai.com/index/openai-submits-confidential-s-1/) |
+| 2026-06-08 | Massachusetts bans sale of precise location data in new privacy rights bill | HN | Technology | tech | 2026-06-08 | [link](https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/) |
+| 2026-06-08 | Ask HN: What are tools you have made for yourself since the advent of AI? | HN | Technology | tech | 2026-06-08 | [link](https://news.ycombinator.com/item?id=48449187) |
+| 2026-06-08 | Trump Eyes a Piece of A.I. Giants | NYT · AI | AI | news | 2026-06-08 | [link](https://www.nytimes.com/2026/06/08/business/dealbook/trump-ai-stakes.html) |
+| 2026-06-08 | The Iran War is Forcing Energy-Importing Countries to Turn Inward | NYT · Energy & Environment | Energy & Environment | news | 2026-06-08 | [link](https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html) |
+| 2026-06-08 | ‘Talk to My A.I. Twin’: Busy Executives Have a New Productivity Hack | NYT · Business | Business | news | 2026-06-08 | [link](https://www.nytimes.com/2026/06/06/business/dealbook/ai-digital-twin.html) |
+| 2026-06-08 | Apple Reveals New A.I.-Powered Version of Its Siri Digital Assistant | NYT · AI | AI | news | 2026-06-08 | [link](https://www.nytimes.com/2026/06/08/technology/apple-ai-siri.html) |
+| 2026-06-08 | San Francisco Voters Appear to Reject Tax Hike on Highly Paid C.E.O.s | NYT · Politics | Politics | news | 2026-06-09 | [link](https://www.nytimes.com/2026/06/08/us/politics/san-francisco-tax-proposition-d.html) |
+| 2026-06-08 | Have a Thorny Medical Question? Your Doctor May Be Using A.I. for That. | NYT · AI | AI | news | 2026-06-08 | [link](https://www.nytimes.com/2026/06/08/business/ai-medicine-doctors.html) |
+| 2026-06-08 | OpenAI Files Confidentially for IPO as AI Companies Rush to Wall St. | NYT · AI | AI | news | 2026-06-08 | [link](https://www.nytimes.com/2026/06/08/technology/openai-ipo.html) |
+| 2026-06-08 | How Banks Are Using the SpaceX IPO to Woo the Super Rich | NYT · Business | Business | news | 2026-06-08 | [link](https://www.nytimes.com/2026/06/08/business/spacex-ipo-banks-wealth-management.html) |
+| 2026-06-08 | In the Hybrid A.I.-Human Work Force, Who Will Actually Thrive? | NYT · AI | AI | news | 2026-06-09 | [link](https://www.nytimes.com/2026/06/09/magazine/ai-jobs-workforce-labor.html) |
+| 2026-06-08 | Apple Expected to Detail Its A.I. Plans at Conference | NYT · AI | AI | news | 2026-06-08 | [link](https://www.nytimes.com/2026/06/08/technology/apple-ai-artificial-intelligence-wwdc.html) |
+| 2026-06-08 | The A.I. Classroom Is Quiet. Way Too Quiet. | NYT · AI | AI | opinion | 2026-06-08 | [link](https://www.nytimes.com/2026/06/08/opinion/ai-classroom-silence-reform.html) |
+| 2026-06-08 | How Elon Musk’s Friendship With the F.C.C. Smooths the Way for SpaceX’s I.P.O. | NYT · Technology | Technology | news | 2026-06-08 | [link](https://www.nytimes.com/2026/06/08/technology/elon-musk-brendan-carr-fcc-spacex.html) |
+| 2026-06-08 | Central Ohio Becomes Hub for Tech and Manufacturing | NYT · Business | Business | news | 2026-06-05 | [link](https://www.nytimes.com/2026/06/05/business/ohio-tech-manufacturing-hub.html) |
+| 2026-06-08 | How NextEra Energy Wielded Political Power in Florida | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/business/energy-environment/nextera-energy-florida-politics-dominion.html) |
+| 2026-06-08 | The Ex-Mayor of Arcadia, Her Boyfriend and the Chinese Government | NYT · Politics | Politics | news | 2026-06-09 | [link](https://www.nytimes.com/2026/06/09/us/politics/eileen-wang-arcadia-california-mayor-china.html) |
+| 2026-06-08 | Prosecutors Won’t Seek Death Penalty in Killing of Melissa Hortman and Husband | NYT · U.S. | U.S. | news | 2026-06-08 | [link](https://www.nytimes.com/2026/06/08/us/vance-boelter-death-penalty-minnesota-hortman.html) |
+| 2026-06-08 | Anthropic’s Call for A.I. Nonproliferation | NYT · Business | Business | news | 2026-06-05 | [link](https://www.nytimes.com/2026/06/05/business/dealbook/anthropic-ai-nonproliferation.html) |
+| 2026-06-08 | S.E.C. Proposes to Kill Climate Change Disclosure Rule | NYT · Energy & Environment | Energy & Environment | news | 2026-06-02 | [link](https://www.nytimes.com/2026/05/29/climate/sec-climate-disclosure-rule.html) |
+| 2026-06-08 | Trump Previews Fall Strategy With Baseless Claims of California Vote Fraud | NYT · Politics | Politics | opinion | 2026-06-09 | [link](https://www.nytimes.com/2026/06/08/us/politics/trump-election-fraud-strategy-california.html) |
+| 2026-06-08 | A Clean Energy PAC Helped Beat Chip Roy, and Now It Has New Targets | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/climate/clean-energy-pac-chip-roy.html) |
+| 2026-06-08 | Mux — Video for Developers | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-08 | [link](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) |
+| 2026-06-08 | Alberto Romero on Apple’s AI Spending | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-08 | [link](https://www.thealgorithmicbridge.com/p/what-apple-knows-about-ai-that-silicon) |
+| 2026-06-08 | Siri AI at WWDC 2026 | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-08 | [link](https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything) |
+| 2026-06-08 | How many consecutive hyphens can you have in a domain name? | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-06-08 | [link](https://shkspr.mobi/blog/2026/06/how-many-consecutive-hyphens-can-you-have-in-a-domain-name/) |
+| 2026-06-08 | Anthropic Calls for Al Pause Button to Let Humans Take Stock | Superpower Daily · Tech & Engineering | Technology | tech | 2026-06-08 | [link](https://www.superpowerdaily.com/p/anthropic-calls-for-al-pause-button-to-let-humans-take-stock) |
+| 2026-06-08 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-07 | LLMs are eroding my software engineering career and I don't know what to do | HN | Technology | tech | 2026-06-07 | [link](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/) |
 | 2026-06-07 | Building from zero after addiction, prison, and a felony | HN | Technology | tech | 2026-06-07 | [link](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony) |
 | 2026-06-07 | Anthropic, please ship an official Claude Desktop for Linux | HN | Technology | tech | 2026-06-07 | [link](https://github.com/anthropics/claude-code/issues/65697) |
