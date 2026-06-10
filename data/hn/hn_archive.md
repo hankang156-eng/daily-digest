@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-09 · 404 days · 4040 stories*
+*Last updated: 2026-06-10 · 405 days · 4050 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-09 | Tuesday | 1 | Claude Fable 5 | 2241 | 1732 | Technology | [link](https://www.anthropic.com/news/claude-fable-5-mythos-5) · [HN](https://news.ycombinator.com/item?id=48463808) |
+| 2026-06-09 | Tuesday | 2 | Making Graphics Like it's 1993 | 864 | 147 | Technology | [link](https://staniks.github.io/articles/catlantean-3d-blog-1/) · [HN](https://news.ycombinator.com/item?id=48459294) |
+| 2026-06-09 | Tuesday | 3 | If Claude Fable stops helping you, you'll never know | 817 | 400 | Technology | [link](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html) · [HN](https://news.ycombinator.com/item?id=48467896) |
+| 2026-06-09 | Tuesday | 4 | macOS Container Machines | 762 | 281 | Technology | [link](https://github.com/apple/container/blob/main/docs/container-machine.md) · [HN](https://news.ycombinator.com/item?id=48469658) |
+| 2026-06-09 | Tuesday | 5 | CEOs who think AI replaces their employees are just bad CEOs | 670 | 248 | Technology | [link](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/) · [HN](https://news.ycombinator.com/item?id=48465675) |
+| 2026-06-09 | Tuesday | 6 | German ruling declares Google liable for false answers in AI Overviews | 546 | 313 | Technology | [link](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/) · [HN](https://news.ycombinator.com/item?id=48470248) |
+| 2026-06-09 | Tuesday | 7 | Microsoft's open source tools were hacked to steal passwords of AI developers | 538 | 185 | Technology | [link](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) · [HN](https://news.ycombinator.com/item?id=48457830) |
+| 2026-06-09 | Tuesday | 8 | FCC wants to kill burner phones by forcing telecoms to get all customers' IDs | 523 | 342 | Technology | [link](https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/) · [HN](https://news.ycombinator.com/item?id=48462308) |
+| 2026-06-09 | Tuesday | 9 | Cleaning up after AI rockstar developers | 470 | 345 | Technology | [link](https://www.codingwithjesse.com/blog/rockstar-developers/) · [HN](https://news.ycombinator.com/item?id=48458586) |
+| 2026-06-09 | Tuesday | 10 | Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution' | 445 | 208 | Technology | [link](https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/) · [HN](https://news.ycombinator.com/item?id=48461012) |
 | 2026-06-08 | Monday | 1 | Show HN: Performative-UI – A react component library of design tropes | 979 | 180 | Technology | [link](https://vorpus.github.io/performativeUI/) · [HN](https://news.ycombinator.com/item?id=48445554) |
 | 2026-06-08 | Monday | 2 | Anti-social: It's fads, not friends, which now dominate social media feeds | 645 | 432 | Technology | [link](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social) · [HN](https://news.ycombinator.com/item?id=48444228) |
 | 2026-06-08 | Monday | 3 | Stop the Apple Music app from launching | 628 | 247 | Technology | [link](https://lowtechguys.com/musicdecoy/) · [HN](https://news.ycombinator.com/item?id=48447935) |

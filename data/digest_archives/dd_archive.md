@@ -1,9 +1,52 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-09 · 1822 items*
+*Last updated: 2026-06-10 · 1865 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-09 | Claude Fable 5 | HN | Technology | tech | 2026-06-09 | [link](https://www.anthropic.com/news/claude-fable-5-mythos-5) |
+| 2026-06-09 | Making Graphics Like it's 1993 | HN | Technology | tech | 2026-06-09 | [link](https://staniks.github.io/articles/catlantean-3d-blog-1/) |
+| 2026-06-09 | If Claude Fable stops helping you, you'll never know | HN | Technology | tech | 2026-06-09 | [link](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html) |
+| 2026-06-09 | macOS Container Machines | HN | Technology | tech | 2026-06-09 | [link](https://github.com/apple/container/blob/main/docs/container-machine.md) |
+| 2026-06-09 | CEOs who think AI replaces their employees are just bad CEOs | HN | Technology | tech | 2026-06-09 | [link](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/) |
+| 2026-06-09 | German ruling declares Google liable for false answers in AI Overviews | HN | Technology | tech | 2026-06-09 | [link](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/) |
+| 2026-06-09 | Microsoft's open source tools were hacked to steal passwords of AI developers | HN | Technology | tech | 2026-06-09 | [link](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) |
+| 2026-06-09 | FCC wants to kill burner phones by forcing telecoms to get all customers' IDs | HN | Technology | tech | 2026-06-09 | [link](https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/) |
+| 2026-06-09 | Cleaning up after AI rockstar developers | HN | Technology | tech | 2026-06-09 | [link](https://www.codingwithjesse.com/blog/rockstar-developers/) |
+| 2026-06-09 | Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution' | HN | Technology | tech | 2026-06-09 | [link](https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/) |
+| 2026-06-09 | Apple decided not to roll out Siri in EU after denied request for exemption | HN | Technology | tech | 2026-06-09 | [link](https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/) |
+| 2026-06-09 | Upcoming breaking changes for npm v12 | HN | Technology | tech | 2026-06-09 | [link](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/) |
+| 2026-06-09 | GentleOS – Classic operating system with a lovely retro GUI | HN | Technology | tech | 2026-06-09 | [link](https://github.com/luke8086/gentleos32) |
+| 2026-06-09 | Facebook is paying people overseas promoting Alberta separatism | HN | Technology | tech | 2026-06-09 | [link](https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966) |
+| 2026-06-09 | What it feels like to work with Mythos | HN | Technology | tech | 2026-06-09 | [link](https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos) |
+| 2026-06-09 | GPT-2: Too Dangerous To Release (2019) | HN | Technology | tech | 2026-06-09 | [link](https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/) |
+| 2026-06-09 | Wall Street’s A.I. Bet Is About to Become Yours | NYT · AI | AI | opinion | 2026-06-10 | [link](https://www.nytimes.com/2026/06/10/opinion/ai-ipo-openai-anthropic.html) |
+| 2026-06-09 | Dutch Authorities Block $115 Million Deal by a U.S. Tech Company | NYT · Technology | Technology | news | 2026-06-09 | [link](https://www.nytimes.com/2026/06/09/technology/solvinity-kyndryl-blocked-deal-us-europe-rift.html) |
+| 2026-06-09 | The Global Bull Market That A.I. Obscures | NYT · AI | AI | opinion | 2026-06-10 | [link](https://www.nytimes.com/2026/06/10/opinion/global-bull-market-ai.html) |
+| 2026-06-09 | Why Apple’s A.I. Upgrade for Siri Won’t Be Available in Europe | NYT · AI | AI | news | 2026-06-09 | [link](https://www.nytimes.com/2026/06/09/business/apple-siri-ai-europe.html) |
+| 2026-06-09 | The Iran War is Forcing Energy-Importing Countries to Turn Inward | NYT · Energy & Environment | Energy & Environment | news | 2026-06-09 | [link](https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html) |
+| 2026-06-09 | G.M. Plans to Develop Energy Storage Batteries as E.V. Sales Flag | NYT · Energy & Environment | Energy & Environment | news | 2026-06-09 | [link](https://www.nytimes.com/2026/06/09/business/energy-environment/general-motors-storage-batteries-electric-vehicles.html) |
+| 2026-06-09 | OpenAI Tests Investor Appetite for Yet Another Giant I.P.O. | NYT · Business | Business | news | 2026-06-09 | [link](https://www.nytimes.com/2026/06/09/business/dealbook/openai-ipo-spacex-anthropic.html) |
+| 2026-06-09 | A.I. Politics | NYT · AI | AI | news | 2026-06-10 | [link](https://www.nytimes.com/2026/06/09/world/ai-politics-iran-world-cup.html) |
+| 2026-06-09 | Lawyers Barred for A.I.-Generated Citations to Fake Cases | NYT · AI | AI | news | 2026-06-10 | [link](https://www.nytimes.com/2026/06/09/us/ai-lawyers-sanctioned-mississippi.html) |
+| 2026-06-09 | Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts | NYT · AI | AI | news | 2026-06-09 | [link](https://www.nytimes.com/2026/06/09/technology/instagram-hack-ai-bug.html) |
+| 2026-06-09 | ‘Talk to My A.I. Twin’: Busy Executives Have a New Productivity Hack | NYT · Business | Business | news | 2026-06-08 | [link](https://www.nytimes.com/2026/06/06/business/dealbook/ai-digital-twin.html) |
+| 2026-06-09 | Blanche Was Once Seen as Tempering Trump’s Tactics. Now He’s All In. | NYT · Politics | Politics | news | 2026-06-10 | [link](https://www.nytimes.com/2026/06/09/us/politics/blanche-trump-justice-department-retribution.html) |
+| 2026-06-09 | Forget Coders. The Real A.I. Threat Is in the Back Office. | NYT · AI | AI | news | 2026-06-10 | [link](https://www.nytimes.com/2026/06/10/business/economy/back-office-workers-ai.html) |
+| 2026-06-09 | Anthropic Releases ‘Safe’ Version of Its Mythos A.I. Technology | NYT · AI | AI | news | 2026-06-09 | [link](https://www.nytimes.com/2026/06/09/technology/anthropic-ai-claude-fable-mythos.html) |
+| 2026-06-09 | Inside Trump’s White House, the Epstein Files Caused a Freakout | NYT · Politics | Politics | news | 2026-06-10 | [link](https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html) |
+| 2026-06-09 | A.I. Loves the Em Dash. What’s a Human Writer to Do? | NYT · AI | AI | news | 2026-06-10 | [link](https://www.nytimes.com/2026/06/10/books/review/em-dash-chatbot-human-language.html) |
+| 2026-06-09 | Majority of City Council Members Urge Mamdani to Pause A.I. in Schools | NYT · AI | AI | news | 2026-06-10 | [link](https://www.nytimes.com/2026/06/09/nyregion/nyc-schools-council-members-ai-ban.html) |
+| 2026-06-09 | How NextEra Energy Wielded Political Power in Florida | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/business/energy-environment/nextera-energy-florida-politics-dominion.html) |
+| 2026-06-09 | Trump’s Assaults on Scientific Research Just Got Worse | NYT · Opinion | Opinion | opinion | 2026-06-09 | [link](https://www.nytimes.com/2026/06/09/opinion/science-federal-government-funding.html) |
+| 2026-06-09 | S.E.C. Proposes to Kill Climate Change Disclosure Rule | NYT · Energy & Environment | Energy & Environment | news | 2026-06-02 | [link](https://www.nytimes.com/2026/05/29/climate/sec-climate-disclosure-rule.html) |
+| 2026-06-09 | Setting a custom price for a model in AgentsView | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-09 | [link](https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything) |
+| 2026-06-09 | Quoting Andrej Karpathy | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-09 | [link](https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything) |
+| 2026-06-09 | From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-09 | [link](https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27) |
+| 2026-06-09 | A Record-Breaking Patch Tuesday for June 2026 | Krebs on Security · Security & Privacy | Security | tech | 2026-06-09 | [link](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/) |
+| 2026-06-09 | Apple’s WWDC Announcement of the New Apple Intelligence System | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-09 | [link](https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/) |
+| 2026-06-09 | Sovereign | Lemire.me · Tech & Engineering | Technology | tech | 2026-06-09 | [link](https://lemire.me/blog/2026/06/09/22693/) |
+| 2026-06-09 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-08 | Show HN: Performative-UI – A react component library of design tropes | HN | Technology | tech | 2026-06-08 | [link](https://vorpus.github.io/performativeUI/) |
 | 2026-06-08 | Anti-social: It's fads, not friends, which now dominate social media feeds | HN | Technology | tech | 2026-06-08 | [link](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social) |
 | 2026-06-08 | Stop the Apple Music app from launching | HN | Technology | tech | 2026-06-08 | [link](https://lowtechguys.com/musicdecoy/) |
