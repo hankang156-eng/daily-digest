@@ -1,9 +1,52 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-10 · 1865 items*
+*Last updated: 2026-06-11 · 1908 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-10 | Building an HTML-first site doubled our users overnight | HN | Technology | tech | 2026-06-10 | [link](https://mohkohn.co.uk/writing/html-first/) |
+| 2026-06-10 | πFS | HN | Technology | tech | 2026-06-10 | [link](https://github.com/philipl/pifs) |
+| 2026-06-10 | I'm Eric Ries, author of "The Lean Startup" and new book "Incorruptible" – AMA | HN | Technology | tech | 2026-06-10 | [link](https://news.ycombinator.com/item?id=48477135) |
+| 2026-06-10 | Mercedes‑Benz starts large‑scale production of electric axial flux motor | HN | Technology | tech | 2026-06-10 | [link](https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf) |
+| 2026-06-10 | PgDog is funded and coming to a database near you | HN | Technology | tech | 2026-06-10 | [link](https://pgdog.dev/blog/our-funding-announcement) |
+| 2026-06-10 | Farmer donates land for a park, city sells it for $10M as data center land | HN | Technology | tech | 2026-06-10 | [link](https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade) |
+| 2026-06-10 | Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable | HN | Technology | tech | 2026-06-10 | [link](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/) |
+| 2026-06-10 | Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use | HN | Technology | tech | 2026-06-10 | [link](https://github.com/anthropics/claude-code/issues/29045) |
+| 2026-06-10 | AWS Bedrock to require sharing data with Anthropic for Mythos and future models | HN | Technology | tech | 2026-06-10 | [link](https://news.ycombinator.com/item?id=48473166) |
+| 2026-06-10 | AI agent runs amok in Fedora and elsewhere | HN | Technology | tech | 2026-06-10 | [link](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/) |
+| 2026-06-10 | Chrome is looking to permanently drop MV2 extension | HN | Technology | tech | 2026-06-10 | [link](https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/) |
+| 2026-06-10 | DiffusionGemma: 4x Faster Text Generation | HN | Technology | tech | 2026-06-10 | [link](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/) |
+| 2026-06-10 | Anthropic's model naming, extrapolated | HN | Technology | tech | 2026-06-10 | [link](https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated) |
+| 2026-06-10 | Raspberry Pi 5 – 16GB RAM | HN | Technology | tech | 2026-06-10 | [link](https://www.adafruit.com/product/6125?src=raspberrypi) |
+| 2026-06-10 | US Consumer Price Index up 4.2% | HN | Technology | tech | 2026-06-10 | [link](https://www.bls.gov/news.release/cpi.nr0.htm) |
+| 2026-06-10 | GeoLibre 1.0 | HN | Technology | tech | 2026-06-10 | [link](https://geolibre.app/) |
+| 2026-06-10 | Markets Brace for an Inflation Surprise | NYT · AI | AI | news | 2026-06-10 | [link](https://www.nytimes.com/2026/06/10/business/dealbook/cpi-inflation-surprise.html) |
+| 2026-06-10 | The A.I. Bubble Is Coming for Your Retirement Account | NYT · AI | AI | opinion | 2026-06-10 | [link](https://www.nytimes.com/2026/06/10/opinion/ai-ipo-openai-anthropic.html) |
+| 2026-06-10 | Dutch Authorities Block $115 Million Deal by a U.S. Tech Company | NYT · Technology | Technology | news | 2026-06-09 | [link](https://www.nytimes.com/2026/06/09/technology/solvinity-kyndryl-blocked-deal-us-europe-rift.html) |
+| 2026-06-10 | I was a V.C. Partner. We Can’t Let Silicon Valley Buy Democracy. | NYT · AI | AI | opinion | 2026-06-11 | [link](https://www.nytimes.com/2026/06/11/opinion/silicon-valley-ai-politics.html) |
+| 2026-06-10 | How Tesla’s Stock Listing in 2010 Enabled SpaceX’s I.P.O. | NYT · Technology | Technology | news | 2026-06-11 | [link](https://www.nytimes.com/2026/06/11/business/spacex-tesla-ipo-elon-musk.html) |
+| 2026-06-10 | The Iran War is Forcing Energy-Importing Countries to Turn Inward | NYT · Energy & Environment | Energy & Environment | news | 2026-06-09 | [link](https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html) |
+| 2026-06-10 | Trump Muses About Government Taking a Piece of A.I. Companies | NYT · AI | AI | news | 2026-06-10 | [link](https://www.nytimes.com/2026/06/10/technology/president-trump-americans-sharing-ai-wealth.html) |
+| 2026-06-10 | Texas Governor Seeks New Limits on Data Centers | NYT · AI | AI | news | 2026-06-10 | [link](https://www.nytimes.com/2026/06/10/us/texas-abbott-data-centers-regulation.html) |
+| 2026-06-10 | OpenAI Tests Investor Appetite for Yet Another Giant I.P.O. | NYT · Business | Business | news | 2026-06-09 | [link](https://www.nytimes.com/2026/06/09/business/dealbook/openai-ipo-spacex-anthropic.html) |
+| 2026-06-10 | Inflation Keeps Prospects of a Fed Rate Cut Low | NYT · Economy | Economy | news | 2026-06-10 | [link](https://www.nytimes.com/2026/06/10/business/economy/inflation-federal-reserve-interest-rates.html) |
+| 2026-06-10 | The Global Bull Market That A.I. Obscures | NYT · Opinion | Opinion | opinion | 2026-06-10 | [link](https://www.nytimes.com/2026/06/10/opinion/global-bull-market-ai.html) |
+| 2026-06-10 | Microsoft C.E.O. Satya Nadella Says ‘Everyone Is a Stakeholder’ in A.I. | NYT · AI | AI | news | 2026-06-11 | [link](https://www.nytimes.com/2026/06/10/technology/microsoft-satya-nadella-artificial-intelligence.html) |
+| 2026-06-10 | Inside Trump’s White House, the Epstein Files Caused a Freakout | NYT · Politics | Politics | news | 2026-06-10 | [link](https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html) |
+| 2026-06-10 | Democrats Once Vowed to Stop Oil and Gas. Now They’re Not So Sure. | NYT · Energy & Environment | Energy & Environment | news | 2026-06-11 | [link](https://www.nytimes.com/2026/06/11/climate/democrats-climate-change-oil-gas.html) |
+| 2026-06-10 | Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts | NYT · Technology | Technology | news | 2026-06-10 | [link](https://www.nytimes.com/2026/06/09/technology/instagram-hack-ai-bug.html) |
+| 2026-06-10 | How NextEra Energy Wielded Political Power in Florida | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/business/energy-environment/nextera-energy-florida-politics-dominion.html) |
+| 2026-06-10 | Trump’s Assaults on Scientific Research Just Got Worse | NYT · Opinion | Opinion | opinion | 2026-06-10 | [link](https://www.nytimes.com/2026/06/09/opinion/science-federal-government-funding.html) |
+| 2026-06-10 | The Small-Business Owners Managing Whole Armies of A.I. Employees | NYT · AI | AI | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html) |
+| 2026-06-10 | Why the SpaceX IPO Will Affect Your 401(k), Like It or Not | NYT · Technology | Technology | news | 2026-06-05 | [link](https://www.nytimes.com/2026/06/05/technology/spacex-indexes-401k.html) |
+| 2026-06-10 | S.E.C. Proposes to Kill Climate Change Disclosure Rule | NYT · Energy & Environment | Energy & Environment | news | 2026-06-02 | [link](https://www.nytimes.com/2026/05/29/climate/sec-climate-disclosure-rule.html) |
+| 2026-06-10 | What We’re Reading: IDE Summer Reading List | MIT IDE · MIT Research & Insights | Research | research | 2026-06-10 | [link](https://ide.mit.edu/insights/what-were-reading-ide-summer-reading-list/) |
+| 2026-06-10 | DiffusionGemma | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-10 | [link](https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything) |
+| 2026-06-10 | Who Runs the Ransomware Group ‘The Gentlemen?’ | Krebs on Security · Security & Privacy | Security | tech | 2026-06-10 | [link](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/) |
+| 2026-06-10 | Weekly Update 507 | Troy Hunt · Security & Privacy | Security | tech | 2026-06-10 | [link](https://www.troyhunt.com/weekly-update-507/) |
+| 2026-06-10 | Quoting Jeremy Howard | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-10 | [link](https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything) |
+| 2026-06-10 | Book Review: The Husbands by Holly Gramazio ★★★★★ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-06-10 | [link](https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/) |
+| 2026-06-10 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-09 | Claude Fable 5 | HN | Technology | tech | 2026-06-09 | [link](https://www.anthropic.com/news/claude-fable-5-mythos-5) |
 | 2026-06-09 | Making Graphics Like it's 1993 | HN | Technology | tech | 2026-06-09 | [link](https://staniks.github.io/articles/catlantean-3d-blog-1/) |
 | 2026-06-09 | If Claude Fable stops helping you, you'll never know | HN | Technology | tech | 2026-06-09 | [link](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html) |

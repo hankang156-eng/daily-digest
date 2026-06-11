@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-10 · 405 days · 4050 stories*
+*Last updated: 2026-06-11 · 406 days · 4060 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-10 | Wednesday | 1 | Building an HTML-first site doubled our users overnight | 1131 | 510 | Technology | [link](https://mohkohn.co.uk/writing/html-first/) · [HN](https://news.ycombinator.com/item?id=48475483) |
+| 2026-06-10 | Wednesday | 2 | πFS | 751 | 178 | Technology | [link](https://github.com/philipl/pifs) · [HN](https://news.ycombinator.com/item?id=48480978) |
+| 2026-06-10 | Wednesday | 3 | I'm Eric Ries, author of "The Lean Startup" and new book "Incorruptible" – AMA | 667 | 490 | Technology | [link](https://news.ycombinator.com/item?id=48477135) · [HN](https://news.ycombinator.com/item?id=48477135) |
+| 2026-06-10 | Wednesday | 4 | Mercedes‑Benz starts large‑scale production of electric axial flux motor | 530 | 336 | Technology | [link](https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf) · [HN](https://news.ycombinator.com/item?id=48472877) |
+| 2026-06-10 | Wednesday | 5 | PgDog is funded and coming to a database near you | 466 | 223 | Technology | [link](https://pgdog.dev/blog/our-funding-announcement) · [HN](https://news.ycombinator.com/item?id=48476466) |
+| 2026-06-10 | Wednesday | 6 | Farmer donates land for a park, city sells it for $10M as data center land | 455 | 3 | Technology | [link](https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade) · [HN](https://news.ycombinator.com/item?id=48481126) |
+| 2026-06-10 | Wednesday | 7 | Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable | 436 | 386 | Technology | [link](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/) · [HN](https://news.ycombinator.com/item?id=48478969) |
+| 2026-06-10 | Wednesday | 8 | Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use | 403 | 282 | Technology | [link](https://github.com/anthropics/claude-code/issues/29045) · [HN](https://news.ycombinator.com/item?id=48479452) |
+| 2026-06-10 | Wednesday | 9 | AWS Bedrock to require sharing data with Anthropic for Mythos and future models | 403 | 243 | Technology | [link](https://news.ycombinator.com/item?id=48473166) · [HN](https://news.ycombinator.com/item?id=48473166) |
+| 2026-06-10 | Wednesday | 10 | AI agent runs amok in Fedora and elsewhere | 403 | 157 | Technology | [link](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/) · [HN](https://news.ycombinator.com/item?id=48484584) |
 | 2026-06-09 | Tuesday | 1 | Claude Fable 5 | 2241 | 1732 | Technology | [link](https://www.anthropic.com/news/claude-fable-5-mythos-5) · [HN](https://news.ycombinator.com/item?id=48463808) |
 | 2026-06-09 | Tuesday | 2 | Making Graphics Like it's 1993 | 864 | 147 | Technology | [link](https://staniks.github.io/articles/catlantean-3d-blog-1/) · [HN](https://news.ycombinator.com/item?id=48459294) |
 | 2026-06-09 | Tuesday | 3 | If Claude Fable stops helping you, you'll never know | 817 | 400 | Technology | [link](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html) · [HN](https://news.ycombinator.com/item?id=48467896) |
