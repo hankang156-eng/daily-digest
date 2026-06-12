@@ -1,9 +1,51 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-11 · 1908 items*
+*Last updated: 2026-06-12 · 1950 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-11 | Show HN: Homebrew 6.0.0 | HN | Technology | tech | 2026-06-11 | [link](https://brew.sh/2026/06/11/homebrew-6.0.0/) |
+| 2026-06-11 | If you are asking for human attention, demonstrate human effort | HN | Technology | tech | 2026-06-11 | [link](https://tombedor.dev/human-attention-and-human-effort/) |
+| 2026-06-11 | Pokémon Go Scans Trained the Navigation Tech for Military Drones | HN | Technology | tech | 2026-06-11 | [link](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/) |
+| 2026-06-11 | MiMo Code is now released and open-source | HN | Technology | tech | 2026-06-11 | [link](https://mimo.xiaomi.com/mimocode) |
+| 2026-06-11 | Nobody ever gets credit for fixing problems that never happened (2001) [pdf] | HN | Technology | tech | 2026-06-11 | [link](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf) |
+| 2026-06-11 | Solar generates more energy in US than coal for first time | HN | Technology | tech | 2026-06-11 | [link](https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal) |
+| 2026-06-11 | Claude Fable is relentlessly proactive | HN | Technology | tech | 2026-06-11 | [link](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/) |
+| 2026-06-11 | Petition to Withdraw Canada's Bill C-22 | HN | Technology | tech | 2026-06-11 | [link](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416) |
+| 2026-06-11 | Anthropic apologizes for invisible Claude Fable guardrails | HN | Technology | tech | 2026-06-11 | [link](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail) |
+| 2026-06-11 | Show HN: FablePool – pool money behind a prompt, and Fable builds it in public | HN | Technology | tech | 2026-06-11 | [link](https://fablepool.com) |
+| 2026-06-11 | Lines of code got a better publicist | HN | Technology | tech | 2026-06-11 | [link](https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/) |
+| 2026-06-11 | Claude Fable 5: mid-tier results on coding tasks | HN | Technology | tech | 2026-06-11 | [link](https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype) |
+| 2026-06-11 | Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items | HN | Technology | tech | 2026-06-11 | [link](https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items) |
+| 2026-06-11 | Why AI hasn't replaced software engineers, and won't | HN | Technology | tech | 2026-06-11 | [link](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers) |
+| 2026-06-11 | Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass | HN | Technology | tech | 2026-06-11 | [link](https://www.mayrhofer.eu.org/post/leaving-google/) |
+| 2026-06-11 | The RCE that AMD wouldn't fix | HN | Technology | tech | 2026-06-11 | [link](https://mrbruh.com/amd2/) |
+| 2026-06-11 | Google Sues to Stop Chinese Cybercrime Group from Using Its A.I. | NYT · AI | AI | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/technology/google-lawsuit-china-ai-scams.html) |
+| 2026-06-11 | SpaceX IPO: How Our Reporters Assess the Sky-High Valuation and Potential Economic Impact | NYT · AI | AI | news | 2026-06-11 | [link](https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html) |
+| 2026-06-11 | The A.I. Proxy Fight Roiling the Race for a New York House Seat | NYT · AI | AI | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/nyregion/ai-money-bores-lasher-primary.html) |
+| 2026-06-11 | Absent From the SpaceX and OpenAI I.P.O.s? Chinese Investors. | NYT · AI | AI | news | 2026-06-11 | [link](https://www.nytimes.com/2026/06/11/business/spacex-openai-ipo-china.html) |
+| 2026-06-11 | SpaceX Finalizes IPO Price at $135 a Share in World’s Largest Public Offering | NYT · AI | AI | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/11/technology/spacex-ipo-price.html) |
+| 2026-06-11 | How SpaceX’s IPO Compares With Saudi Aramco, Uber and Others | NYT · AI | AI | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/business/spacex-biggest-ipos-elon-musk.html) |
+| 2026-06-11 | How Tesla’s Stock Listing in 2010 Enabled SpaceX’s I.P.O. | NYT · Technology | Technology | news | 2026-06-11 | [link](https://www.nytimes.com/2026/06/11/business/spacex-tesla-ipo-elon-musk.html) |
+| 2026-06-11 | Skeptics Question Whether SpaceX Is Worth $1.77 Trillion | NYT · Technology | Technology | news | 2026-06-11 | [link](https://www.nytimes.com/2026/06/11/technology/spacex-valuation-skeptics.html) |
+| 2026-06-11 | Democrats, Join the Data Center Resistance | NYT · AI | AI | opinion | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/opinion/data-center-ai-democrats.html) |
+| 2026-06-11 | Should the Public Get a Piece of A.I. Wealth? | NYT · AI | AI | opinion | 2026-06-11 | [link](https://www.nytimes.com/2026/06/11/opinion/ai-wealth-bernie-sanders.html) |
+| 2026-06-11 | Jeff Bezos Wants to Build an ‘Artificial General Engineer’ | NYT · Technology | Technology | news | 2026-06-11 | [link](https://www.nytimes.com/2026/06/11/technology/bezos-prometheus-ai-engineer.html) |
+| 2026-06-11 | The Global Bull Market That A.I. Obscures | NYT · Opinion | Opinion | opinion | 2026-06-12 | [link](https://www.nytimes.com/2026/06/10/opinion/global-bull-market-ai.html) |
+| 2026-06-11 | Can’t Pay Medical Bills? Trump Administration Suggests Getting a Loan | NYT · Business | Business | news | 2026-06-11 | [link](https://www.nytimes.com/2026/06/11/business/aca-health-care-costs-medical-debt.html) |
+| 2026-06-11 | The Iran War is Forcing Energy-Importing Countries to Turn Inward | NYT · Energy & Environment | Energy & Environment | news | 2026-06-09 | [link](https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html) |
+| 2026-06-11 | Supreme Court Blocks Alabama From Executing Inmate Using Nitrogen Gas | NYT · U.S. | U.S. | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/11/us/supreme-court-blocks-alabama-nitrogen-execution.html) |
+| 2026-06-11 | Democrats Once Vowed to Stop Oil and Gas. Now They’re Not So Sure. | NYT · Energy & Environment | Energy & Environment | news | 2026-06-11 | [link](https://www.nytimes.com/2026/06/11/climate/democrats-climate-change-oil-gas.html) |
+| 2026-06-11 | The World Is Draining Oil Reserves, Raising Pressure for a Peace Deal | NYT · Energy & Environment | Energy & Environment | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/business/energy-environment/iran-war-oil-reserves.html) |
+| 2026-06-11 | California’s Public Universities Went All in on A.I. Now They’re Tearing Themselves Apart. | NYT · AI | AI | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html) |
+| 2026-06-11 | How NextEra Energy Wielded Political Power in Florida | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/business/energy-environment/nextera-energy-florida-politics-dominion.html) |
+| 2026-06-11 | I was a V.C. Partner. We Can’t Let Silicon Valley Buy Democracy. | NYT · Opinion | Opinion | opinion | 2026-06-11 | [link](https://www.nytimes.com/2026/06/11/opinion/silicon-valley-ai-politics.html) |
+| 2026-06-11 | Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-11 | [link](https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything) |
+| 2026-06-11 | Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-11 | [link](https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/) |
+| 2026-06-11 | Claude Fable is relentlessly proactive | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-11 | [link](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything) |
+| 2026-06-11 | Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-11 | [link](https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/) |
+| 2026-06-11 | Anthropic rolls out public version of Mythos without cybersecurity capability | Superpower Daily · Tech & Engineering | Technology | tech | 2026-06-11 | [link](https://www.superpowerdaily.com/p/anthropic-rolls-out-public-version-of-mythos-without-cybersecurity-capability) |
+| 2026-06-11 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-10 | Building an HTML-first site doubled our users overnight | HN | Technology | tech | 2026-06-10 | [link](https://mohkohn.co.uk/writing/html-first/) |
 | 2026-06-10 | πFS | HN | Technology | tech | 2026-06-10 | [link](https://github.com/philipl/pifs) |
 | 2026-06-10 | I'm Eric Ries, author of "The Lean Startup" and new book "Incorruptible" – AMA | HN | Technology | tech | 2026-06-10 | [link](https://news.ycombinator.com/item?id=48477135) |

@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-11 · 406 days · 4060 stories*
+*Last updated: 2026-06-12 · 407 days · 4070 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-11 | Thursday | 1 | Show HN: Homebrew 6.0.0 | 1234 | 285 | Technology | [link](https://brew.sh/2026/06/11/homebrew-6.0.0/) · [HN](https://news.ycombinator.com/item?id=48490024) |
+| 2026-06-11 | Thursday | 2 | If you are asking for human attention, demonstrate human effort | 749 | 243 | Technology | [link](https://tombedor.dev/human-attention-and-human-effort/) · [HN](https://news.ycombinator.com/item?id=48497609) |
+| 2026-06-11 | Thursday | 3 | Pokémon Go Scans Trained the Navigation Tech for Military Drones | 696 | 312 | Technology | [link](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/) · [HN](https://news.ycombinator.com/item?id=48487029) |
+| 2026-06-11 | Thursday | 4 | MiMo Code is now released and open-source | 496 | 273 | Technology | [link](https://mimo.xiaomi.com/mimocode) · [HN](https://news.ycombinator.com/item?id=48490826) |
+| 2026-06-11 | Thursday | 5 | Nobody ever gets credit for fixing problems that never happened (2001) [pdf] | 467 | 156 | Technology | [link](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf) · [HN](https://news.ycombinator.com/item?id=48498385) |
+| 2026-06-11 | Thursday | 6 | Solar generates more energy in US than coal for first time | 462 | 213 | Technology | [link](https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal) · [HN](https://news.ycombinator.com/item?id=48492306) |
+| 2026-06-11 | Thursday | 7 | Claude Fable is relentlessly proactive | 445 | 346 | Technology | [link](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/) · [HN](https://news.ycombinator.com/item?id=48498573) |
+| 2026-06-11 | Thursday | 8 | Petition to Withdraw Canada's Bill C-22 | 439 | 144 | Technology | [link](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416) · [HN](https://news.ycombinator.com/item?id=48491830) |
+| 2026-06-11 | Thursday | 9 | Anthropic apologizes for invisible Claude Fable guardrails | 421 | 386 | Technology | [link](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail) · [HN](https://news.ycombinator.com/item?id=48489229) |
+| 2026-06-11 | Thursday | 10 | Show HN: FablePool – pool money behind a prompt, and Fable builds it in public | 399 | 216 | Technology | [link](https://fablepool.com) · [HN](https://news.ycombinator.com/item?id=48496539) |
 | 2026-06-10 | Wednesday | 1 | Building an HTML-first site doubled our users overnight | 1131 | 510 | Technology | [link](https://mohkohn.co.uk/writing/html-first/) · [HN](https://news.ycombinator.com/item?id=48475483) |
 | 2026-06-10 | Wednesday | 2 | πFS | 751 | 178 | Technology | [link](https://github.com/philipl/pifs) · [HN](https://news.ycombinator.com/item?id=48480978) |
 | 2026-06-10 | Wednesday | 3 | I'm Eric Ries, author of "The Lean Startup" and new book "Incorruptible" – AMA | 667 | 490 | Technology | [link](https://news.ycombinator.com/item?id=48477135) · [HN](https://news.ycombinator.com/item?id=48477135) |
