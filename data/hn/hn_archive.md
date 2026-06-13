@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-12 · 407 days · 4070 stories*
+*Last updated: 2026-06-13 · 408 days · 4080 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-12 | Friday | 1 | Statement on US government directive to suspend access to Fable 5 and Mythos 5 | 2289 | 1643 | Technology | [link](https://www.anthropic.com/news/fable-mythos-access) · [HN](https://news.ycombinator.com/item?id=48511072) |
+| 2026-06-12 | Friday | 2 | AI agent bankrupted their operator while trying to scan DN42 | 1415 | 515 | Technology | [link](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) · [HN](https://news.ycombinator.com/item?id=48500012) |
+| 2026-06-12 | Friday | 3 | Open source AI must win | 915 | 285 | Technology | [link](https://opensourceaimustwin.com/?share=v2) · [HN](https://news.ycombinator.com/item?id=48511908) |
+| 2026-06-12 | Friday | 4 | CRISPR tech selectively shreds cancer cells, including "undruggable" cancers | 821 | 190 | Technology | [link](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/) · [HN](https://news.ycombinator.com/item?id=48505231) |
+| 2026-06-12 | Friday | 5 | Electric motors with no rare earths | 456 | 126 | Technology | [link](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/) · [HN](https://news.ycombinator.com/item?id=48510010) |
+| 2026-06-12 | Friday | 6 | Kimi K2.7-Code: open-source coding model with better token efficiency | 429 | 224 | Technology | [link](https://huggingface.co/moonshotai/Kimi-K2.7-Code) · [HN](https://news.ycombinator.com/item?id=48502347) |
+| 2026-06-12 | Friday | 7 | "Don't You Just Upload It to ChatGPT?" | 412 | 337 | Technology | [link](https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/) · [HN](https://news.ycombinator.com/item?id=48507278) |
+| 2026-06-12 | Friday | 8 | How to setup a local coding agent on macOS | 373 | 92 | Technology | [link](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos) · [HN](https://news.ycombinator.com/item?id=48507020) |
+| 2026-06-12 | Friday | 9 | Palantir loses legal challenge against Swiss investigative magazine | 343 | 73 | Technology | [link](https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979) · [HN](https://news.ycombinator.com/item?id=48509182) |
+| 2026-06-12 | Friday | 10 | A Call to Action: Stop the FCC's KYC Regime | 319 | 217 | Technology | [link](https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/) · [HN](https://news.ycombinator.com/item?id=48504697) |
 | 2026-06-11 | Thursday | 1 | Show HN: Homebrew 6.0.0 | 1234 | 285 | Technology | [link](https://brew.sh/2026/06/11/homebrew-6.0.0/) · [HN](https://news.ycombinator.com/item?id=48490024) |
 | 2026-06-11 | Thursday | 2 | If you are asking for human attention, demonstrate human effort | 749 | 243 | Technology | [link](https://tombedor.dev/human-attention-and-human-effort/) · [HN](https://news.ycombinator.com/item?id=48497609) |
 | 2026-06-11 | Thursday | 3 | Pokémon Go Scans Trained the Navigation Tech for Military Drones | 696 | 312 | Technology | [link](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/) · [HN](https://news.ycombinator.com/item?id=48487029) |

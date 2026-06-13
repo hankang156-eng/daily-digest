@@ -1,9 +1,51 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-12 · 1950 items*
+*Last updated: 2026-06-13 · 1992 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-12 | Statement on US government directive to suspend access to Fable 5 and Mythos 5 | HN | Technology | tech | 2026-06-12 | [link](https://www.anthropic.com/news/fable-mythos-access) |
+| 2026-06-12 | AI agent bankrupted their operator while trying to scan DN42 | HN | Technology | tech | 2026-06-12 | [link](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) |
+| 2026-06-12 | Open source AI must win | HN | Technology | tech | 2026-06-12 | [link](https://opensourceaimustwin.com/?share=v2) |
+| 2026-06-12 | CRISPR tech selectively shreds cancer cells, including "undruggable" cancers | HN | Technology | tech | 2026-06-12 | [link](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/) |
+| 2026-06-12 | Electric motors with no rare earths | HN | Technology | tech | 2026-06-12 | [link](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/) |
+| 2026-06-12 | Kimi K2.7-Code: open-source coding model with better token efficiency | HN | Technology | tech | 2026-06-12 | [link](https://huggingface.co/moonshotai/Kimi-K2.7-Code) |
+| 2026-06-12 | "Don't You Just Upload It to ChatGPT?" | HN | Technology | tech | 2026-06-12 | [link](https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/) |
+| 2026-06-12 | How to setup a local coding agent on macOS | HN | Technology | tech | 2026-06-12 | [link](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos) |
+| 2026-06-12 | Palantir loses legal challenge against Swiss investigative magazine | HN | Technology | tech | 2026-06-12 | [link](https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979) |
+| 2026-06-12 | A Call to Action: Stop the FCC's KYC Regime | HN | Technology | tech | 2026-06-12 | [link](https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/) |
+| 2026-06-12 | AUR packages compromised with Infostealer and Rootkit | HN | Technology | tech | 2026-06-12 | [link](https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577) |
+| 2026-06-12 | I Am Not a Reverse Centaur | HN | Technology | tech | 2026-06-12 | [link](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur) |
+| 2026-06-12 | Pirates, a naval warfare game inspired by Sid Meier's Pirates | HN | Technology | tech | 2026-06-12 | [link](https://piwodlaiwo.github.io/pirates/) |
+| 2026-06-12 | We've suspended access to Claude Mythos 5 and Claude Fable 5 | HN | Technology | tech | 2026-06-12 | [link](https://status.claude.com/incidents/s9w82lp9dcn9) |
+| 2026-06-12 | Ryanair dark UX patterns summer 2026 refresher | HN | Technology | tech | 2026-06-12 | [link](https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/) |
+| 2026-06-12 | WASI 0.3 | HN | Technology | tech | 2026-06-12 | [link](https://bytecodealliance.org/articles/WASI-0.3) |
+| 2026-06-12 | Mega I.P.O. Frenzy Could Be a Harbinger of a Stock Bubble | NYT · AI | AI | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/business/spacex-ipo-musk-stock-bubble.html) |
+| 2026-06-12 | SpaceX Stock Rises 11% in Largest IPO Ever | NYT · AI | AI | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/technology/spacex-ipo-elon-musk.html) |
+| 2026-06-12 | What the SpaceX I.P.O. Means for OpenAI and Anthropic | NYT · AI | AI | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/technology/spacex-ipo-openai-anthropic.html) |
+| 2026-06-12 | Google Sues to Stop Chinese Cybercrime Group from Using Its A.I. | NYT · Technology | Technology | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/technology/google-lawsuit-china-ai-scams.html) |
+| 2026-06-12 | SpaceX IPO: How Our Reporters Assess the Sky-High Valuation and Potential Economic Impact | NYT · Economy | Economy | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html) |
+| 2026-06-12 | Wages Are Falling. Wealth Is Surging. No Wonder Americans Are Unhappy. | NYT · AI | AI | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/business/economy-trillionaire-wealth-wages.html) |
+| 2026-06-12 | I Was a V.C. Partner. We Can’t Let Silicon Valley Buy Democracy. | NYT · Opinion | Opinion | opinion | 2026-06-12 | [link](https://www.nytimes.com/2026/06/11/opinion/silicon-valley-ai-politics.html) |
+| 2026-06-12 | SpaceX Finalizes IPO Price at $135 a Share in World’s Largest Public Offering | NYT · Technology | Technology | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/11/technology/spacex-ipo-price.html) |
+| 2026-06-12 | Anthropic Blocks Foreigners From Using Mythos and Fable AI | NYT · AI | AI | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/12/technology/anthropic-mythos-fable5-blocked.html) |
+| 2026-06-12 | How SpaceX’s IPO Compares With Saudi Aramco, Uber and Others | NYT · Business | Business | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/business/spacex-biggest-ipos-elon-musk.html) |
+| 2026-06-12 | The Global Bull Market That A.I. Obscures | NYT · Opinion | Opinion | opinion | 2026-06-12 | [link](https://www.nytimes.com/2026/06/10/opinion/global-bull-market-ai.html) |
+| 2026-06-12 | ‘Top Republicans Should Actually Be More Concerned’ | NYT · Opinion | Opinion | opinion | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/opinion/republicans-midterms-politics-election.html) |
+| 2026-06-12 | Dutch Authorities Block $115 Million Deal by a U.S. Tech Company | NYT · Technology | Technology | news | 2026-06-09 | [link](https://www.nytimes.com/2026/06/09/technology/solvinity-kyndryl-blocked-deal-us-europe-rift.html) |
+| 2026-06-12 | The World Is Draining Oil Reserves, Raising Pressure for a Peace Deal | NYT · Energy & Environment | Energy & Environment | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/business/energy-environment/iran-war-oil-reserves.html) |
+| 2026-06-12 | California’s Public Universities Went All in on A.I. Now They’re Tearing Themselves Apart. | NYT · AI | AI | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html) |
+| 2026-06-12 | Federal Agents Search Voting Rights Group in Ohio | NYT · Politics | Politics | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/us/politics/federal-search-voting-rights-group-ohio.html) |
+| 2026-06-12 | Judge Declines to Halt UFC Fight at the White House on Trump’s Birthday | NYT · Politics | Politics | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/us/politics/trump-ufc-cage-lawsuit.html) |
+| 2026-06-12 | S.E.C. Proposes to Kill Climate Change Disclosure Rule | NYT · Energy & Environment | Energy & Environment | news | 2026-06-02 | [link](https://www.nytimes.com/2026/05/29/climate/sec-climate-disclosure-rule.html) |
+| 2026-06-12 | How Sergio Gor Is Transforming the Role of U.S. Ambassador in the Trump Era | NYT · Politics | Politics | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/us/politics/sergio-gor-ambassador-transformation-trump-era.html) |
+| 2026-06-12 | Renewable Groups Ask Courts to End Pentagon’s ‘Total Halt’ of Wind Power | NYT · Energy & Environment | Energy & Environment | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/climate/wind-power-lawsuit-pentagon-trump.html) |
+| 2026-06-12 | Quoting Andrew Singleton | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-12 | [link](https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything) |
+| 2026-06-12 | OpenAI WebRTC Audio Session, now with document context | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-12 | [link](https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything) |
+| 2026-06-12 | The European Commission Response to Siri AI and the DMA | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-12 | [link](https://www.linkedin.com/posts/thomas-regnier-24a05810b_what-is-the-true-story-behind-apples-decision-activity-7470439874664280064-TuEt) |
+| 2026-06-12 | ★ The Talk Show: Live From WWDC 2026 | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-12 | [link](https://daringfireball.net/2026/06/the_talk_show_live_from_wwdc_2026) |
+| 2026-06-12 | Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-06-12 | [link](https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/) |
+| 2026-06-12 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-11 | Show HN: Homebrew 6.0.0 | HN | Technology | tech | 2026-06-11 | [link](https://brew.sh/2026/06/11/homebrew-6.0.0/) |
 | 2026-06-11 | If you are asking for human attention, demonstrate human effort | HN | Technology | tech | 2026-06-11 | [link](https://tombedor.dev/human-attention-and-human-effort/) |
 | 2026-06-11 | Pokémon Go Scans Trained the Navigation Tech for Military Drones | HN | Technology | tech | 2026-06-11 | [link](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/) |
