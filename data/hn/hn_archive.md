@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-13 · 408 days · 4080 stories*
+*Last updated: 2026-06-14 · 409 days · 4090 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-13 | Saturday | 1 | Noise infusion banned from statistical products published by Census Bureau | 825 | 512 | Technology | [link](https://desfontain.es/blog/banning-noise.html) · [HN](https://news.ycombinator.com/item?id=48517377) |
+| 2026-06-13 | Saturday | 2 | Every Frame Perfect | 716 | 230 | Technology | [link](https://tonsky.me/blog/every-frame-perfect/) · [HN](https://news.ycombinator.com/item?id=48516251) |
+| 2026-06-13 | Saturday | 3 | Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models | 689 | 506 | Technology | [link](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink) · [HN](https://news.ycombinator.com/item?id=48519092) |
+| 2026-06-13 | Saturday | 4 | Israeli firm BlackCore suspected of meddling in New York and Scotland votes | 645 | 376 | Technology | [link](https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/) · [HN](https://news.ycombinator.com/item?id=48514560) |
+| 2026-06-13 | Saturday | 5 | GLM 5.2 Is Out | 582 | 321 | Technology | [link](https://twitter.com/jietang/status/2065784751345287314) · [HN](https://news.ycombinator.com/item?id=48518684) |
+| 2026-06-13 | Saturday | 6 | Leaving Mozilla | 482 | 295 | Technology | [link](https://blog.unitedheroes.net/5751) · [HN](https://news.ycombinator.com/item?id=48513806) |
+| 2026-06-13 | Saturday | 7 | There is a shadow hanging over this Fable thing | 472 | 466 | Technology | [link](https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow) · [HN](https://news.ycombinator.com/item?id=48513536) |
+| 2026-06-13 | Saturday | 8 | Treating pancreatic tumours may have revealed cancer's master switch | 365 | 131 | Technology | [link](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch) · [HN](https://news.ycombinator.com/item?id=48517199) |
+| 2026-06-13 | Saturday | 9 | Police officer investigated for using AI to 'create evidence' in multiple cases | 324 | 158 | Technology | [link](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661) · [HN](https://news.ycombinator.com/item?id=48520807) |
+| 2026-06-13 | Saturday | 10 | Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages | 298 | 188 | Technology | [link](https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500) · [HN](https://news.ycombinator.com/item?id=48516379) |
 | 2026-06-12 | Friday | 1 | Statement on US government directive to suspend access to Fable 5 and Mythos 5 | 2289 | 1643 | Technology | [link](https://www.anthropic.com/news/fable-mythos-access) · [HN](https://news.ycombinator.com/item?id=48511072) |
 | 2026-06-12 | Friday | 2 | AI agent bankrupted their operator while trying to scan DN42 | 1415 | 515 | Technology | [link](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) · [HN](https://news.ycombinator.com/item?id=48500012) |
 | 2026-06-12 | Friday | 3 | Open source AI must win | 915 | 285 | Technology | [link](https://opensourceaimustwin.com/?share=v2) · [HN](https://news.ycombinator.com/item?id=48511908) |

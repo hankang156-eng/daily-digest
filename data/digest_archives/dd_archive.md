@@ -1,9 +1,50 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-13 · 1992 items*
+*Last updated: 2026-06-14 · 2033 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-13 | Noise infusion banned from statistical products published by Census Bureau | HN | Technology | tech | 2026-06-13 | [link](https://desfontain.es/blog/banning-noise.html) |
+| 2026-06-13 | Every Frame Perfect | HN | Technology | tech | 2026-06-13 | [link](https://tonsky.me/blog/every-frame-perfect/) |
+| 2026-06-13 | Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models | HN | Technology | tech | 2026-06-13 | [link](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink) |
+| 2026-06-13 | Israeli firm BlackCore suspected of meddling in New York and Scotland votes | HN | Technology | tech | 2026-06-13 | [link](https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/) |
+| 2026-06-13 | GLM 5.2 Is Out | HN | Technology | tech | 2026-06-13 | [link](https://twitter.com/jietang/status/2065784751345287314) |
+| 2026-06-13 | Leaving Mozilla | HN | Technology | tech | 2026-06-13 | [link](https://blog.unitedheroes.net/5751) |
+| 2026-06-13 | There is a shadow hanging over this Fable thing | HN | Technology | tech | 2026-06-13 | [link](https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow) |
+| 2026-06-13 | Treating pancreatic tumours may have revealed cancer's master switch | HN | Technology | tech | 2026-06-13 | [link](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch) |
+| 2026-06-13 | Police officer investigated for using AI to 'create evidence' in multiple cases | HN | Technology | tech | 2026-06-13 | [link](https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661) |
+| 2026-06-13 | Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages | HN | Technology | tech | 2026-06-13 | [link](https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500) |
+| 2026-06-13 | AI coding at home without going broke | HN | Technology | tech | 2026-06-13 | [link](https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/) |
+| 2026-06-13 | A low-carbon computing platform from your retired phones | HN | Technology | tech | 2026-06-13 | [link](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/) |
+| 2026-06-13 | Honda Civics and the Evil Valet | HN | Technology | tech | 2026-06-13 | [link](https://juniperspring.org/posts/honda-evil-valet/) |
+| 2026-06-13 | AI OSS tool repo goes archived over night after raising $7.3M Seed | HN | Technology | tech | 2026-06-13 | [link](https://github.com/tensorzero/tensorzero) |
+| 2026-06-13 | RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8 | HN | Technology | tech | 2026-06-13 | [link](https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/) |
+| 2026-06-13 | The experience of rendering Arabic typography and its technical debt | HN | Technology | tech | 2026-06-13 | [link](https://lr0.org/blog/p/arabic/) |
+| 2026-06-13 | How to Run a News Company in the Age of Polarization and A.I. Slop | NYT · Business | Business | news | 2026-06-14 | [link](https://www.nytimes.com/2026/06/14/business/nbc-news-cesar-conde.html) |
+| 2026-06-13 | Justice Dept. Clears Way for Paramount-Warner Bros. Merger | NYT · Business | Business | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html) |
+| 2026-06-13 | Mega I.P.O. Frenzy Could Be a Harbinger of a Stock Bubble | NYT · Business | Business | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/business/spacex-ipo-musk-stock-bubble.html) |
+| 2026-06-13 | Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models | NYT · Politics | Politics | news | 2026-06-14 | [link](https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html) |
+| 2026-06-13 | Merger Cleared, David Ellison to Join Trump at U.F.C. Bout | NYT · Technology | Technology | news | 2026-06-14 | [link](https://www.nytimes.com/2026/06/14/business/media/trump-ufc-david-ellison.html) |
+| 2026-06-13 | State Attorneys General Are Investigating OpenAI | NYT · Technology | Technology | news | 2026-06-14 | [link](https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html) |
+| 2026-06-13 | U.S. Bars Foreigners From Using Anthropic’s Most Advanced A.I. Models | NYT · Technology | Technology | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/12/technology/anthropic-mythos-fable5-blocked.html) |
+| 2026-06-13 | Google Sues to Stop Chinese Cybercrime Group from Using Its A.I. | NYT · Technology | Technology | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/technology/google-lawsuit-china-ai-scams.html) |
+| 2026-06-13 | How to Kick SpaceX Out of Your 401(k) | NYT · Opinion | Opinion | opinion | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/opinion/spacex-stock-ipo-ai.html) |
+| 2026-06-13 | SpaceX IPO: How Our Reporters Assess the Sky-High Valuation and Potential Economic Impact | NYT · Economy | Economy | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html) |
+| 2026-06-13 | Wages Are Falling. Wealth Is Surging. No Wonder Americans Are Unhappy. | NYT · Business | Business | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/business/economy-trillionaire-wealth-wages.html) |
+| 2026-06-13 | SpaceX Stock Rises 11% in Largest IPO Ever | NYT · Technology | Technology | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/technology/spacex-ipo-elon-musk.html) |
+| 2026-06-13 | What the SpaceX I.P.O. Means for OpenAI and Anthropic | NYT · Technology | Technology | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/technology/spacex-ipo-openai-anthropic.html) |
+| 2026-06-13 | I Was a V.C. Partner. We Can’t Let Silicon Valley Buy Democracy. | NYT · Opinion | Opinion | opinion | 2026-06-12 | [link](https://www.nytimes.com/2026/06/11/opinion/silicon-valley-ai-politics.html) |
+| 2026-06-13 | Turning to ChatGPT for Help Instead of Your Doctor | NYT · Opinion | Opinion | opinion | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/opinion/doctor-chatgpt.html) |
+| 2026-06-13 | Dutch Authorities Block $115 Million Deal by a U.S. Tech Company | NYT · Technology | Technology | news | 2026-06-09 | [link](https://www.nytimes.com/2026/06/09/technology/solvinity-kyndryl-blocked-deal-us-europe-rift.html) |
+| 2026-06-13 | The Global Bull Market That A.I. Obscures | NYT · Opinion | Opinion | opinion | 2026-06-12 | [link](https://www.nytimes.com/2026/06/10/opinion/global-bull-market-ai.html) |
+| 2026-06-13 | S.E.C. Proposes to Kill Climate Change Disclosure Rule | NYT · Energy & Environment | Energy & Environment | news | 2026-06-02 | [link](https://www.nytimes.com/2026/05/29/climate/sec-climate-disclosure-rule.html) |
+| 2026-06-13 | Trump Again Picks Personal Lawyer for a Top Job, as U.S. Attorney in Manhattan | NYT · Politics | Politics | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/us/politics/trump-lawyer-us-attorney-manhattan.html) |
+| 2026-06-13 | How Sergio Gor Is Transforming the Role of U.S. Ambassador in the Trump Era | NYT · Politics | Politics | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/us/politics/sergio-gor-ambassador-transformation-trump-era.html) |
+| 2026-06-13 | Mapping SQLite result columns back to their source `table.column` | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-13 | [link](https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything) |
+| 2026-06-13 | Statement on the US government directive to suspend access to Fable 5 and Mythos 5 | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-13 | [link](https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything) |
+| 2026-06-13 | Apple’s Private Cloud Compute Is Severely Limited for Third-Party Developers | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-13 | [link](https://developer.apple.com/private-cloud-compute/) |
+| 2026-06-13 | U.S. Government Directs Anthropic to Shut Down Fable 5 and Mythos 5 Models on National Security Grou | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-13 | [link](https://www.anthropic.com/news/fable-mythos-access) |
+| 2026-06-13 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-12 | Statement on US government directive to suspend access to Fable 5 and Mythos 5 | HN | Technology | tech | 2026-06-12 | [link](https://www.anthropic.com/news/fable-mythos-access) |
 | 2026-06-12 | AI agent bankrupted their operator while trying to scan DN42 | HN | Technology | tech | 2026-06-12 | [link](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) |
 | 2026-06-12 | Open source AI must win | HN | Technology | tech | 2026-06-12 | [link](https://opensourceaimustwin.com/?share=v2) |
