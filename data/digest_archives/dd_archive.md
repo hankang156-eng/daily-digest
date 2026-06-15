@@ -1,9 +1,49 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-14 · 2033 items*
+*Last updated: 2026-06-15 · 2073 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-14 | How to earn a billion dollars | HN | Technology | tech | 2026-06-14 | [link](https://paulgraham.com/earn.html) |
+| 2026-06-14 | Your ePub Is fine | HN | Technology | tech | 2026-06-14 | [link](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) |
+| 2026-06-14 | Show HN: Kage – Shadow any website to a single binary for offline viewing | HN | Technology | tech | 2026-06-14 | [link](https://github.com/tamnd/kage) |
+| 2026-06-14 | Not everyone is using AI for everything | HN | Technology | tech | 2026-06-14 | [link](https://gabrielweinberg.com/p/people-are-consuming-ai-like-they) |
+| 2026-06-14 | I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models | HN | Technology | tech | 2026-06-14 | [link](https://news.ycombinator.com/item?id=48528029) |
+| 2026-06-14 | Windows 11 users are tired of MS account requirements creeping into everything | HN | Technology | tech | 2026-06-14 | [link](https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds) |
+| 2026-06-14 | Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model | HN | Technology | tech | 2026-06-14 | [link](https://github.com/nex-agi/Nex-N2/issues/4) |
+| 2026-06-14 | Linux 7.1 | HN | Technology | tech | 2026-06-14 | [link](https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u) |
+| 2026-06-14 | Formal methods and the future of programming | HN | Technology | tech | 2026-06-14 | [link](https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1) |
+| 2026-06-14 | Don't trust large context windows | HN | Technology | tech | 2026-06-14 | [link](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows) |
+| 2026-06-14 | Ask HN: What are you working on? (June 2026) | HN | Technology | tech | 2026-06-14 | [link](https://news.ycombinator.com/item?id=48528779) |
+| 2026-06-14 | The Birth and Death of JavaScript (2014) | HN | Technology | tech | 2026-06-14 | [link](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) |
+| 2026-06-14 | A 'cold blob' in the Atlantic could be a sign of AMOC shutdown | HN | Technology | tech | 2026-06-14 | [link](https://www.cnn.com/2026/06/12/climate/cold-blob-atlantic-amoc-ocean-circulation) |
+| 2026-06-14 | Pac-Man, but you're the ghost | HN | Technology | tech | 2026-06-14 | [link](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost) |
+| 2026-06-14 | Even more batteries included with Emacs | HN | Technology | tech | 2026-06-14 | [link](https://karthinks.com/software/even-more-batteries-included-with-emacs/) |
+| 2026-06-14 | Phoenix LiveView 1.2 | HN | Technology | tech | 2026-06-14 | [link](https://phoenixframework.org/blog/phoenix-liveview-1-2-released) |
+| 2026-06-14 | How to Run a News Company in the Age of Polarization and A.I. Slop | NYT · AI | AI | news | 2026-06-14 | [link](https://www.nytimes.com/2026/06/14/business/nbc-news-cesar-conde.html) |
+| 2026-06-14 | State Attorneys General Are Investigating OpenAI | NYT · AI | AI | news | 2026-06-14 | [link](https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html) |
+| 2026-06-14 | Everyone Wants to Tax A.I. The Big Disagreement: How? | NYT · AI | AI | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/business/dealbook/ai-tax-proposals.html) |
+| 2026-06-14 | Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models | NYT · AI | AI | news | 2026-06-14 | [link](https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html) |
+| 2026-06-14 | Wages Are Falling. Wealth Is Surging. No Wonder Americans Are Unhappy. | NYT · AI | AI | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/business/economy-trillionaire-wealth-wages.html) |
+| 2026-06-14 | Merger Cleared, David Ellison to Join Trump at U.F.C. Bouts | NYT · Technology | Technology | news | 2026-06-14 | [link](https://www.nytimes.com/2026/06/14/business/media/trump-ufc-david-ellison.html) |
+| 2026-06-14 | How to Kick SpaceX Out of Your 401(k) | NYT · AI | AI | opinion | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/opinion/spacex-stock-ipo-ai.html) |
+| 2026-06-14 | In Alabama, Opposition to Renewable Solar Energy Joins a Data Center Battle | NYT · U.S. | U.S. | news | 2026-06-15 | [link](https://www.nytimes.com/2026/06/15/us/elections/alabama-election-data-centers-solar-power.html) |
+| 2026-06-14 | Justice Dept. Clears Way for Paramount-Warner Bros. Merger | NYT · Business | Business | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html) |
+| 2026-06-14 | In Age of AI, World’s Leading Deepfake Expert No Longer Trusts His Own Eyes | NYT · AI | AI | news | 2026-06-14 | [link](https://www.nytimes.com/2026/06/14/us/ai-deepfake-hany-farid.html) |
+| 2026-06-14 | Mega I.P.O. Frenzy Could Be a Harbinger of a Stock Bubble | NYT · Business | Business | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/business/spacex-ipo-musk-stock-bubble.html) |
+| 2026-06-14 | Google Sues to Stop Chinese Cybercrime Group from Using Its A.I. | NYT · Technology | Technology | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/technology/google-lawsuit-china-ai-scams.html) |
+| 2026-06-14 | Turning to ChatGPT for Help Instead of Your Doctor | NYT · AI | AI | opinion | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/opinion/doctor-chatgpt.html) |
+| 2026-06-14 | SpaceX IPO: How Our Reporters Assess the Sky-High Valuation and Potential Economic Impact | NYT · Economy | Economy | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html) |
+| 2026-06-14 | U.S. Bars Foreigners From Using Anthropic’s Most Advanced A.I. Models | NYT · Technology | Technology | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/12/technology/anthropic-mythos-fable5-blocked.html) |
+| 2026-06-14 | What the SpaceX I.P.O. Means for OpenAI and Anthropic | NYT · Technology | Technology | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/technology/spacex-ipo-openai-anthropic.html) |
+| 2026-06-14 | How Ukraine Uses A.I. to Knock Deadly Russian Drones Out of the Skies | NYT · AI | AI | news | 2026-06-15 | [link](https://www.nytimes.com/2026/06/15/world/europe/ukraine-russia-war-ai.html) |
+| 2026-06-14 | I Was a V.C. Partner. We Can’t Let Silicon Valley Buy Democracy. | NYT · Opinion | Opinion | opinion | 2026-06-12 | [link](https://www.nytimes.com/2026/06/11/opinion/silicon-valley-ai-politics.html) |
+| 2026-06-14 | A Clean Energy PAC Helped Beat Chip Roy, and Now It Has New Targets | NYT · Energy & Environment | Energy & Environment | news | 2026-05-29 | [link](https://www.nytimes.com/2026/05/29/climate/clean-energy-pac-chip-roy.html) |
+| 2026-06-14 | What A.I. Did to My College Class | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-05-17 | [link](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html) |
+| 2026-06-14 | Why AI hasn’t replaced software engineers, and won’t | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-14 | [link](https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything) |
+| 2026-06-14 | Did Frank Sinatra really think "Something" was a Lennon/McCartney song? | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-06-14 | [link](https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/) |
+| 2026-06-14 | Parsing JSON at compile time with C++26 static reflection | Lemire.me · Tech & Engineering | Technology | tech | 2026-06-14 | [link](https://lemire.me/blog/2026/06/14/parsing-json-at-compile-time-with-c26-static-reflection/) |
+| 2026-06-14 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-13 | Noise infusion banned from statistical products published by Census Bureau | HN | Technology | tech | 2026-06-13 | [link](https://desfontain.es/blog/banning-noise.html) |
 | 2026-06-13 | Every Frame Perfect | HN | Technology | tech | 2026-06-13 | [link](https://tonsky.me/blog/every-frame-perfect/) |
 | 2026-06-13 | Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models | HN | Technology | tech | 2026-06-13 | [link](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink) |

@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-14 · 409 days · 4090 stories*
+*Last updated: 2026-06-15 · 410 days · 4100 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-14 | Sunday | 1 | How to earn a billion dollars | 640 | 1647 | Technology | [link](https://paulgraham.com/earn.html) · [HN](https://news.ycombinator.com/item?id=48526360) |
+| 2026-06-14 | Sunday | 2 | Your ePub Is fine | 604 | 201 | Technology | [link](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) · [HN](https://news.ycombinator.com/item?id=48533848) |
+| 2026-06-14 | Sunday | 3 | Show HN: Kage – Shadow any website to a single binary for offline viewing | 565 | 111 | Technology | [link](https://github.com/tamnd/kage) · [HN](https://news.ycombinator.com/item?id=48529990) |
+| 2026-06-14 | Sunday | 4 | Not everyone is using AI for everything | 465 | 501 | Technology | [link](https://gabrielweinberg.com/p/people-are-consuming-ai-like-they) · [HN](https://news.ycombinator.com/item?id=48527700) |
+| 2026-06-14 | Sunday | 5 | I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models | 373 | 95 | Technology | [link](https://news.ycombinator.com/item?id=48528029) · [HN](https://news.ycombinator.com/item?id=48528029) |
+| 2026-06-14 | Sunday | 6 | Windows 11 users are tired of MS account requirements creeping into everything | 355 | 240 | Technology | [link](https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds) · [HN](https://news.ycombinator.com/item?id=48533101) |
+| 2026-06-14 | Sunday | 7 | Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model | 355 | 189 | Technology | [link](https://github.com/nex-agi/Nex-N2/issues/4) · [HN](https://news.ycombinator.com/item?id=48528371) |
+| 2026-06-14 | Sunday | 8 | Linux 7.1 | 294 | 112 | Technology | [link](https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u) · [HN](https://news.ycombinator.com/item?id=48528729) |
+| 2026-06-14 | Sunday | 9 | Formal methods and the future of programming | 275 | 95 | Technology | [link](https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1) · [HN](https://news.ycombinator.com/item?id=48526633) |
+| 2026-06-14 | Sunday | 10 | Don't trust large context windows | 254 | 186 | Technology | [link](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows) · [HN](https://news.ycombinator.com/item?id=48524620) |
 | 2026-06-13 | Saturday | 1 | Noise infusion banned from statistical products published by Census Bureau | 825 | 512 | Technology | [link](https://desfontain.es/blog/banning-noise.html) · [HN](https://news.ycombinator.com/item?id=48517377) |
 | 2026-06-13 | Saturday | 2 | Every Frame Perfect | 716 | 230 | Technology | [link](https://tonsky.me/blog/every-frame-perfect/) · [HN](https://news.ycombinator.com/item?id=48516251) |
 | 2026-06-13 | Saturday | 3 | Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models | 689 | 506 | Technology | [link](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink) · [HN](https://news.ycombinator.com/item?id=48519092) |
