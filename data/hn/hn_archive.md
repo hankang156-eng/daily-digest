@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-15 · 410 days · 4100 stories*
+*Last updated: 2026-06-16 · 411 days · 4110 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-15 | Monday | 1 | Iroh 1.0 | 1191 | 360 | Technology | [link](https://www.iroh.computer/blog/v1) · [HN](https://news.ycombinator.com/item?id=48542480) |
+| 2026-06-15 | Monday | 2 | A backdoor in a LinkedIn job offer | 1175 | 218 | Technology | [link](https://roman.pt/posts/linkedin-backdoor/) · [HN](https://news.ycombinator.com/item?id=48546294) |
+| 2026-06-15 | Monday | 3 | Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? | 990 | 444 | Technology | [link](https://news.ycombinator.com/item?id=48542100) · [HN](https://news.ycombinator.com/item?id=48542100) |
+| 2026-06-15 | Monday | 4 | TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed) | 834 | 154 | Technology | [link](https://tinywind.io) · [HN](https://news.ycombinator.com/item?id=48543475) |
+| 2026-06-15 | Monday | 5 | Curl will not accept vulnerability reports during July 2026 | 769 | 306 | Technology | [link](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/) · [HN](https://news.ycombinator.com/item?id=48537165) |
+| 2026-06-15 | Monday | 6 | What happened to nerds? | 724 | 487 | Technology | [link](https://mrmarket.lol/what-the-fuck-happened-to-nerds/) · [HN](https://news.ycombinator.com/item?id=48538229) |
+| 2026-06-15 | Monday | 7 | CrankGPT | 579 | 223 | Technology | [link](https://crankgpt.com) · [HN](https://news.ycombinator.com/item?id=48540854) |
+| 2026-06-15 | Monday | 8 | Apple Foundation Models | 473 | 219 | Technology | [link](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models) · [HN](https://news.ycombinator.com/item?id=48536776) |
+| 2026-06-15 | Monday | 9 | Hetzner Price Adjustment | 441 | 602 | Technology | [link](https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers) · [HN](https://news.ycombinator.com/item?id=48540844) |
+| 2026-06-15 | Monday | 10 | Banned Book Library in a Wi-Fi Smart Light Bulb | 381 | 200 | Technology | [link](https://www.richardosgood.com/posts/banned-book-library/) · [HN](https://news.ycombinator.com/item?id=48547985) |
 | 2026-06-14 | Sunday | 1 | How to earn a billion dollars | 640 | 1647 | Technology | [link](https://paulgraham.com/earn.html) · [HN](https://news.ycombinator.com/item?id=48526360) |
 | 2026-06-14 | Sunday | 2 | Your ePub Is fine | 604 | 201 | Technology | [link](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) · [HN](https://news.ycombinator.com/item?id=48533848) |
 | 2026-06-14 | Sunday | 3 | Show HN: Kage – Shadow any website to a single binary for offline viewing | 565 | 111 | Technology | [link](https://github.com/tamnd/kage) · [HN](https://news.ycombinator.com/item?id=48529990) |
