@@ -3,7 +3,9 @@
     "hn_digest_count": 16,
     "nyt_wsj_max_links": 20,
     "blog_max_links": 20,
-    "ranker_output_dir": "output/ranker_diagnostics"
+    "ranker_output_dir": "output/ranker_diagnostics",
+    "reddit_subreddits": ["ClaudeAI", "ClaudeCode", "ObsidianMD"],
+    "reddit_per_sub": 5
   },
   "github_pages": {
     "enabled": true,

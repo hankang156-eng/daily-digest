@@ -64,6 +64,13 @@ except Exception:
     HAS_BLOG_RANKER = False
     run_blog_ranker = None
 
+try:
+    from src.rankers.reddit_top_posts import fetch_reddit_top_posts
+    HAS_REDDIT_FETCHER = True
+except Exception:
+    HAS_REDDIT_FETCHER = False
+    fetch_reddit_top_posts = None
+
 
 CONFIG_FILE = REPO_ROOT / "config" / "config.json"
 DAILY_HTML_DIR = REPO_ROOT / "output" / "daily_html"
@@ -78,7 +85,9 @@ DEFAULT_CONFIG = {
         "hn_digest_count": 16,
         "nyt_wsj_max_links": 20,
         "blog_max_links": 20,
-        "ranker_output_dir": "output/ranker_diagnostics"
+        "ranker_output_dir": "output/ranker_diagnostics",
+        "reddit_subreddits": ["ClaudeAI", "ClaudeCode", "ObsidianMD"],
+        "reddit_per_sub": 5
     },
     "github_pages": {
         "enabled": False,
@@ -1106,6 +1115,7 @@ def build_sections(data, settings):
         "nyt_wsj": data.get("nyt_wsj", []),
         "research": [item for item in blog_items if item.get("source") in research_sources],
         "blogs": [item for item in blog_items if item.get("source") not in research_sources],
+        "reddit": data.get("reddit", []),
         "linkedin": data.get("linkedin", []),
     }
 
@@ -1679,6 +1689,11 @@ def _render_meta(article, kind="generic"):
         if wc: parts.append(wc)
         sc = score_span()
         if sc: parts.append(sc)
+    elif kind == "reddit":
+        parts.append(f'<span class="src">{_html_escape(article.get("source") or "Reddit")}</span>')
+        author = article.get("reddit_author")
+        if author: parts.append(span(f"by /u/{author}"))
+        if date_label: parts.append(span(date_label))
     else:
         src = article.get("source") or article.get("outlet")
         if src: parts.append(f'<span class="src">{_html_escape(src)}</span>')
@@ -1806,6 +1821,24 @@ def _render_nyt_section(title, articles, group_key="topic_tag", note=""):
     )
 
 
+def _render_reddit_section(title, articles):
+    if not articles:
+        return ""
+    sub_blocks = []
+    for label, group in _group_articles(articles, "source"):
+        items = "\n".join(_render_article(a, i, "reddit") for i, a in enumerate(group, 1))
+        sub_blocks.append(
+            '<details class="subsection" open>\n'
+            f'  <summary class="subhead"><h3>{_html_escape(label)}</h3></summary>\n'
+            f'{items}\n'
+            '</details>'
+        )
+    return (
+        '<details class="section" id="reddit" open>\n'
+        f'  <summary class="section-head"><h2>{_html_escape(title)}</h2></summary>\n'
+        + "\n".join(sub_blocks) +
+        '\n</details>'
+    )
 
 
 def digest_archive_entries(daily_html_dir=DAILY_HTML_DIR, href_prefix="output/daily_html"):
@@ -1891,6 +1924,7 @@ def generate_html(date, data, settings=None, archive_href="digest_archive.html")
         _render_nyt_section("Today on The New York Times", sections["nyt_wsj"], note=data.get("nyt_note", "")),
         _render_section("research", "MIT & Sloan Research", sections["research"], "blog"),
         _render_section("blogs", "Blog Posts", sections["blogs"], "blog"),
+        _render_reddit_section("Yesterday on Reddit", sections["reddit"]),
         _render_section("linkedin", "From the Network", sections["linkedin"], "linkedin"),
     ]
     body_sections = "\n\n".join(part for part in body_parts if part)
@@ -2014,6 +2048,7 @@ def generate_markdown(date, data, settings=None):
         parts += ["### 📰 Today on The New York Times", "", f"*{nyt_note}*", ""]
     parts += sec("🎓 MIT & Sloan Research", sections["research"], numbered=True)
     parts += sec("📚 Blog Posts", sections["blogs"], numbered=True)
+    parts += grouped_sec("👽 Yesterday on Reddit", sections["reddit"], "source")
     parts += sec("💼 LinkedIn - Rama's Activity", sections["linkedin"])
     parts += ["---", f"*Generated {datetime.datetime.now().strftime('%-I:%M %p')} on {datetime.date.today().strftime('%B %-d, %Y')}*"]
     return "\n".join(parts)
@@ -2145,7 +2180,7 @@ def _flatten_digest(date, data, settings=None):
             })
 
     for key in (
-        "hn", "nyt_wsj", "research", "blogs", "linkedin"
+        "hn", "nyt_wsj", "research", "blogs", "reddit", "linkedin"
     ):
         add(sections.get(key, []))
     return records
@@ -2407,35 +2442,49 @@ def main(target_date=None, summary_config=None):
     date = target_date or get_yesterday()
     print(f"  Fetching content for: {date}\n")
 
-    print("  [1/7] HackerNews...")
+    print("  [1/8] HackerNews...")
     hn = fetch_hackernews(n=int(settings.get("hn_digest_count", 16)), date=date, verbose=True)
 
-    print("  [2/7] NYT ranker...")
+    print("  [2/8] NYT ranker...")
     nyt_wsj, nyt_note = _run_nyt_wsj_ranker(date, settings)
 
-    print("  [3/7] Blog / research ranker...")
+    print("  [3/8] Blog / research ranker...")
     blogs = _run_blog_ranker(date, settings)
 
     data = {
         "hn": hn,
         "nyt_wsj": nyt_wsj,
         "blogs": blogs,
+        "reddit": [],
         "linkedin": [],
         "nyt_note": nyt_note,
     }
 
-    print("  [4/7] Reading stats...")
+    print("  [4/8] Reading stats...")
     enrich_article_reading_stats(data)
 
-    print("  [5/7] Article overviews...")
+    print("  [5/8] Article overviews...")
     summary_config = summary_config or {"provider": "none", "model": "", "nyt_sections": set()}
     enrich_article_overviews(data, summary_config, settings)
     fill_nyt_abstracts(data)
 
-    print("  [6/7] LinkedIn...")
+    print("  [6/8] LinkedIn...")
     data["linkedin"] = fetch_linkedin_activity()
 
-    print("  [7/7] Rendering and archives...")
+    print("  [7/8] Reddit top posts...")
+    if HAS_REDDIT_FETCHER and fetch_reddit_top_posts is not None:
+        try:
+            data["reddit"] = fetch_reddit_top_posts(
+                content_date=date,
+                subreddits=list(settings.get("reddit_subreddits", []) or []),
+                per_sub=int(settings.get("reddit_per_sub", 5)),
+            )
+        except Exception as exc:
+            print(f"  [Reddit] Skipped: {exc}")
+    else:
+        print("  [Reddit] Skipped: fetcher not importable")
+
+    print("  [8/8] Rendering and archives...")
     publishable = _has_publishable_content(data)
 
     ddate = digest_date_for(date)
