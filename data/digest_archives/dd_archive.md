@@ -1,9 +1,71 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-16 · 2128 items*
+*Last updated: 2026-06-17 · 2190 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-16 | Running local models is good now | HN | Technology | tech | 2026-06-16 | [link](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) |
+| 2026-06-16 | SpaceX to buy Cursor for $60B | HN | Technology | tech | 2026-06-16 | [link](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/) |
+| 2026-06-16 | I admire Fabrice Bellard. He is almost certainly a better overall programmer | HN | Technology | tech | 2026-06-16 | [link](https://twitter.com/ID_AA_Carmack/status/2064095424420487226) |
+| 2026-06-16 | Mechanical Watch (2022) | HN | Technology | tech | 2026-06-16 | [link](https://ciechanow.ski/mechanical-watch/) |
+| 2026-06-16 | Apple's weird anti-nausea dots cured my car sickness | HN | Technology | tech | 2026-06-16 | [link](https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work) |
+| 2026-06-16 | Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers | HN | Technology | tech | 2026-06-16 | [link](https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827) |
+| 2026-06-16 | GrapheneOS has been ported to Android 17 | HN | Technology | tech | 2026-06-16 | [link](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon) |
+| 2026-06-16 | The time the x86 emulator team found code so bad they fixed it during emulation | HN | Technology | tech | 2026-06-16 | [link](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419) |
+| 2026-06-16 | Is Meta destroying its engineering organization? | HN | Technology | tech | 2026-06-16 | [link](https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering) |
+| 2026-06-16 | Apple is about to make Hide My Email useless | HN | Technology | tech | 2026-06-16 | [link](https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/) |
+| 2026-06-16 | U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears | HN | Technology | tech | 2026-06-16 | [link](https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874) |
+| 2026-06-16 | Calvin and Hobbes and the price of integrity | HN | Technology | tech | 2026-06-16 | [link](https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of) |
+| 2026-06-16 | TIL: You can make HTTP requests without curl using Bash /dev/TCP | HN | Technology | tech | 2026-06-16 | [link](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/) |
+| 2026-06-16 | Stop Using JWTs | HN | Technology | tech | 2026-06-16 | [link](https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452) |
+| 2026-06-16 | SpaceX Is Buying Cursor | HN | Technology | tech | 2026-06-16 | [link](https://www.bbc.com/news/articles/cvgd5g7d7gyo) |
+| 2026-06-16 | Correlated randomness in Slay the Spire 2 | HN | Technology | tech | 2026-06-16 | [link](https://tck.mn/blog/correlated-randomness-sts2/) |
+| 2026-06-16 | Big Questions for Warsh as New Era for the Fed Begins | NYT · AI | AI | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/business/dealbook/warsh-fed-questions.html) |
+| 2026-06-16 | How a Deal to End the War in Iran Could Affect Energy Prices | NYT · AI | AI | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/climate/iran-war-energy-prices.html) |
+| 2026-06-16 | D.O.J. Seeks to Halt Pollution Lawsuit Against Elon Musk’s Data Center | NYT · AI | AI | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html) |
+| 2026-06-16 | Riding High After I.P.O., SpaceX Will Buy A.I. Start-Up for $60 Billion | NYT · AI | AI | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/business/spacex-cursor-aquisition-ipo.html) |
+| 2026-06-16 | The Battle With Anthropic Is the Start of a New Kind of Conflict | NYT · AI | AI | opinion | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/opinion/anthropic-fable-ai-trump-administration.html) |
+| 2026-06-16 | The Iran War is Forcing Energy-Importing Countries to Turn Inward | NYT · Energy & Environment | Energy & Environment | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html) |
+| 2026-06-16 | How to Run a News Company in the Age of Polarization and A.I. Slop | NYT · AI | AI | news | 2026-06-14 | [link](https://www.nytimes.com/2026/06/14/business/nbc-news-cesar-conde.html) |
+| 2026-06-16 | A.I. Boom Ignites Asian Chip Companies | NYT · AI | AI | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/technology/taiwan-south-korea-ai-chips.html) |
+| 2026-06-16 | Justice Dept. Considering Death Penalty for Alleged National Guard Shooter | NYT · Politics | Politics | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/us/politics/doj-national-guard-shooting.html) |
+| 2026-06-16 | State Attorneys General Are Investigating OpenAI | NYT · Technology | Technology | news | 2026-06-14 | [link](https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html) |
+| 2026-06-16 | How to Kick SpaceX Out of Your 401(k) | NYT · Opinion | Opinion | opinion | 2026-06-16 | [link](https://www.nytimes.com/2026/06/13/opinion/spacex-stock-ipo-ai.html) |
+| 2026-06-16 | SpaceX’s Stock Surges on First Full Day of Trading | NYT · AI | AI | news | 2026-06-15 | [link](https://www.nytimes.com/2026/06/15/business/spacex-stock.html) |
+| 2026-06-16 | Everyone Wants to Tax A.I. The Big Disagreement: How? | NYT · Business | Business | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/business/dealbook/ai-tax-proposals.html) |
+| 2026-06-16 | Gas Prices May Remain High Despite US-Iran Deal | NYT · Energy & Environment | Energy & Environment | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/business/energy-environment/us-iran-deal-gas-prices.html) |
+| 2026-06-16 | Trump Breaks Up Education Dept., Prompting Worries Over Civil Rights | NYT · Politics | Politics | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/us/politics/education-department-civil-rights-trump.html) |
+| 2026-06-16 | Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models | NYT · Technology | Technology | news | 2026-06-14 | [link](https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html) |
+| 2026-06-16 | Google Sues to Stop Chinese Cybercrime Group from Using Its A.I. | NYT · Technology | Technology | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/technology/google-lawsuit-china-ai-scams.html) |
+| 2026-06-16 | Obama’s Nuclear Deal Looms Over Trump’s Iran Negotiations | NYT · Politics | Politics | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/us/politics/obama-nuclear-deal-trump-iran.html) |
+| 2026-06-16 | Good Luck, Kevin Warsh. You’ll Need It. | NYT · Opinion | Opinion | opinion | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/opinion/kevin-warsh-fed-chair-interest-rates-trump.html) |
+| 2026-06-16 | Turning to ChatGPT for Help Instead of Your Doctor | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/opinion/doctor-chatgpt.html) |
+| 2026-06-16 | The Fable 5 Export Controls Harm US Cyber Defense | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-16 | [link](https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything) |
+| 2026-06-16 | Quoting Matteo Wong, The Atlantic | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-16 | [link](https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything) |
+| 2026-06-16 | The Washington Post on the EU’s DMA Folly | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-16 | [link](https://www.washingtonpost.com/opinions/2026/06/14/apple-withholding-siri-ai-europe-is-another-dma-failure/) |
+| 2026-06-16 | [Sponsor] Mux — Video for Developers | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-16 | [link](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) |
+| 2026-06-16 | Two Way TV - product photos of 1997's hottest gadget | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-06-16 | [link](https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/) |
+| 2026-06-16 | Policy Updates | Reddit | Business | social | 2026-06-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u7hoxg/policy_updates/) |
+| 2026-06-16 | Pro Tip - Reset your usage limits on your schedule | Reddit | Business | social | 2026-06-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u7i5ow/pro_tip_reset_your_usage_limits_on_your_schedule/) |
+| 2026-06-16 | I see the full picture now! | Reddit | Business | social | 2026-06-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u7gl55/i_see_the_full_picture_now/) |
+| 2026-06-16 | Anthropic's best Fable 5 ad is the banner telling me I can't use it. | Reddit | Business | social | 2026-06-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u7l7w4/anthropics_best_fable_5_ad_is_the_banner_telling/) |
+| 2026-06-16 | Everyday's the same | Reddit | Business | social | 2026-06-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u7g2n8/everydays_the_same/) |
+| 2026-06-16 | Is there any way to hide the Fable 5 notification? | Reddit | Business | social | 2026-06-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u6zp8p/is_there_any_way_to_hide_the_fable_5_notification/) |
+| 2026-06-16 | Fable 5 being gone made me realize how hard it is to go back | Reddit | Business | social | 2026-06-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u7cifh/fable_5_being_gone_made_me_realize_how_hard_it_is/) |
+| 2026-06-16 | Trump official says it's "up to Anthropic" as to whether or not a resolution is found quickly in the | Reddit | Business | social | 2026-06-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u73kmd/trump_official_says_its_up_to_anthropic_as_to/) |
+| 2026-06-16 | Been Using Sonnet 4.6 on medium effort and cant understand why people are using larger models at all | Reddit | Business | social | 2026-06-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u7l40n/been_using_sonnet_46_on_medium_effort_and_cant/) |
+| 2026-06-16 | Anthropic just got sued over Claude usage limits — class action filed June 14 | Reddit | Business | social | 2026-06-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u78tig/anthropic_just_got_sued_over_claude_usage_limits/) |
+| 2026-06-16 | Monday after Fable hits hard | Reddit | Business | social | 2026-06-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u7cilb/monday_after_fable_hits_hard/) |
+| 2026-06-16 | This may have been the goal all along? | Reddit | Business | social | 2026-06-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u7b4jc/this_may_have_been_the_goal_all_along/) |
+| 2026-06-16 | Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak, says researcher | Reddit | Business | social | 2026-06-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u7hmvw/feds_freaked_over_fable_5_after_simple_fix_this/) |
+| 2026-06-16 | Anthropic just published data from 400k Claude Code sessions, and the headline buries the real story | Reddit | Business | social | 2026-06-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u7u8up/anthropic_just_published_data_from_400k_claude/) |
+| 2026-06-16 | Anthropic Is Still at Odds With the White House Over Claude Fable 5 | Reddit | Business | social | 2026-06-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u78t5z/anthropic_is_still_at_odds_with_the_white_house/) |
+| 2026-06-16 | My (Work-in-Progress) Setup. What should I put in my Dashboard? | Reddit | Business | social | 2026-06-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u7bats/my_workinprogress_setup_what_should_i_put_in_my/) |
+| 2026-06-16 | Yeah, I finally found a way to build a system that really works for me. Here's my writing project | Reddit | Business | social | 2026-06-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u70p64/yeah_i_finally_found_a_way_to_build_a_system_that/) |
+| 2026-06-16 | [Plugin Showcase] Move Completed Tasks - does what it says on the tin | Reddit | Business | social | 2026-06-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u7thky/plugin_showcase_move_completed_tasks_does_what_it/) |
+| 2026-06-16 | iPhone Shortcut to Append to Daily Note | Reddit | Business | social | 2026-06-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u73sn7/iphone_shortcut_to_append_to_daily_note/) |
+| 2026-06-16 | Showcase as a law student | Reddit | Business | social | 2026-06-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u7u7is/showcase_as_a_law_student/) |
+| 2026-06-16 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-15 | A backdoor in a LinkedIn job offer | HN | Technology | tech | 2026-06-15 | [link](https://roman.pt/posts/linkedin-backdoor/) |
 | 2026-06-15 | Iroh 1.0 | HN | Technology | tech | 2026-06-15 | [link](https://www.iroh.computer/blog/v1) |
 | 2026-06-15 | Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? | HN | Technology | tech | 2026-06-15 | [link](https://news.ycombinator.com/item?id=48542100) |

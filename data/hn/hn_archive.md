@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-16 · 411 days · 4110 stories*
+*Last updated: 2026-06-17 · 412 days · 4120 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-16 | Tuesday | 1 | Running local models is good now | 1107 | 450 | Technology | [link](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) · [HN](https://news.ycombinator.com/item?id=48555993) |
+| 2026-06-16 | Tuesday | 2 | SpaceX to buy Cursor for $60B | 942 | 1422 | Technology | [link](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/) · [HN](https://news.ycombinator.com/item?id=48553224) |
+| 2026-06-16 | Tuesday | 3 | I admire Fabrice Bellard. He is almost certainly a better overall programmer | 870 | 426 | Technology | [link](https://twitter.com/ID_AA_Carmack/status/2064095424420487226) · [HN](https://news.ycombinator.com/item?id=48550779) |
+| 2026-06-16 | Tuesday | 4 | Mechanical Watch (2022) | 648 | 115 | Technology | [link](https://ciechanow.ski/mechanical-watch/) · [HN](https://news.ycombinator.com/item?id=48553550) |
+| 2026-06-16 | Tuesday | 5 | Apple's weird anti-nausea dots cured my car sickness | 632 | 201 | Technology | [link](https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work) · [HN](https://news.ycombinator.com/item?id=48557530) |
+| 2026-06-16 | Tuesday | 6 | Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers | 555 | 328 | Technology | [link](https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827) · [HN](https://news.ycombinator.com/item?id=48552687) |
+| 2026-06-16 | Tuesday | 7 | GrapheneOS has been ported to Android 17 | 515 | 208 | Technology | [link](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon) · [HN](https://news.ycombinator.com/item?id=48561654) |
+| 2026-06-16 | Tuesday | 8 | The time the x86 emulator team found code so bad they fixed it during emulation | 481 | 158 | Technology | [link](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419) · [HN](https://news.ycombinator.com/item?id=48550693) |
+| 2026-06-16 | Tuesday | 9 | Is Meta destroying its engineering organization? | 472 | 437 | Technology | [link](https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering) · [HN](https://news.ycombinator.com/item?id=48558045) |
+| 2026-06-16 | Tuesday | 10 | Apple is about to make Hide My Email useless | 426 | 269 | Technology | [link](https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/) · [HN](https://news.ycombinator.com/item?id=48559935) |
 | 2026-06-15 | Monday | 1 | Iroh 1.0 | 1191 | 360 | Technology | [link](https://www.iroh.computer/blog/v1) · [HN](https://news.ycombinator.com/item?id=48542480) |
 | 2026-06-15 | Monday | 2 | A backdoor in a LinkedIn job offer | 1175 | 218 | Technology | [link](https://roman.pt/posts/linkedin-backdoor/) · [HN](https://news.ycombinator.com/item?id=48546294) |
 | 2026-06-15 | Monday | 3 | Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? | 990 | 444 | Technology | [link](https://news.ycombinator.com/item?id=48542100) · [HN](https://news.ycombinator.com/item?id=48542100) |
