@@ -1,6 +1,6 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-16 · 2123 items*
+*Last updated: 2026-06-16 · 2128 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
@@ -53,6 +53,11 @@
 | 2026-06-15 | Did they had to give us a taste 😭 | Reddit | Business | social | 2026-06-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u6roao/did_they_had_to_give_us_a_taste/) |
 | 2026-06-15 | I think Claude Code saved my life. | Reddit | Business | social | 2026-06-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u6g6tn/i_think_claude_code_saved_my_life/) |
 | 2026-06-15 | Dear Anthropic, please stop spamming with Fable | Reddit | Business | social | 2026-06-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u6bhum/dear_anthropic_please_stop_spamming_with_fable/) |
+| 2026-06-15 | My graph view after 1 year | Reddit | Business | social | 2026-06-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u67byb/my_graph_view_after_1_year/) |
+| 2026-06-15 | OCR Extractor - Now with support for local models | Reddit | Business | social | 2026-06-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u6v7xr/ocr_extractor_now_with_support_for_local_models/) |
+| 2026-06-15 | Void, a clean, true-black dark theme for Obsidian 🤍 | Reddit | Business | social | 2026-06-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u6r3nt/void_a_clean_trueblack_dark_theme_for_obsidian/) |
+| 2026-06-15 | How do you actually keep your vault synced across machines without losing your mind? | Reddit | Business | social | 2026-06-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u6j084/how_do_you_actually_keep_your_vault_synced_across/) |
+| 2026-06-15 | I made a Time Management Plugin - Chronoboard | Reddit | Business | social | 2026-06-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u63mbo/i_made_a_time_management_plugin_chronoboard/) |
 | 2026-06-15 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-14 | How to earn a billion dollars | HN | Technology | tech | 2026-06-14 | [link](https://paulgraham.com/earn.html) |
 | 2026-06-14 | Your ePub Is fine | HN | Technology | tech | 2026-06-14 | [link](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) |
