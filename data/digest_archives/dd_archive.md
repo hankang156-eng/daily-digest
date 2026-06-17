@@ -1,51 +1,58 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-16 · 2116 items*
+*Last updated: 2026-06-16 · 2123 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
-| 2026-06-15 | Iroh 1.0 | HN | Technology | tech | 2026-06-15 | [link](https://www.iroh.computer/blog/v1) |
 | 2026-06-15 | A backdoor in a LinkedIn job offer | HN | Technology | tech | 2026-06-15 | [link](https://roman.pt/posts/linkedin-backdoor/) |
+| 2026-06-15 | Iroh 1.0 | HN | Technology | tech | 2026-06-15 | [link](https://www.iroh.computer/blog/v1) |
 | 2026-06-15 | Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? | HN | Technology | tech | 2026-06-15 | [link](https://news.ycombinator.com/item?id=48542100) |
 | 2026-06-15 | TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed) | HN | Technology | tech | 2026-06-15 | [link](https://tinywind.io) |
 | 2026-06-15 | Curl will not accept vulnerability reports during July 2026 | HN | Technology | tech | 2026-06-15 | [link](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/) |
 | 2026-06-15 | What happened to nerds? | HN | Technology | tech | 2026-06-15 | [link](https://mrmarket.lol/what-the-fuck-happened-to-nerds/) |
 | 2026-06-15 | CrankGPT | HN | Technology | tech | 2026-06-15 | [link](https://crankgpt.com) |
-| 2026-06-15 | Apple Foundation Models | HN | Technology | tech | 2026-06-15 | [link](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models) |
+| 2026-06-15 | Banned book library in a wi-fi smart light bulb | HN | Technology | tech | 2026-06-15 | [link](https://www.richardosgood.com/posts/banned-book-library/) |
 | 2026-06-15 | Hetzner Price Adjustment | HN | Technology | tech | 2026-06-15 | [link](https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers) |
-| 2026-06-15 | Banned Book Library in a Wi-Fi Smart Light Bulb | HN | Technology | tech | 2026-06-15 | [link](https://www.richardosgood.com/posts/banned-book-library/) |
-| 2026-06-15 | Fox to buy Roku | HN | Technology | tech | 2026-06-15 | [link](https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9) |
-| 2026-06-15 | Typst 0.15.0 | HN | Technology | tech | 2026-06-15 | [link](https://typst.app/docs/changelog/0.15.0/) |
+| 2026-06-15 | Apple Foundation Models | HN | Technology | tech | 2026-06-15 | [link](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models) |
 | 2026-06-15 | My Homelab AI Dev Platform | HN | Technology | tech | 2026-06-15 | [link](https://rsgm.dev/post/ai-dev-platform/) |
-| 2026-06-15 | Salesforce to Acquire Fin (formerly Intercom) for $3.6B | HN | Technology | tech | 2026-06-15 | [link](https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL) |
+| 2026-06-15 | Fox to buy Roku | HN | Technology | tech | 2026-06-15 | [link](https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9) |
 | 2026-06-15 | Copper transport drug restores memory and clears toxic Alzheimer's proteins | HN | Technology | tech | 2026-06-15 | [link](https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins) |
-| 2026-06-15 | Hetzner increased dedicated server prices 3-4x | HN | Technology | tech | 2026-06-15 | [link](https://news.ycombinator.com/item?id=48542064) |
+| 2026-06-15 | Typst 0.15.0 | HN | Technology | tech | 2026-06-15 | [link](https://typst.app/docs/changelog/0.15.0/) |
+| 2026-06-15 | Salesforce to Acquire Fin (formerly Intercom) for $3.6B | HN | Technology | tech | 2026-06-15 | [link](https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL) |
+| 2026-06-15 | I Love the Computer | HN | Technology | tech | 2026-06-15 | [link](https://michaelenger.com/blog/i-love-the-computer/) |
 | 2026-06-15 | Big Questions for Warsh as New Era for the Fed Begins | NYT · AI | AI | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/business/dealbook/warsh-fed-questions.html) |
+| 2026-06-15 | How a Deal to End the War in Iran Could Affect Energy Prices | NYT · AI | AI | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/climate/iran-war-energy-prices.html) |
+| 2026-06-15 | D.O.J. Seeks to Halt Pollution Lawsuit Against Elon Musk’s Data Center | NYT · AI | AI | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html) |
+| 2026-06-15 | Riding High After I.P.O., SpaceX Will Buy A.I. Start-Up for $60 Billion | NYT · AI | AI | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/business/spacex-cursor-aquisition-ipo.html) |
+| 2026-06-15 | The Battle With Anthropic Is the Start of a New Kind of Conflict | NYT · AI | AI | opinion | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/opinion/anthropic-fable-ai-trump-administration.html) |
 | 2026-06-15 | How to Run a News Company in the Age of Polarization and A.I. Slop | NYT · AI | AI | news | 2026-06-14 | [link](https://www.nytimes.com/2026/06/14/business/nbc-news-cesar-conde.html) |
 | 2026-06-15 | SpaceX’s Stock Surges on First Full Day of Trading | NYT · AI | AI | news | 2026-06-15 | [link](https://www.nytimes.com/2026/06/15/business/spacex-stock.html) |
-| 2026-06-15 | State Attorneys General Are Investigating OpenAI | NYT · AI | AI | news | 2026-06-14 | [link](https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html) |
-| 2026-06-15 | Everyone Wants to Tax A.I. The Big Disagreement: How? | NYT · AI | AI | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/business/dealbook/ai-tax-proposals.html) |
-| 2026-06-15 | Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models | NYT · AI | AI | news | 2026-06-14 | [link](https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html) |
+| 2026-06-15 | State Attorneys General Are Investigating OpenAI | NYT · Technology | Technology | news | 2026-06-14 | [link](https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html) |
+| 2026-06-15 | Everyone Wants to Tax A.I. The Big Disagreement: How? | NYT · Business | Business | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/business/dealbook/ai-tax-proposals.html) |
 | 2026-06-15 | A.I. Boom Ignites Asian Chip Companies | NYT · AI | AI | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/technology/taiwan-south-korea-ai-chips.html) |
-| 2026-06-15 | Justice Dept. Clears Way for Paramount-Warner Bros. Merger | NYT · Business | Business | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html) |
-| 2026-06-15 | Wages Are Falling. Wealth Is Surging. No Wonder Americans Are Unhappy. | NYT · Business | Business | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/business/economy-trillionaire-wealth-wages.html) |
-| 2026-06-15 | Potential End of War Tests Trump’s Promise of Quick Economic Rebound | NYT · Economy | Economy | news | 2026-06-15 | [link](https://www.nytimes.com/2026/06/15/us/politics/iran-war-deal-trump-economic-rebound.html) |
+| 2026-06-15 | Justice Dept. Considering Death Penalty for Alleged National Guard Shooter | NYT · Politics | Politics | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/us/politics/doj-national-guard-shooting.html) |
+| 2026-06-15 | How to Kick SpaceX Out of Your 401(k) | NYT · Opinion | Opinion | opinion | 2026-06-16 | [link](https://www.nytimes.com/2026/06/13/opinion/spacex-stock-ipo-ai.html) |
+| 2026-06-15 | Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models | NYT · Technology | Technology | news | 2026-06-14 | [link](https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html) |
 | 2026-06-15 | Google Sues to Stop Chinese Cybercrime Group from Using Its A.I. | NYT · Technology | Technology | news | 2026-06-12 | [link](https://www.nytimes.com/2026/06/12/technology/google-lawsuit-china-ai-scams.html) |
 | 2026-06-15 | Gas Prices May Remain High Despite US-Iran Deal | NYT · Energy & Environment | Energy & Environment | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/business/energy-environment/us-iran-deal-gas-prices.html) |
-| 2026-06-15 | Deal to Reopen Hormuz Kicks Off Long Effort to Ease Energy Crisis | NYT · Energy & Environment | Energy & Environment | news | 2026-06-15 | [link](https://www.nytimes.com/2026/06/15/business/energy-environment/iran-deal-oil-natural-gas.html) |
-| 2026-06-15 | Siddhartha Mukherjee: Can A.I. Share Our Need to Belong? | NYT · AI | AI | news | 2026-06-15 | [link](https://www.nytimes.com/2026/06/15/special-series/siddhartha-mukherjee-artificial-intelligence.html) |
-| 2026-06-15 | How Kratom, an Addictive Gas Station Drug, Found Allies in Trump’s Cabinet | NYT · Business | Business | news | 2026-06-15 | [link](https://www.nytimes.com/2026/06/15/us/politics/kratom-trump-administration.html) |
-| 2026-06-15 | How to Kick SpaceX Out of Your 401(k) | NYT · Opinion | Opinion | opinion | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/opinion/spacex-stock-ipo-ai.html) |
+| 2026-06-15 | Trump Breaks Up Education Dept., Prompting Worries Over Civil Rights | NYT · Politics | Politics | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/us/politics/education-department-civil-rights-trump.html) |
+| 2026-06-15 | Obama’s Nuclear Deal Looms Over Trump’s Iran Negotiations | NYT · Politics | Politics | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/us/politics/obama-nuclear-deal-trump-iran.html) |
 | 2026-06-15 | The Iran War is Forcing Energy-Importing Countries to Turn Inward | NYT · Energy & Environment | Energy & Environment | news | 2026-06-09 | [link](https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html) |
-| 2026-06-15 | What A.I. Did to My College Class | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-05-17 | [link](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html) |
-| 2026-06-15 | ‘Trump Has Failed’: 3 Opinion Writers Dissect the Iran Deal | NYT · Opinion | Opinion | opinion | 2026-06-15 | [link](https://www.nytimes.com/2026/06/15/opinion/iran-deal-experts.html) |
-| 2026-06-15 | Turning to ChatGPT for Help Instead of Your Doctor | NYT · Opinion | Opinion | opinion | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/opinion/doctor-chatgpt.html) |
+| 2026-06-15 | Turning to ChatGPT for Help Instead of Your Doctor | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/opinion/doctor-chatgpt.html) |
+| 2026-06-15 | Good Luck, Kevin Warsh. You’ll Need It. | NYT · Opinion | Opinion | opinion | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/opinion/kevin-warsh-fed-chair-interest-rates-trump.html) |
 | 2026-06-15 | Weekly Update 508 | Troy Hunt · Security & Privacy | Security | tech | 2026-06-15 | [link](https://www.troyhunt.com/weekly-update-508/) |
 | 2026-06-15 | WorkOS Launches Auth.md — an Open Protocol for Agent Registration | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-15 | [link](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) |
 | 2026-06-15 | The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-15 | [link](https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/) |
 | 2026-06-15 | "They screwed us": Personality clashes sent Anthropic's models offline | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-15 | [link](https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything) |
 | 2026-06-15 | datasette-agent 0.3a0 | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-15 | [link](https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything) |
 | 2026-06-15 | [RSS Club] What happens to old posts? | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-06-15 | [link](https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/) |
+| 2026-06-15 | Anthropic has been sued for allegedly misleading customers on usage limits. | Reddit | Business | social | 2026-06-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u6kzsr/anthropic_has_been_sued_for_allegedly_misleading/) |
+| 2026-06-15 | The White House Is Ratcheting Up Its War Against Anthropic | Reddit | Business | social | 2026-06-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u6w0l7/the_white_house_is_ratcheting_up_its_war_against/) |
+| 2026-06-15 | Guys, I think I cracked it. | Reddit | Business | social | 2026-06-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u6k9i9/guys_i_think_i_cracked_it/) |
+| 2026-06-15 | Anthropic has been sued for allegedly misleading customers on usage limits. | Reddit | Business | social | 2026-06-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u6kzmv/anthropic_has_been_sued_for_allegedly_misleading/) |
+| 2026-06-15 | Did they had to give us a taste 😭 | Reddit | Business | social | 2026-06-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u6roao/did_they_had_to_give_us_a_taste/) |
+| 2026-06-15 | I think Claude Code saved my life. | Reddit | Business | social | 2026-06-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u6g6tn/i_think_claude_code_saved_my_life/) |
+| 2026-06-15 | Dear Anthropic, please stop spamming with Fable | Reddit | Business | social | 2026-06-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u6bhum/dear_anthropic_please_stop_spamming_with_fable/) |
 | 2026-06-15 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-14 | How to earn a billion dollars | HN | Technology | tech | 2026-06-14 | [link](https://paulgraham.com/earn.html) |
 | 2026-06-14 | Your ePub Is fine | HN | Technology | tech | 2026-06-14 | [link](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) |
