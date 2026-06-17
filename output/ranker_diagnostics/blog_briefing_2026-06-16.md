@@ -1,6 +1,6 @@
 # Blog Briefing - 2026-06-16
 
-*Sources checked: 14 · Posts found: 9 · Posts selected: 5*
+*Sources checked: 14 · Posts found: 10 · Posts selected: 5*
 
 ## Executive Summary
 
