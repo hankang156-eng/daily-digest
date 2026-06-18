@@ -86,8 +86,7 @@ DEFAULT_CONFIG = {
         "nyt_wsj_max_links": 20,
         "blog_max_links": 20,
         "ranker_output_dir": "output/ranker_diagnostics",
-        "reddit_subreddits": ["ClaudeAI", "ClaudeCode", "ObsidianMD"],
-        "reddit_per_sub": 5
+        "reddit_subreddits": {"ClaudeAI": 10, "ClaudeCode": 5, "ObsidianMD": 5}
     },
     "github_pages": {
         "enabled": False,
@@ -1719,7 +1718,7 @@ def _render_collapsible(label, text, css_class=""):
 
 
 def _render_article(article, index, kind):
-    """kind ∈ {'hn', 'nyt', 'blog', 'linkedin'} — controls meta + details layout."""
+    """kind ∈ {'hn', 'nyt', 'blog', 'linkedin', 'reddit'} — controls meta + details layout."""
     num = f"{index:02d}"
     title = _html_escape(article.get("title", ""))
     url = _html_escape(article.get("url") or "#")
@@ -1733,6 +1732,8 @@ def _render_article(article, index, kind):
             f'<div class="details-row">{abstract_html}{overview_html}</div>'
             if (abstract_html or overview_html) else ""
         )
+    elif kind == "reddit":
+        details_block = _render_collapsible("Bot TL;DR", article.get("bot_tldr"))
     else:
         overview_text = article.get("discussion_overview") or article.get("article_overview")
         # HN discussion overviews carry no model; only article_overview from blogs does.
@@ -2000,6 +2001,8 @@ def _md_articles(articles, numbered=False, show_score=False):
         lines.append(f"{prefix} {badge}[{title}]({url}){score}{discuss}{date_note}")
         if article.get("abstract"):
             lines.append(f"   - **Abstract:** {_md_escape(article['abstract'])}")
+        if article.get("bot_tldr"):
+            lines.append(f"   - **Bot TL;DR:** {_md_escape(article['bot_tldr'])}")
         overview_text = article.get("discussion_overview") or article.get("article_overview")
         if overview_text:
             model_name = article.get("overview_model") or ""
@@ -2474,10 +2477,12 @@ def main(target_date=None, summary_config=None):
     print("  [7/8] Reddit top posts...")
     if HAS_REDDIT_FETCHER and fetch_reddit_top_posts is not None:
         try:
+            raw = settings.get("reddit_subreddits") or {}
+            if isinstance(raw, list):
+                raw = {sub: 5 for sub in raw}
             data["reddit"] = fetch_reddit_top_posts(
                 content_date=date,
-                subreddits=list(settings.get("reddit_subreddits", []) or []),
-                per_sub=int(settings.get("reddit_per_sub", 5)),
+                subreddit_counts=dict(raw),
             )
         except Exception as exc:
             print(f"  [Reddit] Skipped: {exc}")

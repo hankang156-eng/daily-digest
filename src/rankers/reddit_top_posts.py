@@ -1,10 +1,18 @@
 #!/usr/bin/env python3
 """Fetch top posts from selected subreddits for the daily digest.
 
-Reddit blocks unauthenticated `*.json` endpoints, but the Atom RSS feed at
-`https://www.reddit.com/r/{sub}/top/.rss?t=day` is still served (HTTP 200)
-to a properly-formed User-Agent. We fetch with `requests`, parse with
-`feedparser`, and trust Reddit's own ordering of `top`.
+Reddit blocks unauthenticated `*.json` endpoints in 2026, but the Atom
+RSS feed at `https://www.reddit.com/r/{sub}/top/.rss?t=week` is still
+served (HTTP 200) to a browser-style User-Agent. We fetch with
+`requests`, parse with `feedparser`, and trust Reddit's own ranking.
+
+For r/ClaudeAI posts only, also fetches the post's comments RSS and
+captures the body of any comment authored by /u/ClaudeAI-mod-bot
+(treated as the pinned bot note). Comments RSS exposes author + body
+but NOT the `stickied` flag — author match is the proxy.
+
+RSS does NOT expose score or num_comments — those fields are absent
+from articles produced here.
 
 Returns article dicts shaped to match the rest of the digest pipeline.
 """
@@ -31,17 +39,21 @@ except ImportError:
     HAS_REQUESTS = False
 
 
-# Reddit gates the project-style UA ("script:foo:v0 (by /u/x)") aggressively for
-# unauthenticated RSS in 2026 — even a single request 429s once a UA is throttled.
-# Browser-style UA returns 200 reliably for the low daily volume we need (3 reqs/day).
+# Reddit gates project-style UAs ("script:foo:v0 (by /u/x)") aggressively for
+# unauthenticated RSS in 2026 — browser-style UA returns 200 reliably for the
+# low daily volume here (~13 reqs/day with mod-bot fetch).
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 "
     "(KHTML, like Gecko) Version/17.5 Safari/605.1.15"
 )
 REQUEST_TIMEOUT = 10
-REQUEST_DELAY_SECONDS = 6.0  # Reddit RSS 429s on bursts; ~6s between subreddit calls clears it
+REQUEST_DELAY_SECONDS = 6.0  # Reddit RSS 429s on bursts
 RETRY_ON_429 = 2
 RETRY_BACKOFF_SECONDS = 30.0
+
+MOD_BOT_SUBREDDIT = "ClaudeAI"
+MOD_BOT_AUTHOR = "/u/ClaudeAI-mod-bot"
+COMMENT_FETCH_LIMIT = 50
 
 
 def _day_bounds_utc(content_date: datetime.date) -> tuple[float, float]:
@@ -54,7 +66,31 @@ def _day_bounds_utc(content_date: datetime.date) -> tuple[float, float]:
 
 def _time_window(content_date: datetime.date) -> str:
     today_utc = datetime.datetime.now(datetime.UTC).date()
-    return "day" if content_date == today_utc - datetime.timedelta(days=1) else "week"
+    diff_days = (today_utc - content_date).days
+    if diff_days <= 7:
+        return "week"
+    if diff_days <= 31:
+        return "month"
+    return "year"
+
+
+def _http_get_rss(sess: "requests.Session", url: str) -> str:
+    res = None
+    for attempt in range(RETRY_ON_429 + 1):
+        try:
+            res = sess.get(url, timeout=REQUEST_TIMEOUT)
+        except Exception as exc:
+            print(f"  [Reddit] request failed: {exc}")
+            return ""
+        if res.status_code != 429:
+            break
+        if attempt < RETRY_ON_429:
+            time.sleep(RETRY_BACKOFF_SECONDS)
+    if res is None or res.status_code != 200:
+        status = res.status_code if res is not None else "no-response"
+        print(f"  [Reddit] HTTP {status} for {url}")
+        return ""
+    return res.text
 
 
 def _strip_html(value: str) -> str:
@@ -63,17 +99,33 @@ def _strip_html(value: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
-def _extract_selftext(entry: Any) -> str:
-    raw = ""
-    contents = entry.get("content") if hasattr(entry, "get") else None
-    if contents and isinstance(contents, list):
-        raw = contents[0].get("value", "") if isinstance(contents[0], dict) else ""
-    raw = raw or entry.get("summary", "")
+def _extract_md_body(raw: str) -> str:
+    """Atom comment/post entries embed body inside `<div class="md">...</div>`."""
+    raw = html_lib.unescape(raw or "")
     match = re.search(r'<div class="md">(.*?)</div>', raw, flags=re.DOTALL)
-    body = match.group(1) if match else ""
+    body = match.group(1) if match else raw
     text = _strip_html(body)
     text = re.sub(r"^\s*submitted by.*$", "", text, flags=re.IGNORECASE).strip()
     return text
+
+
+def _fetch_mod_bot_tldr(sess: "requests.Session", subreddit: str, post_id: str) -> str:
+    url = f"https://www.reddit.com/r/{subreddit}/comments/{post_id}/.rss?sort=top&limit={COMMENT_FETCH_LIMIT}"
+    body = _http_get_rss(sess, url)
+    if not body:
+        return ""
+    feed = feedparser.parse(body)
+    for entry in feed.entries:
+        author = (entry.get("author") or "").strip()
+        if author != MOD_BOT_AUTHOR:
+            continue
+        raw = ""
+        contents = entry.get("content")
+        if contents and isinstance(contents, list) and isinstance(contents[0], dict):
+            raw = contents[0].get("value", "")
+        raw = raw or entry.get("summary", "")
+        return _extract_md_body(raw)
+    return ""
 
 
 def _entry_to_article(entry: Any, subreddit: str) -> dict[str, Any] | None:
@@ -86,9 +138,14 @@ def _entry_to_article(entry: Any, subreddit: str) -> dict[str, Any] | None:
         return None
     ts = calendar.timegm(parsed)
     post_date = datetime.datetime.fromtimestamp(ts, tz=datetime.UTC).date()
-    selftext = _extract_selftext(entry)
+    raw = ""
+    contents = entry.get("content")
+    if contents and isinstance(contents, list) and isinstance(contents[0], dict):
+        raw = contents[0].get("value", "")
+    selftext = _extract_md_body(raw or entry.get("summary", ""))
     summary = selftext[:300] + ("…" if len(selftext) > 300 else "") if selftext else ""
     author = (entry.get("author") or "").lstrip("/")
+    post_id = (entry.get("id") or "").removeprefix("t3_")
     return {
         "title": title,
         "url": link,
@@ -99,31 +156,23 @@ def _entry_to_article(entry: Any, subreddit: str) -> dict[str, Any] | None:
         "summary": summary,
         "reddit_url": link,
         "reddit_author": author,
+        "reddit_id": post_id,
         "_created_utc": ts,
     }
 
 
 def _fetch_subreddit_top(
-    sess: "requests.Session", subreddit: str, content_date: datetime.date, per_sub: int
+    sess: "requests.Session",
+    subreddit: str,
+    content_date: datetime.date,
+    per_sub: int,
 ) -> list[dict[str, Any]]:
     t = _time_window(content_date)
-    url = f"https://www.reddit.com/r/{subreddit}/top/.rss?t={t}&limit=25"
-    res = None
-    for attempt in range(RETRY_ON_429 + 1):
-        try:
-            res = sess.get(url, timeout=REQUEST_TIMEOUT)
-        except Exception as exc:
-            print(f"  [Reddit] r/{subreddit} request failed: {exc}")
-            return []
-        if res.status_code != 429:
-            break
-        if attempt < RETRY_ON_429:
-            time.sleep(RETRY_BACKOFF_SECONDS)
-    if res is None or res.status_code != 200:
-        status = res.status_code if res is not None else "no-response"
-        print(f"  [Reddit] r/{subreddit} HTTP {status}")
+    url = f"https://www.reddit.com/r/{subreddit}/top/.rss?t={t}&limit=100"
+    body = _http_get_rss(sess, url)
+    if not body:
         return []
-    feed = feedparser.parse(res.text)
+    feed = feedparser.parse(body)
     day_start, day_end = _day_bounds_utc(content_date)
     picked: list[dict[str, Any]] = []
     for entry in feed.entries:
@@ -136,15 +185,22 @@ def _fetch_subreddit_top(
         picked.append(article)
         if len(picked) >= per_sub:
             break
+
+    if subreddit == MOD_BOT_SUBREDDIT:
+        for article in picked:
+            post_id = article.get("reddit_id")
+            if not post_id:
+                continue
+            time.sleep(REQUEST_DELAY_SECONDS)
+            article["bot_tldr"] = _fetch_mod_bot_tldr(sess, subreddit, post_id)
     return picked
 
 
 def fetch_reddit_top_posts(
     content_date: datetime.date,
-    subreddits: list[str],
-    per_sub: int = 5,
+    subreddit_counts: dict[str, int],
 ) -> list[dict[str, Any]]:
-    if not subreddits:
+    if not subreddit_counts:
         return []
     if not HAS_FEEDPARSER or not HAS_REQUESTS:
         print("  [Reddit] Skipped: feedparser/requests not installed")
@@ -152,10 +208,14 @@ def fetch_reddit_top_posts(
     sess = requests.Session()
     sess.headers.update({"User-Agent": USER_AGENT})
     results: list[dict[str, Any]] = []
-    for raw in subreddits:
-        sub = (raw or "").strip().lstrip("r/").lstrip("/")
+    for raw_sub, count in subreddit_counts.items():
+        sub = (raw_sub or "").strip().lstrip("r/").lstrip("/")
         if not sub:
             continue
+        try:
+            per_sub = max(1, int(count))
+        except (TypeError, ValueError):
+            per_sub = 5
         try:
             results.extend(_fetch_subreddit_top(sess, sub, content_date, per_sub))
         except Exception as exc:
@@ -172,9 +232,9 @@ if __name__ == "__main__":
     parser.add_argument(
         "--subreddits",
         nargs="+",
-        default=["ClaudeAI", "ClaudeCode", "ObsidianMD"],
+        default=["ClaudeAI:10", "ClaudeCode:5", "ObsidianMD:5"],
+        help="Subreddit:count pairs",
     )
-    parser.add_argument("--per-sub", type=int, default=5)
     args = parser.parse_args()
 
     if args.date:
@@ -182,7 +242,13 @@ if __name__ == "__main__":
     else:
         target = datetime.datetime.now(datetime.UTC).date() - datetime.timedelta(days=1)
 
-    posts = fetch_reddit_top_posts(target, args.subreddits, per_sub=args.per_sub)
+    counts: dict[str, int] = {}
+    for raw in args.subreddits:
+        name, _, n = raw.partition(":")
+        counts[name] = int(n) if n else 5
+
+    posts = fetch_reddit_top_posts(target, counts)
     print(f"Fetched {len(posts)} posts for {target}")
     for post in posts:
-        print(f"  [{post['source']}] {post['date']} | {post['title'][:80]}")
+        bot = " [BOT-TLDR]" if post.get("bot_tldr") else ""
+        print(f"  [{post['source']}] {post['date']} | {post['title'][:70]}{bot}")
