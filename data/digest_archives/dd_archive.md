@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-17 · 2190 items*
+*Last updated: 2026-06-18 · 2253 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-17 | Lore – Open source version control system designed for scalability | HN | Technology | tech | 2026-06-17 | [link](https://lore.org/) |
+| 2026-06-17 | Sixty percent of US consumers say 'AI' in brand messaging is a turnoff | HN | Technology | tech | 2026-06-17 | [link](https://wpvip.com/future-of-the-web-2026/) |
+| 2026-06-17 | GLM-5.2 is the new leading open weights model on Artificial Analysis | HN | Technology | tech | 2026-06-17 | [link](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index) |
+| 2026-06-17 | U.S. science is in chaos | HN | Technology | tech | 2026-06-17 | [link](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/) |
+| 2026-06-17 | Midjourney Medical | HN | Technology | tech | 2026-06-17 | [link](https://www.midjourney.com/medical/blogpost) |
+| 2026-06-17 | Volkswagen started blocking GrapheneOS users | HN | Technology | tech | 2026-06-17 | [link](https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3) |
+| 2026-06-17 | Want your images back? That'll be $5 | HN | Technology | tech | 2026-06-17 | [link](https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars) |
+| 2026-06-17 | Hacker News but for independent blogs | HN | Technology | tech | 2026-06-17 | [link](https://bubbles.town/) |
+| 2026-06-17 | AI demands more engineering discipline. Not less | HN | Technology | tech | 2026-06-17 | [link](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline) |
+| 2026-06-17 | Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society | HN | Technology | tech | 2026-06-17 | [link](https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/) |
+| 2026-06-17 | RFC 10008: The new HTTP Query Method | HN | Technology | tech | 2026-06-17 | [link](https://www.rfc-editor.org/info/rfc10008/) |
+| 2026-06-17 | Leaked financial docs show OpenAI is losing billions of dollars a year | HN | Technology | tech | 2026-06-17 | [link](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/) |
+| 2026-06-17 | Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct | HN | Technology | tech | 2026-06-17 | [link](https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/) |
+| 2026-06-17 | Why thinking out loud with someone beats thinking alone | HN | Technology | tech | 2026-06-17 | [link](https://www.thesignalist.io/s/the-dialogue-dividend/) |
+| 2026-06-17 | A robot is sprinting towards you. Do you want it running on Claude or Grok? | HN | Technology | tech | 2026-06-17 | [link](https://openrouter.ai/blog/insights/royale-last-agent-standing/) |
+| 2026-06-17 | MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C | HN | Technology | tech | 2026-06-17 | [link](https://github.com/rxi/microui) |
+| 2026-06-17 | Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla | NYT · AI | AI | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html) |
+| 2026-06-17 | Why Waymo’s Driverless Taxis Won’t Be on Your Streets Anytime Soon | NYT · AI | AI | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/17/technology/waymo-driverless-taxis-politics.html) |
+| 2026-06-17 | The Cloud Has Sound: The Unrelenting and Unseen Cost of A.I. Data Centers | NYT · Technology | Technology | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/17/us/data-centers-noise-pollution.html) |
+| 2026-06-17 | New Super PAC, the Guardrails Alliance, Aims to Rally Tech Workers to Help Limit A.I. | NYT · AI | AI | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/18/technology/ai-super-pac-guardrails-alliance.html) |
+| 2026-06-17 | SpaceX’s Growing Warchest | NYT · AI | AI | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/17/business/dealbook/spacex-stock-cursor-ai.html) |
+| 2026-06-17 | Who Will Get Spirit Airlines’ Coveted Flights at LaGuardia? | NYT · Business | Business | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/17/business/spirit-airlines-laguardia-airport.html) |
+| 2026-06-17 | See How the First Fed Statement Under Warsh Evolved | NYT · Economy | Economy | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/17/business/economy/kevin-warsh-fed-statement.html) |
+| 2026-06-17 | Japan Raids Ice Cream Giants in Cartel Investigation | NYT · Business | Business | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/17/world/asia/japan-ice-cream-cartel-investigation.html) |
+| 2026-06-17 | The Iran War is Forcing Energy-Importing Countries to Turn Inward | NYT · Energy & Environment | Energy & Environment | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html) |
+| 2026-06-17 | Big Questions for Warsh as New Era for the Fed Begins | NYT · Business | Business | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/business/dealbook/warsh-fed-questions.html) |
+| 2026-06-17 | Anthropic Employees Accuse Trump Administration of Targeting Them | NYT · AI | AI | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html) |
+| 2026-06-17 | Warsh Makes His Case With Jargon, and a Penchant for Detail | NYT · Economy | Economy | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/17/business/economy/warsh-fed-chairman-first-press-conference.html) |
+| 2026-06-17 | D.O.J. Seeks to Halt Pollution Lawsuit Against Elon Musk’s Data Center | NYT · Energy & Environment | Energy & Environment | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html) |
+| 2026-06-17 | Choosing How to Kill Death Row Inmates | NYT · Politics | Politics | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/17/us/politics/the-docket-death-row.html) |
+| 2026-06-17 | Arianna Huffington: Our Strongest Drive Is Self-Discovery | NYT · AI | AI | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/17/special-series/arianna-huffington-self-discovery.html) |
+| 2026-06-17 | ‘Hard Fork’ Live Part 2: Dylan Field on Standing Out in the A.I. Era | NYT · Technology | Technology | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/17/podcasts/hard-fork-live-dylan-field.html) |
+| 2026-06-17 | Dear A.I. Companies: The Doom Trolling Needs to Stop | NYT · Opinion | Opinion | opinion | 2026-06-17 | [link](https://www.nytimes.com/2026/06/17/opinion/ai-dangerous-openai-anthropic.html) |
+| 2026-06-17 | The World Is Draining Oil Reserves, Raising Pressure for a Peace Deal | NYT · Energy & Environment | Energy & Environment | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/12/business/energy-environment/iran-war-oil-reserves.html) |
+| 2026-06-17 | Trump’s FEMA Nominee Calls Staff Cuts a ‘Challenge’ for Disaster Agency | NYT · Energy & Environment | Energy & Environment | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/17/climate/trump-fema-cameron-hamilton.html) |
+| 2026-06-17 | The Battle With Anthropic Is the Start of a New Kind of Conflict | NYT · Opinion | Opinion | opinion | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/opinion/anthropic-fable-ai-trump-administration.html) |
+| 2026-06-17 | AI Financial Advisors and the Surprising Ways We Put Trust in AI | MIT IDE · MIT Research & Insights | Research | research | 2026-06-17 | [link](https://ide.mit.edu/insights/ai-financial-advisors-and-the-surprising-ways-we-put-trust-in-ai/) |
+| 2026-06-17 | Quoting Charity Majors | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-17 | [link](https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything) |
+| 2026-06-17 | Yours Truly on The Vergecast: ‘# the **Epic** Story of Markdown’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-17 | [link](https://www.theverge.com/podcast/950082/markdown-history-gruber-vergecast) |
+| 2026-06-17 | GLM-5.2 is probably the most powerful text-only open weights LLM | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-17 | [link](https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything) |
+| 2026-06-17 | Yours Truly on MacBreak Weekly: Is the New Siri AI Good? | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-17 | [link](https://twit.tv/shows/macbreak-weekly/episodes/1029?autostart=false) |
+| 2026-06-17 | ‘Fix this code.’ The three words that led the U.S. government to ban Anthropic’s Fable and Mythos | Superpower Daily · Tech & Engineering | Technology | tech | 2026-06-17 | [link](https://www.superpowerdaily.com/p/fix-this-code-the-three-words-that-led-the-u-s-government-to-ban-anthropic-s-fable-and-mythos) |
+| 2026-06-17 | the gap between Claude Code power users and us chat-only people keeps getting wider and i don't thin | Reddit | Business | social | 2026-06-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u85myc/the_gap_between_claude_code_power_users_and_us/) |
+| 2026-06-17 | Anthropic CEO Dario Amodei joins top AI CEOs meeting with world leaders at G7 summit | Reddit | Business | social | 2026-06-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u8g4rn/anthropic_ceo_dario_amodei_joins_top_ai_ceos/) |
+| 2026-06-17 | Huge Update | Reddit | Business | social | 2026-06-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u84pui/huge_update/) |
+| 2026-06-17 | Claude Opus caught malware hidden in my repo, then reverse engineered the whole thing | Reddit | Business | social | 2026-06-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u7vqst/claude_opus_caught_malware_hidden_in_my_repo_then/) |
+| 2026-06-17 | They're demanding Fable to somehow be 100% jailbreak-proof. It's so fucking over. | Reddit | Business | social | 2026-06-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u8nalg/theyre_demanding_fable_to_somehow_be_100/) |
+| 2026-06-17 | When you're at 97% used but Claude isn't done | Reddit | Business | social | 2026-06-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u8qu0m/when_youre_at_97_used_but_claude_isnt_done/) |
+| 2026-06-17 | Opus 4.8 with Ultracode is insane! | Reddit | Business | social | 2026-06-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u841u4/opus_48_with_ultracode_is_insane/) |
+| 2026-06-17 | i've been using Claude to relearn math i was supposed to know 20 years ago and it's the least judgme | Reddit | Business | social | 2026-06-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u8fhr8/ive_been_using_claude_to_relearn_math_i_was/) |
+| 2026-06-17 | Claude in irl | Reddit | Business | social | 2026-06-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u8dw07/claude_in_irl/) |
+| 2026-06-17 | EU leaders to meet with top AI CEOs over access to advanced AI models today | Reddit | Business | social | 2026-06-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u8cu28/eu_leaders_to_meet_with_top_ai_ceos_over_access/) |
+| 2026-06-17 | Daily reminder that Fable is still not back. | Reddit | Business | social | 2026-06-17 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u7ultz/daily_reminder_that_fable_is_still_not_back/) |
+| 2026-06-17 | Anthropic CEO Dario joins top AI CEOs meeting with world leaders at G7 summit | Reddit | Business | social | 2026-06-17 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u8gg19/anthropic_ceo_dario_joins_top_ai_ceos_meeting/) |
+| 2026-06-17 | Have you guys tried vibe coding anything like photoshop? | Reddit | Business | social | 2026-06-17 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u82vgq/have_you_guys_tried_vibe_coding_anything_like/) |
+| 2026-06-17 | GLM 5.2 personal benchmark. Results comparable with Fable, Opus 4.8, and GPT 5.5 | Reddit | Business | social | 2026-06-17 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u8k2jd/glm_52_personal_benchmark_results_comparable_with/) |
+| 2026-06-17 | Why does Claude keep on asking me, "Do you still love me? just like my ex" 100 times even after I sa | Reddit | Business | social | 2026-06-17 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u87mvp/why_does_claude_keep_on_asking_me_do_you_still/) |
+| 2026-06-17 | Thinking of swapping from Notion to Obsidian, any tips on getting started? | Reddit | Business | social | 2026-06-17 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u8fjzv/thinking_of_swapping_from_notion_to_obsidian_any/) |
+| 2026-06-17 | A late follow-up: I ended up shipping the Markdown planner plugin I asked about | Reddit | Business | social | 2026-06-17 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u8aknf/a_late_followup_i_ended_up_shipping_the_markdown/) |
+| 2026-06-17 | How do I do this on my obsidian? | Reddit | Business | social | 2026-06-17 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u8hvk1/how_do_i_do_this_on_my_obsidian/) |
+| 2026-06-17 | Giganttix update! More features on simple gantt charts | Reddit | Business | social | 2026-06-17 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u8mcjj/giganttix_update_more_features_on_simple_gantt/) |
+| 2026-06-17 | Want to switch from Evernote but need web ui -- is there are reliable solution? | Reddit | Business | social | 2026-06-17 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u8e2n7/want_to_switch_from_evernote_but_need_web_ui_is/) |
+| 2026-06-17 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-16 | Running local models is good now | HN | Technology | tech | 2026-06-16 | [link](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) |
 | 2026-06-16 | SpaceX to buy Cursor for $60B | HN | Technology | tech | 2026-06-16 | [link](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/) |
 | 2026-06-16 | I admire Fabrice Bellard. He is almost certainly a better overall programmer | HN | Technology | tech | 2026-06-16 | [link](https://twitter.com/ID_AA_Carmack/status/2064095424420487226) |

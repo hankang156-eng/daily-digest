@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-17 · 412 days · 4120 stories*
+*Last updated: 2026-06-18 · 413 days · 4130 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-17 | Wednesday | 1 | Lore – Open source version control system designed for scalability | 1140 | 607 | Technology | [link](https://lore.org/) · [HN](https://news.ycombinator.com/item?id=48571081) |
+| 2026-06-17 | Wednesday | 2 | Sixty percent of US consumers say 'AI' in brand messaging is a turnoff | 1042 | 550 | Technology | [link](https://wpvip.com/future-of-the-web-2026/) · [HN](https://news.ycombinator.com/item?id=48569278) |
+| 2026-06-17 | Wednesday | 3 | GLM-5.2 is the new leading open weights model on Artificial Analysis | 854 | 415 | Technology | [link](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index) · [HN](https://news.ycombinator.com/item?id=48567759) |
+| 2026-06-17 | Wednesday | 4 | U.S. science is in chaos | 815 | 975 | Technology | [link](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/) · [HN](https://news.ycombinator.com/item?id=48568058) |
+| 2026-06-17 | Wednesday | 5 | Midjourney Medical | 747 | 503 | Technology | [link](https://www.midjourney.com/medical/blogpost) · [HN](https://news.ycombinator.com/item?id=48579650) |
+| 2026-06-17 | Wednesday | 6 | Volkswagen started blocking GrapheneOS users | 680 | 409 | Technology | [link](https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3) · [HN](https://news.ycombinator.com/item?id=48571526) |
+| 2026-06-17 | Wednesday | 7 | Want your images back? That'll be $5 | 632 | 263 | Technology | [link](https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars) · [HN](https://news.ycombinator.com/item?id=48569954) |
+| 2026-06-17 | Wednesday | 8 | Hacker News but for independent blogs | 578 | 195 | Technology | [link](https://bubbles.town/) · [HN](https://news.ycombinator.com/item?id=48567155) |
+| 2026-06-17 | Wednesday | 9 | AI demands more engineering discipline. Not less | 381 | 188 | Technology | [link](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline) · [HN](https://news.ycombinator.com/item?id=48570948) |
+| 2026-06-17 | Wednesday | 10 | Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society | 380 | 458 | Technology | [link](https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/) · [HN](https://news.ycombinator.com/item?id=48573332) |
 | 2026-06-16 | Tuesday | 1 | Running local models is good now | 1107 | 450 | Technology | [link](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) · [HN](https://news.ycombinator.com/item?id=48555993) |
 | 2026-06-16 | Tuesday | 2 | SpaceX to buy Cursor for $60B | 942 | 1422 | Technology | [link](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/) · [HN](https://news.ycombinator.com/item?id=48553224) |
 | 2026-06-16 | Tuesday | 3 | I admire Fabrice Bellard. He is almost certainly a better overall programmer | 870 | 426 | Technology | [link](https://twitter.com/ID_AA_Carmack/status/2064095424420487226) · [HN](https://news.ycombinator.com/item?id=48550779) |
