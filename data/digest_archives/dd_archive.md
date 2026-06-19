@@ -1,9 +1,71 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-18 · 2253 items*
+*Last updated: 2026-06-19 · 2315 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-18 | I found 10k GitHub repositories distributing Trojan malware | HN | Technology | tech | 2026-06-18 | [link](https://orchidfiles.com/github-repositories-distributing-malware/) |
+| 2026-06-18 | Swiss parliament lifts ban on new nuclear power plants | HN | Technology | tech | 2026-06-18 | [link](https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html) |
+| 2026-06-18 | Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly | HN | Technology | tech | 2026-06-18 | [link](https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/) |
+| 2026-06-18 | DeepSeek Introduces Vision | HN | Technology | tech | 2026-06-18 | [link](https://chat.deepseek.com/) |
+| 2026-06-18 | Emacs 31 is around the corner: The changes I'm daily driving | HN | Technology | tech | 2026-06-18 | [link](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner) |
+| 2026-06-18 | AMD silently removes memory encryption from consumer Ryzen CPUs | HN | Technology | tech | 2026-06-18 | [link](https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change) |
+| 2026-06-18 | .gitignore Isn't the only way to ignore files in Git | HN | Technology | tech | 2026-06-18 | [link](https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/) |
+| 2026-06-18 | A website that lists websites to submit your website to | HN | Technology | tech | 2026-06-18 | [link](https://www.submission.directory/) |
+| 2026-06-18 | I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M | HN | Technology | tech | 2026-06-18 | [link](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/) |
+| 2026-06-18 | CS 6120: Advanced Compilers: The Self-Guided Online Course (2020) | HN | Technology | tech | 2026-06-18 | [link](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/) |
+| 2026-06-18 | The founder of Craigslist has given away half a billion dollars | HN | Technology | tech | 2026-06-18 | [link](https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html) |
+| 2026-06-18 | Show HN: Are You in the Weights? | HN | Technology | tech | 2026-06-18 | [link](https://www.intheweights.com/) |
+| 2026-06-18 | Ubiquiti: Enterprise NAS, Built on ZFS | HN | Technology | tech | 2026-06-18 | [link](https://blog.ui.com/article/introducing-enterprise-nas) |
+| 2026-06-18 | Hospitals and universities repurposing drugs at lower cost | HN | Technology | tech | 2026-06-18 | [link](https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost) |
+| 2026-06-18 | Modos Color Monitor Pushes E-Paper Displays Further | HN | Technology | tech | 2026-06-18 | [link](https://spectrum.ieee.org/modos-e-paper-monitor) |
+| 2026-06-18 | W Social, public institutions and the theater of European digital sovereignty | HN | Technology | tech | 2026-06-18 | [link](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/) |
+| 2026-06-18 | Federal Energy Regulator Seeks to Limit Conflicts Over Data Centers | NYT · AI | AI | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/18/business/data-centers-power-regulation.html) |
+| 2026-06-18 | Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says | NYT · AI | AI | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/18/technology/amazon-worker-retaliation-data-center-complaints.html) |
+| 2026-06-18 | Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla | NYT · Technology | Technology | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html) |
+| 2026-06-18 | Warsh’s Hawkish Turn Has Scrambled the Math on Rates | NYT · AI | AI | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/18/business/dealbook/warsh-fed-rates.html) |
+| 2026-06-18 | New Super PAC, the Guardrails Alliance, Aims to Rally Tech Workers to Help Limit A.I. | NYT · AI | AI | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/18/technology/ai-super-pac-guardrails-alliance.html) |
+| 2026-06-18 | Why Waymo’s Driverless Taxis Won’t Be on Your Streets Anytime Soon | NYT · Technology | Technology | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/17/technology/waymo-driverless-taxis-politics.html) |
+| 2026-06-18 | The Cloud Has Sound: The Unrelenting and Unseen Cost of A.I. Data Centers | NYT · Technology | Technology | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/17/us/data-centers-noise-pollution.html) |
+| 2026-06-18 | Warsh Makes His Case With Jargon, and a Penchant for Detail | NYT · Economy | Economy | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/17/business/economy/warsh-fed-chairman-first-press-conference.html) |
+| 2026-06-18 | Warsh Wants the Fed to Send Fewer Signals. That Comes With Risks. | NYT · Business | Business | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/18/business/federal-reserve-warsh-interest-rates.html) |
+| 2026-06-18 | Student Cheating Is Becoming Impossible to Detect in an A.I. Era | NYT · AI | AI | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/18/us/ai-apps-students-cheat.html) |
+| 2026-06-18 | D.O.J. Seeks to Halt Pollution Lawsuit Against Elon Musk’s Data Center | NYT · Energy & Environment | Energy & Environment | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html) |
+| 2026-06-18 | The Iran War is Forcing Energy-Importing Countries to Turn Inward | NYT · Energy & Environment | Energy & Environment | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html) |
+| 2026-06-18 | Dear A.I. Companies, the Doom Trolling Needs to Stop | NYT · Opinion | Opinion | opinion | 2026-06-18 | [link](https://www.nytimes.com/2026/06/17/opinion/ai-dangerous-openai-anthropic.html) |
+| 2026-06-18 | How the Nashville Zoo Became the Latest Face of Data Center Opposition | NYT · AI | AI | news | 2026-06-19 | [link](https://www.nytimes.com/2026/06/19/us/nashville-zoo-data-center.html) |
+| 2026-06-18 | The Verdict on Biden Is In | NYT · Opinion | Opinion | opinion | 2026-06-18 | [link](https://www.nytimes.com/2026/06/16/opinion/joe-jill-biden-east-wing.html) |
+| 2026-06-18 | During Trump’s Immigration Crackdown, Minnesota Protester Remained Shackled in Hospital for Days | NYT · U.S. | U.S. | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/18/us/minnesota-protester-isolation-trump-immigration-crackdown.html) |
+| 2026-06-18 | The Ageless and Undefeated Champs of Tulsa’s Wii Bowling League | NYT · Technology | Technology | news | 2026-06-19 | [link](https://www.nytimes.com/2026/06/19/us/wii-bowling-uv-okies-tulsa.html) |
+| 2026-06-18 | Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims | NYT · Politics | Politics | news | 2026-06-19 | [link](https://www.nytimes.com/2026/06/18/us/politics/vances-iran-deal-misleading-claims.html) |
+| 2026-06-18 | The World Is Draining Oil Reserves, Raising Pressure for a Peace Deal | NYT · Energy & Environment | Energy & Environment | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/12/business/energy-environment/iran-war-oil-reserves.html) |
+| 2026-06-18 | Is Climate Change Supercharging El Niño? | NYT · Energy & Environment | Energy & Environment | news | 2026-06-19 | [link](https://www.nytimes.com/2026/06/19/climate/is-climate-change-supercharging-el-nino-scientists-dont-agree.html) |
+| 2026-06-18 | ‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm | Krebs on Security · Security & Privacy | Security | tech | 2026-06-18 | [link](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/) |
+| 2026-06-18 | Datasette Apps: Host custom HTML applications inside Datasette | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-18 | [link](https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything) |
+| 2026-06-18 | Cotypist – Smart Autocomplete Utility for Mac | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-18 | [link](https://cotypist.app/) |
+| 2026-06-18 | Tim Cook, in Interview With WSJ: ‘Unfortunately, Price Increases Are Unavoidable’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-18 | [link](https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1?st=qWH3n1&reflink=desktopwebshare_permalink) |
+| 2026-06-18 | datasette-acl 0.6a0 | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-18 | [link](https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything) |
+| 2026-06-18 | built a factchecker that catches politicians lying in real time | Reddit | Business | social | 2026-06-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u9esua/built_a_factchecker_that_catches_politicians/) |
+| 2026-06-18 | New Claude code update is crazy | Reddit | Business | social | 2026-06-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u9hp5y/new_claude_code_update_is_crazy/) |
+| 2026-06-18 | Asked claude code to test endpoint. It decided to use this name as a placeholder | Reddit | Business | social | 2026-06-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u903i5/asked_claude_code_to_test_endpoint_it_decided_to/) |
+| 2026-06-18 | Me approving permission requests on claude | Reddit | Business | social | 2026-06-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u9m1wh/me_approving_permission_requests_on_claude/) |
+| 2026-06-18 | Anthropic is "confident that in the coming days [Fable 5] will become available again" - Anthropic's | Reddit | Business | social | 2026-06-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u95x3l/anthropic_is_confident_that_in_the_coming_days/) |
+| 2026-06-18 | Update: Anthropic floats proposal to lift US restrictions on Mythos and Fable AI models | Reddit | Business | social | 2026-06-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u9fd4z/update_anthropic_floats_proposal_to_lift_us/) |
+| 2026-06-18 | Day 23 of building GTA 6 using claude | Reddit | Business | social | 2026-06-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u90nmg/day_23_of_building_gta_6_using_claude/) |
+| 2026-06-18 | Claude's "bug" almost cost them $500M | Reddit | Business | social | 2026-06-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u9lv8p/claudes_bug_almost_cost_them_500m/) |
+| 2026-06-18 | Wow... Opus 4.8 feels... DIFFERENT tonight :D | Reddit | Business | social | 2026-06-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u8u3qg/wow_opus_48_feels_different_tonight_d/) |
+| 2026-06-18 | 8 things about Claude Projects that took me too long to figure out | Reddit | Business | social | 2026-06-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u92t33/8_things_about_claude_projects_that_took_me_too/) |
+| 2026-06-18 | Anthropic confident of re-enabling Mythos, Fable 5 access 'in coming days': Executive | Reddit | Business | social | 2026-06-18 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u95azz/anthropic_confident_of_reenabling_mythos_fable_5/) |
+| 2026-06-18 | Anthropic is preparing for a new model release | Reddit | Business | social | 2026-06-18 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u8vh6d/anthropic_is_preparing_for_a_new_model_release/) |
+| 2026-06-18 | Is Opus 4.8 suddenly silently routing through a Fable-equivalent? | Reddit | Business | social | 2026-06-18 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u9288t/is_opus_48_suddenly_silently_routing_through_a/) |
+| 2026-06-18 | Does anyone else feel robbed when they don’t max out their weekly budget?" | Reddit | Business | social | 2026-06-18 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u9e0rz/does_anyone_else_feel_robbed_when_they_dont_max/) |
+| 2026-06-18 | Missing Fable 5 so much | Reddit | Business | social | 2026-06-18 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u8wsyu/missing_fable_5_so_much/) |
+| 2026-06-18 | Finally Made it | Reddit | Business | social | 2026-06-18 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u91fky/finally_made_it/) |
+| 2026-06-18 | Upcoming: Style Manager, a Style Settings plugin fork. | Reddit | Business | social | 2026-06-18 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u9b7vx/upcoming_style_manager_a_style_settings_plugin/) |
+| 2026-06-18 | Vantage, my custom plugin: spinning orrery up top, live app dashboard below | Reddit | Business | social | 2026-06-18 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u9f67c/vantage_my_custom_plugin_spinning_orrery_up_top/) |
+| 2026-06-18 | Obsidian for PDF library organization aka contextual library? It's incredible | Reddit | Business | social | 2026-06-18 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u9ep8b/obsidian_for_pdf_library_organization_aka/) |
+| 2026-06-18 | I fixed and extended an abandoned Obsidian plugin that I wanted to use | Reddit | Business | social | 2026-06-18 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u97gkl/i_fixed_and_extended_an_abandoned_obsidian_plugin/) |
+| 2026-06-18 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-17 | Lore – Open source version control system designed for scalability | HN | Technology | tech | 2026-06-17 | [link](https://lore.org/) |
 | 2026-06-17 | Sixty percent of US consumers say 'AI' in brand messaging is a turnoff | HN | Technology | tech | 2026-06-17 | [link](https://wpvip.com/future-of-the-web-2026/) |
 | 2026-06-17 | GLM-5.2 is the new leading open weights model on Artificial Analysis | HN | Technology | tech | 2026-06-17 | [link](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index) |

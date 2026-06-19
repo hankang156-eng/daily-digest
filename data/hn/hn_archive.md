@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-18 · 413 days · 4130 stories*
+*Last updated: 2026-06-19 · 414 days · 4140 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-18 | Thursday | 1 | I found 10k GitHub repositories distributing Trojan malware | 807 | 211 | Technology | [link](https://orchidfiles.com/github-repositories-distributing-malware/) · [HN](https://news.ycombinator.com/item?id=48583928) |
+| 2026-06-18 | Thursday | 2 | Swiss parliament lifts ban on new nuclear power plants | 759 | 723 | Technology | [link](https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html) · [HN](https://news.ycombinator.com/item?id=48585746) |
+| 2026-06-18 | Thursday | 3 | Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly | 668 | 447 | Technology | [link](https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/) · [HN](https://news.ycombinator.com/item?id=48584207) |
+| 2026-06-18 | Thursday | 4 | DeepSeek Introduces Vision | 472 | 194 | Technology | [link](https://chat.deepseek.com/) · [HN](https://news.ycombinator.com/item?id=48581458) |
+| 2026-06-18 | Thursday | 5 | Emacs 31 is around the corner: The changes I'm daily driving | 442 | 255 | Technology | [link](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner) · [HN](https://news.ycombinator.com/item?id=48584135) |
+| 2026-06-18 | Thursday | 6 | AMD silently removes memory encryption from consumer Ryzen CPUs | 431 | 205 | Technology | [link](https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change) · [HN](https://news.ycombinator.com/item?id=48582320) |
+| 2026-06-18 | Thursday | 7 | .gitignore Isn't the only way to ignore files in Git | 428 | 132 | Technology | [link](https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/) · [HN](https://news.ycombinator.com/item?id=48583356) |
+| 2026-06-18 | Thursday | 8 | A website that lists websites to submit your website to | 414 | 90 | Technology | [link](https://www.submission.directory/) · [HN](https://news.ycombinator.com/item?id=48586631) |
+| 2026-06-18 | Thursday | 9 | I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M | 399 | 237 | Technology | [link](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/) · [HN](https://news.ycombinator.com/item?id=48589501) |
+| 2026-06-18 | Thursday | 10 | CS 6120: Advanced Compilers: The Self-Guided Online Course (2020) | 374 | 51 | Technology | [link](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/) · [HN](https://news.ycombinator.com/item?id=48583606) |
 | 2026-06-17 | Wednesday | 1 | Lore – Open source version control system designed for scalability | 1140 | 607 | Technology | [link](https://lore.org/) · [HN](https://news.ycombinator.com/item?id=48571081) |
 | 2026-06-17 | Wednesday | 2 | Sixty percent of US consumers say 'AI' in brand messaging is a turnoff | 1042 | 550 | Technology | [link](https://wpvip.com/future-of-the-web-2026/) · [HN](https://news.ycombinator.com/item?id=48569278) |
 | 2026-06-17 | Wednesday | 3 | GLM-5.2 is the new leading open weights model on Artificial Analysis | 854 | 415 | Technology | [link](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index) · [HN](https://news.ycombinator.com/item?id=48567759) |
