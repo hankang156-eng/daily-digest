@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-19 · 414 days · 4140 stories*
+*Last updated: 2026-06-20 · 415 days · 4150 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-19 | Friday | 1 | Hyundai buys Boston Dynamics | 829 | 362 | Technology | [link](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/) · [HN](https://news.ycombinator.com/item?id=48600312) |
+| 2026-06-19 | Friday | 2 | Norway imposes near ban on AI in elementary school | 669 | 464 | Technology | [link](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/) · [HN](https://news.ycombinator.com/item?id=48600093) |
+| 2026-06-19 | Friday | 3 | Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28 | 594 | 368 | Technology | [link](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a) · [HN](https://news.ycombinator.com/item?id=48595511) |
+| 2026-06-19 | Friday | 4 | Google workspace threatening to block Firefox access | 483 | 150 | Technology | [link](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html) · [HN](https://news.ycombinator.com/item?id=48600345) |
+| 2026-06-19 | Friday | 5 | There are no instances in ATProto | 446 | 227 | Technology | [link](https://overreacted.io/there-are-no-instances-in-atproto/) · [HN](https://news.ycombinator.com/item?id=48599515) |
+| 2026-06-19 | Friday | 6 | AI Engineer Claims to Have Cracked Linear A | 426 | 166 | Technology | [link](https://aiclambake.com/clamtakes/linear-a/) · [HN](https://news.ycombinator.com/item?id=48600107) |
+| 2026-06-19 | Friday | 7 | Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died | 377 | 40 | Technology | [link](https://www.legacy.com/legacy/robert-bobby-prince-lll) · [HN](https://news.ycombinator.com/item?id=48602352) |
+| 2026-06-19 | Friday | 8 | How many of the 170k English words do you know? | 371 | 452 | Technology | [link](https://vocabowl-870366514258.us-west1.run.app/) · [HN](https://news.ycombinator.com/item?id=48598586) |
+| 2026-06-19 | Friday | 9 | Court Records Should Be Free | 369 | 82 | Technology | [link](https://www.eff.org/deeplinks/2026/06/court-records-should-be-free) · [HN](https://news.ycombinator.com/item?id=48600946) |
+| 2026-06-19 | Friday | 10 | A new bill takes aim at government pressure to silence lawful online speech | 279 | 121 | Technology | [link](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech) · [HN](https://news.ycombinator.com/item?id=48600950) |
 | 2026-06-18 | Thursday | 1 | I found 10k GitHub repositories distributing Trojan malware | 807 | 211 | Technology | [link](https://orchidfiles.com/github-repositories-distributing-malware/) · [HN](https://news.ycombinator.com/item?id=48583928) |
 | 2026-06-18 | Thursday | 2 | Swiss parliament lifts ban on new nuclear power plants | 759 | 723 | Technology | [link](https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html) · [HN](https://news.ycombinator.com/item?id=48585746) |
 | 2026-06-18 | Thursday | 3 | Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly | 668 | 447 | Technology | [link](https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/) · [HN](https://news.ycombinator.com/item?id=48584207) |

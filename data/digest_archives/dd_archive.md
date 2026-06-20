@@ -1,9 +1,69 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-19 · 2315 items*
+*Last updated: 2026-06-20 · 2375 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-19 | Hyundai buys Boston Dynamics | HN | Technology | tech | 2026-06-19 | [link](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/) |
+| 2026-06-19 | Norway imposes near ban on AI in elementary school | HN | Technology | tech | 2026-06-19 | [link](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/) |
+| 2026-06-19 | Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28 | HN | Technology | tech | 2026-06-19 | [link](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a) |
+| 2026-06-19 | Google workspace threatening to block Firefox access | HN | Technology | tech | 2026-06-19 | [link](https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html) |
+| 2026-06-19 | There are no instances in ATProto | HN | Technology | tech | 2026-06-19 | [link](https://overreacted.io/there-are-no-instances-in-atproto/) |
+| 2026-06-19 | AI Engineer Claims to Have Cracked Linear A | HN | Technology | tech | 2026-06-19 | [link](https://aiclambake.com/clamtakes/linear-a/) |
+| 2026-06-19 | Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died | HN | Technology | tech | 2026-06-19 | [link](https://www.legacy.com/legacy/robert-bobby-prince-lll) |
+| 2026-06-19 | How many of the 170k English words do you know? | HN | Technology | tech | 2026-06-19 | [link](https://vocabowl-870366514258.us-west1.run.app/) |
+| 2026-06-19 | Court Records Should Be Free | HN | Technology | tech | 2026-06-19 | [link](https://www.eff.org/deeplinks/2026/06/court-records-should-be-free) |
+| 2026-06-19 | A new bill takes aim at government pressure to silence lawful online speech | HN | Technology | tech | 2026-06-19 | [link](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech) |
+| 2026-06-19 | The room the economy can't see | HN | Technology | tech | 2026-06-19 | [link](https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/) |
+| 2026-06-19 | Is AI ruining our skills? Early results are in – and they're not good | HN | Technology | tech | 2026-06-19 | [link](https://www.nature.com/articles/d41586-026-01947-1) |
+| 2026-06-19 | Americans express unease over SpaceX's influence on retirement savings | HN | Technology | tech | 2026-06-19 | [link](https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk) |
+| 2026-06-19 | Think of the children: How to force real ID for all internet traffic (2023) | HN | Technology | tech | 2026-06-19 | [link](https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/) |
+| 2026-06-19 | Amazon drops Sam Altman movie after announcing OpenAI partnership | HN | Technology | tech | 2026-06-19 | [link](https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html) |
+| 2026-06-19 | Hey, n00b, we didn't hire you to complete tasks | HN | Technology | tech | 2026-06-19 | [link](https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete) |
+| 2026-06-19 | Federal Energy Regulator Seeks to Limit Conflicts Over Data Centers | NYT · AI | AI | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/18/business/data-centers-power-regulation.html) |
+| 2026-06-19 | Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says | NYT · AI | AI | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/18/technology/amazon-worker-retaliation-data-center-complaints.html) |
+| 2026-06-19 | Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla | NYT · Technology | Technology | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html) |
+| 2026-06-19 | Egg Prices Are Way Down, but That’s Hurting Farmers | NYT · Business | Business | news | 2026-06-20 | [link](https://www.nytimes.com/2026/06/20/business/egg-prices-down.html) |
+| 2026-06-19 | How Much Is SpaceX Really Worth? | NYT · Business | Business | news | 2026-06-19 | [link](https://www.nytimes.com/2026/06/19/business/spacex-stock-price.html) |
+| 2026-06-19 | Why Waymo’s Driverless Taxis Won’t Be on Your Streets Anytime Soon | NYT · Technology | Technology | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/17/technology/waymo-driverless-taxis-politics.html) |
+| 2026-06-19 | Inflation Will Linger Despite U.S.-Iran Deal, British Officials Warn | NYT · Business | Business | news | 2026-06-19 | [link](https://www.nytimes.com/2026/06/18/business/uk-inflation-bank-of-england.html) |
+| 2026-06-19 | A Humble 3-Wheel Electric Vehicle Lands Toyota in Federal Court | NYT · Technology | Technology | news | 2026-06-20 | [link](https://www.nytimes.com/2026/06/20/business/toyota-africa-electric-vehicles-lawsuit.html) |
+| 2026-06-19 | The Cloud Has Sound: The Unrelenting and Unseen Cost of A.I. Data Centers | NYT · Technology | Technology | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/17/us/data-centers-noise-pollution.html) |
+| 2026-06-19 | New Super PAC, the Guardrails Alliance, Aims to Rally Tech Workers to Help Limit A.I. | NYT · Technology | Technology | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/18/technology/ai-super-pac-guardrails-alliance.html) |
+| 2026-06-19 | ‘Hard Fork’ Live, Part 3: Differing Visions of an A.I. Future | NYT · AI | AI | news | 2026-06-19 | [link](https://www.nytimes.com/2026/06/19/podcasts/hard-fork-live-part-3-differing-visions-of-an-ai-future.html) |
+| 2026-06-19 | Inside Trump’s Stock Trading Surge | NYT · Politics | Politics | news | 2026-06-19 | [link](https://www.nytimes.com/2026/06/19/us/politics/inside-trumps-stock-trading-surge.html) |
+| 2026-06-19 | The Iran War is Forcing Energy-Importing Countries to Turn Inward | NYT · Energy & Environment | Energy & Environment | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html) |
+| 2026-06-19 | Ruling in Missouri Restores Access to Medication Abortions | NYT · U.S. | U.S. | news | 2026-06-19 | [link](https://www.nytimes.com/2026/06/19/us/missouri-abortion-access-ruling.html) |
+| 2026-06-19 | Book Review: ‘The Reverse Centaur’s Guide to Life After AI,’ by Cory Doctorow | NYT · AI | AI | opinion | 2026-06-20 | [link](https://www.nytimes.com/2026/06/20/books/review/the-reverse-centaurs-guide-to-life-after-ai.html) |
+| 2026-06-19 | Wait, There Are Two Trump Administrations Right Now? | NYT · Opinion | Opinion | opinion | 2026-06-19 | [link](https://www.nytimes.com/2026/06/19/opinion/american-empire-trump.html) |
+| 2026-06-19 | Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims | NYT · Politics | Politics | news | 2026-06-19 | [link](https://www.nytimes.com/2026/06/18/us/politics/vances-iran-deal-misleading-claims.html) |
+| 2026-06-19 | Dear A.I. Companies, the Doom Trolling Needs to Stop | NYT · Opinion | Opinion | opinion | 2026-06-18 | [link](https://www.nytimes.com/2026/06/17/opinion/ai-dangerous-openai-anthropic.html) |
+| 2026-06-19 | The Verdict on Biden Is In | NYT · Opinion | Opinion | opinion | 2026-06-18 | [link](https://www.nytimes.com/2026/06/16/opinion/joe-jill-biden-east-wing.html) |
+| 2026-06-19 | Is Climate Change Supercharging El Niño? | NYT · Energy & Environment | Energy & Environment | news | 2026-06-19 | [link](https://www.nytimes.com/2026/06/19/climate/climate-change-el-nino.html) |
+| 2026-06-19 | Quoting Sean Lynch | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-19 | [link](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything) |
+| 2026-06-19 | Fox to Buy Roku Streaming Service in $25 Billion Deal | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-19 | [link](https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9?st=mKdQwC&reflink=desktopwebshare_permalink) |
+| 2026-06-19 | Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-19 | [link](https://www.nbcnews.com/tech/gadgets/trump-mobile-t1-phone-nearly-identical-htc-device-analysis-rcna349293) |
+| 2026-06-19 | Claude gave me the number to a phone sex line instead of AMEX | Reddit | Business | social | 2026-06-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uagwhk/claude_gave_me_the_number_to_a_phone_sex_line/) |
+| 2026-06-19 | Anyone prefer Claude over Gaming | Reddit | Business | social | 2026-06-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uaeizw/anyone_prefer_claude_over_gaming/) |
+| 2026-06-19 | Claude has correctly predicted the outcome of 6 World Cup matches in a row | Reddit | Business | social | 2026-06-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u9n6b1/claude_has_correctly_predicted_the_outcome_of_6/) |
+| 2026-06-19 | About 200 Companies Still Have Access to Anthropic Mythos After US Shutdown Order | Reddit | Business | social | 2026-06-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u9sq81/about_200_companies_still_have_access_to/) |
+| 2026-06-19 | Low-skilled attacker used Claude Code and Codex to breach 14 companies | Reddit | Business | social | 2026-06-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ua6sfe/lowskilled_attacker_used_claude_code_and_codex_to/) |
+| 2026-06-19 | Me: “pls make me a nice cat logo?” Claude: “I gotchu” | Reddit | Business | social | 2026-06-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u9rrh7/me_pls_make_me_a_nice_cat_logo_claude_i_gotchu/) |
+| 2026-06-19 | Official: Anthropic Fixes Claude Code Usage Tracking Bug for Premium Users | Reddit | Business | social | 2026-06-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u9rbh8/official_anthropic_fixes_claude_code_usage/) |
+| 2026-06-19 | Google's new Open Knowledge Format is basically the CLAUDE.md / memory-folder pattern, formalized in | Reddit | Business | social | 2026-06-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1u9rbs8/googles_new_open_knowledge_format_is_basically/) |
+| 2026-06-19 | What’s a Claude use case you haven’t seen people talk about? | Reddit | Business | social | 2026-06-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uabl20/whats_a_claude_use_case_you_havent_seen_people/) |
+| 2026-06-19 | The single most costly mistake everyone's burning tokens on | Reddit | Business | social | 2026-06-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ua4n02/the_single_most_costly_mistake_everyones_burning/) |
+| 2026-06-19 | Subagent driven development | Reddit | Business | social | 2026-06-19 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u9p2y8/subagent_driven_development/) |
+| 2026-06-19 | Exclusive \| Anthropic floats proposal to Lutnick to end US ban of powerful 'Mythos,' 'Fable' AI mod | Reddit | Business | social | 2026-06-19 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ua6bnx/exclusive_anthropic_floats_proposal_to_lutnick_to/) |
+| 2026-06-19 | I kept shipping code with Claude Code that I couldn't explain, so I built a plugin that quizzes me o | Reddit | Business | social | 2026-06-19 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u9w78g/i_kept_shipping_code_with_claude_code_that_i/) |
+| 2026-06-19 | Opus getting fed up with Sonnet Agent | Reddit | Business | social | 2026-06-19 | [link](https://www.reddit.com/r/ClaudeCode/comments/1u9rx64/opus_getting_fed_up_with_sonnet_agent/) |
+| 2026-06-19 | Day 8 without Fable | Reddit | Business | social | 2026-06-19 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uahhjd/day_8_without_fable/) |
+| 2026-06-19 | Obsidian PARA method + AI skills (opencode/claude) | Reddit | Business | social | 2026-06-19 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u9oxug/obsidian_para_method_ai_skills_opencodeclaude/) |
+| 2026-06-19 | FfLAPa: A minimal note system | Reddit | Business | social | 2026-06-19 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ua77q0/fflapa_a_minimal_note_system/) |
+| 2026-06-19 | A simple plugin with only a single function: Single-Select | Reddit | Business | social | 2026-06-19 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ua4ipi/a_simple_plugin_with_only_a_single_function/) |
+| 2026-06-19 | Organisation tips for a beginner | Reddit | Business | social | 2026-06-19 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u9vjm3/organisation_tips_for_a_beginner/) |
+| 2026-06-19 | my current hardest try for making the mobile view not ugly | Reddit | Business | social | 2026-06-19 | [link](https://www.reddit.com/r/ObsidianMD/comments/1u9tma8/my_current_hardest_try_for_making_the_mobile_view/) |
+| 2026-06-19 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-18 | I found 10k GitHub repositories distributing Trojan malware | HN | Technology | tech | 2026-06-18 | [link](https://orchidfiles.com/github-repositories-distributing-malware/) |
 | 2026-06-18 | Swiss parliament lifts ban on new nuclear power plants | HN | Technology | tech | 2026-06-18 | [link](https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html) |
 | 2026-06-18 | Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly | HN | Technology | tech | 2026-06-18 | [link](https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/) |
