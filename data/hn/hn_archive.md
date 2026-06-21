@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-20 · 415 days · 4150 stories*
+*Last updated: 2026-06-21 · 416 days · 4160 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-20 | Saturday | 1 | CSSQuake | 505 | 107 | Technology | [link](https://cssquake.com/) · [HN](https://news.ycombinator.com/item?id=48608223) |
+| 2026-06-20 | Saturday | 2 | The Wholesale Plagiarism of Obscure Sorrows | 370 | 147 | Technology | [link](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/) · [HN](https://news.ycombinator.com/item?id=48611411) |
+| 2026-06-20 | Saturday | 3 | I Stored a Website in a Favicon | 301 | 105 | Technology | [link](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/) · [HN](https://news.ycombinator.com/item?id=48606619) |
+| 2026-06-20 | Saturday | 4 | VPN ban update for UK households as government looks at 'age-gate' | 297 | 341 | Technology | [link](https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063) · [HN](https://news.ycombinator.com/item?id=48609385) |
+| 2026-06-20 | Saturday | 5 | Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs | 285 | 160 | Technology | [link](https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video) · [HN](https://news.ycombinator.com/item?id=48609343) |
+| 2026-06-20 | Saturday | 6 | Loupe – A iOS app that raises awareness about what native apps can see | 285 | 106 | Technology | [link](https://github.com/mysk-research/loupe) · [HN](https://news.ycombinator.com/item?id=48608645) |
+| 2026-06-20 | Saturday | 7 | SMPTE Makes Its Standards Freely Accessible | 261 | 79 | Technology | [link](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community) · [HN](https://news.ycombinator.com/item?id=48610827) |
+| 2026-06-20 | Saturday | 8 | DOS Game "F-15 Strike Eagle II" reversing project needs DOS test pilots | 253 | 65 | Technology | [link](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html) · [HN](https://news.ycombinator.com/item?id=48609766) |
+| 2026-06-20 | Saturday | 9 | Renting a sewing machine from the library | 231 | 121 | Technology | [link](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland) · [HN](https://news.ycombinator.com/item?id=48613755) |
+| 2026-06-20 | Saturday | 10 | Temporary Cloudflare accounts for AI agents | 209 | 111 | Technology | [link](https://blog.cloudflare.com/temporary-accounts/) · [HN](https://news.ycombinator.com/item?id=48608394) |
 | 2026-06-19 | Friday | 1 | Hyundai buys Boston Dynamics | 829 | 362 | Technology | [link](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/) · [HN](https://news.ycombinator.com/item?id=48600312) |
 | 2026-06-19 | Friday | 2 | Norway imposes near ban on AI in elementary school | 669 | 464 | Technology | [link](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/) · [HN](https://news.ycombinator.com/item?id=48600093) |
 | 2026-06-19 | Friday | 3 | Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28 | 594 | 368 | Technology | [link](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a) · [HN](https://news.ycombinator.com/item?id=48595511) |

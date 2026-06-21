@@ -1,9 +1,67 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-20 · 2375 items*
+*Last updated: 2026-06-21 · 2433 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-20 | CSSQuake | HN | Technology | tech | 2026-06-20 | [link](https://cssquake.com/) |
+| 2026-06-20 | The Wholesale Plagiarism of Obscure Sorrows | HN | Technology | tech | 2026-06-20 | [link](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/) |
+| 2026-06-20 | I Stored a Website in a Favicon | HN | Technology | tech | 2026-06-20 | [link](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/) |
+| 2026-06-20 | VPN ban update for UK households as government looks at 'age-gate' | HN | Technology | tech | 2026-06-20 | [link](https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063) |
+| 2026-06-20 | Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs | HN | Technology | tech | 2026-06-20 | [link](https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video) |
+| 2026-06-20 | Loupe – A iOS app that raises awareness about what native apps can see | HN | Technology | tech | 2026-06-20 | [link](https://github.com/mysk-research/loupe) |
+| 2026-06-20 | SMPTE Makes Its Standards Freely Accessible | HN | Technology | tech | 2026-06-20 | [link](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community) |
+| 2026-06-20 | DOS Game "F-15 Strike Eagle II" reversing project needs DOS test pilots | HN | Technology | tech | 2026-06-20 | [link](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html) |
+| 2026-06-20 | Renting a sewing machine from the library | HN | Technology | tech | 2026-06-20 | [link](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland) |
+| 2026-06-20 | Temporary Cloudflare accounts for AI agents | HN | Technology | tech | 2026-06-20 | [link](https://blog.cloudflare.com/temporary-accounts/) |
+| 2026-06-20 | Slow breathing modulates brain function and risk behavior | HN | Technology | tech | 2026-06-20 | [link](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9) |
+| 2026-06-20 | UHF X11: X11 Built for VisionOS and Apple Vision Pro | HN | Technology | tech | 2026-06-20 | [link](https://www.lispm.net/apps/uhf-x11/) |
+| 2026-06-20 | Linux eliminates the strncpy API after six years of work, 360 patches | HN | Technology | tech | 2026-06-20 | [link](https://www.phoronix.com/news/Linux-7.2-Drops-strncpy) |
+| 2026-06-20 | Developers don't understand CORS (2019) | HN | Technology | tech | 2026-06-20 | [link](https://fosterelli.co/developers-dont-understand-cors) |
+| 2026-06-20 | Show HN: StartupWiki – A Free Alternative to Crunchbase | HN | Technology | tech | 2026-06-20 | [link](https://startupwiki.tech/) |
+| 2026-06-20 | Pre-2022 Books | HN | Technology | tech | 2026-06-20 | [link](https://notes.lorenzogravina.com/musings/pre-2022-books) |
+| 2026-06-20 | Federal Energy Regulator Seeks to Limit Conflicts Over Data Centers | NYT · AI | AI | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/18/business/data-centers-power-regulation.html) |
+| 2026-06-20 | Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says | NYT · AI | AI | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/18/technology/amazon-worker-retaliation-data-center-complaints.html) |
+| 2026-06-20 | Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla | NYT · Technology | Technology | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html) |
+| 2026-06-20 | Egg Prices Are Way Down, but That’s Hurting Farmers | NYT · Business | Business | news | 2026-06-20 | [link](https://www.nytimes.com/2026/06/20/business/egg-prices-down.html) |
+| 2026-06-20 | A Humble 3-Wheel Electric Vehicle Lands Toyota in Federal Court | NYT · Technology | Technology | news | 2026-06-20 | [link](https://www.nytimes.com/2026/06/20/business/toyota-africa-electric-vehicles-lawsuit.html) |
+| 2026-06-20 | Why Waymo’s Driverless Taxis Won’t Be on Your Streets Anytime Soon | NYT · Technology | Technology | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/17/technology/waymo-driverless-taxis-politics.html) |
+| 2026-06-20 | The Giant Test Kitchen Where Cooks Battle A.I. Slop | NYT · AI | AI | news | 2026-06-20 | [link](https://www.nytimes.com/2026/06/20/business/media/people-inc-ai-test-kitchen.html) |
+| 2026-06-20 | Amazon’s Movie Arm Abandons Film About OpenAI | NYT · AI | AI | news | 2026-06-20 | [link](https://www.nytimes.com/2026/06/19/business/media/amazon-openai-artificial-movie-sam-altman.html) |
+| 2026-06-20 | The Cloud Has Sound: The Unrelenting and Unseen Cost of A.I. Data Centers | NYT · Technology | Technology | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/17/us/data-centers-noise-pollution.html) |
+| 2026-06-20 | How the Nashville Zoo Became the Latest Face of Data Center Opposition | NYT · AI | AI | news | 2026-06-20 | [link](https://www.nytimes.com/2026/06/19/us/nashville-zoo-data-center.html) |
+| 2026-06-20 | New Super PAC, the Guardrails Alliance, Aims to Rally Tech Workers to Help Limit A.I. | NYT · Technology | Technology | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/18/technology/ai-super-pac-guardrails-alliance.html) |
+| 2026-06-20 | Trump, Claiming Vandalism, Says Reflecting Pool Will Likely Need to Be Drained | NYT · Politics | Politics | news | 2026-06-21 | [link](https://www.nytimes.com/2026/06/20/us/politics/trump-reflecting-pool-drained.html) |
+| 2026-06-20 | The Iran War is Forcing Energy-Importing Countries to Turn Inward | NYT · Energy & Environment | Energy & Environment | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html) |
+| 2026-06-20 | Dear A.I. Companies, the Doom Trolling Needs to Stop | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-06-18 | [link](https://www.nytimes.com/2026/06/17/opinion/ai-dangerous-openai-anthropic.html) |
+| 2026-06-20 | Book Review: ‘The Reverse Centaur’s Guide to Life After AI,’ by Cory Doctorow | NYT · AI | AI | opinion | 2026-06-20 | [link](https://www.nytimes.com/2026/06/20/books/review/the-reverse-centaurs-guide-to-life-after-ai.html) |
+| 2026-06-20 | The Verdict on Biden Is In | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-06-18 | [link](https://www.nytimes.com/2026/06/16/opinion/joe-jill-biden-east-wing.html) |
+| 2026-06-20 | Trump Administration Shuttered a Criminal Probe Into Fraudster’s Clemency | NYT · Politics | Politics | news | 2026-06-21 | [link](https://www.nytimes.com/2026/06/21/us/politics/trump-fraudster-priest-investigation-brooklyn.html) |
+| 2026-06-20 | Trump Was Right. The War Ended With a Surrender. | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-06-20 | [link](https://www.nytimes.com/2026/06/20/opinion/trump-iran-republicans-hormuz.html) |
+| 2026-06-20 | Memo by Rubio Approved Detention of Immigrant Who Criticized Trump Ally | NYT · U.S. | U.S. | news | 2026-06-20 | [link](https://www.nytimes.com/2026/06/19/us/rubio-beto-coral-colombia.html) |
+| 2026-06-20 | Inside Trump’s Stock Trading Surge | NYT · Politics | Politics | news | 2026-06-19 | [link](https://www.nytimes.com/2026/06/19/us/politics/inside-trumps-stock-trading-surge.html) |
+| 2026-06-20 | Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-20 | [link](https://www.independent.co.uk/news/business/news/carlsberg-probably-not-best-beer-in-world-lager-brewer-a8874016.html) |
+| 2026-06-20 | ‘What’s the Deal With Old Guys and Giant Glasses?’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-20 | [link](https://www.youtube.com/watch?v=8DYGxn6Xvt0) |
+| 2026-06-20 | Which Copyleft Licence is Suitable for an SVG? | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-06-20 | [link](https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/) |
+| 2026-06-20 | AI has revealed that most people have the reading ability at a third-grade level | Reddit | Business | social | 2026-06-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uaqyni/ai_has_revealed_that_most_people_have_the_reading/) |
+| 2026-06-20 | New devs be like | Reddit | Business | social | 2026-06-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uau8au/new_devs_be_like/) |
+| 2026-06-20 | Claude to Require Face ID | Reddit | Business | social | 2026-06-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uawyi0/claude_to_require_face_id/) |
+| 2026-06-20 | Update: we've gone ahead and reset 5-hour and weekly usage limits for everyone, across all plans. En | Reddit | Business | social | 2026-06-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uahx8i/update_weve_gone_ahead_and_reset_5hour_and_weekly/) |
+| 2026-06-20 | Nobel Winner John Jumper to Leave Google DeepMind for Anthropic | Reddit | Business | social | 2026-06-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uan2ow/nobel_winner_john_jumper_to_leave_google_deepmind/) |
+| 2026-06-20 | Trump on Anthropic, CEO Dario and AI National Security | Reddit | Business | social | 2026-06-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uat4bc/trump_on_anthropic_ceo_dario_and_ai_national/) |
+| 2026-06-20 | What’s your most-used Claude prompt that you can’t live without? | Reddit | Business | social | 2026-06-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ub7lxv/whats_your_mostused_claude_prompt_that_you_cant/) |
+| 2026-06-20 | CCSwitch | Reddit | Business | social | 2026-06-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ub4fxx/ccswitch/) |
+| 2026-06-20 | "Opus 4.8 has gotten really good lately its acting like Fab- | Reddit | Business | social | 2026-06-20 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ub2d49/opus_48_has_gotten_really_good_lately_its_acting/) |
+| 2026-06-20 | Ultracode just blew my mind!!! | Reddit | Business | social | 2026-06-20 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uax5yy/ultracode_just_blew_my_mind/) |
+| 2026-06-20 | 100% reset for all, 2 days to finish, it's time for ULTRACODE, in fast mode... Who ever haven't trie | Reddit | Business | social | 2026-06-20 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uaku65/100_reset_for_all_2_days_to_finish_its_time_for/) |
+| 2026-06-20 | What are you actually coding? | Reddit | Business | social | 2026-06-20 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uawmqu/what_are_you_actually_coding/) |
+| 2026-06-20 | Filesystems are having a moment | Reddit | Business | social | 2026-06-20 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ub5e6g/filesystems_are_having_a_moment/) |
+| 2026-06-20 | My Custom Setup Showcase | Reddit | Business | social | 2026-06-20 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uavztx/my_custom_setup_showcase/) |
+| 2026-06-20 | 26 lines of custom CSS gave me what 500+ themes couldn't. | Reddit | Business | social | 2026-06-20 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uazxur/26_lines_of_custom_css_gave_me_what_500_themes/) |
+| 2026-06-20 | Almost 5000 plugins for Obsidian! What's your favorite and why? | Reddit | Business | social | 2026-06-20 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uavj9e/almost_5000_plugins_for_obsidian_whats_your/) |
+| 2026-06-20 | Karpathy's LLM Wiki setup | Reddit | Business | social | 2026-06-20 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uai1w2/karpathys_llm_wiki_setup/) |
+| 2026-06-20 | Retroma theme: A quick teaser for 3D button customization | Reddit | Business | social | 2026-06-20 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uapk3k/retroma_theme_a_quick_teaser_for_3d_button/) |
+| 2026-06-20 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-19 | Hyundai buys Boston Dynamics | HN | Technology | tech | 2026-06-19 | [link](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/) |
 | 2026-06-19 | Norway imposes near ban on AI in elementary school | HN | Technology | tech | 2026-06-19 | [link](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/) |
 | 2026-06-19 | Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28 | HN | Technology | tech | 2026-06-19 | [link](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a) |
