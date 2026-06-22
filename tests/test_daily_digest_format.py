@@ -116,11 +116,11 @@ class DailyDigestFormatTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "YYYY-MM-DD"):
             daily_digest.content_date_from_user_input("05/24/2026")
 
-    def test_summary_provider_defaults_to_none_and_opts_in(self):
-        self.assertEqual(daily_digest.parse_args([]).summary_provider, "none")
+    def test_summary_provider_defaults_to_gemini_and_can_opt_out(self):
+        self.assertEqual(daily_digest.parse_args([]).summary_provider, "gemini")
         self.assertEqual(
-            daily_digest.parse_args(["--summary-provider", "gemini"]).summary_provider,
-            "gemini",
+            daily_digest.parse_args(["--model", "none"]).summary_provider,
+            "none",
         )
 
     def test_nyt_uses_gemini_overview_when_opted_in_else_none(self):

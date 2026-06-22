@@ -260,11 +260,11 @@ def parse_args(argv=None):
         "--model", "--summary-provider",
         dest="summary_provider",
         choices=SUMMARY_PROVIDERS,
-        default="none",
+        default="gemini",
         help=(
-            "Model family for article overviews. Default: none (abstract only, no LLM). "
-            "Pass --model gemini to generate overviews with gemini-3.5-flash (falls back "
-            "to gemini-3.1-flash-lite); claude-sonnet / claude-opus also available."
+            "Model family for article overviews. Default: gemini (gemini-3.5-flash, "
+            "falls back to gemini-3.1-flash-lite). Pass --model none for abstract-only "
+            "(no LLM); claude-sonnet / claude-opus also available."
         ),
     )
     parser.add_argument(
@@ -2467,7 +2467,7 @@ def main(target_date=None, summary_config=None):
     enrich_article_reading_stats(data)
 
     print("  [5/8] Article overviews...")
-    summary_config = summary_config or {"provider": "none", "model": "", "nyt_sections": set()}
+    summary_config = summary_config or {"provider": "gemini", "model": DEFAULT_SUMMARY_MODELS["gemini"], "nyt_sections": set()}
     enrich_article_overviews(data, summary_config, settings)
     fill_nyt_abstracts(data)
 

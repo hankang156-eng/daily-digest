@@ -58,18 +58,18 @@ cp .env.example .env
 
 ### Article overviews
 
-NYT items always show their **Abstract** (the RSS description, free, no LLM). The richer **Overview** is LLM-generated and **opt-in**: by default no LLM summaries are generated. Opt in with `--model gemini`, which uses `gemini-3.5-flash` (falls back to `gemini-3.1-flash-lite` on rate limits, with retry/backoff and throttling):
+NYT items always show their **Abstract** (the RSS description, free, no LLM). The richer **Overview** is LLM-generated. The default is **`gemini`**, so the daily run produces overviews automatically with `gemini-3.5-flash` (falls back to `gemini-3.1-flash-lite` on rate limits, with retry/backoff and throttling). Pass `--model none` for abstract-only:
 
 ```bash
-bash scripts/run_digest.sh --model gemini
+bash scripts/run_digest.sh --model none   # abstract-only, no LLM
 ```
 
 Summary behavior by provider:
 
 | Provider | NYT | Blogs / research |
 |----------|-----|------------------|
-| `none` (default) | Abstract only | none |
-| `gemini` | Abstract + Gemini Overview | Gemini Overview |
+| `gemini` (default) | Abstract + Gemini Overview | Gemini Overview |
+| `none` | Abstract only | none |
 | `claude-sonnet` / `claude-opus` | Abstract + Claude Overview for `--sections` (others get Gemini Overview) | Claude Overview |
 
 ```bash
