@@ -1,9 +1,71 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-21 · 2433 items*
+*Last updated: 2026-06-22 · 2495 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-21 | Identity verification on Claude | HN | Technology | tech | 2026-06-21 | [link](https://support.claude.com/en/articles/14328960-identity-verification-on-claude) |
+| 2026-06-21 | Did my old job only exist because of fraud? | HN | Technology | tech | 2026-06-21 | [link](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/) |
+| 2026-06-21 | Prefer duplication over the wrong abstraction (2016) | HN | Technology | tech | 2026-06-21 | [link](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction) |
+| 2026-06-21 | Beyond All Reason (Free Total Annihilation Inspired RTS) | HN | Technology | tech | 2026-06-21 | [link](https://www.beyondallreason.info) |
+| 2026-06-21 | The brain was not designed for this much bad news | HN | Technology | tech | 2026-06-21 | [link](https://www.sciencedaily.com/releases/2026/06/260614012006.htm) |
+| 2026-06-21 | Google Hits 50% IPv6 | HN | Technology | tech | 2026-06-21 | [link](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/) |
+| 2026-06-21 | Apertus – Open Foundation Model for Sovereign AI | HN | Technology | tech | 2026-06-21 | [link](https://apertvs.ai/) |
+| 2026-06-21 | Tell HN: Happy Fathers Day | HN | Technology | tech | 2026-06-21 | [link](https://news.ycombinator.com/item?id=48620502) |
+| 2026-06-21 | Everything is logarithms | HN | Technology | tech | 2026-06-21 | [link](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html) |
+| 2026-06-21 | There is minimal downside to switching to open models | HN | Technology | tech | 2026-06-21 | [link](https://www.marble.onl/posts/cancel_claude.html) |
+| 2026-06-21 | JSON-LD explained for personal websites | HN | Technology | tech | 2026-06-21 | [link](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/) |
+| 2026-06-21 | FDA advisors unanimously vote to approve Moderna's mRNA after agency drama | HN | Technology | tech | 2026-06-21 | [link](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/) |
+| 2026-06-21 | Building reliable agentic AI systems | HN | Technology | tech | 2026-06-21 | [link](https://martinfowler.com/articles/reliable-llm-bayer.html) |
+| 2026-06-21 | The 100k whys of AI | HN | Technology | tech | 2026-06-21 | [link](https://lcamtuf.substack.com/p/the-100000-whys-of-ai) |
+| 2026-06-21 | (How to Write a (Lisp) Interpreter (In Python)) (2010) | HN | Technology | tech | 2026-06-21 | [link](https://norvig.com/lispy.html) |
+| 2026-06-21 | The minimum viable unit of saleable software | HN | Technology | tech | 2026-06-21 | [link](https://brandur.org/minimum-viable-unit) |
+| 2026-06-21 | A.I. Doomaxxing Is Bad for Our Economy | NYT · AI | AI | opinion | 2026-06-22 | [link](https://www.nytimes.com/2026/06/22/opinion/ai-doom-jobs-economy.html) |
+| 2026-06-21 | Federal Energy Regulator Seeks to Limit Conflicts Over Data Centers | NYT · AI | AI | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/18/business/data-centers-power-regulation.html) |
+| 2026-06-21 | Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla | NYT · Technology | Technology | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html) |
+| 2026-06-21 | Egg Prices Are Way Down, but That’s Hurting Farmers | NYT · Business | Business | news | 2026-06-20 | [link](https://www.nytimes.com/2026/06/20/business/egg-prices-down.html) |
+| 2026-06-21 | Rates on New Student Loans Will Rise on July 1 | NYT · Business | Business | news | 2026-06-22 | [link](https://www.nytimes.com/2026/06/19/your-money/student-loans-interest-rates-changes.html) |
+| 2026-06-21 | Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says | NYT · Technology | Technology | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/18/technology/amazon-worker-retaliation-data-center-complaints.html) |
+| 2026-06-21 | Why Waymo’s Driverless Taxis Won’t Be on Your Streets Anytime Soon | NYT · Technology | Technology | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/17/technology/waymo-driverless-taxis-politics.html) |
+| 2026-06-21 | A Humble 3-Wheel Electric Vehicle Lands Toyota in Federal Court | NYT · Technology | Technology | news | 2026-06-20 | [link](https://www.nytimes.com/2026/06/20/business/toyota-africa-electric-vehicles-lawsuit.html) |
+| 2026-06-21 | The Cloud Has Sound: The Unrelenting and Unseen Cost of A.I. Data Centers | NYT · Technology | Technology | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/17/us/data-centers-noise-pollution.html) |
+| 2026-06-21 | Embattled Superintendent of Los Angeles School District Resigns | NYT · AI | AI | news | 2026-06-22 | [link](https://www.nytimes.com/2026/06/22/us/superintendent-lausd-alberto-carvalho-resigns.html) |
+| 2026-06-21 | Trump Says Reflecting Pool Will Likely Need to Be Drained | NYT · Politics | Politics | news | 2026-06-21 | [link](https://www.nytimes.com/2026/06/20/us/politics/trump-reflecting-pool-drained.html) |
+| 2026-06-21 | Is Your Vibe ‘High-Signal’ or ‘Anti-Signal’? | NYT · AI | AI | news | 2026-06-21 | [link](https://www.nytimes.com/2026/06/21/business/signal-tech-silicon-valley.html) |
+| 2026-06-21 | D.O.J. Seeks to Halt Pollution Lawsuit Against Elon Musk’s Data Center | NYT · Energy & Environment | Energy & Environment | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html) |
+| 2026-06-21 | The Small-Business Owners Managing Whole Armies of A.I. Employees | NYT · AI | AI | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html) |
+| 2026-06-21 | California Needs Water and Clean Power. It Might Have a Fix for Both. | NYT · Energy & Environment | Energy & Environment | news | 2026-06-22 | [link](https://www.nytimes.com/2026/06/22/climate/california-canals-solar-panels-water-nexus.html) |
+| 2026-06-21 | In Utah House Race, Progressives Assail Democrat Who Backed Abortion Restrictions | NYT · Politics | Politics | news | 2026-06-22 | [link](https://www.nytimes.com/2026/06/22/us/politics/utah-house-salt-lake-city-democrats.html) |
+| 2026-06-21 | Trump Administration Shuttered a Criminal Probe Into Fraudster’s Clemency | NYT · Politics | Politics | news | 2026-06-21 | [link](https://www.nytimes.com/2026/06/21/us/politics/trump-fraudster-priest-investigation-brooklyn.html) |
+| 2026-06-21 | The Iran War is Forcing Energy-Importing Countries to Turn Inward | NYT · Energy & Environment | Energy & Environment | news | 2026-06-17 | [link](https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html) |
+| 2026-06-21 | Is Climate Change Supercharging El Niño? | NYT · Energy & Environment | Energy & Environment | news | 2026-06-22 | [link](https://www.nytimes.com/2026/06/19/climate/climate-change-el-nino.html) |
+| 2026-06-21 | Dear A.I. Companies, the Doom Trolling Needs to Stop | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-06-18 | [link](https://www.nytimes.com/2026/06/17/opinion/ai-dangerous-openai-anthropic.html) |
+| 2026-06-21 | Mux — Video for Developers | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-21 | [link](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) |
+| 2026-06-21 | Chatting with an AI Won’t Make You a Top Programmer | Lemire.me · Tech & Engineering | Technology | tech | 2026-06-21 | [link](https://lemire.me/blog/2026/06/21/chatting-with-ai-wont-make-you-a-top-programmer/) |
+| 2026-06-21 | sqlite-utils 4.0rc1 adds migrations and nested transactions | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-21 | [link](https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything) |
+| 2026-06-21 | Temporary Cloudflare Accounts for AI agents | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-21 | [link](https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything) |
+| 2026-06-21 | Before and After: MacOS 27 Golden Gate Beta 1’s App Icons | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-21 | [link](https://basicappleguy.com/basicappleblog/macos-golden-gate-icon-comparison) |
+| 2026-06-21 | kinda proud when office teammates understand this | Reddit | Business | social | 2026-06-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ubp7mw/kinda_proud_when_office_teammates_understand_this/) |
+| 2026-06-21 | Hit your Claude session limit? | Reddit | Business | social | 2026-06-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ubj3fw/hit_your_claude_session_limit/) |
+| 2026-06-21 | Anthropic is rolling out identity verification. Updated just yesterday. | Reddit | Business | social | 2026-06-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uboasr/anthropic_is_rolling_out_identity_verification/) |
+| 2026-06-21 | Claude Sonnet 5 Spotted, Release Expected Next Week | Reddit | Business | social | 2026-06-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ubuobh/claude_sonnet_5_spotted_release_expected_next_week/) |
+| 2026-06-21 | Official: Anthropic to Require Identity Verification for Certain Capabilities Starting July 8, 2026 | Reddit | Business | social | 2026-06-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/) |
+| 2026-06-21 | NSA Chief Says Anthropic's Mythos Broke Into Nearly All Classified Systems in Hours | Reddit | Business | social | 2026-06-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ubibvk/nsa_chief_says_anthropics_mythos_broke_into/) |
+| 2026-06-21 | The biggest lie in human history? Claude says, "I'll pull out" is a contender. | Reddit | Business | social | 2026-06-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ube6zr/the_biggest_lie_in_human_history_claude_says_ill/) |
+| 2026-06-21 | Definitely! | Reddit | Business | social | 2026-06-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ubvloo/definitely/) |
+| 2026-06-21 | Anthropic clarifies the ID verification update, nothing new or related to restricting access | Reddit | Business | social | 2026-06-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uc0r5u/anthropic_clarifies_the_id_verification_update/) |
+| 2026-06-21 | You're goddamn right! | Reddit | Business | social | 2026-06-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ubhqsy/youre_goddamn_right/) |
+| 2026-06-21 | How did we get so poor? | Reddit | Business | social | 2026-06-21 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ubv5gc/how_did_we_get_so_poor/) |
+| 2026-06-21 | Claude Sonnet 5 “Fennec” leak 1M context, expected next week | Reddit | Business | social | 2026-06-21 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uc1aj4/claude_sonnet_5_fennec_leak_1m_context_expected/) |
+| 2026-06-21 | Good use of the apple watch | Reddit | Business | social | 2026-06-21 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ubfx7w/good_use_of_the_apple_watch/) |
+| 2026-06-21 | How Claude cracked the Playstation 1 open for me | Reddit | Business | social | 2026-06-21 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ubkn16/how_claude_cracked_the_playstation_1_open_for_me/) |
+| 2026-06-21 | Anyone else see that the Fable 5 url updated an hour ago? | Reddit | Business | social | 2026-06-21 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ubphmn/anyone_else_see_that_the_fable_5_url_updated_an/) |
+| 2026-06-21 | Notebook Navigator 3.2 : Significantly improved startup time! | Reddit | Business | social | 2026-06-21 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ubnsvh/notebook_navigator_32_significantly_improved/) |
+| 2026-06-21 | Full Calendar Remastered v0.13.4 now brings embedded dashboards, weather integration, Google Tasks a | Reddit | Business | social | 2026-06-21 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ubkwae/full_calendar_remastered_v0134_now_brings/) |
+| 2026-06-21 | It sometimes feels like my graph is a bunch of constellations | Reddit | Business | social | 2026-06-21 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ubc0f2/it_sometimes_feels_like_my_graph_is_a_bunch_of/) |
+| 2026-06-21 | where did you guys learn to use obsidian. | Reddit | Business | social | 2026-06-21 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ubrho4/where_did_you_guys_learn_to_use_obsidian/) |
+| 2026-06-21 | I turned my Spotify library into a vault | Reddit | Business | social | 2026-06-21 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ubq2nb/i_turned_my_spotify_library_into_a_vault/) |
+| 2026-06-21 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-20 | CSSQuake | HN | Technology | tech | 2026-06-20 | [link](https://cssquake.com/) |
 | 2026-06-20 | The Wholesale Plagiarism of Obscure Sorrows | HN | Technology | tech | 2026-06-20 | [link](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/) |
 | 2026-06-20 | I Stored a Website in a Favicon | HN | Technology | tech | 2026-06-20 | [link](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/) |

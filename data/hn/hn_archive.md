@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-21 · 416 days · 4160 stories*
+*Last updated: 2026-06-22 · 417 days · 4170 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-21 | Sunday | 1 | Identity verification on Claude | 758 | 631 | Technology | [link](https://support.claude.com/en/articles/14328960-identity-verification-on-claude) · [HN](https://news.ycombinator.com/item?id=48618455) |
+| 2026-06-21 | Sunday | 2 | Did my old job only exist because of fraud? | 558 | 242 | Technology | [link](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/) · [HN](https://news.ycombinator.com/item?id=48622867) |
+| 2026-06-21 | Sunday | 3 | Prefer duplication over the wrong abstraction (2016) | 491 | 316 | Technology | [link](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction) · [HN](https://news.ycombinator.com/item?id=48620090) |
+| 2026-06-21 | Sunday | 4 | Beyond All Reason (Free Total Annihilation Inspired RTS) | 480 | 286 | Technology | [link](https://www.beyondallreason.info) · [HN](https://news.ycombinator.com/item?id=48617990) |
+| 2026-06-21 | Sunday | 5 | The brain was not designed for this much bad news | 420 | 317 | Technology | [link](https://www.sciencedaily.com/releases/2026/06/260614012006.htm) · [HN](https://news.ycombinator.com/item?id=48615569) |
+| 2026-06-21 | Sunday | 6 | Google Hits 50% IPv6 | 403 | 424 | Technology | [link](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/) · [HN](https://news.ycombinator.com/item?id=48616800) |
+| 2026-06-21 | Sunday | 7 | Apertus – Open Foundation Model for Sovereign AI | 385 | 129 | Technology | [link](https://apertvs.ai/) · [HN](https://news.ycombinator.com/item?id=48622778) |
+| 2026-06-21 | Sunday | 8 | Tell HN: Happy Fathers Day | 304 | 49 | Technology | [link](https://news.ycombinator.com/item?id=48620502) · [HN](https://news.ycombinator.com/item?id=48620502) |
+| 2026-06-21 | Sunday | 9 | Everything is logarithms | 230 | 46 | Technology | [link](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html) · [HN](https://news.ycombinator.com/item?id=48622626) |
+| 2026-06-21 | Sunday | 10 | There is minimal downside to switching to open models | 226 | 186 | Technology | [link](https://www.marble.onl/posts/cancel_claude.html) · [HN](https://news.ycombinator.com/item?id=48622518) |
 | 2026-06-20 | Saturday | 1 | CSSQuake | 505 | 107 | Technology | [link](https://cssquake.com/) · [HN](https://news.ycombinator.com/item?id=48608223) |
 | 2026-06-20 | Saturday | 2 | The Wholesale Plagiarism of Obscure Sorrows | 370 | 147 | Technology | [link](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/) · [HN](https://news.ycombinator.com/item?id=48611411) |
 | 2026-06-20 | Saturday | 3 | I Stored a Website in a Favicon | 301 | 105 | Technology | [link](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/) · [HN](https://news.ycombinator.com/item?id=48606619) |
