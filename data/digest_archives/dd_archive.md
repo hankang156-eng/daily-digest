@@ -1,9 +1,71 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-22 · 2495 items*
+*Last updated: 2026-06-23 · 2557 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-22 | Steam Machine launches today | HN | Technology | tech | 2026-06-22 | [link](https://store.steampowered.com/news/group/45479024/view/685257114654870245) |
+| 2026-06-22 | Deno Desktop | HN | Technology | tech | 2026-06-22 | [link](https://docs.deno.com/runtime/desktop/) |
+| 2026-06-22 | Pledging another $400k to the Zig software foundation | HN | Technology | tech | 2026-06-22 | [link](https://mitchellh.com/writing/zig-donation-2026) |
+| 2026-06-22 | Never Give Them Your Face | HN | Technology | tech | 2026-06-22 | [link](https://nevergivethemyourface.com/) |
+| 2026-06-22 | Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed | HN | Technology | tech | 2026-06-22 | [link](https://ipvm.com/reports/police-chiefs-track) |
+| 2026-06-22 | GLM 5.2 vs. Opus | HN | Technology | tech | 2026-06-22 | [link](https://techstackups.com/comparisons/glm-5.2-vs-opus/) |
+| 2026-06-22 | Codex logging bug may write TBs to local SSDs | HN | Technology | tech | 2026-06-22 | [link](https://github.com/openai/codex/issues/28224) |
+| 2026-06-22 | Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040 | HN | Technology | tech | 2026-06-22 | [link](https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509) |
+| 2026-06-22 | Danish privacy activist Lars Andersen raided by police | HN | Technology | tech | 2026-06-22 | [link](https://twitter.com/LarsAnders1620/status/2068208864747540516#m) |
+| 2026-06-22 | GLM-5.2 – How to Run Locally | HN | Technology | tech | 2026-06-22 | [link](https://unsloth.ai/docs/models/glm-5.2) |
+| 2026-06-22 | The text in Claude Code’s “Extended Thinking” output | HN | Technology | tech | 2026-06-22 | [link](https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/) |
+| 2026-06-22 | Jobs and Software Is Fucked | HN | Technology | tech | 2026-06-22 | [link](https://urflow.bearblog.dev/jobs-and-software-is-fucked/) |
+| 2026-06-22 | Moebius: 0.2B image inpainting model with 10B-level performance | HN | Technology | tech | 2026-06-22 | [link](https://hustvl.github.io/Moebius/) |
+| 2026-06-22 | Nearly half of LG smart TV apps contain residential proxy SDKs | HN | Technology | tech | 2026-06-22 | [link](https://spur.us/blog/smart-tv-apps-residential-proxy-sdks) |
+| 2026-06-22 | Alan Greenspan has died | HN | Technology | tech | 2026-06-22 | [link](https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/) |
+| 2026-06-22 | Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers | HN | Technology | tech | 2026-06-22 | [link](https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers) |
+| 2026-06-22 | Is China Closing the A.I. Gap Faster Than Expected? | NYT · AI | AI | news | 2026-06-22 | [link](https://www.nytimes.com/2026/06/22/business/dealbook/china-closing-ai-gap.html) |
+| 2026-06-22 | The Cloud Has Sound: The Unrelenting and Unseen Cost of A.I. Data Centers | NYT · Technology | Technology | news | 2026-06-23 | [link](https://www.nytimes.com/2026/06/17/us/data-centers-noise-pollution.html) |
+| 2026-06-22 | A.I. Doomaxxing Is Bad for Our Economy | NYT · AI | AI | opinion | 2026-06-22 | [link](https://www.nytimes.com/2026/06/22/opinion/ai-doom-jobs-economy.html) |
+| 2026-06-22 | Markets Recoil in Global Sell-Off Driven by Tech Stocks | NYT · Business | Business | news | 2026-06-23 | [link](https://www.nytimes.com/2026/06/23/business/stock-market-down-tech-ai-asia-sp500-oil-gas.html) |
+| 2026-06-22 | The Moment Alan Greenspan Should Be Remembered For | NYT · Opinion | Opinion | opinion | 2026-06-22 | [link](https://www.nytimes.com/2026/06/22/opinion/alan-greenspan-federal-reserve.html) |
+| 2026-06-22 | China Takes Supercomputer Crown From U.S. For First Time Since 2017 | NYT · AI | AI | news | 2026-06-23 | [link](https://www.nytimes.com/2026/06/23/technology/china-supercomputer-crown-us.html) |
+| 2026-06-22 | Alan Greenspan, Fed Chairman Through Prosperity and Crisis, Dies at 100 | NYT · U.S. | U.S. | news | 2026-06-22 | [link](https://www.nytimes.com/2026/06/22/us/alan-greenspan-dead.html) |
+| 2026-06-22 | Major Supreme Court Decisions Testing Trump’s Policies Remain | NYT · Politics | Politics | news | 2026-06-23 | [link](https://www.nytimes.com/2026/06/23/us/politics/supreme-court-trump-major-cases.html) |
+| 2026-06-22 | Rates on New Student Loans Will Rise on July 1 | NYT · Business | Business | news | 2026-06-22 | [link](https://www.nytimes.com/2026/06/19/your-money/student-loans-interest-rates-changes.html) |
+| 2026-06-22 | Egg Prices Are Way Down, but That’s Hurting Farmers | NYT · Business | Business | news | 2026-06-20 | [link](https://www.nytimes.com/2026/06/20/business/egg-prices-down.html) |
+| 2026-06-22 | Cottage Cheese Shortages Are Driven by TikTok and ‘Protein-Maxxing’ | NYT · Business | Business | news | 2026-06-22 | [link](https://www.nytimes.com/2026/06/20/business/cottage-cheese-shortage.html) |
+| 2026-06-22 | Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla | NYT · Technology | Technology | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html) |
+| 2026-06-22 | Doctors Thought It Was Asthma. A.I. Flagged a Serious Heart Problem. | NYT · AI | AI | news | 2026-06-22 | [link](https://www.nytimes.com/2026/06/22/health/artificial-intelligence-heart-damage.html) |
+| 2026-06-22 | Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says | NYT · Technology | Technology | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/18/technology/amazon-worker-retaliation-data-center-complaints.html) |
+| 2026-06-22 | D.O.J. Seeks to Halt Pollution Lawsuit Against Elon Musk’s Data Center | NYT · Energy & Environment | Energy & Environment | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html) |
+| 2026-06-22 | Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators | NYT · Technology | Technology | news | 2026-06-22 | [link](https://www.nytimes.com/2026/06/22/business/tesla-texas-autopilot-crash-nhtsa.html) |
+| 2026-06-22 | Interior Department Moves to Relax Rules for Drilling on Public Lands | NYT · Energy & Environment | Energy & Environment | news | 2026-06-22 | [link](https://www.nytimes.com/2026/06/22/climate/trump-drilling-public-lands.html) |
+| 2026-06-22 | California Needs Water and Clean Power. It Might Have a Fix for Both. | NYT · Energy & Environment | Energy & Environment | news | 2026-06-22 | [link](https://www.nytimes.com/2026/06/22/climate/california-canals-solar-panels-water-nexus.html) |
+| 2026-06-22 | Trump’s FEMA Nominee Calls Staff Cuts a ‘Challenge’ for Disaster Agency | NYT · Energy & Environment | Energy & Environment | news | 2026-06-22 | [link](https://www.nytimes.com/2026/06/17/climate/trump-fema-cameron-hamilton.html) |
+| 2026-06-22 | Is Climate Change Supercharging El Niño? | NYT · Energy & Environment | Energy & Environment | news | 2026-06-22 | [link](https://www.nytimes.com/2026/06/19/climate/climate-change-el-nino.html) |
+| 2026-06-22 | Prompt Injection as Role Confusion | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-22 | [link](https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything) |
+| 2026-06-22 | Dickover of the Week: The Observer | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-22 | [link](https://bvsveera.net/observer-dickover/) |
+| 2026-06-22 | Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-22 | [link](https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything) |
+| 2026-06-22 | Cybersecurity for the paranoid business traveller | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-06-22 | [link](https://shkspr.mobi/blog/2026/06/cybersecurity-for-the-paranoid-business-traveller/) |
+| 2026-06-22 | Gurman Says Second-Gen iPhone Air, Coming in Early 2027, Will Sport a 0.5× Ultra-Wide Second Camera | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-22 | [link](https://www.bloomberg.com/news/articles/2026-06-17/apple-prepares-second-generation-iphone-air-for-spring-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTcyNjU5MiwiZXhwIjoxNzgyMzMxMzkyLCJhcnRpY2xlSWQiOiJUR1BINkJLR0NURlEwMCIsImJjb25uZWN0SWQiOiJBMDdGRjZGMzlBOTY0NzREOTNBQkFGRjUyQjBBQTE2NiJ9.25UCFLJjGHnk7gaJKhfIP2uChXC-tJLjKfOyUeY4QqI&leadSource=uverify%20wall) |
+| 2026-06-22 | I added a clause to Andrej Karpathy's 4 CLAUDE.MD clauses for Claude Code. It has been a game change | Reddit | Business | social | 2026-06-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uc7izy/i_added_a_clause_to_andrej_karpathys_4_claudemd/) |
+| 2026-06-22 | Claude is helping me build a news globe that pings real world events as they happen | Reddit | Business | social | 2026-06-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ucfstl/claude_is_helping_me_build_a_news_globe_that/) |
+| 2026-06-22 | Four members of congress respectfully request an explanation of Howard W. Lutnick's export ban again | Reddit | Business | social | 2026-06-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ucvp8v/four_members_of_congress_respectfully_request_an/) |
+| 2026-06-22 | I pulled ~90,000 Reddit posts about what makes writing "sound like AI" to determine the biggest AI-s | Reddit | Business | social | 2026-06-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ucpw87/i_pulled_90000_reddit_posts_about_what_makes/) |
+| 2026-06-22 | Opus 4.8 is now labeled as “Best for Everyday Tasks” | Reddit | Business | social | 2026-06-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ucs4a3/opus_48_is_now_labeled_as_best_for_everyday_tasks/) |
+| 2026-06-22 | Claude is my financial dashboard now | Reddit | Business | social | 2026-06-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ucw1nz/claude_is_my_financial_dashboard_now/) |
+| 2026-06-22 | Anthropic should release optional local models to offload compute for agent tasks inClaude Code | Reddit | Business | social | 2026-06-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ucblkd/anthropic_should_release_optional_local_models_to/) |
+| 2026-06-22 | Any solution to it? | Reddit | Business | social | 2026-06-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ucu6og/any_solution_to_it/) |
+| 2026-06-22 | Mythos cracked this, mythos cracked that. But have they actually attempted to do the same with Opus? | Reddit | Business | social | 2026-06-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ucdhte/mythos_cracked_this_mythos_cracked_that_but_have/) |
+| 2026-06-22 | The shoe has dropped | Reddit | Business | social | 2026-06-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ucsdqv/the_shoe_has_dropped/) |
+| 2026-06-22 | blessed terminal or barbarous desktop? | Reddit | Business | social | 2026-06-22 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ucrlyu/blessed_terminal_or_barbarous_desktop/) |
+| 2026-06-22 | Claude's sister has entered the chat /.claire | Reddit | Business | social | 2026-06-22 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ucrfky/claudes_sister_has_entered_the_chat_claire/) |
+| 2026-06-22 | I pulled ~90,000 Reddit posts about what makes writing "sound like AI" to determine the biggest AI-s | Reddit | Business | social | 2026-06-22 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ucpf27/i_pulled_90000_reddit_posts_about_what_makes/) |
+| 2026-06-22 | 🔥 Anthropic is bringing Cowork support to Claude Mobile soon. | Reddit | Business | social | 2026-06-22 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ucrmvh/anthropic_is_bringing_cowork_support_to_claude/) |
+| 2026-06-22 | Life after Fable 5 | Reddit | Business | social | 2026-06-22 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ucs19v/life_after_fable_5/) |
+| 2026-06-22 | My current research setup | Reddit | Business | social | 2026-06-22 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uc9x3j/my_current_research_setup/) |
+| 2026-06-22 | LOREBASE v1.1.4 | Reddit | Business | social | 2026-06-22 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uckvdb/lorebase_v114/) |
+| 2026-06-22 | Memorizing Entire Notes and Paragraphs with Active Recall and Spaced Repetition in Obsidian : Echo R | Reddit | Business | social | 2026-06-22 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ucqu2c/memorizing_entire_notes_and_paragraphs_with/) |
+| 2026-06-22 | A better (Beta?) way to work with Zotero and Obsidian? [new zotero extension] | Reddit | Business | social | 2026-06-22 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ucez3a/a_better_beta_way_to_work_with_zotero_and/) |
+| 2026-06-22 | My entire vault was randomly deleted | Reddit | Business | social | 2026-06-22 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uc7cp7/my_entire_vault_was_randomly_deleted/) |
+| 2026-06-22 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-21 | Identity verification on Claude | HN | Technology | tech | 2026-06-21 | [link](https://support.claude.com/en/articles/14328960-identity-verification-on-claude) |
 | 2026-06-21 | Did my old job only exist because of fraud? | HN | Technology | tech | 2026-06-21 | [link](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/) |
 | 2026-06-21 | Prefer duplication over the wrong abstraction (2016) | HN | Technology | tech | 2026-06-21 | [link](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction) |

@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-22 · 417 days · 4170 stories*
+*Last updated: 2026-06-23 · 418 days · 4180 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-22 | Monday | 1 | Steam Machine launches today | 1591 | 1376 | Technology | [link](https://store.steampowered.com/news/group/45479024/view/685257114654870245) · [HN](https://news.ycombinator.com/item?id=48632884) |
+| 2026-06-22 | Monday | 2 | Deno Desktop | 1067 | 387 | Technology | [link](https://docs.deno.com/runtime/desktop/) · [HN](https://news.ycombinator.com/item?id=48626137) |
+| 2026-06-22 | Monday | 3 | Pledging another $400k to the Zig software foundation | 778 | 264 | Technology | [link](https://mitchellh.com/writing/zig-donation-2026) · [HN](https://news.ycombinator.com/item?id=48630020) |
+| 2026-06-22 | Monday | 4 | Never Give Them Your Face | 713 | 400 | Technology | [link](https://nevergivethemyourface.com/) · [HN](https://news.ycombinator.com/item?id=48630066) |
+| 2026-06-22 | Monday | 5 | Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed | 520 | 228 | Technology | [link](https://ipvm.com/reports/police-chiefs-track) · [HN](https://news.ycombinator.com/item?id=48634694) |
+| 2026-06-22 | Monday | 6 | GLM 5.2 vs. Opus | 504 | 327 | Technology | [link](https://techstackups.com/comparisons/glm-5.2-vs-opus/) · [HN](https://news.ycombinator.com/item?id=48626866) |
+| 2026-06-22 | Monday | 7 | Codex logging bug may write TBs to local SSDs | 486 | 265 | Technology | [link](https://github.com/openai/codex/issues/28224) · [HN](https://news.ycombinator.com/item?id=48626930) |
+| 2026-06-22 | Monday | 8 | Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040 | 485 | 333 | Technology | [link](https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509) · [HN](https://news.ycombinator.com/item?id=48634585) |
+| 2026-06-22 | Monday | 9 | Danish privacy activist Lars Andersen raided by police | 424 | 402 | Technology | [link](https://twitter.com/LarsAnders1620/status/2068208864747540516#m) · [HN](https://news.ycombinator.com/item?id=48625823) |
+| 2026-06-22 | Monday | 10 | GLM-5.2 – How to Run Locally | 401 | 171 | Technology | [link](https://unsloth.ai/docs/models/glm-5.2) · [HN](https://news.ycombinator.com/item?id=48636377) |
 | 2026-06-21 | Sunday | 1 | Identity verification on Claude | 758 | 631 | Technology | [link](https://support.claude.com/en/articles/14328960-identity-verification-on-claude) · [HN](https://news.ycombinator.com/item?id=48618455) |
 | 2026-06-21 | Sunday | 2 | Did my old job only exist because of fraud? | 558 | 242 | Technology | [link](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/) · [HN](https://news.ycombinator.com/item?id=48622867) |
 | 2026-06-21 | Sunday | 3 | Prefer duplication over the wrong abstraction (2016) | 491 | 316 | Technology | [link](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction) · [HN](https://news.ycombinator.com/item?id=48620090) |
