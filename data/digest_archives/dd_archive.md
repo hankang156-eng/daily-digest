@@ -1,9 +1,71 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-23 · 2557 items*
+*Last updated: 2026-06-24 · 2619 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-23 | What we call "age verification" is actually mass surveillance | HN | Technology | tech | 2026-06-23 | [link](https://pluralistic.net/2026/06/23/destroy-the-village/) |
+| 2026-06-23 | F3 | HN | Technology | tech | 2026-06-23 | [link](https://github.com/future-file-format/f3) |
+| 2026-06-23 | FUTO Swipe – A new swipe typing model | HN | Technology | tech | 2026-06-23 | [link](https://swipe.futo.tech/) |
+| 2026-06-23 | Fired by Google for creating the Google workspace CLI | HN | Technology | tech | 2026-06-23 | [link](https://twitter.com/JPoehnelt/status/2069482265953087602) |
+| 2026-06-23 | Israel targeted Gaza children resulting in genocide, UN inquiry says | HN | Technology | tech | 2026-06-23 | [link](https://www.reuters.com/world/middle-east/israel-targeted-gaza-children-resulting-genocide-un-inquiry-says-2026-06-23/) |
+| 2026-06-23 | Unlimited OCR: One-shot long-horizon parsing | HN | Technology | tech | 2026-06-23 | [link](https://github.com/baidu/Unlimited-OCR) |
+| 2026-06-23 | Jerry's Map | HN | Technology | tech | 2026-06-23 | [link](http://www.jerrysmap.com/the-map) |
+| 2026-06-23 | Mistral OCR 4 | HN | Technology | tech | 2026-06-23 | [link](https://mistral.ai/news/ocr-4/) |
+| 2026-06-23 | Crypto in 2026: Oh, This Is the Bad Place | HN | Technology | tech | 2026-06-23 | [link](https://www.stephendiehl.com/posts/bad_place_2026/) |
+| 2026-06-23 | Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX | HN | Technology | tech | 2026-06-23 | [link](https://tikz.dev/editor/) |
+| 2026-06-23 | The Coming Loop | HN | Technology | tech | 2026-06-23 | [link](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/) |
+| 2026-06-23 | In memory of the man who put red and green squiggles under words | HN | Technology | tech | 2026-06-23 | [link](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451) |
+| 2026-06-23 | Extreme Heat conference cancelled due to extreme heat warning | HN | Technology | tech | 2026-06-23 | [link](https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/) |
+| 2026-06-23 | Will It Mythos? | HN | Technology | tech | 2026-06-23 | [link](https://swelljoe.com/post/will-it-mythos/) |
+| 2026-06-23 | Madison Square Garden compiled a list of activists against facial recognition | HN | Technology | tech | 2026-06-23 | [link](https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/) |
+| 2026-06-23 | The worthlessness of Vitamin D is mildly exaggerated | HN | Technology | tech | 2026-06-23 | [link](https://dynomight.net/vitamin-d/) |
+| 2026-06-23 | Your Home Could Help Solve AI’s Growing Power Demand | NYT · AI | AI | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html) |
+| 2026-06-23 | Kevin Warsh Is Missing Alan Greenspan’s Point | NYT · AI | AI | opinion | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/opinion/alan-greenspan-kevin-warsh-technology-ai.html) |
+| 2026-06-23 | A New York House campaign became a proxy fight over artificial intelligence. | NYT · AI | AI | news | 2026-06-23 | [link](https://www.nytimes.com/live/2026/06/23/nyregion/primary-elections-ny-maryland-utah/a-new-york-house-campaign-became-a-proxy-fight-over-artificial-intelligence) |
+| 2026-06-23 | SpaceX Stock Price Is Slumping After Its Blockbuster IPO | NYT · AI | AI | news | 2026-06-23 | [link](https://www.nytimes.com/2026/06/23/business/after-blockbuster-ipo-spacex-shares-are-slumping.html) |
+| 2026-06-23 | Asia Tech Shares Swing Wildly as A.I. Jitters Persist | NYT · Business | Business | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/business/stocks-oil-gas-prices.html) |
+| 2026-06-23 | N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute | NYT · AI | AI | news | 2026-06-23 | [link](https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html) |
+| 2026-06-23 | Markets Recoil in Global Sell-Off Driven by Tech Stocks | NYT · Business | Business | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/23/business/stock-market-down-tech-ai-asia-sp500-oil-gas.html) |
+| 2026-06-23 | Is China Closing the A.I. Gap Faster Than Expected? | NYT · Business | Business | news | 2026-06-22 | [link](https://www.nytimes.com/2026/06/22/business/dealbook/china-closing-ai-gap.html) |
+| 2026-06-23 | U.S. Presses Meta to Agree to A.I. Reviews | NYT · AI | AI | opinion | 2026-06-23 | [link](https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html) |
+| 2026-06-23 | Energy Dept. Promises $17.5 Billion in Loans for Nuclear Power | NYT · Energy & Environment | Energy & Environment | news | 2026-06-23 | [link](https://www.nytimes.com/2026/06/23/climate/trump-energy-nuclear-loans.html) |
+| 2026-06-23 | ‘Hard Fork’ Live Part 2: Dylan Field on Standing Out in the A.I. Era | NYT · Technology | Technology | news | 2026-06-23 | [link](https://www.nytimes.com/2026/06/17/podcasts/hard-fork-live-dylan-field.html) |
+| 2026-06-23 | The Tech Sell-off Goes Global | NYT · Business | Business | news | 2026-06-23 | [link](https://www.nytimes.com/2026/06/23/business/dealbook/tech-stocks-chips-spacex.html) |
+| 2026-06-23 | Welcome to the Luxury City Built by Taiwan’s A.I. Boom | NYT · AI | AI | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/business/taiwan-chips-boom.html) |
+| 2026-06-23 | A Look Inside the Welcome Bags Planned for White South African Refugees | NYT · Politics | Politics | news | 2026-06-23 | [link](https://www.nytimes.com/2026/06/23/us/politics/south-africa-refugees-welcome-bags.html) |
+| 2026-06-23 | Justice Dept. Unveils Medicare Fraud Charges as Part of Larger Health Care Prosecutions | NYT · Business | Business | news | 2026-06-23 | [link](https://www.nytimes.com/2026/06/23/us/skin-substitutes-medicare-fraud.html) |
+| 2026-06-23 | Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla | NYT · Technology | Technology | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html) |
+| 2026-06-23 | The Moment Alan Greenspan Should Be Remembered For | NYT · Opinion | Opinion | opinion | 2026-06-22 | [link](https://www.nytimes.com/2026/06/22/opinion/alan-greenspan-federal-reserve.html) |
+| 2026-06-23 | Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says | NYT · Technology | Technology | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/18/technology/amazon-worker-retaliation-data-center-complaints.html) |
+| 2026-06-23 | The Small-Business Owners Managing Whole Armies of A.I. Employees | NYT · AI | AI | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html) |
+| 2026-06-23 | D.O.J. Seeks to Halt Pollution Lawsuit Against Elon Musk’s Data Center | NYT · Energy & Environment | Energy & Environment | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html) |
+| 2026-06-23 | The Talk Show: ‘Perp Walk for Selfies’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-23 | [link](https://daringfireball.net/thetalkshow/2026/06/23/ep-450) |
+| 2026-06-23 | datasette 1.0a35 | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-23 | [link](https://simonwillison.net/2026/Jun/23/datasette/#atom-everything) |
+| 2026-06-23 | Scattered Spider Hackers Plead Guilty on Day 1 of Trial | Krebs on Security · Security & Privacy | Security | tech | 2026-06-23 | [link](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/) |
+| 2026-06-23 | OPFS + Pyodide test harness | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-23 | [link](https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything) |
+| 2026-06-23 | Ultra-Wide 0.5× Lenses Have Utility Beyond ‘Photography’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-23 | [link](https://daringfireball.net/linked/2026/06/22/gurman-iphone-air-2) |
+| 2026-06-23 | Day 2 of Vibecoding | Reddit | Business | social | 2026-06-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1udm8c7/day_2_of_vibecoding/) |
+| 2026-06-23 | Claude is brutally honest at times | Reddit | Business | social | 2026-06-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1udalrb/claude_is_brutally_honest_at_times/) |
+| 2026-06-23 | Some Claude models are down, and I hope you aren’t too | Reddit | Business | social | 2026-06-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1udiy08/some_claude_models_are_down_and_i_hope_you_arent/) |
+| 2026-06-23 | Using Claude Code to reverse engineer car data | Reddit | Business | social | 2026-06-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uda0l6/using_claude_code_to_reverse_engineer_car_data/) |
+| 2026-06-23 | The $20 → $100 gap is pushing solo power users to split spend with OpenAI | Reddit | Business | social | 2026-06-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ud388h/the_20_100_gap_is_pushing_solo_power_users_to/) |
+| 2026-06-23 | Introducing a new way for teams to work with Claude: tag Claude in. | Reddit | Business | social | 2026-06-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1udn7zy/introducing_a_new_way_for_teams_to_work_with/) |
+| 2026-06-23 | Least expensive Claude Ultracode request | Reddit | Business | social | 2026-06-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1udporw/least_expensive_claude_ultracode_request/) |
+| 2026-06-23 | unslop-text: a Claude skill that flags and removes the patterns that make writing read as AI-generat | Reddit | Business | social | 2026-06-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1udl9hg/unsloptext_a_claude_skill_that_flags_and_removes/) |
+| 2026-06-23 | Why am I even in the middle of this? | Reddit | Business | social | 2026-06-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ud67qu/why_am_i_even_in_the_middle_of_this/) |
+| 2026-06-23 | Maker of the "is Fable 5 available?" site here. I keep getting asked about the easter eggs. well, ju | Reddit | Business | social | 2026-06-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1udxlxe/maker_of_the_is_fable_5_available_site_here_i/) |
+| 2026-06-23 | Coding is largely solved. | Reddit | Business | social | 2026-06-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1udr97p/coding_is_largely_solved/) |
+| 2026-06-23 | Day 1 of Vibecoding | Reddit | Business | social | 2026-06-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uda7bm/day_1_of_vibecoding/) |
+| 2026-06-23 | Anthropic saw this number and sent me this hat | Reddit | Business | social | 2026-06-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1udw1d6/anthropic_saw_this_number_and_sent_me_this_hat/) |
+| 2026-06-23 | every single time | Reddit | Business | social | 2026-06-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1udk2u1/every_single_time/) |
+| 2026-06-23 | Y'all Need to Chill | Reddit | Business | social | 2026-06-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1udinpa/yall_need_to_chill/) |
+| 2026-06-23 | How do I recreate this in Obsidian? | Reddit | Business | social | 2026-06-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uds99o/how_do_i_recreate_this_in_obsidian/) |
+| 2026-06-23 | Just some appreciation for the Completr plugin | Reddit | Business | social | 2026-06-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ud6nv4/just_some_appreciation_for_the_completr_plugin/) |
+| 2026-06-23 | Will native canvas evolve? | Reddit | Business | social | 2026-06-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1udjq6a/will_native_canvas_evolve/) |
+| 2026-06-23 | The gap between what I do and what ends up in my vault | Reddit | Business | social | 2026-06-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ud1qdo/the_gap_between_what_i_do_and_what_ends_up_in_my/) |
+| 2026-06-23 | Using == at the start of a line without highlighting | Reddit | Business | social | 2026-06-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1udfxbi/using_at_the_start_of_a_line_without_highlighting/) |
+| 2026-06-23 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-22 | Steam Machine launches today | HN | Technology | tech | 2026-06-22 | [link](https://store.steampowered.com/news/group/45479024/view/685257114654870245) |
 | 2026-06-22 | Deno Desktop | HN | Technology | tech | 2026-06-22 | [link](https://docs.deno.com/runtime/desktop/) |
 | 2026-06-22 | Pledging another $400k to the Zig software foundation | HN | Technology | tech | 2026-06-22 | [link](https://mitchellh.com/writing/zig-donation-2026) |

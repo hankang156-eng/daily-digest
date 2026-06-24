@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-23 · 418 days · 4180 stories*
+*Last updated: 2026-06-24 · 419 days · 4190 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-23 | Tuesday | 1 | What we call "age verification" is actually mass surveillance | 837 | 467 | Technology | [link](https://pluralistic.net/2026/06/23/destroy-the-village/) · [HN](https://news.ycombinator.com/item?id=48645173) |
+| 2026-06-23 | Tuesday | 2 | F3 | 631 | 129 | Technology | [link](https://github.com/future-file-format/f3) · [HN](https://news.ycombinator.com/item?id=48647799) |
+| 2026-06-23 | Tuesday | 3 | FUTO Swipe – A new swipe typing model | 542 | 172 | Technology | [link](https://swipe.futo.tech/) · [HN](https://news.ycombinator.com/item?id=48648619) |
+| 2026-06-23 | Tuesday | 4 | Fired by Google for creating the Google workspace CLI | 540 | 311 | Technology | [link](https://twitter.com/JPoehnelt/status/2069482265953087602) · [HN](https://news.ycombinator.com/item?id=48649011) |
+| 2026-06-23 | Tuesday | 5 | Israel targeted Gaza children resulting in genocide, UN inquiry says | 469 | 221 | Technology | [link](https://www.reuters.com/world/middle-east/israel-targeted-gaza-children-resulting-genocide-un-inquiry-says-2026-06-23/) · [HN](https://news.ycombinator.com/item?id=48642784) |
+| 2026-06-23 | Tuesday | 6 | Unlimited OCR: One-shot long-horizon parsing | 469 | 107 | Technology | [link](https://github.com/baidu/Unlimited-OCR) · [HN](https://news.ycombinator.com/item?id=48643426) |
+| 2026-06-23 | Tuesday | 7 | Jerry's Map | 469 | 54 | Technology | [link](http://www.jerrysmap.com/the-map) · [HN](https://news.ycombinator.com/item?id=48649435) |
+| 2026-06-23 | Tuesday | 8 | Mistral OCR 4 | 467 | 123 | Technology | [link](https://mistral.ai/news/ocr-4/) · [HN](https://news.ycombinator.com/item?id=48645152) |
+| 2026-06-23 | Tuesday | 9 | Crypto in 2026: Oh, This Is the Bad Place | 397 | 499 | Technology | [link](https://www.stephendiehl.com/posts/bad_place_2026/) · [HN](https://news.ycombinator.com/item?id=48642699) |
+| 2026-06-23 | Tuesday | 10 | Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX | 390 | 72 | Technology | [link](https://tikz.dev/editor/) · [HN](https://news.ycombinator.com/item?id=48645437) |
 | 2026-06-22 | Monday | 1 | Steam Machine launches today | 1591 | 1376 | Technology | [link](https://store.steampowered.com/news/group/45479024/view/685257114654870245) · [HN](https://news.ycombinator.com/item?id=48632884) |
 | 2026-06-22 | Monday | 2 | Deno Desktop | 1067 | 387 | Technology | [link](https://docs.deno.com/runtime/desktop/) · [HN](https://news.ycombinator.com/item?id=48626137) |
 | 2026-06-22 | Monday | 3 | Pledging another $400k to the Zig software foundation | 778 | 264 | Technology | [link](https://mitchellh.com/writing/zig-donation-2026) · [HN](https://news.ycombinator.com/item?id=48630020) |
