@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-24 · 2619 items*
+*Last updated: 2026-06-25 · 2682 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-24 | We’re making Bunny DNS free | HN | Technology | tech | 2026-06-24 | [link](https://bunny.net/blog/were-making-bunny-dns-free/) |
+| 2026-06-24 | OpenAI unveils its first custom chip, built by Broadcom | HN | Technology | tech | 2026-06-24 | [link](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) |
+| 2026-06-24 | Founding a company in Germany: €9600, 152 days and I still can't send an invoice | HN | Technology | tech | 2026-06-24 | [link](https://paolino.me/founding-a-company-in-germany/) |
+| 2026-06-24 | There are a few things that I look back on as my mistakes in the early days | HN | Technology | tech | 2026-06-24 | [link](https://twitter.com/ID_AA_Carmack/status/2069799283369345247) |
+| 2026-06-24 | Anthropic says Alibaba illicitly extracted Claude AI model capabilities | HN | Technology | tech | 2026-06-24 | [link](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/) |
+| 2026-06-24 | RubyLLM: A Ruby framework for all major AI providers | HN | Technology | tech | 2026-06-24 | [link](https://rubyllm.com/) |
+| 2026-06-24 | 45°C cooling design cuts data center water use to near zero | HN | Technology | tech | 2026-06-24 | [link](https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/) |
+| 2026-06-24 | Slate EV truck starts at $24,950 | HN | Technology | tech | 2026-06-24 | [link](https://www.slate.auto/en) |
+| 2026-06-24 | The Xteink X4 E-Ink Reader | HN | Technology | tech | 2026-06-24 | [link](https://blog.omgmog.net/post/xteink-x4-e-ink-reader/) |
+| 2026-06-24 | NSA lost access to Mythos amid Anthropic dispute | HN | Technology | tech | 2026-06-24 | [link](https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html) |
+| 2026-06-24 | Show HN: Nub – A Bun-like all-in-one toolkit for Node.js | HN | Technology | tech | 2026-06-24 | [link](https://github.com/nubjs/nub) |
+| 2026-06-24 | Blogging can just be stating the obvious | HN | Technology | tech | 2026-06-24 | [link](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/) |
+| 2026-06-24 | Stealing Is a Skill | HN | Technology | tech | 2026-06-24 | [link](https://ben-mini.com/2026/stealing-is-a-skill) |
+| 2026-06-24 | Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck' | HN | Technology | tech | 2026-06-24 | [link](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/) |
+| 2026-06-24 | PR spam today looks like email spam in the early 2000s | HN | Technology | tech | 2026-06-24 | [link](https://www.greptile.com/blog/prs-on-openclaw) |
+| 2026-06-24 | Computer use in Gemini 3.5 Flash | HN | Technology | tech | 2026-06-24 | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/) |
+| 2026-06-24 | Your Home Could Help Solve AI’s Growing Power Demand | NYT · AI | AI | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html) |
+| 2026-06-24 | There’s One Clear Reason Why Americans Are Gloomy About A.I. | NYT · AI | AI | opinion | 2026-06-25 | [link](https://www.nytimes.com/2026/06/25/opinion/ai-americans-pessimism.html) |
+| 2026-06-24 | Kevin Warsh Is Missing Alan Greenspan’s Point | NYT · AI | AI | opinion | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/opinion/alan-greenspan-kevin-warsh-technology-ai.html) |
+| 2026-06-24 | OpenAI and Broadcom Unveil Custom A.I. Chip Design | NYT · AI | AI | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/technology/openai-broadcom-chip-jalapeno.html) |
+| 2026-06-24 | Markets Recoil in Global Sell-Off Driven by Tech Stocks | NYT · Business | Business | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/23/business/stock-market-down-tech-ai-asia-sp500-oil-gas.html) |
+| 2026-06-24 | Big Companies Aim to Ease A.I. Transition for American Workers | NYT · AI | AI | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/25/business/economy/ai-work-force-training-job-losses.html) |
+| 2026-06-24 | Judge Throws Out Federal Suit Against 4 N.J. ‘Sanctuary’ Cities | NYT · Politics | Politics | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/24/us/politics/new-jersey-sanctuary-cities-lawsuit.html) |
+| 2026-06-24 | What Alex Bores’s New York Defeat Reveals About the Fight Over A.I. Money in Politics | NYT · AI | AI | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/us/politics/new-york-primary-bores-lasher-ai.html) |
+| 2026-06-24 | As Blockbusters Loom, Monkey Business at the Supreme Court | NYT · Politics | Politics | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/us/politics/the-docket-supreme-court-monkey-business.html) |
+| 2026-06-24 | Is China Closing the A.I. Gap Faster Than Expected? | NYT · Business | Business | news | 2026-06-22 | [link](https://www.nytimes.com/2026/06/22/business/dealbook/china-closing-ai-gap.html) |
+| 2026-06-24 | U.S. Presses Meta to Agree to A.I. Reviews | NYT · Technology | Technology | opinion | 2026-06-23 | [link](https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html) |
+| 2026-06-24 | Pete Hegseth Forces Christopher T. Donahue, a Top Prospect for Army Chief, to Resign | NYT · AI | AI | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/us/politics/general-christopher-donahue-hegseth.html) |
+| 2026-06-24 | IBM Unveils New Method to Make Smaller Computer Chip Parts | NYT · AI | AI | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html) |
+| 2026-06-24 | Why the Fed Could Loom Large Over the Midterms | NYT · Business | Business | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/business/dealbook/fed-midterms-rates.html) |
+| 2026-06-24 | Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla | NYT · Technology | Technology | news | 2026-06-18 | [link](https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html) |
+| 2026-06-24 | Queens State Assembly Candidate Charged With Forgery for A.I. Use | NYT · AI | AI | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/24/nyregion/queens-politician-ai-charge.html) |
+| 2026-06-24 | SpaceX Stock Price Is Slumping After Its Blockbuster IPO | NYT · Business | Business | news | 2026-06-23 | [link](https://www.nytimes.com/2026/06/23/business/after-blockbuster-ipo-spacex-shares-are-slumping.html) |
+| 2026-06-24 | D.O.J. Seeks to Halt Pollution Lawsuit Against Elon Musk’s Data Center | NYT · Energy & Environment | Energy & Environment | news | 2026-06-16 | [link](https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html) |
+| 2026-06-24 | The Moment Alan Greenspan Should Be Remembered For | NYT · Opinion | Opinion | opinion | 2026-06-22 | [link](https://www.nytimes.com/2026/06/22/opinion/alan-greenspan-federal-reserve.html) |
+| 2026-06-24 | Weekly Update 509 | Troy Hunt · Security & Privacy | Security | tech | 2026-06-24 | [link](https://www.troyhunt.com/weekly-update-509/) |
+| 2026-06-24 | simonw/browser-compat-db | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-24 | [link](https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything) |
+| 2026-06-24 | WebKit Always Enables the Copy Menu Item in Every App | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-24 | [link](https://lapcatsoftware.com/articles/2026/6/5.html) |
+| 2026-06-24 | [Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It. | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-24 | [link](http://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) |
+| 2026-06-24 | Quoting Tom MacWright | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-24 | [link](https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything) |
+| 2026-06-24 | ChatGPT probably isn’t conscious. But what if we’re wrong? | Superpower Daily · Tech & Engineering | Technology | tech | 2026-06-24 | [link](https://www.superpowerdaily.com/p/chatgpt-probably-isn-t-conscious-but-what-if-we-re-wrong) |
+| 2026-06-24 | Auth0 PHP - manually authenticating JWT idTokens | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-06-24 | [link](https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/) |
+| 2026-06-24 | Nothing can go wrong when you share a Claude subscription with friends... right? | Reddit | Business | social | 2026-06-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uejjg6/nothing_can_go_wrong_when_you_share_a_claude/) |
+| 2026-06-24 | Day 3 of Vibe Coding | Reddit | Business | social | 2026-06-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ue2ba0/day_3_of_vibe_coding/) |
+| 2026-06-24 | I burnt so many tokens they sent me merch | Reddit | Business | social | 2026-06-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ueeve0/i_burnt_so_many_tokens_they_sent_me_merch/) |
+| 2026-06-24 | It's taken me months to come to this realisation | Reddit | Business | social | 2026-06-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ueop4d/its_taken_me_months_to_come_to_this_realisation/) |
+| 2026-06-24 | Asking Claude to roleplay as GPT-4o is pretty fun | Reddit | Business | social | 2026-06-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uej7ow/asking_claude_to_roleplay_as_gpt4o_is_pretty_fun/) |
+| 2026-06-24 | Fable 5 return RUMORED with some hints in CC | Reddit | Business | social | 2026-06-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uehr3a/fable_5_return_rumored_with_some_hints_in_cc/) |
+| 2026-06-24 | Software development has entered its "infinite monkeys" era | Reddit | Business | social | 2026-06-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ue4zw0/software_development_has_entered_its_infinite/) |
+| 2026-06-24 | Legal tech firm sues US over order limiting foreign access to top-tier Anthropic models | Reddit | Business | social | 2026-06-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1udybyz/legal_tech_firm_sues_us_over_order_limiting/) |
+| 2026-06-24 | Claude/AI coding has replaced my gaming/netflix time | Reddit | Business | social | 2026-06-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ue4i51/claudeai_coding_has_replaced_my_gamingnetflix_time/) |
+| 2026-06-24 | Dangerous Ducks; “Safety Filter” is a Quack | Reddit | Business | social | 2026-06-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uedhmc/dangerous_ducks_safety_filter_is_a_quack/) |
+| 2026-06-24 | I built a status light for Claude Code. Do you think this is actually useful? | Reddit | Business | social | 2026-06-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ue5inx/i_built_a_status_light_for_claude_code_do_you/) |
+| 2026-06-24 | Perception is reality. | Reddit | Business | social | 2026-06-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ueecnm/perception_is_reality/) |
+| 2026-06-24 | Fable Return? | Reddit | Business | social | 2026-06-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ueicdj/fable_return/) |
+| 2026-06-24 | 2026: my girlfriend is a model | Reddit | Business | social | 2026-06-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ue559t/2026_my_girlfriend_is_a_model/) |
+| 2026-06-24 | How I feel when Claude Code & Codex randomly reset usage limits | Reddit | Business | social | 2026-06-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ue15vn/how_i_feel_when_claude_code_codex_randomly_reset/) |
+| 2026-06-24 | belki : a minimal Todoist-like task manager for Obsidian | Reddit | Business | social | 2026-06-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ue3e6c/belki_a_minimal_todoistlike_task_manager_for/) |
+| 2026-06-24 | I have a problem with my balls too: I’ve seen people with beautifully vibrant balls on this sub. Wha | Reddit | Business | social | 2026-06-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uetlrd/i_have_a_problem_with_my_balls_too_ive_seen/) |
+| 2026-06-24 | New plugin - kanban 2.0 | Reddit | Business | social | 2026-06-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uekxse/new_plugin_kanban_20/) |
+| 2026-06-24 | I built a CRM that lives entirely in your vault as plain markdown notes | Reddit | Business | social | 2026-06-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ue6bfh/i_built_a_crm_that_lives_entirely_in_your_vault/) |
+| 2026-06-24 | Computer BIOS firmware blob to Obsidian graph | Reddit | Business | social | 2026-06-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ue3t2x/computer_bios_firmware_blob_to_obsidian_graph/) |
+| 2026-06-24 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-23 | What we call "age verification" is actually mass surveillance | HN | Technology | tech | 2026-06-23 | [link](https://pluralistic.net/2026/06/23/destroy-the-village/) |
 | 2026-06-23 | F3 | HN | Technology | tech | 2026-06-23 | [link](https://github.com/future-file-format/f3) |
 | 2026-06-23 | FUTO Swipe – A new swipe typing model | HN | Technology | tech | 2026-06-23 | [link](https://swipe.futo.tech/) |

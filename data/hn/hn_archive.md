@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-24 · 419 days · 4190 stories*
+*Last updated: 2026-06-25 · 420 days · 4200 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-24 | Wednesday | 1 | We’re making Bunny DNS free | 882 | 261 | Technology | [link](https://bunny.net/blog/were-making-bunny-dns-free/) · [HN](https://news.ycombinator.com/item?id=48657030) |
+| 2026-06-24 | Wednesday | 2 | OpenAI unveils its first custom chip, built by Broadcom | 701 | 394 | Technology | [link](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) · [HN](https://news.ycombinator.com/item?id=48663324) |
+| 2026-06-24 | Wednesday | 3 | Founding a company in Germany: €9600, 152 days and I still can't send an invoice | 579 | 712 | Technology | [link](https://paolino.me/founding-a-company-in-germany/) · [HN](https://news.ycombinator.com/item?id=48658718) |
+| 2026-06-24 | Wednesday | 4 | There are a few things that I look back on as my mistakes in the early days | 531 | 265 | Technology | [link](https://twitter.com/ID_AA_Carmack/status/2069799283369345247) · [HN](https://news.ycombinator.com/item?id=48661825) |
+| 2026-06-24 | Wednesday | 5 | Anthropic says Alibaba illicitly extracted Claude AI model capabilities | 421 | 736 | Technology | [link](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/) · [HN](https://news.ycombinator.com/item?id=48664814) |
+| 2026-06-24 | Wednesday | 6 | RubyLLM: A Ruby framework for all major AI providers | 388 | 68 | Technology | [link](https://rubyllm.com/) · [HN](https://news.ycombinator.com/item?id=48660711) |
+| 2026-06-24 | Wednesday | 7 | 45°C cooling design cuts data center water use to near zero | 334 | 228 | Technology | [link](https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/) · [HN](https://news.ycombinator.com/item?id=48660178) |
+| 2026-06-24 | Wednesday | 8 | Slate EV truck starts at $24,950 | 271 | 413 | Technology | [link](https://www.slate.auto/en) · [HN](https://news.ycombinator.com/item?id=48659451) |
+| 2026-06-24 | Wednesday | 9 | The Xteink X4 E-Ink Reader | 251 | 143 | Technology | [link](https://blog.omgmog.net/post/xteink-x4-e-ink-reader/) · [HN](https://news.ycombinator.com/item?id=48662381) |
+| 2026-06-24 | Wednesday | 10 | NSA lost access to Mythos amid Anthropic dispute | 247 | 263 | Technology | [link](https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html) · [HN](https://news.ycombinator.com/item?id=48658300) |
 | 2026-06-23 | Tuesday | 1 | What we call "age verification" is actually mass surveillance | 837 | 467 | Technology | [link](https://pluralistic.net/2026/06/23/destroy-the-village/) · [HN](https://news.ycombinator.com/item?id=48645173) |
 | 2026-06-23 | Tuesday | 2 | F3 | 631 | 129 | Technology | [link](https://github.com/future-file-format/f3) · [HN](https://news.ycombinator.com/item?id=48647799) |
 | 2026-06-23 | Tuesday | 3 | FUTO Swipe – A new swipe typing model | 542 | 172 | Technology | [link](https://swipe.futo.tech/) · [HN](https://news.ycombinator.com/item?id=48648619) |
