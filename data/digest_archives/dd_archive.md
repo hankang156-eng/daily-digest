@@ -1,9 +1,60 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-25 · 2682 items*
+*Last updated: 2026-06-26 · 2733 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-25 | An entire Herculaneum scroll has been read for the first time | HN | Technology | tech | 2026-06-25 | [link](https://scrollprize.org/firstscroll) |
+| 2026-06-25 | Om Malik has died | HN | Technology | tech | 2026-06-25 | [link](https://om.co/2026/06/24/1966-2026/) |
+| 2026-06-25 | Apple raises prices of MacBooks, iPads | HN | Technology | tech | 2026-06-25 | [link](https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/) |
+| 2026-06-25 | The 'papers, please' era of the internet will decimate your privacy | HN | Technology | tech | 2026-06-25 | [link](https://expression.fire.org/p/the-papers-please-era-of-the-internet) |
+| 2026-06-25 | Show HN: I made Google Trends for Hacker News by indexing 18 years of comments | HN | Technology | tech | 2026-06-25 | [link](https://hackernewstrends.com) |
+| 2026-06-25 | Half-Life 2 in a Browser | HN | Technology | tech | 2026-06-25 | [link](https://hl2.slqnt.dev/) |
+| 2026-06-25 | Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors | HN | Technology | tech | 2026-06-25 | [link](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short) |
+| 2026-06-25 | LastPass notifies users of yet another data breach | HN | Technology | tech | 2026-06-25 | [link](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/) |
+| 2026-06-25 | Hey Nico, you didn't vibe code your data room but stole it from Papermark | HN | Technology | tech | 2026-06-25 | [link](https://twitter.com/mfts0/status/2070080422482977095) |
+| 2026-06-25 | IBM debuts sub-1 nanometer chip technology | HN | Technology | tech | 2026-06-25 | [link](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology) |
+| 2026-06-25 | Countries are competing to see which can carry out mass surveillance the best | HN | Technology | tech | 2026-06-25 | [link](https://mullvad.net/en/why-privacy-matters/state-mass-surveillance) |
+| 2026-06-25 | Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion | HN | Technology | tech | 2026-06-25 | [link](https://github.com/inkeep/open-knowledge) |
+| 2026-06-25 | Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line | HN | Technology | tech | 2026-06-25 | [link](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true) |
+| 2026-06-25 | Apple increases MacBook and iPad prices by 20% | HN | Technology | tech | 2026-06-25 | [link](https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c) |
+| 2026-06-25 | Zig's new bitCast semantics and LLVM back end improvements | HN | Technology | tech | 2026-06-25 | [link](https://ziglang.org/devlog/2026/#2026-06-25) |
+| 2026-06-25 | Windows 10 quietly gets one more year of support and updates | HN | Technology | tech | 2026-06-25 | [link](https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/) |
+| 2026-06-25 | OpenAI Leans Toward Holding Up I.P.O. Until Next Year | NYT · AI | AI | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html) |
+| 2026-06-25 | Big Companies Aim to Ease A.I. Transition for American Workers | NYT · AI | AI | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/25/business/economy/ai-work-force-training-job-losses.html) |
+| 2026-06-25 | Trump Plans to Name Adam Candeub as Antitrust Chief in Justice Dept. | NYT · Technology | Technology | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/25/technology/trump-antitrust-doj-adam-candeub.html) |
+| 2026-06-25 | Chinese A.I. Models Gain Ground on Anthropic and OpenAI | NYT · AI | AI | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html) |
+| 2026-06-25 | The New York Times Amends Lawsuit Against OpenAI and Microsoft | NYT · AI | AI | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/25/technology/times-lawsuit-openai-microsoft.html) |
+| 2026-06-25 | Your Home Could Help Solve AI’s Growing Power Demand | NYT · Energy & Environment | Energy & Environment | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html) |
+| 2026-06-25 | There’s One Clear Reason Americans Are Gloomy About A.I. | NYT · Opinion | Opinion | opinion | 2026-06-26 | [link](https://www.nytimes.com/2026/06/25/opinion/ai-americans-pessimism.html) |
+| 2026-06-25 | Kevin Warsh Is Missing Alan Greenspan’s Point | NYT · Opinion | Opinion | opinion | 2026-06-26 | [link](https://www.nytimes.com/2026/06/24/opinion/alan-greenspan-kevin-warsh-technology-ai.html) |
+| 2026-06-25 | The Maine Town That Actually Wants a Data Center | NYT · AI | AI | news | 2026-06-26 | [link](https://www.nytimes.com/video/us/100000010933204/data-center-maine-jay.html) |
+| 2026-06-25 | How a Niche Technology Became a Choke Point for A.I. | NYT · AI | AI | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html) |
+| 2026-06-25 | SpaceX IPO Shows How Investors in Public Companies Are Losing Power | NYT · Business | Business | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/25/business/spacex-shares-ipo.html) |
+| 2026-06-25 | Stocks in Asia Tumble as A.I. Uncertainty Jolts Tech Shares | NYT · Business | Business | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/business/oil-price-gas-iran.html) |
+| 2026-06-25 | Apple Raises Prices on Macs and iPads Amid the A.I. Boom | NYT · AI | AI | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html) |
+| 2026-06-25 | OpenAI and Broadcom Unveil Custom A.I. Chip Design | NYT · Technology | Technology | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/technology/openai-broadcom-chip-jalapeno.html) |
+| 2026-06-25 | It’s Time to Put This Catholic Teaching to Rest | NYT · AI | AI | opinion | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/opinion/pope-leo-just-war-theory-encyclical-ai-iran.html) |
+| 2026-06-25 | Trump Issues Order to Reduce Pesticides in Food as Kennedy Allies Fume | NYT · Politics | Politics | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/25/us/politics/trump-order-pesticides-rfk.html) |
+| 2026-06-25 | Supreme Court Rejects Lawsuit Against Bayer Alleging Roundup Weedkiller Caused Cancer | NYT · Business | Business | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/25/us/politics/supreme-court-weedkiller-roundup-bayer.html) |
+| 2026-06-25 | U.S. Presses Meta to Agree to A.I. Reviews | NYT · Business | Business | opinion | 2026-06-23 | [link](https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html) |
+| 2026-06-25 | Supreme Court Allows Trump to Block Asylum Seekers at Border | NYT · Politics | Politics | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/25/us/politics/supreme-court-asylum-border.html) |
+| 2026-06-25 | Climate Change Fueling Europe’s Ferocious Heat Wave, Scientists Find | NYT · Energy & Environment | Energy & Environment | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/climate/europe-heat-wave-climate-change.html) |
+| 2026-06-25 | AI and Liability | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-25 | [link](https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything) |
+| 2026-06-25 | Apple Raises Prices on Most Products by 15–25 Percent, but Not iPhones, Watches, or AirPods | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-25 | [link](https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=zse57R) |
+| 2026-06-25 | Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame) | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-25 | [link](https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps) |
+| 2026-06-25 | datasette-export-database 0.3a2 | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-25 | [link](https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything) |
+| 2026-06-25 | Good | Reddit | Business | social | 2026-06-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ufh9u2/good/) |
+| 2026-06-25 | Claude helping me understand the core truth | Reddit | Business | social | 2026-06-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uf7ogq/claude_helping_me_understand_the_core_truth/) |
+| 2026-06-25 | After using my own Pro subscription for 18 months, my job finally got an enterprise license. I just  | Reddit | Business | social | 2026-06-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uf2nba/after_using_my_own_pro_subscription_for_18_months/) |
+| 2026-06-25 | Didn't know Anthropic already erected a monument for Claude | Reddit | Business | social | 2026-06-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ufik6p/didnt_know_anthropic_already_erected_a_monument/) |
+| 2026-06-25 | Running Sonnet 4.6 on every Instagram DM for a 7-location restaurant. 97% cache hit is the only reas | Reddit | Business | social | 2026-06-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uf8gd5/running_sonnet_46_on_every_instagram_dm_for_a/) |
+| 2026-06-25 | claude tag in slack gone wrong | Reddit | Business | social | 2026-06-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uf3ee1/claude_tag_in_slack_gone_wrong/) |
+| 2026-06-25 | Anthropic allegations of unauthorised access by Alibaba | Reddit | Business | social | 2026-06-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uexovy/anthropic_allegations_of_unauthorised_access_by/) |
+| 2026-06-25 | I built a chess coach you can actually talk to, powered by Claude but grounded by a chess engine so  | Reddit | Business | social | 2026-06-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ufetef/i_built_a_chess_coach_you_can_actually_talk_to/) |
+| 2026-06-25 | Stop asking Claude for "something creative." Ask it to find the lacuna. | Reddit | Business | social | 2026-06-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ufcktm/stop_asking_claude_for_something_creative_ask_it/) |
+| 2026-06-25 | Oh god | Reddit | Business | social | 2026-06-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ufc73k/oh_god/) |
+| 2026-06-25 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-24 | We’re making Bunny DNS free | HN | Technology | tech | 2026-06-24 | [link](https://bunny.net/blog/were-making-bunny-dns-free/) |
 | 2026-06-24 | OpenAI unveils its first custom chip, built by Broadcom | HN | Technology | tech | 2026-06-24 | [link](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) |
 | 2026-06-24 | Founding a company in Germany: €9600, 152 days and I still can't send an invoice | HN | Technology | tech | 2026-06-24 | [link](https://paolino.me/founding-a-company-in-germany/) |

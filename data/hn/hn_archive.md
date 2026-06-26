@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-25 · 420 days · 4200 stories*
+*Last updated: 2026-06-26 · 421 days · 4210 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-25 | Thursday | 1 | An entire Herculaneum scroll has been read for the first time | 1306 | 274 | Technology | [link](https://scrollprize.org/firstscroll) · [HN](https://news.ycombinator.com/item?id=48675179) |
+| 2026-06-25 | Thursday | 2 | Om Malik has died | 897 | 101 | Technology | [link](https://om.co/2026/06/24/1966-2026/) · [HN](https://news.ycombinator.com/item?id=48678852) |
+| 2026-06-25 | Thursday | 3 | Apple raises prices of MacBooks, iPads | 726 | 1032 | Technology | [link](https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/) · [HN](https://news.ycombinator.com/item?id=48672732) |
+| 2026-06-25 | Thursday | 4 | The 'papers, please' era of the internet will decimate your privacy | 719 | 334 | Technology | [link](https://expression.fire.org/p/the-papers-please-era-of-the-internet) · [HN](https://news.ycombinator.com/item?id=48679608) |
+| 2026-06-25 | Thursday | 5 | Show HN: I made Google Trends for Hacker News by indexing 18 years of comments | 717 | 147 | Technology | [link](https://hackernewstrends.com) · [HN](https://news.ycombinator.com/item?id=48673671) |
+| 2026-06-25 | Thursday | 6 | Half-Life 2 in a Browser | 651 | 259 | Technology | [link](https://hl2.slqnt.dev/) · [HN](https://news.ycombinator.com/item?id=48669534) |
+| 2026-06-25 | Thursday | 7 | Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors | 588 | 314 | Technology | [link](https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short) · [HN](https://news.ycombinator.com/item?id=48674446) |
+| 2026-06-25 | Thursday | 8 | LastPass notifies users of yet another data breach | 500 | 220 | Technology | [link](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/) · [HN](https://news.ycombinator.com/item?id=48671468) |
+| 2026-06-25 | Thursday | 9 | Hey Nico, you didn't vibe code your data room but stole it from Papermark | 340 | 141 | Technology | [link](https://twitter.com/mfts0/status/2070080422482977095) · [HN](https://news.ycombinator.com/item?id=48672328) |
+| 2026-06-25 | Thursday | 10 | IBM debuts sub-1 nanometer chip technology | 320 | 175 | Technology | [link](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology) · [HN](https://news.ycombinator.com/item?id=48674967) |
 | 2026-06-24 | Wednesday | 1 | We’re making Bunny DNS free | 882 | 261 | Technology | [link](https://bunny.net/blog/were-making-bunny-dns-free/) · [HN](https://news.ycombinator.com/item?id=48657030) |
 | 2026-06-24 | Wednesday | 2 | OpenAI unveils its first custom chip, built by Broadcom | 701 | 394 | Technology | [link](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) · [HN](https://news.ycombinator.com/item?id=48663324) |
 | 2026-06-24 | Wednesday | 3 | Founding a company in Germany: €9600, 152 days and I still can't send an invoice | 579 | 712 | Technology | [link](https://paolino.me/founding-a-company-in-germany/) · [HN](https://news.ycombinator.com/item?id=48658718) |
