@@ -1,9 +1,55 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-26 · 2733 items*
+*Last updated: 2026-06-27 · 2779 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-26 | Apple, Micron, OpenAI and A.I.’s Rough Summer | NYT · AI | AI | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/business/dealbook/ai-openai-ipo-slump.html) |
+| 2026-06-26 | Ryanair Stops Charging for Parents to Sit With Their Children | NYT · Business | Business | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/world/europe/ryanair-fee-children-seats.html) |
+| 2026-06-26 | U.S. Loosens Restrictions on Anthropic’s Mythos A.I. Model | NYT · AI | AI | news | 2026-06-27 | [link](https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html) |
+| 2026-06-26 | Anger Over Supreme Court Rulings on Immigration | NYT · AI | AI | opinion | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/opinion/supreme-court-immigration.html) |
+| 2026-06-26 | Your Home Could Help Solve AI’s Growing Power Demand | NYT · Energy & Environment | Energy & Environment | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html) |
+| 2026-06-26 | In Europe, Tesla Sales Are Rising Despite Views on Elon Musk | NYT · Energy & Environment | Energy & Environment | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html) |
+| 2026-06-26 | Trump Plans to Name Adam Candeub as Antitrust Chief in Justice Dept. | NYT · Technology | Technology | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/25/technology/trump-antitrust-doj-adam-candeub.html) |
+| 2026-06-26 | There’s One Clear Reason Americans Are Gloomy About A.I. | NYT · Opinion | Opinion | opinion | 2026-06-26 | [link](https://www.nytimes.com/2026/06/25/opinion/ai-americans-pessimism.html) |
+| 2026-06-26 | U.S. Begins Investigating Polymarket, a Test of a Key Regulator | NYT · Politics | Politics | news | 2026-06-27 | [link](https://www.nytimes.com/2026/06/26/us/politics/cftc-investigating-polymarket-trump.html) |
+| 2026-06-26 | The New York Times Amends Lawsuit Against OpenAI and Microsoft | NYT · AI | AI | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/25/technology/times-lawsuit-openai-microsoft.html) |
+| 2026-06-26 | Kevin Warsh Is Missing Alan Greenspan’s Point | NYT · Opinion | Opinion | opinion | 2026-06-26 | [link](https://www.nytimes.com/2026/06/24/opinion/alan-greenspan-kevin-warsh-technology-ai.html) |
+| 2026-06-26 | How a Niche Technology Became a Choke Point for A.I. | NYT · AI | AI | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html) |
+| 2026-06-26 | Stocks in Asia Tumble as A.I. Uncertainty Jolts Tech Shares | NYT · Business | Business | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/business/oil-price-gas-iran.html) |
+| 2026-06-26 | Oil Industry Lawyers Fight a $50 Billion Climate Case in Oregon | NYT · Energy & Environment | Energy & Environment | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/climate/portland-heat-wave-lawsuit-oil-industry.html) |
+| 2026-06-26 | The Maine Town That Actually Wants a Data Center | NYT · AI | AI | news | 2026-06-26 | [link](https://www.nytimes.com/video/us/100000010933204/data-center-maine-jay.html) |
+| 2026-06-26 | D.C. Reaches Settlement in Lawsuit Brought by ‘Star Wars’ National Guard Protester | NYT · Politics | Politics | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/us/politics/dc-star-wars-national-guard-protest.html) |
+| 2026-06-26 | Big Companies Aim to Ease A.I. Transition for American Workers | NYT · Economy | Economy | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/25/business/economy/ai-work-force-training-job-losses.html) |
+| 2026-06-26 | Intel’s Chip Business Shows Signs of Life After Years of Struggle | NYT · AI | AI | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html) |
+| 2026-06-26 | ‘The Daily’ and ‘The Opinions’: How A.I. Is Changing Loneliness and Taste | NYT · AI | AI | opinion | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/podcasts/the-daily-and-the-opinions-how-ai-is-changing-loneliness-and-taste.html) |
+| 2026-06-26 | Centrist Democrats Rebuke Party’s Left Wing: ‘We Are Capitalist, Not Socialist’ | NYT · Politics | Politics | news | 2026-06-27 | [link](https://www.nytimes.com/2026/06/26/us/politics/moderate-democrats-capitalist-socialism.html) |
+| 2026-06-26 | Incident Report: CVE-2026-LGTM | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-26 | [link](https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything) |
+| 2026-06-26 | Quoting OpenAI | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-26 | [link](https://simonwillison.net/2026/Jun/26/openai/#atom-everything) |
+| 2026-06-26 | Apple’s Full Statement on Yesterday’s Price Increases | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-26 | [link](https://www.macrumors.com/2026/06/25/apple-explains-why-it-raised-prices/) |
+| 2026-06-26 | The Price-Hiked Apple TV 4K Is 4 Years Old | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-26 | [link](https://buyersguide.macrumors.com/#Apple_TV) |
+| 2026-06-26 | Review: Gamrombo PS5 controller - including Linux set up ★★★★☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-06-26 | [link](https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/) |
+| 2026-06-26 | I used Claude to fix my biggest frustration with PDFs | Reddit | Business | social | 2026-06-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ugj1bt/i_used_claude_to_fix_my_biggest_frustration_with/) |
+| 2026-06-26 | Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies: Repo | Reddit | Business | social | 2026-06-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uglxiz/trump_admin_allows_anthropic_to_release_mythos_ai/) |
+| 2026-06-26 | Non-coder doctor here — rebuilt my department's website (dead for 2 years) with Claude + Claude Desi | Reddit | Business | social | 2026-06-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ugcnkd/noncoder_doctor_here_rebuilt_my_departments/) |
+| 2026-06-26 | i can't read anything anymore without checking if claude wrote it | Reddit | Business | social | 2026-06-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ugdzhq/i_cant_read_anything_anymore_without_checking_if/) |
+| 2026-06-26 | Asked Claude to mock up an outfit for me | Reddit | Business | social | 2026-06-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uglhwy/asked_claude_to_mock_up_an_outfit_for_me/) |
+| 2026-06-26 | US gov forces OpenAI to stagger 5.6 rollout | Reddit | Business | social | 2026-06-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ug6qe7/us_gov_forces_openai_to_stagger_56_rollout/) |
+| 2026-06-26 | Claude Plays World of ClaudeCraft | Reddit | Business | social | 2026-06-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ufz93w/claude_plays_world_of_claudecraft/) |
+| 2026-06-26 | claude quietly replaced gaming as my evening thing and im not sure how to feel about it | Reddit | Business | social | 2026-06-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ug9zf2/claude_quietly_replaced_gaming_as_my_evening/) |
+| 2026-06-26 | i've started saying "great question" before answering my own coworkers | Reddit | Business | social | 2026-06-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ug4627/ive_started_saying_great_question_before/) |
+| 2026-06-26 | I had the courage to run /code-review with Opus 4.8 on Max | Reddit | Business | social | 2026-06-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ugejtr/i_had_the_courage_to_run_codereview_with_opus_48/) |
+| 2026-06-26 | Average Claude Code session | Reddit | Business | social | 2026-06-26 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ufzpon/average_claude_code_session/) |
+| 2026-06-26 | Can GPT-5.6 beat this benchmark ? | Reddit | Business | social | 2026-06-26 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uge6c7/can_gpt56_beat_this_benchmark/) |
+| 2026-06-26 | Looking back to EU AI act after the recent 5.6 release being blocked + Fable ban | Reddit | Business | social | 2026-06-26 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ug3upm/looking_back_to_eu_ai_act_after_the_recent_56/) |
+| 2026-06-26 | Are you sure you didn't make it all up? | Reddit | Business | social | 2026-06-26 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ugi78i/are_you_sure_you_didnt_make_it_all_up/) |
+| 2026-06-26 | I am building a browser shader editor where your webcam becomes ASCII using MediaPipe | Reddit | Business | social | 2026-06-26 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ug35pt/i_am_building_a_browser_shader_editor_where_your/) |
+| 2026-06-26 | This is my 4yo vault, AMA | Reddit | Business | social | 2026-06-26 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ufwaok/this_is_my_4yo_vault_ama/) |
+| 2026-06-26 | Turning all the comics and graphic novels that I own into a base | Reddit | Business | social | 2026-06-26 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ug6uik/turning_all_the_comics_and_graphic_novels_that_i/) |
+| 2026-06-26 | Follow-up: "This is my 4yo vault, AMA | Reddit | Business | social | 2026-06-26 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ugk4ph/followup_this_is_my_4yo_vault_ama/) |
+| 2026-06-26 | After tried to open a big note in Notion, I am back to Obsidian. | Reddit | Business | social | 2026-06-26 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ug8d9b/after_tried_to_open_a_big_note_in_notion_i_am/) |
+| 2026-06-26 | Flat Financing - A complete personal finance inside Obsidian | Reddit | Business | social | 2026-06-26 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ugg9s5/flat_financing_a_complete_personal_finance_inside/) |
+| 2026-06-26 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-25 | An entire Herculaneum scroll has been read for the first time | HN | Technology | tech | 2026-06-25 | [link](https://scrollprize.org/firstscroll) |
 | 2026-06-25 | Om Malik has died | HN | Technology | tech | 2026-06-25 | [link](https://om.co/2026/06/24/1966-2026/) |
 | 2026-06-25 | Apple raises prices of MacBooks, iPads | HN | Technology | tech | 2026-06-25 | [link](https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/) |
