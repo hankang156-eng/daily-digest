@@ -1,9 +1,63 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-27 · 2779 items*
+*Last updated: 2026-06-28 · 2833 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-27 | Anonymous GitHub account mass-dropping undisclosed 0-days | HN | Technology | tech | 2026-06-27 | [link](https://github.com/bikini/exploitarium) |
+| 2026-06-27 | DSpark: Speculative decoding accelerates LLM inference [pdf] | HN | Technology | tech | 2026-06-27 | [link](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) |
+| 2026-06-27 | OpenRA | HN | Technology | tech | 2026-06-27 | [link](https://www.openra.net/) |
+| 2026-06-27 | Zuckerberg's war on whistleblowers | HN | Technology | tech | 2026-06-27 | [link](https://pluralistic.net/2026/06/27/zuckerstreisand-2/) |
+| 2026-06-27 | Fintech Engineering Handbook | HN | Technology | tech | 2026-06-27 | [link](https://w.pitula.me/fintech-engineering-handbook/) |
+| 2026-06-27 | The case for physical media ownership | HN | Technology | tech | 2026-06-27 | [link](https://dervis.de/physical/) |
+| 2026-06-27 | IP Crawl: Living atlas of open webcams discovered on the public internet | HN | Technology | tech | 2026-06-27 | [link](https://ipcrawl.com/) |
+| 2026-06-27 | Streaming services' obnoxiously loud ads become illegal on July 1 in California | HN | Technology | tech | 2026-06-27 | [link](https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/) |
+| 2026-06-27 | Suspicious Discontinuities (2020) | HN | Technology | tech | 2026-06-27 | [link](https://danluu.com/discontinuities/) |
+| 2026-06-27 | Asian AI startups launch Mythos-like models | HN | Technology | tech | 2026-06-27 | [link](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/) |
+| 2026-06-27 | Turn your site into a place people can bump into each other | HN | Technology | tech | 2026-06-27 | [link](https://cauenapier.com/blog/townsquare_release/) |
+| 2026-06-27 | Marfa Public Radio Puts You to Sleep | HN | Technology | tech | 2026-06-27 | [link](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep) |
+| 2026-06-27 | OpenTTD 16.0-Beta1 | HN | Technology | tech | 2026-06-27 | [link](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1) |
+| 2026-06-27 | The best response to AI slop and online noise is from Robin Williams | HN | Technology | tech | 2026-06-27 | [link](https://jayacunzo.com/blog/your-move-chief) |
+| 2026-06-27 | Ford hired AI and sacked humans. It backfired badly | HN | Technology | tech | 2026-06-27 | [link](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html) |
+| 2026-06-27 | 'Careless People' author claims Meta surveilled her for 12mos to enforce silence | HN | Technology | tech | 2026-06-27 | [link](https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/) |
+| 2026-06-27 | The Real A.I. Race Isn’t America vs. China | NYT · AI | AI | opinion | 2026-06-28 | [link](https://www.nytimes.com/2026/06/28/opinion/ai-race-china-us.html) |
+| 2026-06-27 | Apple, Micron, OpenAI and A.I.’s Rough Summer | NYT · AI | AI | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/business/dealbook/ai-openai-ipo-slump.html) |
+| 2026-06-27 | U.S. Loosens Restrictions on Anthropic’s Mythos A.I. Model | NYT · AI | AI | news | 2026-06-27 | [link](https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html) |
+| 2026-06-27 | Ryanair Stops Charging for Parents to Sit With Their Children | NYT · Business | Business | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/world/europe/ryanair-fee-children-seats.html) |
+| 2026-06-27 | Anger Over Supreme Court Rulings on Immigration | NYT · AI | AI | opinion | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/opinion/supreme-court-immigration.html) |
+| 2026-06-27 | U.S. Begins Investigating Polymarket, a Test of a Key Regulator | NYT · Politics | Politics | news | 2026-06-27 | [link](https://www.nytimes.com/2026/06/26/us/politics/cftc-investigating-polymarket-trump.html) |
+| 2026-06-27 | Trump Plans to Name Adam Candeub as Antitrust Chief in Justice Dept. | NYT · Technology | Technology | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/25/technology/trump-antitrust-doj-adam-candeub.html) |
+| 2026-06-27 | Advertisers Are Good at Getting Human Attention. Can They Stand Out to A.I.? | NYT · AI | AI | news | 2026-06-27 | [link](https://www.nytimes.com/2026/06/27/business/dealbook/ai-visibility.html) |
+| 2026-06-27 | Your Home Could Help Solve AI’s Growing Power Demand | NYT · Technology | Technology | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html) |
+| 2026-06-27 | Trump’s Science Cuts Betray America’s Past Since Lewis and Clark | NYT · Opinion | Opinion | opinion | 2026-06-28 | [link](https://www.nytimes.com/2026/06/28/opinion/lewis-clark-scientific-research-funding.html) |
+| 2026-06-27 | It’s Time to Put This Catholic Teaching to Rest | NYT · AI | AI | opinion | 2026-06-27 | [link](https://www.nytimes.com/2026/06/26/opinion/pope-leo-just-war-theory-encyclical-ai-iran.html) |
+| 2026-06-27 | Big Companies Aim to Ease A.I. Transition for American Workers | NYT · Economy | Economy | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/25/business/economy/ai-work-force-training-job-losses.html) |
+| 2026-06-27 | Intel’s Chip Business Shows Signs of Life After Years of Struggle | NYT · AI | AI | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html) |
+| 2026-06-27 | How Teaching A.I. Endangered Languages Can Help Save Them | NYT · AI | AI | news | 2026-06-27 | [link](https://www.nytimes.com/2026/06/27/arts/ai-cajun-french-language.html) |
+| 2026-06-27 | How a Niche Technology Became a Choke Point for A.I. | NYT · AI | AI | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html) |
+| 2026-06-27 | Mark Zuckerberg Urges Meta to Explore Working With Polymarket and Kalshi | NYT · Technology | Technology | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html) |
+| 2026-06-27 | White House Secretly Swayed Board Meant to Protect Federal Workers From Unfair Firings | NYT · Politics | Politics | news | 2026-06-28 | [link](https://www.nytimes.com/2026/06/28/us/politics/trump-firings-workers-merit-systems-protection-board.html) |
+| 2026-06-27 | Chaos Came to CBS News. What’s in Store for CNN? | NYT · Business | Business | news | 2026-06-27 | [link](https://www.nytimes.com/2026/06/27/business/media/cnn-bari-weiss-david-ellison.html) |
+| 2026-06-27 | Rats, Leaks and Broken Elevators: Repair Backlog Plagues Federal Buildings | NYT · Politics | Politics | news | 2026-06-28 | [link](https://www.nytimes.com/2026/06/28/us/politics/federal-buildings-repair-backlog.html) |
+| 2026-06-27 | Mega I.P.O. Frenzy Could Be a Harbinger of a Stock Bubble | NYT · Your Money | Your Money | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/business/spacex-ipo-musk-stock-bubble.html) |
+| 2026-06-27 | OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-27 | [link](https://openai.com/index/previewing-gpt-5-6-sol/) |
+| 2026-06-27 | Grok Is a Generative Porno App | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-27 | [link](https://www.theinformation.com/articles/xai-bets-groks-racy-side?rc=jfy0lk) |
+| 2026-06-27 | They must to switch between fable and gpt 5.6 | Reddit | Business | social | 2026-06-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uh3dkx/they_must_to_switch_between_fable_and_gpt_56/) |
+| 2026-06-27 | Anthropic speaks out | Reddit | Business | social | 2026-06-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ugonxn/anthropic_speaks_out/) |
+| 2026-06-27 | POV: Security concerns have entered the chat | Reddit | Business | social | 2026-06-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uh4pit/pov_security_concerns_have_entered_the_chat/) |
+| 2026-06-27 | Why are all the Claude Code skill files I see online completely pointless? | Reddit | Business | social | 2026-06-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uhed8x/why_are_all_the_claude_code_skill_files_i_see/) |
+| 2026-06-27 | Scoop: Powerful Anthropic model, Fable 5, on track to return soon | Reddit | Business | social | 2026-06-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uh3dj3/scoop_powerful_anthropic_model_fable_5_on_track/) |
+| 2026-06-27 | Who can make the best diamond with just Claude? | Reddit | Business | social | 2026-06-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ugukfg/who_can_make_the_best_diamond_with_just_claude/) |
+| 2026-06-27 | I don't get the hype behind Claude + Obsidian (am i missing something)? | Reddit | Business | social | 2026-06-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uh9uu3/i_dont_get_the_hype_behind_claude_obsidian_am_i/) |
+| 2026-06-27 | Token Maxxers I have a gift for you | Reddit | Business | social | 2026-06-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uh3ytw/token_maxxers_i_have_a_gift_for_you/) |
+| 2026-06-27 | The Honest Truth about why I didn't fix your brakes | Reddit | Business | social | 2026-06-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uhdu0d/the_honest_truth_about_why_i_didnt_fix_your_brakes/) |
+| 2026-06-27 | How I Feel When Claude Ignores Project Instructions | Reddit | Business | social | 2026-06-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uh7wr4/how_i_feel_when_claude_ignores_project/) |
+| 2026-06-27 | What does a real Handwriting Plugin look like? | Reddit | Business | social | 2026-06-27 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ugyq9n/what_does_a_real_handwriting_plugin_look_like/) |
+| 2026-06-27 | Health.md v2 adds mood and medication charts in Obsidian | Reddit | Business | social | 2026-06-27 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uh54bv/healthmd_v2_adds_mood_and_medication_charts_in/) |
+| 2026-06-27 | For those of you interested in creating/customizing your own callouts | Reddit | Business | social | 2026-06-27 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uh1fgh/for_those_of_you_interested_in/) |
+| 2026-06-27 | made a calm little home dashboard for my vault, figured i'd share it | Reddit | Business | social | 2026-06-27 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uh2x6q/made_a_calm_little_home_dashboard_for_my_vault/) |
+| 2026-06-27 | Advanced PDF Export: one month later — here's what your feedback helped add | Reddit | Business | social | 2026-06-27 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uh95el/advanced_pdf_export_one_month_later_heres_what/) |
+| 2026-06-27 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-26 | Apple, Micron, OpenAI and A.I.’s Rough Summer | NYT · AI | AI | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/business/dealbook/ai-openai-ipo-slump.html) |
 | 2026-06-26 | Ryanair Stops Charging for Parents to Sit With Their Children | NYT · Business | Business | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/world/europe/ryanair-fee-children-seats.html) |
 | 2026-06-26 | U.S. Loosens Restrictions on Anthropic’s Mythos A.I. Model | NYT · AI | AI | news | 2026-06-27 | [link](https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html) |

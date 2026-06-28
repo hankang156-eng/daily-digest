@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-26 · 421 days · 4210 stories*
+*Last updated: 2026-06-28 · 422 days · 4220 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-27 | Saturday | 1 | Anonymous GitHub account mass-dropping undisclosed 0-days | 812 | 318 | Technology | [link](https://github.com/bikini/exploitarium) · [HN](https://news.ycombinator.com/item?id=48698617) |
+| 2026-06-27 | Saturday | 2 | DSpark: Speculative decoding accelerates LLM inference [pdf] | 762 | 323 | Technology | [link](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) · [HN](https://news.ycombinator.com/item?id=48696585) |
+| 2026-06-27 | Saturday | 3 | OpenRA | 713 | 134 | Technology | [link](https://www.openra.net/) · [HN](https://news.ycombinator.com/item?id=48697560) |
+| 2026-06-27 | Saturday | 4 | Zuckerberg's war on whistleblowers | 694 | 249 | Technology | [link](https://pluralistic.net/2026/06/27/zuckerstreisand-2/) · [HN](https://news.ycombinator.com/item?id=48698684) |
+| 2026-06-27 | Saturday | 5 | Fintech Engineering Handbook | 567 | 176 | Technology | [link](https://w.pitula.me/fintech-engineering-handbook/) · [HN](https://news.ycombinator.com/item?id=48696982) |
+| 2026-06-27 | Saturday | 6 | The case for physical media ownership | 440 | 298 | Technology | [link](https://dervis.de/physical/) · [HN](https://news.ycombinator.com/item?id=48697335) |
+| 2026-06-27 | Saturday | 7 | IP Crawl: Living atlas of open webcams discovered on the public internet | 298 | 153 | Technology | [link](https://ipcrawl.com/) · [HN](https://news.ycombinator.com/item?id=48700834) |
+| 2026-06-27 | Saturday | 8 | Streaming services' obnoxiously loud ads become illegal on July 1 in California | 269 | 82 | Technology | [link](https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/) · [HN](https://news.ycombinator.com/item?id=48697768) |
+| 2026-06-27 | Saturday | 9 | Suspicious Discontinuities (2020) | 241 | 77 | Technology | [link](https://danluu.com/discontinuities/) · [HN](https://news.ycombinator.com/item?id=48698151) |
+| 2026-06-27 | Saturday | 10 | Asian AI startups launch Mythos-like models | 230 | 174 | Technology | [link](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/) · [HN](https://news.ycombinator.com/item?id=48697958) |
 | 2026-06-25 | Thursday | 1 | An entire Herculaneum scroll has been read for the first time | 1306 | 274 | Technology | [link](https://scrollprize.org/firstscroll) · [HN](https://news.ycombinator.com/item?id=48675179) |
 | 2026-06-25 | Thursday | 2 | Om Malik has died | 897 | 101 | Technology | [link](https://om.co/2026/06/24/1966-2026/) · [HN](https://news.ycombinator.com/item?id=48678852) |
 | 2026-06-25 | Thursday | 3 | Apple raises prices of MacBooks, iPads | 726 | 1032 | Technology | [link](https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/) · [HN](https://news.ycombinator.com/item?id=48672732) |
