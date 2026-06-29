@@ -1,9 +1,53 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-28 · 2833 items*
+*Last updated: 2026-06-29 · 2877 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-28 | A.I. Is Strangling Our Economy | NYT · AI | AI | opinion | 2026-06-29 | [link](https://www.nytimes.com/2026/06/29/opinion/ai-economy-affordability.html) |
+| 2026-06-28 | The Real A.I. Race Isn’t America vs. China | NYT · AI | AI | opinion | 2026-06-28 | [link](https://www.nytimes.com/2026/06/28/opinion/ai-race-china-us.html) |
+| 2026-06-28 | Apple, Micron, OpenAI and A.I.’s Rough Summer | NYT · AI | AI | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/business/dealbook/ai-openai-ipo-slump.html) |
+| 2026-06-28 | U.S. Loosens Restrictions on Anthropic’s Mythos A.I. Model | NYT · AI | AI | news | 2026-06-27 | [link](https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html) |
+| 2026-06-28 | With Final Decisions Ahead, the Supreme Court Is Sharply Divided | NYT · Politics | Politics | news | 2026-06-29 | [link](https://www.nytimes.com/2026/06/29/us/politics/supreme-court-final-decisions.html) |
+| 2026-06-28 | Ryanair Stops Charging for Parents to Sit With Their Children | NYT · Business | Business | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/world/europe/ryanair-fee-children-seats.html) |
+| 2026-06-28 | Advertisers Are Good at Getting Human Attention. Can They Stand Out to A.I.? | NYT · AI | AI | news | 2026-06-28 | [link](https://www.nytimes.com/2026/06/27/business/dealbook/ai-visibility.html) |
+| 2026-06-28 | Anger Over Supreme Court Rulings on Immigration | NYT · AI | AI | opinion | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/opinion/supreme-court-immigration.html) |
+| 2026-06-28 | Trump’s Science Cuts Betray America’s Past Since Lewis and Clark | NYT · Opinion | Opinion | opinion | 2026-06-28 | [link](https://www.nytimes.com/2026/06/28/opinion/lewis-clark-scientific-research-funding.html) |
+| 2026-06-28 | A.I. ‘Employees’ Might Disrupt Work in Unexpected Ways | NYT · AI | AI | news | 2026-06-29 | [link](https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html) |
+| 2026-06-28 | Trump Plans to Name Adam Candeub as Antitrust Chief in Justice Dept. | NYT · Technology | Technology | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/25/technology/trump-antitrust-doj-adam-candeub.html) |
+| 2026-06-28 | Your Home Could Help Solve AI’s Growing Power Demand | NYT · Energy & Environment | Energy & Environment | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html) |
+| 2026-06-28 | U.S. Begins Investigating Polymarket, a Test of a Key Regulator | NYT · Politics | Politics | news | 2026-06-27 | [link](https://www.nytimes.com/2026/06/26/us/politics/cftc-investigating-polymarket-trump.html) |
+| 2026-06-28 | White House Secretly Swayed Board Meant to Protect Federal Workers From Unfair Firings | NYT · Politics | Politics | news | 2026-06-28 | [link](https://www.nytimes.com/2026/06/28/us/politics/trump-firings-workers-merit-systems-protection-board.html) |
+| 2026-06-28 | Big Companies Aim to Ease A.I. Transition for American Workers | NYT · Economy | Economy | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/25/business/economy/ai-work-force-training-job-losses.html) |
+| 2026-06-28 | Intel’s Chip Business Shows Signs of Life After Years of Struggle | NYT · AI | AI | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html) |
+| 2026-06-28 | The Small-Business Owners Managing Whole Armies of A.I. Employees | NYT · AI | AI | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html) |
+| 2026-06-28 | Mark Zuckerberg Urges Meta to Explore Working With Polymarket and Kalshi | NYT · Technology | Technology | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html) |
+| 2026-06-28 | Israel and Iran Have Divided Democrats and Republicans. Will They Ever Be the Same? | NYT · Politics | Politics | news | 2026-06-29 | [link](https://www.nytimes.com/2026/06/29/us/politics/israel-iran-democrats-republicans-midterms.html) |
+| 2026-06-28 | Oil Industry Lawyers Fight a $50 Billion Climate Case in Oregon | NYT · Energy & Environment | Energy & Environment | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/climate/portland-heat-wave-lawsuit-oil-industry.html) |
+| 2026-06-28 | PuffPal, an App for Accessing Cannabis Clubs, Leaked 1 Million Users’ Passports | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-28 | [link](https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdjV0Y5TTBuM0ciLCJwIjoiL3RlY2gvOTQ3MTU3L3Bhc3Nwb3J0cy1kYXRhLWJyZWFjaC1jYW5uYWJpcy1jbHViLXN5c3RlbXMtbmVmb3MtcHVmZnBhbCIsImV4cCI6MTc4MzA5NDY0NiwiaWF0IjoxNzgyNjYyNjQ2fQ.7SjX6B8AAGhzsdrtD5asJWBwzQvTDUD31hWte7K1oec) |
+| 2026-06-28 | Quoting Jon Udell | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-28 | [link](https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything) |
+| 2026-06-28 | Hack Your Summer | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-28 | [link](https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything) |
+| 2026-06-28 | Scrolling through r/ClaudeAI | Reddit | Business | social | 2026-06-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ui6qq2/scrolling_through_rclaudeai/) |
+| 2026-06-28 | Day 32 of building GTA 6 using claude | Reddit | Business | social | 2026-06-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ui05sr/day_32_of_building_gta_6_using_claude/) |
+| 2026-06-28 | Graphify hit 73k stars and 2.2M downloads in 2.5 months, and we just got into YC | Reddit | Business | social | 2026-06-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ui6unv/graphify_hit_73k_stars_and_22m_downloads_in_25/) |
+| 2026-06-28 | Claude Code suddenly tried to open a Remote Desktop connection on my PC. This seriously scared me. | Reddit | Business | social | 2026-06-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ui8g1t/claude_code_suddenly_tried_to_open_a_remote/) |
+| 2026-06-28 | Amazing how we all wanted to convert every doc to pdf 10 years ago and now everyone wants to go from | Reddit | Business | social | 2026-06-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uhz98q/amazing_how_we_all_wanted_to_convert_every_doc_to/) |
+| 2026-06-28 | Opus 4.8 is so exhausting! | Reddit | Business | social | 2026-06-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ui3yjv/opus_48_is_so_exhausting/) |
+| 2026-06-28 | I built a Claude statusbar hardware display for my desk | Reddit | Business | social | 2026-06-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ui85ys/i_built_a_claude_statusbar_hardware_display_for/) |
+| 2026-06-28 | $20 of lapdance in Miami last longer than $20 of tokens with Claude | Reddit | Business | social | 2026-06-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uhu8s4/20_of_lapdance_in_miami_last_longer_than_20_of/) |
+| 2026-06-28 | What are your favourite prompts you always use with Claude? | Reddit | Business | social | 2026-06-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uhjcsi/what_are_your_favourite_prompts_you_always_use/) |
+| 2026-06-28 | Well, that was *frighteningly* effective!! | Reddit | Business | social | 2026-06-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ui3m5b/well_that_was_frighteningly_effective/) |
+| 2026-06-28 | New Benchmark just dropped | Reddit | Business | social | 2026-06-28 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uhko2p/new_benchmark_just_dropped/) |
+| 2026-06-28 | Remember when they searched for rockstar developers? | Reddit | Business | social | 2026-06-28 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ui5t9w/remember_when_they_searched_for_rockstar/) |
+| 2026-06-28 | Just installed Claude Code | Reddit | Business | social | 2026-06-28 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uib5sj/just_installed_claude_code/) |
+| 2026-06-28 | How good was really fable 5? | Reddit | Business | social | 2026-06-28 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uhval7/how_good_was_really_fable_5/) |
+| 2026-06-28 | The #1 Reason I Use 4.8 on Ultracode Mode | Reddit | Business | social | 2026-06-28 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ui7oow/the_1_reason_i_use_48_on_ultracode_mode/) |
+| 2026-06-28 | Appreciation post for Notebook Navigator: Found a new feature in it. | Reddit | Business | social | 2026-06-28 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uhmt10/appreciation_post_for_notebook_navigator_found_a/) |
+| 2026-06-28 | I themed Obsidian to match my personal brand, and now every tool I use daily looks like "me" | Reddit | Business | social | 2026-06-28 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uhqnah/i_themed_obsidian_to_match_my_personal_brand_and/) |
+| 2026-06-28 | New Card view added to Obsidian “Collapsing Group Table” Bases plugin | Reddit | Business | social | 2026-06-28 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uhmh98/new_card_view_added_to_obsidian_collapsing_group/) |
+| 2026-06-28 | Cordyceps Theme | Reddit | Business | social | 2026-06-28 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uhu3x1/cordyceps_theme/) |
+| 2026-06-28 | Memorize paragraphs and long notes - "Echo Recall" showcase and update! | Reddit | Business | social | 2026-06-28 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ui5l01/memorize_paragraphs_and_long_notes_echo_recall/) |
+| 2026-06-28 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-27 | Anonymous GitHub account mass-dropping undisclosed 0-days | HN | Technology | tech | 2026-06-27 | [link](https://github.com/bikini/exploitarium) |
 | 2026-06-27 | DSpark: Speculative decoding accelerates LLM inference [pdf] | HN | Technology | tech | 2026-06-27 | [link](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) |
 | 2026-06-27 | OpenRA | HN | Technology | tech | 2026-06-27 | [link](https://www.openra.net/) |
