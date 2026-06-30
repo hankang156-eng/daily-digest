@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-28 · 422 days · 4220 stories*
+*Last updated: 2026-06-30 · 423 days · 4230 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-06-29 | Monday | 1 | Qwen 3.6 27B is the sweet spot for local development | 925 | 618 | Technology | [link](https://quesma.com/blog/qwen-36-is-awesome/) · [HN](https://news.ycombinator.com/item?id=48721903) |
+| 2026-06-29 | Monday | 2 | Pollen tried to remove my article and Google is assisting with it | 888 | 126 | Technology | [link](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/) · [HN](https://news.ycombinator.com/item?id=48716902) |
+| 2026-06-29 | Monday | 3 | The CEO of Mullvad is the main financer of the Swedish Örebro party | 609 | 1359 | Technology | [link](https://det.social/@lostgen/116820546568940358) · [HN](https://news.ycombinator.com/item?id=48717469) |
+| 2026-06-29 | Monday | 4 | US Supreme Court rules geofence warrants require constitutional protections | 526 | 249 | Technology | [link](https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision) · [HN](https://news.ycombinator.com/item?id=48720924) |
+| 2026-06-29 | Monday | 5 | .self: A new top-level domain designed to support self-hosting | 518 | 296 | Technology | [link](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/) · [HN](https://news.ycombinator.com/item?id=48724230) |
+| 2026-06-29 | Monday | 6 | Rocketlab acquires Iridium | 413 | 276 | Technology | [link](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully) · [HN](https://news.ycombinator.com/item?id=48719485) |
+| 2026-06-29 | Monday | 7 | Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing | 401 | 182 | Technology | [link](https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing) · [HN](https://news.ycombinator.com/item?id=48718102) |
+| 2026-06-29 | Monday | 8 | European ISPs Want Rightsholders Held Accountable for Overblocking Damage | 384 | 112 | Technology | [link](https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/) · [HN](https://news.ycombinator.com/item?id=48721072) |
+| 2026-06-29 | Monday | 9 | Instagram is incorporating users' photos in ads for Meta Glasses | 343 | 145 | Technology | [link](https://twitter.com/i/status/2071277885646868536) · [HN](https://news.ycombinator.com/item?id=48719027) |
+| 2026-06-29 | Monday | 10 | A native graphical shell for SSH | 309 | 173 | Technology | [link](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html) · [HN](https://news.ycombinator.com/item?id=48720758) |
 | 2026-06-27 | Saturday | 1 | Anonymous GitHub account mass-dropping undisclosed 0-days | 812 | 318 | Technology | [link](https://github.com/bikini/exploitarium) · [HN](https://news.ycombinator.com/item?id=48698617) |
 | 2026-06-27 | Saturday | 2 | DSpark: Speculative decoding accelerates LLM inference [pdf] | 762 | 323 | Technology | [link](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) · [HN](https://news.ycombinator.com/item?id=48696585) |
 | 2026-06-27 | Saturday | 3 | OpenRA | 713 | 134 | Technology | [link](https://www.openra.net/) · [HN](https://news.ycombinator.com/item?id=48697560) |

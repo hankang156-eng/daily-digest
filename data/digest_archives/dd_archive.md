@@ -1,9 +1,69 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-29 · 2877 items*
+*Last updated: 2026-06-30 · 2937 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-29 | Qwen 3.6 27B is the sweet spot for local development | HN | Technology | tech | 2026-06-29 | [link](https://quesma.com/blog/qwen-36-is-awesome/) |
+| 2026-06-29 | Pollen tried to remove my article and Google is assisting with it | HN | Technology | tech | 2026-06-29 | [link](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/) |
+| 2026-06-29 | The CEO of Mullvad is the main financer of the Swedish Örebro party | HN | Technology | tech | 2026-06-29 | [link](https://det.social/@lostgen/116820546568940358) |
+| 2026-06-29 | US Supreme Court rules geofence warrants require constitutional protections | HN | Technology | tech | 2026-06-29 | [link](https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision) |
+| 2026-06-29 | .self: A new top-level domain designed to support self-hosting | HN | Technology | tech | 2026-06-29 | [link](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/) |
+| 2026-06-29 | Rocketlab acquires Iridium | HN | Technology | tech | 2026-06-29 | [link](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully) |
+| 2026-06-29 | Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing | HN | Technology | tech | 2026-06-29 | [link](https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing) |
+| 2026-06-29 | European ISPs Want Rightsholders Held Accountable for Overblocking Damage | HN | Technology | tech | 2026-06-29 | [link](https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/) |
+| 2026-06-29 | Instagram is incorporating users' photos in ads for Meta Glasses | HN | Technology | tech | 2026-06-29 | [link](https://twitter.com/i/status/2071277885646868536) |
+| 2026-06-29 | A native graphical shell for SSH | HN | Technology | tech | 2026-06-29 | [link](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html) |
+| 2026-06-29 | Tidal AI Policy | HN | Technology | tech | 2026-06-29 | [link](https://tidal.com/ai-policy) |
+| 2026-06-29 | What happens when you run a CUDA kernel? | HN | Technology | tech | 2026-06-29 | [link](https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/) |
+| 2026-06-29 | South Korea to spend $1T on more memory chip production and humanoid robots | HN | Technology | tech | 2026-06-29 | [link](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/) |
+| 2026-06-29 | Studio Canal Movies purchased on PlayStation Store removed without refund | HN | Technology | tech | 2026-06-29 | [link](https://www.playstation.com/en-gb/legal/psvideocontent/) |
+| 2026-06-29 | Ornith-1.0: self-improving open-source models for agentic coding | HN | Technology | tech | 2026-06-29 | [link](https://github.com/deepreinforce-ai/Ornith-1) |
+| 2026-06-29 | Why did this journal retract two 1940s papers by Max Planck? | HN | Technology | tech | 2026-06-29 | [link](https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/) |
+| 2026-06-29 | A.I. Is Strangling Our Economy | NYT · AI | AI | opinion | 2026-06-29 | [link](https://www.nytimes.com/2026/06/29/opinion/ai-economy-affordability.html) |
+| 2026-06-29 | Why A.I. Won’t Steal All Our Jobs | NYT · AI | AI | opinion | 2026-06-30 | [link](https://www.nytimes.com/2026/06/30/opinion/ai-agents-steal-jobs-employment.html) |
+| 2026-06-29 | The Real A.I. Race Isn’t America vs. China | NYT · AI | AI | opinion | 2026-06-29 | [link](https://www.nytimes.com/2026/06/28/opinion/ai-race-china-us.html) |
+| 2026-06-29 | Could Comcast and NBCUniversal Do Deals After They Break Up? | NYT · Business | Business | news | 2026-06-29 | [link](https://www.nytimes.com/2026/06/29/business/dealbook/comcast-nbcuniversal-deals.html) |
+| 2026-06-29 | How Grindr’s C.E.O. Adopted A.I.: ‘I Just Imposed It’ | NYT · AI | AI | news | 2026-06-30 | [link](https://www.nytimes.com/2026/06/30/business/grindr-ceo-george-arison-ai.html) |
+| 2026-06-29 | How A.I. Is Changing the Way Politicians Run for Office | NYT · AI | AI | news | 2026-06-30 | [link](https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html) |
+| 2026-06-29 | Trump Renews Threat to Fire Fed Governor Lisa Cook After Supreme Court Ruling | NYT · Business | Business | news | 2026-06-29 | [link](https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html) |
+| 2026-06-29 | In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough | NYT · AI | AI | news | 2026-06-29 | [link](https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html) |
+| 2026-06-29 | A.I. ‘Employees’ Might Disrupt Work in Unexpected Ways | NYT · AI | AI | news | 2026-06-29 | [link](https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html) |
+| 2026-06-29 | Supreme Court Expands Trump’s Power to Fire Officials but Prevents Lisa Cook Removal | NYT · Politics | Politics | news | 2026-06-29 | [link](https://www.nytimes.com/2026/06/29/us/politics/supreme-court-independent-regulator-firings.html) |
+| 2026-06-29 | Apple, Micron, OpenAI and A.I.’s Rough Summer | NYT · Business | Business | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/business/dealbook/ai-openai-ipo-slump.html) |
+| 2026-06-29 | Your Home Could Help Solve AI’s Growing Power Demand | NYT · Energy & Environment | Energy & Environment | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html) |
+| 2026-06-29 | Ryanair Stops Charging for Parents to Sit With Their Children | NYT · Business | Business | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/world/europe/ryanair-fee-children-seats.html) |
+| 2026-06-29 | Columbia University Has a New President. Again. This One Plans to Stay. | NYT · AI | AI | news | 2026-06-30 | [link](https://www.nytimes.com/2026/06/30/nyregion/columbia-university-new-president.html) |
+| 2026-06-29 | U.S. Loosens Restrictions on Anthropic’s Mythos A.I. Model | NYT · Technology | Technology | news | 2026-06-27 | [link](https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html) |
+| 2026-06-29 | The Supreme Court Just Handed Trump a Dangerous New Power | NYT · Opinion | Opinion | opinion | 2026-06-29 | [link](https://www.nytimes.com/2026/06/29/opinion/supreme-court-firings-trump-ftc-fed.html) |
+| 2026-06-29 | Trump Plans to Name Adam Candeub as Antitrust Chief in Justice Dept. | NYT · Technology | Technology | news | 2026-06-25 | [link](https://www.nytimes.com/2026/06/25/technology/trump-antitrust-doj-adam-candeub.html) |
+| 2026-06-29 | Supreme Court Puts Limits on Cellphone Location Data Searches | NYT · Politics | Politics | news | 2026-06-29 | [link](https://www.nytimes.com/2026/06/29/us/politics/supreme-court-geofence-warrant-cell-phones.html) |
+| 2026-06-29 | The Small-Business Owners Managing Whole Armies of A.I. Employees | NYT · AI | AI | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html) |
+| 2026-06-29 | Oil Industry Lawyers Fight a $50 Billion Climate Case in Oregon | NYT · Energy & Environment | Energy & Environment | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/climate/portland-heat-wave-lawsuit-oil-industry.html) |
+| 2026-06-29 | Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-29 | [link](https://simonwillison.net/2026/Jun/29/ornith/#atom-everything) |
+| 2026-06-29 | Auth.md — an Open Protocol for Agent Registration From WorkOS | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-29 | [link](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) |
+| 2026-06-29 | Daniel Agee: ‘Remembering Om’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-29 | [link](https://glass.photo/highlights/remembering-om) |
+| 2026-06-29 | HTML table extractor | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-29 | [link](https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything) |
+| 2026-06-29 | Claude is going to make me RICH | Reddit | Business | social | 2026-06-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uiji8c/claude_is_going_to_make_me_rich/) |
+| 2026-06-29 | it is not a challenge | Reddit | Business | social | 2026-06-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uixwok/it_is_not_a_challenge/) |
+| 2026-06-29 | I'm also working on an e-ink smart clock that can handle multiple agent messages and notifications | Reddit | Business | social | 2026-06-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uihc8t/im_also_working_on_an_eink_smart_clock_that_can/) |
+| 2026-06-29 | I made a quiz that tells you which LLM you align with most, based on personality and values tests ac | Reddit | Business | social | 2026-06-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uimzfi/i_made_a_quiz_that_tells_you_which_llm_you_align/) |
+| 2026-06-29 | Have I been lighting ~$1k/month on fire buying Claude API credits instead of just getting Max? | Reddit | Business | social | 2026-06-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uj22cw/have_i_been_lighting_1kmonth_on_fire_buying/) |
+| 2026-06-29 | It takes a day or two to build a working idea. it takes months to create a product. | Reddit | Business | social | 2026-06-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uirhv4/it_takes_a_day_or_two_to_build_a_working_idea_it/) |
+| 2026-06-29 | Claude in Microsoft Foundry is now generally available. | Reddit | Business | social | 2026-06-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uizule/claude_in_microsoft_foundry_is_now_generally/) |
+| 2026-06-29 | What’s the most useful thing Claude helped you build that nobody else would ever use? | Reddit | Business | social | 2026-06-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uisq7w/whats_the_most_useful_thing_claude_helped_you/) |
+| 2026-06-29 | Anesthesia / Emergency simulator built with Claude Code | Reddit | Business | social | 2026-06-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uiwh8o/anesthesia_emergency_simulator_built_with_claude/) |
+| 2026-06-29 | This is a message for Anthropic. Bring back the usual limit usage; reset them now. | Reddit | Business | social | 2026-06-29 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uim4jb/this_is_a_message_for_anthropic_bring_back_the/) |
+| 2026-06-29 | Evolution of Programming | Reddit | Business | social | 2026-06-29 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uiz64z/evolution_of_programming/) |
+| 2026-06-29 | it's not a goddamn challenge | Reddit | Business | social | 2026-06-29 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uixxd9/its_not_a_goddamn_challenge/) |
+| 2026-06-29 | Claude Code writes this Supabase auth pattern in almost every project and it's a security hole | Reddit | Business | social | 2026-06-29 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uj7x8o/claude_code_writes_this_supabase_auth_pattern_in/) |
+| 2026-06-29 | How does Claude Code knows it's "almost done thinking"? | Reddit | Business | social | 2026-06-29 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uimine/how_does_claude_code_knows_its_almost_done/) |
+| 2026-06-29 | Can I write my private diary in Obsidian with 100% security | Reddit | Business | social | 2026-06-29 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uila11/can_i_write_my_private_diary_in_obsidian_with_100/) |
+| 2026-06-29 | Cookbook in Obsidian – What's your way to store recipes? | Reddit | Business | social | 2026-06-29 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uiu6a2/cookbook_in_obsidian_whats_your_way_to_store/) |
+| 2026-06-29 | Plugin - Similarity Update: Nothing like an 8x performance increase :') | Reddit | Business | social | 2026-06-29 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uift8m/plugin_similarity_update_nothing_like_an_8x/) |
+| 2026-06-29 | Improving Callouts | Reddit | Business | social | 2026-06-29 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uizhu2/improving_callouts/) |
+| 2026-06-29 | Obsidian Task Manager 1.3.0 - Sneak Peak | Reddit | Business | social | 2026-06-29 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uishl4/obsidian_task_manager_130_sneak_peak/) |
+| 2026-06-29 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-28 | A.I. Is Strangling Our Economy | NYT · AI | AI | opinion | 2026-06-29 | [link](https://www.nytimes.com/2026/06/29/opinion/ai-economy-affordability.html) |
 | 2026-06-28 | The Real A.I. Race Isn’t America vs. China | NYT · AI | AI | opinion | 2026-06-28 | [link](https://www.nytimes.com/2026/06/28/opinion/ai-race-china-us.html) |
 | 2026-06-28 | Apple, Micron, OpenAI and A.I.’s Rough Summer | NYT · AI | AI | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/business/dealbook/ai-openai-ipo-slump.html) |
