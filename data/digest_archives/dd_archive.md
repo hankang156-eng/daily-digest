@@ -1,9 +1,56 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-06-30 · 2937 items*
+*Last updated: 2026-07-01 · 2984 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-06-30 | Why A.I. Won’t Steal All Our Jobs | NYT · AI | AI | opinion | 2026-06-30 | [link](https://www.nytimes.com/2026/06/30/opinion/ai-agents-steal-jobs-employment.html) |
+| 2026-06-30 | U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models | NYT · AI | AI | news | 2026-07-01 | [link](https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html) |
+| 2026-06-30 | How the Supreme Court Ushered in Corporate Chaos in D.C. | NYT · Business | Business | news | 2026-06-30 | [link](https://www.nytimes.com/2026/06/30/business/dealbook/supreme-court-fed-ftc-regulatory-agencies.html) |
+| 2026-06-30 | How Grindr’s C.E.O. Adopted A.I.: ‘I Just Imposed It’ | NYT · AI | AI | news | 2026-06-30 | [link](https://www.nytimes.com/2026/06/30/business/grindr-ceo-george-arison-ai.html) |
+| 2026-06-30 | Bending Spoons, Owner of AOL and Other Old Internet Brands, Is Going Public | NYT · AI | AI | news | 2026-06-30 | [link](https://www.nytimes.com/2026/06/30/technology/bending-spoons-ipo-aol-vimeo-eventbrite.html) |
+| 2026-06-30 | Stocks Notch Strongest Quarter Since 2020 | NYT · Business | Business | news | 2026-06-30 | [link](https://www.nytimes.com/2026/06/30/business/oil-gas-prices-iran.html) |
+| 2026-06-30 | Chinese A.I. Models Gain Ground on Anthropic and OpenAI | NYT · Technology | Technology | news | 2026-07-01 | [link](https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html) |
+| 2026-06-30 | Could Comcast and NBCUniversal Do Deals After They Break Up? | NYT · Business | Business | news | 2026-06-29 | [link](https://www.nytimes.com/2026/06/29/business/dealbook/comcast-nbcuniversal-deals.html) |
+| 2026-06-30 | A.I. Is Strangling Our Economy | NYT · Opinion | Opinion | opinion | 2026-06-30 | [link](https://www.nytimes.com/2026/06/29/opinion/ai-economy-affordability.html) |
+| 2026-06-30 | C.I.A. Reorganization Prioritizes Cyberoperations | NYT · AI | AI | news | 2026-06-30 | [link](https://www.nytimes.com/2026/06/30/us/politics/cia-reorganization-cyber-ai.html) |
+| 2026-06-30 | Despite Some Losses for Trump, Supreme Court Delivers Enduring Conservative Wins | NYT · Politics | Politics | news | 2026-07-01 | [link](https://www.nytimes.com/2026/07/01/us/politics/supreme-court-term-trump-conservatives.html) |
+| 2026-06-30 | Takeaways From a Transformative Supreme Court Term | NYT · Politics | Politics | news | 2026-07-01 | [link](https://www.nytimes.com/2026/06/30/us/politics/supreme-court-takeaways-term.html) |
+| 2026-06-30 | Neon Buys ‘Artificial,’ a Film About OpenAI, After Amazon Dropped It | NYT · AI | AI | news | 2026-06-30 | [link](https://www.nytimes.com/2026/06/30/business/media/openai-movie-artificial-neon-amazon.html) |
+| 2026-06-30 | How A.I. Is Changing the Way Politicians Run for Office | NYT · Technology | Technology | news | 2026-06-30 | [link](https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html) |
+| 2026-06-30 | How A.I. Might Change the Way Doctors Think | NYT · AI | AI | news | 2026-07-01 | [link](https://www.nytimes.com/2026/07/01/magazine/ai-medical-scribes-doctors.html) |
+| 2026-06-30 | China’s Plan to Save Jobs From A.I. | NYT · AI | AI | news | 2026-07-01 | [link](https://www.nytimes.com/2026/06/30/world/china-ai-jobs-birthright-hormuz.html) |
+| 2026-06-30 | Apple, Micron, OpenAI and A.I.’s Rough Summer | NYT · Business | Business | news | 2026-06-26 | [link](https://www.nytimes.com/2026/06/26/business/dealbook/ai-openai-ipo-slump.html) |
+| 2026-06-30 | Your Home Could Help Solve AI’s Growing Power Demand | NYT · Energy & Environment | Energy & Environment | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html) |
+| 2026-06-30 | Is the Supreme Court Incoherent? Independent? 3 Legal Scholars Assess a Tumultuous Term. | NYT · Opinion | Opinion | opinion | 2026-07-01 | [link](https://www.nytimes.com/2026/07/01/opinion/supreme-court-birthright-citizenship-slaughter.html) |
+| 2026-06-30 | The Real A.I. Race Isn’t America vs. China | NYT · Opinion | Opinion | opinion | 2026-06-29 | [link](https://www.nytimes.com/2026/06/28/opinion/ai-race-china-us.html) |
+| 2026-06-30 | What's new in Claude Sonnet 5 | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-30 | [link](https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything) |
+| 2026-06-30 | Weekly Update 510: Live From Mallorca with Scott Helme | Troy Hunt · Security & Privacy | Security | tech | 2026-06-30 | [link](https://www.troyhunt.com/weekly-update-510/) |
+| 2026-06-30 | Data Breach at Indian Supplier Tata Electronics Exposes iPhone 18 Pro Details and Photos | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-30 | [link](https://www.reuters.com/business/media-telecom/apple-iphone-18-pro-supplier-list-parts-photos-exposed-tata-data-leak-2026-06-29/) |
+| 2026-06-30 | Nano Banana 2 Lite | Simon Willison · Tech & Engineering | Technology | tech | 2026-06-30 | [link](https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything) |
+| 2026-06-30 | U.K. Regulator Considers Requiring App Store to Allow Steering to the Web, and iOS NFC to Be Open | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-06-30 | [link](https://www.reuters.com/world/uk-regulator-proposes-easing-apple-google-app-store-payment-rules-2026-06-30/) |
+| 2026-06-30 | Book Review: Fake Creativity by Blake Loch ★★★☆☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-06-30 | [link](https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/) |
+| 2026-06-30 | Fable 5 is coming back! | Reddit | Business | social | 2026-06-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uk5st3/fable_5_is_coming_back/) |
+| 2026-06-30 | Introducing Claude Sonnet 5, our most agentic Sonnet yet. | Reddit | Business | social | 2026-06-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ujwggp/introducing_claude_sonnet_5_our_most_agentic/) |
+| 2026-06-30 | Anthropic embedded spyware in Claude Code — and attempted to hide it from you | Reddit | Business | social | 2026-06-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ujila1/anthropic_embedded_spyware_in_claude_code_and/) |
+| 2026-06-30 | Claude Mythos 5/Fable 5 export restrictions lifted | Reddit | Business | social | 2026-06-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uk5ihe/claude_mythos_5fable_5_export_restrictions_lifted/) |
+| 2026-06-30 | Introducing Claude Sonnet 5 | Reddit | Business | social | 2026-06-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ujwgqz/introducing_claude_sonnet_5/) |
+| 2026-06-30 | Claude Desktop is now available on Linux (Ubuntu and Debian) in beta. | Reddit | Business | social | 2026-06-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ujtlbb/claude_desktop_is_now_available_on_linux_ubuntu/) |
+| 2026-06-30 | update on politician lie detector | Reddit | Business | social | 2026-06-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ujsdaz/update_on_politician_lie_detector/) |
+| 2026-06-30 | Sonnet 5 is worse than Opus at the same price at high and xhigh? | Reddit | Business | social | 2026-06-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ujx3rw/sonnet_5_is_worse_than_opus_at_the_same_price_at/) |
+| 2026-06-30 | Anthropic says Claude Fable 5 and Mythos 5 are coming back tomorrow | Reddit | Business | social | 2026-06-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uk5ufm/anthropic_says_claude_fable_5_and_mythos_5_are/) |
+| 2026-06-30 | Claude hallucinated its own internal tools, freaked out, and accused me of a prompt injection attack | Reddit | Business | social | 2026-06-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ujd4vb/claude_hallucinated_its_own_internal_tools/) |
+| 2026-06-30 | Sonnet 5 is finally here…. | Reddit | Business | social | 2026-06-30 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ujxuo1/sonnet_5_is_finally_here/) |
+| 2026-06-30 | Claude Fable 5 looks set to return behind ID verification and usage credits, and “US only” access se | Reddit | Business | social | 2026-06-30 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ujosa9/claude_fable_5_looks_set_to_return_behind_id/) |
+| 2026-06-30 | Introducing Claude Sonnet 5, our most agentic Sonnet yet. | Reddit | Business | social | 2026-06-30 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ujwgi1/introducing_claude_sonnet_5_our_most_agentic/) |
+| 2026-06-30 | Me and Opus just became lifelong friends | Reddit | Business | social | 2026-06-30 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ujosnl/me_and_opus_just_became_lifelong_friends/) |
+| 2026-06-30 | Fable 5 and Mythos returns tomorrow | Reddit | Business | social | 2026-06-30 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uk5t7g/fable_5_and_mythos_returns_tomorrow/) |
+| 2026-06-30 | belki 0.2 — a calm Todoist-like task manager for Obsidian, stored as local Markdown | Reddit | Business | social | 2026-06-30 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ujia8b/belki_02_a_calm_todoistlike_task_manager_for/) |
+| 2026-06-30 | Does Anyone Know How This Person Made Their Obsidian Vault Look So Beautiful? | Reddit | Business | social | 2026-06-30 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ujc737/does_anyone_know_how_this_person_made_their/) |
+| 2026-06-30 | Coming Soon: Adaptive Practice | Reddit | Business | social | 2026-06-30 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ujtwht/coming_soon_adaptive_practice/) |
+| 2026-06-30 | Feature Suggestion: Obsidian Bases Card view summaries | Reddit | Business | social | 2026-06-30 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ujw75q/feature_suggestion_obsidian_bases_card_view/) |
+| 2026-06-30 | Flowershow now supports optional knowledge graphs for published Obsidian notes | Reddit | Business | social | 2026-06-30 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ujnzeo/flowershow_now_supports_optional_knowledge_graphs/) |
+| 2026-06-30 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-29 | Qwen 3.6 27B is the sweet spot for local development | HN | Technology | tech | 2026-06-29 | [link](https://quesma.com/blog/qwen-36-is-awesome/) |
 | 2026-06-29 | Pollen tried to remove my article and Google is assisting with it | HN | Technology | tech | 2026-06-29 | [link](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/) |
 | 2026-06-29 | The CEO of Mullvad is the main financer of the Swedish Örebro party | HN | Technology | tech | 2026-06-29 | [link](https://det.social/@lostgen/116820546568940358) |
