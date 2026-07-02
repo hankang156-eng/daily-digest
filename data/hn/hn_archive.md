@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-06-30 · 423 days · 4230 stories*
+*Last updated: 2026-07-02 · 424 days · 4240 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-01 | Wednesday | 1 | For first time, a cell built from scratch grows and divides | 857 | 276 | Technology | [link](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/) · [HN](https://news.ycombinator.com/item?id=48747304) |
+| 2026-07-01 | Wednesday | 2 | Physical disc production ending in Jan 2028 for new games on PlayStation | 717 | 710 | Technology | [link](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/) · [HN](https://news.ycombinator.com/item?id=48745456) |
+| 2026-07-01 | Wednesday | 3 | Most arguments are about ego, not ideas | 682 | 539 | Technology | [link](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html) · [HN](https://news.ycombinator.com/item?id=48746445) |
+| 2026-07-01 | Wednesday | 4 | Sony Deletes 551 Movies PlayStation Owners Paid For | 563 | 262 | Technology | [link](https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for) · [HN](https://news.ycombinator.com/item?id=48747389) |
+| 2026-07-01 | Wednesday | 5 | Asahi Linux 7.1 Progress Report | 548 | 204 | Technology | [link](https://asahilinux.org/2026/06/progress-report-7-1/) · [HN](https://news.ycombinator.com/item?id=48744518) |
+| 2026-07-01 | Wednesday | 6 | Godot will no longer accept AI-authored code contributions | 540 | 381 | Technology | [link](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/) · [HN](https://news.ycombinator.com/item?id=48743472) |
+| 2026-07-01 | Wednesday | 7 | Nintendo has raised its employees base salary by 10% | 522 | 321 | Technology | [link](https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/) · [HN](https://news.ycombinator.com/item?id=48745113) |
+| 2026-07-01 | Wednesday | 8 | Box3D, an open source 3D physics engine | 485 | 114 | Technology | [link](https://box2d.org/posts/2026/06/announcing-box3d/) · [HN](https://news.ycombinator.com/item?id=48745445) |
+| 2026-07-01 | Wednesday | 9 | A new Android malware from Google | 481 | 215 | Technology | [link](https://f-droid.org/2026/07/01/adv-malware.html) · [HN](https://news.ycombinator.com/item?id=48755965) |
+| 2026-07-01 | Wednesday | 10 | ZCode – Harness for GLM-5.2 | 398 | 295 | Technology | [link](https://zcode.z.ai/en) · [HN](https://news.ycombinator.com/item?id=48753715) |
 | 2026-06-29 | Monday | 1 | Qwen 3.6 27B is the sweet spot for local development | 925 | 618 | Technology | [link](https://quesma.com/blog/qwen-36-is-awesome/) · [HN](https://news.ycombinator.com/item?id=48721903) |
 | 2026-06-29 | Monday | 2 | Pollen tried to remove my article and Google is assisting with it | 888 | 126 | Technology | [link](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/) · [HN](https://news.ycombinator.com/item?id=48716902) |
 | 2026-06-29 | Monday | 3 | The CEO of Mullvad is the main financer of the Swedish Örebro party | 609 | 1359 | Technology | [link](https://det.social/@lostgen/116820546568940358) · [HN](https://news.ycombinator.com/item?id=48717469) |

@@ -1,9 +1,69 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-01 · 2984 items*
+*Last updated: 2026-07-02 · 3044 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-01 | For first time, a cell built from scratch grows and divides | HN | Technology | tech | 2026-07-01 | [link](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/) |
+| 2026-07-01 | Physical disc production ending in Jan 2028 for new games on PlayStation | HN | Technology | tech | 2026-07-01 | [link](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/) |
+| 2026-07-01 | Most arguments are about ego, not ideas | HN | Technology | tech | 2026-07-01 | [link](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html) |
+| 2026-07-01 | Sony Deletes 551 Movies PlayStation Owners Paid For | HN | Technology | tech | 2026-07-01 | [link](https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for) |
+| 2026-07-01 | Asahi Linux 7.1 Progress Report | HN | Technology | tech | 2026-07-01 | [link](https://asahilinux.org/2026/06/progress-report-7-1/) |
+| 2026-07-01 | Godot will no longer accept AI-authored code contributions | HN | Technology | tech | 2026-07-01 | [link](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/) |
+| 2026-07-01 | Nintendo has raised its employees base salary by 10% | HN | Technology | tech | 2026-07-01 | [link](https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/) |
+| 2026-07-01 | Box3D, an open source 3D physics engine | HN | Technology | tech | 2026-07-01 | [link](https://box2d.org/posts/2026/06/announcing-box3d/) |
+| 2026-07-01 | A new Android malware from Google | HN | Technology | tech | 2026-07-01 | [link](https://f-droid.org/2026/07/01/adv-malware.html) |
+| 2026-07-01 | ZCode – Harness for GLM-5.2 | HN | Technology | tech | 2026-07-01 | [link](https://zcode.z.ai/en) |
+| 2026-07-01 | FFmpeg 9.1's new AAC encoder | HN | Technology | tech | 2026-07-01 | [link](https://hydrogenaudio.org/index.php/topic,129691.0.html) |
+| 2026-07-01 | Fable 5 is Back | HN | Technology | tech | 2026-07-01 | [link](https://twitter.com/claudeai/status/2072402636813607381) |
+| 2026-07-01 | What to learn to be a graphics programmer | HN | Technology | tech | 2026-07-01 | [link](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/) |
+| 2026-07-01 | Show HN: Searchable directory of 22k+ products from worker-owned co-ops | HN | Technology | tech | 2026-07-01 | [link](https://www.workerowned.info/) |
+| 2026-07-01 | Frog-derived gut bacterium eradicates tumors in mice | HN | Technology | tech | 2026-07-01 | [link](https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium) |
+| 2026-07-01 | Internal Combustion Engine (2021) | HN | Technology | tech | 2026-07-01 | [link](https://ciechanow.ski/internal-combustion-engine/) |
+| 2026-07-01 | A.I. Is Reshaping the Economy. Good Luck Measuring How. | NYT · AI | AI | news | 2026-07-02 | [link](https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html) |
+| 2026-07-01 | As Companies Race for Cheaper A.I. Options, This Start-Up Pitches a Solution | NYT · AI | AI | news | 2026-07-01 | [link](https://www.nytimes.com/2026/07/01/business/dealbook/together-ai-funding.html) |
+| 2026-07-01 | Anthropic Won a Reprieve From the Trump Administration. Is It Enough? | NYT · AI | AI | news | 2026-07-01 | [link](https://www.nytimes.com/2026/07/01/business/dealbook/anthropic-fable-mythos-trump.html) |
+| 2026-07-01 | U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models | NYT · AI | AI | news | 2026-07-01 | [link](https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html) |
+| 2026-07-01 | China’s Plan to Save Jobs From A.I. | NYT · AI | AI | news | 2026-07-01 | [link](https://www.nytimes.com/2026/06/30/world/china-ai-jobs-birthright-hormuz.html) |
+| 2026-07-01 | Stocks Notch Strongest Quarter Since 2020 | NYT · Business | Business | news | 2026-07-01 | [link](https://www.nytimes.com/2026/06/30/business/oil-gas-prices-iran.html) |
+| 2026-07-01 | Can Companies Embrace A.I. Without Layoffs? This One Says It Is Trying to. | NYT · AI | AI | news | 2026-07-02 | [link](https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html) |
+| 2026-07-01 | Chinese A.I. Models Gain Ground on Anthropic and OpenAI | NYT · Technology | Technology | news | 2026-07-01 | [link](https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html) |
+| 2026-07-01 | How the Supreme Court Ushered in Corporate Chaos in D.C. | NYT · Business | Business | news | 2026-06-30 | [link](https://www.nytimes.com/2026/06/30/business/dealbook/supreme-court-fed-ftc-regulatory-agencies.html) |
+| 2026-07-01 | Fed’s Warsh Says Inflation Poses Less Risk Than a Few Weeks Ago | NYT · Business | Business | news | 2026-07-01 | [link](https://www.nytimes.com/2026/07/01/business/kevin-warsh-inflation-ecb.html) |
+| 2026-07-01 | U.S. to Overhaul Radiation Safety Rules to Spur Nuclear Expansion | NYT · Energy & Environment | Energy & Environment | news | 2026-07-01 | [link](https://www.nytimes.com/2026/07/01/climate/nrc-radiation-regulation-nuclear-overhaul.html) |
+| 2026-07-01 | Who Can Sell ‘6 7’ Chicken Nuggets? One Company Is Asking a Court to Decide. | NYT · Business | Business | news | 2026-07-01 | [link](https://www.nytimes.com/2026/07/01/us/perdue-chicken-nuggets-lawsuit-6-7.html) |
+| 2026-07-01 | You’re Going to Get Hacked. The Only Solution Is to Abandon Your Shame. | NYT · AI | AI | opinion | 2026-07-02 | [link](https://www.nytimes.com/2026/07/02/opinion/hacking-ai-leaks-shame.html) |
+| 2026-07-01 | Where Trump Won and Lost at the Supreme Court | NYT · U.S. | U.S. | news | 2026-07-01 | [link](https://www.nytimes.com/video/us/100000011001507/where-trump-won-and-lost-at-the-supreme-court.html) |
+| 2026-07-01 | A.I. Is Strangling Our Economy | NYT · Opinion | Opinion | opinion | 2026-06-30 | [link](https://www.nytimes.com/2026/06/29/opinion/ai-economy-affordability.html) |
+| 2026-07-01 | Bending Spoons, Owner of AOL and Other Old Internet Brands, Is Going Public | NYT · Technology | Technology | news | 2026-06-30 | [link](https://www.nytimes.com/2026/06/30/technology/bending-spoons-ipo-aol-vimeo-eventbrite.html) |
+| 2026-07-01 | Why A.I. Won’t Steal All Our Jobs | NYT · Opinion | Opinion | opinion | 2026-06-30 | [link](https://www.nytimes.com/2026/06/30/opinion/ai-agents-steal-jobs-employment.html) |
+| 2026-07-01 | Your Home Could Help Solve AI’s Growing Power Demand | NYT · Energy & Environment | Energy & Environment | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html) |
+| 2026-07-01 | Amy Coney Barrett Is the Lightning Rod | NYT · Opinion | Opinion | opinion | 2026-07-02 | [link](https://www.nytimes.com/2026/07/02/opinion/barrett-roverts-gorsuch-supreme-court-term.html) |
+| 2026-07-01 | Promising Much to Many, Johnson Loses His Grip on the House | NYT · Politics | Politics | news | 2026-07-01 | [link](https://www.nytimes.com/2026/07/01/us/politics/mike-johnson-house-majority.html) |
+| 2026-07-01 | 404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-01 | [link](https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/) |
+| 2026-07-01 | Valve Explains Why It Doesn’t Subsidize Its Hardware Platforms | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-01 | [link](https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing) |
+| 2026-07-01 | Superpower ChatGPT v8 is out + the new website is live | Superpower Daily · Tech & Engineering | Technology | tech | 2026-07-01 | [link](https://www.superpowerdaily.com/p/superpower-chatgpt-v8) |
+| 2026-07-01 | Fable 5 is back. | Reddit | Business | social | 2026-07-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ukvjyn/fable_5_is_back/) |
+| 2026-07-01 | Friendly reminder to have Fable 5 write skills NOW to tell Opus 4.8 how it should behave and think w | Reddit | Business | social | 2026-07-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ukynrw/friendly_reminder_to_have_fable_5_write_skills/) |
+| 2026-07-01 | Fable available for plans until July 7th after which it becomes usage credit based | Reddit | Business | social | 2026-07-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ukafrm/fable_available_for_plans_until_july_7th_after/) |
+| 2026-07-01 | It's time! | Reddit | Business | social | 2026-07-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ukwleb/its_time/) |
+| 2026-07-01 | Looks like Anthropic quietly updated the Sonnet 5 'Agentic search' benchmark graph overnight | Reddit | Business | social | 2026-07-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ukgqwr/looks_like_anthropic_quietly_updated_the_sonnet_5/) |
+| 2026-07-01 | Fable 5 leaked chain-of-thought in web interface, and the rambling is kind of unsettling and cute | Reddit | Business | social | 2026-07-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ul1396/fable_5_leaked_chainofthought_in_web_interface/) |
+| 2026-07-01 | I can't be the only one. | Reddit | Business | social | 2026-07-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ukariv/i_cant_be_the_only_one/) |
+| 2026-07-01 | Claude feels like cheating. | Reddit | Business | social | 2026-07-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ukkrs0/claude_feels_like_cheating/) |
+| 2026-07-01 | 100% Have Fable 5 do this with your coding projects before it disappears from plan usage on July 7th | Reddit | Business | social | 2026-07-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ukaogz/100_have_fable_5_do_this_with_your_coding/) |
+| 2026-07-01 | Fable is going to be redirecting coding task to Opus 4.8 | Reddit | Business | social | 2026-07-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ukcmji/fable_is_going_to_be_redirecting_coding_task_to/) |
+| 2026-07-01 | Fable 5 will default to Opus 4.8 for coding tasks | Reddit | Business | social | 2026-07-01 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uks085/fable_5_will_default_to_opus_48_for_coding_tasks/) |
+| 2026-07-01 | Fable 5 back yay!! | Reddit | Business | social | 2026-07-01 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uk79mp/fable_5_back_yay/) |
+| 2026-07-01 | It's HERE!! | Reddit | Business | social | 2026-07-01 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ukvhx1/its_here/) |
+| 2026-07-01 | Sonnet 5 goes straight into the garbage bin... | Reddit | Business | social | 2026-07-01 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ukhzr5/sonnet_5_goes_straight_into_the_garbage_bin/) |
+| 2026-07-01 | No usage reset, underwhelming Sonnet 5, and only 50% Fable usage... Am I the only one who's really d | Reddit | Business | social | 2026-07-01 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ukgr65/no_usage_reset_underwhelming_sonnet_5_and_only_50/) |
+| 2026-07-01 | Obsidian Canvas usually crashes at 3,000 nodes. I built a custom DOM bypass to render 76,800 pixels  | Reddit | Business | social | 2026-07-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uko3vv/obsidian_canvas_usually_crashes_at_3000_nodes_i/) |
+| 2026-07-01 | Why does nobody talk about how many cool mermaid charts we can make in Obsidian | Reddit | Business | social | 2026-07-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uku529/why_does_nobody_talk_about_how_many_cool_mermaid/) |
+| 2026-07-01 | Seeing Obsidian mentioned in a Google Blog article is sort of cool. | Reddit | Business | social | 2026-07-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ukc8b8/seeing_obsidian_mentioned_in_a_google_blog/) |
+| 2026-07-01 | How can I make my balls prettier? | Reddit | Business | social | 2026-07-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ukw2sl/how_can_i_make_my_balls_prettier/) |
+| 2026-07-01 | Style Manager plugin now open for testing | Reddit | Business | social | 2026-07-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ukfdu7/style_manager_plugin_now_open_for_testing/) |
+| 2026-07-01 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-06-30 | Why A.I. Won’t Steal All Our Jobs | NYT · AI | AI | opinion | 2026-06-30 | [link](https://www.nytimes.com/2026/06/30/opinion/ai-agents-steal-jobs-employment.html) |
 | 2026-06-30 | U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models | NYT · AI | AI | news | 2026-07-01 | [link](https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html) |
 | 2026-06-30 | How the Supreme Court Ushered in Corporate Chaos in D.C. | NYT · Business | Business | news | 2026-06-30 | [link](https://www.nytimes.com/2026/06/30/business/dealbook/supreme-court-fed-ftc-regulatory-agencies.html) |
