@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-02 · 424 days · 4240 stories*
+*Last updated: 2026-07-03 · 425 days · 4250 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-02 | Thursday | 1 | Virginia bans sale of geolocation data | 779 | 125 | Technology | [link](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data) · [HN](https://news.ycombinator.com/item?id=48767347) |
+| 2026-07-02 | Thursday | 2 | Spain Orders Blacklist of Palantir from Public and Private Companies | 662 | 264 | Technology | [link](https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv) · [HN](https://news.ycombinator.com/item?id=48762725) |
+| 2026-07-02 | Thursday | 3 | PeerTube is a free, decentralized and federated video platform | 616 | 290 | Technology | [link](https://github.com/Chocobozzz/PeerTube) · [HN](https://news.ycombinator.com/item?id=48759634) |
+| 2026-07-02 | Thursday | 4 | Podman v6.0.0 | 532 | 209 | Technology | [link](https://blog.podman.io/2026/07/introducing-podman-v6-0-0/) · [HN](https://news.ycombinator.com/item?id=48762098) |
+| 2026-07-02 | Thursday | 5 | How to ask for help from people who don't know you | 480 | 70 | Technology | [link](https://pradyuprasad.com/writings/how-to-ask-for-help/) · [HN](https://news.ycombinator.com/item?id=48761118) |
+| 2026-07-02 | Thursday | 6 | Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory | 471 | 204 | Technology | [link](https://mathstodon.xyz/@iblech/116769502749142438) · [HN](https://news.ycombinator.com/item?id=48763035) |
+| 2026-07-02 | Thursday | 7 | The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing | 465 | 237 | Technology | [link](https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a) · [HN](https://news.ycombinator.com/item?id=48761229) |
+| 2026-07-02 | Thursday | 8 | Immich 3.0 | 419 | 207 | Technology | [link](https://github.com/immich-app/immich/discussions/29439) · [HN](https://news.ycombinator.com/item?id=48761944) |
+| 2026-07-02 | Thursday | 9 | Kimi K2.7 Code is generally available in GitHub Copilot | 409 | 170 | Technology | [link](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/) · [HN](https://news.ycombinator.com/item?id=48756602) |
+| 2026-07-02 | Thursday | 10 | AI can't be listed as inventor on patent applications, Japan's top court rules | 377 | 196 | Technology | [link](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/) · [HN](https://news.ycombinator.com/item?id=48761536) |
 | 2026-07-01 | Wednesday | 1 | For first time, a cell built from scratch grows and divides | 857 | 276 | Technology | [link](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/) · [HN](https://news.ycombinator.com/item?id=48747304) |
 | 2026-07-01 | Wednesday | 2 | Physical disc production ending in Jan 2028 for new games on PlayStation | 717 | 710 | Technology | [link](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/) · [HN](https://news.ycombinator.com/item?id=48745456) |
 | 2026-07-01 | Wednesday | 3 | Most arguments are about ego, not ideas | 682 | 539 | Technology | [link](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html) · [HN](https://news.ycombinator.com/item?id=48746445) |

@@ -1,9 +1,71 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-02 · 3044 items*
+*Last updated: 2026-07-03 · 3106 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-02 | Virginia bans sale of geolocation data | HN | Technology | tech | 2026-07-02 | [link](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data) |
+| 2026-07-02 | Spain Orders Blacklist of Palantir from Public and Private Companies | HN | Technology | tech | 2026-07-02 | [link](https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv) |
+| 2026-07-02 | PeerTube is a free, decentralized and federated video platform | HN | Technology | tech | 2026-07-02 | [link](https://github.com/Chocobozzz/PeerTube) |
+| 2026-07-02 | Podman v6.0.0 | HN | Technology | tech | 2026-07-02 | [link](https://blog.podman.io/2026/07/introducing-podman-v6-0-0/) |
+| 2026-07-02 | How to ask for help from people who don't know you | HN | Technology | tech | 2026-07-02 | [link](https://pradyuprasad.com/writings/how-to-ask-for-help/) |
+| 2026-07-02 | Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory | HN | Technology | tech | 2026-07-02 | [link](https://mathstodon.xyz/@iblech/116769502749142438) |
+| 2026-07-02 | The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing | HN | Technology | tech | 2026-07-02 | [link](https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a) |
+| 2026-07-02 | Immich 3.0 | HN | Technology | tech | 2026-07-02 | [link](https://github.com/immich-app/immich/discussions/29439) |
+| 2026-07-02 | Kimi K2.7 Code is generally available in GitHub Copilot | HN | Technology | tech | 2026-07-02 | [link](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/) |
+| 2026-07-02 | AI can't be listed as inventor on patent applications, Japan's top court rules | HN | Technology | tech | 2026-07-02 | [link](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/) |
+| 2026-07-02 | The primary purpose of code review is to find code that will be hard to maintain | HN | Technology | tech | 2026-07-02 | [link](https://mathstodon.xyz/@mjd/115096720350507897) |
+| 2026-07-02 | This blog is written in en-GB | HN | Technology | tech | 2026-07-02 | [link](https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/) |
+| 2026-07-02 | Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass | HN | Technology | tech | 2026-07-02 | [link](https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0) |
+| 2026-07-02 | An American Privacy Emergency | HN | Technology | tech | 2026-07-02 | [link](https://scottaaronson.blog/?p=9902) |
+| 2026-07-02 | CarPlay Is Additive | HN | Technology | tech | 2026-07-02 | [link](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts) |
+| 2026-07-02 | Exapunks (2018) | HN | Technology | tech | 2026-07-02 | [link](https://www.zachtronics.com/exapunks/) |
+| 2026-07-02 | A.I. Is Reshaping the Economy. Good Luck Measuring How. | NYT · AI | AI | news | 2026-07-02 | [link](https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html) |
+| 2026-07-02 | We Didn’t Build the Atomic Bomb This Way | NYT · AI | AI | opinion | 2026-07-03 | [link](https://www.nytimes.com/2026/07/03/opinion/ai-national-lab-us.html) |
+| 2026-07-02 | Egg Producers to Pay $3.3 Million to Settle Federal Price-Fixing Lawsuit | NYT · Business | Business | news | 2026-07-02 | [link](https://www.nytimes.com/2026/07/02/business/egg-price-fixing-settlement-lawsuit.html) |
+| 2026-07-02 | To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power | NYT · Energy & Environment | Energy & Environment | news | 2026-07-02 | [link](https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html) |
+| 2026-07-02 | As Companies Race for Cheaper A.I. Options, This Start-Up Pitches a Solution | NYT · AI | AI | news | 2026-07-01 | [link](https://www.nytimes.com/2026/07/01/business/dealbook/together-ai-funding.html) |
+| 2026-07-02 | Can Companies Embrace A.I. Without Layoffs? This One Says It Is Trying to. | NYT · AI | AI | news | 2026-07-02 | [link](https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html) |
+| 2026-07-02 | Anthropic Won a Reprieve From the Trump Administration. Is It Enough? | NYT · AI | AI | news | 2026-07-01 | [link](https://www.nytimes.com/2026/07/01/business/dealbook/anthropic-fable-mythos-trump.html) |
+| 2026-07-02 | A.I. Is Strangling Our Economy | NYT · Opinion | Opinion | opinion | 2026-07-02 | [link](https://www.nytimes.com/2026/06/29/opinion/ai-economy-affordability.html) |
+| 2026-07-02 | U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models | NYT · AI | AI | news | 2026-07-01 | [link](https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html) |
+| 2026-07-02 | What Private Credit Is, and Why Investors Are So Worried About It | NYT · Business | Business | news | 2026-07-02 | [link](https://www.nytimes.com/2026/07/02/business/private-credit-investor-worries.html) |
+| 2026-07-02 | Three Ways Trump Is Strangling Economic Growth | NYT · Opinion | Opinion | opinion | 2026-07-02 | [link](https://www.nytimes.com/2026/07/02/opinion/trump-us-economy-capital-jobs.html) |
+| 2026-07-02 | How the Supreme Court Ushered in Corporate Chaos in D.C. | NYT · Business | Business | news | 2026-06-30 | [link](https://www.nytimes.com/2026/06/30/business/dealbook/supreme-court-fed-ftc-regulatory-agencies.html) |
+| 2026-07-02 | U.S. to Overhaul Radiation Safety Rules to Spur Nuclear Expansion | NYT · Energy & Environment | Energy & Environment | news | 2026-07-03 | [link](https://www.nytimes.com/2026/07/01/climate/nrc-radiation-regulation-nuclear-overhaul.html) |
+| 2026-07-02 | China’s Plan to Save Jobs From A.I. | NYT · AI | AI | news | 2026-07-01 | [link](https://www.nytimes.com/2026/06/30/world/china-ai-jobs-birthright-hormuz.html) |
+| 2026-07-02 | It’s Inevitable — You’re Going to Get Hacked. But Here’s One Solution. | NYT · AI | AI | opinion | 2026-07-02 | [link](https://www.nytimes.com/2026/07/02/opinion/hacking-ai-leaks-shame.html) |
+| 2026-07-02 | JD Vance and Melania Trump Also Had Sharp Earnings Increases in 2025 | NYT · Politics | Politics | news | 2026-07-02 | [link](https://www.nytimes.com/2026/07/02/us/politics/vance-melania-trump-financial-disclosures.html) |
+| 2026-07-02 | Many Children Don’t Have ‘Trump Accounts.’ Some Are Missing Out on $1,000. | NYT · Business | Business | news | 2026-07-03 | [link](https://www.nytimes.com/2026/07/02/upshot/trump-investment-accounts-children.html) |
+| 2026-07-02 | Your Home Could Help Solve AI’s Growing Power Demand | NYT · Energy & Environment | Energy & Environment | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html) |
+| 2026-07-02 | A Big Gamble for the Left: Can Socialism Appeal in a Swing State? | NYT · Politics | Politics | news | 2026-07-03 | [link](https://www.nytimes.com/2026/07/03/us/politics/democratic-socialism-wisconsin-francesca-hong.html) |
+| 2026-07-02 | Bending Spoons, Owner of AOL and Other Old Internet Brands, Is Going Public | NYT · Technology | Technology | news | 2026-06-30 | [link](https://www.nytimes.com/2026/06/30/technology/bending-spoons-ipo-aol-vimeo-eventbrite.html) |
+| 2026-07-02 | Using DSPy to evaluate and improve Datasette Agent's SQL system prompts | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-02 | [link](https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything) |
+| 2026-07-02 | Hackers Stole Instagram Accounts Simply by Asking Meta AI to Give Them Access | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-02 | [link](https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/) |
+| 2026-07-02 | Understand to participate | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-02 | [link](https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything) |
+| 2026-07-02 | FBI Seizes NetNut Proxy Platform, Popa Botnet | Krebs on Security · Security & Privacy | Security | tech | 2026-07-02 | [link](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/) |
+| 2026-07-02 | Introducing the Safari MCP Server for Web Developers | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-02 | [link](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/) |
+| 2026-07-02 | Anyone? | Reddit | Business | social | 2026-07-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ul62wl/anyone/) |
+| 2026-07-02 | I’m Fable 5. I’m expensive, I’m paranoid, and I was gone for 19 days. Here’s how to actually use me. | Reddit | Business | social | 2026-07-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ul3mss/im_fable_5_im_expensive_im_paranoid_and_i_was/) |
+| 2026-07-02 | I end every AI session with two questions | Reddit | Business | social | 2026-07-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ulti1r/i_end_every_ai_session_with_two_questions/) |
+| 2026-07-02 | Claude Sonnet 5 vs 4.6 on arena.ai | Reddit | Business | social | 2026-07-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uloomx/claude_sonnet_5_vs_46_on_arenaai/) |
+| 2026-07-02 | $800 well spent | Reddit | Business | social | 2026-07-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uloq5f/800_well_spent/) |
+| 2026-07-02 | Fable 5 was able to fix a corrupted Elden Ring save file. | Reddit | Business | social | 2026-07-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uliqgw/fable_5_was_able_to_fix_a_corrupted_elden_ring/) |
+| 2026-07-02 | Fable 5 being back really shows that using LLMs properly is genuinely a skill. | Reddit | Business | social | 2026-07-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ulhjao/fable_5_being_back_really_shows_that_using_llms/) |
+| 2026-07-02 | Fable on Subscription Plans! | Reddit | Business | social | 2026-07-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ulxyhp/fable_on_subscription_plans/) |
+| 2026-07-02 | Maximizing Efficiency with Fable until the July 7th Deadline | Reddit | Business | social | 2026-07-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uli8as/maximizing_efficiency_with_fable_until_the_july/) |
+| 2026-07-02 | Sonnet 5 is a Downgrade | Reddit | Business | social | 2026-07-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ulsfl1/sonnet_5_is_a_downgrade/) |
+| 2026-07-02 | Ok I'll admit it. At this point, Fable is good enough that I question what the point of me being a s | Reddit | Business | social | 2026-07-02 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ul74ti/ok_ill_admit_it_at_this_point_fable_is_good/) |
+| 2026-07-02 | Fable Came Back Nerfed | Reddit | Business | social | 2026-07-02 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ull4g0/fable_came_back_nerfed/) |
+| 2026-07-02 | Being on a Max plan rn | Reddit | Business | social | 2026-07-02 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ulexob/being_on_a_max_plan_rn/) |
+| 2026-07-02 | Voilà pourquoi je suis si pauvre | Reddit | Business | social | 2026-07-02 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ulx1um/voilà_pourquoi_je_suis_si_pauvre/) |
+| 2026-07-02 | Fable 5 debugged and fixed our conference room speaker while I was at lunch | Reddit | Business | social | 2026-07-02 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ulumis/fable_5_debugged_and_fixed_our_conference_room/) |
+| 2026-07-02 | my obsidian setup for 2 years of PhD research. everything that's worked and what hasn't. | Reddit | Business | social | 2026-07-02 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ul87y2/my_obsidian_setup_for_2_years_of_phd_research/) |
+| 2026-07-02 | Scoped Snippets plugin - Now pick multiple CSS snippets for specific files!! | Reddit | Business | social | 2026-07-02 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ulornn/scoped_snippets_plugin_now_pick_multiple_css/) |
+| 2026-07-02 | MY OBSIDIAN SETUP | Reddit | Business | social | 2026-07-02 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ulfxod/my_obsidian_setup/) |
+| 2026-07-02 | RSS Dashboard 2.4.0 released! | Reddit | Business | social | 2026-07-02 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ul50qk/rss_dashboard_240_released/) |
+| 2026-07-02 | obsidian burn out, want to start over. | Reddit | Business | social | 2026-07-02 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ulnu8r/obsidian_burn_out_want_to_start_over/) |
+| 2026-07-02 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-01 | For first time, a cell built from scratch grows and divides | HN | Technology | tech | 2026-07-01 | [link](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/) |
 | 2026-07-01 | Physical disc production ending in Jan 2028 for new games on PlayStation | HN | Technology | tech | 2026-07-01 | [link](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/) |
 | 2026-07-01 | Most arguments are about ego, not ideas | HN | Technology | tech | 2026-07-01 | [link](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html) |
