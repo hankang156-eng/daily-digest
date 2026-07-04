@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-03 · 425 days · 4250 stories*
+*Last updated: 2026-07-04 · 426 days · 4260 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-03 | Friday | 1 | Half-Baked Product | 1276 | 382 | Technology | [link](https://weli.dev/blog/half-baked-product/) · [HN](https://news.ycombinator.com/item?id=48772388) |
+| 2026-07-03 | Friday | 2 | Valve open-source the Steam Machine e-ink screen so you can make your own | 559 | 103 | Technology | [link](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/) · [HN](https://news.ycombinator.com/item?id=48774518) |
+| 2026-07-03 | Friday | 3 | Why Switzerland has 25 gbit internet and America doesn't | 531 | 428 | Technology | [link](https://stefan.schueller.net/posts/the-free-market-lie/) · [HN](https://news.ycombinator.com/item?id=48770647) |
+| 2026-07-03 | Friday | 4 | Costco is the anti-Amazon | 410 | 380 | Technology | [link](https://phenomenalworld.org/analysis/the-anti-amazon/) · [HN](https://news.ycombinator.com/item?id=48776044) |
+| 2026-07-03 | Friday | 5 | Espionage Against the European Parliament | 384 | 92 | Technology | [link](https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/) · [HN](https://news.ycombinator.com/item?id=48779683) |
+| 2026-07-03 | Friday | 6 | Jamesob's guide to running SOTA LLMs locally | 347 | 152 | Technology | [link](https://github.com/jamesob/local-llm) · [HN](https://news.ycombinator.com/item?id=48775921) |
+| 2026-07-03 | Friday | 7 | Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says | 328 | 276 | Technology | [link](https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/) · [HN](https://news.ycombinator.com/item?id=48772443) |
+| 2026-07-03 | Friday | 8 | Wordgard: In-browser rich-text editor from the creator of ProseMirror | 299 | 98 | Technology | [link](https://wordgard.net/) · [HN](https://news.ycombinator.com/item?id=48772573) |
+| 2026-07-03 | Friday | 9 | 60% Fable cost cut by converting code to images and having the model OCR it | 271 | 91 | Technology | [link](https://github.com/teamchong/pxpipe) · [HN](https://news.ycombinator.com/item?id=48776464) |
+| 2026-07-03 | Friday | 10 | Factories are just rooms | 247 | 102 | Technology | [link](https://interconnected.org/home/2026/07/03/factories) · [HN](https://news.ycombinator.com/item?id=48776035) |
 | 2026-07-02 | Thursday | 1 | Virginia bans sale of geolocation data | 779 | 125 | Technology | [link](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data) · [HN](https://news.ycombinator.com/item?id=48767347) |
 | 2026-07-02 | Thursday | 2 | Spain Orders Blacklist of Palantir from Public and Private Companies | 662 | 264 | Technology | [link](https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv) · [HN](https://news.ycombinator.com/item?id=48762725) |
 | 2026-07-02 | Thursday | 3 | PeerTube is a free, decentralized and federated video platform | 616 | 290 | Technology | [link](https://github.com/Chocobozzz/PeerTube) · [HN](https://news.ycombinator.com/item?id=48759634) |

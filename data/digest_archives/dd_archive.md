@@ -1,9 +1,65 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-03 · 3106 items*
+*Last updated: 2026-07-04 · 3162 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-03 | Half-Baked Product | HN | Technology | tech | 2026-07-03 | [link](https://weli.dev/blog/half-baked-product/) |
+| 2026-07-03 | Valve open-source the Steam Machine e-ink screen so you can make your own | HN | Technology | tech | 2026-07-03 | [link](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/) |
+| 2026-07-03 | Why Switzerland has 25 gbit internet and America doesn't | HN | Technology | tech | 2026-07-03 | [link](https://stefan.schueller.net/posts/the-free-market-lie/) |
+| 2026-07-03 | Costco is the anti-Amazon | HN | Technology | tech | 2026-07-03 | [link](https://phenomenalworld.org/analysis/the-anti-amazon/) |
+| 2026-07-03 | Espionage Against the European Parliament | HN | Technology | tech | 2026-07-03 | [link](https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/) |
+| 2026-07-03 | Jamesob's guide to running SOTA LLMs locally | HN | Technology | tech | 2026-07-03 | [link](https://github.com/jamesob/local-llm) |
+| 2026-07-03 | Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says | HN | Technology | tech | 2026-07-03 | [link](https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/) |
+| 2026-07-03 | Wordgard: In-browser rich-text editor from the creator of ProseMirror | HN | Technology | tech | 2026-07-03 | [link](https://wordgard.net/) |
+| 2026-07-03 | 60% Fable cost cut by converting code to images and having the model OCR it | HN | Technology | tech | 2026-07-03 | [link](https://github.com/teamchong/pxpipe) |
+| 2026-07-03 | Factories are just rooms | HN | Technology | tech | 2026-07-03 | [link](https://interconnected.org/home/2026/07/03/factories) |
+| 2026-07-03 | Performance per dollar is getting faster and cheaper | HN | Technology | tech | 2026-07-03 | [link](https://www.wafer.ai/blog/glm52-amd) |
+| 2026-07-03 | Zuckerberg 'Admits' Meta's Layoffs Were Ineffective | HN | Technology | tech | 2026-07-03 | [link](https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html) |
+| 2026-07-03 | Leanstral 1.5: Proof abundance for all | HN | Technology | tech | 2026-07-03 | [link](https://mistral.ai/news/leanstral-1-5/) |
+| 2026-07-03 | Please stop the AI confidence theater | HN | Technology | tech | 2026-07-03 | [link](https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater) |
+| 2026-07-03 | Markets are competitive if and only if P != NP | HN | Technology | tech | 2026-07-03 | [link](https://arxiv.org/abs/2602.20415) |
+| 2026-07-03 | Holes | HN | Technology | tech | 2026-07-03 | [link](https://xkcd.com/3266/large/) |
+| 2026-07-03 | We Didn’t Build the Atomic Bomb This Way | NYT · AI | AI | opinion | 2026-07-03 | [link](https://www.nytimes.com/2026/07/03/opinion/ai-national-lab-us.html) |
+| 2026-07-03 | Are the ‘MANGOS’ Stocks Already Turning Soft? | NYT · AI | AI | news | 2026-07-04 | [link](https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html) |
+| 2026-07-03 | A.I. Is Reshaping the Economy. Good Luck Measuring How. | NYT · AI | AI | news | 2026-07-02 | [link](https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html) |
+| 2026-07-03 | ‘Who Should I Vote for?’ Voters Turn to A.I. Before Casting Their Ballots | NYT · AI | AI | news | 2026-07-04 | [link](https://www.nytimes.com/2026/07/04/us/politics/voters-ai-chatbots-elections.html) |
+| 2026-07-03 | Egg Producers to Pay $3.3 Million to Settle Federal Price-Fixing Lawsuit | NYT · Business | Business | news | 2026-07-02 | [link](https://www.nytimes.com/2026/07/02/business/egg-price-fixing-settlement-lawsuit.html) |
+| 2026-07-03 | As Companies Race for Cheaper A.I. Options, This Start-Up Pitches a Solution | NYT · AI | AI | news | 2026-07-01 | [link](https://www.nytimes.com/2026/07/01/business/dealbook/together-ai-funding.html) |
+| 2026-07-03 | Three Ways Trump Is Strangling Economic Growth | NYT · Opinion | Opinion | opinion | 2026-07-03 | [link](https://www.nytimes.com/2026/07/02/opinion/trump-us-economy-capital-jobs.html) |
+| 2026-07-03 | Anthropic Won a Reprieve From the Trump Administration. Is It Enough? | NYT · AI | AI | news | 2026-07-01 | [link](https://www.nytimes.com/2026/07/01/business/dealbook/anthropic-fable-mythos-trump.html) |
+| 2026-07-03 | U.S. to Overhaul Radiation Safety Rules to Spur Nuclear Expansion | NYT · Energy & Environment | Energy & Environment | news | 2026-07-03 | [link](https://www.nytimes.com/2026/07/01/climate/nrc-radiation-regulation-nuclear-overhaul.html) |
+| 2026-07-03 | U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models | NYT · AI | AI | news | 2026-07-01 | [link](https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html) |
+| 2026-07-03 | Why Some Banks Still Charge High Overdraft Fees | NYT · Business | Business | news | 2026-07-03 | [link](https://www.nytimes.com/2026/07/03/your-money/banks-overdraft-fees.html) |
+| 2026-07-03 | Can Companies Embrace A.I. Without Layoffs? This One Says It Is Trying to. | NYT · AI | AI | news | 2026-07-02 | [link](https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html) |
+| 2026-07-03 | Your Home Could Help Solve AI’s Growing Power Demand | NYT · Energy & Environment | Energy & Environment | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html) |
+| 2026-07-03 | The Small-Business Owners Managing Whole Armies of A.I. Employees | NYT · AI | AI | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html) |
+| 2026-07-03 | In Washington, oppressive heat alters plans for 250th celebrations. | NYT · Politics | Politics | news | 2026-07-04 | [link](https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/oppressive-heat-alters-plans-for-250th-celebrations-in-washington) |
+| 2026-07-03 | A Big Gamble for the Left: Can Socialism Appeal in a Swing State? | NYT · Politics | Politics | news | 2026-07-03 | [link](https://www.nytimes.com/2026/07/03/us/politics/democratic-socialism-wisconsin-francesca-hong.html) |
+| 2026-07-03 | Artificial Intelligence Floods Court Dockets with Home-Brewed Lawsuits | NYT · AI | AI | news | 2026-05-28 | [link](https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html) |
+| 2026-07-03 | Representative Joyce Beatty Still Celebrating Victory in Kennedy Center Legal Battle | NYT · Politics | Politics | news | 2026-07-04 | [link](https://www.nytimes.com/2026/07/04/us/politics/joyce-beatty-kennedy-center.html) |
+| 2026-07-03 | Bending Spoons, Owner of AOL and Other Old Internet Brands, Is Going Public | NYT · Technology | Technology | news | 2026-06-30 | [link](https://www.nytimes.com/2026/06/30/technology/bending-spoons-ipo-aol-vimeo-eventbrite.html) |
+| 2026-07-03 | Why A.I. Won’t Steal All Our Jobs | NYT · Opinion | Opinion | opinion | 2026-06-30 | [link](https://www.nytimes.com/2026/06/30/opinion/ai-agents-steal-jobs-employment.html) |
+| 2026-07-03 | Open Source AI Gap Map | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-03 | [link](https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything) |
+| 2026-07-03 | Swimming Pools, Pee, and Trying to Delete Your Data From the Internet | Troy Hunt · Security & Privacy | Security | tech | 2026-07-03 | [link](https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/) |
+| 2026-07-03 | Quoting Josh W. Comeau | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-03 | [link](https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything) |
+| 2026-07-03 | ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-03 | [link](https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job) |
+| 2026-07-03 | Legend Spotted | Reddit | Business | social | 2026-07-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1um5u8c/legend_spotted/) |
+| 2026-07-03 | I made a manual shifter for claude | Reddit | Business | social | 2026-07-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1um2m94/i_made_a_manual_shifter_for_claude/) |
+| 2026-07-03 | Fable 5 Max hit limit, I topped up $250, then one “hey” cost me ~$20? | Reddit | Business | social | 2026-07-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1um9j1u/fable_5_max_hit_limit_i_topped_up_250_then_one/) |
+| 2026-07-03 | Fable is one-shotting my entire backlog and I only have 7 days left with it | Reddit | Business | social | 2026-07-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ulztn9/fable_is_oneshotting_my_entire_backlog_and_i_only/) |
+| 2026-07-03 | Blackhole simulation with Fable | Reddit | Business | social | 2026-07-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1umrl1y/blackhole_simulation_with_fable/) |
+| 2026-07-03 | Fable Tokenmaxxing | Reddit | Business | social | 2026-07-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ume76u/fable_tokenmaxxing/) |
+| 2026-07-03 | Made a dashboard for my agent investing team | Reddit | Business | social | 2026-07-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1um1zne/made_a_dashboard_for_my_agent_investing_team/) |
+| 2026-07-03 | Fable sorted out a decade worth of writing/world-building and created wiki entries for everything | Reddit | Business | social | 2026-07-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1umtl8x/fable_sorted_out_a_decade_worth_of/) |
+| 2026-07-03 | What is the consensus is on Sonnet 5 a few days later? | Reddit | Business | social | 2026-07-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1umjud3/what_is_the_consensus_is_on_sonnet_5_a_few_days/) |
+| 2026-07-03 | I always use the voice to text with Claude, and I’m realizing that I speak like a moron | Reddit | Business | social | 2026-07-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1umhcaf/i_always_use_the_voice_to_text_with_claude_and_im/) |
+| 2026-07-03 | Sharing my search plugin Seek - A multi-language hybrid semantic search plugin that's 100% Obsidian  | Reddit | Business | social | 2026-07-03 | [link](https://www.reddit.com/r/ObsidianMD/comments/1umlufw/sharing_my_search_plugin_seek_a_multilanguage/) |
+| 2026-07-03 | Formatting bar/ribbon? | Reddit | Business | social | 2026-07-03 | [link](https://www.reddit.com/r/ObsidianMD/comments/1umjbek/formatting_barribbon/) |
+| 2026-07-03 | using obsidian to keep track of my wardrobe cause i dont like any of the sites/app dedicated to that | Reddit | Business | social | 2026-07-03 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ummyth/using_obsidian_to_keep_track_of_my_wardrobe_cause/) |
+| 2026-07-03 | NEW - v1.3.0 - Obsidian Task Manager Plugin | Reddit | Business | social | 2026-07-03 | [link](https://www.reddit.com/r/ObsidianMD/comments/1umo4os/new_v130_obsidian_task_manager_plugin/) |
+| 2026-07-03 | Just downloaded obsidian - best tips for a beginner? | Reddit | Business | social | 2026-07-03 | [link](https://www.reddit.com/r/ObsidianMD/comments/1um8wod/just_downloaded_obsidian_best_tips_for_a_beginner/) |
+| 2026-07-03 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-02 | Virginia bans sale of geolocation data | HN | Technology | tech | 2026-07-02 | [link](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data) |
 | 2026-07-02 | Spain Orders Blacklist of Palantir from Public and Private Companies | HN | Technology | tech | 2026-07-02 | [link](https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv) |
 | 2026-07-02 | PeerTube is a free, decentralized and federated video platform | HN | Technology | tech | 2026-07-02 | [link](https://github.com/Chocobozzz/PeerTube) |
