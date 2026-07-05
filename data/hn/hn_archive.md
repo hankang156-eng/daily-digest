@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-04 · 426 days · 4260 stories*
+*Last updated: 2026-07-05 · 427 days · 4270 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-04 | Saturday | 1 | The bottleneck might be the air in the room | 783 | 453 | Technology | [link](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/) · [HN](https://news.ycombinator.com/item?id=48783117) |
+| 2026-07-04 | Saturday | 2 | Leaking YouTube creators' private videos | 617 | 342 | Technology | [link](https://javoriuski.com/post/youtube) · [HN](https://news.ycombinator.com/item?id=48786781) |
+| 2026-07-04 | Saturday | 3 | Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable | 571 | 237 | Technology | [link](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main) · [HN](https://news.ycombinator.com/item?id=48788283) |
+| 2026-07-04 | Saturday | 4 | Explanation of everything you can see in htop/top on Linux (2019) | 471 | 59 | Technology | [link](https://peteris.rocks/blog/htop/) · [HN](https://news.ycombinator.com/item?id=48784777) |
+| 2026-07-04 | Saturday | 5 | Google Books (or similar) all book scans – $200k bounty (2025) | 468 | 261 | Technology | [link](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234) · [HN](https://news.ycombinator.com/item?id=48786838) |
+| 2026-07-04 | Saturday | 6 | Potential session/cache leakage between workspace instances or consumer accounts | 298 | 129 | Technology | [link](https://github.com/anthropics/claude-code/issues/74066) · [HN](https://news.ycombinator.com/item?id=48785485) |
+| 2026-07-04 | Saturday | 7 | GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance | 275 | 105 | Technology | [link](https://github.com/openai/codex/issues/30364) · [HN](https://news.ycombinator.com/item?id=48789428) |
+| 2026-07-04 | Saturday | 8 | Meta data center water discharges suspended for contaminating water supply | 229 | 77 | Technology | [link](https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system) · [HN](https://news.ycombinator.com/item?id=48786782) |
+| 2026-07-04 | Saturday | 9 | If you're a button, you have one job | 225 | 107 | Technology | [link](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/) · [HN](https://news.ycombinator.com/item?id=48790689) |
+| 2026-07-04 | Saturday | 10 | Zig: All Package Management Functionality Moved from Compiler to Build System | 205 | 66 | Technology | [link](https://ziglang.org/devlog/2026/#2026-06-30) · [HN](https://news.ycombinator.com/item?id=48786638) |
 | 2026-07-03 | Friday | 1 | Half-Baked Product | 1276 | 382 | Technology | [link](https://weli.dev/blog/half-baked-product/) · [HN](https://news.ycombinator.com/item?id=48772388) |
 | 2026-07-03 | Friday | 2 | Valve open-source the Steam Machine e-ink screen so you can make your own | 559 | 103 | Technology | [link](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/) · [HN](https://news.ycombinator.com/item?id=48774518) |
 | 2026-07-03 | Friday | 3 | Why Switzerland has 25 gbit internet and America doesn't | 531 | 428 | Technology | [link](https://stefan.schueller.net/posts/the-free-market-lie/) · [HN](https://news.ycombinator.com/item?id=48770647) |

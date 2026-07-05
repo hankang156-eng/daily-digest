@@ -1,9 +1,71 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-04 · 3162 items*
+*Last updated: 2026-07-05 · 3224 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-04 | The bottleneck might be the air in the room | HN | Technology | tech | 2026-07-04 | [link](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/) |
+| 2026-07-04 | Leaking YouTube creators' private videos | HN | Technology | tech | 2026-07-04 | [link](https://javoriuski.com/post/youtube) |
+| 2026-07-04 | Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable | HN | Technology | tech | 2026-07-04 | [link](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main) |
+| 2026-07-04 | Explanation of everything you can see in htop/top on Linux (2019) | HN | Technology | tech | 2026-07-04 | [link](https://peteris.rocks/blog/htop/) |
+| 2026-07-04 | Google Books (or similar) all book scans – $200k bounty (2025) | HN | Technology | tech | 2026-07-04 | [link](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234) |
+| 2026-07-04 | Potential session/cache leakage between workspace instances or consumer accounts | HN | Technology | tech | 2026-07-04 | [link](https://github.com/anthropics/claude-code/issues/74066) |
+| 2026-07-04 | GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance | HN | Technology | tech | 2026-07-04 | [link](https://github.com/openai/codex/issues/30364) |
+| 2026-07-04 | Meta data center water discharges suspended for contaminating water supply | HN | Technology | tech | 2026-07-04 | [link](https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system) |
+| 2026-07-04 | If you're a button, you have one job | HN | Technology | tech | 2026-07-04 | [link](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/) |
+| 2026-07-04 | Zig: All Package Management Functionality Moved from Compiler to Build System | HN | Technology | tech | 2026-07-04 | [link](https://ziglang.org/devlog/2026/#2026-06-30) |
+| 2026-07-04 | Astrophysicists Puzzle over Webb’s New Universe | HN | Technology | tech | 2026-07-04 | [link](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/) |
+| 2026-07-04 | Scientists reverse brain aging, with a nasal spray | HN | Technology | tech | 2026-07-04 | [link](https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/) |
+| 2026-07-04 | Better Models: Worse Tools | HN | Technology | tech | 2026-07-04 | [link](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/) |
+| 2026-07-04 | Agentic coding notes | HN | Technology | tech | 2026-07-04 | [link](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post) |
+| 2026-07-04 | Verizon is about to break our Gizmo watches | HN | Technology | tech | 2026-07-04 | [link](https://www.jefftk.com/p/verizon-is-about-to-break-our-watches) |
+| 2026-07-04 | Fable created novel 4D splat format | HN | Technology | tech | 2026-07-04 | [link](https://adamraudonis.github.io/splats4D/) |
+| 2026-07-04 | We Didn’t Build the Atomic Bomb This Way | NYT · AI | AI | opinion | 2026-07-04 | [link](https://www.nytimes.com/2026/07/03/opinion/ai-national-lab-us.html) |
+| 2026-07-04 | Are the ‘MANGOS’ Stocks Already Turning Soft? | NYT · AI | AI | news | 2026-07-04 | [link](https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html) |
+| 2026-07-04 | Taylor Swift’s Wedding Became a Marketing Moment for Brands Big and Small | NYT · AI | AI | news | 2026-07-05 | [link](https://www.nytimes.com/2026/07/05/style/taylor-swift-wedding-marketing-brands-ai.html) |
+| 2026-07-04 | A.I. Is Reshaping the Economy. Good Luck Measuring How. | NYT · AI | AI | news | 2026-07-02 | [link](https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html) |
+| 2026-07-04 | Wikipedia Is Battling for the Soul of the Internet | NYT · AI | AI | news | 2026-07-05 | [link](https://www.nytimes.com/2026/07/05/business/media/wikipedia-ai-elon-musk.html) |
+| 2026-07-04 | Egg Producers to Pay $3.3 Million to Settle Federal Price-Fixing Lawsuit | NYT · Business | Business | news | 2026-07-02 | [link](https://www.nytimes.com/2026/07/02/business/egg-price-fixing-settlement-lawsuit.html) |
+| 2026-07-04 | How Meta’s Threads Became as Popular as X | NYT · AI | AI | news | 2026-07-05 | [link](https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html) |
+| 2026-07-04 | The Revenge of the Philosophy Majors | NYT · AI | AI | news | 2026-07-05 | [link](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html) |
+| 2026-07-04 | ‘Who Should I Vote for?’ Voters Turn to A.I. Before Casting Their Ballots | NYT · AI | AI | news | 2026-07-04 | [link](https://www.nytimes.com/2026/07/04/us/politics/voters-ai-chatbots-elections.html) |
+| 2026-07-04 | Your Home Could Help Solve AI’s Growing Power Demand | NYT · Energy & Environment | Energy & Environment | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html) |
+| 2026-07-04 | Can Companies Embrace A.I. Without Layoffs? This One Says It Is Trying to. | NYT · AI | AI | news | 2026-07-02 | [link](https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html) |
+| 2026-07-04 | Three Ways Trump Is Strangling Economic Growth | NYT · Opinion | Opinion | opinion | 2026-07-03 | [link](https://www.nytimes.com/2026/07/02/opinion/trump-us-economy-capital-jobs.html) |
+| 2026-07-04 | The Bureaucratic Hell of Getting a Job in 2026 | NYT · AI | AI | opinion | 2026-07-04 | [link](https://www.nytimes.com/2026/07/04/opinion/purgatory-job-market.html) |
+| 2026-07-04 | U.S. to Overhaul Radiation Safety Rules to Spur Nuclear Expansion | NYT · Energy & Environment | Energy & Environment | news | 2026-07-03 | [link](https://www.nytimes.com/2026/07/01/climate/nrc-radiation-regulation-nuclear-overhaul.html) |
+| 2026-07-04 | In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough | NYT · Technology | Technology | news | 2026-07-05 | [link](https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html) |
+| 2026-07-04 | The Small-Business Owners Managing Whole Armies of A.I. Employees | NYT · AI | AI | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html) |
+| 2026-07-04 | Trump Administration Rolls Back Dozens of Gun Regulations | NYT · Politics | Politics | news | 2026-07-05 | [link](https://www.nytimes.com/2026/07/05/us/politics/trump-gun-rights-laws.html) |
+| 2026-07-04 | At Trump’s Direction, Federal Agencies Are Abandoning Discrimination Cases | NYT · Politics | Politics | news | 2026-07-05 | [link](https://www.nytimes.com/2026/07/05/us/politics/trump-dei-order-eeoc-discrimination.html) |
+| 2026-07-04 | Justice Alito Gives No Indication He’s Ready to Step Down From the Supreme Court | NYT · Politics | Politics | news | 2026-07-04 | [link](https://www.nytimes.com/2026/07/04/us/politics/justice-alito-influence-supreme-court.html) |
+| 2026-07-04 | Mega I.P.O. Frenzy Could Be a Harbinger of a Stock Bubble | NYT · Your Money | Your Money | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/business/spacex-ipo-musk-stock-bubble.html) |
+| 2026-07-04 | Better Models: Worse Tools | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-04 | [link](https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything) |
+| 2026-07-04 | Day One Journal | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-04 | [link](https://dayoneapp.com/blog/introducing-daily-chat/) |
+| 2026-07-04 | Building a World Map with only 500 bytes | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-04 | [link](https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything) |
+| 2026-07-04 | From the DF Archive: ‘Electron and the Decline of Native Apps’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-04 | [link](https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps) |
+| 2026-07-04 | Combined 1D and 2D Barcodes | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-07-04 | [link](https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/) |
+| 2026-07-04 | I cut my Fable token usage by 99.99%. I rewrote my entire codebase on a single grain of rice | Reddit | Business | social | 2026-07-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1un0byt/i_cut_my_fable_token_usage_by_9999_i_rewrote_my/) |
+| 2026-07-04 | My app made its first dollar 🥳 | Reddit | Business | social | 2026-07-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ungfuc/my_app_made_its_first_dollar/) |
+| 2026-07-04 | Day 37 of building GTA 6 using claude | Reddit | Business | social | 2026-07-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1un5xjf/day_37_of_building_gta_6_using_claude/) |
+| 2026-07-04 | Claude Code via Microsoft Foundry - no 5-hour or weekly limits | Reddit | Business | social | 2026-07-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1umx917/claude_code_via_microsoft_foundry_no_5hour_or/) |
+| 2026-07-04 | What am I supposed to use Fable for if I’m not building anything? | Reddit | Business | social | 2026-07-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1unhqwk/what_am_i_supposed_to_use_fable_for_if_im_not/) |
+| 2026-07-04 | Claude helped me crack new MacOS beta kernel's power management system CPMS. I can now overclock my  | Reddit | Business | social | 2026-07-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ungaiw/claude_helped_me_crack_new_macos_beta_kernels/) |
+| 2026-07-04 | Who’s spending this weekend squeezing every drop out of Fable 5 before it switches to usage credits? | Reddit | Business | social | 2026-07-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1un3irw/whos_spending_this_weekend_squeezing_every_drop/) |
+| 2026-07-04 | Cut your token use by 99.999% by writing your context with a 2kv scanning electron microscope | Reddit | Business | social | 2026-07-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1un0o4x/cut_your_token_use_by_99999_by_writing_your/) |
+| 2026-07-04 | Sonnet 5 subagents keep spawning their own subagents for the same task | Reddit | Business | social | 2026-07-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1un70tl/sonnet_5_subagents_keep_spawning_their_own/) |
+| 2026-07-04 | Fable and the future | Reddit | Business | social | 2026-07-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1un797g/fable_and_the_future/) |
+| 2026-07-04 | Claude examining it's own work is always funny | Reddit | Business | social | 2026-07-04 | [link](https://www.reddit.com/r/ClaudeCode/comments/1unfr52/claude_examining_its_own_work_is_always_funny/) |
+| 2026-07-04 | AI is turning programming into pay-to-win | Reddit | Business | social | 2026-07-04 | [link](https://www.reddit.com/r/ClaudeCode/comments/1un6otc/ai_is_turning_programming_into_paytowin/) |
+| 2026-07-04 | Fable pricing is a joke | Reddit | Business | social | 2026-07-04 | [link](https://www.reddit.com/r/ClaudeCode/comments/1unfp0j/fable_pricing_is_a_joke/) |
+| 2026-07-04 | Is this true? | Reddit | Business | social | 2026-07-04 | [link](https://www.reddit.com/r/ClaudeCode/comments/1unf22r/is_this_true/) |
+| 2026-07-04 | The inevitability of vibe coding | Reddit | Business | social | 2026-07-04 | [link](https://www.reddit.com/r/ClaudeCode/comments/1unar9p/the_inevitability_of_vibe_coding/) |
+| 2026-07-04 | flexcyon 2.0.0: Metamorphosis - 4 months in the making | Reddit | Business | social | 2026-07-04 | [link](https://www.reddit.com/r/ObsidianMD/comments/1un9p5u/flexcyon_200_metamorphosis_4_months_in_the_making/) |
+| 2026-07-04 | Retroma × Style Manager: CRT and pixelated icon filter coming in Retroma 3.0.0. Save your style sett | Reddit | Business | social | 2026-07-04 | [link](https://www.reddit.com/r/ObsidianMD/comments/1umw0pp/retroma_style_manager_crt_and_pixelated_icon/) |
+| 2026-07-04 | Kanban Moonlight | Reddit | Business | social | 2026-07-04 | [link](https://www.reddit.com/r/ObsidianMD/comments/1unc0v4/kanban_moonlight/) |
+| 2026-07-04 | What regularly annoys you about Obsidian... | Reddit | Business | social | 2026-07-04 | [link](https://www.reddit.com/r/ObsidianMD/comments/1unhgpe/what_regularly_annoys_you_about_obsidian/) |
+| 2026-07-04 | Made a plugin so Obsidian stops flagging your made-up words while worldbuilding | Reddit | Business | social | 2026-07-04 | [link](https://www.reddit.com/r/ObsidianMD/comments/1un7zfo/made_a_plugin_so_obsidian_stops_flagging_your/) |
+| 2026-07-04 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-03 | Half-Baked Product | HN | Technology | tech | 2026-07-03 | [link](https://weli.dev/blog/half-baked-product/) |
 | 2026-07-03 | Valve open-source the Steam Machine e-ink screen so you can make your own | HN | Technology | tech | 2026-07-03 | [link](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/) |
 | 2026-07-03 | Why Switzerland has 25 gbit internet and America doesn't | HN | Technology | tech | 2026-07-03 | [link](https://stefan.schueller.net/posts/the-free-market-lie/) |
