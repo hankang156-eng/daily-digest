@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-05 · 427 days · 4270 stories*
+*Last updated: 2026-07-06 · 428 days · 4280 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-05 | Sunday | 1 | Organic Maps | 992 | 302 | Technology | [link](https://organicmaps.app/) · [HN](https://news.ycombinator.com/item?id=48794446) |
+| 2026-07-05 | Sunday | 2 | OpenPrinter | 862 | 214 | Technology | [link](https://www.opentools.studio/) · [HN](https://news.ycombinator.com/item?id=48797916) |
+| 2026-07-05 | Sunday | 3 | It's not about physical vs. digital games, it's about ownership | 499 | 371 | Technology | [link](https://popcar.bearblog.dev/its-about-ownership/) · [HN](https://news.ycombinator.com/item?id=48794750) |
+| 2026-07-05 | Sunday | 4 | EU Council forces Chat Control via fast-track | 442 | 239 | Technology | [link](https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html) · [HN](https://news.ycombinator.com/item?id=48793393) |
+| 2026-07-05 | Sunday | 5 | The future of Flipper Zero development | 330 | 141 | Technology | [link](https://blog.flipper.net/future-of-flipper-zero-development/) · [HN](https://news.ycombinator.com/item?id=48796552) |
+| 2026-07-05 | Sunday | 6 | Has_not_been_viewed_much | 306 | 80 | Technology | [link](https://iamwillwang.com/notes/has-not-been-viewed-much/) · [HN](https://news.ycombinator.com/item?id=48799155) |
+| 2026-07-05 | Sunday | 7 | Introduction to Compilers and Language Design (2021) | 304 | 49 | Technology | [link](https://dthain.github.io/books/compiler/) · [HN](https://news.ycombinator.com/item?id=48793454) |
+| 2026-07-05 | Sunday | 8 | GPT-5.6 Sol Ultra will be in Codex | 288 | 222 | Technology | [link](https://twitter.com/thsottiaux/status/2073933490513752151) · [HN](https://news.ycombinator.com/item?id=48799614) |
+| 2026-07-05 | Sunday | 9 | Shadcn/UI now defaults to Base UI instead of Radix | 276 | 158 | Technology | [link](https://ui.shadcn.com/docs/changelog) · [HN](https://news.ycombinator.com/item?id=48791328) |
+| 2026-07-05 | Sunday | 10 | Starring the Computer | 230 | 51 | Technology | [link](https://www.starringthecomputer.com/computers.html) · [HN](https://news.ycombinator.com/item?id=48796093) |
 | 2026-07-04 | Saturday | 1 | The bottleneck might be the air in the room | 783 | 453 | Technology | [link](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/) · [HN](https://news.ycombinator.com/item?id=48783117) |
 | 2026-07-04 | Saturday | 2 | Leaking YouTube creators' private videos | 617 | 342 | Technology | [link](https://javoriuski.com/post/youtube) · [HN](https://news.ycombinator.com/item?id=48786781) |
 | 2026-07-04 | Saturday | 3 | Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable | 571 | 237 | Technology | [link](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main) · [HN](https://news.ycombinator.com/item?id=48788283) |

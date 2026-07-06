@@ -1,9 +1,67 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-05 · 3224 items*
+*Last updated: 2026-07-06 · 3282 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-05 | Organic Maps | HN | Technology | tech | 2026-07-05 | [link](https://organicmaps.app/) |
+| 2026-07-05 | OpenPrinter | HN | Technology | tech | 2026-07-05 | [link](https://www.opentools.studio/) |
+| 2026-07-05 | It's not about physical vs. digital games, it's about ownership | HN | Technology | tech | 2026-07-05 | [link](https://popcar.bearblog.dev/its-about-ownership/) |
+| 2026-07-05 | EU Council forces Chat Control via fast-track | HN | Technology | tech | 2026-07-05 | [link](https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html) |
+| 2026-07-05 | The future of Flipper Zero development | HN | Technology | tech | 2026-07-05 | [link](https://blog.flipper.net/future-of-flipper-zero-development/) |
+| 2026-07-05 | Has_not_been_viewed_much | HN | Technology | tech | 2026-07-05 | [link](https://iamwillwang.com/notes/has-not-been-viewed-much/) |
+| 2026-07-05 | Introduction to Compilers and Language Design (2021) | HN | Technology | tech | 2026-07-05 | [link](https://dthain.github.io/books/compiler/) |
+| 2026-07-05 | GPT-5.6 Sol Ultra will be in Codex | HN | Technology | tech | 2026-07-05 | [link](https://twitter.com/thsottiaux/status/2073933490513752151) |
+| 2026-07-05 | Shadcn/UI now defaults to Base UI instead of Radix | HN | Technology | tech | 2026-07-05 | [link](https://ui.shadcn.com/docs/changelog) |
+| 2026-07-05 | Starring the Computer | HN | Technology | tech | 2026-07-05 | [link](https://www.starringthecomputer.com/computers.html) |
+| 2026-07-05 | Completing a computer science degree on Coursera | HN | Technology | tech | 2026-07-05 | [link](https://notesbylex.com/completing-a-computer-science-degree-on-coursera) |
+| 2026-07-05 | Show HN: Homegames. An open-source game platform I've been making for 8 years | HN | Technology | tech | 2026-07-05 | [link](https://homegames.io) |
+| 2026-07-05 | Cannabis users face substantially higher risk of heart attack (2025) | HN | Technology | tech | 2026-07-05 | [link](https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk) |
+| 2026-07-05 | New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf] | HN | Technology | tech | 2026-07-05 | [link](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf) |
+| 2026-07-05 | Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills | HN | Technology | tech | 2026-07-05 | [link](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt) |
+| 2026-07-05 | Europe's new climate in seven charts | HN | Technology | tech | 2026-07-05 | [link](https://www.bbc.com/news/articles/c8e2j0j87reo) |
+| 2026-07-05 | Are the ‘MANGOS’ Stocks Already Turning Soft? | NYT · AI | AI | news | 2026-07-05 | [link](https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html) |
+| 2026-07-05 | Taylor Swift’s Wedding Became a Marketing Moment for Brands Big and Small | NYT · AI | AI | news | 2026-07-05 | [link](https://www.nytimes.com/2026/07/05/style/taylor-swift-wedding-marketing-brands-ai.html) |
+| 2026-07-05 | We Didn’t Build the Atomic Bomb This Way | NYT · AI | AI | opinion | 2026-07-04 | [link](https://www.nytimes.com/2026/07/03/opinion/ai-national-lab-us.html) |
+| 2026-07-05 | Why A.I. Won’t Give Us a Four-Day Workweek | NYT · AI | AI | opinion | 2026-07-06 | [link](https://www.nytimes.com/2026/07/06/opinion/ai-four-day-work-week-office.html) |
+| 2026-07-05 | A.I. Is Reshaping the Economy. Good Luck Measuring How. | NYT · AI | AI | news | 2026-07-02 | [link](https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html) |
+| 2026-07-05 | Wikipedia Is Battling for the Soul of the Internet | NYT · AI | AI | news | 2026-07-05 | [link](https://www.nytimes.com/2026/07/05/business/media/wikipedia-ai-elon-musk.html) |
+| 2026-07-05 | How Meta’s Threads Became as Popular as X | NYT · AI | AI | news | 2026-07-05 | [link](https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html) |
+| 2026-07-05 | Philosophers Are the Latest Hiring Target for AI Companies | NYT · AI | AI | news | 2026-07-05 | [link](https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html) |
+| 2026-07-05 | Egg Producers to Pay $3.3 Million to Settle Federal Price-Fixing Lawsuit | NYT · Business | Business | news | 2026-07-02 | [link](https://www.nytimes.com/2026/07/02/business/egg-price-fixing-settlement-lawsuit.html) |
+| 2026-07-05 | Zyn’s Popularity Has Tobacco Companies Racing to Cash In | NYT · Business | Business | news | 2026-07-06 | [link](https://www.nytimes.com/2026/07/06/business/zyn-nicotine-pouches-tobacco.html) |
+| 2026-07-05 | Your Home Could Help Solve AI’s Growing Power Demand | NYT · Energy & Environment | Energy & Environment | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html) |
+| 2026-07-05 | In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough | NYT · Technology | Technology | news | 2026-07-05 | [link](https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html) |
+| 2026-07-05 | The Small-Business Owners Managing Whole Armies of A.I. Employees | NYT · AI | AI | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html) |
+| 2026-07-05 | Three Ways Trump Is Strangling Economic Growth | NYT · Opinion | Opinion | opinion | 2026-07-03 | [link](https://www.nytimes.com/2026/07/02/opinion/trump-us-economy-capital-jobs.html) |
+| 2026-07-05 | What Capitol Hill Interns Are Posting on Social Media This Summer | NYT · Politics | Politics | news | 2026-07-06 | [link](https://www.nytimes.com/2026/07/06/us/politics/congress-interns-tiktok-videos-ootd.html) |
+| 2026-07-05 | Bill Archer, Influential Texas Congressman, Is Dead at 98 | NYT · Politics | Politics | news | 2026-07-05 | [link](https://www.nytimes.com/2026/07/05/us/politics/bill-archer-dead.html) |
+| 2026-07-05 | Trump Administration Rolls Back Dozens of Gun Regulations | NYT · Politics | Politics | news | 2026-07-05 | [link](https://www.nytimes.com/2026/07/05/us/politics/trump-gun-rights-laws.html) |
+| 2026-07-05 | U.S. to Overhaul Radiation Safety Rules to Spur Nuclear Expansion | NYT · Energy & Environment | Energy & Environment | news | 2026-07-03 | [link](https://www.nytimes.com/2026/07/01/climate/nrc-radiation-regulation-nuclear-overhaul.html) |
+| 2026-07-05 | ‘Who Should I Vote for?’ Voters Turn to A.I. Before Casting Their Ballots | NYT · AI | AI | news | 2026-07-04 | [link](https://www.nytimes.com/2026/07/04/us/politics/voters-ai-chatbots-elections.html) |
+| 2026-07-05 | U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models | NYT · Technology | Technology | news | 2026-07-01 | [link](https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html) |
+| 2026-07-05 | sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25) | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-05 | [link](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything) |
+| 2026-07-05 | Humanity's biggest universal lie according to Claude | Reddit | Business | social | 2026-07-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1unuajt/humanitys_biggest_universal_lie_according_to/) |
+| 2026-07-05 | Classic | Reddit | Business | social | 2026-07-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1unxvu4/classic/) |
+| 2026-07-05 | I misunderstood Fable at first, now I get it. | Reddit | Business | social | 2026-07-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uo1xpz/i_misunderstood_fable_at_first_now_i_get_it/) |
+| 2026-07-05 | Claude meets Government Oversight 🫡🇺🇸 | Reddit | Business | social | 2026-07-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uobmts/claude_meets_government_oversight/) |
+| 2026-07-05 | Fable written Claude.MD (+Migration) for Opus/Sonnet to act more like Fable | Reddit | Business | social | 2026-07-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1unuitf/fable_written_claudemd_migration_for_opussonnet/) |
+| 2026-07-05 | 3d modeling with Claude Code | Reddit | Business | social | 2026-07-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uo0uxg/3d_modeling_with_claude_code/) |
+| 2026-07-05 | How are you guys making actually good 3D games with Claude? Mine look like SHIT | Reddit | Business | social | 2026-07-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1unr6wb/how_are_you_guys_making_actually_good_3d_games/) |
+| 2026-07-05 | Are HTML presentations and reports the standard now? | Reddit | Business | social | 2026-07-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uo2be1/are_html_presentations_and_reports_the_standard/) |
+| 2026-07-05 | Wanted to see what Fable could one shot, and this is what it created for me in about 20 mins; used a | Reddit | Business | social | 2026-07-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uo8x9h/wanted_to_see_what_fable_could_one_shot_and_this/) |
+| 2026-07-05 | Claude fixed my computer (disabled problematic dimming issue) | Reddit | Business | social | 2026-07-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uogor9/claude_fixed_my_computer_disabled_problematic/) |
+| 2026-07-05 | A tale of two cities | Reddit | Business | social | 2026-07-05 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uoazsj/a_tale_of_two_cities/) |
+| 2026-07-05 | It was a good ride with Fable - waiting for GPT 5.6 | Reddit | Business | social | 2026-07-05 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uo5423/it_was_a_good_ride_with_fable_waiting_for_gpt_56/) |
+| 2026-07-05 | Im reviewing so much ai generated code im forgetting im a dev | Reddit | Business | social | 2026-07-05 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uo0f0s/im_reviewing_so_much_ai_generated_code_im/) |
+| 2026-07-05 | Open Source Palantir | Reddit | Business | social | 2026-07-05 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uofxo5/open_source_palantir/) |
+| 2026-07-05 | Show off your Vibe-coded open-source project you’re proud of! | Reddit | Business | social | 2026-07-05 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uo6loe/show_off_your_vibecoded_opensource_project_youre/) |
+| 2026-07-05 | my dashboard! | Reddit | Business | social | 2026-07-05 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uo1bmn/my_dashboard/) |
+| 2026-07-05 | My Obsidian dashboard helped me land a job! (Appreciation post) | Reddit | Business | social | 2026-07-05 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uo77jr/my_obsidian_dashboard_helped_me_land_a_job/) |
+| 2026-07-05 | belki 0.4 is out — a calm, local-first Todoist-like task manager for Obsidian | Reddit | Business | social | 2026-07-05 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uob21m/belki_04_is_out_a_calm_localfirst_todoistlike/) |
+| 2026-07-05 | Cross-References in the Bible | Reddit | Business | social | 2026-07-05 | [link](https://www.reddit.com/r/ObsidianMD/comments/1unpq0y/crossreferences_in_the_bible/) |
+| 2026-07-05 | My Vault after 1 year | Reddit | Business | social | 2026-07-05 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uo7z2x/my_vault_after_1_year/) |
+| 2026-07-05 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-04 | The bottleneck might be the air in the room | HN | Technology | tech | 2026-07-04 | [link](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/) |
 | 2026-07-04 | Leaking YouTube creators' private videos | HN | Technology | tech | 2026-07-04 | [link](https://javoriuski.com/post/youtube) |
 | 2026-07-04 | Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable | HN | Technology | tech | 2026-07-04 | [link](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main) |
