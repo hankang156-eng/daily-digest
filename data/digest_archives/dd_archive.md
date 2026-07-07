@@ -1,9 +1,70 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-06 · 3282 items*
+*Last updated: 2026-07-07 · 3343 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-06 | Resetting Xbox | HN | Technology | tech | 2026-07-06 | [link](https://news.xbox.com/en-us/2026/07/06/resetting-xbox/) |
+| 2026-07-06 | OpenWrt One – Open Hardware Router | HN | Technology | tech | 2026-07-06 | [link](https://openwrt.org/toh/openwrt/one) |
+| 2026-07-06 | CoMaps – FOSS Offline Maps | HN | Technology | tech | 2026-07-06 | [link](https://www.comaps.app/) |
+| 2026-07-06 | Fable turned reMarkable into Tom Riddle's diary from Harry Potter | HN | Technology | tech | 2026-07-06 | [link](https://github.com/MaximeRivest/Riddle) |
+| 2026-07-06 | GLM 5.2 and the coming AI margin collapse | HN | Technology | tech | 2026-07-06 | [link](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) |
+| 2026-07-06 | Real-time map of Great Britain's rail network | HN | Technology | tech | 2026-07-06 | [link](https://www.map.signalbox.io) |
+| 2026-07-06 | A global workspace in language models | HN | Technology | tech | 2026-07-06 | [link](https://www.anthropic.com/research/global-workspace) |
+| 2026-07-06 | Nintendo announces new product revisions in Europe with replaceable batteries | HN | Technology | tech | 2026-07-06 | [link](https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html) |
+| 2026-07-06 | AMD Ryzen AI Halo – $4k AI Dev Kit | HN | Technology | tech | 2026-07-06 | [link](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo) |
+| 2026-07-06 | Road to Elm 1.0 | HN | Technology | tech | 2026-07-06 | [link](https://elm-lang.org/news/faster-builds) |
+| 2026-07-06 | Aluminum foil (2021) | HN | Technology | tech | 2026-07-06 | [link](https://dernocua.github.io/notes/aluminum-foil.html) |
+| 2026-07-06 | Anthropic's Method to Losing Goodwill in a Few Easy Steps | HN | Technology | tech | 2026-07-06 | [link](https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/) |
+| 2026-07-06 | Ternlight – 7 MB embedding model that runs in browser (WASM) | HN | Technology | tech | 2026-07-06 | [link](https://ternlight-demo.vercel.app/) |
+| 2026-07-06 | Should DayQuil Be Legal? | HN | Technology | tech | 2026-07-06 | [link](https://www.theargumentmag.com/p/should-dayquil-be-legal) |
+| 2026-07-06 | How to sequence your own DNA at home | HN | Technology | tech | 2026-07-06 | [link](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home) |
+| 2026-07-06 | Learning to code is still worthwhile | HN | Technology | tech | 2026-07-06 | [link](https://stevekrouse.com/learn-to-code) |
+| 2026-07-06 | Samsung Made More Profit Last Quarter Than the Last Two Years Combined | NYT · AI | AI | news | 2026-07-07 | [link](https://www.nytimes.com/2026/07/06/business/samsung-earnings-chips.html) |
+| 2026-07-06 | Why A.I. Won’t Give Us a Four-Day Workweek | NYT · AI | AI | opinion | 2026-07-06 | [link](https://www.nytimes.com/2026/07/06/opinion/ai-four-day-work-week-office.html) |
+| 2026-07-06 | Taylor Swift’s Wedding Became a Marketing Moment for Brands Big and Small | NYT · AI | AI | news | 2026-07-05 | [link](https://www.nytimes.com/2026/07/05/style/taylor-swift-wedding-marketing-brands-ai.html) |
+| 2026-07-06 | To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power | NYT · Energy & Environment | Energy & Environment | news | 2026-07-07 | [link](https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html) |
+| 2026-07-06 | Three Ways Trump Is Strangling Economic Growth | NYT · Opinion | Opinion | opinion | 2026-07-06 | [link](https://www.nytimes.com/2026/07/02/opinion/trump-us-economy-capital-jobs.html) |
+| 2026-07-06 | President Rings Stock Market Opening Bell to Celebrate Trump Accounts | NYT · Politics | Politics | news | 2026-07-06 | [link](https://www.nytimes.com/2026/07/06/us/politics/trump-accounts-white-house-opening-bell-ceremony.html) |
+| 2026-07-06 | Bill Frist Wants to Take Politics Out of Climate Change | NYT · Energy & Environment | Energy & Environment | news | 2026-07-06 | [link](https://www.nytimes.com/2026/07/06/climate/bill-frist-climate-change-republican-politics.html) |
+| 2026-07-06 | Alibaba’s A.I. Is a Hit, but Hard to Turn Into a Moneymaker | NYT · AI | AI | news | 2026-07-06 | [link](https://www.nytimes.com/2026/07/06/business/alibaba-ai-qwen.html) |
+| 2026-07-06 | Why A.I. Distillation Has Become a Hot Topic in the Race with China | NYT · AI | AI | news | 2026-07-06 | [link](https://www.nytimes.com/2026/07/06/technology/ai-distillation-china.html) |
+| 2026-07-06 | Are the ‘MANGOS’ Stocks Already Turning Soft? | NYT · Business | Business | news | 2026-07-05 | [link](https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html) |
+| 2026-07-06 | Those Soldiers Flooding Your Feeds? They Might Not Be Real. | NYT · AI | AI | news | 2026-07-07 | [link](https://www.nytimes.com/2026/07/07/business/soldiers-ai-disinformation.html) |
+| 2026-07-06 | ‘Who Should I Vote for?’ Voters Turn to A.I. Before Casting Their Ballots | NYT · AI | AI | news | 2026-07-07 | [link](https://www.nytimes.com/2026/07/04/us/politics/voters-ai-chatbots-elections.html) |
+| 2026-07-06 | What Are Safe A.I. Use Cases for Toddlers? | NYT · AI | AI | news | 2026-07-06 | [link](https://www.nytimes.com/video/podcasts/100000011014461/what-are-safe-ai-use-cases-for-toddlers.html) |
+| 2026-07-06 | Your Home Could Help Solve AI’s Growing Power Demand | NYT · Energy & Environment | Energy & Environment | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html) |
+| 2026-07-06 | Microsoft Lays Off Thousands of Xbox Employees, Closes Game Studios | NYT · AI | AI | news | 2026-07-06 | [link](https://www.nytimes.com/2026/07/06/technology/microsoft-xbox-layoffs-ai.html) |
+| 2026-07-06 | We Didn’t Build the Atomic Bomb This Way | NYT · Opinion | Opinion | opinion | 2026-07-04 | [link](https://www.nytimes.com/2026/07/03/opinion/ai-national-lab-us.html) |
+| 2026-07-06 | The Small-Business Owners Managing Whole Armies of A.I. Employees | NYT · AI | AI | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html) |
+| 2026-07-06 | Supreme Court Allows Texas Age-Verification Law for App Stores, for Now | NYT · Politics | Politics | news | 2026-07-06 | [link](https://www.nytimes.com/2026/07/06/us/politics/supreme-court-texas-age-apps.html) |
+| 2026-07-06 | Key Health Care Panel Is Again Blocked From Meeting Under RFK Jr. | NYT · Politics | Politics | news | 2026-07-06 | [link](https://www.nytimes.com/2026/07/06/us/politics/uspstf-meeting-rfk-jr.html) |
+| 2026-07-06 | U.S. to Overhaul Radiation Safety Rules to Spur Nuclear Expansion | NYT · Energy & Environment | Energy & Environment | news | 2026-07-03 | [link](https://www.nytimes.com/2026/07/01/climate/nrc-radiation-regulation-nuclear-overhaul.html) |
+| 2026-07-06 | Allen Pike, Back in November: ‘Why Is ChatGPT for Mac So Good?’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-06 | [link](https://allenpike.com/2025/why-is-chatgpt-so-good-claude/) |
+| 2026-07-06 | tencent/Hy3 | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-06 | [link](https://simonwillison.net/2026/Jul/6/hy3/#atom-everything) |
+| 2026-07-06 | I'm just so bored of AI | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-07-06 | [link](https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/) |
+| 2026-07-06 | Backblaze Versus Dropbox | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-06 | [link](https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/) |
+| 2026-07-06 | sqlite-utils 4.0rc3 | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-06 | [link](https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything) |
+| 2026-07-06 | Claude's self invented technical jargon, complex metaphors and imaginary composite words is driving  | Reddit | Business | social | 2026-07-06 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uok58g/claudes_self_invented_technical_jargon_complex/) |
+| 2026-07-06 | I feel like we're rapidly heading to a place where people have all sorts of local bespoke tools that | Reddit | Business | social | 2026-07-06 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uopekl/i_feel_like_were_rapidly_heading_to_a_place_where/) |
+| 2026-07-06 | Thank you anthropic. As a teacher claude cowork has been Godsend. | Reddit | Business | social | 2026-07-06 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uox9uu/thank_you_anthropic_as_a_teacher_claude_cowork/) |
+| 2026-07-06 | Claude randomly admitted it was calling me by the wrong name internally…. lmao | Reddit | Business | social | 2026-07-06 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uozcxc/claude_randomly_admitted_it_was_calling_me_by_the/) |
+| 2026-07-06 | Me using my remaining Fable quota to summarise articles before it's gone | Reddit | Business | social | 2026-07-06 | [link](https://www.reddit.com/r/ClaudeAI/comments/1up54xw/me_using_my_remaining_fable_quota_to_summarise/) |
+| 2026-07-06 | Who’s preying for a usage reset right now? | Reddit | Business | social | 2026-07-06 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uot5ld/whos_preying_for_a_usage_reset_right_now/) |
+| 2026-07-06 | the J-space paper is the best thing anthropic has shipped in a while. claude’s weights are closed so | Reddit | Business | social | 2026-07-06 | [link](https://www.reddit.com/r/ClaudeAI/comments/1upenm6/the_jspace_paper_is_the_best_thing_anthropic_has/) |
+| 2026-07-06 | Friendly reminder what to fix before Fable 5 disappears again. Use it to upgrade your Claude Code sy | Reddit | Business | social | 2026-07-06 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uou7ow/friendly_reminder_what_to_fix_before_fable_5/) |
+| 2026-07-06 | Retired Disabled Army combat vet, no coding background. 250 iterations with Claude turned a 17KB pro | Reddit | Business | social | 2026-07-06 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uomrr8/retired_disabled_army_combat_vet_no_coding/) |
+| 2026-07-06 | Asked Fable 5 to build Fable 6. It asked for a small country’s power grid | Reddit | Business | social | 2026-07-06 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uopjc4/asked_fable_5_to_build_fable_6_it_asked_for_a/) |
+| 2026-07-06 | Anthropic found a “global workspace” inside Claude a silent internal reasoning layer that emerged on | Reddit | Business | social | 2026-07-06 | [link](https://www.reddit.com/r/ClaudeCode/comments/1upchq0/anthropic_found_a_global_workspace_inside_claude/) |
+| 2026-07-06 | The tool that now generates $2.5B/year started as a guy’s first-week side project at his new job | Reddit | Business | social | 2026-07-06 | [link](https://www.reddit.com/r/ClaudeCode/comments/1upcvot/the_tool_that_now_generates_25byear_started_as_a/) |
+| 2026-07-06 | No Fable 5 included, but enjoy your new fee | Reddit | Business | social | 2026-07-06 | [link](https://www.reddit.com/r/ClaudeCode/comments/1up6fi6/no_fable_5_included_but_enjoy_your_new_fee/) |
+| 2026-07-06 | Well shit... I didn't even know this was possible | Reddit | Business | social | 2026-07-06 | [link](https://www.reddit.com/r/ClaudeCode/comments/1updedl/well_shit_i_didnt_even_know_this_was_possible/) |
+| 2026-07-06 | It Ain’t Much, But It’s Mine | Reddit | Business | social | 2026-07-06 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uoz559/it_aint_much_but_its_mine/) |
+| 2026-07-06 | Does anyone search the plugin directory anymore? | Reddit | Business | social | 2026-07-06 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uomi1v/does_anyone_search_the_plugin_directory_anymore/) |
+| 2026-07-06 | My experience on redesigning my vault | Reddit | Business | social | 2026-07-06 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uoxbq5/my_experience_on_redesigning_my_vault/) |
+| 2026-07-06 | Calendar Hub: click a date and see *every* note from that day, in any folder — not just your one Dai | Reddit | Business | social | 2026-07-06 | [link](https://www.reddit.com/r/ObsidianMD/comments/1up0seg/calendar_hub_click_a_date_and_see_every_note_from/) |
+| 2026-07-06 | S-Calc: write math in a note and see the answer on the same line, live | Reddit | Business | social | 2026-07-06 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uovgv9/scalc_write_math_in_a_note_and_see_the_answer_on/) |
+| 2026-07-06 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-05 | Organic Maps | HN | Technology | tech | 2026-07-05 | [link](https://organicmaps.app/) |
 | 2026-07-05 | OpenPrinter | HN | Technology | tech | 2026-07-05 | [link](https://www.opentools.studio/) |
 | 2026-07-05 | It's not about physical vs. digital games, it's about ownership | HN | Technology | tech | 2026-07-05 | [link](https://popcar.bearblog.dev/its-about-ownership/) |

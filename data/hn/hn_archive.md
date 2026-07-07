@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-06 · 428 days · 4280 stories*
+*Last updated: 2026-07-07 · 429 days · 4290 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-06 | Monday | 1 | Resetting Xbox | 625 | 672 | Technology | [link](https://news.xbox.com/en-us/2026/07/06/resetting-xbox/) · [HN](https://news.ycombinator.com/item?id=48804993) |
+| 2026-07-06 | Monday | 2 | OpenWrt One – Open Hardware Router | 625 | 245 | Technology | [link](https://openwrt.org/toh/openwrt/one) · [HN](https://news.ycombinator.com/item?id=48808482) |
+| 2026-07-06 | Monday | 3 | CoMaps – FOSS Offline Maps | 565 | 125 | Technology | [link](https://www.comaps.app/) · [HN](https://news.ycombinator.com/item?id=48808928) |
+| 2026-07-06 | Monday | 4 | Fable turned reMarkable into Tom Riddle's diary from Harry Potter | 467 | 292 | Technology | [link](https://github.com/MaximeRivest/Riddle) · [HN](https://news.ycombinator.com/item?id=48811591) |
+| 2026-07-06 | Monday | 5 | GLM 5.2 and the coming AI margin collapse | 421 | 256 | Technology | [link](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) · [HN](https://news.ycombinator.com/item?id=48809877) |
+| 2026-07-06 | Monday | 6 | Real-time map of Great Britain's rail network | 395 | 148 | Technology | [link](https://www.map.signalbox.io) · [HN](https://news.ycombinator.com/item?id=48802535) |
+| 2026-07-06 | Monday | 7 | A global workspace in language models | 374 | 137 | Technology | [link](https://www.anthropic.com/research/global-workspace) · [HN](https://news.ycombinator.com/item?id=48808002) |
+| 2026-07-06 | Monday | 8 | Nintendo announces new product revisions in Europe with replaceable batteries | 343 | 210 | Technology | [link](https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html) · [HN](https://news.ycombinator.com/item?id=48804193) |
+| 2026-07-06 | Monday | 9 | AMD Ryzen AI Halo – $4k AI Dev Kit | 333 | 225 | Technology | [link](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo) · [HN](https://news.ycombinator.com/item?id=48805624) |
+| 2026-07-06 | Monday | 10 | Road to Elm 1.0 | 329 | 165 | Technology | [link](https://elm-lang.org/news/faster-builds) · [HN](https://news.ycombinator.com/item?id=48803364) |
 | 2026-07-05 | Sunday | 1 | Organic Maps | 992 | 302 | Technology | [link](https://organicmaps.app/) · [HN](https://news.ycombinator.com/item?id=48794446) |
 | 2026-07-05 | Sunday | 2 | OpenPrinter | 862 | 214 | Technology | [link](https://www.opentools.studio/) · [HN](https://news.ycombinator.com/item?id=48797916) |
 | 2026-07-05 | Sunday | 3 | It's not about physical vs. digital games, it's about ownership | 499 | 371 | Technology | [link](https://popcar.bearblog.dev/its-about-ownership/) · [HN](https://news.ycombinator.com/item?id=48794750) |
