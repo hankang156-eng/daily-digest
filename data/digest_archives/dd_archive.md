@@ -1,9 +1,70 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-07 · 3343 items*
+*Last updated: 2026-07-08 · 3404 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-07 | StreetComplete: Fixing OpenStreetMap, one tiny quest at a time | HN | Technology | tech | 2026-07-07 | [link](https://streetcomplete.app/) |
+| 2026-07-07 | Chat Control 1.0 and 2.0 Explained | HN | Technology | tech | 2026-07-07 | [link](https://fightchatcontrol.eu/chat-control-overview) |
+| 2026-07-07 | Every new car sold in the European Union must include a driver monitoring camera | HN | Technology | tech | 2026-07-07 | [link](https://allaboutcookies.org/eu-mandatory-distracted-driver-system) |
+| 2026-07-07 | Microsoft fire idTech team at Id software | HN | Technology | tech | 2026-07-07 | [link](https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/) |
+| 2026-07-07 | Chat Control passed first round in EU Parliament | HN | Technology | tech | 2026-07-07 | [link](https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html) |
+| 2026-07-07 | 30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format | HN | Technology | tech | 2026-07-07 | [link](https://30papers.com/) |
+| 2026-07-07 | A better way to tie gym shorts (or any drawstring) [video] | HN | Technology | tech | 2026-07-07 | [link](https://www.youtube.com/watch?v=3R0Lp86GEBk) |
+| 2026-07-07 | 98% isn't much | HN | Technology | tech | 2026-07-07 | [link](https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/) |
+| 2026-07-07 | Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro | HN | Technology | tech | 2026-07-07 | [link](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/) |
+| 2026-07-07 | Microsoft Can Track Users via a Windows Device ID | HN | Technology | tech | 2026-07-07 | [link](https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device) |
+| 2026-07-07 | China sentences official to death for taking $325M in bribes | HN | Technology | tech | 2026-07-07 | [link](https://www.bbc.com/news/articles/c33y0n1v1xjo) |
+| 2026-07-07 | Amazon without the knockoffs | HN | Technology | tech | 2026-07-07 | [link](https://knockoff.shopping/) |
+| 2026-07-07 | Top researchers leave USA for the Netherlands (in Dutch) | HN | Technology | tech | 2026-07-07 | [link](https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland) |
+| 2026-07-07 | Show HN: Davit, a Apple Containers UI | HN | Technology | tech | 2026-07-07 | [link](https://davit.app) |
+| 2026-07-07 | Dua Lipa opens library for banned and censored books in Portugal | HN | Technology | tech | 2026-07-07 | [link](https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal) |
+| 2026-07-07 | We charge $10k a week to delete AI-generated code | HN | Technology | tech | 2026-07-07 | [link](https://odra.dev/slopfix/) |
+| 2026-07-07 | The American Economy Isn’t as Bad as You Might Think | NYT · AI | AI | opinion | 2026-07-08 | [link](https://www.nytimes.com/2026/07/08/opinion/american-economy-decline-china-europe.html) |
+| 2026-07-07 | Why Index Funds Haven’t Boosted SpaceX | NYT · AI | AI | news | 2026-07-07 | [link](https://www.nytimes.com/2026/07/07/business/dealbook/spacex-index-funds.html) |
+| 2026-07-07 | Samsung Made More Profit Last Quarter Than the Last Two Years Combined | NYT · AI | AI | news | 2026-07-07 | [link](https://www.nytimes.com/2026/07/06/business/samsung-earnings-chips.html) |
+| 2026-07-07 | Fax and Telegram? New York’s Archaic Requirements Get an A.I. Overhaul. | NYT · AI | AI | news | 2026-07-08 | [link](https://www.nytimes.com/2026/07/08/nyregion/hochul-ai-redtape-rules.html) |
+| 2026-07-07 | To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power | NYT · Energy & Environment | Energy & Environment | news | 2026-07-07 | [link](https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html) |
+| 2026-07-07 | U.S. Trade Deficit Widens in May on Record Goods Imports | NYT · Economy | Economy | news | 2026-07-07 | [link](https://www.nytimes.com/2026/07/07/business/economy/us-trade-deficit-may.html) |
+| 2026-07-07 | Meta Unveils an A.I. Image Generator | NYT · AI | AI | news | 2026-07-07 | [link](https://www.nytimes.com/2026/07/07/technology/meta-ai-muse-image.html) |
+| 2026-07-07 | Businesses Fear Politicization as Trump Gains More Power Over U.S. Agencies | NYT · Technology | Technology | news | 2026-07-07 | [link](https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html) |
+| 2026-07-07 | Those Soldiers Flooding Your Feeds? They Might Not Be Real. | NYT · AI | AI | news | 2026-07-07 | [link](https://www.nytimes.com/2026/07/07/business/soldiers-ai-disinformation.html) |
+| 2026-07-07 | Trump Promised a Foreign Investment Boom. It’s Getting Harder to Deliver. | NYT · Economy | Economy | news | 2026-07-07 | [link](https://www.nytimes.com/2026/07/07/business/economy/trump-foreign-investment.html) |
+| 2026-07-07 | ‘Who Should I Vote for?’ Voters Turn to A.I. Before Casting Their Ballots | NYT · AI | AI | news | 2026-07-07 | [link](https://www.nytimes.com/2026/07/04/us/politics/voters-ai-chatbots-elections.html) |
+| 2026-07-07 | Anthropic Expands in Manhattan, Part of an A.I. Boom in New York | NYT · AI | AI | news | 2026-07-07 | [link](https://www.nytimes.com/2026/07/07/nyregion/anthropic-ai-boom-nyc.html) |
+| 2026-07-07 | Trump Administration Guts Efforts to Prevent Gun Violence, Suppressing Reports | NYT · Politics | Politics | news | 2026-07-07 | [link](https://www.nytimes.com/2026/07/07/us/politics/trump-gun-violence-cdc-dhs-justice.html) |
+| 2026-07-07 | Your Home Could Help Solve AI’s Growing Power Demand | NYT · Energy & Environment | Energy & Environment | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html) |
+| 2026-07-07 | We Are Losing the Ability to Discover What We Didn’t Know to Ask | NYT · AI | AI | opinion | 2026-07-08 | [link](https://www.nytimes.com/2026/07/08/opinion/ai-google-gemini-search-questions.html) |
+| 2026-07-07 | Andrea Shaw, Plaintiff in Anti-Vaccine Suit, Is Charged With Murder of Her Twins | NYT · U.S. | U.S. | news | 2026-07-07 | [link](https://www.nytimes.com/2026/07/07/us/idaho-twins-death-shaw-vaccines-murder.html) |
+| 2026-07-07 | Bill Frist Wants to Take Politics Out of Climate Change | NYT · Energy & Environment | Energy & Environment | news | 2026-07-06 | [link](https://www.nytimes.com/2026/07/06/climate/bill-frist-climate-change-republican-politics.html) |
+| 2026-07-07 | Haley Stevens Goes on Attack Against Abdul El-Sayed at Michigan Senate Debate | NYT · Politics | Politics | news | 2026-07-08 | [link](https://www.nytimes.com/2026/07/07/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate.html) |
+| 2026-07-07 | New Rules Require Election Changes for States to Get Terrorism Grants | NYT · Energy & Environment | Energy & Environment | news | 2026-07-07 | [link](https://www.nytimes.com/2026/07/07/climate/fema-grants-states-election-changes.html) |
+| 2026-07-07 | A Conservative Role Model for Ending the Fertility Crisis | NYT · Politics | Politics | news | 2026-07-08 | [link](https://www.nytimes.com/2026/07/08/us/politics/emma-waters-restorative-reproduction.html) |
+| 2026-07-07 | sqlite-utils 4.0, now with database schema migrations | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-07 | [link](https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything) |
+| 2026-07-07 | github-code Web Component | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-07 | [link](https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything) |
+| 2026-07-07 | OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-07 | [link](https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/) |
+| 2026-07-07 | Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival | Superpower Daily · Tech & Engineering | Technology | tech | 2026-07-07 | [link](https://www.superpowerdaily.com/p/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival) |
+| 2026-07-07 | Fable access extended through July 12 | Reddit | Business | social | 2026-07-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uq25gr/fable_access_extended_through_july_12/) |
+| 2026-07-07 | Fable 5 found actual malware on my PC, and then its own safety filters flagged the warning. | Reddit | Business | social | 2026-07-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1upu3e2/fable_5_found_actual_malware_on_my_pc_and_then/) |
+| 2026-07-07 | Anthropic extending Fable 5 for paid users till 12 july | Reddit | Business | social | 2026-07-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uq2aq5/anthropic_extending_fable_5_for_paid_users_till/) |
+| 2026-07-07 | Someone made a song called “Claude’s Plan” inspired by Drake’s God’s Plan | Reddit | Business | social | 2026-07-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1upk6gy/someone_made_a_song_called_claudes_plan_inspired/) |
+| 2026-07-07 | A race to techno-feudalism while most people aren't paying attention? | Reddit | Business | social | 2026-07-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uq5wbb/a_race_to_technofeudalism_while_most_people_arent/) |
+| 2026-07-07 | me with Claude after anthropic gave us 5 more days together | Reddit | Business | social | 2026-07-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uq30lo/me_with_claude_after_anthropic_gave_us_5_more/) |
+| 2026-07-07 | Countdown to the end | Reddit | Business | social | 2026-07-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1upmw3y/countdown_to_the_end/) |
+| 2026-07-07 | Anthropic out here acting like a drug dealer giving us a free extra week of the good stuff just to m | Reddit | Business | social | 2026-07-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uq4uoh/anthropic_out_here_acting_like_a_drug_dealer/) |
+| 2026-07-07 | Getting Someone Else's Chat | Reddit | Business | social | 2026-07-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1upeskf/getting_someone_elses_chat/) |
+| 2026-07-07 | would you even run fable locally if you could? | Reddit | Business | social | 2026-07-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1upz3pn/would_you_even_run_fable_locally_if_you_could/) |
+| 2026-07-07 | Fable access extended to Friday. | Reddit | Business | social | 2026-07-07 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uq26wx/fable_access_extended_to_friday/) |
+| 2026-07-07 | wooooooohooooo!!! | Reddit | Business | social | 2026-07-07 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uq2l39/wooooooohooooo/) |
+| 2026-07-07 | What is the point of the Fable extension if mainly everyone has used up all their usage? Seems like  | Reddit | Business | social | 2026-07-07 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uq9g6n/what_is_the_point_of_the_fable_extension_if/) |
+| 2026-07-07 | It's crazy how good the human learning algorythm of detecting AI written text actually is. | Reddit | Business | social | 2026-07-07 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uptgsd/its_crazy_how_good_the_human_learning_algorythm/) |
+| 2026-07-07 | are we being fr right now? | Reddit | Business | social | 2026-07-07 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uq9qld/are_we_being_fr_right_now/) |
+| 2026-07-07 | We don’t need 20 half-maintained plugins for the same niche | Reddit | Business | social | 2026-07-07 | [link](https://www.reddit.com/r/ObsidianMD/comments/1upqpbq/we_dont_need_20_halfmaintained_plugins_for_the/) |
+| 2026-07-07 | Operon 2.0 is out: a task table for Obsidian, like Bases meets Notion but built for tasks | Reddit | Business | social | 2026-07-07 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uq8c41/operon_20_is_out_a_task_table_for_obsidian_like/) |
+| 2026-07-07 | Obsidian plugins really help me see | Reddit | Business | social | 2026-07-07 | [link](https://www.reddit.com/r/ObsidianMD/comments/1upq8oe/obsidian_plugins_really_help_me_see/) |
+| 2026-07-07 | Obsidian to VS Code | Reddit | Business | social | 2026-07-07 | [link](https://www.reddit.com/r/ObsidianMD/comments/1upqhqk/obsidian_to_vs_code/) |
+| 2026-07-07 | How are you sharing your vault between devices ? | Reddit | Business | social | 2026-07-07 | [link](https://www.reddit.com/r/ObsidianMD/comments/1upfxcy/how_are_you_sharing_your_vault_between_devices/) |
+| 2026-07-07 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-06 | Resetting Xbox | HN | Technology | tech | 2026-07-06 | [link](https://news.xbox.com/en-us/2026/07/06/resetting-xbox/) |
 | 2026-07-06 | OpenWrt One – Open Hardware Router | HN | Technology | tech | 2026-07-06 | [link](https://openwrt.org/toh/openwrt/one) |
 | 2026-07-06 | CoMaps – FOSS Offline Maps | HN | Technology | tech | 2026-07-06 | [link](https://www.comaps.app/) |

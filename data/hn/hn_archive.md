@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-07 · 429 days · 4290 stories*
+*Last updated: 2026-07-08 · 430 days · 4300 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-07 | Tuesday | 1 | StreetComplete: Fixing OpenStreetMap, one tiny quest at a time | 764 | 186 | Technology | [link](https://streetcomplete.app/) · [HN](https://news.ycombinator.com/item?id=48816883) |
+| 2026-07-07 | Tuesday | 2 | Chat Control 1.0 and 2.0 Explained | 655 | 254 | Technology | [link](https://fightchatcontrol.eu/chat-control-overview) · [HN](https://news.ycombinator.com/item?id=48818311) |
+| 2026-07-07 | Tuesday | 3 | Every new car sold in the European Union must include a driver monitoring camera | 639 | 807 | Technology | [link](https://allaboutcookies.org/eu-mandatory-distracted-driver-system) · [HN](https://news.ycombinator.com/item?id=48823557) |
+| 2026-07-07 | Tuesday | 4 | Microsoft fire idTech team at Id software | 597 | 535 | Technology | [link](https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/) · [HN](https://news.ycombinator.com/item?id=48819244) |
+| 2026-07-07 | Tuesday | 5 | Chat Control passed first round in EU Parliament | 571 | 247 | Technology | [link](https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html) · [HN](https://news.ycombinator.com/item?id=48819008) |
+| 2026-07-07 | Tuesday | 6 | 30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format | 517 | 77 | Technology | [link](https://30papers.com/) · [HN](https://news.ycombinator.com/item?id=48819608) |
+| 2026-07-07 | Tuesday | 7 | A better way to tie gym shorts (or any drawstring) [video] | 505 | 171 | Technology | [link](https://www.youtube.com/watch?v=3R0Lp86GEBk) · [HN](https://news.ycombinator.com/item?id=48816956) |
+| 2026-07-07 | Tuesday | 8 | 98% isn't much | 497 | 327 | Technology | [link](https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/) · [HN](https://news.ycombinator.com/item?id=48816959) |
+| 2026-07-07 | Tuesday | 9 | Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro | 413 | 79 | Technology | [link](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/) · [HN](https://news.ycombinator.com/item?id=48821576) |
+| 2026-07-07 | Tuesday | 10 | Microsoft Can Track Users via a Windows Device ID | 339 | 150 | Technology | [link](https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device) · [HN](https://news.ycombinator.com/item?id=48815196) |
 | 2026-07-06 | Monday | 1 | Resetting Xbox | 625 | 672 | Technology | [link](https://news.xbox.com/en-us/2026/07/06/resetting-xbox/) · [HN](https://news.ycombinator.com/item?id=48804993) |
 | 2026-07-06 | Monday | 2 | OpenWrt One – Open Hardware Router | 625 | 245 | Technology | [link](https://openwrt.org/toh/openwrt/one) · [HN](https://news.ycombinator.com/item?id=48808482) |
 | 2026-07-06 | Monday | 3 | CoMaps – FOSS Offline Maps | 565 | 125 | Technology | [link](https://www.comaps.app/) · [HN](https://news.ycombinator.com/item?id=48808928) |
