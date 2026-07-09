@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-08 · 430 days · 4300 stories*
+*Last updated: 2026-07-09 · 431 days · 4310 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-08 | Wednesday | 1 | Decoding the obfuscated bash script on a Uniqlo t-shirt | 1377 | 216 | Technology | [link](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/) · [HN](https://news.ycombinator.com/item?id=48829312) |
+| 2026-07-08 | Wednesday | 2 | Chatto is now open source | 970 | 268 | Technology | [link](https://www.hmans.dev/blog/chatto-is-open-source) · [HN](https://news.ycombinator.com/item?id=48833116) |
+| 2026-07-08 | Wednesday | 3 | John Deere owners will get the right to repair equipment under FTC settlement | 835 | 155 | Technology | [link](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02) · [HN](https://news.ycombinator.com/item?id=48838876) |
+| 2026-07-08 | Wednesday | 4 | GPT‑Live | 706 | 464 | Technology | [link](https://openai.com/index/introducing-gpt-live/) · [HN](https://news.ycombinator.com/item?id=48834405) |
+| 2026-07-08 | Wednesday | 5 | Grok 4.5 | 635 | 956 | Technology | [link](https://x.ai/news/grok-4-5) · [HN](https://news.ycombinator.com/item?id=48835111) |
+| 2026-07-08 | Wednesday | 6 | TypeScript 7 | 623 | 243 | Technology | [link](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/) · [HN](https://news.ycombinator.com/item?id=48833715) |
+| 2026-07-08 | Wednesday | 7 | Rewriting Bun in Rust | 595 | 334 | Technology | [link](https://bun.com/blog/bun-in-rust) · [HN](https://news.ycombinator.com/item?id=48837877) |
+| 2026-07-08 | Wednesday | 8 | GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos | 521 | 196 | Technology | [link](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/) · [HN](https://news.ycombinator.com/item?id=48827858) |
+| 2026-07-08 | Wednesday | 9 | Mistral's Robostral Navigate: a state of the art robotics navigation model | 465 | 104 | Technology | [link](https://mistral.ai/news/robostral-navigate/) · [HN](https://news.ycombinator.com/item?id=48832212) |
+| 2026-07-08 | Wednesday | 10 | Cloudflare Drop | 436 | 230 | Technology | [link](https://www.cloudflare.com/drop/) · [HN](https://news.ycombinator.com/item?id=48836233) |
 | 2026-07-07 | Tuesday | 1 | StreetComplete: Fixing OpenStreetMap, one tiny quest at a time | 764 | 186 | Technology | [link](https://streetcomplete.app/) · [HN](https://news.ycombinator.com/item?id=48816883) |
 | 2026-07-07 | Tuesday | 2 | Chat Control 1.0 and 2.0 Explained | 655 | 254 | Technology | [link](https://fightchatcontrol.eu/chat-control-overview) · [HN](https://news.ycombinator.com/item?id=48818311) |
 | 2026-07-07 | Tuesday | 3 | Every new car sold in the European Union must include a driver monitoring camera | 639 | 807 | Technology | [link](https://allaboutcookies.org/eu-mandatory-distracted-driver-system) · [HN](https://news.ycombinator.com/item?id=48823557) |

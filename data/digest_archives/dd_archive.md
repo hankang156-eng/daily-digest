@@ -1,9 +1,73 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-08 · 3404 items*
+*Last updated: 2026-07-09 · 3468 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-08 | Decoding the obfuscated bash script on a Uniqlo t-shirt | HN | Technology | tech | 2026-07-08 | [link](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/) |
+| 2026-07-08 | Chatto is now open source | HN | Technology | tech | 2026-07-08 | [link](https://www.hmans.dev/blog/chatto-is-open-source) |
+| 2026-07-08 | John Deere owners will get the right to repair equipment under FTC settlement | HN | Technology | tech | 2026-07-08 | [link](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02) |
+| 2026-07-08 | GPT‑Live | HN | Technology | tech | 2026-07-08 | [link](https://openai.com/index/introducing-gpt-live/) |
+| 2026-07-08 | Grok 4.5 | HN | Technology | tech | 2026-07-08 | [link](https://x.ai/news/grok-4-5) |
+| 2026-07-08 | TypeScript 7 | HN | Technology | tech | 2026-07-08 | [link](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/) |
+| 2026-07-08 | Rewriting Bun in Rust | HN | Technology | tech | 2026-07-08 | [link](https://bun.com/blog/bun-in-rust) |
+| 2026-07-08 | GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos | HN | Technology | tech | 2026-07-08 | [link](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/) |
+| 2026-07-08 | Mistral's Robostral Navigate: a state of the art robotics navigation model | HN | Technology | tech | 2026-07-08 | [link](https://mistral.ai/news/robostral-navigate/) |
+| 2026-07-08 | Cloudflare Drop | HN | Technology | tech | 2026-07-08 | [link](https://www.cloudflare.com/drop/) |
+| 2026-07-08 | EU now one step away from reviving private message scanning rules | HN | Technology | tech | 2026-07-08 | [link](https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/) |
+| 2026-07-08 | FAANG Simulator | HN | Technology | tech | 2026-07-08 | [link](https://www.abeyk.com/escape-the-rat-race/) |
+| 2026-07-08 | I think I have LLM burnout | HN | Technology | tech | 2026-07-08 | [link](https://www.alecscollon.com/blog/llm-burnout/) |
+| 2026-07-08 | Apple to increase spend with Broadcom to produce billions more U.S. chips | HN | Technology | tech | 2026-07-08 | [link](https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/) |
+| 2026-07-08 | Show HN: Microsoft releases Flint, a visualization language for AI agents | HN | Technology | tech | 2026-07-08 | [link](https://microsoft.github.io/flint-chart/#/) |
+| 2026-07-08 | OpenBSD has a use-after-free allowing local privilege escalation to root | HN | Technology | tech | 2026-07-08 | [link](https://nvd.nist.gov/vuln/detail/cve-2026-57589) |
+| 2026-07-08 | Actually, the American Economy Isn’t in Decline | NYT · AI | AI | opinion | 2026-07-08 | [link](https://www.nytimes.com/2026/07/08/opinion/american-economy-decline-china-europe.html) |
+| 2026-07-08 | Global Economic Output Looks Slower for 2026, IMF Says | NYT · AI | AI | news | 2026-07-08 | [link](https://www.nytimes.com/2026/07/08/business/economy/imf-world-economy-inflation.html) |
+| 2026-07-08 | How to Prevent Meta From Using Your Instagram Images in A.I. | NYT · AI | AI | news | 2026-07-08 | [link](https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html) |
+| 2026-07-08 | In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock | NYT · AI | AI | news | 2026-07-08 | [link](https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html) |
+| 2026-07-08 | Big Tech Is Now Targeting Native American Land for Massive Data Centers | NYT · AI | AI | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/us/data-centers-native-american-tribes.html) |
+| 2026-07-08 | Jeff Bezos’s Blue Origin Nears a Big Fund-Raising Round | NYT · Business | Business | news | 2026-07-08 | [link](https://www.nytimes.com/2026/07/08/business/dealbook/bezos-funding-blue-origin.html) |
+| 2026-07-08 | How the Platner Campaign Imploded, and New Questions About Trump’s Qatari-Donated Jet | NYT · AI | AI | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/podcasts/the-headlines/platner-campaign-trump-qatar-jet-meta.html) |
+| 2026-07-08 | New York State Wants A.I. to Find Inefficiencies | NYT · AI | AI | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/nyregion/new-york-state-wants-ai-to-find-inefficiencies.html) |
+| 2026-07-08 | Why Index Funds Haven’t Boosted SpaceX | NYT · Business | Business | news | 2026-07-07 | [link](https://www.nytimes.com/2026/07/07/business/dealbook/spacex-index-funds.html) |
+| 2026-07-08 | Samsung Made More Profit Last Quarter Than the Last Two Years Combined | NYT · Business | Business | news | 2026-07-07 | [link](https://www.nytimes.com/2026/07/06/business/samsung-earnings-chips.html) |
+| 2026-07-08 | Why Some Banks Still Charge High Overdraft Fees | NYT · Business | Business | news | 2026-07-08 | [link](https://www.nytimes.com/2026/07/03/your-money/banks-overdraft-fees.html) |
+| 2026-07-08 | Did We Make the Wrong Bet on Big A.I.? | NYT · AI | AI | opinion | 2026-07-08 | [link](https://www.nytimes.com/2026/07/08/opinion/openai-anthropic-palantir-alex-karp.html) |
+| 2026-07-08 | Preparing for ‘Weimar America’ | NYT · AI | AI | opinion | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/opinion/america-politics-weimar-rod-dreher.html) |
+| 2026-07-08 | ‘Who Should I Vote for?’ Voters Turn to A.I. Before Casting Their Ballots | NYT · AI | AI | news | 2026-07-08 | [link](https://www.nytimes.com/2026/07/04/us/politics/voters-ai-chatbots-elections.html) |
+| 2026-07-08 | Your Home Could Help Solve AI’s Growing Power Demand | NYT · Energy & Environment | Energy & Environment | news | 2026-06-24 | [link](https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html) |
+| 2026-07-08 | To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power | NYT · Energy & Environment | Energy & Environment | news | 2026-07-07 | [link](https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html) |
+| 2026-07-08 | As U.S.-Iran Cease-Fire Frays, Trump Faces a Muddled War and Unpalatable Options | NYT · Politics | Politics | news | 2026-07-08 | [link](https://www.nytimes.com/2026/07/08/us/politics/trump-iran-war.html) |
+| 2026-07-08 | Can Trump’s Arch Be So Tall? A Panel May Redefine a Law to Get to Yes. | NYT · Politics | Politics | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/us/politics/trump-arch-height-approval.html) |
+| 2026-07-08 | New Rules Require Election Changes for States to Get Terrorism Grants | NYT · Energy & Environment | Energy & Environment | news | 2026-07-08 | [link](https://www.nytimes.com/2026/07/07/climate/fema-grants-states-election-changes.html) |
+| 2026-07-08 | Trump Says He’ll Ask Supreme Court to Rehear Citizenship Case, an Unlikely Event | NYT · Politics | Politics | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/08/us/politics/trump-supreme-court-birthright-citizenship.html) |
+| 2026-07-08 | Rewriting Bun in Rust | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-08 | [link](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything) |
+| 2026-07-08 | Quoting Kenton Varda | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-08 | [link](https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything) |
+| 2026-07-08 | Weekly Update 511: Live from my Riad in Marrakech | Troy Hunt · Security & Privacy | Security | tech | 2026-07-08 | [link](https://www.troyhunt.com/weekly-update-511/) |
+| 2026-07-08 | Felons, Fraudsters Flog Offensive Cybersecurity Startup | Krebs on Security · Security & Privacy | Security | tech | 2026-07-08 | [link](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/) |
+| 2026-07-08 | My Conversation With ELIZA | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-08 | [link](https://sites.google.com/view/elizaarchaeology/try-eliza?authuser=0) |
+| 2026-07-08 | [Sponsor] WorkOS Pipes: More Context Makes for Smarter Products | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-08 | [link](https://workos.com/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) |
+| 2026-07-08 | A bug which only affected left-handed users | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-07-08 | [link](https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/) |
+| 2026-07-08 | An LLM saved my ass while standing in the queue of a roller coaster at Europa Park | Reddit | Business | social | 2026-07-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uqt53j/an_llm_saved_my_ass_while_standing_in_the_queue/) |
+| 2026-07-08 | When your boss asks if you or Claude built it | Reddit | Business | social | 2026-07-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ur0484/when_your_boss_asks_if_you_or_claude_built_it/) |
+| 2026-07-08 | Built my entire portfolio with Claude Fable 5. You scroll through space and crash into the sun | Reddit | Business | social | 2026-07-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uqoaqv/built_my_entire_portfolio_with_claude_fable_5_you/) |
+| 2026-07-08 | Anthropic just benchmarked "Fable 5 orchestrates, cheap models execute": 96% of the performance at 4 | Reddit | Business | social | 2026-07-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ur2ml9/anthropic_just_benchmarked_fable_5_orchestrates/) |
+| 2026-07-08 | Anthropic in 2028 be like... | Reddit | Business | social | 2026-07-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uqp70p/anthropic_in_2028_be_like/) |
+| 2026-07-08 | New Claude Certifications Introduced Today | Reddit | Business | social | 2026-07-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uqvxxm/new_claude_certifications_introduced_today/) |
+| 2026-07-08 | The only smart decision Anthropic can do is reset Fable 5 limits just before GPT-5.6 launch | Reddit | Business | social | 2026-07-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uqnf71/the_only_smart_decision_anthropic_can_do_is_reset/) |
+| 2026-07-08 | Have you tried greeting your Claude with the most generic AI opening recently? | Reddit | Business | social | 2026-07-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uqw18z/have_you_tried_greeting_your_claude_with_the_most/) |
+| 2026-07-08 | How long after sex is it appropriate to open Claude code? | Reddit | Business | social | 2026-07-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uqr3vi/how_long_after_sex_is_it_appropriate_to_open/) |
+| 2026-07-08 | Zero mistakes, zero dollars | Reddit | Business | social | 2026-07-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ur8k94/zero_mistakes_zero_dollars/) |
+| 2026-07-08 | Fable Vs Sol, lets the battle begins! | Reddit | Business | social | 2026-07-08 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uqijt5/fable_vs_sol_lets_the_battle_begins/) |
+| 2026-07-08 | brother chill | Reddit | Business | social | 2026-07-08 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uqu3zg/brother_chill/) |
+| 2026-07-08 | WTF are you guys even working on?! | Reddit | Business | social | 2026-07-08 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uqfqlr/wtf_are_you_guys_even_working_on/) |
+| 2026-07-08 | fable 5 found waldo & circled him under 3 minutes! | Reddit | Business | social | 2026-07-08 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uqedx3/fable_5_found_waldo_circled_him_under_3_minutes/) |
+| 2026-07-08 | 5.6 finally good at frontend? | Reddit | Business | social | 2026-07-08 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uqitgg/56_finally_good_at_frontend/) |
+| 2026-07-08 | Customizable Dashboard/Homepage plugin "Hearth" | Reddit | Business | social | 2026-07-08 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uqx45n/customizable_dashboardhomepage_plugin_hearth/) |
+| 2026-07-08 | I built a Google Keep-style card view for Obsidian - Mini Notes (free, open source) | Reddit | Business | social | 2026-07-08 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uqpg7r/i_built_a_google_keepstyle_card_view_for_obsidian/) |
+| 2026-07-08 | Please stop focusing on Kepano’s vault setup | Reddit | Business | social | 2026-07-08 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uqd3aa/please_stop_focusing_on_kepanos_vault_setup/) |
+| 2026-07-08 | My Second Brain after 4 month of my new vault | Reddit | Business | social | 2026-07-08 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uqkn5t/my_second_brain_after_4_month_of_my_new_vault/) |
+| 2026-07-08 | I built an Obsidian plugin for managing a vinyl collection | Reddit | Business | social | 2026-07-08 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ur1x16/i_built_an_obsidian_plugin_for_managing_a_vinyl/) |
+| 2026-07-08 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-07 | StreetComplete: Fixing OpenStreetMap, one tiny quest at a time | HN | Technology | tech | 2026-07-07 | [link](https://streetcomplete.app/) |
 | 2026-07-07 | Chat Control 1.0 and 2.0 Explained | HN | Technology | tech | 2026-07-07 | [link](https://fightchatcontrol.eu/chat-control-overview) |
 | 2026-07-07 | Every new car sold in the European Union must include a driver monitoring camera | HN | Technology | tech | 2026-07-07 | [link](https://allaboutcookies.org/eu-mandatory-distracted-driver-system) |
