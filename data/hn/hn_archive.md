@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-09 · 431 days · 4310 stories*
+*Last updated: 2026-07-10 · 432 days · 4320 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-09 | Thursday | 1 | EU Parliament greenlights Chat Control 1.0 | 1394 | 656 | Technology | [link](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/) · [HN](https://news.ycombinator.com/item?id=48843923) |
+| 2026-07-09 | Thursday | 2 | GPT-5.6 | 1276 | 907 | Technology | [link](https://openai.com/index/gpt-5-6/) · [HN](https://news.ycombinator.com/item?id=48849066) |
+| 2026-07-09 | Thursday | 3 | Show HN: 18 Words | 994 | 318 | Technology | [link](https://18words.com/) · [HN](https://news.ycombinator.com/item?id=48845049) |
+| 2026-07-09 | Thursday | 4 | My thoughts on the Bun Rust rewrite | 710 | 612 | Technology | [link](https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html) · [HN](https://news.ycombinator.com/item?id=48843352) |
+| 2026-07-09 | Thursday | 5 | Show HN: Getting GLM 5.2 running on my slow computer | 682 | 163 | Technology | [link](https://github.com/JustVugg/colibri) · [HN](https://news.ycombinator.com/item?id=48842459) |
+| 2026-07-09 | Thursday | 6 | Postgres rewritten in Rust, now passing 100% of the Postgres regression tests | 661 | 566 | Technology | [link](https://github.com/malisper/pgrust) · [HN](https://news.ycombinator.com/item?id=48841676) |
+| 2026-07-09 | Thursday | 7 | Hy3 | 478 | 96 | Technology | [link](https://hy.tencent.com/research/hy3) · [HN](https://news.ycombinator.com/item?id=48847552) |
+| 2026-07-09 | Thursday | 8 | The glass backbone: Why the Army's logistics will break in the next war | 375 | 469 | Technology | [link](https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/) · [HN](https://news.ycombinator.com/item?id=48845442) |
+| 2026-07-09 | Thursday | 9 | Muse Spark 1.1 | 375 | 188 | Technology | [link](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/) · [HN](https://news.ycombinator.com/item?id=48846184) |
+| 2026-07-09 | Thursday | 10 | Why developers are ditching GitHub for Codeberg and self-hosting alternatives | 354 | 247 | Technology | [link](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/) · [HN](https://news.ycombinator.com/item?id=48842611) |
 | 2026-07-08 | Wednesday | 1 | Decoding the obfuscated bash script on a Uniqlo t-shirt | 1377 | 216 | Technology | [link](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/) · [HN](https://news.ycombinator.com/item?id=48829312) |
 | 2026-07-08 | Wednesday | 2 | Chatto is now open source | 970 | 268 | Technology | [link](https://www.hmans.dev/blog/chatto-is-open-source) · [HN](https://news.ycombinator.com/item?id=48833116) |
 | 2026-07-08 | Wednesday | 3 | John Deere owners will get the right to repair equipment under FTC settlement | 835 | 155 | Technology | [link](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02) · [HN](https://news.ycombinator.com/item?id=48838876) |

@@ -1,9 +1,70 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-09 · 3468 items*
+*Last updated: 2026-07-10 · 3529 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-09 | EU Parliament greenlights Chat Control 1.0 | HN | Technology | tech | 2026-07-09 | [link](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/) |
+| 2026-07-09 | GPT-5.6 | HN | Technology | tech | 2026-07-09 | [link](https://openai.com/index/gpt-5-6/) |
+| 2026-07-09 | Show HN: 18 Words | HN | Technology | tech | 2026-07-09 | [link](https://18words.com/) |
+| 2026-07-09 | My thoughts on the Bun Rust rewrite | HN | Technology | tech | 2026-07-09 | [link](https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html) |
+| 2026-07-09 | Show HN: Getting GLM 5.2 running on my slow computer | HN | Technology | tech | 2026-07-09 | [link](https://github.com/JustVugg/colibri) |
+| 2026-07-09 | Postgres rewritten in Rust, now passing 100% of the Postgres regression tests | HN | Technology | tech | 2026-07-09 | [link](https://github.com/malisper/pgrust) |
+| 2026-07-09 | Hy3 | HN | Technology | tech | 2026-07-09 | [link](https://hy.tencent.com/research/hy3) |
+| 2026-07-09 | The glass backbone: Why the Army's logistics will break in the next war | HN | Technology | tech | 2026-07-09 | [link](https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/) |
+| 2026-07-09 | Muse Spark 1.1 | HN | Technology | tech | 2026-07-09 | [link](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/) |
+| 2026-07-09 | Why developers are ditching GitHub for Codeberg and self-hosting alternatives | HN | Technology | tech | 2026-07-09 | [link](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/) |
+| 2026-07-09 | ChatGPT Work | HN | Technology | tech | 2026-07-09 | [link](https://openai.com/index/chatgpt-for-your-most-ambitious-work/) |
+| 2026-07-09 | Bonnie Tyler has died | HN | Technology | tech | 2026-07-09 | [link](https://www.bbc.com/news/articles/cg5pd9z2487o) |
+| 2026-07-09 | Spider venom kills varroa mites without harming honeybees | HN | Technology | tech | 2026-07-09 | [link](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming) |
+| 2026-07-09 | A possible future for Damn Interesting | HN | Technology | tech | 2026-07-09 | [link](https://www.damninteresting.com/a-possible-future/) |
+| 2026-07-09 | No leap second will be introduced at the end of December 2026 | HN | Technology | tech | 2026-07-09 | [link](https://datacenter.iers.org/data/latestVersion/bulletinC.txt) |
+| 2026-07-09 | US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers | HN | Technology | tech | 2026-07-09 | [link](https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/) |
+| 2026-07-09 | A $3.2 Trillion Deal-Making Frenzy Is Spurred by the A.I. Economy | NYT · AI | AI | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/business/ai-boom-corporate-deals.html) |
+| 2026-07-09 | OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet | NYT · AI | AI | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html) |
+| 2026-07-09 | Warsh Announces Slate of New Advisers for Fed Task Forces | NYT · Business | Business | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/business/warsh-announces-slate-of-new-advisers-for-fed-task-forces.html) |
+| 2026-07-09 | New York Times and Other Publishers Ask Court to Penalize OpenAI | NYT · AI | AI | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html) |
+| 2026-07-09 | John Deere Farm Equipment Owners Have Right-to-Repair, F.T.C. Says | NYT · Technology | Technology | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/business/john-deere-ftc-right-to-repair.html) |
+| 2026-07-09 | China, Russia and Others Seek to Inflame Debate Over A.I. Data Centers | NYT · AI | AI | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/business/china-russia-ai-data-centers.html) |
+| 2026-07-09 | How the Platner Campaign Imploded, and New Questions About Trump’s Qatari-Donated Jet | NYT · AI | AI | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/podcasts/the-headlines/platner-campaign-trump-qatar-jet-meta.html) |
+| 2026-07-09 | New York State Wants A.I. to Find Inefficiencies | NYT · AI | AI | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/nyregion/new-york-state-wants-ai-to-find-inefficiencies.html) |
+| 2026-07-09 | Big Tech Is Now Targeting Native American Land for Massive Data Centers | NYT · AI | AI | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/us/data-centers-native-american-tribes.html) |
+| 2026-07-09 | ‘ I’m Worried About Weimar America’ | NYT · AI | AI | opinion | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/opinion/america-politics-weimar-rod-dreher.html) |
+| 2026-07-09 | Lawmakers Target the Power of Health Insurance Giants | NYT · Business | Business | news | 2026-07-08 | [link](https://www.nytimes.com/2026/07/08/business/health-insurance-cvs-unitedhealth-breakup.html) |
+| 2026-07-09 | Renewed Fighting With Iran Shows Cracks in Peace-Trade Rally | NYT · Business | Business | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/business/dealbook/iran-war-markets.html) |
+| 2026-07-09 | Actually, the American Economy Isn’t in Decline | NYT · Opinion | Opinion | opinion | 2026-07-09 | [link](https://www.nytimes.com/2026/07/08/opinion/american-economy-decline-china-europe.html) |
+| 2026-07-09 | Trump’s Plans for Nuclear Power Lurch Ahead | NYT · Energy & Environment | Energy & Environment | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/climate/trumps-plans-nuclear-power.html) |
+| 2026-07-09 | Jerrold Nadler: Penn Station Won’t Fund Itself | NYT · Opinion | Opinion | opinion | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/opinion/penn-station-new-york-trump.html) |
+| 2026-07-09 | E.P.A. Moves to Loosen Limits on Pollution From Trucks | NYT · Energy & Environment | Energy & Environment | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/climate/epa-pollution-trucks.html) |
+| 2026-07-09 | A Justice With No Plans to Retire and a Trump Lawyer Now on the Bench | NYT · Politics | Politics | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/us/politics/the-docket-legal-news.html) |
+| 2026-07-09 | Can Trump’s Arch Be So Tall? A Panel Led by His Allies Tentatively Says Yes. | NYT · Politics | Politics | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/us/politics/trump-arch-height-approval.html) |
+| 2026-07-09 | A.I. Is Strangling Our Economy | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-07-02 | [link](https://www.nytimes.com/2026/06/29/opinion/ai-economy-affordability.html) |
+| 2026-07-09 | Trump Says He’ll Ask Supreme Court to Rehear Citizenship Case, an Unlikely Event | NYT · Politics | Politics | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/08/us/politics/trump-supreme-court-birthright-citizenship.html) |
+| 2026-07-09 | Introducing Muse Spark 1.1 | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-09 | [link](https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything) |
+| 2026-07-09 | The new GPT-5.6 family: Luna, Terra, Sol | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-09 | [link](https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything) |
+| 2026-07-09 | Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-09 | [link](https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html?unlocked_article_code=1.wVA.Q5Do.Uvg5yPwCEB5H) |
+| 2026-07-09 | Today’s the Day OpenAI Fucked Up the ChatGPT Mac App | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-09 | [link](https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/) |
+| 2026-07-09 | Day 1 of giving Feble 5 a 80$ crypto account with instructions to turn it into 5k before the Sol 5.6 | Reddit | Business | social | 2026-07-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1urr49k/day_1_of_giving_feble_5_a_80_crypto_account_with/) |
+| 2026-07-09 | 5 hour and weekly limits have been reset. Thanks Anthropic! | Reddit | Business | social | 2026-07-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1urzmj0/5_hour_and_weekly_limits_have_been_reset_thanks/) |
+| 2026-07-09 | Biggest scam humanity accepted as normal according to Claude | Reddit | Business | social | 2026-07-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1urgbug/biggest_scam_humanity_accepted_as_normal/) |
+| 2026-07-09 | I just made $25K USD with my capybara game built entirely with Claude Code | Reddit | Business | social | 2026-07-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1urzr1q/i_just_made_25k_usd_with_my_capybara_game_built/) |
+| 2026-07-09 | Everyone today | Reddit | Business | social | 2026-07-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1us27de/everyone_today/) |
+| 2026-07-09 | Opus 4.8 is a pain in the a** to read, and to work with | Reddit | Business | social | 2026-07-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1urq8fv/opus_48_is_a_pain_in_the_a_to_read_and_to_work/) |
+| 2026-07-09 | Is this what working with office juniors is going to be? | Reddit | Business | social | 2026-07-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1us19s9/is_this_what_working_with_office_juniors_is_going/) |
+| 2026-07-09 | Tested out Claude's drawing skills after he assured me he didn't need to trace anything | Reddit | Business | social | 2026-07-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1urelr8/tested_out_claudes_drawing_skills_after_he/) |
+| 2026-07-09 | I often forget how many people are clueless when it comes to Claude (or any AI) | Reddit | Business | social | 2026-07-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1urdf48/i_often_forget_how_many_people_are_clueless_when/) |
+| 2026-07-09 | Who else is 100% switching to sol if fable actually switches to credit only? | Reddit | Business | social | 2026-07-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1urk4oh/who_else_is_100_switching_to_sol_if_fable/) |
+| 2026-07-09 | Jarred, creator of Bun rewrote it from Zig to Rust in 11 days using Claude Fable 5 which costed ~$16 | Reddit | Business | social | 2026-07-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uru4zg/jarred_creator_of_bun_rewrote_it_from_zig_to_rust/) |
+| 2026-07-09 | My son chose prompts over popcorn | Reddit | Business | social | 2026-07-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1urnk7r/my_son_chose_prompts_over_popcorn/) |
+| 2026-07-09 | Usage limit reset!!! | Reddit | Business | social | 2026-07-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1urxtmr/usage_limit_reset/) |
+| 2026-07-09 | Why is no one talking about the "too_dumb_to_need_fable" log entry in Claude Code? | Reddit | Business | social | 2026-07-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1urwohb/why_is_no_one_talking_about_the_too_dumb_to_need/) |
+| 2026-07-09 | Remember this less than a year ago | Reddit | Business | social | 2026-07-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ureuls/remember_this_less_than_a_year_ago/) |
+| 2026-07-09 | Custom torch cursor possible ? Imagine writing your dark fantasy book with this thing on a rainy day | Reddit | Business | social | 2026-07-09 | [link](https://www.reddit.com/r/ObsidianMD/comments/1urmdwi/custom_torch_cursor_possible_imagine_writing_your/) |
+| 2026-07-09 | Obsidian Torch Cursor | Reddit | Business | social | 2026-07-09 | [link](https://www.reddit.com/r/ObsidianMD/comments/1urnktl/obsidian_torch_cursor/) |
+| 2026-07-09 | Those of you using Obsidian for project management, how’s it actually going? | Reddit | Business | social | 2026-07-09 | [link](https://www.reddit.com/r/ObsidianMD/comments/1urrtw8/those_of_you_using_obsidian_for_project/) |
+| 2026-07-09 | TaskNotes - Checkbox Styling Snippet (Minimal Theme) | Reddit | Business | social | 2026-07-09 | [link](https://www.reddit.com/r/ObsidianMD/comments/1urzb0y/tasknotes_checkbox_styling_snippet_minimal_theme/) |
+| 2026-07-09 | Any medical students use Obsidian to help them study? If so, you mind sharing a little bit about how | Reddit | Business | social | 2026-07-09 | [link](https://www.reddit.com/r/ObsidianMD/comments/1us2xza/any_medical_students_use_obsidian_to_help_them/) |
+| 2026-07-09 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-08 | Decoding the obfuscated bash script on a Uniqlo t-shirt | HN | Technology | tech | 2026-07-08 | [link](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/) |
 | 2026-07-08 | Chatto is now open source | HN | Technology | tech | 2026-07-08 | [link](https://www.hmans.dev/blog/chatto-is-open-source) |
 | 2026-07-08 | John Deere owners will get the right to repair equipment under FTC settlement | HN | Technology | tech | 2026-07-08 | [link](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02) |
