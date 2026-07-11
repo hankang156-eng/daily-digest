@@ -1,9 +1,71 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-10 · 3529 items*
+*Last updated: 2026-07-11 · 3591 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-10 | Apple sues OpenAI, accuses ex-employees of stealing trade secrets | HN | Technology | tech | 2026-07-10 | [link](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) |
+| 2026-07-10 | QuadRF can spot drones and see WiFi through my wall | HN | Technology | tech | 2026-07-10 | [link](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) |
+| 2026-07-10 | New York City to ban deceptive subscription practices | HN | Technology | tech | 2026-07-10 | [link](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban) |
+| 2026-07-10 | GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf] | HN | Technology | tech | 2026-07-10 | [link](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf) |
+| 2026-07-10 | Good Tools Are Invisible | HN | Technology | tech | 2026-07-10 | [link](https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/) |
+| 2026-07-10 | Late Bronze Age Collapse | HN | Technology | tech | 2026-07-10 | [link](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/) |
+| 2026-07-10 | Write code like a human will maintain it | HN | Technology | tech | 2026-07-10 | [link](https://unstack.io/write-code-like-a-human-will-maintain-it) |
+| 2026-07-10 | AI-generated videos to maximally drive a target brain region | HN | Technology | tech | 2026-07-10 | [link](https://nevo-project.epfl.ch/) |
+| 2026-07-10 | EU Commission: addictive design Instagram and Facebook in breach of the DSA | HN | Technology | tech | 2026-07-10 | [link](https://ec.europa.eu/commission/presscorner/home/en) |
+| 2026-07-10 | Einstein's relativity rules chemical bonds in heavy elements, new research shows | HN | Technology | tech | 2026-07-10 | [link](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) |
+| 2026-07-10 | In Emacs, everything looks like a service | HN | Technology | tech | 2026-07-10 | [link](http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html) |
+| 2026-07-10 | The tech of 'Terminator 2' – an oral history (2017) | HN | Technology | tech | 2026-07-10 | [link](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/) |
+| 2026-07-10 | Successful companies go blind | HN | Technology | tech | 2026-07-10 | [link](https://ianreppel.org/how-successful-companies-go-blind/) |
+| 2026-07-10 | How the terrorist group Boko Haram uses frontier AI | HN | Technology | tech | 2026-07-10 | [link](https://casp.ac/reports/ai-enabled-terrorism) |
+| 2026-07-10 | An update on residential proxies and the scraper situation | HN | Technology | tech | 2026-07-10 | [link](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/) |
+| 2026-07-10 | Snails' teeth beats spider silk as nature's strongest material (2015) | HN | Technology | tech | 2026-07-10 | [link](https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/) |
+| 2026-07-10 | A.I. Has Rewarded Investors. It May Now Pose Their Greatest Risk. | NYT · AI | AI | news | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/business/ai-stocks-bonds-investing-markets.html) |
+| 2026-07-10 | This Is a Lot More Worrying Than the Supreme Court’s Ruling on Executive Power | NYT · AI | AI | opinion | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/opinion/executive-power-supreme-court-trump.html) |
+| 2026-07-10 | SK Hynix Stock Rises on First Day of US Trading | NYT · AI | AI | news | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html) |
+| 2026-07-10 | Do Social Media Bans Work? + A Conversation About A.I. Consciousness + Tool Time | NYT · AI | AI | news | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/podcasts/hardfork-social-media-bans.html) |
+| 2026-07-10 | New York Times and Other Publishers Ask Court to Penalize OpenAI | NYT · AI | AI | news | 2026-07-10 | [link](https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html) |
+| 2026-07-10 | A $3.2 Trillion Deal-Making Frenzy Is Spurred by the A.I. Economy | NYT · AI | AI | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/business/ai-boom-corporate-deals.html) |
+| 2026-07-10 | How Terrorist Groups Are Using A.I. to Gain an Edge in Battle | NYT · AI | AI | news | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html) |
+| 2026-07-10 | Warsh Announces Slate of New Advisers for Fed Task Forces | NYT · Business | Business | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/business/warsh-announces-slate-of-new-advisers-for-fed-task-forces.html) |
+| 2026-07-10 | Meta Removes A.I. Feature on Instagram After Days of Backlash | NYT · AI | AI | news | 2026-07-11 | [link](https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html) |
+| 2026-07-10 | John Deere Farm Equipment Owners Have Right-to-Repair, F.T.C. Says | NYT · Technology | Technology | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/business/john-deere-ftc-right-to-repair.html) |
+| 2026-07-10 | Wall St. Sets Limits on Prediction Market Trading | NYT · Business | Business | news | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/business/dealbook/goldman-prediction-markets-wall-street.html) |
+| 2026-07-10 | Apple Sues OpenAI, Accusing It of Stealing Company Secrets | NYT · AI | AI | news | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html) |
+| 2026-07-10 | OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet | NYT · Technology | Technology | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html) |
+| 2026-07-10 | Strait of Hormuz Will Soon Be Declared Open to All Traffic, U.S. Officials Say | NYT · Politics | Politics | news | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/us/politics/strait-hormuz-safe-passage.html) |
+| 2026-07-10 | Jerrold Nadler: Penn Station Won’t Fund Itself | NYT · Opinion | Opinion | opinion | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/opinion/penn-station-new-york-trump.html) |
+| 2026-07-10 | Bipartisan Housing Bill Becomes Law Even Though Trump Refuses to Sign It | NYT · Politics | Politics | news | 2026-07-11 | [link](https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html) |
+| 2026-07-10 | How Marco Rubio is Running Venezuela From Afar | NYT · Politics | Politics | news | 2026-07-11 | [link](https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html) |
+| 2026-07-10 | Trump Cuts Habitat Protections for Endangered Species | NYT · Energy & Environment | Energy & Environment | news | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/climate/endangered-species-act-harm.html) |
+| 2026-07-10 | A.I. Is Strangling Our Economy | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-07-02 | [link](https://www.nytimes.com/2026/06/29/opinion/ai-economy-affordability.html) |
+| 2026-07-10 | The Very Good and Very Bad News on Climate | NYT · Opinion | Opinion | opinion | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/opinion/ezra-klein-podcast-bill-mckibben.html) |
+| 2026-07-10 | Quoting Nilay Patel | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-10 | [link](https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything) |
+| 2026-07-10 | Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-10 | [link](https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47?st=NfBZTe) |
+| 2026-07-10 | Quoting OpenAI | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-10 | [link](https://simonwillison.net/2026/Jul/10/openai/#atom-everything) |
+| 2026-07-10 | New GPT-Live-1 model can speak and listen at the same time — and interrupt you less. | Superpower Daily · Tech & Engineering | Technology | tech | 2026-07-10 | [link](https://www.superpowerdaily.com/p/new-gpt-live-1-model-can-speak-and-listen-at-the-same-time-and-interrupt-you-less) |
+| 2026-07-10 | Game Review: Lovers In A Dangerous Spacetime ★★★☆☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-07-10 | [link](https://shkspr.mobi/blog/2026/07/game-review-lovers-in-a-dangerous-spacetime/) |
+| 2026-07-10 | My profile title has changed 4 times in 2 years | Reddit | Business | social | 2026-07-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ush697/my_profile_title_has_changed_4_times_in_2_years/) |
+| 2026-07-10 | Anthropic can't remove F@ble from the subscription tier | Reddit | Business | social | 2026-07-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1usl9ov/anthropic_cant_remove_fble_from_the_subscription/) |
+| 2026-07-10 | DeepSWE just added the gpt-5.6 models to their benchmark. I hope you guys don't get too used to Clau | Reddit | Business | social | 2026-07-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1usavpc/deepswe_just_added_the_gpt56_models_to_their/) |
+| 2026-07-10 | Fable 5 in caveman mode comparing himself to gpt 5.6 is hilarious | Reddit | Business | social | 2026-07-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1us8mjs/fable_5_in_caveman_mode_comparing_himself_to_gpt/) |
+| 2026-07-10 | Claude Code on desktop now has an in-app browser. | Reddit | Business | social | 2026-07-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1usx952/claude_code_on_desktop_now_has_an_inapp_browser/) |
+| 2026-07-10 | How Claude does my 40 hour a week job by itself - for 15 Cents | Reddit | Business | social | 2026-07-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uszlay/how_claude_does_my_40_hour_a_week_job_by_itself/) |
+| 2026-07-10 | I made a Pirate MMO with Fable, and the entire game is only 5MB. | Reddit | Business | social | 2026-07-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1usno3r/i_made_a_pirate_mmo_with_fable_and_the_entire/) |
+| 2026-07-10 | Finally made an org chart for my company | Reddit | Business | social | 2026-07-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ustclt/finally_made_an_org_chart_for_my_company/) |
+| 2026-07-10 | What magic have you created using Claude? Here's mine | Reddit | Business | social | 2026-07-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ut0krp/what_magic_have_you_created_using_claude_heres/) |
+| 2026-07-10 | I’m loosing it | Reddit | Business | social | 2026-07-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1usv322/im_loosing_it/) |
+| 2026-07-10 | Anthropic Almost Won Us Back… Now Put Fable in Max Before We Pack for OpenAI | Reddit | Business | social | 2026-07-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1usj958/anthropic_almost_won_us_back_now_put_fable_in_max/) |
+| 2026-07-10 | This concerns me more than fable potentially getting removed next week | Reddit | Business | social | 2026-07-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ut06y3/this_concerns_me_more_than_fable_potentially/) |
+| 2026-07-10 | we all need to post on twitter and reddit saying how amazing gpt sol is and how we are switching so  | Reddit | Business | social | 2026-07-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ussfsd/we_all_need_to_post_on_twitter_and_reddit_saying/) |
+| 2026-07-10 | Soo what's the point of my 20x max subscription if i cant have frontier access? | Reddit | Business | social | 2026-07-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ut2kwq/soo_whats_the_point_of_my_20x_max_subscription_if/) |
+| 2026-07-10 | How it feels using Fable 5 atm | Reddit | Business | social | 2026-07-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1usuwux/how_it_feels_using_fable_5_atm/) |
+| 2026-07-10 | how to make obsidian cute and functional | Reddit | Business | social | 2026-07-10 | [link](https://www.reddit.com/r/ObsidianMD/comments/1usx2il/how_to_make_obsidian_cute_and_functional/) |
+| 2026-07-10 | My plugin now has build-in IDE! Scoped Snippets | Reddit | Business | social | 2026-07-10 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uslaw4/my_plugin_now_has_buildin_ide_scoped_snippets/) |
+| 2026-07-10 | When do you move your academic paper from Obsidian to Word? | Reddit | Business | social | 2026-07-10 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uszzbr/when_do_you_move_your_academic_paper_from/) |
+| 2026-07-10 | Using obsidian for PhD | Reddit | Business | social | 2026-07-10 | [link](https://www.reddit.com/r/ObsidianMD/comments/1usjuct/using_obsidian_for_phd/) |
+| 2026-07-10 | Found the Callout Edit Menu! | Reddit | Business | social | 2026-07-10 | [link](https://www.reddit.com/r/ObsidianMD/comments/1usy69a/found_the_callout_edit_menu/) |
+| 2026-07-10 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-09 | EU Parliament greenlights Chat Control 1.0 | HN | Technology | tech | 2026-07-09 | [link](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/) |
 | 2026-07-09 | GPT-5.6 | HN | Technology | tech | 2026-07-09 | [link](https://openai.com/index/gpt-5-6/) |
 | 2026-07-09 | Show HN: 18 Words | HN | Technology | tech | 2026-07-09 | [link](https://18words.com/) |

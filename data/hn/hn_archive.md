@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-10 · 432 days · 4320 stories*
+*Last updated: 2026-07-11 · 433 days · 4330 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-10 | Friday | 1 | Apple sues OpenAI, accuses ex-employees of stealing trade secrets | 1070 | 554 | Technology | [link](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) · [HN](https://news.ycombinator.com/item?id=48865019) |
+| 2026-07-10 | Friday | 2 | QuadRF can spot drones and see WiFi through my wall | 585 | 193 | Technology | [link](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) · [HN](https://news.ycombinator.com/item?id=48861717) |
+| 2026-07-10 | Friday | 3 | New York City to ban deceptive subscription practices | 522 | 250 | Technology | [link](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban) · [HN](https://news.ycombinator.com/item?id=48863464) |
+| 2026-07-10 | Friday | 4 | GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf] | 453 | 363 | Technology | [link](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf) · [HN](https://news.ycombinator.com/item?id=48863490) |
+| 2026-07-10 | Friday | 5 | Good Tools Are Invisible | 435 | 202 | Technology | [link](https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/) · [HN](https://news.ycombinator.com/item?id=48858121) |
+| 2026-07-10 | Friday | 6 | Late Bronze Age Collapse | 369 | 251 | Technology | [link](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/) · [HN](https://news.ycombinator.com/item?id=48858737) |
+| 2026-07-10 | Friday | 7 | Write code like a human will maintain it | 331 | 284 | Technology | [link](https://unstack.io/write-code-like-a-human-will-maintain-it) · [HN](https://news.ycombinator.com/item?id=48859701) |
+| 2026-07-10 | Friday | 8 | AI-generated videos to maximally drive a target brain region | 278 | 230 | Technology | [link](https://nevo-project.epfl.ch/) · [HN](https://news.ycombinator.com/item?id=48856904) |
+| 2026-07-10 | Friday | 9 | EU Commission: addictive design Instagram and Facebook in breach of the DSA | 262 | 179 | Technology | [link](https://ec.europa.eu/commission/presscorner/home/en) · [HN](https://news.ycombinator.com/item?id=48858292) |
+| 2026-07-10 | Friday | 10 | Einstein's relativity rules chemical bonds in heavy elements, new research shows | 245 | 86 | Technology | [link](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) · [HN](https://news.ycombinator.com/item?id=48866134) |
 | 2026-07-09 | Thursday | 1 | EU Parliament greenlights Chat Control 1.0 | 1394 | 656 | Technology | [link](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/) · [HN](https://news.ycombinator.com/item?id=48843923) |
 | 2026-07-09 | Thursday | 2 | GPT-5.6 | 1276 | 907 | Technology | [link](https://openai.com/index/gpt-5-6/) · [HN](https://news.ycombinator.com/item?id=48849066) |
 | 2026-07-09 | Thursday | 3 | Show HN: 18 Words | 994 | 318 | Technology | [link](https://18words.com/) · [HN](https://news.ycombinator.com/item?id=48845049) |
