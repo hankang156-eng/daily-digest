@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-11 · 433 days · 4330 stories*
+*Last updated: 2026-07-12 · 434 days · 4340 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-11 | Saturday | 1 | Female US rower completes historic solo journey from California to Hawaii | 296 | 100 | Technology | [link](https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey) · [HN](https://news.ycombinator.com/item?id=48873692) |
+| 2026-07-11 | Saturday | 2 | Prefer strict tables in SQLite | 290 | 136 | Technology | [link](https://evanhahn.com/prefer-strict-tables-in-sqlite/) · [HN](https://news.ycombinator.com/item?id=48873940) |
+| 2026-07-11 | Saturday | 3 | What xAI's Grok Build CLI Actually Sends to xAI | 277 | 130 | Technology | [link](https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547) · [HN](https://news.ycombinator.com/item?id=48877371) |
+| 2026-07-11 | Saturday | 4 | Show HN: Ant – A JavaScript runtime and ecosystem | 269 | 115 | Technology | [link](https://antjs.org) · [HN](https://news.ycombinator.com/item?id=48875377) |
+| 2026-07-11 | Saturday | 5 | Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom | 262 | 100 | Technology | [link](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom) · [HN](https://news.ycombinator.com/item?id=48873836) |
+| 2026-07-11 | Saturday | 6 | Mesh LLM: distributed AI computing on iroh | 257 | 58 | Technology | [link](https://www.iroh.computer/blog/mesh-llm) · [HN](https://news.ycombinator.com/item?id=48876505) |
+| 2026-07-11 | Saturday | 7 | Ghost Font: A font that humans can read but AI cannot | 212 | 155 | Technology | [link](https://www.mixfont.com/ghost-font) · [HN](https://news.ycombinator.com/item?id=48870381) |
+| 2026-07-11 | Saturday | 8 | We scaled PgBouncer to 4x throughput | 210 | 50 | Technology | [link](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres) · [HN](https://news.ycombinator.com/item?id=48872874) |
+| 2026-07-11 | Saturday | 9 | The vintage beauty of Soviet control rooms (2018) | 205 | 66 | Technology | [link](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/) · [HN](https://news.ycombinator.com/item?id=48868996) |
+| 2026-07-11 | Saturday | 10 | AI 2040 and the cult of intelligence | 203 | 233 | Technology | [link](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html) · [HN](https://news.ycombinator.com/item?id=48874200) |
 | 2026-07-10 | Friday | 1 | Apple sues OpenAI, accuses ex-employees of stealing trade secrets | 1070 | 554 | Technology | [link](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) · [HN](https://news.ycombinator.com/item?id=48865019) |
 | 2026-07-10 | Friday | 2 | QuadRF can spot drones and see WiFi through my wall | 585 | 193 | Technology | [link](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) · [HN](https://news.ycombinator.com/item?id=48861717) |
 | 2026-07-10 | Friday | 3 | New York City to ban deceptive subscription practices | 522 | 250 | Technology | [link](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban) · [HN](https://news.ycombinator.com/item?id=48863464) |

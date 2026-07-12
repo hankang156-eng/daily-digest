@@ -1,9 +1,70 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-11 · 3591 items*
+*Last updated: 2026-07-12 · 3652 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-11 | Female US rower completes historic solo journey from California to Hawaii | HN | Technology | tech | 2026-07-11 | [link](https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey) |
+| 2026-07-11 | Prefer strict tables in SQLite | HN | Technology | tech | 2026-07-11 | [link](https://evanhahn.com/prefer-strict-tables-in-sqlite/) |
+| 2026-07-11 | What xAI's Grok Build CLI Actually Sends to xAI | HN | Technology | tech | 2026-07-11 | [link](https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547) |
+| 2026-07-11 | Show HN: Ant – A JavaScript runtime and ecosystem | HN | Technology | tech | 2026-07-11 | [link](https://antjs.org) |
+| 2026-07-11 | Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom | HN | Technology | tech | 2026-07-11 | [link](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom) |
+| 2026-07-11 | Mesh LLM: distributed AI computing on iroh | HN | Technology | tech | 2026-07-11 | [link](https://www.iroh.computer/blog/mesh-llm) |
+| 2026-07-11 | Ghost Font: A font that humans can read but AI cannot | HN | Technology | tech | 2026-07-11 | [link](https://www.mixfont.com/ghost-font) |
+| 2026-07-11 | We scaled PgBouncer to 4x throughput | HN | Technology | tech | 2026-07-11 | [link](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres) |
+| 2026-07-11 | The vintage beauty of Soviet control rooms (2018) | HN | Technology | tech | 2026-07-11 | [link](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/) |
+| 2026-07-11 | AI 2040 and the cult of intelligence | HN | Technology | tech | 2026-07-11 | [link](https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html) |
+| 2026-07-11 | Networking and the Internet, from First Principles | HN | Technology | tech | 2026-07-11 | [link](https://fazamhd.com/mental-models/networking/) |
+| 2026-07-11 | Modern decor may be straining people's brains | HN | Technology | tech | 2026-07-11 | [link](https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/) |
+| 2026-07-11 | UPI: Anatomy of a Payment Transaction | HN | Technology | tech | 2026-07-11 | [link](https://timeseriesofindia.com/economy/reads/upi-architecture/) |
+| 2026-07-11 | Leaded gas was a known poison the day it was invented (2016) | HN | Technology | tech | 2026-07-11 | [link](https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/) |
+| 2026-07-11 | How Doctors die. It’s not like the rest of us (2016) | HN | Technology | tech | 2026-07-11 | [link](https://archive.cancerworld.net/featured/how-doctors-die/) |
+| 2026-07-11 | Stop Telling Me to Ask an LLM | HN | Technology | tech | 2026-07-11 | [link](https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/) |
+| 2026-07-11 | Inside the Secret Factory That Supplies Ukraine’s War Drones | NYT · AI | AI | news | 2026-07-11 | [link](https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html) |
+| 2026-07-11 | We Returned From China. We Realized Our Century’s Biggest Challenge. | NYT · AI | AI | opinion | 2026-07-11 | [link](https://www.nytimes.com/2026/07/11/opinion/ai-populism-china-open-source.html) |
+| 2026-07-11 | A.I. Has Rewarded Investors. It May Now Pose Their Greatest Risk. | NYT · AI | AI | news | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/business/ai-stocks-bonds-investing-markets.html) |
+| 2026-07-11 | This Is a Lot More Worrying Than the Supreme Court’s Ruling on Executive Power | NYT · AI | AI | opinion | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/opinion/executive-power-supreme-court-trump.html) |
+| 2026-07-11 | A $3.2 Trillion Deal-Making Frenzy Is Spurred by the A.I. Economy | NYT · AI | AI | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/business/ai-boom-corporate-deals.html) |
+| 2026-07-11 | SK Hynix Stock Rises on First Day of US Trading | NYT · AI | AI | news | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html) |
+| 2026-07-11 | New York Times and Other Publishers Ask Court to Penalize OpenAI | NYT · AI | AI | news | 2026-07-10 | [link](https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html) |
+| 2026-07-11 | Meta Removes A.I. Feature on Instagram After Days of Backlash | NYT · AI | AI | news | 2026-07-11 | [link](https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html) |
+| 2026-07-11 | Blanche Stares Down Confirmation Hurdle: Lingering G.O.P. Doubts | NYT · Politics | Politics | news | 2026-07-12 | [link](https://www.nytimes.com/2026/07/12/us/politics/todd-blanche-attorney-general-confirmation.html) |
+| 2026-07-11 | Warsh Announces Slate of New Advisers for Fed Task Forces | NYT · Business | Business | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/business/warsh-announces-slate-of-new-advisers-for-fed-task-forces.html) |
+| 2026-07-11 | Apple Sues OpenAI, Accusing It of Stealing Company Secrets | NYT · AI | AI | news | 2026-07-11 | [link](https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html) |
+| 2026-07-11 | The World Is Cutting Ties With America. It’s Already Costing Us. | NYT · AI | AI | opinion | 2026-07-12 | [link](https://www.nytimes.com/2026/07/12/opinion/america-trump-nato-europe-world.html) |
+| 2026-07-11 | Trump Accounts Prompt Parents to Start Saving Early for Their Kids | NYT · Business | Business | news | 2026-07-11 | [link](https://www.nytimes.com/2026/07/11/business/trump-accounts-investing-kids.html) |
+| 2026-07-11 | Do Social Media Bans Work? + A Conversation About A.I. Consciousness + Tool Time | NYT · Technology | Technology | news | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/podcasts/hardfork-social-media-bans.html) |
+| 2026-07-11 | OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet | NYT · Technology | Technology | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html) |
+| 2026-07-11 | Jerrold Nadler: Penn Station Won’t Fund Itself | NYT · Opinion | Opinion | opinion | 2026-07-11 | [link](https://www.nytimes.com/2026/07/10/opinion/penn-station-new-york-trump.html) |
+| 2026-07-11 | Maine Democrats Will Replace Graham Platner. Here’s What to Know. | NYT · Politics | Politics | news | 2026-07-12 | [link](https://www.nytimes.com/2026/07/11/us/politics/maine-senate-nomination-democrats-convention.html) |
+| 2026-07-11 | Trump-Appointed Judge Reluctantly Grants Dismissal of Proud Boys Case | NYT · Politics | Politics | news | 2026-07-11 | [link](https://www.nytimes.com/2026/07/11/us/politics/judge-proud-boys-sedition-dismissal.html) |
+| 2026-07-11 | How Marco Rubio Is Running Venezuela From Afar | NYT · Politics | Politics | news | 2026-07-12 | [link](https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html) |
+| 2026-07-11 | Mega I.P.O. Frenzy Could Be a Harbinger of a Stock Bubble | NYT · Your Money | Your Money | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/business/spacex-ipo-musk-stock-bubble.html) |
+| 2026-07-11 | Gurman on Tang Tan and Paul Meade | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-11 | [link](https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple) |
+| 2026-07-11 | Can Someone Explain to Me How to Get ‘ChatGPT Classic’? | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-11 | [link](https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app) |
+| 2026-07-11 | sqlite-utils 4.1 | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-11 | [link](https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything) |
+| 2026-07-11 | X just gave us an interface that AI agents can use. I pointed it at my own posts. | Lemire.me · Tech & Engineering | Technology | tech | 2026-07-11 | [link](https://lemire.me/blog/2026/07/11/x-just-gave-us-an-interface-that-ai-agents-can-use-i-pointed-it-at-my-own-posts/) |
+| 2026-07-11 | A differents | Reddit | Business | social | 2026-07-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1utp58k/a_differents/) |
+| 2026-07-11 | Expectation vs Reality | Reddit | Business | social | 2026-07-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1utghul/expectation_vs_reality/) |
+| 2026-07-11 | Close Enough | Reddit | Business | social | 2026-07-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ut5wvq/close_enough/) |
+| 2026-07-11 | Claude did a task for me at work that made me feel like it’s getting too good | Reddit | Business | social | 2026-07-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ut4jv0/claude_did_a_task_for_me_at_work_that_made_me/) |
+| 2026-07-11 | Claude Code turned off my WiFi to “test something” | Reddit | Business | social | 2026-07-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uts1ra/claude_code_turned_off_my_wifi_to_test_something/) |
+| 2026-07-11 | Sonnet 5 was supposed to be cheaper. It cost me more than Fable 5 | Reddit | Business | social | 2026-07-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1utjwjl/sonnet_5_was_supposed_to_be_cheaper_it_cost_me/) |
+| 2026-07-11 | Claude randomly started calling me Hassan | Reddit | Business | social | 2026-07-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1utn0pn/claude_randomly_started_calling_me_hassan/) |
+| 2026-07-11 | Why can't claude read reddit? | Reddit | Business | social | 2026-07-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1utab6f/why_cant_claude_read_reddit/) |
+| 2026-07-11 | An AC-130 Game with Claude | Reddit | Business | social | 2026-07-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1utlddo/an_ac130_game_with_claude/) |
+| 2026-07-11 | 19 days, 245 sessions, 123M tokens in Claude Code: the 7 things that actually mattered | Reddit | Business | social | 2026-07-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ut866f/19_days_245_sessions_123m_tokens_in_claude_code/) |
+| 2026-07-11 | Fable 5 Is Leaving and Weekly Limits will Be Cut by 50% after july 13, Is Claude Still Worth Renewin | Reddit | Business | social | 2026-07-11 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uttt60/fable_5_is_leaving_and_weekly_limits_will_be_cut/) |
+| 2026-07-11 | This made me laugh then I kept wondering silently. | Reddit | Business | social | 2026-07-11 | [link](https://www.reddit.com/r/ClaudeCode/comments/1utwl8d/this_made_me_laugh_then_i_kept_wondering_silently/) |
+| 2026-07-11 | Claude has removed the Fable 50% limit?! | Reddit | Business | social | 2026-07-11 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uthv4g/claude_has_removed_the_fable_50_limit/) |
+| 2026-07-11 | Everyone leaves Anthropic when Fable is out right? | Reddit | Business | social | 2026-07-11 | [link](https://www.reddit.com/r/ClaudeCode/comments/1utwt8q/everyone_leaves_anthropic_when_fable_is_out_right/) |
+| 2026-07-11 | Using Fable 5 pushed me toward GPT-5.6 Sol | Reddit | Business | social | 2026-07-11 | [link](https://www.reddit.com/r/ClaudeCode/comments/1utji2o/using_fable_5_pushed_me_toward_gpt56_sol/) |
+| 2026-07-11 | After so many changes, I think I am finally starting to like how it looks. | Reddit | Business | social | 2026-07-11 | [link](https://www.reddit.com/r/ObsidianMD/comments/1utryp7/after_so_many_changes_i_think_i_am_finally/) |
+| 2026-07-11 | Made Cursor-Smith. The ultimate cursor customization tool for your writing. | Reddit | Business | social | 2026-07-11 | [link](https://www.reddit.com/r/ObsidianMD/comments/1utn9ic/made_cursorsmith_the_ultimate_cursor/) |
+| 2026-07-11 | The most effortless vault: one big ol' folder | Reddit | Business | social | 2026-07-11 | [link](https://www.reddit.com/r/ObsidianMD/comments/1utthpj/the_most_effortless_vault_one_big_ol_folder/) |
+| 2026-07-11 | What is the best minimalistic theme you know? | Reddit | Business | social | 2026-07-11 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uthtk1/what_is_the_best_minimalistic_theme_you_know/) |
+| 2026-07-11 | Plugins or tips to make a Fandom Wiki? | Reddit | Business | social | 2026-07-11 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ut4xpv/plugins_or_tips_to_make_a_fandom_wiki/) |
+| 2026-07-11 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-10 | Apple sues OpenAI, accuses ex-employees of stealing trade secrets | HN | Technology | tech | 2026-07-10 | [link](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) |
 | 2026-07-10 | QuadRF can spot drones and see WiFi through my wall | HN | Technology | tech | 2026-07-10 | [link](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) |
 | 2026-07-10 | New York City to ban deceptive subscription practices | HN | Technology | tech | 2026-07-10 | [link](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban) |
