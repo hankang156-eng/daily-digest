@@ -1,9 +1,71 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-12 · 3652 items*
+*Last updated: 2026-07-13 · 3714 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-12 | Ask HN: Add flag for AI-generated articles | HN | Technology | tech | 2026-07-12 | [link](https://news.ycombinator.com/item?id=48886741) |
+| 2026-07-12 | Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k | HN | Technology | tech | 2026-07-12 | [link](https://systima.ai/blog/claude-code-vs-opencode-token-overhead) |
+| 2026-07-12 | Old and new apps, via modern coding agents | HN | Technology | tech | 2026-07-12 | [link](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/) |
+| 2026-07-12 | I love LLMs, I hate hype | HN | Technology | tech | 2026-07-12 | [link](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html) |
+| 2026-07-12 | Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS | HN | Technology | tech | 2026-07-12 | [link](https://scrapfly.dev/posts/browser-math-os-fingerprint/) |
+| 2026-07-12 | How to read more books | HN | Technology | tech | 2026-07-12 | [link](https://scotto.me/blog/2026-07-12-how-to-read-more-books/) |
+| 2026-07-12 | Ghostel.el: Terminal emulator powered by libghostty | HN | Technology | tech | 2026-07-12 | [link](https://dakra.github.io/ghostel/) |
+| 2026-07-12 | Tiny Emulators | HN | Technology | tech | 2026-07-12 | [link](https://floooh.github.io/tiny8bit-preview/index.html) |
+| 2026-07-12 | LARP – Revenue infrastructure for serious founders | HN | Technology | tech | 2026-07-12 | [link](https://www.larp.website/) |
+| 2026-07-12 | The shingles vaccine may reduce the risk of dementia | HN | Technology | tech | 2026-07-12 | [link](https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain) |
+| 2026-07-12 | Irish datacenters now guzzle 23% of the country's electricity | HN | Technology | tech | 2026-07-12 | [link](https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013) |
+| 2026-07-12 | Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper | HN | Technology | tech | 2026-07-12 | [link](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6) |
+| 2026-07-12 | Don't you mean extinct? | HN | Technology | tech | 2026-07-12 | [link](https://fabiensanglard.net/extinct/index.html) |
+| 2026-07-12 | Under federal rule, colleges must leave grads better off or lose financial aid | HN | Technology | tech | 2026-07-12 | [link](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans) |
+| 2026-07-12 | Cyberpunk Comics, Manga and Graphic Novels | HN | Technology | tech | 2026-07-12 | [link](https://shellzine.net/cyberpunk-comics/) |
+| 2026-07-12 | Ask HN: What Are You Working On? (July 2026) | HN | Technology | tech | 2026-07-12 | [link](https://news.ycombinator.com/item?id=48884984) |
+| 2026-07-12 | States Prepare Lawsuit to Block Paramount’s Merger With Warner Bros. | NYT · Business | Business | news | 2026-07-12 | [link](https://www.nytimes.com/2026/07/12/business/state-ag-lawsuit-paramount-warner-bros.html) |
+| 2026-07-12 | What the Fight With Anthropic Reveals About Free Speech in America | NYT · AI | AI | opinion | 2026-07-13 | [link](https://www.nytimes.com/2026/07/13/opinion/ai-code-free-speech.html) |
+| 2026-07-12 | Inside the Secret Factory That Supplies Ukraine’s War Drones | NYT · AI | AI | news | 2026-07-11 | [link](https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html) |
+| 2026-07-12 | This Is a Lot More Worrying Than the Supreme Court’s Ruling on Executive Power | NYT · AI | AI | opinion | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/opinion/executive-power-supreme-court-trump.html) |
+| 2026-07-12 | A $3.2 Trillion Deal-Making Frenzy Is Spurred by the A.I. Economy | NYT · AI | AI | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/business/ai-boom-corporate-deals.html) |
+| 2026-07-12 | We Returned From China. We Realized Our Century’s Biggest Challenge. | NYT · AI | AI | opinion | 2026-07-11 | [link](https://www.nytimes.com/2026/07/11/opinion/ai-populism-china-open-source.html) |
+| 2026-07-12 | SK Hynix Stock Rises on First Day of US Trading | NYT · AI | AI | news | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html) |
+| 2026-07-12 | New York Times and Other Publishers Ask Court to Penalize OpenAI | NYT · AI | AI | news | 2026-07-10 | [link](https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html) |
+| 2026-07-12 | Blanche Stares Down Confirmation Hurdle: Lingering G.O.P. Doubts | NYT · Politics | Politics | news | 2026-07-12 | [link](https://www.nytimes.com/2026/07/12/us/politics/todd-blanche-attorney-general-confirmation.html) |
+| 2026-07-12 | A.I. Has Rewarded Investors. It May Now Pose Their Greatest Risk. | NYT · Business | Business | news | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/business/ai-stocks-bonds-investing-markets.html) |
+| 2026-07-12 | The World Is Cutting Ties With America. It’s Already Costing Us. | NYT · AI | AI | opinion | 2026-07-12 | [link](https://www.nytimes.com/2026/07/12/opinion/america-trump-nato-europe-world.html) |
+| 2026-07-12 | Warsh Announces Slate of New Advisers for Fed Task Forces | NYT · Business | Business | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/business/warsh-announces-slate-of-new-advisers-for-fed-task-forces.html) |
+| 2026-07-12 | Meta Removes A.I. Feature on Instagram After Days of Backlash | NYT · AI | AI | news | 2026-07-11 | [link](https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html) |
+| 2026-07-12 | Do Social Media Bans Work? + A Conversation About A.I. Consciousness + Tool Time | NYT · Technology | Technology | news | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/podcasts/hardfork-social-media-bans.html) |
+| 2026-07-12 | With Threats Rising, Supreme Court Asks Congress to Increase Security Funds | NYT · Politics | Politics | news | 2026-07-13 | [link](https://www.nytimes.com/2026/07/13/us/politics/supreme-court-security-budget-testimony.html) |
+| 2026-07-12 | The Small-Business Owners Managing Whole Armies of A.I. Employees | NYT · AI | AI | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html) |
+| 2026-07-12 | Apple Sues OpenAI, Accusing It of Stealing Company Secrets | NYT · AI | AI | news | 2026-07-11 | [link](https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html) |
+| 2026-07-12 | Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate | NYT · Politics | Politics | news | 2026-07-13 | [link](https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-senate-force.html) |
+| 2026-07-12 | Michael Cohen Helped Convict Trump. Now, He’s Making Nice Again. | NYT · Politics | Politics | news | 2026-07-13 | [link](https://www.nytimes.com/2026/07/12/us/politics/trump-cohen-meeting-show.html) |
+| 2026-07-12 | Mega I.P.O. Frenzy Could Be a Harbinger of a Stock Bubble | NYT · Your Money | Your Money | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/business/spacex-ipo-musk-stock-bubble.html) |
+| 2026-07-12 | Directly Responsible Individuals (DRI) | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-12 | [link](https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything) |
+| 2026-07-12 | Fable gets another bump | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-12 | [link](https://simonwillison.net/2026/Jul/12/bump/#atom-everything) |
+| 2026-07-12 | WorkOS Pipes | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-12 | [link](https://workos.com/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) |
+| 2026-07-12 | Sam Altman and Elon Musk Argue Over Who’s Running the Bigger Scam | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-12 | [link](https://x.com/sama/status/2075982617976230043) |
+| 2026-07-12 | Another Ridiculous Interrail Holiday - 6,379Km and 13 Countries over 7 weeks | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-07-12 | [link](https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/) |
+| 2026-07-12 | Access has been extended! | Reddit | Business | social | 2026-07-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uul693/access_has_been_extended/) |
+| 2026-07-12 | Why the majority of vibe coded projects fail | Reddit | Business | social | 2026-07-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uu17ll/why_the_majority_of_vibe_coded_projects_fail/) |
+| 2026-07-12 | Sussy usage | Reddit | Business | social | 2026-07-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uulu1c/sussy_usage/) |
+| 2026-07-12 | Is Anthropic shooting themselves in the foot by pulling Fab 5 from subscriptions tonight? | Reddit | Business | social | 2026-07-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uu9egf/is_anthropic_shooting_themselves_in_the_foot_by/) |
+| 2026-07-12 | fAiR pUsHbAcK | Reddit | Business | social | 2026-07-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uuovs4/fair_pushback/) |
+| 2026-07-12 | I'm paying $200/month, and after tomorrow, I can't access Anthropic's best model with my sub? | Reddit | Business | social | 2026-07-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uudibj/im_paying_200month_and_after_tomorrow_i_cant/) |
+| 2026-07-12 | Day 43 of building GTA 6 using claude | Reddit | Business | social | 2026-07-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uub12j/day_43_of_building_gta_6_using_claude/) |
+| 2026-07-12 | i'm a high school teacher and Claude quietly gave me back the one thing i had none of, which was tim | Reddit | Business | social | 2026-07-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uud8y0/im_a_high_school_teacher_and_claude_quietly_gave/) |
+| 2026-07-12 | Did not expext Fable 5 to be this good!✨ | Reddit | Business | social | 2026-07-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uuuhj8/did_not_expext_fable_5_to_be_this_good/) |
+| 2026-07-12 | Anthropic just poached Google DeepMind's Nobel laureate and University of California, Berkeley's CS  | Reddit | Business | social | 2026-07-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uuscvt/anthropic_just_poached_google_deepminds_nobel/) |
+| 2026-07-12 | Here we go again!!! | Reddit | Business | social | 2026-07-12 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uul766/here_we_go_again/) |
+| 2026-07-12 | Anthropic, I think you really need to react. You're slowly losing ground. | Reddit | Business | social | 2026-07-12 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uuqz4l/anthropic_i_think_you_really_need_to_react_youre/) |
+| 2026-07-12 | See y'all next week | Reddit | Business | social | 2026-07-12 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uumz7i/see_yall_next_week/) |
+| 2026-07-12 | Subscriptions is less than 5% of revenue, they might not care enough to keep Fable around | Reddit | Business | social | 2026-07-12 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uu94xp/subscriptions_is_less_than_5_of_revenue_they/) |
+| 2026-07-12 | Fable and 50% limit increases extended to July 19 | Reddit | Business | social | 2026-07-12 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uul4bh/fable_and_50_limit_increases_extended_to_july_19/) |
+| 2026-07-12 | Obsidian Setup for Uni semester | Reddit | Business | social | 2026-07-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uuhlci/obsidian_setup_for_uni_semester/) |
+| 2026-07-12 | almost 1k files of market data | Reddit | Business | social | 2026-07-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uur1y4/almost_1k_files_of_market_data/) |
+| 2026-07-12 | Is there a way to better differentiate headings? | Reddit | Business | social | 2026-07-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uumbno/is_there_a_way_to_better_differentiate_headings/) |
+| 2026-07-12 | Echo Recall 2.0.0! - Now supports Anki Export :) | Reddit | Business | social | 2026-07-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uucn2g/echo_recall_200_now_supports_anki_export/) |
+| 2026-07-12 | My brain was chaos | Reddit | Business | social | 2026-07-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uuulno/my_brain_was_chaos/) |
+| 2026-07-12 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-11 | Female US rower completes historic solo journey from California to Hawaii | HN | Technology | tech | 2026-07-11 | [link](https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey) |
 | 2026-07-11 | Prefer strict tables in SQLite | HN | Technology | tech | 2026-07-11 | [link](https://evanhahn.com/prefer-strict-tables-in-sqlite/) |
 | 2026-07-11 | What xAI's Grok Build CLI Actually Sends to xAI | HN | Technology | tech | 2026-07-11 | [link](https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547) |

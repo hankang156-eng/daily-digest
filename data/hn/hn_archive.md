@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-12 · 434 days · 4340 stories*
+*Last updated: 2026-07-13 · 435 days · 4350 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-12 | Sunday | 1 | Ask HN: Add flag for AI-generated articles | 676 | 304 | Technology | [link](https://news.ycombinator.com/item?id=48886741) · [HN](https://news.ycombinator.com/item?id=48886741) |
+| 2026-07-12 | Sunday | 2 | Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k | 590 | 322 | Technology | [link](https://systima.ai/blog/claude-code-vs-opencode-token-overhead) · [HN](https://news.ycombinator.com/item?id=48883275) |
+| 2026-07-12 | Sunday | 3 | Old and new apps, via modern coding agents | 436 | 126 | Technology | [link](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/) · [HN](https://news.ycombinator.com/item?id=48880170) |
+| 2026-07-12 | Sunday | 4 | I love LLMs, I hate hype | 425 | 269 | Technology | [link](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html) · [HN](https://news.ycombinator.com/item?id=48883343) |
+| 2026-07-12 | Sunday | 5 | Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS | 402 | 191 | Technology | [link](https://scrapfly.dev/posts/browser-math-os-fingerprint/) · [HN](https://news.ycombinator.com/item?id=48884853) |
+| 2026-07-12 | Sunday | 6 | How to read more books | 365 | 193 | Technology | [link](https://scotto.me/blog/2026-07-12-how-to-read-more-books/) · [HN](https://news.ycombinator.com/item?id=48882056) |
+| 2026-07-12 | Sunday | 7 | Ghostel.el: Terminal emulator powered by libghostty | 279 | 58 | Technology | [link](https://dakra.github.io/ghostel/) · [HN](https://news.ycombinator.com/item?id=48879504) |
+| 2026-07-12 | Sunday | 8 | Tiny Emulators | 254 | 22 | Technology | [link](https://floooh.github.io/tiny8bit-preview/index.html) · [HN](https://news.ycombinator.com/item?id=48884395) |
+| 2026-07-12 | Sunday | 9 | LARP – Revenue infrastructure for serious founders | 243 | 50 | Technology | [link](https://www.larp.website/) · [HN](https://news.ycombinator.com/item?id=48882569) |
+| 2026-07-12 | Sunday | 10 | The shingles vaccine may reduce the risk of dementia | 241 | 195 | Technology | [link](https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain) · [HN](https://news.ycombinator.com/item?id=48881874) |
 | 2026-07-11 | Saturday | 1 | Female US rower completes historic solo journey from California to Hawaii | 296 | 100 | Technology | [link](https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey) · [HN](https://news.ycombinator.com/item?id=48873692) |
 | 2026-07-11 | Saturday | 2 | Prefer strict tables in SQLite | 290 | 136 | Technology | [link](https://evanhahn.com/prefer-strict-tables-in-sqlite/) · [HN](https://news.ycombinator.com/item?id=48873940) |
 | 2026-07-11 | Saturday | 3 | What xAI's Grok Build CLI Actually Sends to xAI | 277 | 130 | Technology | [link](https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547) · [HN](https://news.ycombinator.com/item?id=48877371) |
