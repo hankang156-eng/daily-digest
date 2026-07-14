@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-13 · 435 days · 4350 stories*
+*Last updated: 2026-07-14 · 436 days · 4360 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-13 | Monday | 1 | Zig Creator Calls Spade a Spade, Anthropic Blows Smoke | 1475 | 747 | Technology | [link](https://raymyers.org/post/zed-creator-calls-spade-a-spade/) · [HN](https://news.ycombinator.com/item?id=48889637) |
+| 2026-07-13 | Monday | 2 | A graph that should be front-page news | 659 | 411 | Technology | [link](https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news) · [HN](https://news.ycombinator.com/item?id=48888331) |
+| 2026-07-13 | Monday | 3 | Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor | 536 | 212 | Technology | [link](https://get-inscribe.com/blog/apple-speech-api-benchmark.html) · [HN](https://news.ycombinator.com/item?id=48894752) |
+| 2026-07-13 | Monday | 4 | Former NOAA employees built Climate.us to preserve climate data and resources | 502 | 182 | Technology | [link](https://19thnews.org/2026/07/noaa-climate-data-website/) · [HN](https://news.ycombinator.com/item?id=48897945) |
+| 2026-07-13 | Monday | 5 | Grok uploaded my user directory to xAI's servers | 499 | 18 | Technology | [link](https://twitter.com/a_green_being/status/2076598897779020159) · [HN](https://news.ycombinator.com/item?id=48892512) |
+| 2026-07-13 | Monday | 6 | Japan develops a method to recover up to 90% of lithium from used EV batteries | 480 | 114 | Technology | [link](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/) · [HN](https://news.ycombinator.com/item?id=48901569) |
+| 2026-07-13 | Monday | 7 | Building and shipping Mac and iOS apps without opening Xcode | 471 | 204 | Technology | [link](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) · [HN](https://news.ycombinator.com/item?id=48896665) |
+| 2026-07-13 | Monday | 8 | Sam Neill has died | 462 | 108 | Technology | [link](https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78) · [HN](https://news.ycombinator.com/item?id=48888468) |
+| 2026-07-13 | Monday | 9 | LAPD lets contract with surveillance giant Flock expire | 453 | 395 | Technology | [link](https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/) · [HN](https://news.ycombinator.com/item?id=48893947) |
+| 2026-07-13 | Monday | 10 | Show HN: Super Dario | 384 | 96 | Technology | [link](https://superdario.pawb.de) · [HN](https://news.ycombinator.com/item?id=48896286) |
 | 2026-07-12 | Sunday | 1 | Ask HN: Add flag for AI-generated articles | 676 | 304 | Technology | [link](https://news.ycombinator.com/item?id=48886741) · [HN](https://news.ycombinator.com/item?id=48886741) |
 | 2026-07-12 | Sunday | 2 | Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k | 590 | 322 | Technology | [link](https://systima.ai/blog/claude-code-vs-opencode-token-overhead) · [HN](https://news.ycombinator.com/item?id=48883275) |
 | 2026-07-12 | Sunday | 3 | Old and new apps, via modern coding agents | 436 | 126 | Technology | [link](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/) · [HN](https://news.ycombinator.com/item?id=48880170) |

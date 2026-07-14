@@ -1,9 +1,69 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-13 · 3714 items*
+*Last updated: 2026-07-14 · 3774 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-13 | Zig Creator Calls Spade a Spade, Anthropic Blows Smoke | HN | Technology | tech | 2026-07-13 | [link](https://raymyers.org/post/zed-creator-calls-spade-a-spade/) |
+| 2026-07-13 | A graph that should be front-page news | HN | Technology | tech | 2026-07-13 | [link](https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news) |
+| 2026-07-13 | Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor | HN | Technology | tech | 2026-07-13 | [link](https://get-inscribe.com/blog/apple-speech-api-benchmark.html) |
+| 2026-07-13 | Former NOAA employees built Climate.us to preserve climate data and resources | HN | Technology | tech | 2026-07-13 | [link](https://19thnews.org/2026/07/noaa-climate-data-website/) |
+| 2026-07-13 | Grok uploaded my user directory to xAI's servers | HN | Technology | tech | 2026-07-13 | [link](https://twitter.com/a_green_being/status/2076598897779020159) |
+| 2026-07-13 | Japan develops a method to recover up to 90% of lithium from used EV batteries | HN | Technology | tech | 2026-07-13 | [link](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/) |
+| 2026-07-13 | Building and shipping Mac and iOS apps without opening Xcode | HN | Technology | tech | 2026-07-13 | [link](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) |
+| 2026-07-13 | Sam Neill has died | HN | Technology | tech | 2026-07-13 | [link](https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78) |
+| 2026-07-13 | LAPD lets contract with surveillance giant Flock expire | HN | Technology | tech | 2026-07-13 | [link](https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/) |
+| 2026-07-13 | Show HN: Super Dario | HN | Technology | tech | 2026-07-13 | [link](https://superdario.pawb.de) |
+| 2026-07-13 | A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese | HN | Technology | tech | 2026-07-13 | [link](https://jivx.com/densha) |
+| 2026-07-13 | Count Binface | HN | Technology | tech | 2026-07-13 | [link](https://countbinface.com) |
+| 2026-07-13 | Samsung Health app threatens data deletion if users opt out AI training | HN | Technology | tech | 2026-07-13 | [link](https://neow.in/cWsyMTV3) |
+| 2026-07-13 | Telegram's t.me domain has been suspended | HN | Technology | tech | 2026-07-13 | [link](https://www.whois.com/whois/t.me) |
+| 2026-07-13 | DOGE is done. What happened to its records? | HN | Technology | tech | 2026-07-13 | [link](https://www.ms.now/opinion/doge-government-efficiency-records-job-cuts-elon-musk-foia) |
+| 2026-07-13 | The git history command | HN | Technology | tech | 2026-07-13 | [link](https://lalitm.com/post/git-history/) |
+| 2026-07-13 | U.S. Workers Are More Productive Than Ever. And That’s Without A.I. | NYT · AI | AI | news | 2026-07-14 | [link](https://www.nytimes.com/2026/07/14/business/worker-productivity-artificial-intelligence-economy.html) |
+| 2026-07-13 | Nearly 200 Economists and Tech Leaders Warn of A.I. Threats | NYT · AI | AI | news | 2026-07-13 | [link](https://www.nytimes.com/2026/07/13/business/economists-ai-threat-jobs.html) |
+| 2026-07-13 | The Housing Crisis Is Also a Retirement Crisis | NYT · AI | AI | opinion | 2026-07-14 | [link](https://www.nytimes.com/2026/07/14/opinion/housing-retirement-crisis.html) |
+| 2026-07-13 | Wall Street’s Big Week for Earnings and Economic Data | NYT · AI | AI | news | 2026-07-13 | [link](https://www.nytimes.com/2026/07/13/business/dealbook/wall-street-earnings.html) |
+| 2026-07-13 | Paramount-Warner Bros. Merger Is Challenged in Court by California and 11 Other States | NYT · Business | Business | news | 2026-07-14 | [link](https://www.nytimes.com/2026/07/13/business/paramount-warner-bros-lawsuit.html) |
+| 2026-07-13 | Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next? | NYT · AI | AI | news | 2026-07-13 | [link](https://www.nytimes.com/2026/07/13/business/economy/trump-equity-stakes-ai.html) |
+| 2026-07-13 | States Prepare Lawsuit to Block Paramount’s Merger With Warner Bros. | NYT · Business | Business | news | 2026-07-13 | [link](https://www.nytimes.com/2026/07/12/business/state-ag-lawsuit-paramount-warner-bros.html) |
+| 2026-07-13 | What the Fight With Anthropic Reveals About Free Speech in America | NYT · AI | AI | opinion | 2026-07-14 | [link](https://www.nytimes.com/2026/07/13/opinion/ai-code-free-speech.html) |
+| 2026-07-13 | OpenAI Is Showing Kalshi’s World Cup Odds in ChatGPT | NYT · AI | AI | news | 2026-07-14 | [link](https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html) |
+| 2026-07-13 | New York to Enact Nation’s First Statewide Moratorium on Data Centers | NYT · AI | AI | news | 2026-07-14 | [link](https://www.nytimes.com/2026/07/14/nyregion/new-york-data-center-moratorium-hochul.html) |
+| 2026-07-13 | How a Promising Navy Drone Boat Program Got Mired in Politics | NYT · Business | Business | news | 2026-07-14 | [link](https://www.nytimes.com/2026/07/14/us/politics/navy-drone-boat-acquisitions.html) |
+| 2026-07-13 | Health Dept. Rescinds Freeze on $10 Billion for 5 Democratic States | NYT · Politics | Politics | news | 2026-07-14 | [link](https://www.nytimes.com/2026/07/13/us/politics/trump-health-dept-funding-freeze-democratic-states.html) |
+| 2026-07-13 | Labels for Music Created With A.I. Could Join Explicit Lyrics Warnings | NYT · AI | AI | news | 2026-07-13 | [link](https://www.nytimes.com/2026/07/13/arts/music/ai-labels-warnings-riaa.html) |
+| 2026-07-13 | Should You Be Polite to A.I.? | NYT · AI | AI | news | 2026-07-13 | [link](https://www.nytimes.com/video/podcasts/100000011027443/should-you-be-polite-to-ai.html) |
+| 2026-07-13 | New York Times and Other Publishers Ask Court to Penalize OpenAI | NYT · AI | AI | news | 2026-07-10 | [link](https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html) |
+| 2026-07-13 | D.O.J. Turns Over Evidence in Minnesota D.H.S. Shootings | NYT · U.S. | U.S. | news | 2026-07-13 | [link](https://www.nytimes.com/2026/07/13/us/minnesota-ice-shootings-evidence-pretti-renee-good.html) |
+| 2026-07-13 | In Rare Testimony, Supreme Court Justices Will Ask Congress for Security Funds | NYT · Politics | Politics | news | 2026-07-14 | [link](https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-testimony-security.html) |
+| 2026-07-13 | A.I. Is Strangling Our Economy | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-07-02 | [link](https://www.nytimes.com/2026/06/29/opinion/ai-economy-affordability.html) |
+| 2026-07-13 | This Is a Lot More Worrying Than the Supreme Court’s Ruling on Executive Power | NYT · Opinion | Opinion | opinion | 2026-07-10 | [link](https://www.nytimes.com/2026/07/10/opinion/executive-power-supreme-court-trump.html) |
+| 2026-07-13 | Mega I.P.O. Frenzy Could Be a Harbinger of a Stock Bubble | NYT · Your Money | Your Money | news | 2026-06-13 | [link](https://www.nytimes.com/2026/06/13/business/spacex-ipo-musk-stock-bubble.html) |
+| 2026-07-13 | Lessons Learned from CISA’s Recent GitHub Leak | Krebs on Security · Security & Privacy | Security | tech | 2026-07-13 | [link](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/) |
+| 2026-07-13 | DOOMQL | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-13 | [link](https://simonwillison.net/2026/Jul/13/doomql/#atom-everything) |
+| 2026-07-13 | datasette code-frequency chart on GitHub | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-13 | [link](https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything) |
+| 2026-07-13 | Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI? | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-13 | [link](https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusive-iphone-chatgpt-integration/) |
+| 2026-07-13 | [RSS Club] Half a million steps is about 10 marathons | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-07-13 | [link](https://shkspr.mobi/blog/2026/07/rss-club-half-a-million-steps-is-about-10-marathons/) |
+| 2026-07-13 | Visually appealing infographics | Reddit | Business | social | 2026-07-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uv6xjy/visually_appealing_infographics/) |
+| 2026-07-13 | Honest question: What are you building that you need fable 5 so badly? | Reddit | Business | social | 2026-07-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uv70kq/honest_question_what_are_you_building_that_you/) |
+| 2026-07-13 | I was using Claude Cowork's cloud VMs (free, included in plan) completely wrong. It replaced most of | Reddit | Business | social | 2026-07-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uvosli/i_was_using_claude_coworks_cloud_vms_free/) |
+| 2026-07-13 | Needed real dedication to get this done on my Max 20x plan | Reddit | Business | social | 2026-07-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uuzipe/needed_real_dedication_to_get_this_done_on_my_max/) |
+| 2026-07-13 | I gave Claude a constitution and a $50/month budget it can see but not exceed. It named itself Cairn | Reddit | Business | social | 2026-07-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uvbg8w/i_gave_claude_a_constitution_and_a_50month_budget/) |
+| 2026-07-13 | Claude is really analyzing me! | Reddit | Business | social | 2026-07-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uv0u5l/claude_is_really_analyzing_me/) |
+| 2026-07-13 | Claude Pretending to Search | Reddit | Business | social | 2026-07-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uvp69s/claude_pretending_to_search/) |
+| 2026-07-13 | I put my Claude Code sessions on a calendar and now I can see exactly when my 5h windows reset so I  | Reddit | Business | social | 2026-07-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uv39ry/i_put_my_claude_code_sessions_on_a_calendar_and/) |
+| 2026-07-13 | Dear Anthropic, This Has to STOP. | Reddit | Business | social | 2026-07-13 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uv6ns4/dear_anthropic_this_has_to_stop/) |
+| 2026-07-13 | Me trying to milk my multi-model setup before the next Great Nerfing. | Reddit | Business | social | 2026-07-13 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uv9me9/me_trying_to_milk_my_multimodel_setup_before_the/) |
+| 2026-07-13 | Fable + 5.6 is absolute peak | Reddit | Business | social | 2026-07-13 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uvjlmr/fable_56_is_absolute_peak/) |
+| 2026-07-13 | grok build was uploading whole directories to google bucket | Reddit | Business | social | 2026-07-13 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uvl6dl/grok_build_was_uploading_whole_directories_to/) |
+| 2026-07-13 | Anyone else annoyed by Anthropic’s on-a-whim decision making? | Reddit | Business | social | 2026-07-13 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uuwqt2/anyone_else_annoyed_by_anthropics_onawhim/) |
+| 2026-07-13 | After 3 days of hard work i finaly transfer all my stuff and i love obsidian | Reddit | Business | social | 2026-07-13 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uvqvj0/after_3_days_of_hard_work_i_finaly_transfer_all/) |
+| 2026-07-13 | My way for Obsidian | Reddit | Business | social | 2026-07-13 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uvksyk/my_way_for_obsidian/) |
+| 2026-07-13 | I built a trading journal for Obsidian, and just added session tracking and setup analytics | Reddit | Business | social | 2026-07-13 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uveyp8/i_built_a_trading_journal_for_obsidian_and_just/) |
+| 2026-07-13 | Is obsidian only risky through linux's app store Bazaar? | Reddit | Business | social | 2026-07-13 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uuw7wx/is_obsidian_only_risky_through_linuxs_app_store/) |
+| 2026-07-13 | This is like a game. | Reddit | Business | social | 2026-07-13 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uv2ud3/this_is_like_a_game/) |
+| 2026-07-13 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-12 | Ask HN: Add flag for AI-generated articles | HN | Technology | tech | 2026-07-12 | [link](https://news.ycombinator.com/item?id=48886741) |
 | 2026-07-12 | Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k | HN | Technology | tech | 2026-07-12 | [link](https://systima.ai/blog/claude-code-vs-opencode-token-overhead) |
 | 2026-07-12 | Old and new apps, via modern coding agents | HN | Technology | tech | 2026-07-12 | [link](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/) |
