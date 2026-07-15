@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-14 · 436 days · 4360 stories*
+*Last updated: 2026-07-15 · 437 days · 4370 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-14 | Tuesday | 1 | Bonsai 27B: A 27B-Class model that runs on a phone | 598 | 211 | Technology | [link](https://prismml.com/news/bonsai-27b) · [HN](https://news.ycombinator.com/item?id=48910545) |
+| 2026-07-14 | Tuesday | 2 | European "age verification" "app" forcing everyone to use Android or iOS | 532 | 379 | Technology | [link](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19) · [HN](https://news.ycombinator.com/item?id=48903777) |
+| 2026-07-14 | Tuesday | 3 | How to stop Claude from saying load-bearing | 527 | 557 | Technology | [link](https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing) · [HN](https://news.ycombinator.com/item?id=48905248) |
+| 2026-07-14 | Tuesday | 4 | Are we offloading too much of our thinking to AI? | 473 | 431 | Technology | [link](https://www.artfish.ai/p/offloading-thinking-to-ai) · [HN](https://news.ycombinator.com/item?id=48908178) |
+| 2026-07-14 | Tuesday | 5 | The Tower Keeps Rising | 468 | 223 | Technology | [link](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/) · [HN](https://news.ycombinator.com/item?id=48909785) |
+| 2026-07-14 | Tuesday | 6 | Jurassic Park computers in excruciating detail | 452 | 109 | Technology | [link](https://fabiensanglard.net/jurrasic_park_computers/index.html) · [HN](https://news.ycombinator.com/item?id=48915709) |
+| 2026-07-14 | Tuesday | 7 | Codex starts encrypting sub-agent prompts | 418 | 248 | Technology | [link](https://github.com/openai/codex/issues/28058) · [HN](https://news.ycombinator.com/item?id=48905028) |
+| 2026-07-14 | Tuesday | 8 | Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK | 374 | 243 | Technology | [link](https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/) · [HN](https://news.ycombinator.com/item?id=48909424) |
+| 2026-07-14 | Tuesday | 9 | Cursor 0day: When Full Disclosure Becomes the Only Protection Left | 364 | 171 | Technology | [link](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left) · [HN](https://news.ycombinator.com/item?id=48910676) |
+| 2026-07-14 | Tuesday | 10 | S&P Global has lowered Oracle’s creditworthiness from BBB to BBB- | 325 | 335 | Technology | [link](https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html) · [HN](https://news.ycombinator.com/item?id=48909768) |
 | 2026-07-13 | Monday | 1 | Zig Creator Calls Spade a Spade, Anthropic Blows Smoke | 1475 | 747 | Technology | [link](https://raymyers.org/post/zed-creator-calls-spade-a-spade/) · [HN](https://news.ycombinator.com/item?id=48889637) |
 | 2026-07-13 | Monday | 2 | A graph that should be front-page news | 659 | 411 | Technology | [link](https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news) · [HN](https://news.ycombinator.com/item?id=48888331) |
 | 2026-07-13 | Monday | 3 | Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor | 536 | 212 | Technology | [link](https://get-inscribe.com/blog/apple-speech-api-benchmark.html) · [HN](https://news.ycombinator.com/item?id=48894752) |

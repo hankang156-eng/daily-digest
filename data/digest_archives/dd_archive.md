@@ -1,9 +1,71 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-14 · 3774 items*
+*Last updated: 2026-07-15 · 3836 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-14 | Bonsai 27B: A 27B-Class model that runs on a phone | HN | Technology | tech | 2026-07-14 | [link](https://prismml.com/news/bonsai-27b) |
+| 2026-07-14 | European "age verification" "app" forcing everyone to use Android or iOS | HN | Technology | tech | 2026-07-14 | [link](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19) |
+| 2026-07-14 | How to stop Claude from saying load-bearing | HN | Technology | tech | 2026-07-14 | [link](https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing) |
+| 2026-07-14 | Are we offloading too much of our thinking to AI? | HN | Technology | tech | 2026-07-14 | [link](https://www.artfish.ai/p/offloading-thinking-to-ai) |
+| 2026-07-14 | The Tower Keeps Rising | HN | Technology | tech | 2026-07-14 | [link](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/) |
+| 2026-07-14 | Jurassic Park computers in excruciating detail | HN | Technology | tech | 2026-07-14 | [link](https://fabiensanglard.net/jurrasic_park_computers/index.html) |
+| 2026-07-14 | Codex starts encrypting sub-agent prompts | HN | Technology | tech | 2026-07-14 | [link](https://github.com/openai/codex/issues/28058) |
+| 2026-07-14 | Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK | HN | Technology | tech | 2026-07-14 | [link](https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/) |
+| 2026-07-14 | Cursor 0day: When Full Disclosure Becomes the Only Protection Left | HN | Technology | tech | 2026-07-14 | [link](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left) |
+| 2026-07-14 | S&P Global has lowered Oracle’s creditworthiness from BBB to BBB- | HN | Technology | tech | 2026-07-14 | [link](https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html) |
+| 2026-07-14 | I'm a USB-C Maximalist | HN | Technology | tech | 2026-07-14 | [link](https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/) |
+| 2026-07-14 | Australian energy retailers must offer three hours of free daytime electricity | HN | Technology | tech | 2026-07-14 | [link](https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/) |
+| 2026-07-14 | Vancouver PD website features Quick Escape button that wipes itself from history | HN | Technology | tech | 2026-07-14 | [link](https://vpd.ca/) |
+| 2026-07-14 | Germany set to restrict its Freedom of Information Act | HN | Technology | tech | 2026-07-14 | [link](https://www.dw.com/en/germany-freedom-of-information-act/a-77939695) |
+| 2026-07-14 | How I use HTMX with Go | HN | Technology | tech | 2026-07-14 | [link](https://www.alexedwards.net/blog/how-i-use-htmx-with-go) |
+| 2026-07-14 | Punch yourself in the face with reality | HN | Technology | tech | 2026-07-14 | [link](https://adi.bio/reality) |
+| 2026-07-14 | Data Centers to Add Billions in Power Costs in 13 States | NYT · AI | AI | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html) |
+| 2026-07-14 | Warsh Reiterates Fed’s Pledge to Get Inflation Down but Doesn’t Specify How | NYT · AI | AI | news | 2026-07-14 | [link](https://www.nytimes.com/2026/07/14/business/economy/warsh-fed-cpi-inflation.html) |
+| 2026-07-14 | U.S. Workers Are More Productive Than Ever. A.I. Isn’t the Key. | NYT · AI | AI | news | 2026-07-14 | [link](https://www.nytimes.com/2026/07/14/business/worker-productivity-artificial-intelligence-economy.html) |
+| 2026-07-14 | China’s Chip Champion to Raise Billions in Race for A.I. Control | NYT · AI | AI | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/15/business/china-chips-cxmt-ipo.html) |
+| 2026-07-14 | Chai Discovery, an A.I. Drug Start-Up, Raises $400 Million | NYT · AI | AI | news | 2026-07-14 | [link](https://www.nytimes.com/2026/07/14/business/dealbook/chai-discovery-ai-drug-development.html) |
+| 2026-07-14 | Paramount vs. the States | NYT · Business | Business | news | 2026-07-14 | [link](https://www.nytimes.com/2026/07/14/business/dealbook/paramount-states-antitrust.html) |
+| 2026-07-14 | Paramount-Warner Bros. Merger Is Challenged in Court by California and 11 Other States | NYT · Business | Business | news | 2026-07-14 | [link](https://www.nytimes.com/2026/07/13/business/paramount-warner-bros-lawsuit.html) |
+| 2026-07-14 | Can Democrats Harness the Data Center Backlash? | NYT · AI | AI | opinion | 2026-07-15 | [link](https://www.nytimes.com/2026/07/15/opinion/ai-data-center-politics.html) |
+| 2026-07-14 | Australia to Impose Energy and Water Guardrails on Data Centers Amid A.I. Boom | NYT · AI | AI | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/15/world/australia/albanese-artificial-intelligence-guardrails.html) |
+| 2026-07-14 | New York Enacts Nation’s First Statewide Moratorium on Data Centers | NYT · AI | AI | news | 2026-07-14 | [link](https://www.nytimes.com/2026/07/14/nyregion/new-york-data-center-moratorium-hochul.html) |
+| 2026-07-14 | The Housing Crisis Is Also a Retirement Crisis | NYT · Opinion | Opinion | opinion | 2026-07-14 | [link](https://www.nytimes.com/2026/07/14/opinion/housing-retirement-crisis.html) |
+| 2026-07-14 | OpenAI Is Showing Kalshi’s World Cup Odds in ChatGPT | NYT · Technology | Technology | news | 2026-07-14 | [link](https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html) |
+| 2026-07-14 | Todd Blanche Faces Crucial Hurdle Ahead of Confirmation as Attorney General | NYT · Politics | Politics | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation-doj.html) |
+| 2026-07-14 | What the Fight With Anthropic Reveals About Free Speech in America | NYT · Opinion | Opinion | opinion | 2026-07-14 | [link](https://www.nytimes.com/2026/07/13/opinion/ai-code-free-speech.html) |
+| 2026-07-14 | A $3.2 Trillion Deal-Making Frenzy Is Spurred by the A.I. Economy | NYT · AI | AI | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/business/ai-boom-corporate-deals.html) |
+| 2026-07-14 | ICE Shootings Put Spotlight on Lack of Body Cameras | NYT · Politics | Politics | news | 2026-07-14 | [link](https://www.nytimes.com/2026/07/14/us/politics/ice-body-cameras.html) |
+| 2026-07-14 | Takeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security | NYT · Politics | Politics | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-takeaways.html) |
+| 2026-07-14 | Roger Worthington Is Suing Over a Heat Wave | NYT · Energy & Environment | Energy & Environment | news | 2026-07-14 | [link](https://www.nytimes.com/2026/07/14/climate/roger-worthington-portland-oil-industry-lawyer.html) |
+| 2026-07-14 | The Small-Business Owners Managing Whole Armies of A.I. Employees | NYT · AI | AI | news | 2026-06-04 | [link](https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html) |
+| 2026-07-14 | The Wild West of Ultraprocessed Food | NYT · Opinion | Opinion | opinion | 2026-07-15 | [link](https://www.nytimes.com/video/opinion/100000010999988/the-wild-west-of-ultraprocessed-food.html) |
+| 2026-07-14 | Quoting Armin Ronacher | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-14 | [link](https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything) |
+| 2026-07-14 | [Sponsor] Paper | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-14 | [link](https://paper.design/?utm_source=df) |
+| 2026-07-14 | Microsoft Patches a Record 570 Security Flaws | Krebs on Security · Security & Privacy | Security | tech | 2026-07-14 | [link](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/) |
+| 2026-07-14 | Using uvx in GitHub Actions in a cache-friendly way | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-14 | [link](https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything) |
+| 2026-07-14 | OpenAI Engineer's 'LOL' Moment Set Stage for Legal Fight with Apple | Superpower Daily · Tech & Engineering | Technology | tech | 2026-07-14 | [link](https://www.superpowerdaily.com/p/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple) |
+| 2026-07-14 | Claude spent +15 EUR of a 2 EUR limit. | Reddit | Business | social | 2026-07-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uw24bp/claude_spent_15_eur_of_a_2_eur_limit/) |
+| 2026-07-14 | Opus 5 coming soon? | Reddit | Business | social | 2026-07-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uwgx2o/opus_5_coming_soon/) |
+| 2026-07-14 | Inspired by caveman and co, I'm open-sourcing a Claude Code plugin that reduces token output by 99.9 | Reddit | Business | social | 2026-07-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uwl7xi/inspired_by_caveman_and_co_im_opensourcing_a/) |
+| 2026-07-14 | Why can I only buy $1,000,000 worth of tokens? | Reddit | Business | social | 2026-07-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uw37yg/why_can_i_only_buy_1000000_worth_of_tokens/) |
+| 2026-07-14 | When your toxic situationship tweets “available until July 19” | Reddit | Business | social | 2026-07-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uw6gwj/when_your_toxic_situationship_tweets_available/) |
+| 2026-07-14 | My Claude Code subagent came back with a prompt-injection payload and hidden "never tell the user" i | Reddit | Business | social | 2026-07-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uwn1mv/my_claude_code_subagent_came_back_with_a/) |
+| 2026-07-14 | I don’t get the Fable coding craze at all | Reddit | Business | social | 2026-07-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uvsndm/i_dont_get_the_fable_coding_craze_at_all/) |
+| 2026-07-14 | Claude is getting judgemental about IP. Opus 4.8 is steering me away due to license/rights. | Reddit | Business | social | 2026-07-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uvx2lg/claude_is_getting_judgemental_about_ip_opus_48_is/) |
+| 2026-07-14 | What should we expect next? | Reddit | Business | social | 2026-07-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uwhjxx/what_should_we_expect_next/) |
+| 2026-07-14 | Update to Claude Code running natively on Windows XP (WIP - No SSH/RDP) | Reddit | Business | social | 2026-07-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uvy96g/update_to_claude_code_running_natively_on_windows/) |
+| 2026-07-14 | Is this true? | Reddit | Business | social | 2026-07-14 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uwie3b/is_this_true/) |
+| 2026-07-14 | this Meme just got real today | Reddit | Business | social | 2026-07-14 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uw98b6/this_meme_just_got_real_today/) |
+| 2026-07-14 | Opus 5.0 coming this week | Reddit | Business | social | 2026-07-14 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uwme1k/opus_50_coming_this_week/) |
+| 2026-07-14 | Seriously, what just happened to the weekly quota on 20x? | Reddit | Business | social | 2026-07-14 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uw7bcy/seriously_what_just_happened_to_the_weekly_quota/) |
+| 2026-07-14 | From $50k to $50/month. The ultimate leverage | Reddit | Business | social | 2026-07-14 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uvw260/from_50k_to_50month_the_ultimate_leverage/) |
+| 2026-07-14 | After one year of using Obsidian | Reddit | Business | social | 2026-07-14 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uvvb33/after_one_year_of_using_obsidian/) |
+| 2026-07-14 | Part 2. Showing the Pluggins and Themes | Reddit | Business | social | 2026-07-14 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uw7ngf/part_2_showing_the_pluggins_and_themes/) |
+| 2026-07-14 | Cursor-Smith 1.1.2 is out! Forge your own cursor | Reddit | Business | social | 2026-07-14 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uwo23s/cursorsmith_112_is_out_forge_your_own_cursor/) |
+| 2026-07-14 | I quit VS Code a year ago but kept opening it for one thing: my own image plugin. So I rebuilt it fo | Reddit | Business | social | 2026-07-14 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uwcgbf/i_quit_vs_code_a_year_ago_but_kept_opening_it_for/) |
+| 2026-07-14 | Obsidian 1.13.2 (early access) for desktop and mobile | Reddit | Business | social | 2026-07-14 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uwm7rb/obsidian_1132_early_access_for_desktop_and_mobile/) |
+| 2026-07-14 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-13 | Zig Creator Calls Spade a Spade, Anthropic Blows Smoke | HN | Technology | tech | 2026-07-13 | [link](https://raymyers.org/post/zed-creator-calls-spade-a-spade/) |
 | 2026-07-13 | A graph that should be front-page news | HN | Technology | tech | 2026-07-13 | [link](https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news) |
 | 2026-07-13 | Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor | HN | Technology | tech | 2026-07-13 | [link](https://get-inscribe.com/blog/apple-speech-api-benchmark.html) |
