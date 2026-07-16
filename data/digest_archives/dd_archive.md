@@ -1,9 +1,56 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-15 · 3836 items*
+*Last updated: 2026-07-16 · 3883 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-15 | Data Centers to Add Billions in Power Costs in 13 States | NYT · Energy & Environment | Energy & Environment | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html) |
+| 2026-07-15 | Europe Finds It Hard to Break Up With American and Chinese Technology | NYT · AI | AI | news | 2026-07-16 | [link](https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html) |
+| 2026-07-15 | IBM’s Stock Crash Reignites Fears of A.I. Disruption in Software Sector | NYT · AI | AI | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/15/business/dealbook/ibm-ai-software-consulting.html) |
+| 2026-07-15 | SpaceX Briefly Falls Below I.P.O. Price of $135 | NYT · AI | AI | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/15/business/spacex-ipo-price.html) |
+| 2026-07-15 | CXMT, China’s Chip Champion, to Raise Billions in Race for A.I. Control | NYT · AI | AI | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/15/business/china-chips-cxmt-ipo.html) |
+| 2026-07-15 | Is This the Fastest Opinion Shift in American Politics? | NYT · AI | AI | opinion | 2026-07-15 | [link](https://www.nytimes.com/2026/07/15/opinion/ai-data-center-politics.html) |
+| 2026-07-15 | Australia to Put Environmental Brakes on A.I. Data Centers | NYT · AI | AI | news | 2026-07-16 | [link](https://www.nytimes.com/2026/07/15/world/australia/albanese-artificial-intelligence-guardrails.html) |
+| 2026-07-15 | A Vision of a ‘Society Without Capitalism’ | NYT · AI | AI | opinion | 2026-07-16 | [link](https://www.nytimes.com/2026/07/16/opinion/democratic-socialist-capitalism-bhaskar-sunkara.html) |
+| 2026-07-15 | Warsh Reiterates Fed’s Pledge to Get Inflation Down but Doesn’t Specify How | NYT · Economy | Economy | news | 2026-07-14 | [link](https://www.nytimes.com/2026/07/14/business/economy/warsh-fed-cpi-inflation.html) |
+| 2026-07-15 | Nearly 200 Economists and Tech Leaders Warn of A.I. Threats | NYT · AI | AI | news | 2026-07-13 | [link](https://www.nytimes.com/2026/07/13/business/economists-ai-threat-jobs.html) |
+| 2026-07-15 | The Housing Crisis Is Also a Retirement Crisis | NYT · Opinion | Opinion | opinion | 2026-07-15 | [link](https://www.nytimes.com/2026/07/14/opinion/housing-retirement-crisis.html) |
+| 2026-07-15 | Judge Dismisses Suit Accusing Apple of Failing to Limit Child Sex Abuse Material | NYT · Technology | Technology | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html) |
+| 2026-07-15 | A $3.2 Trillion Deal-Making Frenzy Is Spurred by the A.I. Economy | NYT · AI | AI | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/business/ai-boom-corporate-deals.html) |
+| 2026-07-15 | OpenAI Is Showing Kalshi’s World Cup Odds in ChatGPT | NYT · Technology | Technology | news | 2026-07-14 | [link](https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html) |
+| 2026-07-15 | Kevin O’Leary Is Sued by Opponents He Claimed Were Foreign Agents | NYT · U.S. | U.S. | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/15/us/kevin-oleary-data-center-lawsuit.html) |
+| 2026-07-15 | FBI Evidence Team Visits Lincoln Memorial Reflecting Pool | NYT · Politics | Politics | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/15/us/politics/fbi-reflecting-pool-evidence.html) |
+| 2026-07-15 | Almost Half of House Democrats Vote to End Aid to Israel | NYT · Politics | Politics | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html) |
+| 2026-07-15 | Todd Blanche, Trump’s Attorney General Pick, Faces Crucial Hurdle After Rocky Hearing | NYT · Politics | Politics | news | 2026-07-16 | [link](https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation.html) |
+| 2026-07-15 | What the Fight With Anthropic Reveals About Free Speech in America | NYT · Opinion | Opinion | opinion | 2026-07-14 | [link](https://www.nytimes.com/2026/07/13/opinion/ai-code-free-speech.html) |
+| 2026-07-15 | Roger Worthington Is Suing Over a Heat Wave | NYT · Energy & Environment | Energy & Environment | news | 2026-07-14 | [link](https://www.nytimes.com/2026/07/14/climate/roger-worthington-portland-oil-industry-lawyer.html) |
+| 2026-07-15 | From Alert to Action: A GenAI Lab Case Study | MIT IDE · MIT Research & Insights | Research | research | 2026-07-15 | [link](https://ide.mit.edu/insights/genai-lab-unops-case-study/) |
+| 2026-07-15 | xai-org/grok-build, now open source | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-15 | [link](https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything) |
+| 2026-07-15 | How I tricked Claude into leaking your deepest, darkest secrets | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-15 | [link](https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything) |
+| 2026-07-15 | Weekly Update 512: IoT Lockout Fail | Troy Hunt · Security & Privacy | Security | tech | 2026-07-15 | [link](https://www.troyhunt.com/weekly-update-512/) |
+| 2026-07-15 | Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-15 | [link](https://www.scmp.com/tech/policy/article/3360685/china-approves-apple-intelligence-phones-alibaba-baidu-emerging-partners) |
+| 2026-07-15 | Gurman on OpenAI’s Upcoming Hardware Product: ‘Movable, Screenless Speaker Built as AI Companion’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-15 | [link](https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDA2MjAxMywiZXhwIjoxNzg0NjY2ODEzLCJhcnRpY2xlSWQiOiJUSTYwSllUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.DfRN0afk0TFIaHFw9zEKYjehnfMsZfKC7gPoVos8WPI&leadSource=article-gifting) |
+| 2026-07-15 | I’m building a fighter jet game with Claude | Reddit | Business | social | 2026-07-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uxarq9/im_building_a_fighter_jet_game_with_claude/) |
+| 2026-07-15 | ‘Anthropic doesn’t care about Europe’ — EU officials peeved after AI giant sends junior staffer to t | Reddit | Business | social | 2026-07-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uxhe4w/anthropic_doesnt_care_about_europe_eu_officials/) |
+| 2026-07-15 | I built a web game with over 25K plays so far using Claude: You try to time the market against a cou | Reddit | Business | social | 2026-07-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ux1xvh/i_built_a_web_game_with_over_25k_plays_so_far/) |
+| 2026-07-15 | Dear mr Dario | Reddit | Business | social | 2026-07-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uxler8/dear_mr_dario/) |
+| 2026-07-15 | Claude helped me make my internet 100x faster | Reddit | Business | social | 2026-07-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uwtn3m/claude_helped_me_make_my_internet_100x_faster/) |
+| 2026-07-15 | Claude Code and Obsidian as an AI-maintained second brain | Reddit | Business | social | 2026-07-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uwrxbo/claude_code_and_obsidian_as_an_aimaintained/) |
+| 2026-07-15 | You should be doing all your work in Claude's free cloud computers included in your subscription. Yo | Reddit | Business | social | 2026-07-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uwq8ba/you_should_be_doing_all_your_work_in_claudes_free/) |
+| 2026-07-15 | Show us what you've created with Claude! | Reddit | Business | social | 2026-07-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uxlehk/show_us_what_youve_created_with_claude/) |
+| 2026-07-15 | Opus 4.6 rises to no #1 on the LMArena Text Leaderboard after they introduce a new "Factuality" rati | Reddit | Business | social | 2026-07-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uxbh3y/opus_46_rises_to_no_1_on_the_lmarena_text/) |
+| 2026-07-15 | I use Claude Code as my continuity department for fiction I write myself. According to the publishin | Reddit | Business | social | 2026-07-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ux9gdz/i_use_claude_code_as_my_continuity_department_for/) |
+| 2026-07-15 | Words to live by from the famous gladiator | Reddit | Business | social | 2026-07-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ux3kvr/words_to_live_by_from_the_famous_gladiator/) |
+| 2026-07-15 | Did GPT-5.6 break Claude Code's moat? Where does Anthropic go from here? | Reddit | Business | social | 2026-07-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ux4bbf/did_gpt56_break_claude_codes_moat_where_does/) |
+| 2026-07-15 | Using GPT-5.6 Sol, missing Fable | Reddit | Business | social | 2026-07-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uxfggx/using_gpt56_sol_missing_fable/) |
+| 2026-07-15 | is anyone else noticing OBLITERATED limits today | Reddit | Business | social | 2026-07-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ux6suj/is_anyone_else_noticing_obliterated_limits_today/) |
+| 2026-07-15 | Who is Fable 5 actually for after July 19? | Reddit | Business | social | 2026-07-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uwwjc4/who_is_fable_5_actually_for_after_july_19/) |
+| 2026-07-15 | SCP wiki as an Obsidian graph | Reddit | Business | social | 2026-07-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uxgvi5/scp_wiki_as_an_obsidian_graph/) |
+| 2026-07-15 | Obsidian Icon to fit | Reddit | Business | social | 2026-07-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ux8j3j/obsidian_icon_to_fit/) |
+| 2026-07-15 | after years of tweaking: simple and elegant | Reddit | Business | social | 2026-07-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uxg2x5/after_years_of_tweaking_simple_and_elegant/) |
+| 2026-07-15 | Drag list items between files and groups | Reddit | Business | social | 2026-07-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ux77uv/drag_list_items_between_files_and_groups/) |
+| 2026-07-15 | Kanban Moonlight, testing some features | Reddit | Business | social | 2026-07-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1ux5i5w/kanban_moonlight_testing_some_features/) |
+| 2026-07-15 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-14 | Bonsai 27B: A 27B-Class model that runs on a phone | HN | Technology | tech | 2026-07-14 | [link](https://prismml.com/news/bonsai-27b) |
 | 2026-07-14 | European "age verification" "app" forcing everyone to use Android or iOS | HN | Technology | tech | 2026-07-14 | [link](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19) |
 | 2026-07-14 | How to stop Claude from saying load-bearing | HN | Technology | tech | 2026-07-14 | [link](https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing) |
