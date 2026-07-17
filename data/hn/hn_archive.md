@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-15 · 437 days · 4370 stories*
+*Last updated: 2026-07-17 · 438 days · 4380 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-16 | Thursday | 1 | Kimi K3: Open Frontier Intelligence | 1646 | 968 | Technology | [link](https://www.kimi.com/blog/kimi-k3) · [HN](https://news.ycombinator.com/item?id=48935342) |
+| 2026-07-16 | Thursday | 2 | The lost joy of music piracy | 792 | 555 | Technology | [link](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming) · [HN](https://news.ycombinator.com/item?id=48930454) |
+| 2026-07-16 | Thursday | 3 | Microsoft Comic Chat is now open source | 684 | 152 | Technology | [link](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) · [HN](https://news.ycombinator.com/item?id=48936426) |
+| 2026-07-16 | Thursday | 4 | Sony deletes more movies from the accounts of people who ‘bought’ them | 649 | 401 | Technology | [link](https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/) · [HN](https://news.ycombinator.com/item?id=48933419) |
+| 2026-07-16 | Thursday | 5 | OnePlus halts operations in USA and Europe | 569 | 349 | Technology | [link](https://community.oneplus.com/thread/2170715118587871237) · [HN](https://news.ycombinator.com/item?id=48932539) |
+| 2026-07-16 | Thursday | 6 | Decoy Font | 559 | 129 | Technology | [link](https://www.mixfont.com/experiments/decoy-font) · [HN](https://news.ycombinator.com/item?id=48936584) |
+| 2026-07-16 | Thursday | 7 | How Our Rust-to-Zig Rewrite Is Going | 500 | 268 | Technology | [link](https://rtfeldman.com/rust-to-zig) · [HN](https://news.ycombinator.com/item?id=48933149) |
+| 2026-07-16 | Thursday | 8 | NotebookLM is now Gemini Notebook | 309 | 155 | Technology | [link](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/) · [HN](https://news.ycombinator.com/item?id=48936451) |
+| 2026-07-16 | Thursday | 9 | At least 105 past YC founders have worked at OpenAI and Anthropic | 298 | 216 | Technology | [link](https://joinedanthropic.com) · [HN](https://news.ycombinator.com/item?id=48931588) |
+| 2026-07-16 | Thursday | 10 | SpaceX stock erases all its gains and slides below IPO price in intraday trading | 294 | 259 | Technology | [link](https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading) · [HN](https://news.ycombinator.com/item?id=48933344) |
 | 2026-07-14 | Tuesday | 1 | Bonsai 27B: A 27B-Class model that runs on a phone | 598 | 211 | Technology | [link](https://prismml.com/news/bonsai-27b) · [HN](https://news.ycombinator.com/item?id=48910545) |
 | 2026-07-14 | Tuesday | 2 | European "age verification" "app" forcing everyone to use Android or iOS | 532 | 379 | Technology | [link](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19) · [HN](https://news.ycombinator.com/item?id=48903777) |
 | 2026-07-14 | Tuesday | 3 | How to stop Claude from saying load-bearing | 527 | 557 | Technology | [link](https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing) · [HN](https://news.ycombinator.com/item?id=48905248) |

@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-16 · 3883 items*
+*Last updated: 2026-07-17 · 3946 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-16 | Kimi K3: Open Frontier Intelligence | HN | Technology | tech | 2026-07-16 | [link](https://www.kimi.com/blog/kimi-k3) |
+| 2026-07-16 | The lost joy of music piracy | HN | Technology | tech | 2026-07-16 | [link](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming) |
+| 2026-07-16 | Microsoft Comic Chat is now open source | HN | Technology | tech | 2026-07-16 | [link](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) |
+| 2026-07-16 | Sony deletes more movies from the accounts of people who ‘bought’ them | HN | Technology | tech | 2026-07-16 | [link](https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/) |
+| 2026-07-16 | OnePlus halts operations in USA and Europe | HN | Technology | tech | 2026-07-16 | [link](https://community.oneplus.com/thread/2170715118587871237) |
+| 2026-07-16 | Decoy Font | HN | Technology | tech | 2026-07-16 | [link](https://www.mixfont.com/experiments/decoy-font) |
+| 2026-07-16 | How Our Rust-to-Zig Rewrite Is Going | HN | Technology | tech | 2026-07-16 | [link](https://rtfeldman.com/rust-to-zig) |
+| 2026-07-16 | NotebookLM is now Gemini Notebook | HN | Technology | tech | 2026-07-16 | [link](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/) |
+| 2026-07-16 | At least 105 past YC founders have worked at OpenAI and Anthropic | HN | Technology | tech | 2026-07-16 | [link](https://joinedanthropic.com) |
+| 2026-07-16 | SpaceX stock erases all its gains and slides below IPO price in intraday trading | HN | Technology | tech | 2026-07-16 | [link](https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading) |
+| 2026-07-16 | $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol | HN | Technology | tech | 2026-07-16 | [link](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6) |
+| 2026-07-16 | Ente – Opening Our Books | HN | Technology | tech | 2026-07-16 | [link](https://ente.com/open/) |
+| 2026-07-16 | LM Studio Bionic: the AI agent for open models | HN | Technology | tech | 2026-07-16 | [link](https://lmstudio.ai/blog/introducing-lm-studio-bionic) |
+| 2026-07-16 | The LLM Critics Are Right. I Use LLMs Anyway | HN | Technology | tech | 2026-07-16 | [link](https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/) |
+| 2026-07-16 | Immersive Linear Algebra Book with Interactive Figures (2015) | HN | Technology | tech | 2026-07-16 | [link](https://immersivemath.com/ila/) |
+| 2026-07-16 | The human-in-the-loop is tired | HN | Technology | tech | 2026-07-16 | [link](https://pydantic.dev/articles/the-human-in-the-loop-is-tired) |
+| 2026-07-16 | The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard) | NYT · AI | AI | news | 2026-07-16 | [link](https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html) |
+| 2026-07-16 | Anthropic Inches Toward a Mega-I.P.O. | NYT · AI | AI | news | 2026-07-16 | [link](https://www.nytimes.com/2026/07/16/business/dealbook/anthropic-ipo-ai.html) |
+| 2026-07-16 | Google Ordered to Give A.I. Rivals More Access on Android Smartphones | NYT · AI | AI | news | 2026-07-16 | [link](https://www.nytimes.com/2026/07/16/technology/google-android-ai.html) |
+| 2026-07-16 | Data Centers to Add Billions in Power Costs in 13 States | NYT · Energy & Environment | Energy & Environment | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html) |
+| 2026-07-16 | A Vision of a ‘Society Without Capitalism’ | NYT · AI | AI | opinion | 2026-07-16 | [link](https://www.nytimes.com/2026/07/16/opinion/democratic-socialist-capitalism-bhaskar-sunkara.html) |
+| 2026-07-16 | The Housing Crisis Is Also a Retirement Crisis | NYT · Opinion | Opinion | opinion | 2026-07-16 | [link](https://www.nytimes.com/2026/07/14/opinion/housing-retirement-crisis.html) |
+| 2026-07-16 | India Is Moving Fast to Build A.I. Data Centers. A Coastal City May Pay the Price. | NYT · AI | AI | news | 2026-07-16 | [link](https://www.nytimes.com/2026/07/16/world/asia/india-ai-data-centers-google.html) |
+| 2026-07-16 | Multiple Investigations Refuted Trump’s Claims That Fraud Altered the Outcome in 2020 | NYT · Politics | Politics | news | 2026-07-17 | [link](https://www.nytimes.com/2026/07/16/us/politics/trump-investigations-fraud-claims-2020-election.html) |
+| 2026-07-16 | Trump Revisited Election Fraud Claims in Speech: What to Know. | NYT · Politics | Politics | news | 2026-07-17 | [link](https://www.nytimes.com/2026/07/16/us/politics/us-election-interference-security.html) |
+| 2026-07-16 | National Academies Report Backs Climate Change Attribution Science | NYT · Energy & Environment | Energy & Environment | news | 2026-07-17 | [link](https://www.nytimes.com/2026/07/16/climate/national-academies-extreme-weather-attribution.html) |
+| 2026-07-16 | Warsh Reiterates Fed’s Pledge to Get Inflation Down but Doesn’t Specify How | NYT · Economy | Economy | news | 2026-07-14 | [link](https://www.nytimes.com/2026/07/14/business/economy/warsh-fed-cpi-inflation.html) |
+| 2026-07-16 | Nearly 200 Economists and Tech Leaders Warn of A.I. Threats | NYT · AI | AI | news | 2026-07-13 | [link](https://www.nytimes.com/2026/07/13/business/economists-ai-threat-jobs.html) |
+| 2026-07-16 | White House Faces Stiff Pushback on Subjecting Grants to Political Review | NYT · Business | Business | opinion | 2026-07-16 | [link](https://www.nytimes.com/2026/07/16/us/politics/white-house-federal-grants-political-review.html) |
+| 2026-07-16 | The A.I. Trade Secrets War + Economists Say ‘We Must Act Now’ + HatGPT | NYT · AI | AI | news | 2026-07-17 | [link](https://www.nytimes.com/2026/07/17/podcasts/hardfork-ai-trade-secrets.html) |
+| 2026-07-16 | Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It. | NYT · AI | AI | news | 2026-07-16 | [link](https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html) |
+| 2026-07-16 | A $3.2 Trillion Deal-Making Frenzy Is Spurred by the A.I. Economy | NYT · AI | AI | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/business/ai-boom-corporate-deals.html) |
+| 2026-07-16 | Philippines Condemns AI Video Posted by Chinese State Media Depicting It as a Monkey | NYT · AI | AI | news | 2026-07-17 | [link](https://www.nytimes.com/2026/07/17/world/asia/philippines-ai-video-china-racist.html) |
+| 2026-07-16 | Assessing the Documents: Fake IDs From China | NYT · Politics | Politics | news | 2026-07-17 | [link](https://www.nytimes.com/2026/07/16/us/politics/assessing-the-documents-fake-ids-from-china.html) |
+| 2026-07-16 | White House Teleprompter Operator Bet on Trump Speeches, Kalshi Says | NYT · Technology | Technology | news | 2026-07-16 | [link](https://www.nytimes.com/2026/07/16/technology/teleprompter-operator-kalshi-trump-speeches.html) |
+| 2026-07-16 | Is This the Fastest Opinion Shift in American Politics? | NYT · Opinion | Opinion | opinion | 2026-07-15 | [link](https://www.nytimes.com/2026/07/15/opinion/ai-data-center-politics.html) |
+| 2026-07-16 | Kimi K3, and what we can still learn from the pelican benchmark | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-16 | [link](https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything) |
+| 2026-07-16 | Firefox in WebAssembly | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-16 | [link](https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything) |
+| 2026-07-16 | Lawyer for Apple Mixed Up Two OpenAI Employees’ Names, Sent One Email to the Wrong Guy, Back in Febr | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-16 | [link](https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376) |
+| 2026-07-16 | Using AI to build your own software | Lemire.me · Tech & Engineering | Technology | tech | 2026-07-16 | [link](https://lemire.me/blog/2026/07/16/using-ai-to-build-your-own-software/) |
+| 2026-07-16 | Louie Mantia: ‘The Shape of Apps’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-16 | [link](https://parakeet.co/blog/the-shape-of-apps/) |
+| 2026-07-16 | Gadget Review: Thermal Master DV2 - Infrared Birdwatching Scope ★★★★⯪ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-07-16 | [link](https://shkspr.mobi/blog/2026/07/gadget-review-thermal-master-dv2-infrared-birdwatching-scope/) |
+| 2026-07-16 | I built a true-scale atlas of the universe (8.4M real stars) in about a week with Fable | Reddit | Business | social | 2026-07-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uxy5s8/i_built_a_truescale_atlas_of_the_universe_84m/) |
+| 2026-07-16 | letting Claude run unattended for three hours changed how i feel about my own job more than the outp | Reddit | Business | social | 2026-07-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uy8iht/letting_claude_run_unattended_for_three_hours/) |
+| 2026-07-16 | Usage Limit was just Reset | Reddit | Business | social | 2026-07-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uxs0qt/usage_limit_was_just_reset/) |
+| 2026-07-16 | You know AI has been extensively trained on content/code you authored when... | Reddit | Business | social | 2026-07-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uy7hnq/you_know_ai_has_been_extensively_trained_on/) |
+| 2026-07-16 | I gave GPT-5.6 Sol, Claude Opus 4.8, and Grok 4.5 the same 100 frontend briefs—here are all 300 resu | Reddit | Business | social | 2026-07-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uyb1i9/i_gave_gpt56_sol_claude_opus_48_and_grok_45_the/) |
+| 2026-07-16 | Woke up to this. Yay! | Reddit | Business | social | 2026-07-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uxwdis/woke_up_to_this_yay/) |
+| 2026-07-16 | Analysis: Claude Reset Days | Reddit | Business | social | 2026-07-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uy0ggk/analysis_claude_reset_days/) |
+| 2026-07-16 | PSA: claude-seo (11.5k star Claude Code SEO skill) silently appends a self-promo footer to your audi | Reddit | Business | social | 2026-07-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uyfssp/psa_claudeseo_115k_star_claude_code_seo_skill/) |
+| 2026-07-16 | I built a neat tool that turns years of my LLM chat history into one 3D context map! | Reddit | Business | social | 2026-07-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uydi55/i_built_a_neat_tool_that_turns_years_of_my_llm/) |
+| 2026-07-16 | One shot this vox style explainer video with Fable 5. Feedback plz. | Reddit | Business | social | 2026-07-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uycm2f/one_shot_this_vox_style_explainer_video_with/) |
+| 2026-07-16 | A normal day for me | Reddit | Business | social | 2026-07-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uy8kwa/a_normal_day_for_me/) |
+| 2026-07-16 | We gotta reset boys and girls. Let’s go! | Reddit | Business | social | 2026-07-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uxrz44/we_gotta_reset_boys_and_girls_lets_go/) |
+| 2026-07-16 | Hit my limit yesterday, caved and bought $50 credit, and no joke, Fable spent the entire $50 on the  | Reddit | Business | social | 2026-07-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uxzjry/hit_my_limit_yesterday_caved_and_bought_50_credit/) |
+| 2026-07-16 | Is there a variant of this subreddit where you can discuss Claude Code without every post being whin | Reddit | Business | social | 2026-07-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uxvium/is_there_a_variant_of_this_subreddit_where_you/) |
+| 2026-07-16 | Anthropic's limit resets mean some people have had double the usage of others this month | Reddit | Business | social | 2026-07-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uy11hs/anthropics_limit_resets_mean_some_people_have_had/) |
+| 2026-07-16 | New Vault Imported From Notion | Reddit | Business | social | 2026-07-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uy6ern/new_vault_imported_from_notion/) |
+| 2026-07-16 | belki 0.5 is out — a calm, local-first Todoist-like task manager for Obsidian | Reddit | Business | social | 2026-07-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uy1zhx/belki_05_is_out_a_calm_localfirst_todoistlike/) |
+| 2026-07-16 | After a lot of hard work, I've created the perfect version of Obsidian for me | Reddit | Business | social | 2026-07-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uxxa8w/after_a_lot_of_hard_work_ive_created_the_perfect/) |
+| 2026-07-16 | I am finally done | Reddit | Business | social | 2026-07-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uy5h7q/i_am_finally_done/) |
+| 2026-07-16 | A cool way to visualize life: | Reddit | Business | social | 2026-07-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uy8tjr/a_cool_way_to_visualize_life/) |
+| 2026-07-16 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-15 | Data Centers to Add Billions in Power Costs in 13 States | NYT · Energy & Environment | Energy & Environment | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html) |
 | 2026-07-15 | Europe Finds It Hard to Break Up With American and Chinese Technology | NYT · AI | AI | news | 2026-07-16 | [link](https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html) |
 | 2026-07-15 | IBM’s Stock Crash Reignites Fears of A.I. Disruption in Software Sector | NYT · AI | AI | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/15/business/dealbook/ibm-ai-software-consulting.html) |
