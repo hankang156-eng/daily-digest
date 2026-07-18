@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-17 · 438 days · 4380 stories*
+*Last updated: 2026-07-18 · 439 days · 4390 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-17 | Friday | 1 | AWS: Inaccurate Estimated Billing Data – $1.7 billion | 1189 | 708 | Technology | [link](https://news.ycombinator.com/item?id=48945241) · [HN](https://news.ycombinator.com/item?id=48945241) |
+| 2026-07-17 | Friday | 2 | Thanks HN for 15 years of support and helping me find my life's work | 601 | 62 | Technology | [link](https://news.ycombinator.com/item?id=48949551) · [HN](https://news.ycombinator.com/item?id=48949551) |
+| 2026-07-17 | Friday | 3 | Kaiser nurses say AI, surveillance are making their jobs and patient care worse | 510 | 332 | Technology | [link](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) · [HN](https://news.ycombinator.com/item?id=48952880) |
+| 2026-07-17 | Friday | 4 | First atmosphere found on Earth-like planet in habitable zone of distant star | 461 | 272 | Technology | [link](https://www.bbc.com/news/articles/cy4kdd1e0ejo) · [HN](https://news.ycombinator.com/item?id=48947560) |
+| 2026-07-17 | Friday | 5 | Evidence of inconsistencies in evaluation process and selection of winners | 460 | 288 | Technology | [link](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423) · [HN](https://news.ycombinator.com/item?id=48946010) |
+| 2026-07-17 | Friday | 6 | The state of open source AI | 444 | 319 | Technology | [link](https://stateofopensource.ai/) · [HN](https://news.ycombinator.com/item?id=48947825) |
+| 2026-07-17 | Friday | 7 | Apple targets dozens of OpenAI employees with legal letters | 393 | 339 | Technology | [link](https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166) · [HN](https://news.ycombinator.com/item?id=48946303) |
+| 2026-07-17 | Friday | 8 | Regressive JPEGs | 353 | 30 | Technology | [link](https://maurycyz.com/projects/bad_jpeg/) · [HN](https://news.ycombinator.com/item?id=48954851) |
+| 2026-07-17 | Friday | 9 | Kimi K3, and what we can still learn from the pelican benchmark | 340 | 182 | Technology | [link](https://simonwillison.net/2026/Jul/16/kimi-k3/) · [HN](https://news.ycombinator.com/item?id=48947717) |
+| 2026-07-17 | Friday | 10 | Learning a few things about running SQLite | 253 | 68 | Technology | [link](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) · [HN](https://news.ycombinator.com/item?id=48950122) |
 | 2026-07-16 | Thursday | 1 | Kimi K3: Open Frontier Intelligence | 1646 | 968 | Technology | [link](https://www.kimi.com/blog/kimi-k3) · [HN](https://news.ycombinator.com/item?id=48935342) |
 | 2026-07-16 | Thursday | 2 | The lost joy of music piracy | 792 | 555 | Technology | [link](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming) · [HN](https://news.ycombinator.com/item?id=48930454) |
 | 2026-07-16 | Thursday | 3 | Microsoft Comic Chat is now open source | 684 | 152 | Technology | [link](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) · [HN](https://news.ycombinator.com/item?id=48936426) |
