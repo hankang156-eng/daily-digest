@@ -1,9 +1,71 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-18 · 4007 items*
+*Last updated: 2026-07-19 · 4069 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-18 | LG monitors silently install software through Windows Update without consent | HN | Technology | tech | 2026-07-18 | [link](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent) |
+| 2026-07-18 | GPT-5.6 used a prompt to close a 30-year gap in convex optimization | HN | Technology | tech | 2026-07-18 | [link](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) |
+| 2026-07-18 | Transcribe.cpp | HN | Technology | tech | 2026-07-18 | [link](https://workshop.cjpais.com/projects/transcribe-cpp) |
+| 2026-07-18 | NYC may require landlords and realtors to disclose the use of AI in listings | HN | Technology | tech | 2026-07-18 | [link](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/) |
+| 2026-07-18 | Why do AI company logos look like buttholes? (2025) | HN | Technology | tech | 2026-07-18 | [link](https://velvetshark.com/ai-company-logos-that-look-like-buttholes) |
+| 2026-07-18 | What AI did to stackoverflow in a graph | HN | Technology | tech | 2026-07-18 | [link](https://data.stackexchange.com/stackoverflow/query/1953768#graph) |
+| 2026-07-18 | If You Build It, They Will Come | HN | Technology | tech | 2026-07-18 | [link](https://www.benlandautaylor.com/p/if-you-build-it-they-will-come) |
+| 2026-07-18 | The Kimi K3 Moment | HN | Technology | tech | 2026-07-18 | [link](https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/) |
+| 2026-07-18 | EU ban on destruction of unsold clothes and shoes enters into application | HN | Technology | tech | 2026-07-18 | [link](https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en) |
+| 2026-07-18 | Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help? | HN | Technology | tech | 2026-07-18 | [link](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/) |
+| 2026-07-18 | Gleam Is Now on Tangled | HN | Technology | tech | 2026-07-18 | [link](https://tangled.org/gleam.run/gleam) |
+| 2026-07-18 | Setting up your spare Mac for Claude Code to control, a step-by-step guide | HN | Technology | tech | 2026-07-18 | [link](https://ykdojo.github.io/claude-controls-mac/) |
+| 2026-07-18 | Elixir-lang.org has a new design | HN | Technology | tech | 2026-07-18 | [link](https://elixir-lang.org/) |
+| 2026-07-18 | Goodbye, and Thanks for All the Bikesheds | HN | Technology | tech | 2026-07-18 | [link](https://queue.acm.org/detail.cfm?id=3818307) |
+| 2026-07-18 | AI Mania Is Eviscerating Global Decision-Making | HN | Technology | tech | 2026-07-18 | [link](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3) |
+| 2026-07-18 | Better and Cheaper Than IPTV | HN | Technology | tech | 2026-07-18 | [link](https://github.com/stupside/castor) |
+| 2026-07-18 | China’s A.I. Play Is Different From America’s | NYT · AI | AI | opinion | 2026-07-18 | [link](https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html) |
+| 2026-07-18 | The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour | NYT · Technology | Technology | news | 2026-07-19 | [link](https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html) |
+| 2026-07-18 | Robinhood’s Chief on Trump Accounts and Why Trading Isn’t Necessarily Gambling | NYT · AI | AI | news | 2026-07-18 | [link](https://www.nytimes.com/2026/07/18/business/robinhoods-trump-accounts-trading-gambling.html) |
+| 2026-07-18 | They Were Charged With Assaulting ICE Agents. The Cases Are Crumbling. | NYT · U.S. | U.S. | news | 2026-07-18 | [link](https://www.nytimes.com/2026/07/18/us/ice-assaults-protesters.html) |
+| 2026-07-18 | Politicians Are Trying to Change What Chatbots Say About Them | NYT · AI | AI | news | 2026-07-19 | [link](https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html) |
+| 2026-07-18 | Big Tech Firms Like Oracle Turn to Bonds to Finance A.I. Data Centers | NYT · Business | Business | news | 2026-07-17 | [link](https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html) |
+| 2026-07-18 | The Hunt for a Job Has Never Been Worse. These Applicants Are Fighting Back. | NYT · AI | AI | opinion | 2026-07-18 | [link](https://www.nytimes.com/2026/07/18/opinion/job-market-ai-employees.html) |
+| 2026-07-18 | Stocks Sink on Anxiety About Tech and A.I. Spending | NYT · Business | Business | news | 2026-07-17 | [link](https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html) |
+| 2026-07-18 | The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard) | NYT · Technology | Technology | news | 2026-07-16 | [link](https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html) |
+| 2026-07-18 | Data Centers to Add Billions in Power Costs in 13 States | NYT · Energy & Environment | Energy & Environment | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html) |
+| 2026-07-18 | Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal | NYT · AI | AI | news | 2026-07-17 | [link](https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html) |
+| 2026-07-18 | The Housing Crisis Is Also a Retirement Crisis | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-07-17 | [link](https://www.nytimes.com/2026/07/14/opinion/housing-retirement-crisis.html) |
+| 2026-07-18 | What Will You Do in Retirement? Your Money Depends on It. | NYT · Business | Business | news | 2026-07-18 | [link](https://www.nytimes.com/2026/07/18/business/retirement-plan.html) |
+| 2026-07-18 | Nearly 200 Economists and Tech Leaders Warn of A.I. Threats | NYT · AI | AI | news | 2026-07-13 | [link](https://www.nytimes.com/2026/07/13/business/economists-ai-threat-jobs.html) |
+| 2026-07-18 | A $3.2 Trillion Deal-Making Frenzy Is Spurred by the A.I. Economy | NYT · AI | AI | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/business/ai-boom-corporate-deals.html) |
+| 2026-07-18 | China Pushes for ‘Openness’ to Shape A.I.’s Future | NYT · AI | AI | news | 2026-07-18 | [link](https://www.nytimes.com/video/technology/100000011037861/china-ai-conference-xi.html) |
+| 2026-07-18 | National Academies Report Backs Climate Change Attribution Science | NYT · Energy & Environment | Energy & Environment | news | 2026-07-17 | [link](https://www.nytimes.com/2026/07/16/climate/national-academies-extreme-weather-attribution.html) |
+| 2026-07-18 | Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech | NYT · Politics | Politics | news | 2026-07-17 | [link](https://www.nytimes.com/2026/07/17/us/politics/trump-speech-china-xi.html) |
+| 2026-07-18 | Trump Blasts ‘Sanctuary’ States, but Many Still Aid Deportations | NYT · Politics | Politics | news | 2026-07-19 | [link](https://www.nytimes.com/2026/07/19/us/politics/sanctuary-states-deportation-aid.html) |
+| 2026-07-18 | As Natural Disasters Expand, a Disaster-Tracking App Is Booming | NYT · Energy & Environment | Energy & Environment | news | 2026-07-18 | [link](https://www.nytimes.com/2026/07/18/climate/watch-duty-floods-fires-disasters.html) |
+| 2026-07-18 | Claude make Fable 5 permanent | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-18 | [link](https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything) |
+| 2026-07-18 | Apple Sends Letters to Dozens of Former Employees Now at OpenAI | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-18 | [link](https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1) |
+| 2026-07-18 | SQLite Query Explainer | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-18 | [link](https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything) |
+| 2026-07-18 | Apple Books and Amazon Are Lousy With AI-Generated Books Ripping Off Legitimate Authors | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-18 | [link](https://thenewthings.com/p/apple-big-ai-book-slop-problem) |
+| 2026-07-18 | Book Review: A City on Mars - by Dr. Kelly Weinersmith and Zach Weinersmith ★★★★⯪ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-07-18 | [link](https://shkspr.mobi/blog/2026/07/book-review-a-city-on-mars-by-dr-kelly-weinersmith-and-zach-weinersmith/) |
+| 2026-07-18 | Fable staying on Max | Reddit | Business | social | 2026-07-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uzjcop/fable_staying_on_max/) |
+| 2026-07-18 | Another move to sweeten the masses | Reddit | Business | social | 2026-07-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v05ucl/another_move_to_sweeten_the_masses/) |
+| 2026-07-18 | Scientist's view - the BS of F@ble "too dangerous for science" now that Sol and Kimi K3 available | Reddit | Business | social | 2026-07-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uzxcyt/scientists_view_the_bs_of_fble_too_dangerous_for/) |
+| 2026-07-18 | LLMs show hidden bias in favor of their creators (e.g. Claude favors Anthropic) | Reddit | Business | social | 2026-07-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uzpc74/llms_show_hidden_bias_in_favor_of_their_creators/) |
+| 2026-07-18 | Me as an NPC in my own codebase | Reddit | Business | social | 2026-07-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uzihik/me_as_an_npc_in_my_own_codebase/) |
+| 2026-07-18 | just got claude oss sponsorhip despite having 25 stars in my project | Reddit | Business | social | 2026-07-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uzmh94/just_got_claude_oss_sponsorhip_despite_having_25/) |
+| 2026-07-18 | Made this to see what Claude was doing. Now I basically work from it | Reddit | Business | social | 2026-07-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v08p2q/made_this_to_see_what_claude_was_doing_now_i/) |
+| 2026-07-18 | Fable, So $100 credit for pro user | Reddit | Business | social | 2026-07-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uzjhhn/fable_so_100_credit_for_pro_user/) |
+| 2026-07-18 | Claude Code 50% extra weekly usage extended to Aug 19 | Reddit | Business | social | 2026-07-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v01o7q/claude_code_50_extra_weekly_usage_extended_to_aug/) |
+| 2026-07-18 | Fable found a revenue leak on my website that opus 4.8 could not find | Reddit | Business | social | 2026-07-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1uzm7d8/fable_found_a_revenue_leak_on_my_website_that/) |
+| 2026-07-18 | As predicted | Reddit | Business | social | 2026-07-18 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uzjbeh/as_predicted/) |
+| 2026-07-18 | Me when Claude adds itself as co-author | Reddit | Business | social | 2026-07-18 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uzprcc/me_when_claude_adds_itself_as_coauthor/) |
+| 2026-07-18 | We are back! | Reddit | Business | social | 2026-07-18 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uzzx0c/we_are_back/) |
+| 2026-07-18 | congrats to max users | Reddit | Business | social | 2026-07-18 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uzjdrv/congrats_to_max_users/) |
+| 2026-07-18 | Fable is nerfed unless you switch to console billing (API). It immediately started working after 10  | Reddit | Business | social | 2026-07-18 | [link](https://www.reddit.com/r/ClaudeCode/comments/1uzrdzi/fable_is_nerfed_unless_you_switch_to_console/) |
+| 2026-07-18 | My Worldbuilding Vault | Reddit | Business | social | 2026-07-18 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v0ahwi/my_worldbuilding_vault/) |
+| 2026-07-18 | Tried every dashboard plugin but ended up making my own | Reddit | Business | social | 2026-07-18 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v004zc/tried_every_dashboard_plugin_but_ended_up_making/) |
+| 2026-07-18 | Themes made by AI | Reddit | Business | social | 2026-07-18 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v06878/themes_made_by_ai/) |
+| 2026-07-18 | Create link on obsidian without naming the note the same way the text is. | Reddit | Business | social | 2026-07-18 | [link](https://www.reddit.com/r/ObsidianMD/comments/1uzv8b3/create_link_on_obsidian_without_naming_the_note/) |
+| 2026-07-18 | I've made Word-Smith. It's a distraction-free writing suite plugin. | Reddit | Business | social | 2026-07-18 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v0676d/ive_made_wordsmith_its_a_distractionfree_writing/) |
+| 2026-07-18 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-17 | AWS: Inaccurate Estimated Billing Data – $1.7 billion | HN | Technology | tech | 2026-07-17 | [link](https://news.ycombinator.com/item?id=48945241) |
 | 2026-07-17 | Thanks HN for 15 years of support and helping me find my life's work | HN | Technology | tech | 2026-07-17 | [link](https://news.ycombinator.com/item?id=48949551) |
 | 2026-07-17 | Kaiser nurses say AI, surveillance are making their jobs and patient care worse | HN | Technology | tech | 2026-07-17 | [link](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) |

@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-18 · 439 days · 4390 stories*
+*Last updated: 2026-07-19 · 440 days · 4400 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-18 | Saturday | 1 | LG monitors silently install software through Windows Update without consent | 1131 | 574 | Technology | [link](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent) · [HN](https://news.ycombinator.com/item?id=48956688) |
+| 2026-07-18 | Saturday | 2 | GPT-5.6 used a prompt to close a 30-year gap in convex optimization | 563 | 360 | Technology | [link](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) · [HN](https://news.ycombinator.com/item?id=48957779) |
+| 2026-07-18 | Saturday | 3 | Transcribe.cpp | 526 | 109 | Technology | [link](https://workshop.cjpais.com/projects/transcribe-cpp) · [HN](https://news.ycombinator.com/item?id=48963879) |
+| 2026-07-18 | Saturday | 4 | NYC may require landlords and realtors to disclose the use of AI in listings | 471 | 207 | Technology | [link](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/) · [HN](https://news.ycombinator.com/item?id=48962983) |
+| 2026-07-18 | Saturday | 5 | Why do AI company logos look like buttholes? (2025) | 427 | 141 | Technology | [link](https://velvetshark.com/ai-company-logos-that-look-like-buttholes) · [HN](https://news.ycombinator.com/item?id=48956924) |
+| 2026-07-18 | Saturday | 6 | What AI did to stackoverflow in a graph | 410 | 499 | Technology | [link](https://data.stackexchange.com/stackoverflow/query/1953768#graph) · [HN](https://news.ycombinator.com/item?id=48956949) |
+| 2026-07-18 | Saturday | 7 | If You Build It, They Will Come | 410 | 140 | Technology | [link](https://www.benlandautaylor.com/p/if-you-build-it-they-will-come) · [HN](https://news.ycombinator.com/item?id=48959090) |
+| 2026-07-18 | Saturday | 8 | The Kimi K3 Moment | 403 | 432 | Technology | [link](https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/) · [HN](https://news.ycombinator.com/item?id=48960218) |
+| 2026-07-18 | Saturday | 9 | EU ban on destruction of unsold clothes and shoes enters into application | 293 | 293 | Technology | [link](https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en) · [HN](https://news.ycombinator.com/item?id=48958269) |
+| 2026-07-18 | Saturday | 10 | Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help? | 242 | 116 | Technology | [link](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/) · [HN](https://news.ycombinator.com/item?id=48956879) |
 | 2026-07-17 | Friday | 1 | AWS: Inaccurate Estimated Billing Data – $1.7 billion | 1189 | 708 | Technology | [link](https://news.ycombinator.com/item?id=48945241) · [HN](https://news.ycombinator.com/item?id=48945241) |
 | 2026-07-17 | Friday | 2 | Thanks HN for 15 years of support and helping me find my life's work | 601 | 62 | Technology | [link](https://news.ycombinator.com/item?id=48949551) · [HN](https://news.ycombinator.com/item?id=48949551) |
 | 2026-07-17 | Friday | 3 | Kaiser nurses say AI, surveillance are making their jobs and patient care worse | 510 | 332 | Technology | [link](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) · [HN](https://news.ycombinator.com/item?id=48952880) |
