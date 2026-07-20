@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-19 · 440 days · 4400 stories*
+*Last updated: 2026-07-20 · 441 days · 4410 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-19 | Sunday | 1 | Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s | 2330 | 250 | Technology | [link](https://news.ycombinator.com/item?id=48968606) · [HN](https://news.ycombinator.com/item?id=48968606) |
+| 2026-07-19 | Sunday | 2 | Qwen 3.8 | 883 | 609 | Technology | [link](https://twitter.com/Alibaba_Qwen/status/2078759124914098291) · [HN](https://news.ycombinator.com/item?id=48966120) |
+| 2026-07-19 | Sunday | 3 | Claude Code uses Bun written in Rust now | 521 | 687 | Technology | [link](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/) · [HN](https://news.ycombinator.com/item?id=48966569) |
+| 2026-07-19 | Sunday | 4 | What I learned selling 2,500 MIDI recorders: Hardware is not so hard | 493 | 226 | Technology | [link](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard) · [HN](https://news.ycombinator.com/item?id=48966713) |
+| 2026-07-19 | Sunday | 5 | Claude Fable produced a counterexample to the Jacobian Conjecture | 401 | 234 | Technology | [link](https://xcancel.com/__alpoge__/status/2079028340955197566) · [HN](https://news.ycombinator.com/item?id=48973869) |
+| 2026-07-19 | Sunday | 6 | OpenAI reduces Codex Model Context Size from 372k to 272k | 344 | 159 | Technology | [link](https://github.com/openai/codex/pull/33972/files) · [HN](https://news.ycombinator.com/item?id=48965850) |
+| 2026-07-19 | Sunday | 7 | AI advice made people less accurate but more confident – sudy | 338 | 190 | Technology | [link](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study) · [HN](https://news.ycombinator.com/item?id=48971738) |
+| 2026-07-19 | Sunday | 8 | Minecraft: Java Edition now uses SDL3 | 318 | 206 | Technology | [link](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4) · [HN](https://news.ycombinator.com/item?id=48967256) |
+| 2026-07-19 | Sunday | 9 | Moonshot AI suspends new subscriptions due to Kimi K3 demand | 261 | 107 | Technology | [link](https://twitter.com/kimi_moonshot/status/2078855608565207130) · [HN](https://news.ycombinator.com/item?id=48969291) |
+| 2026-07-19 | Sunday | 10 | Qwen 3.8 Max Preview | 220 | 1 | Technology | [link](https://www.qwencloud.com/pricing/token-plan) · [HN](https://news.ycombinator.com/item?id=48966190) |
 | 2026-07-18 | Saturday | 1 | LG monitors silently install software through Windows Update without consent | 1131 | 574 | Technology | [link](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent) · [HN](https://news.ycombinator.com/item?id=48956688) |
 | 2026-07-18 | Saturday | 2 | GPT-5.6 used a prompt to close a 30-year gap in convex optimization | 563 | 360 | Technology | [link](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) · [HN](https://news.ycombinator.com/item?id=48957779) |
 | 2026-07-18 | Saturday | 3 | Transcribe.cpp | 526 | 109 | Technology | [link](https://workshop.cjpais.com/projects/transcribe-cpp) · [HN](https://news.ycombinator.com/item?id=48963879) |

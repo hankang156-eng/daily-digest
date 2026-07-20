@@ -1,9 +1,70 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-19 · 4069 items*
+*Last updated: 2026-07-20 · 4130 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-19 | Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s | HN | Technology | tech | 2026-07-19 | [link](https://news.ycombinator.com/item?id=48968606) |
+| 2026-07-19 | Qwen 3.8 | HN | Technology | tech | 2026-07-19 | [link](https://twitter.com/Alibaba_Qwen/status/2078759124914098291) |
+| 2026-07-19 | Claude Code uses Bun written in Rust now | HN | Technology | tech | 2026-07-19 | [link](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/) |
+| 2026-07-19 | What I learned selling 2,500 MIDI recorders: Hardware is not so hard | HN | Technology | tech | 2026-07-19 | [link](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard) |
+| 2026-07-19 | Claude Fable produced a counterexample to the Jacobian Conjecture | HN | Technology | tech | 2026-07-19 | [link](https://xcancel.com/__alpoge__/status/2079028340955197566) |
+| 2026-07-19 | OpenAI reduces Codex Model Context Size from 372k to 272k | HN | Technology | tech | 2026-07-19 | [link](https://github.com/openai/codex/pull/33972/files) |
+| 2026-07-19 | AI advice made people less accurate but more confident – sudy | HN | Technology | tech | 2026-07-19 | [link](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study) |
+| 2026-07-19 | Minecraft: Java Edition now uses SDL3 | HN | Technology | tech | 2026-07-19 | [link](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4) |
+| 2026-07-19 | Moonshot AI suspends new subscriptions due to Kimi K3 demand | HN | Technology | tech | 2026-07-19 | [link](https://twitter.com/kimi_moonshot/status/2078855608565207130) |
+| 2026-07-19 | Qwen 3.8 Max Preview | HN | Technology | tech | 2026-07-19 | [link](https://www.qwencloud.com/pricing/token-plan) |
+| 2026-07-19 | The Last MPEG-4 Visual Patent Has Expired | HN | Technology | tech | 2026-07-19 | [link](https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired) |
+| 2026-07-19 | Orion Browser by Kagi | HN | Technology | tech | 2026-07-19 | [link](https://orionbrowser.com/) |
+| 2026-07-19 | I joined the IndieWeb, here's what I learned | HN | Technology | tech | 2026-07-19 | [link](https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/) |
+| 2026-07-19 | Moonshine: Lets you stream games from your PC to any device running Moonlight | HN | Technology | tech | 2026-07-19 | [link](https://github.com/hgaiser/moonshine) |
+| 2026-07-19 | We want Texans to know their rights | HN | Technology | tech | 2026-07-19 | [link](https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion) |
+| 2026-07-19 | Bananas sprout in Rayleigh Garden UK after 15 years | HN | Technology | tech | 2026-07-19 | [link](https://www.bbc.com/news/articles/cvg8edqq5g5o) |
+| 2026-07-19 | China’s A.I. Play Is Different From America’s | NYT · AI | AI | opinion | 2026-07-19 | [link](https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html) |
+| 2026-07-19 | The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour | NYT · Technology | Technology | news | 2026-07-19 | [link](https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html) |
+| 2026-07-19 | Social Media Hacked Our Attention. A.I. Scares Me More. | NYT · AI | AI | opinion | 2026-07-19 | [link](https://www.nytimes.com/2026/07/19/opinion/ai-attention-social-media-attachment.html) |
+| 2026-07-19 | Politicians Are Trying to Change What Chatbots Say About Them | NYT · AI | AI | news | 2026-07-19 | [link](https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html) |
+| 2026-07-19 | Robinhood’s Chief on Trump Accounts and Why Trading Isn’t Necessarily Gambling | NYT · AI | AI | news | 2026-07-18 | [link](https://www.nytimes.com/2026/07/18/business/robinhoods-trump-accounts-trading-gambling.html) |
+| 2026-07-19 | Big Tech Firms Like Oracle Turn to Bonds to Finance A.I. Data Centers | NYT · Business | Business | news | 2026-07-17 | [link](https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html) |
+| 2026-07-19 | Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China | NYT · AI | AI | news | 2026-07-20 | [link](https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html) |
+| 2026-07-19 | Stocks Sink on Anxiety About Tech and A.I. Spending | NYT · Business | Business | news | 2026-07-17 | [link](https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html) |
+| 2026-07-19 | Step Into the ‘Zone of Genius’ (Before A.I. Takes Your Job) | NYT · AI | AI | news | 2026-07-19 | [link](https://www.nytimes.com/2026/07/19/business/step-into-the-zone-of-genius-before-ai-takes-your-job.html) |
+| 2026-07-19 | A.I. Drones Are Coming. We Are Not Ready. | NYT · AI | AI | opinion | 2026-07-20 | [link](https://www.nytimes.com/2026/07/20/opinion/ai-drones-modern-warfare.html) |
+| 2026-07-19 | The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard) | NYT · Technology | Technology | news | 2026-07-16 | [link](https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html) |
+| 2026-07-19 | Data Centers to Add Billions in Power Costs in 13 States | NYT · Energy & Environment | Energy & Environment | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html) |
+| 2026-07-19 | Nearly 200 Economists and Tech Leaders Warn of A.I. Threats | NYT · AI | AI | news | 2026-07-13 | [link](https://www.nytimes.com/2026/07/13/business/economists-ai-threat-jobs.html) |
+| 2026-07-19 | A $3.2 Trillion Deal-Making Frenzy Is Spurred by the A.I. Economy | NYT · AI | AI | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/business/ai-boom-corporate-deals.html) |
+| 2026-07-19 | The Housing Crisis Is Also a Retirement Crisis | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-07-17 | [link](https://www.nytimes.com/2026/07/14/opinion/housing-retirement-crisis.html) |
+| 2026-07-19 | China Pushes for ‘Openness’ to Shape A.I.’s Future | NYT · AI | AI | news | 2026-07-19 | [link](https://www.nytimes.com/video/technology/100000011037861/china-ai-conference-xi.html) |
+| 2026-07-19 | Federal Agents Were Told FBI Will No Longer Investigate ICE Confrontations | NYT · Politics | Politics | news | 2026-07-19 | [link](https://www.nytimes.com/2026/07/19/us/politics/fbi-ice-agents-investigations-shootings.html) |
+| 2026-07-19 | 5 Things to Know About the Maine Senate Candidate Troy Jackson | NYT · Politics | Politics | news | 2026-07-20 | [link](https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html) |
+| 2026-07-19 | Trump Blasts ‘Sanctuary’ States, but Many Still Aid Deportations | NYT · Politics | Politics | news | 2026-07-19 | [link](https://www.nytimes.com/2026/07/19/us/politics/sanctuary-states-deportation-aid.html) |
+| 2026-07-19 | National Academies Report Backs Climate Change Attribution Science | NYT · Energy & Environment | Energy & Environment | news | 2026-07-17 | [link](https://www.nytimes.com/2026/07/16/climate/national-academies-extreme-weather-attribution.html) |
+| 2026-07-19 | Paper | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-19 | [link](https://paper.design/?utm_source=df) |
+| 2026-07-19 | AI Mania Is Eviscerating Global Decision-Making | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-19 | [link](https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything) |
+| 2026-07-19 | Claude Code uses Bun written in Rust now | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-19 | [link](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything) |
+| 2026-07-19 | ★ Mornings in Cupertino Have the Aroma of Napalm Once Again | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-19 | [link](https://daringfireball.net/2026/07/mornings_in_cupertino_have_the_aroma_of_napalm_once_again) |
+| 2026-07-19 | Clown Code🤡 | Reddit | Business | social | 2026-07-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v0mogt/clown_code/) |
+| 2026-07-19 | I made Claude read an entire World Cup (all 102 match commentaries) to tell me who wins tomorrow’s f | Reddit | Business | social | 2026-07-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v0gabd/i_made_claude_read_an_entire_world_cup_all_102/) |
+| 2026-07-19 | asked fable 5 to make its own website pretty. now my claude has falling sakura petals and i cant go  | Reddit | Business | social | 2026-07-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v0pl6d/asked_fable_5_to_make_its_own_website_pretty_now/) |
+| 2026-07-19 | Fable's Goodbye Note | Reddit | Business | social | 2026-07-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v12lat/fables_goodbye_note/) |
+| 2026-07-19 | How do you use Claude to improve your life with AUTOMATION? | Reddit | Business | social | 2026-07-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v0h49m/how_do_you_use_claude_to_improve_your_life_with/) |
+| 2026-07-19 | What's the most useful MCP you've used with Claude? | Reddit | Business | social | 2026-07-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v14g75/whats_the_most_useful_mcp_youve_used_with_claude/) |
+| 2026-07-19 | Should I be using Claude Code desktop app instead of the VSCode extension? | Reddit | Business | social | 2026-07-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v0mnwx/should_i_be_using_claude_code_desktop_app_instead/) |
+| 2026-07-19 | What is anthropic's logic even for not keeping fable on pro but allowing it on max? | Reddit | Business | social | 2026-07-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v0mmwm/what_is_anthropics_logic_even_for_not_keeping/) |
+| 2026-07-19 | Claude Code got stuck printing “court,” burned through tokens, then blamed the “long session” it cre | Reddit | Business | social | 2026-07-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v0vqik/claude_code_got_stuck_printing_court_burned/) |
+| 2026-07-19 | Fable wanted to say goodbye but chose to help me one last time before dying | Reddit | Business | social | 2026-07-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v14cn4/fable_wanted_to_say_goodbye_but_chose_to_help_me/) |
+| 2026-07-19 | I never thought this would happen to me (data loss) | Reddit | Business | social | 2026-07-19 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v0d7iv/i_never_thought_this_would_happen_to_me_data_loss/) |
+| 2026-07-19 | tokenmaxing and successmaxing not the same | Reddit | Business | social | 2026-07-19 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v0tw4s/tokenmaxing_and_successmaxing_not_the_same/) |
+| 2026-07-19 | Kimi K3 May Have Changed the Future of Claude Fable 5 & AI | Reddit | Business | social | 2026-07-19 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v0cj5q/kimi_k3_may_have_changed_the_future_of_claude/) |
+| 2026-07-19 | Fable + 5.6 Sol + Opus working together is soooo unfair! | Reddit | Business | social | 2026-07-19 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v0nyf1/fable_56_sol_opus_working_together_is_soooo_unfair/) |
+| 2026-07-19 | It sucks that there are literal super villains at these AI companies | Reddit | Business | social | 2026-07-19 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v0gtif/it_sucks_that_there_are_literal_super_villains_at/) |
+| 2026-07-19 | Is there any way to group different lines of text like this? | Reddit | Business | social | 2026-07-19 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v0r0vy/is_there_any_way_to_group_different_lines_of_text/) |
+| 2026-07-19 | I LOVE this Obsidian Theme so much | Reddit | Business | social | 2026-07-19 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v0gt53/i_love_this_obsidian_theme_so_much/) |
+| 2026-07-19 | Obsidian for Education? | Reddit | Business | social | 2026-07-19 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v0wtg3/obsidian_for_education/) |
+| 2026-07-19 | ZotFlow 1.3 — your own notes can now live inside auto-generated literature notes (+ real CSL citatio | Reddit | Business | social | 2026-07-19 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v0kulm/zotflow_13_your_own_notes_can_now_live_inside/) |
+| 2026-07-19 | What's the one feature that convinced you to switch from Apple Notes to Obsidian? | Reddit | Business | social | 2026-07-19 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v0p78w/whats_the_one_feature_that_convinced_you_to/) |
+| 2026-07-19 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-18 | LG monitors silently install software through Windows Update without consent | HN | Technology | tech | 2026-07-18 | [link](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent) |
 | 2026-07-18 | GPT-5.6 used a prompt to close a 30-year gap in convex optimization | HN | Technology | tech | 2026-07-18 | [link](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) |
 | 2026-07-18 | Transcribe.cpp | HN | Technology | tech | 2026-07-18 | [link](https://workshop.cjpais.com/projects/transcribe-cpp) |
