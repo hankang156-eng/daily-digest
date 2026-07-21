@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-20 · 441 days · 4410 stories*
+*Last updated: 2026-07-21 · 442 days · 4420 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-20 | Monday | 1 | China’s open-weights AI strategy is winning | 1111 | 839 | Technology | [link](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/) · [HN](https://news.ycombinator.com/item?id=48979269) |
+| 2026-07-20 | Monday | 2 | Airport Simulator | 796 | 154 | Technology | [link](https://airport.apunen.com/) · [HN](https://news.ycombinator.com/item?id=48976846) |
+| 2026-07-20 | Monday | 3 | Hacker wipes Romania's land registry database | 645 | 354 | Technology | [link](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/) · [HN](https://news.ycombinator.com/item?id=48978605) |
+| 2026-07-20 | Monday | 4 | Who's afraid of Chinese models? | 642 | 443 | Technology | [link](https://stratechery.com/2026/whos-afraid-of-chinese-models/) · [HN](https://news.ycombinator.com/item?id=48977128) |
+| 2026-07-20 | Monday | 5 | Kimi Work | 556 | 238 | Technology | [link](https://www.kimi.com/products/kimi-work) · [HN](https://news.ycombinator.com/item?id=48981703) |
+| 2026-07-20 | Monday | 6 | The EU is about to sell our most sensitive data to the US for visa-free travel | 508 | 304 | Technology | [link](https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/) · [HN](https://news.ycombinator.com/item?id=48977711) |
+| 2026-07-20 | Monday | 7 | Jelly UI: Soft-body physics for native HTML form controls | 498 | 155 | Technology | [link](https://jelly-ui.com/) · [HN](https://news.ycombinator.com/item?id=48981620) |
+| 2026-07-20 | Monday | 8 | Xiaomi-Robotics-1 | 481 | 315 | Technology | [link](https://robotics.xiaomi.com/xiaomi-robotics-1.html) · [HN](https://news.ycombinator.com/item?id=48974454) |
+| 2026-07-20 | Monday | 9 | Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public | 404 | 126 | Technology | [link](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country) · [HN](https://news.ycombinator.com/item?id=48986731) |
+| 2026-07-20 | Monday | 10 | I found a WordPress RCEs with GPT5.6 and $25 | 394 | 214 | Technology | [link](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/) · [HN](https://news.ycombinator.com/item?id=48975665) |
 | 2026-07-19 | Sunday | 1 | Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s | 2330 | 250 | Technology | [link](https://news.ycombinator.com/item?id=48968606) · [HN](https://news.ycombinator.com/item?id=48968606) |
 | 2026-07-19 | Sunday | 2 | Qwen 3.8 | 883 | 609 | Technology | [link](https://twitter.com/Alibaba_Qwen/status/2078759124914098291) · [HN](https://news.ycombinator.com/item?id=48966120) |
 | 2026-07-19 | Sunday | 3 | Claude Code uses Bun written in Rust now | 521 | 687 | Technology | [link](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/) · [HN](https://news.ycombinator.com/item?id=48966569) |

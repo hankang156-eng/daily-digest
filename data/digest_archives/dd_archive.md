@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-20 · 4130 items*
+*Last updated: 2026-07-21 · 4193 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-20 | China’s open-weights AI strategy is winning | HN | Technology | tech | 2026-07-20 | [link](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/) |
+| 2026-07-20 | Airport Simulator | HN | Technology | tech | 2026-07-20 | [link](https://airport.apunen.com/) |
+| 2026-07-20 | Hacker wipes Romania's land registry database | HN | Technology | tech | 2026-07-20 | [link](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/) |
+| 2026-07-20 | Who's afraid of Chinese models? | HN | Technology | tech | 2026-07-20 | [link](https://stratechery.com/2026/whos-afraid-of-chinese-models/) |
+| 2026-07-20 | Kimi Work | HN | Technology | tech | 2026-07-20 | [link](https://www.kimi.com/products/kimi-work) |
+| 2026-07-20 | The EU is about to sell our most sensitive data to the US for visa-free travel | HN | Technology | tech | 2026-07-20 | [link](https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/) |
+| 2026-07-20 | Jelly UI: Soft-body physics for native HTML form controls | HN | Technology | tech | 2026-07-20 | [link](https://jelly-ui.com/) |
+| 2026-07-20 | Xiaomi-Robotics-1 | HN | Technology | tech | 2026-07-20 | [link](https://robotics.xiaomi.com/xiaomi-robotics-1.html) |
+| 2026-07-20 | Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public | HN | Technology | tech | 2026-07-20 | [link](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country) |
+| 2026-07-20 | I found a WordPress RCEs with GPT5.6 and $25 | HN | Technology | tech | 2026-07-20 | [link](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/) |
+| 2026-07-20 | Annoying and alarming things about OpenCode | HN | Technology | tech | 2026-07-20 | [link](https://wren.wtf/shower-thoughts/stop-using-opencode/) |
+| 2026-07-20 | Human mathematicians are being outcounterexampled | HN | Technology | tech | 2026-07-20 | [link](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/) |
+| 2026-07-20 | Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling | HN | Technology | tech | 2026-07-20 | [link](https://www.emergingtrajectories.com/lh/frontier-lab-economics/) |
+| 2026-07-20 | Five US tech giants' hidden debts soar to $1.65T on opaque AI funding | HN | Technology | tech | 2026-07-20 | [link](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding) |
+| 2026-07-20 | Nativ: Run frontier open models locally on your Mac | HN | Technology | tech | 2026-07-20 | [link](https://blaizzy.github.io/nativ/) |
+| 2026-07-20 | Firefox 153 available with support for Vulkan video decoding, JPEG-XL | HN | Technology | tech | 2026-07-20 | [link](https://www.phoronix.com/news/Firefox-153-Downloads) |
+| 2026-07-20 | The U.S. Is Pulling Back on Energy Efficiency | NYT · Energy & Environment | Energy & Environment | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html) |
+| 2026-07-20 | Judge Temporarily Pauses Paramount-Warner Bros. Deal | NYT · Technology | Technology | news | 2026-07-20 | [link](https://www.nytimes.com/2026/07/20/business/media/paramount-warner-bros-deal.html) |
+| 2026-07-20 | Clothes Have All Started Looking the Same. Blame the Algorithm. | NYT · AI | AI | opinion | 2026-07-21 | [link](https://www.nytimes.com/2026/07/21/opinion/fashion-slop-boring.html) |
+| 2026-07-20 | American A.I. Giants Like Alphabet Face Fresh Tests | NYT · AI | AI | news | 2026-07-20 | [link](https://www.nytimes.com/2026/07/20/business/dealbook/ai-china-alphabet.html) |
+| 2026-07-20 | How Google’s A.I. Search Is Imperiling the Open Web | NYT · AI | AI | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html) |
+| 2026-07-20 | The Fake Influencers Selling Wellness on Your Feed | NYT · AI | AI | news | 2026-07-21 | [link](https://www.nytimes.com/video/technology/100000011001849/ai-influencers-health-supplements-fake-ads.html) |
+| 2026-07-20 | Apple Accuses OpenAI of Trying to Steal Hardware Secrets | NYT · AI | AI | news | 2026-07-20 | [link](https://www.nytimes.com/video/podcasts/100000011042532/apple-accuses-openai-of-trying-to-steal-hardware-secrets.html) |
+| 2026-07-20 | I’m a Screenwriter. Hollywood Is in Trouble. | NYT · Opinion | Opinion | opinion | 2026-07-20 | [link](https://www.nytimes.com/2026/07/20/opinion/paramount-warner-bros-merger-hollywood.html) |
+| 2026-07-20 | It’s the Wrong Way to Address A.I. Job Loss. Trump Loves It. | NYT · AI | AI | opinion | 2026-07-21 | [link](https://www.nytimes.com/2026/07/21/opinion/artificial-intelligence-government-trump.html) |
+| 2026-07-20 | China’s A.I. Play Is Different From America’s | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-07-19 | [link](https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html) |
+| 2026-07-20 | A.I. ‘Vibecoded’ Apps Are Flooding Apple’s App Store | NYT · AI | AI | news | 2026-07-20 | [link](https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html) |
+| 2026-07-20 | Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China | NYT · AI | AI | news | 2026-07-20 | [link](https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html) |
+| 2026-07-20 | Judge Tosses Justice Department Challenge to Minnesota Immigration Laws | NYT · U.S. | U.S. | news | 2026-07-20 | [link](https://www.nytimes.com/2026/07/20/us/minnesota-immigration-lawsuit.html) |
+| 2026-07-20 | Big Tech Firms Like Oracle Turn to Bonds to Finance A.I. Data Centers | NYT · Business | Business | news | 2026-07-17 | [link](https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html) |
+| 2026-07-20 | The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour | NYT · Technology | Technology | news | 2026-07-19 | [link](https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html) |
+| 2026-07-20 | Data Centers to Add Billions in Power Costs in 13 States | NYT · Energy & Environment | Energy & Environment | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html) |
+| 2026-07-20 | Americans Are Spending, and Not Just on Necessities | NYT · Business | Business | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/16/business/consumers-spending-retail-sales.html) |
+| 2026-07-20 | Trump to Impose 50% Tariff on Many Canadian Goods | NYT · Economy | Economy | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html) |
+| 2026-07-20 | Trump Attacks National Academies Over Climate Chapter in Judges’ Manual | NYT · Energy & Environment | Energy & Environment | news | 2026-07-20 | [link](https://www.nytimes.com/2026/07/20/climate/climate-change-manual-national-academy-science.html) |
+| 2026-07-20 | Trump Rejected Nearly 6,000 Clemency Applications Amid Hope of Pardon Wave | NYT · Politics | Politics | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/20/us/politics/trump-rejected-clemency-applications.html) |
+| 2026-07-20 | Reverse-engineering is cheap now | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-20 | [link](https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything) |
+| 2026-07-20 | Quoting Sam Altman | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-20 | [link](https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything) |
+| 2026-07-20 | [Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-20 | [link](https://workos.com/blog/management-mcp-server?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) |
+| 2026-07-20 | OpenAI's first gadget is the $230 Codex Micro macropad | Superpower Daily · Tech & Engineering | Technology | tech | 2026-07-20 | [link](https://www.superpowerdaily.com/p/openai-s-first-gadget-is-the-230-codex-micro-macropad) |
+| 2026-07-20 | Public Transport - Don't Make Me Think! | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-07-20 | [link](https://shkspr.mobi/blog/2026/07/public-transport-dont-make-me-think/) |
+| 2026-07-20 | Looking for work | Tonsky.me · Tech & Engineering | Technology | tech | 2026-07-20 | [link](https://tonsky.me/blog/work-2026/) |
+| 2026-07-20 | Claude usage as reward | Reddit | Business | social | 2026-07-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v1s4tz/claude_usage_as_reward/) |
+| 2026-07-20 | Fable may have disproved a 100 year old conjecture. | Reddit | Business | social | 2026-07-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v1b4i8/fable_may_have_disproved_a_100_year_old_conjecture/) |
+| 2026-07-20 | FabIe in caveman mode talking about this reddit community is so accurate and surprisingly hilarious | Reddit | Business | social | 2026-07-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v21m1l/fabie_in_caveman_mode_talking_about_this_reddit/) |
+| 2026-07-20 | Claude Sonnet 5 price will be increased starting September 1 | Reddit | Business | social | 2026-07-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v1qak5/claude_sonnet_5_price_will_be_increased_starting/) |
+| 2026-07-20 | Claude Code unlocked my laptop's bios! | Reddit | Business | social | 2026-07-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v1vwg7/claude_code_unlocked_my_laptops_bios/) |
+| 2026-07-20 | How is it that I just logged in to Claude Code this morning, /compact a session from yesterday (16h  | Reddit | Business | social | 2026-07-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v1lr3g/how_is_it_that_i_just_logged_in_to_claude_code/) |
+| 2026-07-20 | Gave a new use for my kindle | Reddit | Business | social | 2026-07-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v1m875/gave_a_new_use_for_my_kindle/) |
+| 2026-07-20 | Does the 'Claim free credits' button also open me up to a massive bill in September if I'm not payin | Reddit | Business | social | 2026-07-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v216k9/does_the_claim_free_credits_button_also_open_me/) |
+| 2026-07-20 | I built loom — a free generative MIDI instrument for macOS that grows a whole evolving ambient elect | Reddit | Business | social | 2026-07-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v1c1d4/i_built_loom_a_free_generative_midi_instrument/) |
+| 2026-07-20 | In Support of Anthropic | Reddit | Business | social | 2026-07-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v1mj0h/in_support_of_anthropic/) |
+| 2026-07-20 | Fable 5 Three.js World - all procedurally generated | Reddit | Business | social | 2026-07-20 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v20eow/fable_5_threejs_world_all_procedurally_generated/) |
+| 2026-07-20 | Is it for everyone? Max 5x plan. | Reddit | Business | social | 2026-07-20 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v1e58j/is_it_for_everyone_max_5x_plan/) |
+| 2026-07-20 | Existential question: how on earth do you create an agent? | Reddit | Business | social | 2026-07-20 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v1u0wr/existential_question_how_on_earth_do_you_create/) |
+| 2026-07-20 | It’s a infinity loop now 🔁 | Reddit | Business | social | 2026-07-20 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v1vpjc/its_a_infinity_loop_now/) |
+| 2026-07-20 | Has anyone on the Pro plan gotten the $100 credit? | Reddit | Business | social | 2026-07-20 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v1g3wf/has_anyone_on_the_pro_plan_gotten_the_100_credit/) |
+| 2026-07-20 | Star Trek LCARS Inspired Theme | Reddit | Business | social | 2026-07-20 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v1x61t/star_trek_lcars_inspired_theme/) |
+| 2026-07-20 | Cursor-Smith 1.2.1 is out! Added some new cursor types and SPEEEEEEED DEEEEEEMON! I want more ideas  | Reddit | Business | social | 2026-07-20 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v1n632/cursorsmith_121_is_out_added_some_new_cursor/) |
+| 2026-07-20 | Mastering Notebook Navigator 3 is out now - a one hour masterclass spanning 14 chapters | Reddit | Business | social | 2026-07-20 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v1sp43/mastering_notebook_navigator_3_is_out_now_a_one/) |
+| 2026-07-20 | Title: Built a complete author hub in Obsidian for my six-book dark fantasy series | Reddit | Business | social | 2026-07-20 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v1pjuo/title_built_a_complete_author_hub_in_obsidian_for/) |
+| 2026-07-20 | How has Obsidian changed your life for the better? | Reddit | Business | social | 2026-07-20 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v1wfuw/how_has_obsidian_changed_your_life_for_the_better/) |
+| 2026-07-20 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-19 | Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s | HN | Technology | tech | 2026-07-19 | [link](https://news.ycombinator.com/item?id=48968606) |
 | 2026-07-19 | Qwen 3.8 | HN | Technology | tech | 2026-07-19 | [link](https://twitter.com/Alibaba_Qwen/status/2078759124914098291) |
 | 2026-07-19 | Claude Code uses Bun written in Rust now | HN | Technology | tech | 2026-07-19 | [link](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/) |
