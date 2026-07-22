@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-21 · 442 days · 4420 stories*
+*Last updated: 2026-07-22 · 443 days · 4430 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-21 | Tuesday | 1 | OpenAI and Hugging Face address security incident during model evaluation | 1167 | 805 | Technology | [link](https://openai.com/index/hugging-face-model-evaluation-security-incident/) · [HN](https://news.ycombinator.com/item?id=48997548) |
+| 2026-07-21 | Tuesday | 2 | Advertise in ChatGPT | 766 | 561 | Technology | [link](https://ads.openai.com/) · [HN](https://news.ycombinator.com/item?id=48996571) |
+| 2026-07-21 | Tuesday | 3 | Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber | 691 | 528 | Technology | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/) · [HN](https://news.ycombinator.com/item?id=48993414) |
+| 2026-07-21 | Tuesday | 4 | Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA | 630 | 346 | Technology | [link](https://fireworks.ai/blog/kimik3-fable) · [HN](https://news.ycombinator.com/item?id=48999291) |
+| 2026-07-21 | Tuesday | 5 | FreeInk: Open ecosystem for e-readers | 565 | 120 | Technology | [link](https://freeink.org/) · [HN](https://news.ycombinator.com/item?id=48996318) |
+| 2026-07-21 | Tuesday | 6 | 'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling | 559 | 95 | Technology | [link](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling) · [HN](https://news.ycombinator.com/item?id=48997221) |
+| 2026-07-21 | Tuesday | 7 | Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge | 555 | 212 | Technology | [link](https://qwen.ai/blog?id=qwen-image-3.0) · [HN](https://news.ycombinator.com/item?id=48989701) |
+| 2026-07-21 | Tuesday | 8 | Apple defeats liability for not scanning iCloud for CSAM | 415 | 394 | Technology | [link](https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm) · [HN](https://news.ycombinator.com/item?id=48992870) |
+| 2026-07-21 | Tuesday | 9 | Judge approves $1.5B Anthropic settlement for pirated books used to train Claude | 364 | 292 | Technology | [link](https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63) · [HN](https://news.ycombinator.com/item?id=48996652) |
+| 2026-07-21 | Tuesday | 10 | Long presumed dead, a thriving coral reef is discovered in West Africa | 349 | 74 | Technology | [link](https://e360.yale.edu/digest/benin-coral-reef) · [HN](https://news.ycombinator.com/item?id=48993816) |
 | 2026-07-20 | Monday | 1 | China’s open-weights AI strategy is winning | 1111 | 839 | Technology | [link](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/) · [HN](https://news.ycombinator.com/item?id=48979269) |
 | 2026-07-20 | Monday | 2 | Airport Simulator | 796 | 154 | Technology | [link](https://airport.apunen.com/) · [HN](https://news.ycombinator.com/item?id=48976846) |
 | 2026-07-20 | Monday | 3 | Hacker wipes Romania's land registry database | 645 | 354 | Technology | [link](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/) · [HN](https://news.ycombinator.com/item?id=48978605) |

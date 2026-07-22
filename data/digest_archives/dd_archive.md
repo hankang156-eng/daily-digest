@@ -1,9 +1,70 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-21 · 4193 items*
+*Last updated: 2026-07-22 · 4254 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-21 | OpenAI and Hugging Face address security incident during model evaluation | HN | Technology | tech | 2026-07-21 | [link](https://openai.com/index/hugging-face-model-evaluation-security-incident/) |
+| 2026-07-21 | Advertise in ChatGPT | HN | Technology | tech | 2026-07-21 | [link](https://ads.openai.com/) |
+| 2026-07-21 | Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber | HN | Technology | tech | 2026-07-21 | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/) |
+| 2026-07-21 | Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA | HN | Technology | tech | 2026-07-21 | [link](https://fireworks.ai/blog/kimik3-fable) |
+| 2026-07-21 | FreeInk: Open ecosystem for e-readers | HN | Technology | tech | 2026-07-21 | [link](https://freeink.org/) |
+| 2026-07-21 | 'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling | HN | Technology | tech | 2026-07-21 | [link](https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling) |
+| 2026-07-21 | Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge | HN | Technology | tech | 2026-07-21 | [link](https://qwen.ai/blog?id=qwen-image-3.0) |
+| 2026-07-21 | Apple defeats liability for not scanning iCloud for CSAM | HN | Technology | tech | 2026-07-21 | [link](https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm) |
+| 2026-07-21 | Judge approves $1.5B Anthropic settlement for pirated books used to train Claude | HN | Technology | tech | 2026-07-21 | [link](https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63) |
+| 2026-07-21 | Long presumed dead, a thriving coral reef is discovered in West Africa | HN | Technology | tech | 2026-07-21 | [link](https://e360.yale.edu/digest/benin-coral-reef) |
+| 2026-07-21 | Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting | HN | Technology | tech | 2026-07-21 | [link](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git) |
+| 2026-07-21 | Laguna S 2.1 | HN | Technology | tech | 2026-07-21 | [link](https://poolside.ai/blog/introducing-laguna-s-2-1) |
+| 2026-07-21 | LG to ban residential proxies from smart TV apps | HN | Technology | tech | 2026-07-21 | [link](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/) |
+| 2026-07-21 | A digestion of the Jacobian conjecture counterexample | HN | Technology | tech | 2026-07-21 | [link](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/) |
+| 2026-07-21 | Map of the world's great castles and fortresses | HN | Technology | tech | 2026-07-21 | [link](https://thecastlemap.com/) |
+| 2026-07-21 | ICE to Pay Thomson Reuters $125M to Find Voter Fraud | HN | Technology | tech | 2026-07-21 | [link](https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/) |
+| 2026-07-21 | Will the U.S. and China Build Walls Around A.I.? | NYT · AI | AI | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/21/business/dealbook/us-china-ai-limits.html) |
+| 2026-07-21 | The U.S. Is Pulling Back on Energy Efficiency | NYT · Energy & Environment | Energy & Environment | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html) |
+| 2026-07-21 | Clothes Have All Started Looking the Same. Blame the Algorithm. | NYT · AI | AI | opinion | 2026-07-21 | [link](https://www.nytimes.com/2026/07/21/opinion/fashion-slop-boring.html) |
+| 2026-07-21 | The Fake Influencers Selling Wellness on Your Feed | NYT · AI | AI | news | 2026-07-21 | [link](https://www.nytimes.com/video/technology/100000011001849/ai-influencers-health-supplements-fake-ads.html) |
+| 2026-07-21 | Judge Temporarily Pauses Paramount-Warner Bros. Deal | NYT · Technology | Technology | news | 2026-07-20 | [link](https://www.nytimes.com/2026/07/20/business/media/paramount-warner-bros-deal.html) |
+| 2026-07-21 | How Donald Trump Jr.’s 1789 Capital Is Cashing In Without Apology | NYT · Business | Business | news | 2026-07-22 | [link](https://www.nytimes.com/2026/07/22/business/donald-trump-jr-1789-capital.html) |
+| 2026-07-21 | How Google’s A.I. Search Is Imperiling the Open Web | NYT · Technology | Technology | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html) |
+| 2026-07-21 | This Is a Bad Way to Address A.I. Job Loss. Of Course Trump Loves It. | NYT · AI | AI | opinion | 2026-07-21 | [link](https://www.nytimes.com/2026/07/21/opinion/artificial-intelligence-government-trump.html) |
+| 2026-07-21 | What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram | NYT · AI | AI | news | 2026-07-22 | [link](https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html) |
+| 2026-07-21 | Who Should Represent Michigan? | NYT · AI | AI | news | 2026-07-22 | [link](https://www.nytimes.com/interactive/2026/07/22/opinion/michigan-senate-primary-election.html) |
+| 2026-07-21 | Netanyahu Ad Uses a Questionable Tactic Against Bereaved Rival | NYT · AI | AI | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/21/world/middleeast/netanyahu-ad-gadi-eisenkot.html) |
+| 2026-07-21 | OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library | NYT · AI | AI | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html) |
+| 2026-07-21 | China’s A.I. Play Is Different From America’s | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-07-19 | [link](https://www.nytimes.com/2026/07/18/opinion/china-united-states-artificial-intelligence.html) |
+| 2026-07-21 | American A.I. Giants Like Alphabet Face Fresh Tests | NYT · Business | Business | news | 2026-07-20 | [link](https://www.nytimes.com/2026/07/20/business/dealbook/ai-china-alphabet.html) |
+| 2026-07-21 | I’m a Screenwriter. Hollywood Is in Trouble. | NYT · Opinion | Opinion | opinion | 2026-07-20 | [link](https://www.nytimes.com/2026/07/20/opinion/paramount-warner-bros-merger-hollywood.html) |
+| 2026-07-21 | Data Centers to Add Billions in Power Costs in 13 States | NYT · Energy & Environment | Energy & Environment | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html) |
+| 2026-07-21 | Big Tech Firms Like Oracle Turn to Bonds to Finance A.I. Data Centers | NYT · Business | Business | news | 2026-07-17 | [link](https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html) |
+| 2026-07-21 | Laredo’s Future Rides on Trump’s Next Trade Move | NYT · Economy | Economy | news | 2026-07-22 | [link](https://www.nytimes.com/2026/07/22/business/economy/trump-tariffs-laredo-trade-mexico.html) |
+| 2026-07-21 | Saudis Reach Deal With U.S. That Could Let Them Enrich Nuclear Fuel | NYT · Politics | Politics | news | 2026-07-22 | [link](https://www.nytimes.com/2026/07/21/us/politics/trump-saudi-nuclear-deal.html) |
+| 2026-07-21 | Cameron Hamilton Poised to Lead FEMA Once More | NYT · Energy & Environment | Energy & Environment | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/21/climate/cameron-hamilton-fema-trump.html) |
+| 2026-07-21 | A Fireside Chat with Cat and Thariq from the Claude Code team | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-21 | [link](https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything) |
+| 2026-07-21 | Nativ: Run AI models locally on your Mac | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-21 | [link](https://simonwillison.net/2026/Jul/21/nativ/#atom-everything) |
+| 2026-07-21 | Weekly Update 513: Clauding The Home Network | Troy Hunt · Security & Privacy | Security | tech | 2026-07-21 | [link](https://www.troyhunt.com/weekly-update-513/) |
+| 2026-07-21 | ★ European Commission: ‘Guidance to Google for AI Interoperability on Android & Sharing of Google Se | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-21 | [link](https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing) |
+| 2026-07-21 | New: Teach Claude a skill | Reddit | Business | social | 2026-07-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v2qdct/new_teach_claude_a_skill/) |
+| 2026-07-21 | ANTHROPIC GOT SUED | Reddit | Business | social | 2026-07-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v2cc6o/anthropic_got_sued/) |
+| 2026-07-21 | claude doesn’t lie anymore | Reddit | Business | social | 2026-07-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v2u429/claude_doesnt_lie_anymore/) |
+| 2026-07-21 | Umm….. this is happening to me right now. Respectfully, what on earth? | Reddit | Business | social | 2026-07-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v23cbo/umm_this_is_happening_to_me_right_now/) |
+| 2026-07-21 | Asked Claude to sort through GPT's feedback on my draft. It opened with this | Reddit | Business | social | 2026-07-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v2m3tj/asked_claude_to_sort_through_gpts_feedback_on_my/) |
+| 2026-07-21 | I think we're going to forget how good we were at Googling. | Reddit | Business | social | 2026-07-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v2h9op/i_think_were_going_to_forget_how_good_we_were_at/) |
+| 2026-07-21 | If you're not already using a CI pipeline with your larger Claude Code projects, switch ASAP. | Reddit | Business | social | 2026-07-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v28snk/if_youre_not_already_using_a_ci_pipeline_with/) |
+| 2026-07-21 | CHECK YOUR SPEND LIMIT | Reddit | Business | social | 2026-07-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v2nsb2/check_your_spend_limit/) |
+| 2026-07-21 | Call me crazy.. I kind of like Opus 4.8 | Reddit | Business | social | 2026-07-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v26l6p/call_me_crazy_i_kind_of_like_opus_48/) |
+| 2026-07-21 | PSA for pro subs! | Reddit | Business | social | 2026-07-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v25dlk/psa_for_pro_subs/) |
+| 2026-07-21 | Important Update to Claude Usage Limits | Reddit | Business | social | 2026-07-21 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v2yoe4/important_update_to_claude_usage_limits/) |
+| 2026-07-21 | I built a tool that tells you who already tried your startup idea, and how they died | Reddit | Business | social | 2026-07-21 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v2jy6z/i_built_a_tool_that_tells_you_who_already_tried/) |
+| 2026-07-21 | We all like models…right? | Reddit | Business | social | 2026-07-21 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v23ab7/we_all_like_modelsright/) |
+| 2026-07-21 | Is this useful ? | Reddit | Business | social | 2026-07-21 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v2ve3w/is_this_useful/) |
+| 2026-07-21 | Instrument separator app made with Fable | Reddit | Business | social | 2026-07-21 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v2shs5/instrument_separator_app_made_with_fable/) |
+| 2026-07-21 | TIL obsidian has a built-in web browser | Reddit | Business | social | 2026-07-21 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v27wg0/til_obsidian_has_a_builtin_web_browser/) |
+| 2026-07-21 | ReverySky: the 3D cosmic graph I shared here, now an Obsidian plugin | Reddit | Business | social | 2026-07-21 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v2e0ai/reverysky_the_3d_cosmic_graph_i_shared_here_now/) |
+| 2026-07-21 | Mini Vault Showcase | Reddit | Business | social | 2026-07-21 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v285ls/mini_vault_showcase/) |
+| 2026-07-21 | My dashboard showcase | Reddit | Business | social | 2026-07-21 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v2werw/my_dashboard_showcase/) |
+| 2026-07-21 | The Complete Guide to Templates and Templater in Obsidian | Reddit | Business | social | 2026-07-21 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v2e6uq/the_complete_guide_to_templates_and_templater_in/) |
+| 2026-07-21 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-20 | China’s open-weights AI strategy is winning | HN | Technology | tech | 2026-07-20 | [link](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/) |
 | 2026-07-20 | Airport Simulator | HN | Technology | tech | 2026-07-20 | [link](https://airport.apunen.com/) |
 | 2026-07-20 | Hacker wipes Romania's land registry database | HN | Technology | tech | 2026-07-20 | [link](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/) |
