@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-22 · 443 days · 4430 stories*
+*Last updated: 2026-07-23 · 444 days · 4440 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-22 | Wednesday | 1 | Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample | 877 | 510 | Technology | [link](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) · [HN](https://news.ycombinator.com/item?id=49010345) |
+| 2026-07-22 | Wednesday | 2 | Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab) | 845 | 187 | Technology | [link](https://bento.page/slides/) · [HN](https://news.ycombinator.com/item?id=49008211) |
+| 2026-07-22 | Wednesday | 3 | John C. Dvorak has died | 752 | 247 | Technology | [link](https://twitter.com/na_announce/status/2079952538040672302) · [HN](https://news.ycombinator.com/item?id=49012070) |
+| 2026-07-22 | Wednesday | 4 | OverpAId – Fire your CEO. Hire the future | 657 | 340 | Technology | [link](https://overpaid.lol) · [HN](https://news.ycombinator.com/item?id=49004663) |
+| 2026-07-22 | Wednesday | 5 | Are AI labs pelicanmaxxing? | 535 | 208 | Technology | [link](https://dylancastillo.co/posts/pelicanmaxxing.html) · [HN](https://news.ycombinator.com/item?id=49010129) |
+| 2026-07-22 | Wednesday | 6 | Passkeys were invented by engineers with zero understanding of consumer brain | 512 | 697 | Technology | [link](https://twitter.com/nikitabier/status/2079787406300266743) · [HN](https://news.ycombinator.com/item?id=49007374) |
+| 2026-07-22 | Wednesday | 7 | GigaToken: ~1000x faster Language model tokenization | 507 | 104 | Technology | [link](https://github.com/marcelroed/gigatoken/) · [HN](https://news.ycombinator.com/item?id=49010167) |
+| 2026-07-22 | Wednesday | 8 | So Reddit has decided that plain HTML is unsafe | 470 | 475 | Technology | [link](https://www.cole-k.com/2026/07/21/reddit/) · [HN](https://news.ycombinator.com/item?id=49005747) |
+| 2026-07-22 | Wednesday | 9 | Everyone should know SIMD | 433 | 158 | Technology | [link](https://mitchellh.com/writing/everyone-should-know-simd) · [HN](https://news.ycombinator.com/item?id=49010648) |
+| 2026-07-22 | Wednesday | 10 | The startup's Postgres survival guide | 411 | 192 | Technology | [link](https://hatchet.run/blog/postgres-survival-guide) · [HN](https://news.ycombinator.com/item?id=49005787) |
 | 2026-07-21 | Tuesday | 1 | OpenAI and Hugging Face address security incident during model evaluation | 1167 | 805 | Technology | [link](https://openai.com/index/hugging-face-model-evaluation-security-incident/) · [HN](https://news.ycombinator.com/item?id=48997548) |
 | 2026-07-21 | Tuesday | 2 | Advertise in ChatGPT | 766 | 561 | Technology | [link](https://ads.openai.com/) · [HN](https://news.ycombinator.com/item?id=48996571) |
 | 2026-07-21 | Tuesday | 3 | Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber | 691 | 528 | Technology | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/) · [HN](https://news.ycombinator.com/item?id=48993414) |

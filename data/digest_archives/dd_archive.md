@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-22 · 4254 items*
+*Last updated: 2026-07-23 · 4317 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-22 | Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample | HN | Technology | tech | 2026-07-22 | [link](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) |
+| 2026-07-22 | Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab) | HN | Technology | tech | 2026-07-22 | [link](https://bento.page/slides/) |
+| 2026-07-22 | John C. Dvorak has died | HN | Technology | tech | 2026-07-22 | [link](https://twitter.com/na_announce/status/2079952538040672302) |
+| 2026-07-22 | OverpAId – Fire your CEO. Hire the future | HN | Technology | tech | 2026-07-22 | [link](https://overpaid.lol) |
+| 2026-07-22 | Are AI labs pelicanmaxxing? | HN | Technology | tech | 2026-07-22 | [link](https://dylancastillo.co/posts/pelicanmaxxing.html) |
+| 2026-07-22 | Passkeys were invented by engineers with zero understanding of consumer brain | HN | Technology | tech | 2026-07-22 | [link](https://twitter.com/nikitabier/status/2079787406300266743) |
+| 2026-07-22 | GigaToken: ~1000x faster Language model tokenization | HN | Technology | tech | 2026-07-22 | [link](https://github.com/marcelroed/gigatoken/) |
+| 2026-07-22 | So Reddit has decided that plain HTML is unsafe | HN | Technology | tech | 2026-07-22 | [link](https://www.cole-k.com/2026/07/21/reddit/) |
+| 2026-07-22 | Everyone should know SIMD | HN | Technology | tech | 2026-07-22 | [link](https://mitchellh.com/writing/everyone-should-know-simd) |
+| 2026-07-22 | The startup's Postgres survival guide | HN | Technology | tech | 2026-07-22 | [link](https://hatchet.run/blog/postgres-survival-guide) |
+| 2026-07-22 | I Inspected My Take-Home Interview Project. It Was a Whole Operation | HN | Technology | tech | 2026-07-22 | [link](https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/) |
+| 2026-07-22 | Quality non-fiction books are the antithesis of AI slop | HN | Technology | tech | 2026-07-22 | [link](https://resobscura.substack.com/p/quality-non-fiction-books-are-the) |
+| 2026-07-22 | Making | HN | Technology | tech | 2026-07-22 | [link](https://beej.us/blog/data/ai-making/) |
+| 2026-07-22 | Does creatine make you smarter? | HN | Technology | tech | 2026-07-22 | [link](https://dynomight.net/creatine/) |
+| 2026-07-22 | Businesses with ugly AI menu redesigns | HN | Technology | tech | 2026-07-22 | [link](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/) |
+| 2026-07-22 | Codeberg Bans Cryptocurrency Projects | HN | Technology | tech | 2026-07-22 | [link](https://codeberg.org/Codeberg/org/pulls/1254) |
+| 2026-07-22 | China’s A.I. Has a Winning Formula. America, Don’t Panic. | NYT · AI | AI | opinion | 2026-07-23 | [link](https://www.nytimes.com/2026/07/23/opinion/china-ai-open-weight-us.html) |
+| 2026-07-22 | Stocks and the Economy Are Increasingly Relying on the A.I. Boom | NYT · AI | AI | news | 2026-07-22 | [link](https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html) |
+| 2026-07-22 | Donald Trump Jr.’s Investment Firm Posts Staggering Returns of 200% | NYT · Business | Business | news | 2026-07-22 | [link](https://www.nytimes.com/2026/07/22/business/donald-trump-jr-1789-capital.html) |
+| 2026-07-22 | OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice | NYT · AI | AI | news | 2026-07-22 | [link](https://www.nytimes.com/2026/07/22/well/openai-chatgpt-health-lawsuit.html) |
+| 2026-07-22 | Nuclear Energy Revival Puts Westinghouse in Prime Position | NYT · Energy & Environment | Energy & Environment | news | 2026-07-23 | [link](https://www.nytimes.com/2026/07/23/business/energy-environment/westinghouse-nuclear-energy-trump-saudi-arabia.html) |
+| 2026-07-22 | How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You | NYT · AI | AI | news | 2026-07-23 | [link](https://www.nytimes.com/2026/07/23/technology/personaltech/chatgpt-gemini-prompts-privacy.html) |
+| 2026-07-22 | Trump Reaches Contentious New Nuclear Deal, and A.I. Models Go Rogue | NYT · AI | AI | news | 2026-07-22 | [link](https://www.nytimes.com/2026/07/22/podcasts/the-headlines/trump-nuclear-deal-ai-model-rogue.html) |
+| 2026-07-22 | The U.S. Is Pulling Back on Energy Efficiency | NYT · Energy & Environment | Energy & Environment | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html) |
+| 2026-07-22 | This Is a Bad Way to Address A.I. Job Loss. Of Course Trump Loves It. | NYT · Opinion | Opinion | opinion | 2026-07-22 | [link](https://www.nytimes.com/2026/07/21/opinion/artificial-intelligence-government-trump.html) |
+| 2026-07-22 | House Republicans Have Tied the Defense Policy Bill to Trump’s SAVE Act | NYT · Politics | Politics | news | 2026-07-22 | [link](https://www.nytimes.com/2026/07/22/us/politics/house-gop-defense-bill-trump-voter-id.html) |
+| 2026-07-22 | Gen Z-ers Are Ditching Sex. They Might Be Onto Something. | NYT · AI | AI | opinion | 2026-07-22 | [link](https://www.nytimes.com/2026/07/22/opinion/gen-z-sex-celibacy-relationships.html) |
+| 2026-07-22 | Judge Temporarily Pauses Paramount-Warner Bros. Deal | NYT · Technology | Technology | news | 2026-07-20 | [link](https://www.nytimes.com/2026/07/20/business/media/paramount-warner-bros-deal.html) |
+| 2026-07-22 | Who Should Represent Michigan? | NYT · AI | AI | news | 2026-07-22 | [link](https://www.nytimes.com/interactive/2026/07/22/opinion/michigan-senate-primary-election.html) |
+| 2026-07-22 | Trump’s Plan for Science: More Money for A.I., Less for Universities | NYT · Politics | Politics | news | 2026-07-22 | [link](https://www.nytimes.com/2026/07/22/us/politics/trump-research-funding-artificial-intelligence.html) |
+| 2026-07-22 | Will the U.S. and China Build Walls Around A.I.? | NYT · Business | Business | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/21/business/dealbook/us-china-ai-limits.html) |
+| 2026-07-22 | Alphabet Quadruples Profit to $112 Billion, Fueled by A.I. Investments | NYT · AI | AI | news | 2026-07-22 | [link](https://www.nytimes.com/2026/07/22/technology/alphabet-google-earnings-profit.html) |
+| 2026-07-22 | As Cyclosporiasis Spreads, America Says No Thanks to Salads | NYT · Business | Business | news | 2026-07-23 | [link](https://www.nytimes.com/2026/07/23/business/cyclospora-lettuce-salad.html) |
+| 2026-07-22 | Trump Administration Says Surprise Billing Law Is Being ‘Gamed’ by Doctors | NYT · Politics | Politics | news | 2026-07-22 | [link](https://www.nytimes.com/2026/07/22/upshot/doctors-huge-payments-trump.html) |
+| 2026-07-22 | How Google’s A.I. Search Is Imperiling the Open Web | NYT · Technology | Technology | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html) |
+| 2026-07-22 | Data Centers to Add Billions in Power Costs in 13 States | NYT · Energy & Environment | Energy & Environment | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html) |
+| 2026-07-22 | AI Desperately Needs Guardrails. Building Them Won’t Be Easy | MIT IDE · MIT Research & Insights | Research | research | 2026-07-22 | [link](https://ide.mit.edu/insights/ai-desperately-needs-guardrails-building-them-wont-be-easy/) |
+| 2026-07-22 | Quoting Thomas Ptacek | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-22 | [link](https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything) |
+| 2026-07-22 | OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-22 | [link](https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything) |
+| 2026-07-22 | LG to Ban Residential Proxies from Smart TV Apps | Krebs on Security · Security & Privacy | Security | tech | 2026-07-22 | [link](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/) |
+| 2026-07-22 | From Institutions to Individuals: the White House Report on Revitalizing U.S. Scientific Leadership | Lemire.me · Tech & Engineering | Technology | tech | 2026-07-22 | [link](https://lemire.me/blog/2026/07/22/from-institutions-to-individuals-the-white-house-report-on-revitalizing-u-s-scientific-leadership/) |
+| 2026-07-22 | Scattered thoughts on social geolocation | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-07-22 | [link](https://shkspr.mobi/blog/2026/07/scattered-thoughts-on-social-geolocation/) |
+| 2026-07-22 | Life after the latest update | Reddit | Business | social | 2026-07-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v3kco7/life_after_the_latest_update/) |
+| 2026-07-22 | Anthropic Claims 50% usage boost that doesn't exist :) | Reddit | Business | social | 2026-07-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v3d8iz/anthropic_claims_50_usage_boost_that_doesnt_exist/) |
+| 2026-07-22 | This is what happens when you hire cleaners in the bay area! | Reddit | Business | social | 2026-07-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v3iqde/this_is_what_happens_when_you_hire_cleaners_in/) |
+| 2026-07-22 | Favorite claude-isms in no particular order | Reddit | Business | social | 2026-07-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v33cab/favorite_claudeisms_in_no_particular_order/) |
+| 2026-07-22 | A small trick to guide an LLM Agent while it’s coding | Reddit | Business | social | 2026-07-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v3o7fe/a_small_trick_to_guide_an_llm_agent_while_its/) |
+| 2026-07-22 | Frontier lab PR strategy, 2026 | Reddit | Business | social | 2026-07-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v3t6og/frontier_lab_pr_strategy_2026/) |
+| 2026-07-22 | I’ve lost control | Reddit | Business | social | 2026-07-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v3nw0l/ive_lost_control/) |
+| 2026-07-22 | Claude Safeguards Leaked | Reddit | Business | social | 2026-07-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v31j7q/claude_safeguards_leaked/) |
+| 2026-07-22 | Built with Claude: an open knowledge graph of everything a child learns (1,590 concepts, 3,221 prere | Reddit | Business | social | 2026-07-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v3qhzl/built_with_claude_an_open_knowledge_graph_of/) |
+| 2026-07-22 | Kanban Board for Claude Code - no paywalls, no sign ups, no subscriptions | Reddit | Business | social | 2026-07-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v3aky6/kanban_board_for_claude_code_no_paywalls_no_sign/) |
+| 2026-07-22 | Claude: "This project will take 3 months." Me: "You have 3 hours." | Reddit | Business | social | 2026-07-22 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v3cy52/claude_this_project_will_take_3_months_me_you/) |
+| 2026-07-22 | At this point, Fable 5 is Opus 4.8 in disguise except it costs more. | Reddit | Business | social | 2026-07-22 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v3ud1z/at_this_point_fable_5_is_opus_48_in_disguise/) |
+| 2026-07-22 | the only setup required for 2026 | Reddit | Business | social | 2026-07-22 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v3cpyd/the_only_setup_required_for_2026/) |
+| 2026-07-22 | JetBrains analyzed the CaveMan and RTK token savers, and the results are highly critical | Reddit | Business | social | 2026-07-22 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v3b81w/jetbrains_analyzed_the_caveman_and_rtk_token/) |
+| 2026-07-22 | Can't wait for Fable to scan 5 files before Opus takes over | Reddit | Business | social | 2026-07-22 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v3oqku/cant_wait_for_fable_to_scan_5_files_before_opus/) |
+| 2026-07-22 | I turned my Obsidian vault into a GitHub-style wiki | Reddit | Business | social | 2026-07-22 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v32gir/i_turned_my_obsidian_vault_into_a_githubstyle_wiki/) |
+| 2026-07-22 | Multiple images capture is now supported with Capsidian | Reddit | Business | social | 2026-07-22 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v3dih6/multiple_images_capture_is_now_supported_with/) |
+| 2026-07-22 | How do I make my text do this? | Reddit | Business | social | 2026-07-22 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v3osba/how_do_i_make_my_text_do_this/) |
+| 2026-07-22 | How do you actually structure a vault that's been going for a few years? | Reddit | Business | social | 2026-07-22 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v3hrk6/how_do_you_actually_structure_a_vault_thats_been/) |
+| 2026-07-22 | Added vim support and presets for Cursor-Smith (v1.2.4). Fully customize each vim mode cursor. | Reddit | Business | social | 2026-07-22 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v3cird/added_vim_support_and_presets_for_cursorsmith/) |
+| 2026-07-22 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-21 | OpenAI and Hugging Face address security incident during model evaluation | HN | Technology | tech | 2026-07-21 | [link](https://openai.com/index/hugging-face-model-evaluation-security-incident/) |
 | 2026-07-21 | Advertise in ChatGPT | HN | Technology | tech | 2026-07-21 | [link](https://ads.openai.com/) |
 | 2026-07-21 | Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber | HN | Technology | tech | 2026-07-21 | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/) |
