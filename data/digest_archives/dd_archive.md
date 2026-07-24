@@ -1,9 +1,69 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-23 · 4317 items*
+*Last updated: 2026-07-24 · 4377 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-23 | Writing by hand is good for your brain | HN | Technology | tech | 2026-07-23 | [link](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) |
+| 2026-07-23 | Startup founders urge U.S. government not to shut off Chinese open weight AI | HN | Technology | tech | 2026-07-23 | [link](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) |
+| 2026-07-23 | AI Companies Are Trying to Hide a Staggering Amount of Debt | HN | Technology | tech | 2026-07-23 | [link](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet) |
+| 2026-07-23 | 98.css | HN | Technology | tech | 2026-07-23 | [link](https://jdan.github.io/98.css/#status-bar) |
+| 2026-07-23 | Tell HN: Namecheap gave my account to an unverified third party | HN | Technology | tech | 2026-07-23 | [link](https://news.ycombinator.com/item?id=49028037) |
+| 2026-07-23 | Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models | HN | Technology | tech | 2026-07-23 | [link](https://news.ycombinator.com/item?id=49026810) |
+| 2026-07-23 | What happened to TheNumbers.com | HN | Technology | tech | 2026-07-23 | [link](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all) |
+| 2026-07-23 | Couple pay >$800k for a gene-editing therapy for their daughter. She died. | HN | Technology | tech | 2026-07-23 | [link](https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public) |
+| 2026-07-23 | Why Software Factories Fail (or: harness engineering is not enough) | HN | Technology | tech | 2026-07-23 | [link](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md) |
+| 2026-07-23 | I regret migrating to Codeberg | HN | Technology | tech | 2026-07-23 | [link](https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/) |
+| 2026-07-23 | Software rendering in 500 lines of bare C++ | HN | Technology | tech | 2026-07-23 | [link](https://haqr.eu/tinyrenderer/) |
+| 2026-07-23 | OpenAI and Anthropic unite against open-weight AI risks to their bottom line | HN | Technology | tech | 2026-07-23 | [link](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china) |
+| 2026-07-23 | The arguments against open source AI are bad | HN | Technology | tech | 2026-07-23 | [link](https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/) |
+| 2026-07-23 | Alphabet's cash burn raises alarm for Big Tech as AI spending climbs | HN | Technology | tech | 2026-07-23 | [link](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/) |
+| 2026-07-23 | Learn OpenGL, extensive tutorial resource for learning Modern OpenGL | HN | Technology | tech | 2026-07-23 | [link](https://learnopengl.com/) |
+| 2026-07-23 | DARPA, U.S. Air Force fly AI-controlled F-16 | HN | Technology | tech | 2026-07-23 | [link](https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16) |
+| 2026-07-23 | This Is How America Trounces China in the A.I. Race | NYT · AI | AI | opinion | 2026-07-23 | [link](https://www.nytimes.com/2026/07/23/opinion/china-ai-open-weight-us.html) |
+| 2026-07-23 | China Rewrites the ‘Soft Power’ Playbook for the A.I. Age | NYT · AI | AI | news | 2026-07-23 | [link](https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html) |
+| 2026-07-23 | Judge Extends Pause for Paramount-Warner Bros. Deal | NYT · Technology | Technology | news | 2026-07-24 | [link](https://www.nytimes.com/2026/07/23/technology/judge-paramount-warner-bros-deal.html) |
+| 2026-07-23 | As A.I. Backlash Grows, Trump Says Firms Should Pay More for Electricity | NYT · AI | AI | news | 2026-07-23 | [link](https://www.nytimes.com/2026/07/23/climate/trump-ai-data-centers.html) |
+| 2026-07-23 | Mamdani’s Video Message About Netanyahu | NYT · AI | AI | opinion | 2026-07-23 | [link](https://www.nytimes.com/2026/07/23/opinion/mamdani-netanyahu-video.html) |
+| 2026-07-23 | OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice | NYT · AI | AI | news | 2026-07-23 | [link](https://www.nytimes.com/2026/07/22/well/openai-chatgpt-health-lawsuit.html) |
+| 2026-07-23 | Nuclear Energy Revival Puts Westinghouse in Prime Position | NYT · Energy & Environment | Energy & Environment | news | 2026-07-23 | [link](https://www.nytimes.com/2026/07/23/business/energy-environment/westinghouse-nuclear-energy-trump-saudi-arabia.html) |
+| 2026-07-23 | Could A.I. Do Your Job? We Put Agents to the Test. | NYT · AI | AI | news | 2026-07-23 | [link](https://www.nytimes.com/interactive/2026/07/23/technology/ai-agents-office-jobs.html) |
+| 2026-07-23 | How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You | NYT · AI | AI | news | 2026-07-23 | [link](https://www.nytimes.com/2026/07/23/technology/personaltech/chatgpt-gemini-prompts-privacy.html) |
+| 2026-07-23 | Maybe the Biggest Problem With A.I. in the Workplace Is People | NYT · AI | AI | opinion | 2026-07-24 | [link](https://www.nytimes.com/2026/07/24/opinion/ai-workplace-manager-teamwork.html) |
+| 2026-07-23 | Stocks and the Economy Are Increasingly Relying on the A.I. Boom | NYT · Economy | Economy | news | 2026-07-22 | [link](https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html) |
+| 2026-07-23 | Donald Trump Jr.’s Investment Firm Posts Staggering Returns of 200% | NYT · Business | Business | news | 2026-07-22 | [link](https://www.nytimes.com/2026/07/22/business/donald-trump-jr-1789-capital.html) |
+| 2026-07-23 | The U.S. Is Pulling Back on Energy Efficiency | NYT · Energy & Environment | Energy & Environment | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html) |
+| 2026-07-23 | Google Sets the Pace on Hefty A.I. Spending | NYT · AI | AI | news | 2026-07-23 | [link](https://www.nytimes.com/2026/07/23/business/dealbook/google-ai-capex.html) |
+| 2026-07-23 | An A.I. Music F.A.Q.: Can I Remix Madonna? Is This All Legal? | NYT · AI | AI | news | 2026-07-24 | [link](https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html) |
+| 2026-07-23 | Three Airports Plan to Ditch T.S.A. Agents Amid Push for Private Security | NYT · Business | Business | news | 2026-07-23 | [link](https://www.nytimes.com/2026/07/22/travel/tsa-privatization-push.html) |
+| 2026-07-23 | Christopher Nolan’s ‘Odyssey’ Shows That Epics Are Better Without A.I. | NYT · AI | AI | opinion | 2026-07-24 | [link](https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html) |
+| 2026-07-23 | Data Centers to Add Billions in Power Costs in 13 States | NYT · Energy & Environment | Energy & Environment | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html) |
+| 2026-07-23 | FDA Panel Supports Lifting Restrictions on Four Peptides | NYT · Politics | Politics | news | 2026-07-24 | [link](https://www.nytimes.com/2026/07/23/health/fda-scientists-rfk-peptides.html) |
+| 2026-07-23 | Secret Service Agent in JD Vance’s Detail Under Investigation | NYT · Politics | Politics | news | 2026-07-23 | [link](https://www.nytimes.com/2026/07/23/us/politics/vance-secret-service.html) |
+| 2026-07-23 | The first known runaway AI agent - or a very bad marketing stunt? | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-23 | [link](https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything) |
+| 2026-07-23 | Quoting Seth Larson | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-23 | [link](https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything) |
+| 2026-07-23 | Flighty New Connection Assistant Feature | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-23 | [link](https://9to5mac.com/2026/07/07/flighty-update-adds-powerful-new-connection-assistant-feature/) |
+| 2026-07-23 | John Dvorak on Computer Chronicles in 1987 to Discuss the Then-New IBM PS/2 | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-23 | [link](https://www.youtube.com/watch?v=uY2WF_sPecI) |
+| 2026-07-23 | Warning: claiming the "free $100 Fable 5 credits" silently turns on paid usage billing (Pro plan) | Reddit | Business | social | 2026-07-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v3yk7a/warning_claiming_the_free_100_fable_5_credits/) |
+| 2026-07-23 | What is the most expensive app that you or your company replaced by coding it yourself? | Reddit | Business | social | 2026-07-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v4rudf/what_is_the_most_expensive_app_that_you_or_your/) |
+| 2026-07-23 | Claude Code just added native codebase security scanning | Reddit | Business | social | 2026-07-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v48e9x/claude_code_just_added_native_codebase_security/) |
+| 2026-07-23 | Using Claude/Godot/Blender to make a Battle Racer game - OVERSTEER | Reddit | Business | social | 2026-07-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v4ol30/using_claudegodotblender_to_make_a_battle_racer/) |
+| 2026-07-23 | I let claude direct this short movie.... it did pretty good | Reddit | Business | social | 2026-07-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v4u6wy/i_let_claude_direct_this_short_movie_it_did/) |
+| 2026-07-23 | i edited this video using fable 5 | Reddit | Business | social | 2026-07-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v4atkf/i_edited_this_video_using_fable_5/) |
+| 2026-07-23 | i cant see thinking when it thinks now does anyone else have this problem | Reddit | Business | social | 2026-07-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v4lbnk/i_cant_see_thinking_when_it_thinks_now_does/) |
+| 2026-07-23 | When to Compact? | Reddit | Business | social | 2026-07-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v4f6cw/when_to_compact/) |
+| 2026-07-23 | Upsell me once, shame on... shame on you. Upsell me... you can't upsell me again | Reddit | Business | social | 2026-07-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v3z8mn/upsell_me_once_shame_on_shame_on_you_upsell_me/) |
+| 2026-07-23 | Opus 5 nerfed? | Reddit | Business | social | 2026-07-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v4gfj8/opus_5_nerfed/) |
+| 2026-07-23 | Opus 5 might be dropping today 👀 | Reddit | Business | social | 2026-07-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v4fc9r/opus_5_might_be_dropping_today/) |
+| 2026-07-23 | I feel bad for people that don't know how to use Claude Code | Reddit | Business | social | 2026-07-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v43w8t/i_feel_bad_for_people_that_dont_know_how_to_use/) |
+| 2026-07-23 | Fable 5 plans, Opus 4.8 builds, GPT 5.6 Sol tries to break it. Best setup so far! | Reddit | Business | social | 2026-07-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v4jwpj/fable_5_plans_opus_48_builds_gpt_56_sol_tries_to/) |
+| 2026-07-23 | Does anyone else feel like Claude now comes up with its own glossary terms on the fly and you have t | Reddit | Business | social | 2026-07-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v4bw3l/does_anyone_else_feel_like_claude_now_comes_up/) |
+| 2026-07-23 | My new dashboard | Reddit | Business | social | 2026-07-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v42wcd/my_new_dashboard/) |
+| 2026-07-23 | I was tired of my book highlights dying in a separate app, so I made Obsidian read EPUBs itself | Reddit | Business | social | 2026-07-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v4k5aj/i_was_tired_of_my_book_highlights_dying_in_a/) |
+| 2026-07-23 | Solace v1.2.0 - new checkbox and callouts styles, fixes, and style settings changes | Reddit | Business | social | 2026-07-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v4e88t/solace_v120_new_checkbox_and_callouts_styles/) |
+| 2026-07-23 | Beginner to Obsidian, is there any way to turn this feature off 😭? | Reddit | Business | social | 2026-07-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v4468k/beginner_to_obsidian_is_there_any_way_to_turn/) |
+| 2026-07-23 | I made Obsidian into a full book reader — highlights → notes automatically | Reddit | Business | social | 2026-07-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v4jkyk/i_made_obsidian_into_a_full_book_reader/) |
+| 2026-07-23 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-22 | Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample | HN | Technology | tech | 2026-07-22 | [link](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) |
 | 2026-07-22 | Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab) | HN | Technology | tech | 2026-07-22 | [link](https://bento.page/slides/) |
 | 2026-07-22 | John C. Dvorak has died | HN | Technology | tech | 2026-07-22 | [link](https://twitter.com/na_announce/status/2079952538040672302) |

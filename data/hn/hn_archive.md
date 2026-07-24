@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-23 · 444 days · 4440 stories*
+*Last updated: 2026-07-24 · 445 days · 4450 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-23 | Thursday | 1 | Writing by hand is good for your brain | 1311 | 589 | Technology | [link](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) · [HN](https://news.ycombinator.com/item?id=49022152) |
+| 2026-07-23 | Thursday | 2 | Startup founders urge U.S. government not to shut off Chinese open weight AI | 937 | 774 | Technology | [link](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) · [HN](https://news.ycombinator.com/item?id=49023016) |
+| 2026-07-23 | Thursday | 3 | AI Companies Are Trying to Hide a Staggering Amount of Debt | 649 | 342 | Technology | [link](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet) · [HN](https://news.ycombinator.com/item?id=49020999) |
+| 2026-07-23 | Thursday | 4 | 98.css | 473 | 108 | Technology | [link](https://jdan.github.io/98.css/#status-bar) · [HN](https://news.ycombinator.com/item?id=49028927) |
+| 2026-07-23 | Thursday | 5 | Tell HN: Namecheap gave my account to an unverified third party | 435 | 161 | Technology | [link](https://news.ycombinator.com/item?id=49028037) · [HN](https://news.ycombinator.com/item?id=49028037) |
+| 2026-07-23 | Thursday | 6 | Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models | 385 | 181 | Technology | [link](https://news.ycombinator.com/item?id=49026810) · [HN](https://news.ycombinator.com/item?id=49026810) |
+| 2026-07-23 | Thursday | 7 | What happened to TheNumbers.com | 375 | 173 | Technology | [link](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all) · [HN](https://news.ycombinator.com/item?id=49024691) |
+| 2026-07-23 | Thursday | 8 | Couple pay >$800k for a gene-editing therapy for their daughter. She died. | 331 | 203 | Technology | [link](https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public) · [HN](https://news.ycombinator.com/item?id=49027892) |
+| 2026-07-23 | Thursday | 9 | Why Software Factories Fail (or: harness engineering is not enough) | 321 | 229 | Technology | [link](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md) · [HN](https://news.ycombinator.com/item?id=49023019) |
+| 2026-07-23 | Thursday | 10 | I regret migrating to Codeberg | 303 | 205 | Technology | [link](https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/) · [HN](https://news.ycombinator.com/item?id=49021856) |
 | 2026-07-22 | Wednesday | 1 | Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample | 877 | 510 | Technology | [link](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) · [HN](https://news.ycombinator.com/item?id=49010345) |
 | 2026-07-22 | Wednesday | 2 | Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab) | 845 | 187 | Technology | [link](https://bento.page/slides/) · [HN](https://news.ycombinator.com/item?id=49008211) |
 | 2026-07-22 | Wednesday | 3 | John C. Dvorak has died | 752 | 247 | Technology | [link](https://twitter.com/na_announce/status/2079952538040672302) · [HN](https://news.ycombinator.com/item?id=49012070) |
