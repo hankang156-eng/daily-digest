@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-24 · 445 days · 4450 stories*
+*Last updated: 2026-07-25 · 446 days · 4460 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-24 | Friday | 1 | Claude Opus 5 | 1563 | 908 | Technology | [link](https://www.anthropic.com/news/claude-opus-5) · [HN](https://news.ycombinator.com/item?id=49038433) |
+| 2026-07-24 | Friday | 2 | If coding has been solved, why does software keep getting worse? | 754 | 574 | Technology | [link](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/) · [HN](https://news.ycombinator.com/item?id=49033004) |
+| 2026-07-24 | Friday | 3 | It's getting harder to focus every day | 730 | 399 | Technology | [link](https://glyphack.com/attention/) · [HN](https://news.ycombinator.com/item?id=49032660) |
+| 2026-07-24 | Friday | 4 | Nvidia, Microsoft, Meta warn against overregulating open-weight models | 613 | 268 | Technology | [link](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html) · [HN](https://news.ycombinator.com/item?id=49035303) |
+| 2026-07-24 | Friday | 5 | My security camera shipped a GitHub admin token in its login page | 596 | 191 | Technology | [link](https://hhh.hn/hanwha-github-token/) · [HN](https://news.ycombinator.com/item?id=49034292) |
+| 2026-07-24 | Friday | 6 | Flux 3 | 560 | 131 | Technology | [link](https://bfl.ai/blog/flux-3) · [HN](https://news.ycombinator.com/item?id=49031796) |
+| 2026-07-24 | Friday | 7 | Be skeptical of OpenAI's rogue hacker agent story | 490 | 281 | Technology | [link](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker) · [HN](https://news.ycombinator.com/item?id=49038060) |
+| 2026-07-24 | Friday | 8 | Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey | 469 | 343 | Technology | [link](https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece) · [HN](https://news.ycombinator.com/item?id=49036433) |
+| 2026-07-24 | Friday | 9 | Em dashes are amazing | 357 | 295 | Technology | [link](https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing) · [HN](https://news.ycombinator.com/item?id=49034747) |
+| 2026-07-24 | Friday | 10 | Flux 3 X Mimic: The Next Generation of Video-Action Models | 316 | 49 | Technology | [link](https://bfl.ai/blog/flux-3-mimic) · [HN](https://news.ycombinator.com/item?id=49033127) |
 | 2026-07-23 | Thursday | 1 | Writing by hand is good for your brain | 1311 | 589 | Technology | [link](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) · [HN](https://news.ycombinator.com/item?id=49022152) |
 | 2026-07-23 | Thursday | 2 | Startup founders urge U.S. government not to shut off Chinese open weight AI | 937 | 774 | Technology | [link](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) · [HN](https://news.ycombinator.com/item?id=49023016) |
 | 2026-07-23 | Thursday | 3 | AI Companies Are Trying to Hide a Staggering Amount of Debt | 649 | 342 | Technology | [link](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet) · [HN](https://news.ycombinator.com/item?id=49020999) |

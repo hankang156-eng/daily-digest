@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-24 · 4377 items*
+*Last updated: 2026-07-25 · 4440 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-24 | Claude Opus 5 | HN | Technology | tech | 2026-07-24 | [link](https://www.anthropic.com/news/claude-opus-5) |
+| 2026-07-24 | If coding has been solved, why does software keep getting worse? | HN | Technology | tech | 2026-07-24 | [link](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/) |
+| 2026-07-24 | It's getting harder to focus every day | HN | Technology | tech | 2026-07-24 | [link](https://glyphack.com/attention/) |
+| 2026-07-24 | Nvidia, Microsoft, Meta warn against overregulating open-weight models | HN | Technology | tech | 2026-07-24 | [link](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html) |
+| 2026-07-24 | My security camera shipped a GitHub admin token in its login page | HN | Technology | tech | 2026-07-24 | [link](https://hhh.hn/hanwha-github-token/) |
+| 2026-07-24 | Flux 3 | HN | Technology | tech | 2026-07-24 | [link](https://bfl.ai/blog/flux-3) |
+| 2026-07-24 | Be skeptical of OpenAI's rogue hacker agent story | HN | Technology | tech | 2026-07-24 | [link](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker) |
+| 2026-07-24 | Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey | HN | Technology | tech | 2026-07-24 | [link](https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece) |
+| 2026-07-24 | Em dashes are amazing | HN | Technology | tech | 2026-07-24 | [link](https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing) |
+| 2026-07-24 | Flux 3 X Mimic: The Next Generation of Video-Action Models | HN | Technology | tech | 2026-07-24 | [link](https://bfl.ai/blog/flux-3-mimic) |
+| 2026-07-24 | Claude Cookbook | HN | Technology | tech | 2026-07-24 | [link](https://platform.claude.com/cookbook/) |
+| 2026-07-24 | Postgres LISTEN/NOTIFY actually scales | HN | Technology | tech | 2026-07-24 | [link](https://www.dbos.dev/blog/postgres-listen-notify-scalability) |
+| 2026-07-24 | Half-Life 2 running natively on HaikuOS | HN | Technology | tech | 2026-07-24 | [link](https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18) |
+| 2026-07-24 | Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard | HN | Technology | tech | 2026-07-24 | [link](https://artificialanalysis.ai/models) |
+| 2026-07-24 | IRGC claims it destroyed Amazon's Bahrain data center | HN | Technology | tech | 2026-07-24 | [link](https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/) |
+| 2026-07-24 | Buz – A fork of Bun using modern Zig, with sub-1s incremental builds | HN | Technology | tech | 2026-07-24 | [link](https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891) |
+| 2026-07-24 | South Korea A.I. Billionaire Ordered to Pay More Than Half a Billion Dollars in ‘Divorce of the Cent | NYT · AI | AI | news | 2026-07-24 | [link](https://www.nytimes.com/2026/07/24/world/asia/korea-chey-tae-won-sk-hynix-divorce.html) |
+| 2026-07-24 | Why Trump’s Renewed Trade War Could Be Costly | NYT · Business | Business | news | 2026-07-24 | [link](https://www.nytimes.com/2026/07/24/business/dealbook/trump-trade-war-economy.html) |
+| 2026-07-24 | Judge Extends Pause for Paramount-Warner Bros. Deal | NYT · Technology | Technology | news | 2026-07-24 | [link](https://www.nytimes.com/2026/07/23/technology/judge-paramount-warner-bros-deal.html) |
+| 2026-07-24 | Debt Collection Suits Have Risen Sharply. There’s Help for Consumers Being Sued. | NYT · AI | AI | news | 2026-07-24 | [link](https://www.nytimes.com/2026/07/24/business/credit-card-debt-collection-lawsuits.html) |
+| 2026-07-24 | Crucial Interest Rate Jumps to Highest Level of Trump’s Second Term | NYT · Business | Business | news | 2026-07-24 | [link](https://www.nytimes.com/2026/07/24/business/trump-interest-rates-bonds.html) |
+| 2026-07-24 | Maybe the Biggest Problem With A.I. in the Workplace Is People | NYT · AI | AI | opinion | 2026-07-24 | [link](https://www.nytimes.com/2026/07/24/opinion/ai-workplace-manager-teamwork.html) |
+| 2026-07-24 | China Rewrites the ‘Soft Power’ Playbook for the A.I. Age | NYT · AI | AI | news | 2026-07-23 | [link](https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html) |
+| 2026-07-24 | Why It’s Best to Keep Politics Out of Your Investment Strategy | NYT · Business | Business | news | 2026-07-24 | [link](https://www.nytimes.com/2026/07/24/business/investing-stocks-trump-politics.html) |
+| 2026-07-24 | I’m a Screenwriter. Hollywood Is in Trouble. | NYT · Opinion | Opinion | opinion | 2026-07-24 | [link](https://www.nytimes.com/2026/07/20/opinion/paramount-warner-bros-merger-hollywood.html) |
+| 2026-07-24 | As A.I. Backlash Grows, Trump Says Firms Should Pay More for Electricity | NYT · AI | AI | news | 2026-07-23 | [link](https://www.nytimes.com/2026/07/23/climate/trump-ai-data-centers.html) |
+| 2026-07-24 | Mamdani’s Video Message About Netanyahu | NYT · AI | AI | opinion | 2026-07-23 | [link](https://www.nytimes.com/2026/07/23/opinion/mamdani-netanyahu-video.html) |
+| 2026-07-24 | Paramount Agrees to Delay Warner Bros. Merger for Months | NYT · Business | Business | news | 2026-07-24 | [link](https://www.nytimes.com/2026/07/24/business/media/paramount-warner-bros-merger-delayed.html) |
+| 2026-07-24 | OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice | NYT · AI | AI | news | 2026-07-23 | [link](https://www.nytimes.com/2026/07/22/well/openai-chatgpt-health-lawsuit.html) |
+| 2026-07-24 | How a Housing Bill Trump Spurned Became Law | NYT · Politics | Politics | news | 2026-07-25 | [link](https://www.nytimes.com/2026/07/25/us/politics/elizabeth-warren-housing-bill-trump.html) |
+| 2026-07-24 | Could A.I. Do Your Job? We Put Agents to the Test. | NYT · AI | AI | news | 2026-07-23 | [link](https://www.nytimes.com/interactive/2026/07/23/technology/ai-agents-office-jobs.html) |
+| 2026-07-24 | F.D.A. Panel’s Vote on Peptides Raises Concerns About a Prescribing Boom | NYT · Business | Business | news | 2026-07-24 | [link](https://www.nytimes.com/2026/07/24/us/politics/fda-panel-vote-peptides.html) |
+| 2026-07-24 | The U.S. Is Pulling Back on Energy Efficiency | NYT · Energy & Environment | Energy & Environment | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html) |
+| 2026-07-24 | Christopher Nolan’s ‘Odyssey’ Shows That Epics Are Better Without A.I. | NYT · AI | AI | opinion | 2026-07-24 | [link](https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html) |
+| 2026-07-24 | Data Centers to Add Billions in Power Costs in 13 States | NYT · Energy & Environment | Energy & Environment | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html) |
+| 2026-07-24 | Iran’s New Leader Is More Open to Pursuing a Nuclear Weapon, U.S. Intelligence Says | NYT · Politics | Politics | news | 2026-07-24 | [link](https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html) |
+| 2026-07-24 | Introducing Claude Opus 5 | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-24 | [link](https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything) |
+| 2026-07-24 | Coiner of ‘Enshittification’ Endorses ‘Dickover’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-24 | [link](https://pluralistic.net/2026/07/21/dickovers/) |
+| 2026-07-24 | The Talk Show: ‘A Scam Held Together With Patriotism and Golden Paint’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-24 | [link](https://daringfireball.net/thetalkshow/2026/07/23/ep-452) |
+| 2026-07-24 | OpenAI Models Escaped Containment and Hacked Hugging Face | Superpower Daily · Tech & Engineering | Technology | tech | 2026-07-24 | [link](https://www.superpowerdaily.com/p/openai-models-escaped-containment-and-hacked-hugging-face) |
+| 2026-07-24 | Book Review: Foreign Fruit - A Personal History of the Orange by Katie Goh ★⯪☆☆☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-07-24 | [link](https://shkspr.mobi/blog/2026/07/book-review-foreign-fruit-a-personal-history-of-the-orange-by-katie-goh/) |
+| 2026-07-24 | Does a PhD Pay Off? | Lemire.me · Tech & Engineering | Technology | tech | 2026-07-24 | [link](https://lemire.me/blog/2026/07/24/does-a-phd-pay-off/) |
+| 2026-07-24 | Introducing Claude Opus 5 | Reddit | Business | social | 2026-07-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v5h6o9/introducing_claude_opus_5/) |
+| 2026-07-24 | I made a Claude Code skill that turns a photo of your handwriting into an installable font | Reddit | Business | social | 2026-07-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v55he0/i_made_a_claude_code_skill_that_turns_a_photo_of/) |
+| 2026-07-24 | Anthropic cut 80% of Claude Code's system prompt for the Claude 5 models and published what should s | Reddit | Business | social | 2026-07-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v5mhhl/anthropic_cut_80_of_claude_codes_system_prompt/) |
+| 2026-07-24 | Opus 5 results are really shocking!! | Reddit | Business | social | 2026-07-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v5le69/opus_5_results_are_really_shocking/) |
+| 2026-07-24 | Used claude to replay everybody that played my daily racing game yesterday at the same time | Reddit | Business | social | 2026-07-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v4xc5j/used_claude_to_replay_everybody_that_played_my/) |
+| 2026-07-24 | Introducing Claude Opus 5 | Reddit | Business | social | 2026-07-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v5h4id/introducing_claude_opus_5/) |
+| 2026-07-24 | I don't know if anyone else has this impression of how Anthropic treats Haiku | Reddit | Business | social | 2026-07-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v5rwld/i_dont_know_if_anyone_else_has_this_impression_of/) |
+| 2026-07-24 | My results - Opus 5 vs Fable 5 | Reddit | Business | social | 2026-07-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v5p34g/my_results_opus_5_vs_fable_5/) |
+| 2026-07-24 | Claude isn't partially "blind" anymore | Reddit | Business | social | 2026-07-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v55n08/claude_isnt_partially_blind_anymore/) |
+| 2026-07-24 | 53.4 > 53.5? | Reddit | Business | social | 2026-07-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v5hj01/534_535/) |
+| 2026-07-24 | AGI Confirmed - Opus 5 | Reddit | Business | social | 2026-07-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v5j6ob/agi_confirmed_opus_5/) |
+| 2026-07-24 | Introducing Claude Opus 5 | Reddit | Business | social | 2026-07-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v5hjhh/introducing_claude_opus_5/) |
+| 2026-07-24 | Opus 5 - immediate disappointment | Reddit | Business | social | 2026-07-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v5i5fh/opus_5_immediate_disappointment/) |
+| 2026-07-24 | Claude usage feels like way less than before | Reddit | Business | social | 2026-07-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v4w9d2/claude_usage_feels_like_way_less_than_before/) |
+| 2026-07-24 | Kimmi K3 vs Claud Code: Kimmi K3 is so honest and says "Join waitlist" instead of taking money and t | Reddit | Business | social | 2026-07-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v5fk8z/kimmi_k3_vs_claud_code_kimmi_k3_is_so_honest_and/) |
+| 2026-07-24 | Cursor-Smith just passed 2k downloads and 1.3.0 is out with a mega update! | Reddit | Business | social | 2026-07-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v5neld/cursorsmith_just_passed_2k_downloads_and_130_is/) |
+| 2026-07-24 | Ink Paper Obsidian Theme | Reddit | Business | social | 2026-07-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v5e0ir/ink_paper_obsidian_theme/) |
+| 2026-07-24 | VM-1.2 - Composed Explorer Update | Reddit | Business | social | 2026-07-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v4z3ir/vm12_composed_explorer_update/) |
+| 2026-07-24 | Replace Notebook Navigator with "new tab" page | Reddit | Business | social | 2026-07-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v5f72f/replace_notebook_navigator_with_new_tab_page/) |
+| 2026-07-24 | FCR v0.13.5 now brings availability sharing, cute cat interruptions, enhanced exports and more... | Reddit | Business | social | 2026-07-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v55911/fcr_v0135_now_brings_availability_sharing_cute/) |
+| 2026-07-24 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-23 | Writing by hand is good for your brain | HN | Technology | tech | 2026-07-23 | [link](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) |
 | 2026-07-23 | Startup founders urge U.S. government not to shut off Chinese open weight AI | HN | Technology | tech | 2026-07-23 | [link](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) |
 | 2026-07-23 | AI Companies Are Trying to Hide a Staggering Amount of Debt | HN | Technology | tech | 2026-07-23 | [link](https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet) |
