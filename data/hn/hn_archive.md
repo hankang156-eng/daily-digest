@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-25 · 446 days · 4460 stories*
+*Last updated: 2026-07-26 · 447 days · 4470 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-25 | Saturday | 1 | Android may soon restrict on-device ADB | 932 | 457 | Technology | [link](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/) · [HN](https://news.ycombinator.com/item?id=49045159) |
+| 2026-07-25 | Saturday | 2 | Did they ghost you? | 399 | 178 | Technology | [link](https://didtheyghostyou.com/) · [HN](https://news.ycombinator.com/item?id=49051120) |
+| 2026-07-25 | Saturday | 3 | Open-weight AI is having its Kubernetes moment | 376 | 291 | Technology | [link](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/) · [HN](https://news.ycombinator.com/item?id=49048034) |
+| 2026-07-25 | Saturday | 4 | The new rules of context engineering for Claude 5 generation models | 329 | 217 | Technology | [link](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models) · [HN](https://news.ycombinator.com/item?id=49051361) |
+| 2026-07-25 | Saturday | 5 | The growing vigilante movement to knock out Flock surveillance cameras | 243 | 140 | Technology | [link](https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras) · [HN](https://news.ycombinator.com/item?id=49050538) |
+| 2026-07-25 | Saturday | 6 | Bitchat is now on Radicle | 239 | 132 | Technology | [link](https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6) · [HN](https://news.ycombinator.com/item?id=49047365) |
+| 2026-07-25 | Saturday | 7 | Turn And Face The Strange | 203 | 128 | Technology | [link](https://fly.io/blog/kurt-scott-money-sprites/) · [HN](https://news.ycombinator.com/item?id=49051369) |
+| 2026-07-25 | Saturday | 8 | The Dark Night of Mathematics | 201 | 245 | Technology | [link](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics) · [HN](https://news.ycombinator.com/item?id=49048681) |
+| 2026-07-25 | Saturday | 9 | JetZero | 199 | 159 | Technology | [link](https://www.jetzero.aero) · [HN](https://news.ycombinator.com/item?id=49054224) |
+| 2026-07-25 | Saturday | 10 | A shell colon does nothing. Use it anyway | 194 | 66 | Technology | [link](https://refp.se/articles/your-shell-and-the-magic-colon) · [HN](https://news.ycombinator.com/item?id=49047453) |
 | 2026-07-24 | Friday | 1 | Claude Opus 5 | 1563 | 908 | Technology | [link](https://www.anthropic.com/news/claude-opus-5) · [HN](https://news.ycombinator.com/item?id=49038433) |
 | 2026-07-24 | Friday | 2 | If coding has been solved, why does software keep getting worse? | 754 | 574 | Technology | [link](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/) · [HN](https://news.ycombinator.com/item?id=49033004) |
 | 2026-07-24 | Friday | 3 | It's getting harder to focus every day | 730 | 399 | Technology | [link](https://glyphack.com/attention/) · [HN](https://news.ycombinator.com/item?id=49032660) |

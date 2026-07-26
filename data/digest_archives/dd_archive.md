@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-25 · 4440 items*
+*Last updated: 2026-07-26 · 4503 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-25 | Android may soon restrict on-device ADB | HN | Technology | tech | 2026-07-25 | [link](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/) |
+| 2026-07-25 | Did they ghost you? | HN | Technology | tech | 2026-07-25 | [link](https://didtheyghostyou.com/) |
+| 2026-07-25 | Open-weight AI is having its Kubernetes moment | HN | Technology | tech | 2026-07-25 | [link](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/) |
+| 2026-07-25 | The new rules of context engineering for Claude 5 generation models | HN | Technology | tech | 2026-07-25 | [link](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models) |
+| 2026-07-25 | The growing vigilante movement to knock out Flock surveillance cameras | HN | Technology | tech | 2026-07-25 | [link](https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras) |
+| 2026-07-25 | Bitchat is now on Radicle | HN | Technology | tech | 2026-07-25 | [link](https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6) |
+| 2026-07-25 | Turn And Face The Strange | HN | Technology | tech | 2026-07-25 | [link](https://fly.io/blog/kurt-scott-money-sprites/) |
+| 2026-07-25 | The Dark Night of Mathematics | HN | Technology | tech | 2026-07-25 | [link](https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics) |
+| 2026-07-25 | JetZero | HN | Technology | tech | 2026-07-25 | [link](https://www.jetzero.aero) |
+| 2026-07-25 | A shell colon does nothing. Use it anyway | HN | Technology | tech | 2026-07-25 | [link](https://refp.se/articles/your-shell-and-the-magic-colon) |
+| 2026-07-25 | Show HN: Brolly, a plain-text weather forecast site | HN | Technology | tech | 2026-07-25 | [link](https://brolly.sh/forecast/RWFP2qW8) |
+| 2026-07-25 | Running a 28.9M parameter LLM on an $8 microcontroller | HN | Technology | tech | 2026-07-25 | [link](https://github.com/slvDev/esp32-ai) |
+| 2026-07-25 | MouthPad: A Tongue-Controlled Touchpad | HN | Technology | tech | 2026-07-25 | [link](https://www.augmental.tech/) |
+| 2026-07-25 | GM Backs Sodium Ion Batteries for U.S. Grid Storage | HN | Technology | tech | 2026-07-25 | [link](https://spectrum.ieee.org/sodium-ion-battery-peak-energy) |
+| 2026-07-25 | ARC-AGI Leaderboard | HN | Technology | tech | 2026-07-25 | [link](https://arcprize.org/leaderboard) |
+| 2026-07-25 | Tile's security is so bad it's a feature for stalkers | HN | Technology | tech | 2026-07-25 | [link](https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/) |
+| 2026-07-25 | The Flawed Environmental Case Against Data Centers | NYT · AI | AI | opinion | 2026-07-25 | [link](https://www.nytimes.com/2026/07/25/opinion/data-centers-environment-ai.html) |
+| 2026-07-25 | Silicon Valley Splits Over Closing the Borders to Chinese A.I. | NYT · AI | AI | news | 2026-07-25 | [link](https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html) |
+| 2026-07-25 | South Korea A.I. Billionaire Ordered to Pay More Than Half a Billion Dollars in ‘Divorce of the Cent | NYT · AI | AI | news | 2026-07-24 | [link](https://www.nytimes.com/2026/07/24/world/asia/korea-chey-tae-won-sk-hynix-divorce.html) |
+| 2026-07-25 | Why Trump’s Renewed Trade War Could Be Costly | NYT · Business | Business | news | 2026-07-24 | [link](https://www.nytimes.com/2026/07/24/business/dealbook/trump-trade-war-economy.html) |
+| 2026-07-25 | Judge Extends Pause for Paramount-Warner Bros. Deal | NYT · Technology | Technology | news | 2026-07-24 | [link](https://www.nytimes.com/2026/07/23/technology/judge-paramount-warner-bros-deal.html) |
+| 2026-07-25 | Debt Collection Suits Have Risen Sharply. There’s Help for Consumers Being Sued. | NYT · AI | AI | news | 2026-07-24 | [link](https://www.nytimes.com/2026/07/24/business/credit-card-debt-collection-lawsuits.html) |
+| 2026-07-25 | Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit. | NYT · Politics | Politics | news | 2026-07-26 | [link](https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html) |
+| 2026-07-25 | Blockbuster I.P.O.s Are Creating New Millionaires. Philanthropies Want a Cut. | NYT · AI | AI | news | 2026-07-25 | [link](https://www.nytimes.com/2026/07/25/business/dealbook/spacex-anthropic-philanthropy.html) |
+| 2026-07-25 | How a Housing Bill Trump Spurned Became Law | NYT · Politics | Politics | news | 2026-07-25 | [link](https://www.nytimes.com/2026/07/25/us/politics/elizabeth-warren-housing-bill-trump.html) |
+| 2026-07-25 | Crucial Interest Rate Jumps to Highest Level of Trump’s Second Term | NYT · Business | Business | news | 2026-07-24 | [link](https://www.nytimes.com/2026/07/24/business/trump-interest-rates-bonds.html) |
+| 2026-07-25 | I’m a Screenwriter. Hollywood Is in Trouble. | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-07-24 | [link](https://www.nytimes.com/2026/07/20/opinion/paramount-warner-bros-merger-hollywood.html) |
+| 2026-07-25 | Maybe the Biggest Problem With A.I. in the Workplace Is People | NYT · AI | AI | opinion | 2026-07-24 | [link](https://www.nytimes.com/2026/07/24/opinion/ai-workplace-manager-teamwork.html) |
+| 2026-07-25 | Amid Cyclospora Outbreak Tied to Lettuce, America Skips Salads | NYT · Business | Business | news | 2026-07-26 | [link](https://www.nytimes.com/2026/07/23/business/cyclospora-lettuce-salad.html) |
+| 2026-07-25 | OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice | NYT · AI | AI | news | 2026-07-23 | [link](https://www.nytimes.com/2026/07/22/well/openai-chatgpt-health-lawsuit.html) |
+| 2026-07-25 | Nearly 200 Economists and Tech Leaders Warn of A.I. Threats | NYT · AI | AI | news | 2026-07-13 | [link](https://www.nytimes.com/2026/07/13/business/economists-ai-threat-jobs.html) |
+| 2026-07-25 | A Global Economy Jolted by an Oil Shock Now Gets a Tariff Reminder | NYT · Economy | Economy | news | 2026-07-25 | [link](https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html) |
+| 2026-07-25 | Data Centers to Add Billions in Power Costs in 13 States | NYT · Energy & Environment | Energy & Environment | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html) |
+| 2026-07-25 | The U.S. Is Pulling Back on Energy Efficiency | NYT · Energy & Environment | Energy & Environment | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html) |
+| 2026-07-25 | Why 529 Accounts Make More Sense for Investing Than Trump Accounts | NYT · Your Money | Your Money | news | 2026-07-26 | [link](https://www.nytimes.com/2026/07/26/your-money/trump-accounts-529s-investing.html) |
+| 2026-07-25 | This Is How America Trounces China in the A.I. Race | NYT · Opinion | Opinion | opinion | 2026-07-23 | [link](https://www.nytimes.com/2026/07/23/opinion/china-ai-open-weight-us.html) |
+| 2026-07-25 | Court Grants SerpApi’s Motion to Dismiss Google Lawsuit | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-25 | [link](https://serpapi.com/blog/google-v-serpapi-the-court-granted-our-motion-to-dismiss/) |
+| 2026-07-25 | Apple Maps to Power Navigation Experience for Ford’s New EVs | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-25 | [link](https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/) |
+| 2026-07-25 | Quoting Boris Cherny | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-25 | [link](https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything) |
+| 2026-07-25 | Memory-level parallelism: AMD is the king | Lemire.me · Tech & Engineering | Technology | tech | 2026-07-25 | [link](https://lemire.me/blog/2026/07/25/memory-level-parallelism-amd-is-the-king/) |
+| 2026-07-25 | Some Quick Thoughts on EMF Camp 2026 | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-07-25 | [link](https://shkspr.mobi/blog/2026/07/some-quick-thoughts-on-emf-camp-2026/) |
+| 2026-07-25 | Ruff v0.16.0 | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-25 | [link](https://simonwillison.net/2026/Jul/25/ruff/#atom-everything) |
+| 2026-07-25 | You can view a lot of shared conversations via Google. | Reddit | Business | social | 2026-07-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v6fiyj/you_can_view_a_lot_of_shared_conversations_via/) |
+| 2026-07-25 | What’s a Claude "hidden gem" feature or prompt technique that completely changed how you use it? | Reddit | Business | social | 2026-07-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v69a38/whats_a_claude_hidden_gem_feature_or_prompt/) |
+| 2026-07-25 | From Kimi K3 to Claude Opus 5 | Reddit | Business | social | 2026-07-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v6224v/from_kimi_k3_to_claude_opus_5/) |
+| 2026-07-25 | Claude cannot read this font! | Reddit | Business | social | 2026-07-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v6cgcl/claude_cannot_read_this_font/) |
+| 2026-07-25 | Claude’s personality has become that of an insufferable, unjustifiably-confident pedant that will fi | Reddit | Business | social | 2026-07-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v691gi/claudes_personality_has_become_that_of_an/) |
+| 2026-07-25 | Passed the CCAR-F with 904/1000! | Reddit | Business | social | 2026-07-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v5zrru/passed_the_ccarf_with_9041000/) |
+| 2026-07-25 | Opus 5 Token Usage is Amazing | Reddit | Business | social | 2026-07-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v6973n/opus_5_token_usage_is_amazing/) |
+| 2026-07-25 | Making a photography sandbox game with Opus 5! | Reddit | Business | social | 2026-07-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v6n9v0/making_a_photography_sandbox_game_with_opus_5/) |
+| 2026-07-25 | Opus 5 is great | Reddit | Business | social | 2026-07-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v6657a/opus_5_is_great/) |
+| 2026-07-25 | I watched Claude debug for 20 minutes by adding its own logging, reading the output, and fixing it.  | Reddit | Business | social | 2026-07-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v6co6g/i_watched_claude_debug_for_20_minutes_by_adding/) |
+| 2026-07-25 | so which is it | Reddit | Business | social | 2026-07-25 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v6110q/so_which_is_it/) |
+| 2026-07-25 | This sub is an absolute dumpster fire. | Reddit | Business | social | 2026-07-25 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v60oyl/this_sub_is_an_absolute_dumpster_fire/) |
+| 2026-07-25 | I am selling this for $99/month who is buying? | Reddit | Business | social | 2026-07-25 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v6d8ml/i_am_selling_this_for_99month_who_is_buying/) |
+| 2026-07-25 | Will Haiku ever join the squad? | Reddit | Business | social | 2026-07-25 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v6g4t6/will_haiku_ever_join_the_squad/) |
+| 2026-07-25 | Claude Code injects your email address directly into system prompt | Reddit | Business | social | 2026-07-25 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v68g1x/claude_code_injects_your_email_address_directly/) |
+| 2026-07-25 | Theme with glowing text like this? | Reddit | Business | social | 2026-07-25 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v6dqui/theme_with_glowing_text_like_this/) |
+| 2026-07-25 | The Complete Guide to the Obsidian CLI - Everything You Can Do From the Terminal | Reddit | Business | social | 2026-07-25 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v61dyh/the_complete_guide_to_the_obsidian_cli_everything/) |
+| 2026-07-25 | How to use Obsidian as a COMPLETE beginner | Reddit | Business | social | 2026-07-25 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v6dnh0/how_to_use_obsidian_as_a_complete_beginner/) |
+| 2026-07-25 | My Dashboard Using Hearth Plugin - Gif Trick | Reddit | Business | social | 2026-07-25 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v62zhx/my_dashboard_using_hearth_plugin_gif_trick/) |
+| 2026-07-25 | The Graph Looks Great, But I Can't Find Anything. Here's What Actually Works at 4,000 Notes | Reddit | Business | social | 2026-07-25 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v61fgg/the_graph_looks_great_but_i_cant_find_anything/) |
+| 2026-07-25 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-24 | Claude Opus 5 | HN | Technology | tech | 2026-07-24 | [link](https://www.anthropic.com/news/claude-opus-5) |
 | 2026-07-24 | If coding has been solved, why does software keep getting worse? | HN | Technology | tech | 2026-07-24 | [link](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/) |
 | 2026-07-24 | It's getting harder to focus every day | HN | Technology | tech | 2026-07-24 | [link](https://glyphack.com/attention/) |
