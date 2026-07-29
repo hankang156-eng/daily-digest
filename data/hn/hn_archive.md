@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-26 · 447 days · 4470 stories*
+*Last updated: 2026-07-29 · 448 days · 4480 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-28 | Tuesday | 1 | 7.1 Earthquake in Japan | 788 | 215 | Technology | [link](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en) · [HN](https://news.ycombinator.com/item?id=49080664) |
+| 2026-07-28 | Tuesday | 2 | New HIV vaccine shows unprecedented success in preclinical study | 626 | 271 | Technology | [link](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/) · [HN](https://news.ycombinator.com/item?id=49083314) |
+| 2026-07-28 | Tuesday | 3 | Stop Killing the Internet: No Digital ID and No Age Verification | 599 | 211 | Technology | [link](https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en) · [HN](https://news.ycombinator.com/item?id=49084938) |
+| 2026-07-28 | Tuesday | 4 | Substack writers, you need a website | 544 | 275 | Technology | [link](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/) · [HN](https://news.ycombinator.com/item?id=49086788) |
+| 2026-07-28 | Tuesday | 5 | Codex Security | 500 | 167 | Technology | [link](https://github.com/openai/codex-security) · [HN](https://news.ycombinator.com/item?id=49089755) |
+| 2026-07-28 | Tuesday | 6 | Kimi K3 Architecture Overview and Notes | 423 | 86 | Technology | [link](https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html) · [HN](https://news.ycombinator.com/item?id=49085698) |
+| 2026-07-28 | Tuesday | 7 | Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript | 313 | 83 | Technology | [link](https://github.com/twalichiewicz/HNewhere) · [HN](https://news.ycombinator.com/item?id=49090607) |
+| 2026-07-28 | Tuesday | 8 | Delayed Gratification – Proud to Be 'Last to Breaking News' | 297 | 165 | Technology | [link](https://www.slow-journalism.com/) · [HN](https://news.ycombinator.com/item?id=49085731) |
+| 2026-07-28 | Tuesday | 9 | Kimi Linear: An Expressive, Efficient Attention Architecture (2025) | 296 | 128 | Technology | [link](https://arxiv.org/abs/2510.26692) · [HN](https://news.ycombinator.com/item?id=49082022) |
+| 2026-07-28 | Tuesday | 10 | A walk through of the DeltaNet family of linear attention variants | 291 | 122 | Technology | [link](https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention) · [HN](https://news.ycombinator.com/item?id=49085909) |
 | 2026-07-25 | Saturday | 1 | Android may soon restrict on-device ADB | 932 | 457 | Technology | [link](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/) · [HN](https://news.ycombinator.com/item?id=49045159) |
 | 2026-07-25 | Saturday | 2 | Did they ghost you? | 399 | 178 | Technology | [link](https://didtheyghostyou.com/) · [HN](https://news.ycombinator.com/item?id=49051120) |
 | 2026-07-25 | Saturday | 3 | Open-weight AI is having its Kubernetes moment | 376 | 291 | Technology | [link](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/) · [HN](https://news.ycombinator.com/item?id=49048034) |

@@ -1,9 +1,71 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-26 · 4503 items*
+*Last updated: 2026-07-29 · 4565 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-28 | 7.1 Earthquake in Japan | HN | Technology | tech | 2026-07-28 | [link](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en) |
+| 2026-07-28 | New HIV vaccine shows unprecedented success in preclinical study | HN | Technology | tech | 2026-07-28 | [link](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/) |
+| 2026-07-28 | Stop Killing the Internet: No Digital ID and No Age Verification | HN | Technology | tech | 2026-07-28 | [link](https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en) |
+| 2026-07-28 | Substack writers, you need a website | HN | Technology | tech | 2026-07-28 | [link](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/) |
+| 2026-07-28 | Codex Security | HN | Technology | tech | 2026-07-28 | [link](https://github.com/openai/codex-security) |
+| 2026-07-28 | Kimi K3 Architecture Overview and Notes | HN | Technology | tech | 2026-07-28 | [link](https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html) |
+| 2026-07-28 | Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript | HN | Technology | tech | 2026-07-28 | [link](https://github.com/twalichiewicz/HNewhere) |
+| 2026-07-28 | Delayed Gratification – Proud to Be 'Last to Breaking News' | HN | Technology | tech | 2026-07-28 | [link](https://www.slow-journalism.com/) |
+| 2026-07-28 | Kimi Linear: An Expressive, Efficient Attention Architecture (2025) | HN | Technology | tech | 2026-07-28 | [link](https://arxiv.org/abs/2510.26692) |
+| 2026-07-28 | A walk through of the DeltaNet family of linear attention variants | HN | Technology | tech | 2026-07-28 | [link](https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention) |
+| 2026-07-28 | Deflock Casa Grande | HN | Technology | tech | 2026-07-28 | [link](https://deflockcg.com/) |
+| 2026-07-28 | Zig's Incremental Compilation Internals | HN | Technology | tech | 2026-07-28 | [link](https://mlugg.co.uk/posts/incremental-compilation-internals/) |
+| 2026-07-28 | Half-Life ported to Mac OS 9 | HN | Technology | tech | 2026-07-28 | [link](https://mac-classic.com/news/half-life-ported-to-mac-os-9/) |
+| 2026-07-28 | Donate to GrapheneOS | HN | Technology | tech | 2026-07-28 | [link](https://grapheneos.org/donate) |
+| 2026-07-28 | Steel Bank Common Lisp version 2.6.7 | HN | Technology | tech | 2026-07-28 | [link](https://sbcl.org/all-news.html?2.6.7) |
+| 2026-07-28 | I'm 38 and I Can't Support Myself Anymore | HN | Technology | tech | 2026-07-28 | [link](https://itsmevox.substack.com/p/im-38-and-i-cant-support-myself-anymore) |
+| 2026-07-28 | Mark Zuckerberg Blasts Centralization of A.I. Power | NYT · AI | AI | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html) |
+| 2026-07-28 | Is More Data About Your Body Actually Good for You? | NYT · AI | AI | opinion | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/opinion/health-data-trend-body.html) |
+| 2026-07-28 | Why Paramount Paused Its Blockbuster $111 Billion Deal for Warner Bros. | NYT · Business | Business | news | 2026-07-28 | [link](https://www.nytimes.com/2026/07/26/business/paramount-warner-bros-deal-pause.html) |
+| 2026-07-28 | An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms | NYT · Technology | Technology | news | 2026-07-28 | [link](https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html) |
+| 2026-07-28 | The Chips Rout Goes Global | NYT · Business | Business | news | 2026-07-28 | [link](https://www.nytimes.com/2026/07/28/business/dealbook/chips-market-rout-ai.html) |
+| 2026-07-28 | How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal | NYT · Technology | Technology | news | 2026-07-27 | [link](https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html) |
+| 2026-07-28 | Tech Stocks Tumble on Worries Over A.I. Spending and China’s Chips | NYT · Business | Business | news | 2026-07-28 | [link](https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html) |
+| 2026-07-28 | Why Restarting a Nuclear Power Plant Can Be Much Harder Than Expected | NYT · Energy & Environment | Energy & Environment | news | 2026-07-28 | [link](https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html) |
+| 2026-07-28 | Gibson Dunn Hires Rival Wachtell Lipton’s Co-Chair | NYT · Business | Business | news | 2026-07-28 | [link](https://www.nytimes.com/2026/07/28/business/dealbook/gibson-dunn-hires-wachtell-liptons-co-chair.html) |
+| 2026-07-28 | A Setback for the MAGA Media Takeover | NYT · Opinion | Opinion | opinion | 2026-07-29 | [link](https://www.nytimes.com/2026/07/27/opinion/media-ellison-paramount.html) |
+| 2026-07-28 | The Hidden Cost of China’s Free A.I. | NYT · AI | AI | opinion | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/opinion/ai-china-us-free-models.html) |
+| 2026-07-28 | Trying to Make a Buck Off a Data Center, One 6-Pack at a Time | NYT · AI | AI | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/us/data-center-construction-workers.html) |
+| 2026-07-28 | Apple Regains Spot Over Nvidia as Most Valuable Public Company | NYT · Technology | Technology | news | 2026-07-27 | [link](https://www.nytimes.com/2026/07/27/technology/apple-valuation.html) |
+| 2026-07-28 | Nearly 200 Economists and Tech Leaders Warn of A.I. Threats | NYT · AI | AI | news | 2026-07-13 | [link](https://www.nytimes.com/2026/07/13/business/economists-ai-threat-jobs.html) |
+| 2026-07-28 | A $3.2 Trillion Deal-Making Frenzy Is Spurred by the A.I. Economy | NYT · AI | AI | news | 2026-07-09 | [link](https://www.nytimes.com/2026/07/09/business/ai-boom-corporate-deals.html) |
+| 2026-07-28 | A Deluge of A.I. Computing Power Is About to Come Online, Fueling Major Leaps | NYT · AI | AI | news | 2026-07-29 | [link](https://www.nytimes.com/interactive/2026/07/29/technology/ai-chips-data-center-boom.html) |
+| 2026-07-28 | Data Centers to Add Billions in Power Costs in 13 States | NYT · Energy & Environment | Energy & Environment | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html) |
+| 2026-07-28 | The U.S. Is Pulling Back on Energy Efficiency | NYT · Energy & Environment | Energy & Environment | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html) |
+| 2026-07-28 | Trump Asks Supreme Court to Overturn $83.3 Million Award in Carroll Defamation Case | NYT · Politics | Politics | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/28/us/politics/trump-supreme-court-carroll.html) |
+| 2026-07-28 | At Graham’s Farewell, a Glimpse Into Power in Trump’s Washington | NYT · Politics | Politics | news | 2026-07-28 | [link](https://www.nytimes.com/2026/07/28/us/politics/lindsey-graham-funeral-trump-dc.html) |
+| 2026-07-28 | Discovering cryptographic weaknesses with Claude | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-28 | [link](https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything) |
+| 2026-07-28 | Quoting Akshat Bubna | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-28 | [link](https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything) |
+| 2026-07-28 | [Sponsor] Introducing Agent Fone | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-28 | [link](https://fail.xyz/phone/) |
+| 2026-07-28 | ‘Always Choose the Good Soap’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-28 | [link](https://sixcolors.com/post/2026/07/always-choose-the-good-soap/) |
+| 2026-07-28 | Google Calendar "Unable to launch event" - caused by missing DTSTAMP | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-07-28 | [link](https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/) |
+| 2026-07-28 | People liked my desert, so here's a waterbending demo! | Reddit | Business | social | 2026-07-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v94nal/people_liked_my_desert_so_heres_a_waterbending/) |
+| 2026-07-28 | Whoever created the ADHD skill god bless you | Reddit | Business | social | 2026-07-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v8o1jn/whoever_created_the_adhd_skill_god_bless_you/) |
+| 2026-07-28 | When I have to compact a 2 day long 900k context session with Claude | Reddit | Business | social | 2026-07-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v9bq96/when_i_have_to_compact_a_2_day_long_900k_context/) |
+| 2026-07-28 | The company I work for received a US Government directive requiring us to discontinue the use of Ant | Reddit | Business | social | 2026-07-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v932su/the_company_i_work_for_received_a_us_government/) |
+| 2026-07-28 | It finally happened!!! | Reddit | Business | social | 2026-07-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v8zu0p/it_finally_happened/) |
+| 2026-07-28 | Caveman skill good, newspeak skill doubleplusgood | Reddit | Business | social | 2026-07-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v8m6wr/caveman_skill_good_newspeak_skill_doubleplusgood/) |
+| 2026-07-28 | Anyone afraid of how fast things are progressing | Reddit | Business | social | 2026-07-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v9391u/anyone_afraid_of_how_fast_things_are_progressing/) |
+| 2026-07-28 | Used claude to replay over 4000 users that played my daily racing game yesterday at the same time | Reddit | Business | social | 2026-07-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v8xmqa/used_claude_to_replay_over_4000_users_that_played/) |
+| 2026-07-28 | Opus 5: extremely RL-fried and mistake-prone for anyone else? | Reddit | Business | social | 2026-07-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v92csh/opus_5_extremely_rlfried_and_mistakeprone_for/) |
+| 2026-07-28 | check it: ask your agent to report you to its own company | Reddit | Business | social | 2026-07-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v9elnr/check_it_ask_your_agent_to_report_you_to_its_own/) |
+| 2026-07-28 | So this is what coding without Claude feels like | Reddit | Business | social | 2026-07-28 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v981g8/so_this_is_what_coding_without_claude_feels_like/) |
+| 2026-07-28 | anyone using this feature? | Reddit | Business | social | 2026-07-28 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v8t82z/anyone_using_this_feature/) |
+| 2026-07-28 | MCP just got its biggest update since launch 👀 | Reddit | Business | social | 2026-07-28 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v964qc/mcp_just_got_its_biggest_update_since_launch/) |
+| 2026-07-28 | SWE here. Is anyone else getting a little nervous? | Reddit | Business | social | 2026-07-28 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v8o6ep/swe_here_is_anyone_else_getting_a_little_nervous/) |
+| 2026-07-28 | Matt Pocock Tutorials On Agentic Coding/AI are A GOLDMINE | Reddit | Business | social | 2026-07-28 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v90akt/matt_pocock_tutorials_on_agentic_codingai_are_a/) |
+| 2026-07-28 | Made huuuuge update to Word-Smith 1.0.8 - the ultimate distraction-free writing suite | Reddit | Business | social | 2026-07-28 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v97r2t/made_huuuuge_update_to_wordsmith_108_the_ultimate/) |
+| 2026-07-28 | My Personal Software Journey: Self-Hosting Agent-Built Apps on a Mac mini (with Obsidian as a backen | Reddit | Business | social | 2026-07-28 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v9brhg/my_personal_software_journey_selfhosting/) |
+| 2026-07-28 | [Plugin] SideBrace — group a few lines with a curly brace, no LaTeX needed | Reddit | Business | social | 2026-07-28 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v8lr8i/plugin_sidebrace_group_a_few_lines_with_a_curly/) |
+| 2026-07-28 | Velocity is amazing ! | Reddit | Business | social | 2026-07-28 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v9awzf/velocity_is_amazing/) |
+| 2026-07-28 | Another LCARS theme | Reddit | Business | social | 2026-07-28 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v9fff2/another_lcars_theme/) |
+| 2026-07-28 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-25 | Android may soon restrict on-device ADB | HN | Technology | tech | 2026-07-25 | [link](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/) |
 | 2026-07-25 | Did they ghost you? | HN | Technology | tech | 2026-07-25 | [link](https://didtheyghostyou.com/) |
 | 2026-07-25 | Open-weight AI is having its Kubernetes moment | HN | Technology | tech | 2026-07-25 | [link](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/) |
