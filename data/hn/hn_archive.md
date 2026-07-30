@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-29 · 448 days · 4480 stories*
+*Last updated: 2026-07-30 · 449 days · 4490 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-29 | Wednesday | 1 | Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac | 801 | 283 | Technology | [link](https://github.com/drumih/turbo-fieldfare) · [HN](https://news.ycombinator.com/item?id=49098510) |
+| 2026-07-29 | Wednesday | 2 | KOReader | 712 | 224 | Technology | [link](https://koreader.rocks/) · [HN](https://news.ycombinator.com/item?id=49095865) |
+| 2026-07-29 | Wednesday | 3 | Superlogical | 703 | 411 | Technology | [link](https://www.superlogical.com/) · [HN](https://news.ycombinator.com/item?id=49098965) |
+| 2026-07-29 | Wednesday | 4 | The coolest use for the Vision Pro | 668 | 260 | Technology | [link](https://christianselig.com/2026/07/vision-pro-house/) · [HN](https://news.ycombinator.com/item?id=49102774) |
+| 2026-07-29 | Wednesday | 5 | AI's top startups are barely publishing their research | 467 | 244 | Technology | [link](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) · [HN](https://news.ycombinator.com/item?id=49103285) |
+| 2026-07-29 | Wednesday | 6 | Kimi K3-256k | 434 | 127 | Technology | [link](https://www.kimi.com/code/docs/en/kimi-code/models) · [HN](https://news.ycombinator.com/item?id=49101852) |
+| 2026-07-29 | Wednesday | 7 | User Interfaces of the Demo Scene | 418 | 70 | Technology | [link](https://www.datagubbe.se/scenegui/) · [HN](https://news.ycombinator.com/item?id=49093434) |
+| 2026-07-29 | Wednesday | 8 | More Tailscale tricks for your jailbroken Kindle | 400 | 110 | Technology | [link](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes) · [HN](https://news.ycombinator.com/item?id=49093569) |
+| 2026-07-29 | Wednesday | 9 | Keychron announces first open-source firmware for gaming mice | 379 | 152 | Technology | [link](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice) · [HN](https://news.ycombinator.com/item?id=49099715) |
+| 2026-07-29 | Wednesday | 10 | Document-borne AI worms can self-propagate through Copilot for Word | 368 | 282 | Technology | [link](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/) · [HN](https://news.ycombinator.com/item?id=49096188) |
 | 2026-07-28 | Tuesday | 1 | 7.1 Earthquake in Japan | 788 | 215 | Technology | [link](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en) · [HN](https://news.ycombinator.com/item?id=49080664) |
 | 2026-07-28 | Tuesday | 2 | New HIV vaccine shows unprecedented success in preclinical study | 626 | 271 | Technology | [link](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/) · [HN](https://news.ycombinator.com/item?id=49083314) |
 | 2026-07-28 | Tuesday | 3 | Stop Killing the Internet: No Digital ID and No Age Verification | 599 | 211 | Technology | [link](https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en) · [HN](https://news.ycombinator.com/item?id=49084938) |

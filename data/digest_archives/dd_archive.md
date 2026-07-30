@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-29 · 4565 items*
+*Last updated: 2026-07-30 · 4628 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-29 | Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac | HN | Technology | tech | 2026-07-29 | [link](https://github.com/drumih/turbo-fieldfare) |
+| 2026-07-29 | KOReader | HN | Technology | tech | 2026-07-29 | [link](https://koreader.rocks/) |
+| 2026-07-29 | Superlogical | HN | Technology | tech | 2026-07-29 | [link](https://www.superlogical.com/) |
+| 2026-07-29 | The coolest use for the Vision Pro | HN | Technology | tech | 2026-07-29 | [link](https://christianselig.com/2026/07/vision-pro-house/) |
+| 2026-07-29 | AI's top startups are barely publishing their research | HN | Technology | tech | 2026-07-29 | [link](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) |
+| 2026-07-29 | Kimi K3-256k | HN | Technology | tech | 2026-07-29 | [link](https://www.kimi.com/code/docs/en/kimi-code/models) |
+| 2026-07-29 | User Interfaces of the Demo Scene | HN | Technology | tech | 2026-07-29 | [link](https://www.datagubbe.se/scenegui/) |
+| 2026-07-29 | More Tailscale tricks for your jailbroken Kindle | HN | Technology | tech | 2026-07-29 | [link](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes) |
+| 2026-07-29 | Keychron announces first open-source firmware for gaming mice | HN | Technology | tech | 2026-07-29 | [link](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice) |
+| 2026-07-29 | Document-borne AI worms can self-propagate through Copilot for Word | HN | Technology | tech | 2026-07-29 | [link](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/) |
+| 2026-07-29 | Darktable | HN | Technology | tech | 2026-07-29 | [link](https://www.darktable.org/) |
+| 2026-07-29 | French musician Kavinsky found dead | HN | Technology | tech | 2026-07-29 | [link](https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home) |
+| 2026-07-29 | Handbook.md shows that long policy documents do not reliably govern agents | HN | Technology | tech | 2026-07-29 | [link](https://arxiv.org/abs/2607.25398) |
+| 2026-07-29 | A.I. companies are recruiting electricians and carpenters by the thousands | HN | Technology | tech | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html) |
+| 2026-07-29 | Claude: Elevated errors across all models – Resolved | HN | Technology | tech | 2026-07-29 | [link](https://status.claude.com/incidents/q2kg8n613kr3) |
+| 2026-07-29 | LLM Honeypot | HN | Technology | tech | 2026-07-29 | [link](https://llm2human.pages.dev/) |
+| 2026-07-29 | Trump Administration Is Repurposing Federal Land for A.I. Data Centers | NYT · AI | AI | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html) |
+| 2026-07-29 | Big Tech Turmoil Clouds the A.I. Earnings Picture | NYT · AI | AI | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/business/dealbook/big-tech-ai-earnings.html) |
+| 2026-07-29 | As China’s A.I. Gets Stronger, It Poses New Risks to Beijing | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html) |
+| 2026-07-29 | Mark Zuckerberg Blasts Centralization of A.I. Power | NYT · Technology | Technology | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html) |
+| 2026-07-29 | A.I. Data Centers in Space? A System to Cool Chips Could Help. | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html) |
+| 2026-07-29 | Sick of A.I.-Generated Content? The ‘Slop Janitor’ Is Here to Help. | NYT · Business | Business | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/29/business/dealbook/pangram-ai-slop-detection.html) |
+| 2026-07-29 | China Threatens Retaliation as U.S. Moves to Block Robot Imports | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/business/china-robots-ban-fcc.html) |
+| 2026-07-29 | Fed Holds Rates Steady but Three Officials Back Increase | NYT · Economy | Economy | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/business/economy/what-to-watch-at-the-meeting.html) |
+| 2026-07-29 | Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated. | NYT · Technology | Technology | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html) |
+| 2026-07-29 | Could Jettisoning CNN Save the Paramount Merger? | NYT · Opinion | Opinion | opinion | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/opinion/cnn-paramount-warner-bros-merger-ellison.html) |
+| 2026-07-29 | A Setback for the MAGA Media Takeover | NYT · Opinion | Opinion | opinion | 2026-07-29 | [link](https://www.nytimes.com/2026/07/27/opinion/media-ellison-paramount.html) |
+| 2026-07-29 | Meta’s Profit Falls 14 Percent as A.I. Spending Continues | NYT · AI | AI | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html) |
+| 2026-07-29 | How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal | NYT · Technology | Technology | news | 2026-07-27 | [link](https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html) |
+| 2026-07-29 | A Bay Area Pastor Made an A.I. Twin to Talk About God at Any Time | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/us/ai-twin-pastor-justin-lester-california-church.html) |
+| 2026-07-29 | Microsoft Increases Spending on A.I. as Profit Jumps 31% | NYT · AI | AI | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html) |
+| 2026-07-29 | Trump Demanded Details of Agents’ Interview of Comey, New Filing Says | NYT · U.S. | U.S. | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/us/james-comey-seashells-trump-secret-service.html) |
+| 2026-07-29 | After Obamacare Cuts, Hospitals Are Treating More Uninsured Patients | NYT · Business | Business | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/business/aca-obamacare-health-insurance.html) |
+| 2026-07-29 | Students: Is A.I. Changing Your Life? Tell Us. | NYT · AI | AI | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/us/students-is-ai-changing-your-life-tell-us.html) |
+| 2026-07-29 | Data Centers to Add Billions in Power Costs in 13 States | NYT · Energy & Environment | Energy & Environment | news | 2026-07-15 | [link](https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html) |
+| 2026-07-29 | The U.S. Is Pulling Back on Energy Efficiency | NYT · Energy & Environment | Energy & Environment | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html) |
+| 2026-07-29 | Can Costly Signals Fix Hiring? | MIT IDE · MIT Research & Insights | Research | research | 2026-07-29 | [link](https://ide.mit.edu/insights/can-costly-signals-fix-hiring/) |
+| 2026-07-29 | Quoting Matthew Green | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-29 | [link](https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything) |
+| 2026-07-29 | AI Worming through Word | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-29 | [link](https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything) |
+| 2026-07-29 | Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-29 | [link](https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/) |
+| 2026-07-29 | Count Those Underscores | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-29 | [link](https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/) |
+| 2026-07-29 | Elon Musk drops wild 5-year prediction about AI and humanity | Superpower Daily · Tech & Engineering | Technology | tech | 2026-07-29 | [link](https://www.superpowerdaily.com/p/elon-musk-drops-wild-5-year-prediction-about-ai-and-humanity) |
+| 2026-07-29 | Why is Claude so mean to its subagents | Reddit | Business | social | 2026-07-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1va9ozk/why_is_claude_so_mean_to_its_subagents/) |
+| 2026-07-29 | Claude tried to prompt inject me | Reddit | Business | social | 2026-07-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v9j6us/claude_tried_to_prompt_inject_me/) |
+| 2026-07-29 | This technology is limitless | Reddit | Business | social | 2026-07-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vaamj3/this_technology_is_limitless/) |
+| 2026-07-29 | I got tired of watching Claude Code work in a plain terminal so I built it 3D cozy game simulation f | Reddit | Business | social | 2026-07-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1va26us/i_got_tired_of_watching_claude_code_work_in_a/) |
+| 2026-07-29 | Please tell me I'm not the only one... | Reddit | Business | social | 2026-07-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1va7ln5/please_tell_me_im_not_the_only_one/) |
+| 2026-07-29 | This sums up my experince with Opus 5 vs Fable 5 | Reddit | Business | social | 2026-07-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1va3521/this_sums_up_my_experince_with_opus_5_vs_fable_5/) |
+| 2026-07-29 | Actually useful stuff you've had Claude do that saved hours of time/money? | Reddit | Business | social | 2026-07-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1va8vhg/actually_useful_stuff_youve_had_claude_do_that/) |
+| 2026-07-29 | "Clever ape." | Reddit | Business | social | 2026-07-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v9wm4z/clever_ape/) |
+| 2026-07-29 | Claude Bandicoot - Shumer's Gauntlet Loop on a 3d Platformer | Reddit | Business | social | 2026-07-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v9m76g/claude_bandicoot_shumers_gauntlet_loop_on_a_3d/) |
+| 2026-07-29 | Benchmarking Claude Opus 5, Kimi K3, Grok 4.5, and Gemini 3.6 Flash on Baba Is You | Reddit | Business | social | 2026-07-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1v9wp8t/benchmarking_claude_opus_5_kimi_k3_grok_45_and/) |
+| 2026-07-29 | Talk to me bro | Reddit | Business | social | 2026-07-29 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v9qy0s/talk_to_me_bro/) |
+| 2026-07-29 | Is it just me or is Claude's writing getting harder to understand? | Reddit | Business | social | 2026-07-29 | [link](https://www.reddit.com/r/ClaudeCode/comments/1v9id8j/is_it_just_me_or_is_claudes_writing_getting/) |
+| 2026-07-29 | I went back to Fable and redid 4 days of work made with Opus 5 | Reddit | Business | social | 2026-07-29 | [link](https://www.reddit.com/r/ClaudeCode/comments/1va7hz9/i_went_back_to_fable_and_redid_4_days_of_work/) |
+| 2026-07-29 | How Claude Code helps me recover after surgery | Reddit | Business | social | 2026-07-29 | [link](https://www.reddit.com/r/ClaudeCode/comments/1va7r4o/how_claude_code_helps_me_recover_after_surgery/) |
+| 2026-07-29 | Spent months ignoring Claude Code hooks. Set them up before Opus 5 and it changed how I work. | Reddit | Business | social | 2026-07-29 | [link](https://www.reddit.com/r/ClaudeCode/comments/1va4x2n/spent_months_ignoring_claude_code_hooks_set_them/) |
+| 2026-07-29 | I built a real-time, end-to-end encrypted sync plugin for Obsidian | Reddit | Business | social | 2026-07-29 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v9v3k9/i_built_a_realtime_endtoend_encrypted_sync_plugin/) |
+| 2026-07-29 | Vault to Organize my Life Between Jobs | Reddit | Business | social | 2026-07-29 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vacn69/vault_to_organize_my_life_between_jobs/) |
+| 2026-07-29 | Yes! Finally dual panes on iPad in Obsidian 1.13 & Notebook Navigator 3.3! | Reddit | Business | social | 2026-07-29 | [link](https://www.reddit.com/r/ObsidianMD/comments/1v9qjp9/yes_finally_dual_panes_on_ipad_in_obsidian_113/) |
+| 2026-07-29 | Daily Notes - Kepano Style | Reddit | Business | social | 2026-07-29 | [link](https://www.reddit.com/r/ObsidianMD/comments/1va4xfh/daily_notes_kepano_style/) |
+| 2026-07-29 | Over Time | Reddit | Business | social | 2026-07-29 | [link](https://www.reddit.com/r/ObsidianMD/comments/1va8afk/over_time/) |
+| 2026-07-29 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-28 | 7.1 Earthquake in Japan | HN | Technology | tech | 2026-07-28 | [link](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en) |
 | 2026-07-28 | New HIV vaccine shows unprecedented success in preclinical study | HN | Technology | tech | 2026-07-28 | [link](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/) |
 | 2026-07-28 | Stop Killing the Internet: No Digital ID and No Age Verification | HN | Technology | tech | 2026-07-28 | [link](https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en) |
