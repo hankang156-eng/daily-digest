@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-30 · 449 days · 4490 stories*
+*Last updated: 2026-07-31 · 450 days · 4500 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-30 | Thursday | 1 | UEFA and its national associations will not participate in FIFA competitions | 1031 | 561 | Technology | [link](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/) · [HN](https://news.ycombinator.com/item?id=49113929) |
+| 2026-07-30 | Thursday | 2 | Read this before you buy that TV streaming stick | 716 | 427 | Technology | [link](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) · [HN](https://news.ycombinator.com/item?id=49112744) |
+| 2026-07-30 | Thursday | 3 | Stacked PRs are now live on GitHub | 643 | 226 | Technology | [link](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) · [HN](https://news.ycombinator.com/item?id=49112232) |
+| 2026-07-30 | Thursday | 4 | Advancing the price-performance frontier with GPT‑5.6 | 574 | 380 | Technology | [link](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/) · [HN](https://news.ycombinator.com/item?id=49112867) |
+| 2026-07-30 | Thursday | 5 | Gemini Robotics 2 brings whole body intelligence to robots | 560 | 445 | Technology | [link](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) · [HN](https://news.ycombinator.com/item?id=49111237) |
+| 2026-07-30 | Thursday | 6 | 'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling | 429 | 167 | Technology | [link](https://remysharp.com/links/2026-07-23-35890312) · [HN](https://news.ycombinator.com/item?id=49109440) |
+| 2026-07-30 | Thursday | 7 | Google will expand age checks on Android worldwide till the end of the year | 403 | 486 | Technology | [link](https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html) · [HN](https://news.ycombinator.com/item?id=49107950) |
+| 2026-07-30 | Thursday | 8 | We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447 | 363 | 213 | Technology | [link](https://www.bottlenecklabs.com/blog/autonomously-run-businesses) · [HN](https://news.ycombinator.com/item?id=49113059) |
+| 2026-07-30 | Thursday | 9 | The session you cannot take with you | 336 | 77 | Technology | [link](https://earendil.com/posts/session-portability/) · [HN](https://news.ycombinator.com/item?id=49118781) |
+| 2026-07-30 | Thursday | 10 | The AI Aesthetic | 305 | 133 | Technology | [link](https://blog.jim-nielsen.com/2026/ai-aesthetic/) · [HN](https://news.ycombinator.com/item?id=49117099) |
 | 2026-07-29 | Wednesday | 1 | Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac | 801 | 283 | Technology | [link](https://github.com/drumih/turbo-fieldfare) · [HN](https://news.ycombinator.com/item?id=49098510) |
 | 2026-07-29 | Wednesday | 2 | KOReader | 712 | 224 | Technology | [link](https://koreader.rocks/) · [HN](https://news.ycombinator.com/item?id=49095865) |
 | 2026-07-29 | Wednesday | 3 | Superlogical | 703 | 411 | Technology | [link](https://www.superlogical.com/) · [HN](https://news.ycombinator.com/item?id=49098965) |
