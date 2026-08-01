@@ -1,9 +1,70 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-07-31 · 4690 items*
+*Last updated: 2026-08-01 · 4751 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-07-31 | Elevators | HN | Technology | tech | 2026-07-31 | [link](https://john.fun/elevators) |
+| 2026-07-31 | DeepSeek-V4-Flash Update | HN | Technology | tech | 2026-07-31 | [link](https://api-docs.deepseek.com/updates/) |
+| 2026-07-31 | qm – Multiplayer agent harness for work | HN | Technology | tech | 2026-07-31 | [link](https://github.com/yc-software/qm) |
+| 2026-07-31 | DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis | HN | Technology | tech | 2026-07-31 | [link](https://artificialanalysis.ai/models/deepseek-v4-flash) |
+| 2026-07-31 | Tailscale didn't stop the Hugging Face intrusion | HN | Technology | tech | 2026-07-31 | [link](https://tailscale.com/blog/hugging-face-intrusion) |
+| 2026-07-31 | Google fixed more Chrome bugs in June than over the past two years, thanks to AI | HN | Technology | tech | 2026-07-31 | [link](https://blog.google/security/chrome-stronger-with-every-update/) |
+| 2026-07-31 | The End of an Era | HN | Technology | tech | 2026-07-31 | [link](https://hughhowey.com/the-end-of-an-era/) |
+| 2026-07-31 | Run Kimi K3 using 29 GB of RAM at 0.50 tok/s | HN | Technology | tech | 2026-07-31 | [link](https://github.com/sqliteai/waste) |
+| 2026-07-31 | Severance | HN | Technology | tech | 2026-07-31 | [link](https://lcamtuf.substack.com/p/severance) |
+| 2026-07-31 | JEP 401: Value Objects (Preview) merged to OpenJDK master | HN | Technology | tech | 2026-07-31 | [link](https://github.com/openjdk/jdk/pull/31120) |
+| 2026-07-31 | Big Food vs. the People | HN | Technology | tech | 2026-07-31 | [link](https://www.lighthousereports.com/investigation/big-food-vs-the-people/) |
+| 2026-07-31 | Show HN: Gander, an Android file viewer that asks for no permissions | HN | Technology | tech | 2026-07-31 | [link](https://github.com/mokshablr/gander) |
+| 2026-07-31 | How to Exist | HN | Technology | tech | 2026-07-31 | [link](https://www.raptitude.com/2026/07/how-to-exist/) |
+| 2026-07-31 | BMW Spider-Man in-car advertising | HN | Technology | tech | 2026-07-31 | [link](https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising) |
+| 2026-07-31 | Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio | HN | Technology | tech | 2026-07-31 | [link](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/) |
+| 2026-07-31 | The most official water costs $120k a gallon | HN | Technology | tech | 2026-07-31 | [link](https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/) |
+| 2026-07-31 | Plug-In Solar Panels Are Starting to Sprout in U.S. Backyards | NYT · Energy & Environment | Energy & Environment | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html) |
+| 2026-07-31 | What a Hedge Fund’s Implosion Says About the A.I. Trade | NYT · AI | AI | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/31/business/dealbook/situational-awareness-ai-hedge-fund.html) |
+| 2026-07-31 | Leopold Aschenbrenner Built a Hot A.I. Hedge Fund. Then it Melted Down. | NYT · AI | AI | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html) |
+| 2026-07-31 | Big Tech’s A.I. Spending Keeps Rising. So Do the Jitters. | NYT · Technology | Technology | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html) |
+| 2026-07-31 | South Korea’s KOSPI Soars 18% | NYT · AI | AI | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/31/business/korea-stocks-chips-kospi.html) |
+| 2026-07-31 | Companies Rush to Close Daring Deals Under Trump | NYT · Business | Business | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/31/business/corporate-mergers-deals-trump.html) |
+| 2026-07-31 | Inflation Worries Prompted Fed Officials to Dissent on Holding Rates Steady | NYT · AI | AI | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/31/business/economy/inflation-fed-dissent-interest-rates.html) |
+| 2026-07-31 | The Fight Tearing Apart Silicon Valley | NYT · AI | AI | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/31/podcasts/the-daily/ai-open-source-china-silicon-valley.html) |
+| 2026-07-31 | A Doctor Weighs In on the Health Tracking Craze | NYT · AI | AI | opinion | 2026-07-31 | [link](https://www.nytimes.com/video/opinion/100000011049054/a-doctor-weighs-in-on-the-health-tracking-craze.html) |
+| 2026-07-31 | Anthropic Says Its A.I. Systems Broke Into Computers at 3 Organizations | NYT · Technology | Technology | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html) |
+| 2026-07-31 | Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble | NYT · AI | AI | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html) |
+| 2026-07-31 | The German Auto Industry, a Pillar of the National Psyche, Is Trembling | NYT · Technology | Technology | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html) |
+| 2026-07-31 | Mark Zuckerberg Blasts Centralization of A.I. Power | NYT · Technology | Technology | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html) |
+| 2026-07-31 | Trump Administration Is Repurposing Federal Land for A.I. Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html) |
+| 2026-07-31 | Why an A.I. Bubble Might Not Be a Bad Thing | NYT · Technology | Technology | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/ai-bubble-venture-capital.html) |
+| 2026-07-31 | Missteps Mount in Justice Dept.’s Case Against Minnesota Anti-ICE Protesters | NYT · Politics | Politics | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/31/us/politics/minnesota-ice-immigration-protests-justice-department-lemon-fort.html) |
+| 2026-07-31 | Trump Administration Is Undoing Plans to Boost Workplace Heat Protections | NYT · Energy & Environment | Energy & Environment | news | 2026-08-01 | [link](https://www.nytimes.com/2026/08/01/climate/heat-workplace-protections-osha-trump.html) |
+| 2026-07-31 | We Need a Better Test for Dangerous A.I. | NYT · Opinion | Opinion | opinion | 2026-07-31 | [link](https://www.nytimes.com/2026/07/30/opinion/ai-weapon-testing.html) |
+| 2026-07-31 | Could Jettisoning CNN Save the Paramount Merger? | NYT · Opinion | Opinion | opinion | 2026-07-30 | [link](https://www.nytimes.com/2026/07/29/opinion/cnn-paramount-warner-bros-merger-ellison.html) |
+| 2026-07-31 | Trump Administration Plans to Upend Head Start by Deregulating It | NYT · Politics | Politics | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html) |
+| 2026-07-31 | Oxide and Friends: The Open Weight Revolution with Simon Willison | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-31 | [link](https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything) |
+| 2026-07-31 | deepseek-ai/DeepSeek-V4-Flash-0731 | Simon Willison · Tech & Engineering | Technology | tech | 2026-07-31 | [link](https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything) |
+| 2026-07-31 | The Talk Show: ‘What’s in Louie’s Wallet’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-31 | [link](https://daringfireball.net/thetalkshow/2026/07/31/ep-453) |
+| 2026-07-31 | ★ Temu Is a Comically Bad App | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-07-31 | [link](https://daringfireball.net/2026/07/temu_is_a_comically_bad_app) |
+| 2026-07-31 | Now, Anthropic reporting its own models went rogue | Reddit | Business | social | 2026-07-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vbawpx/now_anthropic_reporting_its_own_models_went_rogue/) |
+| 2026-07-31 | Anthropic finally launched a financial literacy toy for young AI engineers | Reddit | Business | social | 2026-07-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vbrwxt/anthropic_finally_launched_a_financial_literacy/) |
+| 2026-07-31 | I close every Claude session with the same two questions and it keeps catching things I would have s | Reddit | Business | social | 2026-07-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vbkq6o/i_close_every_claude_session_with_the_same_two/) |
+| 2026-07-31 | Is Opus 5 actually that bad, or is it just Reddit hype? | Reddit | Business | social | 2026-07-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vbdp39/is_opus_5_actually_that_bad_or_is_it_just_reddit/) |
+| 2026-07-31 | Whoever popularized the "adversarial reviewer" skill pattern, thank you, it fixed the one thing I co | Reddit | Business | social | 2026-07-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vc11nl/whoever_popularized_the_adversarial_reviewer/) |
+| 2026-07-31 | $200 subscription vs $7,470 of API usage | Reddit | Business | social | 2026-07-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vbvdzl/200_subscription_vs_7470_of_api_usage/) |
+| 2026-07-31 | I'm not a developer. I built a 537-member campaign finance tracker with Claude. | Reddit | Business | social | 2026-07-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vc2oma/im_not_a_developer_i_built_a_537member_campaign/) |
+| 2026-07-31 | $1000 in Claude Credits to create my dream game, how badly did I overpay? | Reddit | Business | social | 2026-07-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vc2aw2/1000_in_claude_credits_to_create_my_dream_game/) |
+| 2026-07-31 | I've just build a Worms Armageddon clone with one single prompt. Agentic loops are mind blowing 🤯 | Reddit | Business | social | 2026-07-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vbjryq/ive_just_build_a_worms_armageddon_clone_with_one/) |
+| 2026-07-31 | Is the Claude Max 20 quota draining unreasonably fast for anyone else? Lost 21% in 7 minutes | Reddit | Business | social | 2026-07-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vbs810/is_the_claude_max_20_quota_draining_unreasonably/) |
+| 2026-07-31 | Fable when analyzing its own code | Reddit | Business | social | 2026-07-31 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vbt8gm/fable_when_analyzing_its_own_code/) |
+| 2026-07-31 | I turned a Spotify Car Thing into Claude Thing | Reddit | Business | social | 2026-07-31 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vc3668/i_turned_a_spotify_car_thing_into_claude_thing/) |
+| 2026-07-31 | Going back to 4.8 due to Opus 5 word salad? | Reddit | Business | social | 2026-07-31 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vbx7a7/going_back_to_48_due_to_opus_5_word_salad/) |
+| 2026-07-31 | Run Opus 5 in low effort | Reddit | Business | social | 2026-07-31 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vbvsr0/run_opus_5_in_low_effort/) |
+| 2026-07-31 | I compared Opus 5 vs Opus 4.6 on the exact same prompt, the difference in response surprised me | Reddit | Business | social | 2026-07-31 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vbr2hd/i_compared_opus_5_vs_opus_46_on_the_exact_same/) |
+| 2026-07-31 | Dataview is a blessing | Reddit | Business | social | 2026-07-31 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vbx98b/dataview_is_a_blessing/) |
+| 2026-07-31 | You All Say the Graph Is Useless, Let Me Show You How to Use It (Graph View) | Reddit | Business | social | 2026-07-31 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vbxnmo/you_all_say_the_graph_is_useless_let_me_show_you/) |
+| 2026-07-31 | Isinglass - a new minimalist frosted-glass transparent theme for simpletons like me | Reddit | Business | social | 2026-07-31 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vbb7h8/isinglass_a_new_minimalist_frostedglass/) |
+| 2026-07-31 | plotting wikipedia's knowledge graph | Reddit | Business | social | 2026-07-31 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vbnnnx/plotting_wikipedias_knowledge_graph/) |
+| 2026-07-31 | How much text is too much in frontmatter? | Reddit | Business | social | 2026-07-31 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vbfj4o/how_much_text_is_too_much_in_frontmatter/) |
+| 2026-07-31 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-30 | UEFA and its national associations will not participate in FIFA competitions | HN | Technology | tech | 2026-07-30 | [link](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/) |
 | 2026-07-30 | Read this before you buy that TV streaming stick | HN | Technology | tech | 2026-07-30 | [link](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) |
 | 2026-07-30 | Stacked PRs are now live on GitHub | HN | Technology | tech | 2026-07-30 | [link](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) |

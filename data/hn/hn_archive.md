@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-07-31 · 450 days · 4500 stories*
+*Last updated: 2026-08-01 · 451 days · 4510 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-07-31 | Friday | 1 | Elevators | 1301 | 317 | Technology | [link](https://john.fun/elevators) · [HN](https://news.ycombinator.com/item?id=49124218) |
+| 2026-07-31 | Friday | 2 | DeepSeek-V4-Flash Update | 700 | 332 | Technology | [link](https://api-docs.deepseek.com/updates/) · [HN](https://news.ycombinator.com/item?id=49119559) |
+| 2026-07-31 | Friday | 3 | qm – Multiplayer agent harness for work | 573 | 117 | Technology | [link](https://github.com/yc-software/qm) · [HN](https://news.ycombinator.com/item?id=49126604) |
+| 2026-07-31 | Friday | 4 | DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis | 558 | 297 | Technology | [link](https://artificialanalysis.ai/models/deepseek-v4-flash) · [HN](https://news.ycombinator.com/item?id=49120299) |
+| 2026-07-31 | Friday | 5 | Tailscale didn't stop the Hugging Face intrusion | 551 | 204 | Technology | [link](https://tailscale.com/blog/hugging-face-intrusion) · [HN](https://news.ycombinator.com/item?id=49127306) |
+| 2026-07-31 | Friday | 6 | Google fixed more Chrome bugs in June than over the past two years, thanks to AI | 519 | 532 | Technology | [link](https://blog.google/security/chrome-stronger-with-every-update/) · [HN](https://news.ycombinator.com/item?id=49120097) |
+| 2026-07-31 | Friday | 7 | The End of an Era | 410 | 430 | Technology | [link](https://hughhowey.com/the-end-of-an-era/) · [HN](https://news.ycombinator.com/item?id=49121980) |
+| 2026-07-31 | Friday | 8 | Run Kimi K3 using 29 GB of RAM at 0.50 tok/s | 250 | 105 | Technology | [link](https://github.com/sqliteai/waste) · [HN](https://news.ycombinator.com/item?id=49123386) |
+| 2026-07-31 | Friday | 9 | Severance | 243 | 80 | Technology | [link](https://lcamtuf.substack.com/p/severance) · [HN](https://news.ycombinator.com/item?id=49125971) |
+| 2026-07-31 | Friday | 10 | JEP 401: Value Objects (Preview) merged to OpenJDK master | 233 | 154 | Technology | [link](https://github.com/openjdk/jdk/pull/31120) · [HN](https://news.ycombinator.com/item?id=49119063) |
 | 2026-07-30 | Thursday | 1 | UEFA and its national associations will not participate in FIFA competitions | 1031 | 561 | Technology | [link](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/) · [HN](https://news.ycombinator.com/item?id=49113929) |
 | 2026-07-30 | Thursday | 2 | Read this before you buy that TV streaming stick | 716 | 427 | Technology | [link](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) · [HN](https://news.ycombinator.com/item?id=49112744) |
 | 2026-07-30 | Thursday | 3 | Stacked PRs are now live on GitHub | 643 | 226 | Technology | [link](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) · [HN](https://news.ycombinator.com/item?id=49112232) |
