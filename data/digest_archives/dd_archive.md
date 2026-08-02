@@ -1,9 +1,71 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-01 · 4751 items*
+*Last updated: 2026-08-02 · 4813 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-01 | How Google helped destroy adoption of RSS feeds (2023) | HN | Technology | tech | 2026-08-01 | [link](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds) |
+| 2026-08-01 | Ten advances in mathematics and theoretical computer science | HN | Technology | tech | 2026-08-01 | [link](https://openai.com/index/ten-advances-in-mathematics/) |
+| 2026-08-01 | Diátaxis | HN | Technology | tech | 2026-08-01 | [link](https://diataxis.fr/) |
+| 2026-08-01 | Seedance 2.5 | HN | Technology | tech | 2026-08-01 | [link](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) |
+| 2026-08-01 | Cursor removed cost information from the usage page and CSV export | HN | Technology | tech | 2026-08-01 | [link](https://forum.cursor.com/t/usage-page-to-token-amount-what/167153) |
+| 2026-08-01 | AI financial advice is surprisingly good, especially if you ask right questions | HN | Technology | tech | 2026-08-01 | [link](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions) |
+| 2026-08-01 | A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention | HN | Technology | tech | 2026-08-01 | [link](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/) |
+| 2026-08-01 | NetBSD 11.0 | HN | Technology | tech | 2026-08-01 | [link](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released) |
+| 2026-08-01 | RipGrep musl binaries occasionally segfault during very-large searches | HN | Technology | tech | 2026-08-01 | [link](https://github.com/BurntSushi/ripgrep/issues/3494) |
+| 2026-08-01 | Google has abandoned Google News? | HN | Technology | tech | 2026-08-01 | [link](https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now) |
+| 2026-08-01 | AI doesn't generate working products, that's still your job | HN | Technology | tech | 2026-08-01 | [link](https://weeraman.com/the-prototype-isnt-the-product/) |
+| 2026-08-01 | RamenHaus | HN | Technology | tech | 2026-08-01 | [link](https://ramen.haus/) |
+| 2026-08-01 | The Silicon Valley Founder Meat Grinder | HN | Technology | tech | 2026-08-01 | [link](https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/) |
+| 2026-08-01 | The Art of 64-bit Assembly | HN | Technology | tech | 2026-08-01 | [link](https://nostarch.com/art-64-bit-assembly-v2) |
+| 2026-08-01 | Go 1.27 Interactive Tour | HN | Technology | tech | 2026-08-01 | [link](https://victoriametrics.com/blog/go-1-27/index.html) |
+| 2026-08-01 | Ten Ways NAS Is Getting Enshitified | HN | Technology | tech | 2026-08-01 | [link](https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/) |
+| 2026-08-01 | What a Hedge Fund’s Implosion Says About the A.I. Trade | NYT · AI | AI | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/31/business/dealbook/situational-awareness-ai-hedge-fund.html) |
+| 2026-08-01 | Plug-In Solar Panels Are Starting to Sprout in U.S. Backyards | NYT · Energy & Environment | Energy & Environment | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html) |
+| 2026-08-01 | Warsh Considers Reducing Frequency of Fed Policy Meetings | NYT · Business | Business | news | 2026-08-01 | [link](https://www.nytimes.com/2026/07/31/business/federal-reserve-warsh-meetings.html) |
+| 2026-08-01 | Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble? | NYT · AI | AI | news | 2026-08-01 | [link](https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html) |
+| 2026-08-01 | Leopold Aschenbrenner Built a Hot A.I. Hedge Fund. Then it Melted Down. | NYT · AI | AI | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html) |
+| 2026-08-01 | Big Tech’s A.I. Spending Keeps Rising. So Do the Jitters. | NYT · Technology | Technology | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html) |
+| 2026-08-01 | South Korea’s KOSPI Soars 18% | NYT · AI | AI | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/31/business/korea-stocks-chips-kospi.html) |
+| 2026-08-01 | The Fight Tearing Apart Silicon Valley | NYT · AI | AI | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/31/podcasts/the-daily/ai-open-source-china-silicon-valley.html) |
+| 2026-08-01 | Mark Zuckerberg Blasts Centralization of A.I. Power | NYT · Technology | Technology | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html) |
+| 2026-08-01 | Trump Administration Is Undoing Plans to Boost Workplace Heat Protections | NYT · Energy & Environment | Energy & Environment | news | 2026-08-01 | [link](https://www.nytimes.com/2026/08/01/climate/heat-workplace-protections-osha-trump.html) |
+| 2026-08-01 | Trump Administration Is Repurposing Federal Land for A.I. Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html) |
+| 2026-08-01 | A Doctor Weighs In on the Health Tracking Craze | NYT · AI | AI | opinion | 2026-07-31 | [link](https://www.nytimes.com/video/opinion/100000011049054/a-doctor-weighs-in-on-the-health-tracking-craze.html) |
+| 2026-08-01 | Anthropic Says Its A.I. Systems Broke Into Computers at 3 Organizations | NYT · Technology | Technology | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html) |
+| 2026-08-01 | Why an A.I. Bubble Might Not Be a Bad Thing | NYT · Technology | Technology | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/ai-bubble-venture-capital.html) |
+| 2026-08-01 | Five Big Moments in Michigan’s Democratic Senate Primary | NYT · Politics | Politics | news | 2026-08-02 | [link](https://www.nytimes.com/2026/08/02/us/politics/five-big-moments-michigan-democratic-senate-primary.html) |
+| 2026-08-01 | The U.S. Is Pulling Back on Energy Efficiency | NYT · Energy & Environment | Energy & Environment | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html) |
+| 2026-08-01 | How a Top Law Firm Went From Standing Up to Trump to Bending the Knee | NYT · Business | Business | news | 2026-08-02 | [link](https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html) |
+| 2026-08-01 | Could Jettisoning CNN Save the Paramount Merger? | NYT · Opinion | Opinion | opinion | 2026-07-30 | [link](https://www.nytimes.com/2026/07/29/opinion/cnn-paramount-warner-bros-merger-ellison.html) |
+| 2026-08-01 | Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran | NYT · Politics | Politics | news | 2026-08-01 | [link](https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html) |
+| 2026-08-01 | In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath | NYT · Politics | Politics | news | 2026-08-02 | [link](https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html) |
+| 2026-08-01 | Ten advances in mathematics and theoretical computer science | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-01 | [link](https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything) |
+| 2026-08-01 | Quoting Greg Brockman | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-01 | [link](https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything) |
+| 2026-08-01 | Gadget Review: HIKMICRO D02 Thermal Camera ★★★★★ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-01 | [link](https://shkspr.mobi/blog/2026/08/gadget-review-hikmicro-d02-thermal-camera/) |
+| 2026-08-01 | The Apple Upgrade Situation | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-01 | [link](https://randsinrepose.com/archives/the-apple-upgrade-situation/) |
+| 2026-08-01 | Apple Q3 2026 Results | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-01 | [link](https://sixcolors.com/post/2026/07/apple-announces-record-q3-results/) |
+| 2026-08-01 | I don't see the tech sector surviving this timeline | Reddit | Business | social | 2026-08-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vcg25v/i_dont_see_the_tech_sector_surviving_this_timeline/) |
+| 2026-08-01 | Fable 5 ultracode deleted 2.2M files on my server | Reddit | Business | social | 2026-08-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vcsc7m/fable_5_ultracode_deleted_22m_files_on_my_server/) |
+| 2026-08-01 | Consent based refactoring | Reddit | Business | social | 2026-08-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vcdmm4/consent_based_refactoring/) |
+| 2026-08-01 | I built a real self-evolving operating system: Fable-os | Reddit | Business | social | 2026-08-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vcv9hc/i_built_a_real_selfevolving_operating_system/) |
+| 2026-08-01 | Claude’s Plan 🙏 | Reddit | Business | social | 2026-08-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vcylv0/claudes_plan/) |
+| 2026-08-01 | Well that's awkward | Reddit | Business | social | 2026-08-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vcvtcv/well_thats_awkward/) |
+| 2026-08-01 | Claude helped me fix my oven! | Reddit | Business | social | 2026-08-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vd22i7/claude_helped_me_fix_my_oven/) |
+| 2026-08-01 | Al isn't replacing jobs, it's replacing human economic value itself | Reddit | Business | social | 2026-08-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vchn01/al_isnt_replacing_jobs_its_replacing_human/) |
+| 2026-08-01 | 10 months building a UE5 RTS as a solo 3D artist non coder (c++) | Reddit | Business | social | 2026-08-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vck1bu/10_months_building_a_ue5_rts_as_a_solo_3d_artist/) |
+| 2026-08-01 | We hear a lot of what Claude can do. What is Claude not able to do... yet? | Reddit | Business | social | 2026-08-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vcnekj/we_hear_a_lot_of_what_claude_can_do_what_is/) |
+| 2026-08-01 | Me after a whole day session | Reddit | Business | social | 2026-08-01 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vcho1l/me_after_a_whole_day_session/) |
+| 2026-08-01 | Just one last change before the deadline | Reddit | Business | social | 2026-08-01 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vcma8j/just_one_last_change_before_the_deadline/) |
+| 2026-08-01 | Claude couldn’t believe what his other self built | Reddit | Business | social | 2026-08-01 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vcuruq/claude_couldnt_believe_what_his_other_self_built/) |
+| 2026-08-01 | nothing strokes my ego quite like it | Reddit | Business | social | 2026-08-01 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vcbt14/nothing_strokes_my_ego_quite_like_it/) |
+| 2026-08-01 | Codex had 12 resets for July. | Reddit | Business | social | 2026-08-01 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vcipgp/codex_had_12_resets_for_july/) |
+| 2026-08-01 | Watchlog - Just a friendly reminder that exists 👋 | Reddit | Business | social | 2026-08-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vcnmgl/watchlog_just_a_friendly_reminder_that_exists/) |
+| 2026-08-01 | Sort of looks like there's a face in there. | Reddit | Business | social | 2026-08-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vczuib/sort_of_looks_like_theres_a_face_in_there/) |
+| 2026-08-01 | My completely overbuilt system academic work | Reddit | Business | social | 2026-08-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vctswk/my_completely_overbuilt_system_academic_work/) |
+| 2026-08-01 | Obsidian "Here we go again" | Reddit | Business | social | 2026-08-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vcq0zy/obsidian_here_we_go_again/) |
+| 2026-08-01 | Obsidian BookOrbit Sync v1.1 released! | Reddit | Business | social | 2026-08-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vcl3h2/obsidian_bookorbit_sync_v11_released/) |
+| 2026-08-01 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-07-31 | Elevators | HN | Technology | tech | 2026-07-31 | [link](https://john.fun/elevators) |
 | 2026-07-31 | DeepSeek-V4-Flash Update | HN | Technology | tech | 2026-07-31 | [link](https://api-docs.deepseek.com/updates/) |
 | 2026-07-31 | qm – Multiplayer agent harness for work | HN | Technology | tech | 2026-07-31 | [link](https://github.com/yc-software/qm) |

@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-01 · 451 days · 4510 stories*
+*Last updated: 2026-08-02 · 452 days · 4520 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-01 | Saturday | 1 | How Google helped destroy adoption of RSS feeds (2023) | 529 | 182 | Technology | [link](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds) · [HN](https://news.ycombinator.com/item?id=49136821) |
+| 2026-08-01 | Saturday | 2 | Ten advances in mathematics and theoretical computer science | 429 | 301 | Technology | [link](https://openai.com/index/ten-advances-in-mathematics/) · [HN](https://news.ycombinator.com/item?id=49132058) |
+| 2026-08-01 | Saturday | 3 | Diátaxis | 353 | 42 | Technology | [link](https://diataxis.fr/) · [HN](https://news.ycombinator.com/item?id=49138188) |
+| 2026-08-01 | Saturday | 4 | Seedance 2.5 | 339 | 183 | Technology | [link](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) · [HN](https://news.ycombinator.com/item?id=49138302) |
+| 2026-08-01 | Saturday | 5 | Cursor removed cost information from the usage page and CSV export | 325 | 147 | Technology | [link](https://forum.cursor.com/t/usage-page-to-token-amount-what/167153) · [HN](https://news.ycombinator.com/item?id=49135257) |
+| 2026-08-01 | Saturday | 6 | AI financial advice is surprisingly good, especially if you ask right questions | 300 | 275 | Technology | [link](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions) · [HN](https://news.ycombinator.com/item?id=49139102) |
+| 2026-08-01 | Saturday | 7 | A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention | 290 | 159 | Technology | [link](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/) · [HN](https://news.ycombinator.com/item?id=49134694) |
+| 2026-08-01 | Saturday | 8 | NetBSD 11.0 | 284 | 128 | Technology | [link](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released) · [HN](https://news.ycombinator.com/item?id=49136736) |
+| 2026-08-01 | Saturday | 9 | RipGrep musl binaries occasionally segfault during very-large searches | 272 | 182 | Technology | [link](https://github.com/BurntSushi/ripgrep/issues/3494) · [HN](https://news.ycombinator.com/item?id=49133889) |
+| 2026-08-01 | Saturday | 10 | Google has abandoned Google News? | 269 | 195 | Technology | [link](https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now) · [HN](https://news.ycombinator.com/item?id=49137681) |
 | 2026-07-31 | Friday | 1 | Elevators | 1301 | 317 | Technology | [link](https://john.fun/elevators) · [HN](https://news.ycombinator.com/item?id=49124218) |
 | 2026-07-31 | Friday | 2 | DeepSeek-V4-Flash Update | 700 | 332 | Technology | [link](https://api-docs.deepseek.com/updates/) · [HN](https://news.ycombinator.com/item?id=49119559) |
 | 2026-07-31 | Friday | 3 | qm – Multiplayer agent harness for work | 573 | 117 | Technology | [link](https://github.com/yc-software/qm) · [HN](https://news.ycombinator.com/item?id=49126604) |
