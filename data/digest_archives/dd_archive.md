@@ -1,9 +1,66 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-02 · 4813 items*
+*Last updated: 2026-08-03 · 4870 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-02 | Karpathy’s Pelican | HN | Technology | tech | 2026-08-02 | [link](https://twitter.com/karpathy/status/2083749667410727319) |
+| 2026-08-02 | Qwen3.8-Max: A New Bar for Coding and Cowork | HN | Technology | tech | 2026-08-02 | [link](https://qwen.ai/blog?id=qwen3.8) |
+| 2026-08-02 | Wikimedia Foundation refuses union recognition, hires union-busting law firm | HN | Technology | tech | 2026-08-02 | [link](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes) |
+| 2026-08-02 | 'Crush this lady': how eBay harassment campaign led to $56M payout | HN | Technology | tech | 2026-08-02 | [link](https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2) |
+| 2026-08-02 | Show HN: Isopolis – Isometric pixel map of SF | HN | Technology | tech | 2026-08-02 | [link](https://sf.isopolis.city/) |
+| 2026-08-02 | Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM | HN | Technology | tech | 2026-08-02 | [link](https://github.com/wie-project/kakehashi) |
+| 2026-08-02 | How the words we teach English language learners changed | HN | Technology | tech | 2026-08-02 | [link](https://pudding.cool/2026/07/essential-words/) |
+| 2026-08-02 | Running Kimi K3 on MI355X at Better Performance per Dollar Than B300 | HN | Technology | tech | 2026-08-02 | [link](https://www.wafer.ai/blog/kimi-k3-mi355x) |
+| 2026-08-02 | EU Age Verification Project Mandates Hardware-Bound Attestation | HN | Technology | tech | 2026-08-02 | [link](https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/) |
+| 2026-08-02 | SwiftUI After 7 Years | HN | Technology | tech | 2026-08-02 | [link](https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/) |
+| 2026-08-02 | US Treasury undertakes historic intervention in yen market | HN | Technology | tech | 2026-08-02 | [link](https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8) |
+| 2026-08-02 | Meshdiff – visually compare two STL versions in the browser, client-side | HN | Technology | tech | 2026-08-02 | [link](https://meshdiff.com/) |
+| 2026-08-02 | F*: A general-purpose proof-oriented programming language | HN | Technology | tech | 2026-08-02 | [link](https://fstar-lang.org/) |
+| 2026-08-02 | OpenAI's super PAC is funding AI-generated news site attacking industry critics | HN | Technology | tech | 2026-08-02 | [link](https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda) |
+| 2026-08-02 | Show HN: Bor – Open-source policy management for Linux desktops | HN | Technology | tech | 2026-08-02 | [link](https://getbor.dev/blog/2026-08-02-bor-v080-release/) |
+| 2026-08-02 | Twenty Years of RISC OS Open | HN | Technology | tech | 2026-08-02 | [link](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open) |
+| 2026-08-02 | Why State Ownership of A.I. Is a Bad Idea | NYT · AI | AI | opinion | 2026-08-03 | [link](https://www.nytimes.com/2026/08/03/opinion/ai-nationalization-government-tech.html) |
+| 2026-08-02 | Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble? | NYT · AI | AI | news | 2026-08-02 | [link](https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html) |
+| 2026-08-02 | A Reading List for Our Age of A.I. | NYT · AI | AI | opinion | 2026-08-03 | [link](https://www.nytimes.com/2026/08/03/opinion/artificial-intelligence-data-politics.html) |
+| 2026-08-02 | The German Auto Industry, a Pillar of the National Psyche, Is Trembling | NYT · Technology | Technology | news | 2026-08-02 | [link](https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html) |
+| 2026-08-02 | Is A.I. ‘Scheming’ Against Us? | NYT · AI | AI | news | 2026-08-01 | [link](https://www.nytimes.com/2026/08/01/business/ai-scheming.html) |
+| 2026-08-02 | Nanit and Other Baby-Tracking Start-Ups Eye Collecting Even More Data | NYT · AI | AI | news | 2026-08-02 | [link](https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html) |
+| 2026-08-02 | Plug-In Solar Panels Are Starting to Sprout in U.S. Backyards | NYT · Energy & Environment | Energy & Environment | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html) |
+| 2026-08-02 | Leopold Aschenbrenner Built a Hot A.I. Hedge Fund. Then it Melted Down. | NYT · AI | AI | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html) |
+| 2026-08-02 | Big Tech’s A.I. Spending Keeps Rising. So Do the Jitters. | NYT · Technology | Technology | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html) |
+| 2026-08-02 | How a Top Law Firm Went From Standing Up to Trump to Bending the Knee | NYT · Business | Business | news | 2026-08-02 | [link](https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html) |
+| 2026-08-02 | If You Can’t Beat A.I., Outdress It, Tech Firms and Their Swag Say | NYT · AI | AI | news | 2026-08-03 | [link](https://www.nytimes.com/2026/08/03/technology/ai-tech-firms-swag-merchandise.html) |
+| 2026-08-02 | Mark Zuckerberg Blasts Centralization of A.I. Power | NYT · Technology | Technology | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html) |
+| 2026-08-02 | Five Big Moments in Michigan’s Democratic Senate Primary | NYT · Politics | Politics | news | 2026-08-02 | [link](https://www.nytimes.com/2026/08/02/us/politics/five-big-moments-michigan-democratic-senate-primary.html) |
+| 2026-08-02 | Trump Administration Is Repurposing Federal Land for A.I. Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html) |
+| 2026-08-02 | The U.S. Is Pulling Back on Energy Efficiency | NYT · Energy & Environment | Energy & Environment | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html) |
+| 2026-08-02 | Anthropic Says Its A.I. Systems Broke Into Computers at 3 Organizations | NYT · Technology | Technology | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html) |
+| 2026-08-02 | She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail. | NYT · Politics | Politics | news | 2026-08-02 | [link](https://www.nytimes.com/2026/08/01/us/politics/collins-kavanaugh-vote-roe-v-wade.html) |
+| 2026-08-02 | Can We Keep One Small Corner of America Technology-Free? | NYT · AI | AI | opinion | 2026-08-02 | [link](https://www.nytimes.com/2026/08/02/opinion/baseball-robot-umpires-ai.html) |
+| 2026-08-02 | Why an A.I. Bubble Might Not Be a Bad Thing | NYT · Technology | Technology | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/ai-bubble-venture-capital.html) |
+| 2026-08-02 | Trump Administration Is Undoing Plans to Boost Workplace Heat Protections | NYT · Energy & Environment | Energy & Environment | news | 2026-08-01 | [link](https://www.nytimes.com/2026/08/01/climate/heat-workplace-protections-osha-trump.html) |
+| 2026-08-02 | Open letters about AI development | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-02 | [link](https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything) |
+| 2026-08-02 | condense-json 1.0 | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-02 | [link](https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything) |
+| 2026-08-02 | How fast is C++26’s std::hive? | Lemire.me · Tech & Engineering | Technology | tech | 2026-08-02 | [link](https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/) |
+| 2026-08-02 | 7 days without a claude code update, are they re-writing it in rust or something? | Reddit | Business | social | 2026-08-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vdk55g/7_days_without_a_claude_code_update_are_they/) |
+| 2026-08-02 | Warning for those that haven't experienced this yet. | Reddit | Business | social | 2026-08-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vdtzhm/warning_for_those_that_havent_experienced_this_yet/) |
+| 2026-08-02 | CLAUDE.md for Opus 5 based on Anthropic's official platform docs to fix verbosity and more. | Reddit | Business | social | 2026-08-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vd57c0/claudemd_for_opus_5_based_on_anthropics_official/) |
+| 2026-08-02 | Claude Code just randomly spat out Kimi K2 Thinking output mid-response | Reddit | Business | social | 2026-08-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vdbtzy/claude_code_just_randomly_spat_out_kimi_k2/) |
+| 2026-08-02 | NotchBasket – a 1 MB basketball hoop for your Mac, for while your AI codes | Reddit | Business | social | 2026-08-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vdfd8j/notchbasket_a_1_mb_basketball_hoop_for_your_mac/) |
+| 2026-08-02 | I switched to sonnet 5 and now my max sub is unlimited | Reddit | Business | social | 2026-08-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vdvgo6/i_switched_to_sonnet_5_and_now_my_max_sub_is/) |
+| 2026-08-02 | What files do you keep besides CLAUDE.md? | Reddit | Business | social | 2026-08-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vdhjm3/what_files_do_you_keep_besides_claudemd/) |
+| 2026-08-02 | I went to an Anthropic Hackathon and won! | Reddit | Business | social | 2026-08-02 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vdksco/i_went_to_an_anthropic_hackathon_and_won/) |
+| 2026-08-02 | Claude models cooked by chinese model | Reddit | Business | social | 2026-08-02 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vd5y8i/claude_models_cooked_by_chinese_model/) |
+| 2026-08-02 | Fable is the only model to use if you want to maintain sanity | Reddit | Business | social | 2026-08-02 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vded23/fable_is_the_only_model_to_use_if_you_want_to/) |
+| 2026-08-02 | Opus 5 is just dumb | Reddit | Business | social | 2026-08-02 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vdq86b/opus_5_is_just_dumb/) |
+| 2026-08-02 | ClaudeCode and Codex working on the same Project | Reddit | Business | social | 2026-08-02 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vdpqsl/claudecode_and_codex_working_on_the_same_project/) |
+| 2026-08-02 | Word-Smith 1.1.3 has a customizable POWERLINE now + much much more! | Reddit | Business | social | 2026-08-02 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vdqb47/wordsmith_113_has_a_customizable_powerline_now/) |
+| 2026-08-02 | What do you think about my Gamified vault | Reddit | Business | social | 2026-08-02 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vdp96b/what_do_you_think_about_my_gamified_vault/) |
+| 2026-08-02 | I built an overlap between mymind and Recall, but everything stays in my Obsidian vault | Reddit | Business | social | 2026-08-02 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vdotva/i_built_an_overlap_between_mymind_and_recall_but/) |
+| 2026-08-02 | I made AutoDater to keep Created and Updated dates in my notes | Reddit | Business | social | 2026-08-02 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vd4375/i_made_autodater_to_keep_created_and_updated/) |
+| 2026-08-02 | Alternatives for Project Management | Reddit | Business | social | 2026-08-02 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vdwswl/alternatives_for_project_management/) |
+| 2026-08-02 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-01 | How Google helped destroy adoption of RSS feeds (2023) | HN | Technology | tech | 2026-08-01 | [link](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds) |
 | 2026-08-01 | Ten advances in mathematics and theoretical computer science | HN | Technology | tech | 2026-08-01 | [link](https://openai.com/index/ten-advances-in-mathematics/) |
 | 2026-08-01 | Diátaxis | HN | Technology | tech | 2026-08-01 | [link](https://diataxis.fr/) |

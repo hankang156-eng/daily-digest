@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-02 · 452 days · 4520 stories*
+*Last updated: 2026-08-03 · 453 days · 4530 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-02 | Sunday | 1 | Karpathy’s Pelican | 570 | 389 | Technology | [link](https://twitter.com/karpathy/status/2083749667410727319) · [HN](https://news.ycombinator.com/item?id=49140998) |
+| 2026-08-02 | Sunday | 2 | Qwen3.8-Max: A New Bar for Coding and Cowork | 565 | 284 | Technology | [link](https://qwen.ai/blog?id=qwen3.8) · [HN](https://news.ycombinator.com/item?id=49150470) |
+| 2026-08-02 | Sunday | 3 | Wikimedia Foundation refuses union recognition, hires union-busting law firm | 335 | 319 | Technology | [link](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes) · [HN](https://news.ycombinator.com/item?id=49143414) |
+| 2026-08-02 | Sunday | 4 | 'Crush this lady': how eBay harassment campaign led to $56M payout | 236 | 119 | Technology | [link](https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2) · [HN](https://news.ycombinator.com/item?id=49147435) |
+| 2026-08-02 | Sunday | 5 | Show HN: Isopolis – Isometric pixel map of SF | 221 | 49 | Technology | [link](https://sf.isopolis.city/) · [HN](https://news.ycombinator.com/item?id=49149966) |
+| 2026-08-02 | Sunday | 6 | Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM | 220 | 55 | Technology | [link](https://github.com/wie-project/kakehashi) · [HN](https://news.ycombinator.com/item?id=49145937) |
+| 2026-08-02 | Sunday | 7 | How the words we teach English language learners changed | 219 | 169 | Technology | [link](https://pudding.cool/2026/07/essential-words/) · [HN](https://news.ycombinator.com/item?id=49145590) |
+| 2026-08-02 | Sunday | 8 | Running Kimi K3 on MI355X at Better Performance per Dollar Than B300 | 207 | 101 | Technology | [link](https://www.wafer.ai/blog/kimi-k3-mi355x) · [HN](https://news.ycombinator.com/item?id=49141073) |
+| 2026-08-02 | Sunday | 9 | EU Age Verification Project Mandates Hardware-Bound Attestation | 205 | 137 | Technology | [link](https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/) · [HN](https://news.ycombinator.com/item?id=49148128) |
+| 2026-08-02 | Sunday | 10 | SwiftUI After 7 Years | 194 | 179 | Technology | [link](https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/) · [HN](https://news.ycombinator.com/item?id=49147263) |
 | 2026-08-01 | Saturday | 1 | How Google helped destroy adoption of RSS feeds (2023) | 529 | 182 | Technology | [link](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds) · [HN](https://news.ycombinator.com/item?id=49136821) |
 | 2026-08-01 | Saturday | 2 | Ten advances in mathematics and theoretical computer science | 429 | 301 | Technology | [link](https://openai.com/index/ten-advances-in-mathematics/) · [HN](https://news.ycombinator.com/item?id=49132058) |
 | 2026-08-01 | Saturday | 3 | Diátaxis | 353 | 42 | Technology | [link](https://diataxis.fr/) · [HN](https://news.ycombinator.com/item?id=49138188) |
