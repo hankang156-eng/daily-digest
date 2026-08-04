@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-03 · 453 days · 4530 stories*
+*Last updated: 2026-08-04 · 454 days · 4540 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-03 | Monday | 1 | Don't be a meat proxy | 1740 | 704 | Technology | [link](https://gruhn.me/blog/2026-08-03/) · [HN](https://news.ycombinator.com/item?id=49151933) |
+| 2026-08-03 | Monday | 2 | LLMs reward expertise | 948 | 401 | Technology | [link](https://www.seangoedecke.com/llms-reward-expertise/) · [HN](https://news.ycombinator.com/item?id=49161518) |
+| 2026-08-03 | Monday | 3 | SQLite Critical CVEs or LLM Slop? | 711 | 363 | Technology | [link](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/) · [HN](https://news.ycombinator.com/item?id=49154332) |
+| 2026-08-03 | Monday | 4 | Devtools must be open source | 608 | 206 | Technology | [link](https://blog.exe.dev/devtools-must-be-open-source) · [HN](https://news.ycombinator.com/item?id=49156111) |
+| 2026-08-03 | Monday | 5 | Ten advances in mathematics and theoretical computer science | 539 | 828 | Technology | [link](https://openai.com/index/ten-advances-in-mathematics/) · [HN](https://news.ycombinator.com/item?id=49157930) |
+| 2026-08-03 | Monday | 6 | More German than many Germans | 539 | 383 | Technology | [link](https://mertbulan.com/more-german-than-many-germans/) · [HN](https://news.ycombinator.com/item?id=49151734) |
+| 2026-08-03 | Monday | 7 | Prevent cognitive debt by manually retyping LLM-generated code | 484 | 396 | Technology | [link](https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/) · [HN](https://news.ycombinator.com/item?id=49153374) |
+| 2026-08-03 | Monday | 8 | Bonsai: Janestreet's UI Library | 354 | 145 | Technology | [link](https://github.com/janestreet/bonsai) · [HN](https://news.ycombinator.com/item?id=49152842) |
+| 2026-08-03 | Monday | 9 | Wind and solar overtake fossil fuels in Germany for the first time | 350 | 279 | Technology | [link](https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/) · [HN](https://news.ycombinator.com/item?id=49155359) |
+| 2026-08-03 | Monday | 10 | Andy Pavlo joins ClickHouse to establish ClickHouse Labs | 312 | 66 | Technology | [link](https://clickhouse.com/blog/andy-pavlo-joins-clickhouse) · [HN](https://news.ycombinator.com/item?id=49156011) |
 | 2026-08-02 | Sunday | 1 | Karpathy’s Pelican | 570 | 389 | Technology | [link](https://twitter.com/karpathy/status/2083749667410727319) · [HN](https://news.ycombinator.com/item?id=49140998) |
 | 2026-08-02 | Sunday | 2 | Qwen3.8-Max: A New Bar for Coding and Cowork | 565 | 284 | Technology | [link](https://qwen.ai/blog?id=qwen3.8) · [HN](https://news.ycombinator.com/item?id=49150470) |
 | 2026-08-02 | Sunday | 3 | Wikimedia Foundation refuses union recognition, hires union-busting law firm | 335 | 319 | Technology | [link](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes) · [HN](https://news.ycombinator.com/item?id=49143414) |

@@ -1,9 +1,73 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-03 · 4870 items*
+*Last updated: 2026-08-04 · 4934 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-03 | Don't be a meat proxy | HN | Technology | tech | 2026-08-03 | [link](https://gruhn.me/blog/2026-08-03/) |
+| 2026-08-03 | LLMs reward expertise | HN | Technology | tech | 2026-08-03 | [link](https://www.seangoedecke.com/llms-reward-expertise/) |
+| 2026-08-03 | SQLite Critical CVEs or LLM Slop? | HN | Technology | tech | 2026-08-03 | [link](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/) |
+| 2026-08-03 | Devtools must be open source | HN | Technology | tech | 2026-08-03 | [link](https://blog.exe.dev/devtools-must-be-open-source) |
+| 2026-08-03 | Ten advances in mathematics and theoretical computer science | HN | Technology | tech | 2026-08-03 | [link](https://openai.com/index/ten-advances-in-mathematics/) |
+| 2026-08-03 | More German than many Germans | HN | Technology | tech | 2026-08-03 | [link](https://mertbulan.com/more-german-than-many-germans/) |
+| 2026-08-03 | Prevent cognitive debt by manually retyping LLM-generated code | HN | Technology | tech | 2026-08-03 | [link](https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/) |
+| 2026-08-03 | Bonsai: Janestreet's UI Library | HN | Technology | tech | 2026-08-03 | [link](https://github.com/janestreet/bonsai) |
+| 2026-08-03 | Wind and solar overtake fossil fuels in Germany for the first time | HN | Technology | tech | 2026-08-03 | [link](https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/) |
+| 2026-08-03 | Andy Pavlo joins ClickHouse to establish ClickHouse Labs | HN | Technology | tech | 2026-08-03 | [link](https://clickhouse.com/blog/andy-pavlo-joins-clickhouse) |
+| 2026-08-03 | MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video | HN | Technology | tech | 2026-08-03 | [link](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui) |
+| 2026-08-03 | Taylor Farms has rewritten its cyclospora statement four times in sixteen days | HN | Technology | tech | 2026-08-03 | [link](https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/) |
+| 2026-08-03 | Twenty Years of Pandoc | HN | Technology | tech | 2026-08-03 | [link](https://pandoc.org/twenty-years-of-pandoc.html) |
+| 2026-08-03 | ICE Collected Nearly 1M People's DNA Last Year–Including Young Children | HN | Technology | tech | 2026-08-03 | [link](https://www.wired.com/story/ice-dna-collection-fbi-codis/) |
+| 2026-08-03 | Rust project goals: Immobile types and guaranteed destructors | HN | Technology | tech | 2026-08-03 | [link](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md) |
+| 2026-08-03 | AirLLM 70B inference with single 4GB GPU | HN | Technology | tech | 2026-08-03 | [link](https://github.com/lyogavin/airllm) |
+| 2026-08-03 | SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride. | NYT · AI | AI | news | 2026-08-03 | [link](https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html) |
+| 2026-08-03 | Plug-In Solar Panels Are Starting to Sprout in U.S. Backyards | NYT · Energy & Environment | Energy & Environment | news | 2026-08-03 | [link](https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html) |
+| 2026-08-03 | Why State Ownership of A.I. Is a Bad Idea | NYT · AI | AI | opinion | 2026-08-03 | [link](https://www.nytimes.com/2026/08/03/opinion/ai-nationalization-government-tech.html) |
+| 2026-08-03 | White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules | NYT · AI | AI | news | 2026-08-04 | [link](https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html) |
+| 2026-08-03 | How a Top Law Firm Went From Standing Up to Trump to Bending the Knee | NYT · Business | Business | news | 2026-08-03 | [link](https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html) |
+| 2026-08-03 | Want to Fight Back Against Big Tech? Start Here. | NYT · AI | AI | opinion | 2026-08-03 | [link](https://www.nytimes.com/2026/08/03/opinion/artificial-intelligence-data-politics.html) |
+| 2026-08-03 | ICE Killed Him. A.I. Helped Turn Him Into a Folk Ballad, Fast. | NYT · AI | AI | news | 2026-08-03 | [link](https://www.nytimes.com/2026/08/03/us/ai-corridos-song-music-texas-ice-shooting.html) |
+| 2026-08-03 | F.B.I. Agent Is Accused of Stealing Cryptocurrency | NYT · Politics | Politics | news | 2026-08-03 | [link](https://www.nytimes.com/2026/08/03/us/politics/fbi-agent-cryptocurrency.html) |
+| 2026-08-03 | What Are Companies Getting for All That A.I. Spending? | NYT · AI | AI | news | 2026-08-03 | [link](https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html) |
+| 2026-08-03 | If You Can’t Beat A.I., Outdress It, Tech Firms and Their Swag Say | NYT · AI | AI | news | 2026-08-03 | [link](https://www.nytimes.com/2026/08/03/technology/ai-tech-firms-swag-merchandise.html) |
+| 2026-08-03 | The A.I. Revolt Is Here | NYT · AI | AI | opinion | 2026-08-04 | [link](https://www.nytimes.com/2026/08/04/opinion/ezra-klein-podcast-jasmine-sun.html) |
+| 2026-08-03 | What’s It Like to Have an A.I. Boss? | NYT · AI | AI | news | 2026-08-04 | [link](https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html) |
+| 2026-08-03 | I Helped Run Lululemon. The A.I. Revolution Is a Hot Mess. | NYT · AI | AI | opinion | 2026-08-03 | [link](https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html) |
+| 2026-08-03 | Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble? | NYT · AI | AI | news | 2026-08-02 | [link](https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html) |
+| 2026-08-03 | Big Tech’s A.I. Spending Keeps Rising. So Do the Jitters. | NYT · Technology | Technology | news | 2026-07-31 | [link](https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html) |
+| 2026-08-03 | Inside Uber’s Legal Strategy to Fight Sexual Assault Lawsuits | NYT · Business | Business | news | 2026-08-04 | [link](https://www.nytimes.com/video/business/100000011021856/uber-sexual-assault-lawsuits.html) |
+| 2026-08-03 | Boeing’s Smallest 737 Jet Wins F.A.A. Approval | NYT · Business | Business | news | 2026-08-03 | [link](https://www.nytimes.com/2026/08/03/business/boeing-737-max.html) |
+| 2026-08-03 | Trump Administration Is Repurposing Federal Land for A.I. Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html) |
+| 2026-08-03 | The U.S. Is Pulling Back on Energy Efficiency | NYT · Energy & Environment | Energy & Environment | news | 2026-07-21 | [link](https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html) |
+| 2026-08-03 | Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated. | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html) |
+| 2026-08-03 | Weekly Update 515 | Troy Hunt · Security & Privacy | Security | tech | 2026-08-03 | [link](https://www.troyhunt.com/weekly-update-515/) |
+| 2026-08-03 | Welcoming the Nepalese Government to Have I Been Pwned | Troy Hunt · Security & Privacy | Security | tech | 2026-08-03 | [link](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/) |
+| 2026-08-03 | Devtools must be open source (exe.dev) | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-03 | [link](https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything) |
+| 2026-08-03 | Truth Social Launches Paid Early Access to Trump Posts | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-03 | [link](https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading) |
+| 2026-08-03 | [Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-03 | [link](https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) |
+| 2026-08-03 | Don't be a meat proxy | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-03 | [link](https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything) |
+| 2026-08-03 | Book Review: The Field Guide to Understanding 'Human Error' by Sidney Dekker ★★★★☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-03 | [link](https://shkspr.mobi/blog/2026/08/book-review-the-field-guide-to-understanding-human-error-by-sidney-dekker/) |
+| 2026-08-03 | As soon as I hit 90% of the limit | Reddit | Business | social | 2026-08-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1veoqdk/as_soon_as_i_hit_90_of_the_limit/) |
+| 2026-08-03 | GTA 6 first attempt. Far from perfect, but it's impressive what the right harness and agentic loops  | Reddit | Business | social | 2026-08-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ve7u9r/gta_6_first_attempt_far_from_perfect_but_its/) |
+| 2026-08-03 | Opus 5 is just annoying to work with. Back to Opus 4.8 for me. | Reddit | Business | social | 2026-08-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vephjv/opus_5_is_just_annoying_to_work_with_back_to_opus/) |
+| 2026-08-03 | Had claude make a pointless website on friday, it's consumed my whole weekend | Reddit | Business | social | 2026-08-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ve52z4/had_claude_make_a_pointless_website_on_friday_its/) |
+| 2026-08-03 | delete claude.md | Reddit | Business | social | 2026-08-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vdzdgi/delete_claudemd/) |
+| 2026-08-03 | Big D Claude out here shipping and showing off | Reddit | Business | social | 2026-08-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1veltsl/big_d_claude_out_here_shipping_and_showing_off/) |
+| 2026-08-03 | Claude shows its thinking again! | Reddit | Business | social | 2026-08-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ved6x1/claude_shows_its_thinking_again/) |
+| 2026-08-03 | I had Claude read all 1,189 chapters of One Piece and build a foreshadowing encyclopedia. | Reddit | Business | social | 2026-08-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vehxv8/i_had_claude_read_all_1189_chapters_of_one_piece/) |
+| 2026-08-03 | LooPus 5 | Reddit | Business | social | 2026-08-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vdzymf/loopus_5/) |
+| 2026-08-03 | Claude built me a multiplayer ant tree game | Reddit | Business | social | 2026-08-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vec1iw/claude_built_me_a_multiplayer_ant_tree_game/) |
+| 2026-08-03 | My daily routine with Claude | Reddit | Business | social | 2026-08-03 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vefj5u/my_daily_routine_with_claude/) |
+| 2026-08-03 | Don't fumble this | Reddit | Business | social | 2026-08-03 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vei768/dont_fumble_this/) |
+| 2026-08-03 | Opus 5 is a practically unusable model | Reddit | Business | social | 2026-08-03 | [link](https://www.reddit.com/r/ClaudeCode/comments/1veeuy5/opus_5_is_a_practically_unusable_model/) |
+| 2026-08-03 | In SHOCK | Reddit | Business | social | 2026-08-03 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vehupl/in_shock/) |
+| 2026-08-03 | Anthropic Gen-5 (Fable 5 / Opus 5 / Sonnet 5): measurably worse nonsense detection + ~2x verbosity — | Reddit | Business | social | 2026-08-03 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ve9910/anthropic_gen5_fable_5_opus_5_sonnet_5_measurably/) |
+| 2026-08-03 | My Obsidian Workspace | Reddit | Business | social | 2026-08-03 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vekecd/my_obsidian_workspace/) |
+| 2026-08-03 | Is the AI Hype Overblown? | Reddit | Business | social | 2026-08-03 | [link](https://www.reddit.com/r/ObsidianMD/comments/1veguzg/is_the_ai_hype_overblown/) |
+| 2026-08-03 | How do you make Obsidian notes NOT look like a sad Word document? | Reddit | Business | social | 2026-08-03 | [link](https://www.reddit.com/r/ObsidianMD/comments/1veb6wj/how_do_you_make_obsidian_notes_not_look_like_a/) |
+| 2026-08-03 | Just reached 200 notes 🥳 | Reddit | Business | social | 2026-08-03 | [link](https://www.reddit.com/r/ObsidianMD/comments/1veqmlr/just_reached_200_notes/) |
+| 2026-08-03 | What organization method do you use most? | Reddit | Business | social | 2026-08-03 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vdxyj9/what_organization_method_do_you_use_most/) |
+| 2026-08-03 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-02 | Karpathy’s Pelican | HN | Technology | tech | 2026-08-02 | [link](https://twitter.com/karpathy/status/2083749667410727319) |
 | 2026-08-02 | Qwen3.8-Max: A New Bar for Coding and Cowork | HN | Technology | tech | 2026-08-02 | [link](https://qwen.ai/blog?id=qwen3.8) |
 | 2026-08-02 | Wikimedia Foundation refuses union recognition, hires union-busting law firm | HN | Technology | tech | 2026-08-02 | [link](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes) |
