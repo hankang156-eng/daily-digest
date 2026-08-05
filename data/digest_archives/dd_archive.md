@@ -1,9 +1,71 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-04 · 4934 items*
+*Last updated: 2026-08-05 · 4996 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-04 | In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years | HN | Technology | tech | 2026-08-04 | [link](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/) |
+| 2026-08-04 | AI-Generated Images Discourage Me from Reading Your Blog | HN | Technology | tech | 2026-08-04 | [link](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/) |
+| 2026-08-04 | Xbox goes down. You can't play games you own on disc | HN | Technology | tech | 2026-08-04 | [link](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/) |
+| 2026-08-04 | Show HN: Simple algorithm and color space to generate diverse skin tones | HN | Technology | tech | 2026-08-04 | [link](https://toneyalexander.github.io/inclusive-color-space/) |
+| 2026-08-04 | Ray Bradbury's "There Will Come Soft Rains" is set today (2026-08-04) | HN | Technology | tech | 2026-08-04 | [link](https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj) |
+| 2026-08-04 | FFmpeg 9.0 | HN | Technology | tech | 2026-08-04 | [link](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES) |
+| 2026-08-04 | Mistral's Shieldstral: 3B open-weights model for multimodal moderation | HN | Technology | tech | 2026-08-04 | [link](https://mistral.ai/news/shieldstral/) |
+| 2026-08-04 | All of Winona Police Department's Flock cameras cut down and stolen | HN | Technology | tech | 2026-08-04 | [link](https://www.valleynewslive.com/2026/08/04/every-flock-camera-winona-minnesota-cut-down-stolen-coordinated-theft/) |
+| 2026-08-04 | Pi's Minimalism Is Its Advantage | HN | Technology | tech | 2026-08-04 | [link](https://earendil.com/posts/pi-autoresearch-and-databricks/) |
+| 2026-08-04 | DeepSeek V4 Flash on a Single AMD MI300X | HN | Technology | tech | 2026-08-04 | [link](https://github.com/ryanzhou/deepseek-v4-flash-mi300x) |
+| 2026-08-04 | U.S. used 'virtually all' of its long-range precision missiles during Iran war | HN | Technology | tech | 2026-08-04 | [link](https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html) |
+| 2026-08-04 | Apple says more ex-employees may have taken confidential data to OpenAI | HN | Technology | tech | 2026-08-04 | [link](https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/) |
+| 2026-08-04 | Harness engineering for self-improvement | HN | Technology | tech | 2026-08-04 | [link](https://lilianweng.github.io/posts/2026-07-04-harness/) |
+| 2026-08-04 | Thanks FedEx, This Is Why We Keep Getting Phished (2024) | HN | Technology | tech | 2026-08-04 | [link](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/) |
+| 2026-08-04 | Waymo in Dallas | HN | Technology | tech | 2026-08-04 | [link](https://waymo.com/blog/shorts/dallas-open-to-all/) |
+| 2026-08-04 | libexpat now funded by the City of Munich for up to 6 months | HN | Technology | tech | 2026-08-04 | [link](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/) |
+| 2026-08-04 | SpaceX, in First Earnings After IPO, Reports Soaring AI Spending | NYT · AI | AI | news | 2026-08-04 | [link](https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html) |
+| 2026-08-04 | S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease | NYT · AI | AI | news | 2026-08-04 | [link](https://www.nytimes.com/2026/08/04/business/stock-market-record.html) |
+| 2026-08-04 | Judge Sets Paramount-Warner Bros. Merger Trial for March | NYT · Business | Business | news | 2026-08-04 | [link](https://www.nytimes.com/2026/08/04/business/media/paramount-warner-bros-trial-march.html) |
+| 2026-08-04 | Trump’s Push for More A.I. Data Centers Will Mean Major Air Pollution | NYT · AI | AI | news | 2026-08-05 | [link](https://www.nytimes.com/2026/08/05/climate/data-centers-pollution-trump-ai-energy.html) |
+| 2026-08-04 | White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules | NYT · AI | AI | news | 2026-08-04 | [link](https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html) |
+| 2026-08-04 | When A.I. Goes Rogue | NYT · AI | AI | news | 2026-08-05 | [link](https://www.nytimes.com/2026/08/04/world/rogue-ai-agents-cybersecurity-uber.html) |
+| 2026-08-04 | Plug-In Solar Panels Are Starting to Sprout in U.S. Backyards | NYT · Energy & Environment | Energy & Environment | news | 2026-08-03 | [link](https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html) |
+| 2026-08-04 | Trump White House Readies AI Framework to Review Security Risks | NYT · AI | AI | opinion | 2026-08-05 | [link](https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html) |
+| 2026-08-04 | Warsh Wanted ‘Regime Change.’ A Reset Might Need to Come First. | NYT · Business | Business | news | 2026-08-04 | [link](https://www.nytimes.com/2026/08/04/business/kevin-warsh-federal-reserve-markets.html) |
+| 2026-08-04 | I’m Begging You: Never Write With A.I. | NYT · AI | AI | opinion | 2026-08-05 | [link](https://www.nytimes.com/2026/08/04/opinion/artificial-intelligence-ai-writing.html) |
+| 2026-08-04 | Why Wall Street Is Feeling So Bullish | NYT · Business | Business | news | 2026-08-04 | [link](https://www.nytimes.com/2026/08/04/business/dealbook/wall-street-bullish-stocks.html) |
+| 2026-08-04 | In Lawsuit, NJ Accuses Amazon of Suppressing Pay for Delivery Drivers | NYT · Technology | Technology | news | 2026-08-04 | [link](https://www.nytimes.com/2026/08/04/technology/amazon-nj-lawsuit.html) |
+| 2026-08-04 | A Growing Data Center Pollution Threat, and the Last of the Jan. 6 Cases | NYT · AI | AI | news | 2026-08-05 | [link](https://www.nytimes.com/2026/08/05/podcasts/the-headlines/data-center-pollution-threat-last-jan-6-cases-michigan-primary.html) |
+| 2026-08-04 | Chipotle Removes Jalapeños Linked to Salmonella Outbreak From Its Restaurants | NYT · Business | Business | news | 2026-08-05 | [link](https://www.nytimes.com/2026/08/04/us/chipotle-salmonella-outbreak-jalapenos-minnesota.html) |
+| 2026-08-04 | What Was on the Minds of Michigan Voters? Many Cited the Economy and Trump. | NYT · Politics | Politics | news | 2026-08-05 | [link](https://www.nytimes.com/2026/08/04/us/politics/michigan-democratic-primary-top-issues.html) |
+| 2026-08-04 | Why State Ownership of A.I. Is a Bad Idea | NYT · Opinion | Opinion | opinion | 2026-08-04 | [link](https://www.nytimes.com/2026/08/03/opinion/ai-nationalization-government-tech.html) |
+| 2026-08-04 | Inside Uber’s Legal Strategy to Fight Sexual Assault Lawsuits | NYT · Business | Business | news | 2026-08-04 | [link](https://www.nytimes.com/video/business/100000011021856/uber-sexual-assault-lawsuits.html) |
+| 2026-08-04 | Trump Administration Is Repurposing Federal Land for A.I. Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html) |
+| 2026-08-04 | An Angry Trump Struggles to Understand Iran’s Defiant Leaders | NYT · Politics | Politics | news | 2026-08-04 | [link](https://www.nytimes.com/2026/08/04/us/politics/trump-iran.html) |
+| 2026-08-04 | Appeals Court Says E.P.A. Cannot Block Billions in Climate Grants | NYT · Business | Business | news | 2026-08-04 | [link](https://www.nytimes.com/2026/08/04/climate/epa-climate-grants-appeals-court.html) |
+| 2026-08-04 | PipeNetwork/minimax-h3-mlx | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-04 | [link](https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything) |
+| 2026-08-04 | Bending Spoons to Buy Airtable for $1.3 Billion | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-04 | [link](https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/) |
+| 2026-08-04 | New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smart | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-04 | [link](https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything) |
+| 2026-08-04 | TerminalWidget 1.0 | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-04 | [link](https://terminalwidget.app/) |
+| 2026-08-04 | Gig Review: Belle & Sebastian - If You’re Feeling Sinister at Margate Dreamland ★★★★★ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-04 | [link](https://shkspr.mobi/blog/2026/08/gig-review-belle-sebastian-if-youre-feeling-sinister-at-margate-dreamland/) |
+| 2026-08-04 | This CEO challenged Fable to hack it's wallet | Reddit | Business | social | 2026-08-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vfds0c/this_ceo_challenged_fable_to_hack_its_wallet/) |
+| 2026-08-04 | Claude reviewing Codex's code lifted the pass rate from 71.6% to 89.7% | Reddit | Business | social | 2026-08-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vf4apv/claude_reviewing_codexs_code_lifted_the_pass_rate/) |
+| 2026-08-04 | Opus 5 if you forget to tell it to be concise | Reddit | Business | social | 2026-08-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vfly57/opus_5_if_you_forget_to_tell_it_to_be_concise/) |
+| 2026-08-04 | Strange, Creepy Hallucinated Responses? | Reddit | Business | social | 2026-08-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vfble0/strange_creepy_hallucinated_responses/) |
+| 2026-08-04 | Max 20x usage went from 0% to 100% in half an hour while I was not using Claude | Reddit | Business | social | 2026-08-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vf6i4y/max_20x_usage_went_from_0_to_100_in_half_an_hour/) |
+| 2026-08-04 | I built a terminal with Claude to replace Claude Desktop | Reddit | Business | social | 2026-08-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vf1n91/i_built_a_terminal_with_claude_to_replace_claude/) |
+| 2026-08-04 | Introducing the New Frontier of the GPQA-Dumb | Reddit | Business | social | 2026-08-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vf3fqu/introducing_the_new_frontier_of_the_gpqadumb/) |
+| 2026-08-04 | Opus Ultracode is great | Reddit | Business | social | 2026-08-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1veykzm/opus_ultracode_is_great/) |
+| 2026-08-04 | How do you maintain code quality with claude code? | Reddit | Business | social | 2026-08-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vf9mwv/how_do_you_maintain_code_quality_with_claude_code/) |
+| 2026-08-04 | I was talking about space with fable and it said this and it genuinely made me tear up a bit | Reddit | Business | social | 2026-08-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vf362a/i_was_talking_about_space_with_fable_and_it_said/) |
+| 2026-08-04 | Claude Code refused to build a piracy stack, then happily built one after seeing it in a screenshot | Reddit | Business | social | 2026-08-04 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vfmj36/claude_code_refused_to_build_a_piracy_stack_then/) |
+| 2026-08-04 | Anthropic could reduce costs by 50% in Opus 5.1 | Reddit | Business | social | 2026-08-04 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vf6pd9/anthropic_could_reduce_costs_by_50_in_opus_51/) |
+| 2026-08-04 | I asked Claude to code the most pointless website. Here it is | Reddit | Business | social | 2026-08-04 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vewopl/i_asked_claude_to_code_the_most_pointless_website/) |
+| 2026-08-04 | Same study, two subreddits | Reddit | Business | social | 2026-08-04 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vf9kbr/same_study_two_subreddits/) |
+| 2026-08-04 | Claude 1.24012.11 - What the Fuck Happened? | Reddit | Business | social | 2026-08-04 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vff3i5/claude_12401211_what_the_fuck_happened/) |
+| 2026-08-04 | Why do people use a “Second Brain”? What are the real benefits? | Reddit | Business | social | 2026-08-04 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vfdxef/why_do_people_use_a_second_brain_what_are_the/) |
+| 2026-08-04 | current setup | Reddit | Business | social | 2026-08-04 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vex2jk/current_setup/) |
+| 2026-08-04 | How do you guys organize the graph view? | Reddit | Business | social | 2026-08-04 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vf9mwb/how_do_you_guys_organize_the_graph_view/) |
+| 2026-08-04 | Why a separate note/file per day? | Reddit | Business | social | 2026-08-04 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vfnqa0/why_a_separate_notefile_per_day/) |
+| 2026-08-04 | Which side color bar do you think is most helpful & which one looks the best? Any other thoughts? | Reddit | Business | social | 2026-08-04 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vexokv/which_side_color_bar_do_you_think_is_most_helpful/) |
+| 2026-08-04 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-03 | Don't be a meat proxy | HN | Technology | tech | 2026-08-03 | [link](https://gruhn.me/blog/2026-08-03/) |
 | 2026-08-03 | LLMs reward expertise | HN | Technology | tech | 2026-08-03 | [link](https://www.seangoedecke.com/llms-reward-expertise/) |
 | 2026-08-03 | SQLite Critical CVEs or LLM Slop? | HN | Technology | tech | 2026-08-03 | [link](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/) |

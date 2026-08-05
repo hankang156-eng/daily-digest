@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-04 · 454 days · 4540 stories*
+*Last updated: 2026-08-05 · 455 days · 4550 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-04 | Tuesday | 1 | In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years | 1362 | 79 | Technology | [link](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/) · [HN](https://news.ycombinator.com/item?id=49173165) |
+| 2026-08-04 | Tuesday | 2 | AI-Generated Images Discourage Me from Reading Your Blog | 759 | 442 | Technology | [link](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/) · [HN](https://news.ycombinator.com/item?id=49167113) |
+| 2026-08-04 | Tuesday | 3 | Xbox goes down. You can't play games you own on disc | 654 | 683 | Technology | [link](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/) · [HN](https://news.ycombinator.com/item?id=49167448) |
+| 2026-08-04 | Tuesday | 4 | Show HN: Simple algorithm and color space to generate diverse skin tones | 533 | 92 | Technology | [link](https://toneyalexander.github.io/inclusive-color-space/) · [HN](https://news.ycombinator.com/item?id=49170165) |
+| 2026-08-04 | Tuesday | 5 | Ray Bradbury's "There Will Come Soft Rains" is set today (2026-08-04) | 497 | 6 | Technology | [link](https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj) · [HN](https://news.ycombinator.com/item?id=49166491) |
+| 2026-08-04 | Tuesday | 6 | FFmpeg 9.0 | 444 | 96 | Technology | [link](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES) · [HN](https://news.ycombinator.com/item?id=49166202) |
+| 2026-08-04 | Tuesday | 7 | Mistral's Shieldstral: 3B open-weights model for multimodal moderation | 423 | 109 | Technology | [link](https://mistral.ai/news/shieldstral/) · [HN](https://news.ycombinator.com/item?id=49171268) |
+| 2026-08-04 | Tuesday | 8 | All of Winona Police Department's Flock cameras cut down and stolen | 373 | 224 | Technology | [link](https://www.valleynewslive.com/2026/08/04/every-flock-camera-winona-minnesota-cut-down-stolen-coordinated-theft/) · [HN](https://news.ycombinator.com/item?id=49171656) |
+| 2026-08-04 | Tuesday | 9 | Pi's Minimalism Is Its Advantage | 371 | 146 | Technology | [link](https://earendil.com/posts/pi-autoresearch-and-databricks/) · [HN](https://news.ycombinator.com/item?id=49176038) |
+| 2026-08-04 | Tuesday | 10 | DeepSeek V4 Flash on a Single AMD MI300X | 370 | 95 | Technology | [link](https://github.com/ryanzhou/deepseek-v4-flash-mi300x) · [HN](https://news.ycombinator.com/item?id=49166386) |
 | 2026-08-03 | Monday | 1 | Don't be a meat proxy | 1740 | 704 | Technology | [link](https://gruhn.me/blog/2026-08-03/) · [HN](https://news.ycombinator.com/item?id=49151933) |
 | 2026-08-03 | Monday | 2 | LLMs reward expertise | 948 | 401 | Technology | [link](https://www.seangoedecke.com/llms-reward-expertise/) · [HN](https://news.ycombinator.com/item?id=49161518) |
 | 2026-08-03 | Monday | 3 | SQLite Critical CVEs or LLM Slop? | 711 | 363 | Technology | [link](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/) · [HN](https://news.ycombinator.com/item?id=49154332) |
