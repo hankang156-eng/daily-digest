@@ -8,6 +8,7 @@ Outputs:
   - index.html
   - hn_archive.md / hn_archive_data.json
   - dd_archive.md / dd_archive_data.json
+  - digest_json/digest_YYYY-MM-DD.json (lossless item records for downstream tools)
 """
 
 import datetime
@@ -79,12 +80,14 @@ RANKER_OUTPUT_DIR = REPO_ROOT / "output" / "ranker_diagnostics"
 HN_DATA_DIR = REPO_ROOT / "data" / "hn"
 DIGEST_ARCHIVE_DIR = REPO_ROOT / "data" / "digest_archives"
 DIGEST_ARCHIVE_PAGE = REPO_ROOT / "digest_archive.html"
+DIGEST_JSON_DIR = REPO_ROOT / "output" / "digest_json"
 
 DEFAULT_CONFIG = {
     "settings": {
         "hn_digest_count": 16,
         "nyt_wsj_max_links": 20,
         "blog_max_links": 20,
+        "blog_infra_max_links": 6,
         "ranker_output_dir": "output/ranker_diagnostics",
         "reddit_subreddits": {"ClaudeAI": 10, "ClaudeCode": 5, "ObsidianMD": 5}
     },
@@ -105,6 +108,11 @@ HN_COMPANION_BASE_URL = "https://app.hncompanion.com"
 ARTICLE_OVERVIEW_CACHE_FILE = RANKER_OUTPUT_DIR / "article_overview_cache.json"
 READING_STATS_CACHE_FILE = RANKER_OUTPUT_DIR / "article_reading_stats_cache.json"
 READING_WORDS_PER_MINUTE = 230
+
+# JSON contract consumed by src/comprehension. Bump the version when the record
+# shape changes in a way downstream readers must notice.
+DIGEST_JSON_VERSION = 1
+DIGEST_JSON_GROUPS = ("hn", "nyt_wsj", "research", "blogs", "reddit", "linkedin")
 
 NYT_ARTICLE_SEARCH_URL = "https://api.nytimes.com/svc/search/v2/articlesearch.json"
 NYT_API_MIN_INTERVAL = 6.0
@@ -279,6 +287,12 @@ def parse_args(argv=None):
             "For claude-sonnet/claude-opus: comma-separated NYT digest sections to "
             "summarize with Claude, or 'all'. Other NYT sections use Gemini."
         ),
+    )
+    parser.add_argument(
+        "--no-json",
+        dest="no_json",
+        action="store_true",
+        help="Skip writing output/digest_json/digest_DATE.json (the comprehension input).",
     )
     return parser.parse_args(argv)
 
@@ -1567,6 +1581,23 @@ details.section#nyt .article details.abstract .panel { font-style: normal; }
 
 a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 1px; }
 button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* Reading marks. Feed the comprehension layer's sense of what already landed;
+   harvested via the toolbar's Save marks download. */
+.marks { display: flex; gap: 5px; margin: 4px 0 0; flex-wrap: wrap; }
+.marks .mk {
+  font-family: var(--font-meta); font-size: 10px; font-weight: 500;
+  letter-spacing: .04em; color: var(--mute);
+  background: none; border: 1px solid var(--rule-soft); border-radius: 999px;
+  padding: 1px 8px; cursor: pointer; line-height: 1.6;
+}
+.marks .mk:hover { color: var(--hover); border-color: var(--hover); }
+.marks .mk[aria-pressed="true"] {
+  color: var(--paper); background: var(--accent); border-color: var(--accent);
+}
+.article[data-marked="knew-this"], .thread[data-marked="knew-this"] { opacity: .55; }
+.article[data-marked="knew-this"]:hover, .thread[data-marked="knew-this"]:hover { opacity: 1; }
+@media (max-width: 640px) { .marks .mk { font-size: 11px; padding: 2px 9px; } }
 """
 
 _PAGE_SCRIPT = """(function () {
@@ -1603,6 +1634,74 @@ _PAGE_SCRIPT = """(function () {
   document.getElementById('collapseAll').addEventListener('click', function () {
     document.querySelectorAll('details').forEach(function (d) { d.open = false; });
   });
+})();
+
+/* Reading marks. Stored in localStorage and exported as a one-click download
+   that the comprehension pass picks up from ~/Downloads. The export carries
+   every mark ever made, not just today's, so a skipped day loses nothing -
+   the harvest merge is idempotent. */
+(function () {
+  var KEY = 'dd-marks';
+  var page = document.querySelector('.page');
+  var digestDate = (page && page.dataset.digestDate) || '';
+
+  function load() {
+    try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) { return {}; }
+  }
+  function save(marks) {
+    try { localStorage.setItem(KEY, JSON.stringify(marks)); } catch (e) {}
+  }
+  function paint(group, target, mark) {
+    if (mark) { target.dataset.marked = mark; } else { delete target.dataset.marked; }
+    group.querySelectorAll('.mk').forEach(function (btn) {
+      btn.setAttribute('aria-pressed', btn.dataset.mark === mark ? 'true' : 'false');
+    });
+  }
+
+  var marks = load();
+  /* One implementation serves both surfaces: the companion page marks threads,
+     the digest marks only the few items carrying a Context note. Both render a
+     .marks group with its own data-mark-key. */
+  document.querySelectorAll('.marks[data-mark-key]').forEach(function (group) {
+    var key = group.dataset.markKey;
+    var target = group.closest('.article, .thread') || group;
+    var current = marks[key] && marks[key].mark;
+    paint(group, target, current);
+    group.querySelectorAll('.mk').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var value = btn.dataset.mark;
+        var existing = marks[key] && marks[key].mark;
+        if (existing === value) {
+          delete marks[key];
+          value = null;
+        } else {
+          marks[key] = {
+            mark: value,
+            recorded_at: new Date().toISOString(),
+            digest_date: digestDate
+          };
+        }
+        save(marks);
+        paint(group, target, value);
+      });
+    });
+  });
+
+  var saveBtn = document.getElementById('saveMarks');
+  if (saveBtn) {
+    saveBtn.addEventListener('click', function () {
+      var payload = { schema_version: 1, exported_at: new Date().toISOString(), items: load() };
+      var blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+      var url = URL.createObjectURL(blob);
+      var link = document.createElement('a');
+      link.href = url;
+      link.download = 'dd-marks-' + (digestDate || 'export') + '.json';
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+      URL.revokeObjectURL(url);
+    });
+  }
 })();
 """
 
@@ -1739,15 +1838,47 @@ def _render_article(article, index, kind):
         # HN discussion overviews carry no model; only article_overview from blogs does.
         label = "Overview" if article.get("discussion_overview") else ov_label
         details_block = _render_collapsible(label, overview_text)
+    # Written by the comprehension pass on deep-read items only. A different job
+    # from Overview: the background the piece assumes, not what it covers.
+    details_block += _render_collapsible("Context", article.get("context_note"), css_class="context")
+    # article_key() is the same identity the comprehension layer files items by,
+    # so marks survive a re-render and line up with the thread registry.
+    key = _html_escape(article_key(article))
+    # Marks are feedback on an *explanation*, so in the digest they appear only on
+    # items that actually carry one. Offering them on all ~67 items made the target
+    # ambiguous (was the headline unclear, or the article?) and the loop unusable.
+    # Thread-level marks on the companion page are the primary surface.
+    marks = _render_marks(article_key(article)) if article.get("context_note") else ""
     return (
-        '<article class="article">\n'
+        f'<article class="article" data-item-key="{key}">\n'
         f'  <div class="num">{num}</div>\n'
         '  <div class="body">\n'
         f'    <h4><a href="{url}" target="_blank">{title}</a></h4>\n'
         f'    {meta}\n'
         f'    {details_block}\n'
+        f'    {marks}\n'
         '  </div>\n'
         '</article>'
+    )
+
+
+_MARK_CHOICES = (
+    ("knew-this", "knew this", "I already knew this"),
+    ("useful", "useful", "This taught me something"),
+    ("over-my-head", "over my head", "I could not follow this"),
+)
+
+
+def _render_marks(mark_key, label="How this landed"):
+    """Mark buttons for one explanation. Shared by the digest and companion page."""
+    buttons = "".join(
+        f'<button class="mk" data-mark="{value}" aria-pressed="false" '
+        f'title="{_html_escape(hint)}">{_html_escape(text)}</button>'
+        for value, text, hint in _MARK_CHOICES
+    )
+    return (
+        f'<div class="marks" role="group" aria-label="{_html_escape(label)}" '
+        f'data-mark-key="{_html_escape(mark_key)}">{buttons}</div>'
     )
 
 
@@ -1944,7 +2075,7 @@ def generate_html(date, data, settings=None, archive_href="digest_archive.html")
 </style>
 </head>
 <body>
-<div class="page">
+<div class="page" data-digest-date="{_html_escape(digest_date_for(date).isoformat())}">
   <div class="toolbar">
     <a class="archive" href="{_html_escape(archive_href)}" title="Read past daily digests"><span class="ico" aria-hidden="true">←</span><span class="lbl"> Read past daily digests</span></a>
     <div class="controls">
@@ -1958,6 +2089,7 @@ def generate_html(date, data, settings=None, archive_href="digest_archive.html")
       </div>
       <button class="btn" id="expandAll" title="Expand all"><span class="ico" aria-hidden="true">▾</span><span class="lbl"> Expand all</span></button>
       <button class="btn" id="collapseAll" title="Collapse all"><span class="ico" aria-hidden="true">▴</span><span class="lbl"> Collapse all</span></button>
+      <button class="btn" id="saveMarks" title="Download your reading marks so the next digest can use them"><span class="ico" aria-hidden="true">⇩</span><span class="lbl"> Save marks</span></button>
     </div>
   </div>
 
@@ -2008,6 +2140,8 @@ def _md_articles(articles, numbered=False, show_score=False):
             model_name = article.get("overview_model") or ""
             overview_label = f"Overview (Model: {model_name}):" if model_name else "Overview:"
             lines.append(f"   - **{overview_label}** {_md_escape(overview_text)}")
+        if article.get("context_note"):
+            lines.append(f"   - **Context:** {_md_escape(article['context_note'])}")
         if article.get("reason") or article.get("reading_mode"):
             detail = " — ".join(part for part in (article.get("reading_mode"), article.get("reason")) if part)
             lines.append(f"   - {_md_escape(detail)}")
@@ -2112,6 +2246,29 @@ def write_hn_archive_xlsx(archive, path):
     )
 
 
+ARCHIVE_SHRINK_FLOOR = 0.5
+
+
+def _archive_would_shrink(md_path, new_text, floor=ARCHIVE_SHRINK_FLOOR):
+    """True when regenerating this archive table would throw away most of it.
+
+    The .md and .xlsx archives are rebuilt wholesale from the gitignored
+    *_archive_data.json. When that JSON is missing or partial - easiest to hit in a
+    git worktree, where gitignored runtime state does not exist - the rebuild
+    reconstructs a hundred-day table from one day and silently destroys the
+    committed history. This is the whole-file analogue of the per-date guard in
+    update_dd_archive, and it holds regardless of *why* the source data is thin.
+    """
+    md_path = Path(md_path)
+    if not md_path.exists():
+        return False
+    try:
+        existing = md_path.read_text(encoding="utf-8")
+    except Exception:
+        return False
+    return len(new_text) < len(existing) * floor
+
+
 def update_hn_archive(date, new_stories):
     if not new_stories:
         print("  [HN Archive] No stories - skipping.")
@@ -2142,9 +2299,16 @@ def update_hn_archive(date, new_stories):
     else:
         print(f"  [HN Archive] {date_key} already present - skipping JSON update")
 
+    hn_md = _hn_md_table(archive)
+    if _archive_would_shrink(md_path, hn_md):
+        print(
+            "  [HN Archive] Regenerating would discard most of hn_archive.md "
+            f"({len(archive)} days in hn_archive_data.json); preserved the existing archive."
+        )
+        return
     try:
         with open(md_path, "w", encoding="utf-8") as f:
-            f.write(_hn_md_table(archive))
+            f.write(hn_md)
         print("  [HN Archive] Regenerated hn_archive.md")
     except Exception as e:
         print(f"  [HN Archive] Error writing markdown: {e}")
@@ -2275,9 +2439,16 @@ def update_dd_archive(date, data, settings=None):
     except Exception as e:
         print(f"  [DD Archive] Error writing JSON: {e}")
 
+    dd_md = _dd_md_table(archive)
+    if _archive_would_shrink(md_path, dd_md):
+        print(
+            "  [DD Archive] Regenerating would discard most of dd_archive.md "
+            f"({len(archive)} dates in dd_archive_data.json); preserved the existing archive."
+        )
+        return
     try:
         with open(md_path, "w", encoding="utf-8") as f:
-            f.write(_dd_md_table(archive))
+            f.write(dd_md)
         print("  [DD Archive] Regenerated dd_archive.md")
     except Exception as e:
         print(f"  [DD Archive] Error writing markdown: {e}")
@@ -2332,6 +2503,61 @@ def _run_git(args):
     return True, result
 
 
+def _json_safe(value):
+    if isinstance(value, (datetime.date, datetime.datetime)):
+        return value.isoformat()
+    if isinstance(value, dict):
+        return {str(key): _json_safe(item) for key, item in value.items()}
+    if isinstance(value, (list, tuple, set)):
+        return [_json_safe(item) for item in value]
+    if value is None or isinstance(value, (str, int, float, bool)):
+        return value
+    return str(value)
+
+
+def digest_json_item(article, group):
+    """Lossless per-item record for the JSON contract.
+
+    Unlike _flatten_digest (which feeds the archive table and keeps only a few
+    columns), this copies every field the renderers see - score, reason,
+    abstract, article_overview, discussion_overview, bot_tldr, reading stats -
+    and adds the derived keys downstream tools need.
+    """
+    record = {key: _json_safe(value) for key, value in article.items()}
+    record["item_key"] = article_key(article)
+    record["group"] = group
+    record["topic"] = _infer_topic(article)
+    return record
+
+
+def build_digest_json(content_date, data, settings=None):
+    """Machine-readable snapshot of one digest run, keyed by digest date.
+
+    Sections mirror build_sections so downstream tools see exactly the buckets
+    the digest renders (note 'blogs' is split into 'research' + 'blogs').
+    """
+    sections = build_sections(data, settings or DEFAULT_CONFIG["settings"])
+    return {
+        "schema_version": DIGEST_JSON_VERSION,
+        "digest_date": digest_date_for(content_date).isoformat(),
+        "content_date": content_date.isoformat(),
+        "generated_at": datetime.datetime.now().isoformat(timespec="seconds"),
+        "nyt_note": data.get("nyt_note", ""),
+        "sections": {
+            group: [digest_json_item(article, group) for article in sections.get(group, [])]
+            for group in DIGEST_JSON_GROUPS
+        },
+    }
+
+
+def dump_digest_json(content_date, data, settings=None, path=None):
+    payload = build_digest_json(content_date, data, settings=settings)
+    if path is None:
+        path = DIGEST_JSON_DIR / f"digest_{payload['digest_date']}.json"
+    _write_json_file(path, payload)
+    return Path(path)
+
+
 def _has_publishable_content(data):
     return any(data.get(key) for key in ("hn", "nyt_wsj", "blogs"))
 
@@ -2373,6 +2599,7 @@ def _run_blog_ranker(date, settings):
         result = run_blog_ranker(
             target_date=date,
             max_links=int(settings.get("blog_max_links", 20)),
+            infra_max_links=int(settings.get("blog_infra_max_links", 6)),
             output_dir=REPO_ROOT / settings.get("ranker_output_dir", "output/ranker_diagnostics"),
             write_files=True,
         )
@@ -2435,7 +2662,7 @@ def push_to_github(date, config):
         print(f"  [GitHub] Error: {e}")
 
 
-def main(target_date=None, summary_config=None):
+def main(target_date=None, summary_config=None, write_json=True):
     print(f"\n{'-' * 50}")
     print(f"  Daily Digest - {datetime.date.today()}")
     print(f"{'-' * 50}")
@@ -2542,12 +2769,20 @@ def main(target_date=None, summary_config=None):
     except Exception as e:
         print(f"  [Output] Error writing digest archive page: {e}")
 
+    json_path = None
     if publishable:
         print("  Updating HN archive...")
         update_hn_archive(date, hn)
 
         print("  Updating digest archive...")
         update_dd_archive(date, data, settings=settings)
+
+        if write_json:
+            try:
+                json_path = dump_digest_json(date, data, settings=settings)
+                print(f"  Saved JSON:     {json_path.relative_to(REPO_ROOT)}")
+            except Exception as e:
+                print(f"  [Output] Error writing digest JSON: {e}")
     else:
         print("  [Archive] Skipped archive updates because no network-fetched content was available.")
 
@@ -2561,6 +2796,7 @@ def main(target_date=None, summary_config=None):
     return {
         "html_path": str(html_path),
         "md_path": str(md_path),
+        "json_path": str(json_path) if json_path else "",
         "html": html_doc,
         "md": markdown,
         "date": date.isoformat(),
@@ -2577,7 +2813,11 @@ def cli(argv=None):
     if args.date:
         print(f"  User input date: {args.date}")
         print(f"  Content date:    {target_date.isoformat()} (previous day)")
-    return main(target_date=target_date, summary_config=summary_config)
+    return main(
+        target_date=target_date,
+        summary_config=summary_config,
+        write_json=not args.no_json,
+    )
 
 
 if __name__ == "__main__":

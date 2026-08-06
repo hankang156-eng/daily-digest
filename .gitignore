@@ -4,6 +4,20 @@ config.json
 google_credentials.json
 .env
 
+# Internal reader context for the comprehension layer, and everything written
+# *from* it. The reader profile holds Merge4 framing and the never-claim list, and
+# the narrative/weekly prose is written against that profile — one essay already
+# said "infrastructure vendors like Merge4" by name. This repo publishes to GitHub
+# Pages, so all of it stays local.
+#
+# data/comprehension/threads.json is deliberately NOT ignored: it is news metadata
+# plus short movement notes, carries no reader context, and is worth versioning —
+# it holds months of thread history that is expensive to rebuild.
+config/reader_profile.md
+data/comprehension/narratives.json
+data/comprehension/weekly.json
+output/comprehension/
+
 # Local-only admin snapshots / scratch
 _admin/
 
@@ -12,7 +26,15 @@ hn_archive_data.json
 dd_archive_data.json
 digest.log
 output/blog_cache.json
+output/ranker_diagnostics/blog_cache.json
+data/digest_archives/blog_cache.json
 output/ranker_diagnostics/nyt_archive/
+output/digest_json/
+output/ranker_diagnostics/comprehension_cache.json
+output/ranker_diagnostics/article_text_cache.json
+output/ranker_diagnostics/article_overview_cache.json
+output/ranker_diagnostics/article_reading_stats_cache.json
+data/comprehension/marks_archive/
 data/digest_archives/digest.log
 data/reddit/audit_outputs/saved_posts_public_info.json
 data/reddit/audit_outputs/subreddit_metadata.json
@@ -20,7 +42,9 @@ data/reddit/audit_outputs/reddit_cache/
 
 # Python cache
 __pycache__/
-.venv/
+# No trailing slash: a worktree needs a .venv symlink to the main checkout's
+# environment, and a "*/" pattern does not match a symlink.
+.venv
 *.pyc
 *.pyo
 
