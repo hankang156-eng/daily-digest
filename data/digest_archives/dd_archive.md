@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-05 · 4996 items*
+*Last updated: 2026-08-06 · 5059 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-05 | Discovery Loop | HN | Technology | tech | 2026-08-05 | [link](https://www.discoveryloop.com/) |
+| 2026-08-05 | Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs | HN | Technology | tech | 2026-08-05 | [link](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/) |
+| 2026-08-05 | Cloudflare OS: an open platform for agents, apps, and work | HN | Technology | tech | 2026-08-05 | [link](https://blog.cloudflare.com/cloudflare-os/) |
+| 2026-08-05 | Civilian plane crash in New Mexico tied to military GPS blocking | HN | Technology | tech | 2026-08-05 | [link](https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/) |
+| 2026-08-05 | Zed DeltaDB | HN | Technology | tech | 2026-08-05 | [link](https://zed.dev/deltadb) |
+| 2026-08-05 | Demis Hassabis is moving from CEO to Chairman at Google DeepMind | HN | Technology | tech | 2026-08-05 | [link](https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai) |
+| 2026-08-05 | I'm switching my phone from Android to Linux | HN | Technology | tech | 2026-08-05 | [link](https://runarcn.no/android-to-linux/) |
+| 2026-08-05 | Beating GPT-5.6 Sol on retrieval with 100x cheaper open models | HN | Technology | tech | 2026-08-05 | [link](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency) |
+| 2026-08-05 | Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search | HN | Technology | tech | 2026-08-05 | [link](https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/) |
+| 2026-08-05 | Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery | HN | Technology | tech | 2026-08-05 | [link](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/) |
+| 2026-08-05 | Jeff Dean leaving Alphabet | HN | Technology | tech | 2026-08-05 | [link](https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html) |
+| 2026-08-05 | Position: LLMs Can't Jump | HN | Technology | tech | 2026-08-05 | [link](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt) |
+| 2026-08-05 | The title cards in Blade Runner are amazing | HN | Technology | tech | 2026-08-05 | [link](https://randsinrepose.com/archives/blade-runner-title-cards/) |
+| 2026-08-05 | Born Against, or why hobby programming communities are against LLM usage | HN | Technology | tech | 2026-08-05 | [link](https://blog.fogus.me/llm/born-against.html) |
+| 2026-08-05 | Muse Code and Muse Spark 1.2 | HN | Technology | tech | 2026-08-05 | [link](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2) |
+| 2026-08-05 | TIME Is Serving AI Bots a Different Website, with Ads Built In | HN | Technology | tech | 2026-08-05 | [link](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/) |
+| 2026-08-05 | Trump’s Push for More A.I. Data Centers Will Mean Major Air Pollution | NYT · AI | AI | news | 2026-08-05 | [link](https://www.nytimes.com/2026/08/05/climate/data-centers-pollution-trump-ai-energy.html) |
+| 2026-08-05 | Trump White House Readies AI Framework to Review Security Risks | NYT · Technology | Technology | opinion | 2026-08-05 | [link](https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html) |
+| 2026-08-05 | How China’s A.I. Is Surging Across Africa | NYT · AI | AI | news | 2026-08-05 | [link](https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html) |
+| 2026-08-05 | The Winners of Trump’s A.I. Safety Plan | NYT · AI | AI | news | 2026-08-05 | [link](https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html) |
+| 2026-08-05 | What the Stock Market’s Record Rally Has to Do With Rescuing the Yen | NYT · Business | Business | news | 2026-08-05 | [link](https://www.nytimes.com/2026/08/05/business/stock-market-yen-ai.html) |
+| 2026-08-05 | Judge Sets Paramount-Warner Bros. Merger Trial for March | NYT · Business | Business | news | 2026-08-04 | [link](https://www.nytimes.com/2026/08/04/business/media/paramount-warner-bros-trial-march.html) |
+| 2026-08-05 | How Malta Became a Tax Haven for Crocs and Other U.S. Companies | NYT · Economy | Economy | news | 2026-08-05 | [link](https://www.nytimes.com/2026/08/05/business/economy/crocs-malta-tax-haven.html) |
+| 2026-08-05 | Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble? | NYT · AI | AI | news | 2026-08-05 | [link](https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html) |
+| 2026-08-05 | The A.I. Jargon That Will Help You Spot a Stock Downturn | NYT · AI | AI | opinion | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/opinion/ai-market-bubble-crash.html) |
+| 2026-08-05 | SpaceX, in First Earnings After IPO, Reports Soaring AI Spending | NYT · Technology | Technology | news | 2026-08-04 | [link](https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html) |
+| 2026-08-05 | Cost of Trump’s Namesake Warships Likely to Rise by 50 Percent or More | NYT · Politics | Politics | news | 2026-08-05 | [link](https://www.nytimes.com/2026/08/05/us/politics/trump-namesake-warships-cost-increase.html) |
+| 2026-08-05 | A Growing Data Center Pollution Threat, and the Last of the Jan. 6 Cases | NYT · AI | AI | news | 2026-08-05 | [link](https://www.nytimes.com/2026/08/05/podcasts/the-headlines/data-center-pollution-threat-last-jan-6-cases-michigan-primary.html) |
+| 2026-08-05 | Plug-In Solar Panels Are Starting to Sprout in U.S. Backyards | NYT · Energy & Environment | Energy & Environment | news | 2026-08-03 | [link](https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html) |
+| 2026-08-05 | Google Names Demis Hassabis to New AI Role in a Leadership Shake-up | NYT · AI | AI | news | 2026-08-05 | [link](https://www.nytimes.com/2026/08/05/technology/google-ai-leadership.html) |
+| 2026-08-05 | Will A.I. Create a ‘Permanent Underclass’? | NYT · AI | AI | opinion | 2026-08-05 | [link](https://www.nytimes.com/video/opinion/100000011047941/will-ai-create-a-permanent-underclass.html) |
+| 2026-08-05 | What Is A.I. Populism? | NYT · AI | AI | opinion | 2026-08-05 | [link](https://www.nytimes.com/video/opinion/100000011047934/what-is-ai-populism.html) |
+| 2026-08-05 | White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules | NYT · Technology | Technology | news | 2026-08-04 | [link](https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html) |
+| 2026-08-05 | F.D.A. Approves Moderna’s mRNA Flu Vaccine | NYT · Business | Business | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html) |
+| 2026-08-05 | Trump Administration Is Repurposing Federal Land for A.I. Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html) |
+| 2026-08-05 | Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect | NYT · Politics | Politics | news | 2026-08-05 | [link](https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html) |
+| 2026-08-05 | Improving Employee Skills with AI: What Works? And What Doesn’t? | MIT IDE · MIT Research & Insights | Research | research | 2026-08-05 | [link](https://ide.mit.edu/insights/improving-employee-skills-with-ai-what-works-and-what-doesnt/) |
+| 2026-08-05 | Incident Report: unsanctioned agent behaviour during cyber testing | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-05 | [link](https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything) |
+| 2026-08-05 | Introducing Muse Code and Muse Spark 1.2 | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-05 | [link](https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything) |
+| 2026-08-05 | Matthew Green on Anthropic’s New Cryptanalysis Results | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-05 | [link](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/) |
+| 2026-08-05 | Paul Thurrott Reviews the HP OmniBook Ultra 14, With Qualcomm’s Snapdragon X2 | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-05 | [link](https://www.thurrott.com/mobile/copilot-pc/340107/hp-omnibook-ultra-14-snapdragon-x2-review) |
+| 2026-08-05 | Gadget Review: T2 Max plug-in Thermal Camera ★★★⯪☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-05 | [link](https://shkspr.mobi/blog/2026/08/gadget-review-t2-max-plug-in-thermal-camera/) |
+| 2026-08-05 | I gave Claude Fable a domain and said You can build whatever you want. | Reddit | Business | social | 2026-08-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vgo8vt/i_gave_claude_fable_a_domain_and_said_you_can/) |
+| 2026-08-05 | I built a captioning app for short-form video, then gave Claude an MCP so it can work with captions  | Reddit | Business | social | 2026-08-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vg206l/i_built_a_captioning_app_for_shortform_video_then/) |
+| 2026-08-05 | Claude from a small business perspective | Reddit | Business | social | 2026-08-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vftrri/claude_from_a_small_business_perspective/) |
+| 2026-08-05 | The Cutting Room Floor served Claude Code a payload telling it to wipe the working directory | Reddit | Business | social | 2026-08-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vgif8w/the_cutting_room_floor_served_claude_code_a/) |
+| 2026-08-05 | Opus 4.8 > Opus 5 | Reddit | Business | social | 2026-08-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vfw5tp/opus_48_opus_5/) |
+| 2026-08-05 | With Opus 4.8 internal thinking I was "The boss" but with 5.0 I'm a "colleague" | Reddit | Business | social | 2026-08-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vgdvf9/with_opus_48_internal_thinking_i_was_the_boss_but/) |
+| 2026-08-05 | Wilson appreciation post | Reddit | Business | social | 2026-08-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vgjut5/wilson_appreciation_post/) |
+| 2026-08-05 | PSA: your weekly limit doesn't reset when you resubscribe - you can pay for days you literally canno | Reddit | Business | social | 2026-08-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vg47iu/psa_your_weekly_limit_doesnt_reset_when_you/) |
+| 2026-08-05 | How are people using Claude Code without letting it make the codebase messy? | Reddit | Business | social | 2026-08-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vg9pt0/how_are_people_using_claude_code_without_letting/) |
+| 2026-08-05 | Show us what you've created with Claude! | Reddit | Business | social | 2026-08-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vgmy0u/show_us_what_youve_created_with_claude/) |
+| 2026-08-05 | Claude rm -rf ed my pc | Reddit | Business | social | 2026-08-05 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vg18yu/claude_rm_rf_ed_my_pc/) |
+| 2026-08-05 | We rejected three junior devs for ‘’AI cheating’’ this week. i think our interview process is the re | Reddit | Business | social | 2026-08-05 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vg8x6n/we_rejected_three_junior_devs_for_ai_cheating/) |
+| 2026-08-05 | I don't know but I feel that opus 5 is the worst model I used so far from a anthropic | Reddit | Business | social | 2026-08-05 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vg7jiy/i_dont_know_but_i_feel_that_opus_5_is_the_worst/) |
+| 2026-08-05 | Claude Code just blocked a prompt injection attempt | Reddit | Business | social | 2026-08-05 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vgjx0u/claude_code_just_blocked_a_prompt_injection/) |
+| 2026-08-05 | At some point you realize Claude is doing this on purpose | Reddit | Business | social | 2026-08-05 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vg7uqz/at_some_point_you_realize_claude_is_doing_this_on/) |
+| 2026-08-05 | Obsidian on steriods: Retroma theme's latest update and Style Manager plugin | Reddit | Business | social | 2026-08-05 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vgnih5/obsidian_on_steriods_retroma_themes_latest_update/) |
+| 2026-08-05 | Retroma theme v3.0.0 is now live! | Reddit | Business | social | 2026-08-05 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vgn8dw/retroma_theme_v300_is_now_live/) |
+| 2026-08-05 | current setup | Reddit | Business | social | 2026-08-05 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vgkjhs/current_setup/) |
+| 2026-08-05 | My Vault is my Digital Hideout | Reddit | Business | social | 2026-08-05 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vft7od/my_vault_is_my_digital_hideout/) |
+| 2026-08-05 | Help, I'm stuck in note-taking hell. How do I get out? | Reddit | Business | social | 2026-08-05 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vgemrh/help_im_stuck_in_notetaking_hell_how_do_i_get_out/) |
+| 2026-08-05 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-04 | In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years | HN | Technology | tech | 2026-08-04 | [link](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/) |
 | 2026-08-04 | AI-Generated Images Discourage Me from Reading Your Blog | HN | Technology | tech | 2026-08-04 | [link](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/) |
 | 2026-08-04 | Xbox goes down. You can't play games you own on disc | HN | Technology | tech | 2026-08-04 | [link](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/) |

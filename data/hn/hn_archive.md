@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-05 · 455 days · 4550 stories*
+*Last updated: 2026-08-06 · 456 days · 4560 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-05 | Wednesday | 1 | Discovery Loop | 755 | 471 | Technology | [link](https://www.discoveryloop.com/) · [HN](https://news.ycombinator.com/item?id=49184960) |
+| 2026-08-05 | Wednesday | 2 | Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs | 660 | 713 | Technology | [link](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/) · [HN](https://news.ycombinator.com/item?id=49184755) |
+| 2026-08-05 | Wednesday | 3 | Cloudflare OS: an open platform for agents, apps, and work | 561 | 270 | Technology | [link](https://blog.cloudflare.com/cloudflare-os/) · [HN](https://news.ycombinator.com/item?id=49182996) |
+| 2026-08-05 | Wednesday | 4 | Civilian plane crash in New Mexico tied to military GPS blocking | 473 | 248 | Technology | [link](https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/) · [HN](https://news.ycombinator.com/item?id=49181099) |
+| 2026-08-05 | Wednesday | 5 | Zed DeltaDB | 426 | 222 | Technology | [link](https://zed.dev/deltadb) · [HN](https://news.ycombinator.com/item?id=49187256) |
+| 2026-08-05 | Wednesday | 6 | Demis Hassabis is moving from CEO to Chairman at Google DeepMind | 369 | 1 | Technology | [link](https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai) · [HN](https://news.ycombinator.com/item?id=49184757) |
+| 2026-08-05 | Wednesday | 7 | I'm switching my phone from Android to Linux | 336 | 341 | Technology | [link](https://runarcn.no/android-to-linux/) · [HN](https://news.ycombinator.com/item?id=49188022) |
+| 2026-08-05 | Wednesday | 8 | Beating GPT-5.6 Sol on retrieval with 100x cheaper open models | 320 | 80 | Technology | [link](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency) · [HN](https://news.ycombinator.com/item?id=49186762) |
+| 2026-08-05 | Wednesday | 9 | Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search | 314 | 187 | Technology | [link](https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/) · [HN](https://news.ycombinator.com/item?id=49184190) |
+| 2026-08-05 | Wednesday | 10 | Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery | 298 | 229 | Technology | [link](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/) · [HN](https://news.ycombinator.com/item?id=49187977) |
 | 2026-08-04 | Tuesday | 1 | In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years | 1362 | 79 | Technology | [link](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/) · [HN](https://news.ycombinator.com/item?id=49173165) |
 | 2026-08-04 | Tuesday | 2 | AI-Generated Images Discourage Me from Reading Your Blog | 759 | 442 | Technology | [link](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/) · [HN](https://news.ycombinator.com/item?id=49167113) |
 | 2026-08-04 | Tuesday | 3 | Xbox goes down. You can't play games you own on disc | 654 | 683 | Technology | [link](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/) · [HN](https://news.ycombinator.com/item?id=49167448) |
