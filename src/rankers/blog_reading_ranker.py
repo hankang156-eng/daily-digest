@@ -46,6 +46,21 @@ HTTP_HEADERS = {
 }
 TRACKING_PARAMS = {"utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content", "ref", "source"}
 
+# Two-track corpus. "ai-at-large" is the AI conversation everyone is having;
+# "ai-infra" is the AI infrastructure layer (data-center power, rack electrical
+# architecture, power semiconductors, grid). The comprehension layer keeps threads
+# in these tracks separate, and ai-infra gets its own link allocation so the
+# higher-volume general-AI feeds cannot crowd it out.
+AI_AT_LARGE = "ai-at-large"
+AI_INFRA = "ai-infra"
+INFRA_CATEGORY = "AI Infrastructure"
+CATEGORY_TRACKS = {INFRA_CATEGORY: AI_INFRA}
+
+
+def track_for_source(source: dict[str, Any]) -> str:
+    return source.get("track") or CATEGORY_TRACKS.get(source.get("category", ""), AI_AT_LARGE)
+
+
 DEFAULT_SOURCES: list[dict[str, Any]] = [
     {"name": "MIT IDE", "category": "MIT Research & Insights", "url": "https://ide.mit.edu/latest-insights/", "feed_url": "https://ide.mit.edu/feed/", "ingestion_type": "rss_then_scrape", "source_weight": 24, "notes": "research commercialization"},
     {"name": "MIT Shaping Work", "category": "MIT Research & Insights", "url": "https://shapingwork.mit.edu/research/", "feed_url": "https://shapingwork.mit.edu/feed/", "ingestion_type": "rss_then_scrape", "source_weight": 24, "notes": "future of work"},
@@ -61,6 +76,13 @@ DEFAULT_SOURCES: list[dict[str, Any]] = [
     {"name": "Superpower Daily", "category": "Tech & Engineering", "url": "https://www.superpowerdaily.com/archive?tags=%F0%9F%93%AC+Daily+Newsletter", "feed_url": "", "ingestion_type": "rss_then_scrape", "source_weight": 21, "notes": "daily AI newsletter"},
     {"name": "Daring Fireball", "category": "Strategy & Craft", "url": "https://daringfireball.net/", "feed_url": "https://daringfireball.net/feeds/main", "ingestion_type": "rss", "source_weight": 17, "notes": "tech taste"},
     {"name": "Shkspr.mobi", "category": "Strategy & Craft", "url": "https://shkspr.mobi/blog/", "feed_url": "https://shkspr.mobi/blog/feed/", "ingestion_type": "rss", "source_weight": 16, "notes": "open web and craft"},
+    {"name": "DataCenter Dynamics", "category": INFRA_CATEGORY, "url": "https://www.datacenterdynamics.com/", "feed_url": "https://www.datacenterdynamics.com/en/rss/", "ingestion_type": "rss", "source_weight": 25, "notes": "data center news of record"},
+    {"name": "SemiAnalysis", "category": INFRA_CATEGORY, "url": "https://semianalysis.com/", "feed_url": "https://semianalysis.com/feed/", "ingestion_type": "rss", "source_weight": 25, "notes": "compute buildout economics"},
+    {"name": "Open Compute Project", "category": INFRA_CATEGORY, "url": "https://www.opencompute.org/blog", "feed_url": "https://www.opencompute.org/blog/rss", "ingestion_type": "rss", "source_weight": 24, "notes": "rack and DC power standards"},
+    {"name": "IEEE Spectrum Energy", "category": INFRA_CATEGORY, "url": "https://spectrum.ieee.org/topic/energy/", "feed_url": "https://spectrum.ieee.org/feeds/topic/energy.rss", "ingestion_type": "rss", "source_weight": 22, "notes": "power engineering"},
+    {"name": "IEEE Spectrum Semiconductors", "category": INFRA_CATEGORY, "url": "https://spectrum.ieee.org/topic/semiconductors/", "feed_url": "https://spectrum.ieee.org/feeds/topic/semiconductors.rss", "ingestion_type": "rss", "source_weight": 22, "notes": "power semiconductors and packaging"},
+    {"name": "Utility Dive", "category": INFRA_CATEGORY, "url": "https://www.utilitydive.com/", "feed_url": "https://www.utilitydive.com/feeds/news/", "ingestion_type": "rss", "source_weight": 21, "notes": "grid, interconnect, utility economics"},
+    {"name": "Latitude Media", "category": INFRA_CATEGORY, "url": "https://www.latitudemedia.com/news/", "feed_url": "https://www.latitudemedia.com/feed", "ingestion_type": "rss", "source_weight": 21, "notes": "energy transition and data center load"},
 ]
 
 CATEGORY_WEIGHTS = {
@@ -68,6 +90,7 @@ CATEGORY_WEIGHTS = {
     "Security & Privacy": 21,
     "Tech & Engineering": 21,
     "Strategy & Craft": 18,
+    INFRA_CATEGORY: 23,
 }
 
 KEYWORD_GROUPS = {
@@ -87,6 +110,7 @@ DIVERSITY_CAPS = {
     "Security & Privacy": 4,
     "Tech & Engineering": 8,
     "Strategy & Craft": 5,
+    INFRA_CATEGORY: 8,
 }
 
 SOURCE_DAILY_CAPS = {
@@ -94,6 +118,9 @@ SOURCE_DAILY_CAPS = {
     "Daring Fireball": 2,
     "MIT IDE": 2,
     "MIT Shaping Work": 2,
+    "DataCenter Dynamics": 2,
+    "IEEE Spectrum Energy": 2,
+    "IEEE Spectrum Semiconductors": 2,
 }
 
 RELEASE_NOTE_KEYWORDS = (
@@ -108,6 +135,7 @@ class BlogCandidate:
     original_url: str
     source: str
     category: str
+    track: str = AI_AT_LARGE
     author: str = ""
     published_date: str = ""
     date_confidence: str = "high"
@@ -244,6 +272,7 @@ def fetch_rss(source: dict[str, Any], stats: dict[str, int]) -> list[BlogCandida
             original_url=link,
             source=source["name"],
             category=source["category"],
+            track=track_for_source(source),
             author=clean_text(entry.get("author", "")),
             published_date=pub_date.isoformat() if pub_date else "",
             date_confidence="high" if pub_date else "low",
@@ -285,6 +314,7 @@ def scrape_links(source: dict[str, Any], stats: dict[str, int], max_items: int =
             original_url=href,
             source=source["name"],
             category=source["category"],
+            track=track_for_source(source),
             date_confidence="low",
             content_type="New project" if source["name"] == "Neal.fun" else "Technical essay",
         ))
@@ -449,6 +479,20 @@ def select_items(items: list[BlogCandidate], max_links: int) -> list[BlogCandida
     return selected
 
 
+def select_by_track(items: list[BlogCandidate], max_links: int, infra_max_links: int) -> list[BlogCandidate]:
+    """Select each track against its own allocation, then merge by score.
+
+    Without this, the ai-infra feeds compete for slots against the much chattier
+    general-AI feeds and get crowded out on busy days. The two candidate lists are
+    disjoint, so select_items' per-call exclusion bookkeeping stays correct.
+    """
+    infra = [item for item in items if item.track == AI_INFRA]
+    general = [item for item in items if item.track != AI_INFRA]
+    selected = select_items(general, max_links) + select_items(infra, infra_max_links)
+    selected.sort(key=lambda item: item.score, reverse=True)
+    return selected
+
+
 def executive_summary(selected: list[BlogCandidate], no_new_sources: list[str]) -> list[str]:
     if not selected:
         return ["No new blog or research posts matched the target date."]
@@ -474,6 +518,9 @@ def candidate_to_article(item: BlogCandidate) -> dict[str, Any]:
     elif item.category == "Strategy & Craft":
         topic = "Strategy"
         category = "long-form"
+    elif item.category == INFRA_CATEGORY:
+        topic = "Infrastructure"
+        category = "tech"
     else:
         topic = item.category
         category = "long-form"
@@ -492,6 +539,7 @@ def candidate_to_article(item: BlogCandidate) -> dict[str, Any]:
         "reason": item.reason,
         "reading_mode": item.reading_mode,
         "date_confidence": item.date_confidence,
+        "track": item.track,
     }
 
 
@@ -521,7 +569,7 @@ def write_outputs(selected: list[BlogCandidate], candidates: list[BlogCandidate]
 
     with csv_path.open("w", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=[
-            "title", "canonical_url", "original_url", "source", "category", "author",
+            "title", "canonical_url", "original_url", "source", "category", "track", "author",
             "published_date", "date_confidence", "summary", "score", "score_breakdown",
             "topic_cluster", "content_type", "reading_mode", "selected_true_false",
             "exclusion_reason_if_any",
@@ -534,6 +582,7 @@ def write_outputs(selected: list[BlogCandidate], candidates: list[BlogCandidate]
                 "original_url": item.original_url,
                 "source": item.source,
                 "category": item.category,
+                "track": item.track,
                 "author": item.author,
                 "published_date": item.published_date,
                 "date_confidence": item.date_confidence,
@@ -553,6 +602,7 @@ def run_ranker(
     days_back: int = 1,
     weekly: bool = False,
     max_links: int = 20,
+    infra_max_links: int = 6,
     output_dir: str | Path = REPO_ROOT / "output" / "ranker_diagnostics",
     include_categories: list[str] | None = None,
     exclude_categories: list[str] | None = None,
@@ -589,7 +639,7 @@ def run_ranker(
     no_new_sources = [source["name"] for source in sources if not any(item.source == source["name"] for item in candidates)]
     for item in candidates:
         score_item(item, target_date)
-    selected = select_items(candidates, max_links)
+    selected = select_by_track(candidates, max_links, infra_max_links)
     if write_files and (raw or candidates):
         write_outputs(selected, candidates, no_new_sources, target_date, out_dir)
         save_cache(out_dir, cache)
@@ -616,6 +666,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--days-back", type=int, default=1)
     parser.add_argument("--weekly", action="store_true")
     parser.add_argument("--max-links", type=int, default=20)
+    parser.add_argument("--infra-max-links", type=int, default=6, help="Separate allocation for the ai-infra track.")
     parser.add_argument("--output-dir", default=str(REPO_ROOT / "output" / "ranker_diagnostics"))
     parser.add_argument("--include-categories", nargs="*")
     parser.add_argument("--exclude-categories", nargs="*")
@@ -633,6 +684,7 @@ def main() -> None:
         days_back=args.days_back,
         weekly=args.weekly,
         max_links=max_links,
+        infra_max_links=args.infra_max_links,
         output_dir=args.output_dir,
         include_categories=args.include_categories,
         exclude_categories=args.exclude_categories,

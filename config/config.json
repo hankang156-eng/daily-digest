@@ -3,8 +3,18 @@
     "hn_digest_count": 16,
     "nyt_wsj_max_links": 20,
     "blog_max_links": 20,
+    "blog_infra_max_links": 6,
     "ranker_output_dir": "output/ranker_diagnostics",
-    "reddit_subreddits": {"ClaudeAI": 10, "ClaudeCode": 5, "ObsidianMD": 5}
+    "reddit_subreddits": {"ClaudeAI": 10, "ClaudeCode": 5, "ObsidianMD": 5},
+    "comprehension": {
+      "model": "claude-sonnet-5",
+      "weekly_model": "claude-opus-5",
+      "effort": "medium",
+      "max_new_threads": 3,
+      "max_deep_reads": 8,
+      "dormant_after_days": 21,
+      "source_tracks": {}
+    }
   },
   "github_pages": {
     "enabled": true,
