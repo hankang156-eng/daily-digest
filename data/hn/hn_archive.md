@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-06 · 456 days · 4560 stories*
+*Last updated: 2026-08-07 · 457 days · 4570 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-06 | Thursday | 1 | Mario Meets Pareto | 1046 | 160 | Technology | [link](https://www.mayerowitz.io/blog/mario-meets-pareto) · [HN](https://news.ycombinator.com/item?id=49195231) |
+| 2026-08-06 | Thursday | 2 | Crime Pays but Botany Doesn't | 669 | 209 | Technology | [link](https://www.crimepaysbutbotanydoesnt.com/reading-list) · [HN](https://news.ycombinator.com/item?id=49192566) |
+| 2026-08-06 | Thursday | 3 | AMD acquires Taalas to boost inference performance by etching models in silicon | 665 | 506 | Technology | [link](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) · [HN](https://news.ycombinator.com/item?id=49201970) |
+| 2026-08-06 | Thursday | 4 | Qwen3.8 Max now ranked as the best overall model by agentic index | 502 | 314 | Technology | [link](https://artificialanalysis.ai/?intelligence=agentic-index) · [HN](https://news.ycombinator.com/item?id=49200652) |
+| 2026-08-06 | Thursday | 5 | Taste Is All That's Left | 426 | 316 | Technology | [link](https://notashelf.dev/posts/taste-is-all-thats-left) · [HN](https://news.ycombinator.com/item?id=49199346) |
+| 2026-08-06 | Thursday | 6 | GitHub Actions and Pages are experiencing degraded availability | 407 | 332 | Technology | [link](https://www.githubstatus.com/incidents/qcvjkzcs7j74) · [HN](https://news.ycombinator.com/item?id=49198302) |
+| 2026-08-06 | Thursday | 7 | Software development with AI is starting to feel like cooking steak | 366 | 393 | Technology | [link](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/) · [HN](https://news.ycombinator.com/item?id=49198069) |
+| 2026-08-06 | Thursday | 8 | Quake – 30th Anniversary Update | 316 | 159 | Technology | [link](https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update) · [HN](https://news.ycombinator.com/item?id=49201930) |
+| 2026-08-06 | Thursday | 9 | Humans missed 1 in 3 threats approving AI agent commands across 40k game runs | 302 | 212 | Technology | [link](https://scalex.dev/blog/ai-agent-permissions-stats/) · [HN](https://news.ycombinator.com/item?id=49195468) |
+| 2026-08-06 | Thursday | 10 | New Mexico court orders Meta to pay $567m over harms to children’s mental health | 280 | 180 | Technology | [link](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta) · [HN](https://news.ycombinator.com/item?id=49204352) |
 | 2026-08-05 | Wednesday | 1 | Discovery Loop | 755 | 471 | Technology | [link](https://www.discoveryloop.com/) · [HN](https://news.ycombinator.com/item?id=49184960) |
 | 2026-08-05 | Wednesday | 2 | Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs | 660 | 713 | Technology | [link](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/) · [HN](https://news.ycombinator.com/item?id=49184755) |
 | 2026-08-05 | Wednesday | 3 | Cloudflare OS: an open platform for agents, apps, and work | 561 | 270 | Technology | [link](https://blog.cloudflare.com/cloudflare-os/) · [HN](https://news.ycombinator.com/item?id=49182996) |
