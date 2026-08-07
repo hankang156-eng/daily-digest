@@ -15,8 +15,8 @@ google_credentials.json
 # it holds months of thread history that is expensive to rebuild.
 config/reader_profile.md
 data/comprehension/narratives.json
-data/comprehension/weekly.json
-output/comprehension/
+#data/comprehension/weekly.json
+#output/comprehension/
 
 # Local-only admin snapshots / scratch
 _admin/

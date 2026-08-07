@@ -97,7 +97,11 @@ def rerender_digest(
         daily_html_dir.mkdir(parents=True, exist_ok=True)
         daily_md_dir.mkdir(parents=True, exist_ok=True)
         html_path.write_text(
-            generate_html(content_date, data, settings, archive_href="../../digest_archive.html"),
+            generate_html(
+                content_date, data, settings,
+                archive_href="../../digest_archive.html",
+                companion_href=f"../comprehension/comprehension_{digest_date}.html",
+            ),
             encoding="utf-8",
         )
         md_path.write_text(generate_markdown(content_date, data, settings), encoding="utf-8")
@@ -112,7 +116,11 @@ def rerender_digest(
         index_path = index_path or (REPO_ROOT / "index.html")
         try:
             index_path.write_text(
-                generate_html(content_date, data, settings, archive_href="digest_archive.html"),
+                generate_html(
+                    content_date, data, settings,
+                    archive_href="digest_archive.html",
+                    companion_href=f"output/comprehension/comprehension_{digest_date}.html",
+                ),
                 encoding="utf-8",
             )
             written["index_path"] = index_path

@@ -2043,13 +2043,26 @@ def write_digest_archive_page(path=DIGEST_ARCHIVE_PAGE):
         f.write(generate_digest_archive_html())
 
 
-def generate_html(date, data, settings=None, archive_href="digest_archive.html"):
+def generate_html(date, data, settings=None, archive_href="digest_archive.html",
+                  companion_href=None):
     settings = settings or DEFAULT_CONFIG["settings"]
     sections = build_sections(data, settings)
     date_str = digest_date_for(date).strftime("%A, %B %-d, %Y")
     if data.get("nyt_note"):
         date_str = f"{date_str} — NYT Archive pending"
     fetched_str = datetime.datetime.now().strftime("%A, %b %d, %Y at %H:%M")
+
+    # Link across to this day's comprehension page. Rendered unconditionally: the
+    # companion page is written minutes later in the same run, so testing for the
+    # file here would only ever show the link on a re-render.
+    companion_link = ""
+    if companion_href:
+        companion_link = (
+            f'      <a class="btn" href="{_html_escape(companion_href)}" '
+            'title="What today\'s news means — the running threads">'
+            '<span class="ico" aria-hidden="true">✦</span>'
+            '<span class="lbl"> What it means</span></a>'
+        )
 
     body_parts = [
         _render_section("hn", "Yesterday on Hacker News", sections["hn"], "hn"),
@@ -2090,6 +2103,7 @@ def generate_html(date, data, settings=None, archive_href="digest_archive.html")
       <button class="btn" id="expandAll" title="Expand all"><span class="ico" aria-hidden="true">▾</span><span class="lbl"> Expand all</span></button>
       <button class="btn" id="collapseAll" title="Collapse all"><span class="ico" aria-hidden="true">▴</span><span class="lbl"> Collapse all</span></button>
       <button class="btn" id="saveMarks" title="Download your reading marks so the next digest can use them"><span class="ico" aria-hidden="true">⇩</span><span class="lbl"> Save marks</span></button>
+{companion_link}
     </div>
   </div>
 
@@ -2624,6 +2638,11 @@ def github_pages_publish_files(date, settings, daily_html_dir=DAILY_HTML_DIR):
     for _, _, href in digest_archive_entries(daily_html_dir):
         files.append(href)
 
+    companion_dir = REPO_ROOT / "output" / "comprehension"
+    if companion_dir.is_dir():
+        for path in sorted(companion_dir.glob("*.html")) + sorted(companion_dir.glob("*.md")):
+            files.append(str(Path("output") / "comprehension" / path.name))
+
     output_dir = REPO_ROOT / settings.get("ranker_output_dir", "output/ranker_diagnostics")
     for name in (
         f"nyt_wsj_briefing_{date.isoformat()}.md",
@@ -2729,8 +2748,17 @@ def main(target_date=None, summary_config=None, write_json=True):
     )
 
     print("\n  Generating outputs...")
-    html_doc = generate_html(date, data, settings, archive_href="../../digest_archive.html")
-    index_html_doc = generate_html(date, data, settings, archive_href="digest_archive.html")
+    companion_name = f"comprehension_{ddate.isoformat()}.html"
+    html_doc = generate_html(
+        date, data, settings,
+        archive_href="../../digest_archive.html",
+        companion_href=f"../comprehension/{companion_name}",
+    )
+    index_html_doc = generate_html(
+        date, data, settings,
+        archive_href="digest_archive.html",
+        companion_href=f"output/comprehension/{companion_name}",
+    )
     markdown = generate_markdown(date, data, settings)
 
     if preserve_existing_outputs:
