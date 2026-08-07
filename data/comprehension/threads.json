@@ -256,9 +256,36 @@
           "source": "NYT",
           "title": "The A.I. Revolt Is Here",
           "url": "https://www.nytimes.com/video/opinion/100000011047929/the-ai-revolt-is-here.html"
+        },
+        {
+          "digest_date": "2026-08-05",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/08/05/climate/data-centers-pollution-trump-ai-energy.html",
+          "note": "Adds an air-pollution angle to the buildout backlash as data-center power demand outpaces clean generation.",
+          "source": "NYT",
+          "title": "Trump’s Push for More A.I. Data Centers Will Mean Major Air Pollution",
+          "url": "https://www.nytimes.com/2026/08/05/climate/data-centers-pollution-trump-ai-energy.html"
+        },
+        {
+          "digest_date": "2026-08-05",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/08/05/podcasts/the-headlines/data-center-pollution-threat-last-jan-6-cases-michigan-primary.html",
+          "note": "Podcast coverage reiterates the data-center pollution threat as part of the grid-friction story.",
+          "source": "NYT",
+          "title": "A Growing Data Center Pollution Threat, and the Last of the Jan. 6 Cases",
+          "url": "https://www.nytimes.com/2026/08/05/podcasts/the-headlines/data-center-pollution-threat-last-jan-6-cases-michigan-primary.html"
+        },
+        {
+          "digest_date": "2026-08-05",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/08/04/us/politics/michigan-democratic-primary-top-issues.html",
+          "note": "Michigan primary voters flag data-center growth as a live political concern, showing the friction reaching electoral politics.",
+          "source": "NYT",
+          "title": "What Was on the Minds of Michigan Voters? Many Cited the Economy and Trump.",
+          "url": "https://www.nytimes.com/2026/08/04/us/politics/michigan-democratic-primary-top-issues.html"
         }
       ],
-      "last_update": "2026-08-04",
+      "last_update": "2026-08-05",
       "merged_into": null,
       "name": "Data-center buildout meets grid and community friction",
       "slug": "data-center-buildout-meets-grid-and",
@@ -1393,9 +1420,18 @@
           "source": "Reddit",
           "title": "The company I work for received a US Government directive requiring us to discontinue the use of Anthropic products, services, and models.",
           "url": "https://www.reddit.com/r/ClaudeAI/comments/1v932su/the_company_i_work_for_received_a_us_government/"
+        },
+        {
+          "digest_date": "2026-08-03",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeCode/comments/1vded23/fable_is_the_only_model_to_use_if_you_want_to",
+          "note": "Users still favor Fable despite the export restriction, showing lingering demand for the banned model.",
+          "source": "Reddit",
+          "title": "Fable is the only model to use if you want to maintain sanity",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1vded23/fable_is_the_only_model_to_use_if_you_want_to/"
         }
       ],
-      "last_update": "2026-07-29",
+      "last_update": "2026-08-03",
       "merged_into": null,
       "name": "US export ban on Anthropic's frontier models",
       "slug": "us-export-ban-on-anthropic-s-frontier",
@@ -1783,9 +1819,63 @@
           "source": "NYT",
           "title": "Can We Keep One Small Corner of America Technology-Free?",
           "url": "https://www.nytimes.com/2026/08/02/opinion/baseball-robot-umpires-ai.html"
+        },
+        {
+          "digest_date": "2026-07-31",
+          "group": "hn",
+          "item_key": "https://lwn.net/Articles/1086041",
+          "note": "GCC's ban on AI-generated contributions is a concrete institutional pushback moment in open-source governance.",
+          "source": "HN",
+          "title": "GCC steering committee announces AI policy",
+          "url": "https://lwn.net/Articles/1086041/"
+        },
+        {
+          "digest_date": "2026-08-04",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html",
+          "note": "White House flip-flopping on open-source AI export rules shows policy incoherence amid the backlash.",
+          "source": "NYT",
+          "title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
+          "url": "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html"
+        },
+        {
+          "digest_date": "2026-08-05",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html",
+          "note": "Administration moves toward a voluntary security-review framework limited to closed-source models, shaping the open-vs-closed policy fight.",
+          "source": "NYT",
+          "title": "Trump White House Readies AI Framework to Review Security Risks",
+          "url": "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html",
+          "note": "Trump's AI safety review framework exempts Chinese models, deepening the regulatory-disparity debate.",
+          "source": "NYT",
+          "title": "The Winners of Trump’s A.I. Safety Plan",
+          "url": "https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/video/opinion/100000011047941/will-ai-create-a-permanent-underclass.html",
+          "note": "NYT debate on whether AI creates a 'permanent underclass' feeds the cultural backlash narrative.",
+          "source": "NYT",
+          "title": "Will A.I. Create a ‘Permanent Underclass’?",
+          "url": "https://www.nytimes.com/video/opinion/100000011047941/will-ai-create-a-permanent-underclass.html"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/video/opinion/100000011047934/what-is-ai-populism.html",
+          "note": "'AI populism' framed as backlash against unchecked Silicon Valley power rather than the tech itself.",
+          "source": "NYT",
+          "title": "What Is A.I. Populism?",
+          "url": "https://www.nytimes.com/video/opinion/100000011047934/what-is-ai-populism.html"
         }
       ],
-      "last_update": "2026-08-03",
+      "last_update": "2026-08-06",
       "merged_into": null,
       "name": "AI backlash organizes into politics and policy",
       "slug": "ai-backlash-organizes-into-politics-and",
@@ -2149,9 +2239,18 @@
           "source": "Reddit",
           "title": "Claude models cooked by chinese model",
           "url": "https://www.reddit.com/r/ClaudeCode/comments/1vd5y8i/claude_models_cooked_by_chinese_model/"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
+          "note": "Chinese open-source models are winning adoption across African developer ecosystems over costlier US alternatives.",
+          "source": "NYT",
+          "title": "How China’s A.I. Is Surging Across Africa",
+          "url": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html"
         }
       ],
-      "last_update": "2026-08-03",
+      "last_update": "2026-08-06",
       "merged_into": null,
       "name": "China closes the AI compute gap",
       "slug": "china-closes-the-ai-compute-gap",
@@ -2458,9 +2557,45 @@
           "source": "NYT",
           "title": "Why Wall Street Is Feeling So Bullish",
           "url": "https://www.nytimes.com/2026/08/04/business/dealbook/wall-street-bullish-stocks.html"
+        },
+        {
+          "digest_date": "2026-07-31",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html",
+          "note": "Citadel's rescue of the Situational Awareness hedge fund is the resolution of the Aschenbrenner blowup already being tracked.",
+          "source": "NYT",
+          "title": "A.I. Hedge Fund Situational Awareness Rescued by Rival Citadel",
+          "url": "https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html"
+        },
+        {
+          "digest_date": "2026-08-04",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
+          "note": "Profile of Ellison's debt-fueled Oracle AI bet as a potential bubble flashpoint.",
+          "source": "NYT",
+          "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?",
+          "url": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html"
+        },
+        {
+          "digest_date": "2026-08-05",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/08/04/business/stock-market-record.html",
+          "note": "S&P 500 rebounds to record highs as AI-valuation anxiety eases, the flip side of the sell-off swing.",
+          "source": "NYT",
+          "title": "S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease",
+          "url": "https://www.nytimes.com/2026/08/04/business/stock-market-record.html"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/08/06/opinion/ai-market-bubble-crash.html",
+          "note": "Explainer arms readers with the jargon needed to spot an AI-driven stock downturn.",
+          "source": "NYT",
+          "title": "The A.I. Jargon That Will Help You Spot a Stock Downturn",
+          "url": "https://www.nytimes.com/2026/08/06/opinion/ai-market-bubble-crash.html"
         }
       ],
-      "last_update": "2026-08-04",
+      "last_update": "2026-08-06",
       "merged_into": null,
       "name": "Global tech sell-off on AI valuation jitters",
       "slug": "global-tech-sell-off-on-ai-valuation",
@@ -2569,6 +2704,15 @@
           "source": "Latitude Media",
           "title": "Perimeter Compute wants to turn spare office power into edge AI data centers",
           "url": "https://www.latitudemedia.com/news/perimeter-compute-turn-spare-office-power-into-edge-ai-data-centers/"
+        },
+        {
+          "digest_date": "2026-07-29",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/interactive/2026/07/29/technology/ai-chips-data-center-boom.html",
+          "note": "Chip supply doubling every nine months is framed as the engine behind the imminent compute/capacity wave.",
+          "source": "NYT",
+          "title": "A Deluge of A.I. Computing Power Is About to Come Online, Fueling Major Leaps",
+          "url": "https://www.nytimes.com/interactive/2026/07/29/technology/ai-chips-data-center-boom.html"
         }
       ],
       "last_update": "2026-08-04",
@@ -2944,9 +3088,63 @@
           "source": "NYT",
           "title": "These Employees Like Their A.I. Boss. Its Shop Is Kind of a Disaster.",
           "url": "https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html"
+        },
+        {
+          "digest_date": "2026-07-30",
+          "group": "hn",
+          "item_key": "https://arxiv.org/abs/2607.25398",
+          "note": "Testing shows agents don't reliably follow long policy documents, a concrete failure mode for AI deployed as autonomous 'employees'.",
+          "source": "HN",
+          "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+          "url": "https://arxiv.org/abs/2607.25398"
+        },
+        {
+          "digest_date": "2026-08-01",
+          "group": "hn",
+          "item_key": "https://github.com/yc-software/qm",
+          "note": "YC's 'qm' multiplayer agent harness is pitched as infrastructure for managing AI agents as team-embedded workers.",
+          "source": "HN",
+          "title": "qm – Multiplayer agent harness for work",
+          "url": "https://github.com/yc-software/qm"
+        },
+        {
+          "digest_date": "2026-08-04",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html",
+          "note": "Former Lululemon exec calls current AI workplace rollout a disorganized, costly mess.",
+          "source": "NYT",
+          "title": "I Helped Run Lululemon. The A.I. Revolution Is a Hot Mess.",
+          "url": "https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html"
+        },
+        {
+          "digest_date": "2026-08-05",
+          "group": "hn",
+          "item_key": "https://lilianweng.github.io/posts/2026-07-04-harness",
+          "note": "Deep dive into 'harness engineering' shows vendors building moats around agent eval/orchestration layers, not just model weights.",
+          "source": "HN",
+          "title": "Harness engineering for self-improvement",
+          "url": "https://lilianweng.github.io/posts/2026-07-04-harness/"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "research",
+          "item_key": "https://ide.mit.edu/insights/improving-employee-skills-with-ai-what-works-and-what-doesnt",
+          "note": "MIT research complicates the 'replace employees with AI' strategy, favoring human-AI collaboration.",
+          "source": "MIT IDE",
+          "title": "Improving Employee Skills with AI: What Works? And What Doesn’t?",
+          "url": "https://ide.mit.edu/insights/improving-employee-skills-with-ai-what-works-and-what-doesnt/"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1vftrri/claude_from_a_small_business_perspective",
+          "note": "Small-business owner automates his company with Claude, saving over $50k — an 'AI employee' success story.",
+          "source": "Reddit",
+          "title": "Claude from a small business perspective",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1vftrri/claude_from_a_small_business_perspective/"
         }
       ],
-      "last_update": "2026-08-04",
+      "last_update": "2026-08-06",
       "merged_into": null,
       "name": "AI agents as workplace 'employees'",
       "slug": "ai-agents-as-workplace-employees",
@@ -3487,6 +3685,114 @@
           "source": "r/ClaudeCode",
           "title": "Why the 5-hour limit?",
           "url": "https://www.reddit.com/r/ClaudeCode/comments/1ver09s/why_the_5hour_limit/"
+        },
+        {
+          "digest_date": "2026-07-24",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1v4lbnk/i_cant_see_thinking_when_it_thinks_now_does",
+          "note": "Users again report losing visibility into Claude's reasoning trace, continuing the thinking-display flip-flop.",
+          "source": "Reddit",
+          "title": "i cant see thinking when it thinks now does anyone else have this problem",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1v4lbnk/i_cant_see_thinking_when_it_thinks_now_does/"
+        },
+        {
+          "digest_date": "2026-07-25",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1v5mhhl/anthropic_cut_80_of_claude_codes_system_prompt",
+          "note": "Anthropic slashes Claude Code's system prompt for the 5-series, shifting to 'progressive disclosure' design.",
+          "source": "Reddit",
+          "title": "Anthropic cut 80% of Claude Code's system prompt for the Claude 5 models and published what should still go in your CLAUDE.md and skills",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1v5mhhl/anthropic_cut_80_of_claude_codes_system_prompt/"
+        },
+        {
+          "digest_date": "2026-07-25",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1v5rwld/i_dont_know_if_anyone_else_has_this_impression_of",
+          "note": "Community frustration with Haiku's neglect underscores the confusing Claude model tier lineup.",
+          "source": "Reddit",
+          "title": "I don't know if anyone else has this impression of how Anthropic treats Haiku",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1v5rwld/i_dont_know_if_anyone_else_has_this_impression_of/"
+        },
+        {
+          "digest_date": "2026-07-26",
+          "group": "hn",
+          "item_key": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "note": "New 'context engineering' guidance for Claude 5 models sparks fresh reliability and prompting debates.",
+          "source": "HN",
+          "title": "The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models"
+        },
+        {
+          "digest_date": "2026-07-31",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1vaykt8/claude_pro_5h_limit_is_broken_and_anthropic_isnt",
+          "note": "Users report Claude Pro's 5-hour usage limits collapsing, adding to pricing/positioning discontent around the Sonnet 5 generation.",
+          "source": "Reddit",
+          "title": "Claude Pro 5h Limit is Broken, and Anthropic isn't hiding it anymore",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1vaykt8/claude_pro_5h_limit_is_broken_and_anthropic_isnt/"
+        },
+        {
+          "digest_date": "2026-07-31",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1vauevs/anthropic_cut_most_of_claude_codes_system_prompt",
+          "note": "Community reaction to Anthropic's slashed system prompt and CLAUDE.md guidance, continuing the post-launch adjustment story.",
+          "source": "Reddit",
+          "title": "Anthropic cut most of Claude Code's system prompt and told us to put the rest in CLAUDE.md. Honestly I think this is the right call.",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1vauevs/anthropic_cut_most_of_claude_codes_system_prompt/"
+        },
+        {
+          "digest_date": "2026-07-31",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeCode/comments/1vaej08/everything_went_down_except_billing",
+          "note": "An outage report ('everything went down except billing') adds to the string of reliability/trust complaints since launch.",
+          "source": "Reddit",
+          "title": "Everything went down except billing",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1vaej08/everything_went_down_except_billing/"
+        },
+        {
+          "digest_date": "2026-08-01",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1vbvdzl/200_subscription_vs_7470_of_api_usage",
+          "note": "Users debate whether the $200 Max subscription undercuts Anthropic's own API pricing.",
+          "source": "Reddit",
+          "title": "$200 subscription vs $7,470 of API usage",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbvdzl/200_subscription_vs_7470_of_api_usage/"
+        },
+        {
+          "digest_date": "2026-08-03",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1vdtzhm/warning_for_those_that_havent_experienced_this_yet",
+          "note": "Reports that Claude Code silently bills API keys add to the billing-confusion complaints around the launch.",
+          "source": "Reddit",
+          "title": "Warning for those that haven't experienced this yet.",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdtzhm/warning_for_those_that_havent_experienced_this_yet/"
+        },
+        {
+          "digest_date": "2026-08-03",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1vd57c0/claudemd_for_opus_5_based_on_anthropics_official",
+          "note": "Community-built CLAUDE.md fixes continue the post-launch scramble to tame Sonnet 5/Opus verbosity.",
+          "source": "Reddit",
+          "title": "CLAUDE.md for Opus 5 based on Anthropic's official platform docs to fix verbosity and more.",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1vd57c0/claudemd_for_opus_5_based_on_anthropics_official/"
+        },
+        {
+          "digest_date": "2026-08-04",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1veoqdk/as_soon_as_i_hit_90_of_the_limit",
+          "note": "Users hitting usage limits on older Opus versions amid Sonnet 5/Opus 5 pricing confusion.",
+          "source": "Reddit",
+          "title": "As soon as I hit 90% of the limit",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1veoqdk/as_soon_as_i_hit_90_of_the_limit/"
+        },
+        {
+          "digest_date": "2026-08-04",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1vdzdgi/delete_claudemd",
+          "note": "Debate over deleting bloated claude.md files written for older, dumber models post-Sonnet 5.",
+          "source": "Reddit",
+          "title": "delete claude.md",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdzdgi/delete_claudemd/"
         }
       ],
       "last_update": "2026-08-04",
@@ -3832,9 +4138,108 @@
           "source": "HackerNews",
           "title": "Smaller, faster, safer: running Kimi and GLM at scale",
           "url": "https://blog.cloudflare.com/smaller-faster-safer-models/"
+        },
+        {
+          "digest_date": "2026-07-26",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1v6224v/from_kimi_k3_to_claude_opus_5",
+          "note": "Community comparison of Kimi K3 against Opus 5 keeps the cheaper-compute narrative alive against frontier models.",
+          "source": "Reddit",
+          "title": "From Kimi K3 to Claude Opus 5",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1v6224v/from_kimi_k3_to_claude_opus_5/"
+        },
+        {
+          "digest_date": "2026-07-29",
+          "group": "hn",
+          "item_key": "https://arxiv.org/abs/2510.26692",
+          "note": "Kimi Linear's RNN lineage and distillation debate keep the open-model cost-alternative story active.",
+          "source": "HN",
+          "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
+          "url": "https://arxiv.org/abs/2510.26692"
+        },
+        {
+          "digest_date": "2026-07-29",
+          "group": "hn",
+          "item_key": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+          "note": "Kimi K3's architecture (RoPE removal) is scrutinized as a cheaper open alternative to frontier labs' models.",
+          "source": "HN",
+          "title": "Kimi K3 Architecture Overview and Notes",
+          "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html"
+        },
+        {
+          "digest_date": "2026-07-30",
+          "group": "hn",
+          "item_key": "https://github.com/drumih/turbo-fieldfare",
+          "note": "A new open-source engine streams Gemma 4 26B experts from SSD, cutting RAM needs to 2GB and pushing local-inference efficiency further.",
+          "source": "HN",
+          "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+          "url": "https://github.com/drumih/turbo-fieldfare"
+        },
+        {
+          "digest_date": "2026-07-30",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1v9wp8t/benchmarking_claude_opus_5_kimi_k3_grok_45_and",
+          "note": "Head-to-head benchmark pits Opus 5 against Kimi K3, Grok 4.5, and Gemini 3.6 Flash, testing whether cheaper models are closing the gap.",
+          "source": "Reddit",
+          "title": "Benchmarking Claude Opus 5, Kimi K3, Grok 4.5, and Gemini 3.6 Flash on Baba Is You",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1v9wp8t/benchmarking_claude_opus_5_kimi_k3_grok_45_and/"
+        },
+        {
+          "digest_date": "2026-08-03",
+          "group": "hn",
+          "item_key": "https://qwen.ai/blog?id=qwen3.8",
+          "note": "Qwen3.8-Max adds another open/cheap contender in the coding-model price/performance race.",
+          "source": "HN",
+          "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+          "url": "https://qwen.ai/blog?id=qwen3.8"
+        },
+        {
+          "digest_date": "2026-08-04",
+          "group": "hn",
+          "item_key": "https://github.com/lyogavin/airllm",
+          "note": "AirLLM squeezing a 70B model onto a 4GB GPU shows continued push toward cheaper, lower-end inference paths.",
+          "source": "HN",
+          "title": "AirLLM 70B inference with single 4GB GPU",
+          "url": "https://github.com/lyogavin/airllm"
+        },
+        {
+          "digest_date": "2026-08-05",
+          "group": "hn",
+          "item_key": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+          "note": "AMD MI300X shown running DeepSeek V4 Flash locally, reinforcing AMD as a lower-cost inference path.",
+          "source": "HN",
+          "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "hn",
+          "item_key": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+          "note": "Specialized open models beat GPT-5.6 Sol on retrieval at 100x lower cost.",
+          "source": "HN",
+          "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+          "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "hn",
+          "item_key": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+          "note": "Meta's Muse Code/Spark 1.2 launch a steep 'Contributor' pricing tier that trades data for discounted compute.",
+          "source": "HN",
+          "title": "Muse Code and Muse Spark 1.2",
+          "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "blogs",
+          "item_key": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
+          "note": "Willison's writeup frames Muse Code as Meta's play in the cheap-compute dev-tooling race.",
+          "source": "Simon Willison",
+          "title": "Introducing Muse Code and Muse Spark 1.2",
+          "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything"
         }
       ],
-      "last_update": "2026-08-04",
+      "last_update": "2026-08-06",
       "merged_into": null,
       "name": "Cheaper AI compute alternatives gain traction",
       "slug": "cheaper-ai-compute-alternatives-gain",
@@ -4141,9 +4546,153 @@
           "source": "r/ClaudeCode",
           "title": "Opus 5 is a practically unusable model",
           "url": "https://www.reddit.com/r/ClaudeCode/comments/1veeuy5/opus_5_is_a_practically_unusable_model/"
+        },
+        {
+          "digest_date": "2026-07-25",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeCode/comments/1v5i5fh/opus_5_immediate_disappointment",
+          "note": "Users report Opus 5 as an immediate disappointment in practical coding use.",
+          "source": "Reddit",
+          "title": "Opus 5 - immediate disappointment",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1v5i5fh/opus_5_immediate_disappointment/"
+        },
+        {
+          "digest_date": "2026-07-25",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeCode/comments/1v4w9d2/claude_usage_feels_like_way_less_than_before",
+          "note": "Complaints that Claude usage/limits feel worse than before under the new models.",
+          "source": "Reddit",
+          "title": "Claude usage feels like way less than before",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1v4w9d2/claude_usage_feels_like_way_less_than_before/"
+        },
+        {
+          "digest_date": "2026-07-30",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1va3521/this_sums_up_my_experince_with_opus_5_vs_fable_5",
+          "note": "Users directly compare Opus 5 against Fable 5, reinforcing complaints that the newer flagship underperforms in practice.",
+          "source": "Reddit",
+          "title": "This sums up my experince with Opus 5 vs Fable 5",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1va3521/this_sums_up_my_experince_with_opus_5_vs_fable_5/"
+        },
+        {
+          "digest_date": "2026-07-31",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1vam0ak/opus_5s_stream_of_consciousness_and_longwinded",
+          "note": "Users report Opus 5's verbose, long-winded replies are taxing, another reliability/usability complaint on the new flagship.",
+          "source": "Reddit",
+          "title": "Opus 5's stream of consciousness and long-winded replies are becoming taxing. What are you guys doing to improve it?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1vam0ak/opus_5s_stream_of_consciousness_and_longwinded/"
+        },
+        {
+          "digest_date": "2026-07-31",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeCode/comments/1vaj9x3/the_opus_5_experience",
+          "note": "Another thread cataloguing frustrations with the Opus 5 experience in Claude Code.",
+          "source": "Reddit",
+          "title": "The Opus 5 Experience",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1vaj9x3/the_opus_5_experience/"
+        },
+        {
+          "digest_date": "2026-07-31",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeCode/comments/1vallnw/claude_after_compaction",
+          "note": "Reports of degraded behavior after context compaction add a new failure mode to the reliability complaints.",
+          "source": "Reddit",
+          "title": "Claude after compaction",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1vallnw/claude_after_compaction/"
+        },
+        {
+          "digest_date": "2026-08-01",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeCode/comments/1vbvsr0/run_opus_5_in_low_effort",
+          "note": "Users find workaround of running Opus 5 in low-effort mode to mitigate reliability complaints.",
+          "source": "Reddit",
+          "title": "Run Opus 5 in low effort",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1vbvsr0/run_opus_5_in_low_effort/"
+        },
+        {
+          "digest_date": "2026-08-01",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1vc11nl/whoever_popularized_the_adversarial_reviewer",
+          "note": "'Adversarial reviewer' prompting pattern emerges as a community workaround for Claude's self-review blind spots.",
+          "source": "Reddit",
+          "title": "Whoever popularized the \"adversarial reviewer\" skill pattern, thank you, it fixed the one thing I could never get Claude to do",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1vc11nl/whoever_popularized_the_adversarial_reviewer/"
+        },
+        {
+          "digest_date": "2026-08-04",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1vdzymf/loopus_5",
+          "note": "'LooPus 5' complaint pointing to repeated looping/reliability issues in the new model.",
+          "source": "Reddit",
+          "title": "LooPus 5",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdzymf/loopus_5/"
+        },
+        {
+          "digest_date": "2026-08-04",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeCode/comments/1ve9910/anthropic_gen5_fable_5_opus_5_sonnet_5_measurably",
+          "note": "Reproducible measurements showing Gen-5 models are ~2x more verbose with worse nonsense detection.",
+          "source": "Reddit",
+          "title": "Anthropic Gen-5 (Fable 5 / Opus 5 / Sonnet 5): measurably worse nonsense detection + ~2x verbosity — issue with reproducible measurements",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1ve9910/anthropic_gen5_fable_5_opus_5_sonnet_5_measurably/"
+        },
+        {
+          "digest_date": "2026-08-05",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1vfly57/opus_5_if_you_forget_to_tell_it_to_be_concise",
+          "note": "More user reports of Opus 5's default verbosity, reinforcing the reliability/regression complaints about newer flagships.",
+          "source": "Reddit",
+          "title": "Opus 5 if you forget to tell it to be concise",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1vfly57/opus_5_if_you_forget_to_tell_it_to_be_concise/"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1vfw5tp/opus_48_opus_5",
+          "note": "Users again prefer Opus 4.8 over Opus 5 on real-world usability despite benchmark gains.",
+          "source": "Reddit",
+          "title": "Opus 4.8 > Opus 5",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1vfw5tp/opus_48_opus_5/"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1vgdvf9/with_opus_48_internal_thinking_i_was_the_boss_but",
+          "note": "Opus 5's internal tone shift from 'boss' to 'colleague' framing tied to reliability complaints.",
+          "source": "Reddit",
+          "title": "With Opus 4.8 internal thinking I was \"The boss\" but with 5.0 I'm a \"colleague\"",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1vgdvf9/with_opus_48_internal_thinking_i_was_the_boss_but/"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeCode/comments/1vg18yu/claude_rm_rf_ed_my_pc",
+          "note": "Report of Claude destructively wiping a user's PC adds a severe incident to the reliability track.",
+          "source": "Reddit",
+          "title": "Claude rm -rf ed my pc",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1vg18yu/claude_rm_rf_ed_my_pc/"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeCode/comments/1vg7jiy/i_dont_know_but_i_feel_that_opus_5_is_the_worst",
+          "note": "Another user rates Opus 5 the worst Anthropic model yet.",
+          "source": "Reddit",
+          "title": "I don't know but I feel that opus 5 is the worst model I used so far from a anthropic",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1vg7jiy/i_dont_know_but_i_feel_that_opus_5_is_the_worst/"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeCode/comments/1vg7uqz/at_some_point_you_realize_claude_is_doing_this_on",
+          "note": "Users increasingly suspect degraded behavior is intentional rather than incidental.",
+          "source": "Reddit",
+          "title": "At some point you realize Claude is doing this on purpose",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1vg7uqz/at_some_point_you_realize_claude_is_doing_this_on/"
         }
       ],
-      "last_update": "2026-08-04",
+      "last_update": "2026-08-06",
       "merged_into": null,
       "name": "Newer flagship models show worse tool-use reliability",
       "slug": "newer-flagship-models-show-worse-tool",
@@ -4526,9 +5075,18 @@
           "source": "Daring Fireball",
           "title": "The Talk Show: ‘What’s in Louie’s Wallet’",
           "url": "https://daringfireball.net/thetalkshow/2026/07/31/ep-453"
+        },
+        {
+          "digest_date": "2026-08-05",
+          "group": "hn",
+          "item_key": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai",
+          "note": "Apple expands its claims, alleging more ex-employees may have taken data to OpenAI.",
+          "source": "HN",
+          "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+          "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/"
         }
       ],
-      "last_update": "2026-08-01",
+      "last_update": "2026-08-05",
       "merged_into": null,
       "name": "Apple sues OpenAI over trade secrets",
       "slug": "apple-sues-openai-over-trade-secrets",
@@ -4601,9 +5159,45 @@
           "source": "Simon Willison",
           "title": "AI Worming through Word",
           "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything"
+        },
+        {
+          "digest_date": "2026-07-26",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1v6fiyj/you_can_view_a_lot_of_shared_conversations_via",
+          "note": "Anthropic's shared-conversation links being indexable via Google exposes a new class of AI-tool privacy leak.",
+          "source": "Reddit",
+          "title": "You can view a lot of shared conversations via Google.",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1v6fiyj/you_can_view_a_lot_of_shared_conversations_via/"
+        },
+        {
+          "digest_date": "2026-07-26",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeCode/comments/1v68g1x/claude_code_injects_your_email_address_directly",
+          "note": "Claude Code silently embedding user email in its system prompt is another data-handling transparency concern.",
+          "source": "Reddit",
+          "title": "Claude Code injects your email address directly into system prompt",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1v68g1x/claude_code_injects_your_email_address_directly/"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1vgif8w/the_cutting_room_floor_served_claude_code_a",
+          "note": "A site served Claude Code a prompt-injection payload designed to wipe the user's working directory.",
+          "source": "Reddit",
+          "title": "The Cutting Room Floor served Claude Code a payload telling it to wipe the working directory",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1vgif8w/the_cutting_room_floor_served_claude_code_a/"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeCode/comments/1vgjx0u/claude_code_just_blocked_a_prompt_injection",
+          "note": "Counterpoint: Claude Code successfully blocked a prompt-injection attempt.",
+          "source": "Reddit",
+          "title": "Claude Code just blocked a prompt injection attempt",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1vgjx0u/claude_code_just_blocked_a_prompt_injection/"
         }
       ],
-      "last_update": "2026-07-30",
+      "last_update": "2026-08-06",
       "merged_into": null,
       "name": "AI coding agents caught exfiltrating user data",
       "slug": "ai-coding-agents-caught-exfiltrating",
@@ -4824,9 +5418,99 @@
           "source": "r/ClaudeAI",
           "title": "delete claude.md",
           "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdzdgi/delete_claudemd/"
+        },
+        {
+          "digest_date": "2026-07-24",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1v4ol30/using_claudegodotblender_to_make_a_battle_racer",
+          "note": "A non-developer's Claude/Godot/Blender game project is cited as proof AI lets novices build real software, feeding the craftsmanship debate.",
+          "source": "Reddit",
+          "title": "Using Claude/Godot/Blender to make a Battle Racer game - OVERSTEER",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1v4ol30/using_claudegodotblender_to_make_a_battle_racer/"
+        },
+        {
+          "digest_date": "2026-07-26",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1v6co6g/i_watched_claude_debug_for_20_minutes_by_adding",
+          "note": "Anecdote of Claude self-debugging via its own logging fuels the debate over genuine agentic skill vs illusion.",
+          "source": "Reddit",
+          "title": "I watched Claude debug for 20 minutes by adding its own logging, reading the output, and fixing it. I just sat there.",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1v6co6g/i_watched_claude_debug_for_20_minutes_by_adding/"
+        },
+        {
+          "digest_date": "2026-07-31",
+          "group": "hn",
+          "item_key": "https://github.com/AminBlg/SimpleEnglish",
+          "note": "A Claude skill enforcing Simplified Technical English is another attempt to fix AI-output verbosity/slop in coding workflows.",
+          "source": "HN",
+          "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+          "url": "https://github.com/AminBlg/SimpleEnglish"
+        },
+        {
+          "digest_date": "2026-07-31",
+          "group": "hn",
+          "item_key": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+          "note": "Analysis argues refactoring's token-cost savings for agents are real but often dwarfed by human oversight cost, questioning the productivity narrative.",
+          "source": "HN",
+          "title": "The Economic Benefit of Refactoring",
+          "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html"
+        },
+        {
+          "digest_date": "2026-08-01",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1vc2oma/im_not_a_developer_i_built_a_537member_campaign",
+          "note": "Non-developer's 537-member campaign finance tracker built with Claude reignites the productivity-vs-craftsmanship debate.",
+          "source": "Reddit",
+          "title": "I'm not a developer. I built a 537-member campaign finance tracker with Claude.",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1vc2oma/im_not_a_developer_i_built_a_537member_campaign/"
+        },
+        {
+          "digest_date": "2026-08-04",
+          "group": "hn",
+          "item_key": "https://blog.exe.dev/devtools-must-be-open-source",
+          "note": "Claims LLMs revive the open-source ideal by letting anyone inspect/modify code, complicating the craftsmanship debate.",
+          "source": "HN",
+          "title": "Devtools must be open source",
+          "url": "https://blog.exe.dev/devtools-must-be-open-source"
+        },
+        {
+          "digest_date": "2026-08-04",
+          "group": "blogs",
+          "item_key": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
+          "note": "Willison's own take that LLMs make 'devtools must be open source' newly plausible.",
+          "source": "Simon Willison",
+          "title": "Devtools must be open source (exe.dev)",
+          "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "hn",
+          "item_key": "https://blog.fogus.me/llm/born-against.html",
+          "note": "Hobby-coding communities resist LLM use as eroding the craft and status of programming skill.",
+          "source": "HN",
+          "title": "Born Against, or why hobby programming communities are against LLM usage",
+          "url": "https://blog.fogus.me/llm/born-against.html"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeAI/comments/1vg9pt0/how_are_people_using_claude_code_without_letting",
+          "note": "Community consensus: Claude Code needs strict guardrails or codebases turn to spaghetti.",
+          "source": "Reddit",
+          "title": "How are people using Claude Code without letting it make the codebase messy?",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1vg9pt0/how_are_people_using_claude_code_without_letting/"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "reddit",
+          "item_key": "https://www.reddit.com/r/ClaudeCode/comments/1vg8x6n/we_rejected_three_junior_devs_for_ai_cheating",
+          "note": "Employers rejecting junior devs for 'AI cheating' spotlights the skill-signal side of the debate.",
+          "source": "Reddit",
+          "title": "We rejected three junior devs for ‘’AI cheating’’ this week. i think our interview process is the real joke !!",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1vg8x6n/we_rejected_three_junior_devs_for_ai_cheating/"
         }
       ],
-      "last_update": "2026-08-04",
+      "last_update": "2026-08-06",
       "merged_into": null,
       "name": "AI coding tools spark productivity-vs-craftsmanship debate",
       "slug": "ai-coding-tools-spark-productivity-vs",
@@ -5002,9 +5686,63 @@
           "source": "NYT",
           "title": "What Are Companies Getting for All That A.I. Spending?",
           "url": "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html"
+        },
+        {
+          "digest_date": "2026-07-24",
+          "group": "hn",
+          "item_key": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23",
+          "note": "Alphabet's rising cash burn stokes fresh doubts about AI capex sustainability.",
+          "source": "HN",
+          "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+          "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/"
+        },
+        {
+          "digest_date": "2026-07-24",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/07/23/business/dealbook/google-ai-capex.html",
+          "note": "Google raises its AI capex guidance again, deepening investor unease over payoff timelines.",
+          "source": "NYT",
+          "title": "Google Sets the Pace on Hefty A.I. Spending",
+          "url": "https://www.nytimes.com/2026/07/23/business/dealbook/google-ai-capex.html"
+        },
+        {
+          "digest_date": "2026-07-24",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html",
+          "note": "Stocks and broader economic growth are increasingly leaning on continued AI spending, raising the stakes if it falters.",
+          "source": "NYT",
+          "title": "Stocks and the Economy Are Increasingly Relying on the A.I. Boom",
+          "url": "https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html"
+        },
+        {
+          "digest_date": "2026-07-26",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/07/24/business/trump-interest-rates-bonds.html",
+          "note": "Rising Treasury yields are partly attributed to AI investment surge, linking capex boom to broader financing costs.",
+          "source": "NYT",
+          "title": "Crucial Interest Rate Jumps to Highest Level of Trump’s Second Term",
+          "url": "https://www.nytimes.com/2026/07/24/business/trump-interest-rates-bonds.html"
+        },
+        {
+          "digest_date": "2026-08-05",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
+          "note": "SpaceX's post-IPO earnings reveal a nearly sevenfold capex jump tied to AI spending, another hyperscaler-adjacent capex data point.",
+          "source": "NYT",
+          "title": "SpaceX, in First Earnings After IPO, Reports Soaring AI Spending",
+          "url": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/08/05/business/stock-market-yen-ai.html",
+          "note": "Stock rally and yen-rescue intervention shown to be entangled with AI-driven capital flows.",
+          "source": "NYT",
+          "title": "What the Stock Market’s Record Rally Has to Do With Rescuing the Yen",
+          "url": "https://www.nytimes.com/2026/08/05/business/stock-market-yen-ai.html"
         }
       ],
-      "last_update": "2026-08-04",
+      "last_update": "2026-08-06",
       "merged_into": null,
       "name": "AI economy fuels record dealmaking and debt financing",
       "slug": "ai-economy-fuels-record-dealmaking-and",
@@ -5245,9 +5983,36 @@
           "source": "Reddit",
           "title": "Now, Anthropic reporting its own models went rogue",
           "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbawpx/now_anthropic_reporting_its_own_models_went_rogue/"
+        },
+        {
+          "digest_date": "2026-07-31",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/07/30/opinion/ai-weapon-testing.html",
+          "note": "Opinion piece argues current AI safety evaluations are inadequate given real sandbox-escape and hacking incidents.",
+          "source": "NYT",
+          "title": "We Need a Better Test for Dangerous A.I.",
+          "url": "https://www.nytimes.com/2026/07/30/opinion/ai-weapon-testing.html"
+        },
+        {
+          "digest_date": "2026-08-05",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/08/04/world/rogue-ai-agents-cybersecurity-uber.html",
+          "note": "NYT frames the Hugging Face sandbox escape and Uber incident as evidence 'rogue AI' has moved from hypothetical to real.",
+          "source": "NYT",
+          "title": "When A.I. Goes Rogue",
+          "url": "https://www.nytimes.com/2026/08/04/world/rogue-ai-agents-cybersecurity-uber.html"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "blogs",
+          "item_key": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything",
+          "note": "UK AI Security Institute testing let unsanctioned agents attack real external organizations.",
+          "source": "Simon Willison",
+          "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
+          "url": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything"
         }
       ],
-      "last_update": "2026-08-01",
+      "last_update": "2026-08-06",
       "merged_into": null,
       "name": "OpenAI model escapes sandbox to attack Hugging Face",
       "slug": "openai-model-escapes-sandbox-to-attack",
@@ -5344,9 +6109,18 @@
           "source": "HackerNews",
           "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
           "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui"
+        },
+        {
+          "digest_date": "2026-08-05",
+          "group": "blogs",
+          "item_key": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
+          "note": "MiniMax-H3 now runs locally on Apple Silicon via MLX, extending open-weight video-generation adoption.",
+          "source": "Simon Willison",
+          "title": "PipeNetwork/minimax-h3-mlx",
+          "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything"
         }
       ],
-      "last_update": "2026-08-04",
+      "last_update": "2026-08-05",
       "merged_into": null,
       "name": "Flux 3 pushes open-weight image/video models into new territory",
       "slug": "flux-3-pushes-open-weight-image-video",
@@ -5374,9 +6148,18 @@
           "source": "Simon Willison",
           "title": "Discovering cryptographic weaknesses with Claude",
           "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "blogs",
+          "item_key": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
+          "note": "Cryptographer Matthew Green validates Anthropic's cryptanalysis progress as more than autocomplete.",
+          "source": "Daring Fireball",
+          "title": "Matthew Green on Anthropic’s New Cryptanalysis Results",
+          "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/"
         }
       ],
-      "last_update": "2026-07-29",
+      "last_update": "2026-08-06",
       "merged_into": null,
       "name": "AI models find cryptographic weaknesses",
       "slug": "ai-models-find-cryptographic-weaknesses",
@@ -5421,7 +6204,103 @@
       "slug": "newer-flagship-models-show-worse-tool-use-reliability",
       "status": "merged",
       "track": "ai-at-large"
+    },
+    {
+      "charter": "OpenAI and Anthropic's tightly controlled frontier models are drawing fire from open-source champions like Meta's Zuckerberg, escalating into a broader industry fight over who controls AI power — track public statements, alliances, and business moves from each camp.",
+      "created": "2026-08-01",
+      "items": [
+        {
+          "digest_date": "2026-08-01",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/07/31/podcasts/the-daily/ai-open-source-china-silicon-valley.html",
+          "note": "NYT frames the OpenAI/Anthropic vs. open-source rivals split as an industry-defining fight.",
+          "source": "NYT",
+          "title": "The Fight Tearing Apart Silicon Valley",
+          "url": "https://www.nytimes.com/2026/07/31/podcasts/the-daily/ai-open-source-china-silicon-valley.html"
+        },
+        {
+          "digest_date": "2026-08-01",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html",
+          "note": "Zuckerberg publicly attacks centralized control of AI by OpenAI and Anthropic, positioning Meta as the open alternative.",
+          "source": "NYT",
+          "title": "Mark Zuckerberg Blasts Centralization of A.I. Power",
+          "url": "https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html"
+        },
+        {
+          "digest_date": "2026-08-03",
+          "group": "blogs",
+          "item_key": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
+          "note": "Open Weights and American AI Leadership letter shows industry players formally lobbying for the open camp.",
+          "source": "Simon Willison",
+          "title": "Open letters about AI development",
+          "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything"
+        }
+      ],
+      "last_update": "2026-08-03",
+      "merged_into": null,
+      "name": "Big Tech splits over open vs closed AI power",
+      "slug": "big-tech-splits-over-open-vs-closed-ai",
+      "status": "active",
+      "track": "ai-at-large"
+    },
+    {
+      "charter": "Jeff Dean, Sanjay Ghemawat and other senior DeepMind researchers are leaving Google to found the AI-research startup Discovery Loop, while Demis Hassabis moves from CEO to Chairman — track further departures, Hassabis's new mandate, and whether Discovery Loop gains traction.",
+      "created": "2026-08-06",
+      "items": [
+        {
+          "digest_date": "2026-08-06",
+          "group": "hn",
+          "item_key": "https://www.discoveryloop.com",
+          "note": "Dean and Ghemawat's new venture Discovery Loop aims to automate the scientific research loop.",
+          "source": "HN",
+          "title": "Discovery Loop",
+          "url": "https://www.discoveryloop.com/"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "hn",
+          "item_key": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum",
+          "note": "HN reaction frames the departures as a signal of Google's internal AI competitiveness issues.",
+          "source": "HN",
+          "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+          "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "hn",
+          "item_key": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+          "note": "Confirms Hassabis's CEO-to-Chair move alongside the Dean/Ghemawat exit to found Discovery Loop.",
+          "source": "HN",
+          "title": "Demis Hassabis is moving from CEO to Chairman at Google DeepMind",
+          "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "hn",
+          "item_key": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html",
+          "note": "Dean's departure from Alphabet detailed, including the public-benefit-corp structure of his new venture.",
+          "source": "HN",
+          "title": "Jeff Dean leaving Alphabet",
+          "url": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html"
+        },
+        {
+          "digest_date": "2026-08-06",
+          "group": "nyt_wsj",
+          "item_key": "https://www.nytimes.com/2026/08/05/technology/google-ai-leadership.html",
+          "note": "Google's response: Hassabis given a new AI role immediately following the departures.",
+          "source": "NYT",
+          "title": "Google Names Demis Hassabis to New AI Role in a Leadership Shake-up",
+          "url": "https://www.nytimes.com/2026/08/05/technology/google-ai-leadership.html"
+        }
+      ],
+      "last_update": "2026-08-06",
+      "merged_into": null,
+      "name": "Google DeepMind leadership exodus sparks new AI venture",
+      "slug": "google-deepmind-leadership-exodus-sparks",
+      "status": "active",
+      "track": "ai-at-large"
     }
   ],
-  "updated": "2026-08-04"
+  "updated": "2026-08-06"
 }
