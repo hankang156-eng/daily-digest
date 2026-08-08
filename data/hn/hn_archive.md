@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-07 · 457 days · 4570 stories*
+*Last updated: 2026-08-08 · 458 days · 4580 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-07 | Friday | 1 | US strikes $1.2B deal to pay German firm to halt offshore wind projects | 878 | 841 | Technology | [link](https://www.bbc.com/news/articles/c1e1vg0gjl5o) · [HN](https://news.ycombinator.com/item?id=49208314) |
+| 2026-08-07 | Friday | 2 | What happens if an entire class of workers loses faith in their careers | 671 | 744 | Technology | [link](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/) · [HN](https://news.ycombinator.com/item?id=49209539) |
+| 2026-08-07 | Friday | 3 | DeepSeek V4 Flash 0731 | 631 | 380 | Technology | [link](https://arcprize.org/results/deepseek-v4-flash-0731) · [HN](https://news.ycombinator.com/item?id=49214008) |
+| 2026-08-07 | Friday | 4 | Oracle bans AI-generated code from OpenJDK | 472 | 335 | Technology | [link](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) · [HN](https://news.ycombinator.com/item?id=49213754) |
+| 2026-08-07 | Friday | 5 | A year of fighting scrapers on my 1.5 million-page website | 420 | 383 | Technology | [link](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/) · [HN](https://news.ycombinator.com/item?id=49211386) |
+| 2026-08-07 | Friday | 6 | 2027 memory capacity is reportedly sold out | 369 | 336 | Technology | [link](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out) · [HN](https://news.ycombinator.com/item?id=49207236) |
+| 2026-08-07 | Friday | 7 | Assembly Hall of Shame | 346 | 85 | Technology | [link](https://github.com/xoreaxeaxeax/asm-hall-of-shame) · [HN](https://news.ycombinator.com/item?id=49214098) |
+| 2026-08-07 | Friday | 8 | U.S. economy lost 23,000 jobs in July, a sudden reversal | 345 | 342 | Technology | [link](https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138) · [HN](https://news.ycombinator.com/item?id=49209546) |
+| 2026-08-07 | Friday | 9 | App Store Rejection of the Week: Dark Hours | 321 | 184 | Technology | [link](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours) · [HN](https://news.ycombinator.com/item?id=49214863) |
+| 2026-08-07 | Friday | 10 | The Nixpkgs core team has disbanded | 301 | 147 | Technology | [link](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413) · [HN](https://news.ycombinator.com/item?id=49217993) |
 | 2026-08-06 | Thursday | 1 | Mario Meets Pareto | 1046 | 160 | Technology | [link](https://www.mayerowitz.io/blog/mario-meets-pareto) · [HN](https://news.ycombinator.com/item?id=49195231) |
 | 2026-08-06 | Thursday | 2 | Crime Pays but Botany Doesn't | 669 | 209 | Technology | [link](https://www.crimepaysbutbotanydoesnt.com/reading-list) · [HN](https://news.ycombinator.com/item?id=49192566) |
 | 2026-08-06 | Thursday | 3 | AMD acquires Taalas to boost inference performance by etching models in silicon | 665 | 506 | Technology | [link](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) · [HN](https://news.ycombinator.com/item?id=49201970) |

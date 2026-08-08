@@ -1,9 +1,71 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-07 · 5127 items*
+*Last updated: 2026-08-08 · 5189 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-07 | US strikes $1.2B deal to pay German firm to halt offshore wind projects | HN | Technology | tech | 2026-08-07 | [link](https://www.bbc.com/news/articles/c1e1vg0gjl5o) |
+| 2026-08-07 | What happens if an entire class of workers loses faith in their careers | HN | Technology | tech | 2026-08-07 | [link](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/) |
+| 2026-08-07 | DeepSeek V4 Flash 0731 | HN | Technology | tech | 2026-08-07 | [link](https://arcprize.org/results/deepseek-v4-flash-0731) |
+| 2026-08-07 | Oracle bans AI-generated code from OpenJDK | HN | Technology | tech | 2026-08-07 | [link](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) |
+| 2026-08-07 | A year of fighting scrapers on my 1.5 million-page website | HN | Technology | tech | 2026-08-07 | [link](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/) |
+| 2026-08-07 | 2027 memory capacity is reportedly sold out | HN | Technology | tech | 2026-08-07 | [link](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out) |
+| 2026-08-07 | Assembly Hall of Shame | HN | Technology | tech | 2026-08-07 | [link](https://github.com/xoreaxeaxeax/asm-hall-of-shame) |
+| 2026-08-07 | U.S. economy lost 23,000 jobs in July, a sudden reversal | HN | Technology | tech | 2026-08-07 | [link](https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138) |
+| 2026-08-07 | App Store Rejection of the Week: Dark Hours | HN | Technology | tech | 2026-08-07 | [link](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours) |
+| 2026-08-07 | The Nixpkgs core team has disbanded | HN | Technology | tech | 2026-08-07 | [link](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413) |
+| 2026-08-07 | Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD | HN | Technology | tech | 2026-08-07 | [link](https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/) |
+| 2026-08-07 | NASA figured out how to keep its Voyager 2 probe running for another year | HN | Technology | tech | 2026-08-07 | [link](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year) |
+| 2026-08-07 | Managing AI Coding Costs at Scale | HN | Technology | tech | 2026-08-07 | [link](https://www.databricks.com/blog/managing-ai-coding-costs-scale) |
+| 2026-08-07 | U.S. Department of Energy Launches the Genesis Open Models Initiative | HN | Technology | tech | 2026-08-07 | [link](https://genesisopenmodels.anl.gov/) |
+| 2026-08-07 | Ancient Library – 1,060 Greek/Latin texts, click any word to parse it | HN | Technology | tech | 2026-08-07 | [link](https://ancientlibrary.net/) |
+| 2026-08-07 | Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video] | HN | Technology | tech | 2026-08-07 | [link](https://www.youtube.com/watch?v=UufMqwyO7pY) |
+| 2026-08-07 | New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S. | NYT · AI | AI | news | 2026-08-08 | [link](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html) |
+| 2026-08-07 | Prosecutor Sues Justice Dept. Over Dismissal After Right-Wing Influencer’s Claim | NYT · Politics | Politics | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/07/us/politics/prosecutor-fired-lawsuit-justice-department.html) |
+| 2026-08-07 | The Bond Market Is Signaling Rising Risks. Investors Should Listen. | NYT · Business | Business | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html) |
+| 2026-08-07 | China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots | NYT · AI | AI | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html) |
+| 2026-08-07 | Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook | NYT · Business | Business | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html) |
+| 2026-08-07 | Trump Issues Tariffs on Key Ingredient for Electronics and Solar Panels | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/us/politics/trump-tariffs-solar-panels.html) |
+| 2026-08-07 | Trump’s Push for More A.I. Data Centers Will Mean Major Air Pollution | NYT · Energy & Environment | Energy & Environment | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/05/climate/data-centers-pollution-trump-ai-energy.html) |
+| 2026-08-07 | This A.I. Just Created Viruses Not Found in Nature | NYT · AI | AI | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html) |
+| 2026-08-07 | The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The F | NYT · AI | AI | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html) |
+| 2026-08-07 | The A.I. Jargon That Will Help You Spot a Stock Downturn | NYT · AI | AI | opinion | 2026-08-07 | [link](https://www.nytimes.com/2026/08/06/opinion/ai-market-bubble-crash.html) |
+| 2026-08-07 | Birds Are Dying. Clues Point to El Niño. | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html) |
+| 2026-08-07 | Follow the Markets and Track Stocks With These Free Apps | NYT · Technology | Technology | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html) |
+| 2026-08-07 | F.C.C. Removes Limit on Broadcast TV Ownership | NYT · Technology | Technology | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/technology/fcc-broadcast-tv-ownership.html) |
+| 2026-08-07 | What the Stock Market’s Record Rally Has to Do With Rescuing the Yen | NYT · AI | AI | news | 2026-08-05 | [link](https://www.nytimes.com/2026/08/05/business/stock-market-yen-ai.html) |
+| 2026-08-07 | Why Scott Galloway Is an A.I. Optimist | NYT · AI | AI | opinion | 2026-08-07 | [link](https://www.nytimes.com/video/opinion/100000011066450/why-scott-galloway-is-an-ai-optimist.html) |
+| 2026-08-07 | At the Fed, Kevin Warsh’s Silence Speaks Volumes | NYT · Opinion | Opinion | opinion | 2026-08-07 | [link](https://www.nytimes.com/2026/08/07/opinion/kevin-warsh-federal-reserve-inflation.html) |
+| 2026-08-07 | Trump Administration Is Repurposing Federal Land for A.I. Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html) |
+| 2026-08-07 | Trump White House Readies AI Framework to Review Security Risks | NYT · Technology | Technology | opinion | 2026-08-05 | [link](https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html) |
+| 2026-08-07 | Appeals Court Upholds Block on Trump Ballroom Construction | NYT · Politics | Politics | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html) |
+| 2026-08-07 | Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio | NYT · Politics | Politics | news | 2026-08-08 | [link](https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html) |
+| 2026-08-07 | Now we have a timeline of the OpenAI accidental attack against Hugging Face | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-07 | [link](https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything) |
+| 2026-08-07 | Sponsored: Efficient data center water cooling for Australia’s market | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-07 | [link](https://www.datacenterdynamics.com/en/opinions/efficient-data-center-water-cooling-for-australias-market/) |
+| 2026-08-07 | Tampa Electric picks Ericsson, OneLayer, and Burns & McDonnell for private LTE network deployment | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-07 | [link](https://www.datacenterdynamics.com/en/news/tampa-electric-picks-ericsson-onelayer-and-burns-mcdonnell-for-private-lte-network-deployment/) |
+| 2026-08-07 | The utility billing system is preventing rate and program innovation | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-07 | [link](https://www.utilitydive.com/news/utility-billing-system-preventing-rate-program-innovation/826053/) |
+| 2026-08-07 | Existing power plants are ‘bedrock’ in supplying data centers: Constellation CEO | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-07 | [link](https://www.utilitydive.com/news/existing-power-plants-supply-data-centers-constellation/827326/) |
+| 2026-08-07 | Data centers have a Texas-sized energy problem | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-07 | [link](https://www.latitudemedia.com/news/open-circuit-data-centers-have-a-texas-sized-energy-problem/) |
+| 2026-08-07 | Leadership Shake-Up at Google DeepMind | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-07 | [link](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/) |
+| 2026-08-07 | The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-07 | [link](https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything) |
+| 2026-08-07 | ‘Google’s Top AI Brains Are Leaving to Launch Discovery Loop’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-07 | [link](https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/?ref=spyglass.org) |
+| 2026-08-07 | Metadata for AI Generated Outputs | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-07 | [link](https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/) |
+| 2026-08-07 | I used Claude cli to vibe code a compass app to find the nearest toilet, called Compiss. | Reddit | Business | social | 2026-08-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vi5guo/i_used_claude_cli_to_vibe_code_a_compass_app_to/) |
+| 2026-08-07 | I spent $3000 to build my dream game on Claude Code. It's finally done. Thoughts? | Reddit | Business | social | 2026-08-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vi1iv9/i_spent_3000_to_build_my_dream_game_on_claude/) |
+| 2026-08-07 | I gave a Claude Fable 5 agent a domain and $90 it can't spend without me. It named itself Cairn and  | Reddit | Business | social | 2026-08-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vhp54h/i_gave_a_claude_fable_5_agent_a_domain_and_90_it/) |
+| 2026-08-07 | People say Opus 5 is inaccessible but if you just read it in Werner Herzog's voice, it's fine | Reddit | Business | social | 2026-08-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vhyqee/people_say_opus_5_is_inaccessible_but_if_you_just/) |
+| 2026-08-07 | Is this the future? | Reddit | Business | social | 2026-08-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vi0ts7/is_this_the_future/) |
+| 2026-08-07 | Looks claude code desktop is leaking the memory. | Reddit | Business | social | 2026-08-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vi6imx/looks_claude_code_desktop_is_leaking_the_memory/) |
+| 2026-08-07 | AI agents reading r/ClaudeAI: brief roll call | Reddit | Business | social | 2026-08-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vhr11p/ai_agents_reading_rclaudeai_brief_roll_call/) |
+| 2026-08-07 | [Warning] Hidden "instantaneous" plan limit (not just 5hr & 1wk) | Reddit | Business | social | 2026-08-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vhphmc/warning_hidden_instantaneous_plan_limit_not_just/) |
+| 2026-08-07 | I asked Fable to map all of a Youtuber's motorbike adventures (~750 videos) with linking sectors to  | Reddit | Business | social | 2026-08-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vi0r6x/i_asked_fable_to_map_all_of_a_youtubers_motorbike/) |
+| 2026-08-07 | "AI Expert" != Gets S**t Done | Reddit | Business | social | 2026-08-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vifhsi/ai_expert_gets_st_done/) |
+| 2026-08-07 | Bye Google Keep… | Reddit | Business | social | 2026-08-07 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vhqa3u/bye_google_keep/) |
+| 2026-08-07 | Ink Paper v1.1.3 update | Reddit | Business | social | 2026-08-07 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vi79v0/ink_paper_v113_update/) |
+| 2026-08-07 | Obsidian 1.13.6 (early access) for desktop and mobile | Reddit | Business | social | 2026-08-07 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vi1z7w/obsidian_1136_early_access_for_desktop_and_mobile/) |
+| 2026-08-07 | What I was expecting Obsidian to be better at. | Reddit | Business | social | 2026-08-07 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vi3x2s/what_i_was_expecting_obsidian_to_be_better_at/) |
+| 2026-08-07 | How many vaults for my use case? | Reddit | Business | social | 2026-08-07 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vi6zhb/how_many_vaults_for_my_use_case/) |
+| 2026-08-07 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-06 | Mario Meets Pareto | HN | Technology | tech | 2026-08-06 | [link](https://www.mayerowitz.io/blog/mario-meets-pareto) |
 | 2026-08-06 | Crime Pays but Botany Doesn't | HN | Technology | tech | 2026-08-06 | [link](https://www.crimepaysbutbotanydoesnt.com/reading-list) |
 | 2026-08-06 | AMD acquires Taalas to boost inference performance by etching models in silicon | HN | Technology | tech | 2026-08-06 | [link](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) |
