@@ -294,6 +294,12 @@ def parse_args(argv=None):
         action="store_true",
         help="Skip writing output/digest_json/digest_DATE.json (the comprehension input).",
     )
+    parser.add_argument(
+        "--publish-only",
+        dest="publish_only",
+        action="store_true",
+        help="Publish existing outputs without regenerating anything (used after the comprehension pass).",
+    )
     return parser.parse_args(argv)
 
 
@@ -2834,6 +2840,13 @@ def main(target_date=None, summary_config=None, write_json=True):
 def cli(argv=None):
     args = parse_args(argv)
     target_date = content_date_from_user_input(args.date) if args.date else None
+    if args.publish_only:
+        # The comprehension pass runs after main() has already published, so its
+        # companion pages would otherwise wait a day for the next run's push -
+        # leaving each digest linking to a page that is not live yet.
+        config = load_config()
+        push_to_github(target_date or get_yesterday(), config)
+        return {"published": True}
     try:
         summary_config = summary_config_from_args(args)
     except ValueError as e:

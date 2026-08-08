@@ -112,6 +112,17 @@ if [ "$DIGEST_STATUS" -eq 0 ]; then
             log "  [Comprehension] weekly synthesis exited $WEEKLY_STATUS; not fatal."
         fi
     fi
+
+    # Publish again. The digest published inside step [2/4], before the companion
+    # page existed, so without this the digest links to a page that only goes live
+    # with tomorrow's push. Also never fatal.
+    log ""
+    log "  [3c/4] Publishing comprehension outputs..."
+    PYTHONUNBUFFERED=1 "$PYTHON" src/daily_digest.py --publish-only ${DIGEST_DATE:+--date "$DIGEST_DATE"} 2>&1 | tee -a "$LOG_FILE"
+    REPUBLISH_STATUS=${PIPESTATUS[0]}
+    if [ "$REPUBLISH_STATUS" -ne 0 ]; then
+        log "  [Comprehension] publish step exited $REPUBLISH_STATUS; not fatal."
+    fi
 else
     log "  [3/4] Skipping comprehension because the digest failed."
 fi
