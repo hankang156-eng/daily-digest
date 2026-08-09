@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-08 · 458 days · 4580 stories*
+*Last updated: 2026-08-09 · 459 days · 4590 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-08 | Saturday | 1 | “Code was never the hard part” is an insult to all programmers | 766 | 447 | Technology | [link](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers) · [HN](https://news.ycombinator.com/item?id=49222189) |
+| 2026-08-08 | Saturday | 2 | Danish high schoolers will have to verbally defend written assignments | 575 | 254 | Technology | [link](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/) · [HN](https://news.ycombinator.com/item?id=49224294) |
+| 2026-08-08 | Saturday | 3 | Fastmail offers EU data region | 417 | 216 | Technology | [link](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/) · [HN](https://news.ycombinator.com/item?id=49223082) |
+| 2026-08-08 | Saturday | 4 | DeepMind's WeatherNext model achieves breakthrough forecasting cyclones | 417 | 123 | Technology | [link](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) · [HN](https://news.ycombinator.com/item?id=49220126) |
+| 2026-08-08 | Saturday | 5 | _for-sale DNS records | 397 | 152 | Technology | [link](https://specification.website/spec/foundations/for-sale-dns/) · [HN](https://news.ycombinator.com/item?id=49221668) |
+| 2026-08-08 | Saturday | 6 | Timeline of the OpenAI accidental attack against Hugging Face | 396 | 378 | Technology | [link](https://simonwillison.net/2026/Aug/7/openai-timeline/) · [HN](https://news.ycombinator.com/item?id=49220609) |
+| 2026-08-08 | Saturday | 7 | Hardware backdoors in some x86 CPUs | 359 | 100 | Technology | [link](https://github.com/xoreaxeaxeax/rosenbridge) · [HN](https://news.ycombinator.com/item?id=49219508) |
+| 2026-08-08 | Saturday | 8 | My server is a phone now | 330 | 131 | Technology | [link](https://seg6.space/posts/phone-server/) · [HN](https://news.ycombinator.com/item?id=49226636) |
+| 2026-08-08 | Saturday | 9 | US Military's cyber command unit grapples with cluster of deaths by suicide | 287 | 434 | Technology | [link](https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide) · [HN](https://news.ycombinator.com/item?id=49220339) |
+| 2026-08-08 | Saturday | 10 | Amazon Is Creating the Biggest Pollution Source in the Country | 229 | 148 | Technology | [link](https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country) · [HN](https://news.ycombinator.com/item?id=49223845) |
 | 2026-08-07 | Friday | 1 | US strikes $1.2B deal to pay German firm to halt offshore wind projects | 878 | 841 | Technology | [link](https://www.bbc.com/news/articles/c1e1vg0gjl5o) · [HN](https://news.ycombinator.com/item?id=49208314) |
 | 2026-08-07 | Friday | 2 | What happens if an entire class of workers loses faith in their careers | 671 | 744 | Technology | [link](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/) · [HN](https://news.ycombinator.com/item?id=49209539) |
 | 2026-08-07 | Friday | 3 | DeepSeek V4 Flash 0731 | 631 | 380 | Technology | [link](https://arcprize.org/results/deepseek-v4-flash-0731) · [HN](https://news.ycombinator.com/item?id=49214008) |

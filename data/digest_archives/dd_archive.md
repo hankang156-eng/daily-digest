@@ -1,9 +1,66 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-08 · 5189 items*
+*Last updated: 2026-08-09 · 5246 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-08 | “Code was never the hard part” is an insult to all programmers | HN | Technology | tech | 2026-08-08 | [link](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers) |
+| 2026-08-08 | Danish high schoolers will have to verbally defend written assignments | HN | Technology | tech | 2026-08-08 | [link](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/) |
+| 2026-08-08 | Fastmail offers EU data region | HN | Technology | tech | 2026-08-08 | [link](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/) |
+| 2026-08-08 | DeepMind's WeatherNext model achieves breakthrough forecasting cyclones | HN | Technology | tech | 2026-08-08 | [link](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) |
+| 2026-08-08 | _for-sale DNS records | HN | Technology | tech | 2026-08-08 | [link](https://specification.website/spec/foundations/for-sale-dns/) |
+| 2026-08-08 | Timeline of the OpenAI accidental attack against Hugging Face | HN | Technology | tech | 2026-08-08 | [link](https://simonwillison.net/2026/Aug/7/openai-timeline/) |
+| 2026-08-08 | Hardware backdoors in some x86 CPUs | HN | Technology | tech | 2026-08-08 | [link](https://github.com/xoreaxeaxeax/rosenbridge) |
+| 2026-08-08 | My server is a phone now | HN | Technology | tech | 2026-08-08 | [link](https://seg6.space/posts/phone-server/) |
+| 2026-08-08 | US Military's cyber command unit grapples with cluster of deaths by suicide | HN | Technology | tech | 2026-08-08 | [link](https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide) |
+| 2026-08-08 | Amazon Is Creating the Biggest Pollution Source in the Country | HN | Technology | tech | 2026-08-08 | [link](https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country) |
+| 2026-08-08 | New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S. | HN | Technology | tech | 2026-08-08 | [link](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html) |
+| 2026-08-08 | Dithered QR Codes | HN | Technology | tech | 2026-08-08 | [link](https://www.andrewt.net/dithered-qr-codes/wtf/) |
+| 2026-08-08 | Shopify replaced Redis with MySQL for inventory reservations–and it scaled | HN | Technology | tech | 2026-08-08 | [link](https://shopify.engineering/scaling-inventory-reservations) |
+| 2026-08-08 | Don't use your phone while you poop | HN | Technology | tech | 2026-08-08 | [link](https://nate.spot/no-phone-while-poop/) |
+| 2026-08-08 | Can Intel finally beat ARM on performance per Watt? | HN | Technology | tech | 2026-08-08 | [link](https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/) |
+| 2026-08-08 | Retraction: The App Store Rejection of the Week That Was a Correct Rejection | HN | Technology | tech | 2026-08-08 | [link](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week) |
+| 2026-08-08 | Kalshi’s Tarek Mansour Isn’t Interested in Management Advice | NYT · Business | Business | news | 2026-08-09 | [link](https://www.nytimes.com/2026/08/09/business/kalshi-tarek-mansour-prediction-markets.html) |
+| 2026-08-08 | Trump Issues Tariffs on Key Ingredient for Electronics and Solar Panels | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/us/politics/trump-tariffs-solar-panels.html) |
+| 2026-08-08 | The Bond Market Is Signaling Rising Risks. Investors Should Listen. | NYT · Business | Business | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html) |
+| 2026-08-08 | China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots | NYT · AI | AI | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html) |
+| 2026-08-08 | Who Is My Enemy? I’m No Longer Sure. | NYT · AI | AI | opinion | 2026-08-08 | [link](https://www.nytimes.com/2026/08/08/opinion/obama-trump-biden-enemy.html) |
+| 2026-08-08 | Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook | NYT · Business | Business | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html) |
+| 2026-08-08 | Trump’s Push for More A.I. Data Centers Will Mean Major Air Pollution | NYT · Energy & Environment | Energy & Environment | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/05/climate/data-centers-pollution-trump-ai-energy.html) |
+| 2026-08-08 | This A.I. Just Created Viruses Not Found in Nature | NYT · AI | AI | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html) |
+| 2026-08-08 | Birds Are Dying. Clues Point to El Niño. | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html) |
+| 2026-08-08 | F.C.C. Removes Limit on Broadcast TV Ownership | NYT · Technology | Technology | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/technology/fcc-broadcast-tv-ownership.html) |
+| 2026-08-08 | The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The F | NYT · AI | AI | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html) |
+| 2026-08-08 | Trump Administration Is Repurposing Federal Land for A.I. Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html) |
+| 2026-08-08 | The A.I. Jargon That Will Help You Spot a Stock Downturn | NYT · AI | AI | opinion | 2026-08-07 | [link](https://www.nytimes.com/2026/08/06/opinion/ai-market-bubble-crash.html) |
+| 2026-08-08 | Follow the Markets and Track Stocks With These Free Apps | NYT · Technology | Technology | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html) |
+| 2026-08-08 | Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio | NYT · Politics | Politics | news | 2026-08-08 | [link](https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html) |
+| 2026-08-08 | Trump White House Readies AI Framework to Review Security Risks | NYT · Technology | Technology | opinion | 2026-08-05 | [link](https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html) |
+| 2026-08-08 | OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice | NYT · AI | AI | news | 2026-07-23 | [link](https://www.nytimes.com/2026/07/22/well/openai-chatgpt-health-lawsuit.html) |
+| 2026-08-08 | A Democrat Sounds the Alarm on Christian Nationalism in Congress | NYT · Politics | Politics | news | 2026-08-09 | [link](https://www.nytimes.com/2026/08/09/us/politics/a-democrat-sounds-the-alarm-on-christian-nationalism-in-congress.html) |
+| 2026-08-08 | In Confirming Blanche, Senators Endorse a Justice Dept. Under Trump’s Sway | NYT · Politics | Politics | news | 2026-08-08 | [link](https://www.nytimes.com/2026/08/08/us/politics/blanche-attorney-general-doj-trump-power.html) |
+| 2026-08-08 | Now we have a timeline of the OpenAI accidental attack against Hugging Face | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-08 | [link](https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything) |
+| 2026-08-08 | Sponsored: How high-performance coatings accelerate AI data center construction | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-08 | [link](https://www.datacenterdynamics.com/en/marketwatch/how-high-performance-coatings-accelerate-ai-data-center-construction/) |
+| 2026-08-08 | Auto mode is now the default in Claude Code for Pro, Max, and Team plans | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-08 | [link](https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything) |
+| 2026-08-08 | Maybe ‘Steal Underpants by Blowing a Fortune on AI Tokens’ Is, in Fact, Not a Good Business Plan | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-08 | [link](https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/) |
+| 2026-08-08 | Corrupt Minds Think Alike | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-08 | [link](https://www.nytimes.com/2026/08/06/business/fifa-world-cup-privatization.html?unlocked_article_code=1.3VA.4zqH.Pul7X9bQ2kv0&smid=bs-share) |
+| 2026-08-08 | [RSS Club] I got an NLnet grant! | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-08 | [link](https://shkspr.mobi/blog/2026/08/rss-club-i-got-an-nlnet-grant/) |
+| 2026-08-08 | When your 11-year-old daughter uses AI to build her own browser… | Reddit | Business | social | 2026-08-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vivt77/when_your_11yearold_daughter_uses_ai_to_build_her/) |
+| 2026-08-08 | I asked Claude to scare me, i'm not sure I like the response. | Reddit | Business | social | 2026-08-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vihql9/i_asked_claude_to_scare_me_im_not_sure_i_like_the/) |
+| 2026-08-08 | I used Claude to build a poker app where you deal real cards and everyone uses their phone as their  | Reddit | Business | social | 2026-08-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vii2zl/i_used_claude_to_build_a_poker_app_where_you_deal/) |
+| 2026-08-08 | PSA: Be careful letting Claude use WebFetch for research 😵‍💫 | Reddit | Business | social | 2026-08-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vim8b7/psa_be_careful_letting_claude_use_webfetch_for/) |
+| 2026-08-08 | The more productive Claude makes me, the less secure my career feels. What are we actually supposed  | Reddit | Business | social | 2026-08-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vixbl5/the_more_productive_claude_makes_me_the_less/) |
+| 2026-08-08 | Claude Code now lets sessions talk to each other on macOS | Reddit | Business | social | 2026-08-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vj4aqt/claude_code_now_lets_sessions_talk_to_each_other/) |
+| 2026-08-08 | Claude code : your sessions can now message each other. | Reddit | Business | social | 2026-08-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vio0w9/claude_code_your_sessions_can_now_message_each/) |
+| 2026-08-08 | Asking Fable 5 Extra - "What question f*cks you off the most?" | Reddit | Business | social | 2026-08-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1viuwg3/asking_fable_5_extra_what_question_fcks_you_off/) |
+| 2026-08-08 | Claude Design motion is really good now | Reddit | Business | social | 2026-08-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vizvoh/claude_design_motion_is_really_good_now/) |
+| 2026-08-08 | Who else has stopped using PowerPoint? | Reddit | Business | social | 2026-08-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1viz387/who_else_has_stopped_using_powerpoint/) |
+| 2026-08-08 | When you don’t have Claude Pro | Reddit | Business | social | 2026-08-08 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vitmsp/when_you_dont_have_claude_pro/) |
+| 2026-08-08 | I coded terminal manager for ADHD brains. 100% Opensource. | Reddit | Business | social | 2026-08-08 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vj5ktu/i_coded_terminal_manager_for_adhd_brains_100/) |
+| 2026-08-08 | Can we do something about how horrendous Opus/Fable speaks please? | Reddit | Business | social | 2026-08-08 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vinkws/can_we_do_something_about_how_horrendous/) |
+| 2026-08-08 | Made a system design skill for Claude to take references from arXiv before coding a single line, it  | Reddit | Business | social | 2026-08-08 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vj10yn/made_a_system_design_skill_for_claude_to_take/) |
+| 2026-08-08 | Hook is really one feature worth learning | Reddit | Business | social | 2026-08-08 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vizi2d/hook_is_really_one_feature_worth_learning/) |
+| 2026-08-08 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-07 | US strikes $1.2B deal to pay German firm to halt offshore wind projects | HN | Technology | tech | 2026-08-07 | [link](https://www.bbc.com/news/articles/c1e1vg0gjl5o) |
 | 2026-08-07 | What happens if an entire class of workers loses faith in their careers | HN | Technology | tech | 2026-08-07 | [link](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/) |
 | 2026-08-07 | DeepSeek V4 Flash 0731 | HN | Technology | tech | 2026-08-07 | [link](https://arcprize.org/results/deepseek-v4-flash-0731) |
