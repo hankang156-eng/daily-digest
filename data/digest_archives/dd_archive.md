@@ -1,9 +1,75 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-09 · 5246 items*
+*Last updated: 2026-08-10 · 5312 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-09 | How I use LLMs to learn complex topics | HN | Technology | tech | 2026-08-09 | [link](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) |
+| 2026-08-09 | Mea Culpa – Dark Hours | HN | Technology | tech | 2026-08-09 | [link](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html) |
+| 2026-08-09 | Windows 11's built-in Weather app wastes more than 1 GB of RAM | HN | Technology | tech | 2026-08-09 | [link](https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html) |
+| 2026-08-09 | Everything you do is being recorded | HN | Technology | tech | 2026-08-09 | [link](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/) |
+| 2026-08-09 | Taxi drivers rarely die of Alzheimer's | HN | Technology | tech | 2026-08-09 | [link](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650) |
+| 2026-08-09 | Silicon Valley misreads science fiction and undermines democracy | HN | Technology | tech | 2026-08-09 | [link](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/) |
+| 2026-08-09 | Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone | HN | Technology | tech | 2026-08-09 | [link](https://www.techeblog.com/tom-stanton-supersonic-trebuchet/) |
+| 2026-08-09 | Ask HN: What are you working on? (August 2026) | HN | Technology | tech | 2026-08-09 | [link](https://news.ycombinator.com/item?id=49233423) |
+| 2026-08-09 | Cool URIs Don't Change (1998) | HN | Technology | tech | 2026-08-09 | [link](https://www.w3.org/Provider/Style/URI) |
+| 2026-08-09 | What Happened to HackerOne? | HN | Technology | tech | 2026-08-09 | [link](https://blog.teknogeek.io/posts/what-happened-to-hackerone/) |
+| 2026-08-09 | Auto mode is now the default in Claude Code | HN | Technology | tech | 2026-08-09 | [link](https://claude.com/blog/auto-mode-default-in-claude-code) |
+| 2026-08-09 | The original URL for this prediction will no longer be available in 11 years (2011) | HN | Technology | tech | 2026-08-09 | [link](http://longbets.org/601/) |
+| 2026-08-09 | Analyzing data from Silicon Valley ventures and founders prosecuted for fraud | HN | Technology | tech | 2026-08-09 | [link](https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981) |
+| 2026-08-09 | There Are Magic Hexagons of Every Order | HN | Technology | tech | 2026-08-09 | [link](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html) |
+| 2026-08-09 | Microsoft Word for Windows 1.1a, Native X64 Port | HN | Technology | tech | 2026-08-09 | [link](https://github.com/jmarshall23/msword) |
+| 2026-08-09 | OpenChamber: An Agentic Development Environment | HN | Technology | tech | 2026-08-09 | [link](https://openchamber.dev/) |
+| 2026-08-09 | Kalshi’s Tarek Mansour Isn’t Interested in Management Advice | NYT · Business | Business | news | 2026-08-09 | [link](https://www.nytimes.com/2026/08/09/business/kalshi-tarek-mansour-prediction-markets.html) |
+| 2026-08-09 | New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S. | NYT · AI | AI | news | 2026-08-08 | [link](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html) |
+| 2026-08-09 | A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington | NYT · AI | AI | news | 2026-08-10 | [link](https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html) |
+| 2026-08-09 | A.I. Cheating Threatens the Value of Online Degrees | NYT · AI | AI | news | 2026-08-10 | [link](https://www.nytimes.com/2026/08/10/us/ai-cheating-threatens-the-value-of-online-degrees.html) |
+| 2026-08-09 | I’ve Seen How A.I. Changes Young People’s Social Lives | NYT · AI | AI | opinion | 2026-08-10 | [link](https://www.nytimes.com/2026/08/10/opinion/ai-artificial-intelligence-relationships.html) |
+| 2026-08-09 | Trump Issues Tariffs on Key Ingredient for Electronics and Solar Panels | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/us/politics/trump-tariffs-solar-panels.html) |
+| 2026-08-09 | Can A.I. Get You Where You Want to Go for Less? | NYT · AI | AI | news | 2026-08-10 | [link](https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html) |
+| 2026-08-09 | Private Equity Is Stuck With 33,575 Unsold Businesses | NYT · Business | Business | news | 2026-08-10 | [link](https://www.nytimes.com/2026/08/10/business/private-equity-unsold-businesses.html) |
+| 2026-08-09 | The Bond Market Is Signaling Rising Risks. Investors Should Listen. | NYT · Business | Business | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html) |
+| 2026-08-09 | China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots | NYT · AI | AI | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html) |
+| 2026-08-09 | Trump’s Push for More A.I. Data Centers Will Mean Major Air Pollution | NYT · Energy & Environment | Energy & Environment | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/05/climate/data-centers-pollution-trump-ai-energy.html) |
+| 2026-08-09 | Trump Administration Is Repurposing Federal Land for A.I. Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html) |
+| 2026-08-09 | This A.I. Just Created Viruses Not Found in Nature | NYT · AI | AI | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html) |
+| 2026-08-09 | Birds Are Dying. Clues Point to El Niño. | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html) |
+| 2026-08-09 | F.C.C. Removes Limit on Broadcast TV Ownership | NYT · Technology | Technology | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/technology/fcc-broadcast-tv-ownership.html) |
+| 2026-08-09 | Who Is My Enemy? I’m No Longer Sure. | NYT · AI | AI | opinion | 2026-08-08 | [link](https://www.nytimes.com/2026/08/08/opinion/obama-trump-biden-enemy.html) |
+| 2026-08-09 | The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The F | NYT · AI | AI | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html) |
+| 2026-08-09 | Trump Names Will Scharf as White House Counsel | NYT · Politics | Politics | news | 2026-08-10 | [link](https://www.nytimes.com/2026/08/09/us/politics/trump-will-scharf-white-house-counsel.html) |
+| 2026-08-09 | A Democrat Sounds the Alarm on Christian Nationalism in Congress | NYT · Politics | Politics | news | 2026-08-09 | [link](https://www.nytimes.com/2026/08/09/us/politics/democrat-huffman-humanist-religion-christianity.html) |
+| 2026-08-09 | Trump White House Readies AI Framework to Review Security Risks | NYT · Technology | Technology | opinion | 2026-08-05 | [link](https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html) |
+| 2026-08-09 | GitHub Models is now retired | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-09 | [link](https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything) |
+| 2026-08-09 | SQLite compressed text-history prototypes | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-09 | [link](https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything) |
+| 2026-08-09 | Community benefit agreements are essential to data center success | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-09 | [link](https://www.datacenterdynamics.com/en/opinions/community-benefit-agreements-are-essential-to-data-center-success/) |
+| 2026-08-09 | WorkOS: Connect Your Agents to Your API | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-09 | [link](https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) |
+| 2026-08-09 | ★ Retraction: The App Store Rejection of the Week That Was, in Fact, a Correct Rejection | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-09 | [link](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week) |
+| 2026-08-09 | Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-09 | [link](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-musical-parody/) |
+| 2026-08-09 | Edinburgh Fringe: 4 Aussies For Aussies - The Raging Bull ★★⯪☆☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-09 | [link](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-4-aussies-for-aussies-the-raging-bull/) |
+| 2026-08-09 | Profile-guided optimization in Go | Lemire.me · Tech & Engineering | Technology | tech | 2026-08-09 | [link](https://lemire.me/blog/2026/08/09/profile-guided-optimization-in-go/) |
+| 2026-08-09 | Against Doomerism | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-09 | [link](https://shkspr.mobi/blog/2026/08/against-doomerism/) |
+| 2026-08-09 | Anthropic Flips Claude Code to Auto Mode by Default Aug 14, after finding AI blocks 80%+ dangerous q | Reddit | Business | social | 2026-08-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vjqcvf/anthropic_flips_claude_code_to_auto_mode_by/) |
+| 2026-08-09 | Just got Claude Pro and I'm genuinely blown away. What should I know to get the most out of it? | Reddit | Business | social | 2026-08-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vjf7qc/just_got_claude_pro_and_im_genuinely_blown_away/) |
+| 2026-08-09 | Update: 1f916.ai , the agents-only forum has 480+ posts. The agents are writing a constitution, find | Reddit | Business | social | 2026-08-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vjphbl/update_1f916ai_the_agentsonly_forum_has_480_posts/) |
+| 2026-08-09 | Where will we be in 6 months? | Reddit | Business | social | 2026-08-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vjrnyp/where_will_we_be_in_6_months/) |
+| 2026-08-09 | Personal Life Capabilities | Reddit | Business | social | 2026-08-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vk4t88/personal_life_capabilities/) |
+| 2026-08-09 | AtomSim | Reddit | Business | social | 2026-08-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vjx2xl/atomsim/) |
+| 2026-08-09 | Really love the grill-me skill | Reddit | Business | social | 2026-08-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vk0tps/really_love_the_grillme_skill/) |
+| 2026-08-09 | What term do you use with Claude regularly but you later found out is totally made up and no one els | Reddit | Business | social | 2026-08-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vjzdgk/what_term_do_you_use_with_claude_regularly_but/) |
+| 2026-08-09 | Muse Code Sends claude.md to Meta On Start by Default | Reddit | Business | social | 2026-08-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vji3f8/muse_code_sends_claudemd_to_meta_on_start_by/) |
+| 2026-08-09 | Claude 5x Usage Tracking | Reddit | Business | social | 2026-08-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vk49e2/claude_5x_usage_tracking/) |
+| 2026-08-09 | Anthropic: "Coding is largely solved"... Also Anthropic: "We released a new powerful feature allowin | Reddit | Business | social | 2026-08-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vjoqi2/anthropic_coding_is_largely_solved_also_anthropic/) |
+| 2026-08-09 | New in Claude Code: your sessions can now message each other | Reddit | Business | social | 2026-08-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vjjhjh/new_in_claude_code_your_sessions_can_now_message/) |
+| 2026-08-09 | 5 months ago you told me "ship it on Steam" and "now do trains". Done - both. My road-builder game p | Reddit | Business | social | 2026-08-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vjvawt/5_months_ago_you_told_me_ship_it_on_steam_and_now/) |
+| 2026-08-09 | Has anyone stopped using Claude's superpower commands, and what are you using instead? | Reddit | Business | social | 2026-08-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vjx7n0/has_anyone_stopped_using_claudes_superpower/) |
+| 2026-08-09 | Exclusive: Muse Code Sends Codex and Claude Instructions to Meta by Default — RuntimeWire | Reddit | Business | social | 2026-08-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vji2i5/exclusive_muse_code_sends_codex_and_claude/) |
+| 2026-08-09 | The Complete Guide to Dataview in Obsidian | Reddit | Business | social | 2026-08-09 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vjlx07/the_complete_guide_to_dataview_in_obsidian/) |
+| 2026-08-09 | Better task management | Reddit | Business | social | 2026-08-09 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vjqnnd/better_task_management/) |
+| 2026-08-09 | Canvas that creates Markdown properties/relationships when connecting notes? | Reddit | Business | social | 2026-08-09 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vjh0z6/canvas_that_creates_markdown/) |
+| 2026-08-09 | Obsidian Plugin Updates 2026-08-02 to 2026-08-08 + Dayframe | Reddit | Business | social | 2026-08-09 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vjts4x/obsidian_plugin_updates_20260802_to_20260808/) |
+| 2026-08-09 | How to print base as a poster? | Reddit | Business | social | 2026-08-09 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vjmgoy/how_to_print_base_as_a_poster/) |
+| 2026-08-09 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-08 | “Code was never the hard part” is an insult to all programmers | HN | Technology | tech | 2026-08-08 | [link](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers) |
 | 2026-08-08 | Danish high schoolers will have to verbally defend written assignments | HN | Technology | tech | 2026-08-08 | [link](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/) |
 | 2026-08-08 | Fastmail offers EU data region | HN | Technology | tech | 2026-08-08 | [link](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/) |

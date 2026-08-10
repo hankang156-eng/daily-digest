@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-09 · 459 days · 4590 stories*
+*Last updated: 2026-08-10 · 460 days · 4600 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-09 | Sunday | 1 | How I use LLMs to learn complex topics | 633 | 391 | Technology | [link](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) · [HN](https://news.ycombinator.com/item?id=49234675) |
+| 2026-08-09 | Sunday | 2 | Mea Culpa – Dark Hours | 582 | 267 | Technology | [link](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html) · [HN](https://news.ycombinator.com/item?id=49231154) |
+| 2026-08-09 | Sunday | 3 | Windows 11's built-in Weather app wastes more than 1 GB of RAM | 549 | 456 | Technology | [link](https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html) · [HN](https://news.ycombinator.com/item?id=49232138) |
+| 2026-08-09 | Sunday | 4 | Everything you do is being recorded | 306 | 248 | Technology | [link](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/) · [HN](https://news.ycombinator.com/item?id=49230477) |
+| 2026-08-09 | Sunday | 5 | Taxi drivers rarely die of Alzheimer's | 289 | 204 | Technology | [link](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650) · [HN](https://news.ycombinator.com/item?id=49232253) |
+| 2026-08-09 | Sunday | 6 | Silicon Valley misreads science fiction and undermines democracy | 266 | 222 | Technology | [link](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/) · [HN](https://news.ycombinator.com/item?id=49232221) |
+| 2026-08-09 | Sunday | 7 | Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone | 249 | 88 | Technology | [link](https://www.techeblog.com/tom-stanton-supersonic-trebuchet/) · [HN](https://news.ycombinator.com/item?id=49232110) |
+| 2026-08-09 | Sunday | 8 | Ask HN: What are you working on? (August 2026) | 243 | 864 | Technology | [link](https://news.ycombinator.com/item?id=49233423) · [HN](https://news.ycombinator.com/item?id=49233423) |
+| 2026-08-09 | Sunday | 9 | Cool URIs Don't Change (1998) | 240 | 60 | Technology | [link](https://www.w3.org/Provider/Style/URI) · [HN](https://news.ycombinator.com/item?id=49231809) |
+| 2026-08-09 | Sunday | 10 | What Happened to HackerOne? | 231 | 103 | Technology | [link](https://blog.teknogeek.io/posts/what-happened-to-hackerone/) · [HN](https://news.ycombinator.com/item?id=49238561) |
 | 2026-08-08 | Saturday | 1 | “Code was never the hard part” is an insult to all programmers | 766 | 447 | Technology | [link](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers) · [HN](https://news.ycombinator.com/item?id=49222189) |
 | 2026-08-08 | Saturday | 2 | Danish high schoolers will have to verbally defend written assignments | 575 | 254 | Technology | [link](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/) · [HN](https://news.ycombinator.com/item?id=49224294) |
 | 2026-08-08 | Saturday | 3 | Fastmail offers EU data region | 417 | 216 | Technology | [link](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/) · [HN](https://news.ycombinator.com/item?id=49223082) |
