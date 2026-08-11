@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-10 · 460 days · 4600 stories*
+*Last updated: 2026-08-11 · 461 days · 4610 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-10 | Monday | 1 | Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows | 1116 | 608 | Technology | [link](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) · [HN](https://news.ycombinator.com/item?id=49241679) |
+| 2026-08-10 | Monday | 2 | Docker Sandboxes – Disposable, isolated sandboxes for AI agents | 654 | 365 | Technology | [link](https://www.docker.com/products/docker-sandboxes/) · [HN](https://news.ycombinator.com/item?id=49239751) |
+| 2026-08-10 | Monday | 3 | Tl;dv: Over 180k meetings left wide open | 582 | 192 | Technology | [link](https://bobdahacker.com/blog/tldv-hack) · [HN](https://news.ycombinator.com/item?id=49242739) |
+| 2026-08-10 | Monday | 4 | Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models | 506 | 469 | Technology | [link](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878) · [HN](https://news.ycombinator.com/item?id=49243880) |
+| 2026-08-10 | Monday | 5 | The UK's war on anonymity has come to America | 502 | 423 | Technology | [link](https://www.effort.news/uk-lobby) · [HN](https://news.ycombinator.com/item?id=49251411) |
+| 2026-08-10 | Monday | 6 | Mars Bar from 1991 found – and it's 20g bigger than today's | 356 | 525 | Technology | [link](https://www.bbc.com/news/articles/c1j1kjy7gewo) · [HN](https://news.ycombinator.com/item?id=49245023) |
+| 2026-08-10 | Monday | 7 | Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots | 333 | 130 | Technology | [link](https://cactuscompute.com/needle) · [HN](https://news.ycombinator.com/item?id=49246804) |
+| 2026-08-10 | Monday | 8 | Illinois just passed a law that puts Linux on the hook for age verification | 320 | 456 | Technology | [link](https://linuxstans.com/illinois-hb5511-operating-system-age-verification/) · [HN](https://news.ycombinator.com/item?id=49249150) |
+| 2026-08-10 | Monday | 9 | As AI eats the web, the internet’s collective memory is disappearing | 300 | 295 | Technology | [link](https://thewalrus.ca/google-search-is-dying/) · [HN](https://news.ycombinator.com/item?id=49250836) |
+| 2026-08-10 | Monday | 10 | H3-metal – Native MiniMax-H3 inference for Apple Silicon | 274 | 53 | Technology | [link](https://github.com/antirez/h3.c) · [HN](https://news.ycombinator.com/item?id=49252179) |
 | 2026-08-09 | Sunday | 1 | How I use LLMs to learn complex topics | 633 | 391 | Technology | [link](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) · [HN](https://news.ycombinator.com/item?id=49234675) |
 | 2026-08-09 | Sunday | 2 | Mea Culpa – Dark Hours | 582 | 267 | Technology | [link](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html) · [HN](https://news.ycombinator.com/item?id=49231154) |
 | 2026-08-09 | Sunday | 3 | Windows 11's built-in Weather app wastes more than 1 GB of RAM | 549 | 456 | Technology | [link](https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html) · [HN](https://news.ycombinator.com/item?id=49232138) |

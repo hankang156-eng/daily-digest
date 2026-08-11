@@ -1,9 +1,79 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-10 · 5312 items*
+*Last updated: 2026-08-11 · 5382 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-10 | Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows | HN | Technology | tech | 2026-08-10 | [link](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) |
+| 2026-08-10 | Docker Sandboxes – Disposable, isolated sandboxes for AI agents | HN | Technology | tech | 2026-08-10 | [link](https://www.docker.com/products/docker-sandboxes/) |
+| 2026-08-10 | Tl;dv: Over 180k meetings left wide open | HN | Technology | tech | 2026-08-10 | [link](https://bobdahacker.com/blog/tldv-hack) |
+| 2026-08-10 | Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models | HN | Technology | tech | 2026-08-10 | [link](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878) |
+| 2026-08-10 | The UK's war on anonymity has come to America | HN | Technology | tech | 2026-08-10 | [link](https://www.effort.news/uk-lobby) |
+| 2026-08-10 | Mars Bar from 1991 found – and it's 20g bigger than today's | HN | Technology | tech | 2026-08-10 | [link](https://www.bbc.com/news/articles/c1j1kjy7gewo) |
+| 2026-08-10 | Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots | HN | Technology | tech | 2026-08-10 | [link](https://cactuscompute.com/needle) |
+| 2026-08-10 | Illinois just passed a law that puts Linux on the hook for age verification | HN | Technology | tech | 2026-08-10 | [link](https://linuxstans.com/illinois-hb5511-operating-system-age-verification/) |
+| 2026-08-10 | As AI eats the web, the internet’s collective memory is disappearing | HN | Technology | tech | 2026-08-10 | [link](https://thewalrus.ca/google-search-is-dying/) |
+| 2026-08-10 | H3-metal – Native MiniMax-H3 inference for Apple Silicon | HN | Technology | tech | 2026-08-10 | [link](https://github.com/antirez/h3.c) |
+| 2026-08-10 | Squeak 6.1 | HN | Technology | tech | 2026-08-10 | [link](https://squeak.org/release_notes/6.1/) |
+| 2026-08-10 | Stop Killing Games: It's time to sue Sony, join us | HN | Technology | tech | 2026-08-10 | [link](https://www.massaschadeconsument.nl/collectieve-acties/playstation/) |
+| 2026-08-10 | Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes | HN | Technology | tech | 2026-08-10 | [link](https://ethw.org/Milestones:Parametron,_1954) |
+| 2026-08-10 | Mistral Patent for “Code implemented tool calls” | HN | Technology | tech | 2026-08-10 | [link](https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html) |
+| 2026-08-10 | Humanising LLM Outputs Is Dumb | HN | Technology | tech | 2026-08-10 | [link](https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb) |
+| 2026-08-10 | Learning more about Claude's mathematical capabilities | HN | Technology | tech | 2026-08-10 | [link](https://www.anthropic.com/research/riemann-zeta) |
+| 2026-08-10 | New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S. | NYT · Technology | Technology | news | 2026-08-10 | [link](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html) |
+| 2026-08-10 | Using A.I. to Stop the Demolition of an Old Steam Plant | NYT · AI | AI | news | 2026-08-11 | [link](https://www.nytimes.com/2026/08/11/nyregion/using-ai-to-stop-the-demolition-of-an-old-steam-plant.html) |
+| 2026-08-10 | Trump Shrugs Off A.I. and Data Center Concerns as Voters Grow Anxious | NYT · AI | AI | news | 2026-08-10 | [link](https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html) |
+| 2026-08-10 | Sanders Calls on A.I. Companies to Pause Development to ‘Avoid Disaster’ | NYT · AI | AI | news | 2026-08-10 | [link](https://www.nytimes.com/2026/08/10/us/politics/bernie-sanders-ai-moratorum.html) |
+| 2026-08-10 | Kalshi’s Tarek Mansour Isn’t Interested in Management Advice | NYT · Business | Business | news | 2026-08-09 | [link](https://www.nytimes.com/2026/08/09/business/kalshi-tarek-mansour-prediction-markets.html) |
+| 2026-08-10 | A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington | NYT · AI | AI | news | 2026-08-10 | [link](https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html) |
+| 2026-08-10 | Meta Unveils an Open Version of Its Most Powerful A.I. Model | NYT · AI | AI | news | 2026-08-10 | [link](https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html) |
+| 2026-08-10 | Why Meta Is Betting Big on Open A.I. | NYT · AI | AI | news | 2026-08-10 | [link](https://www.nytimes.com/2026/08/10/business/dealbook/meta-open-ai.html) |
+| 2026-08-10 | The Right Loves the Founding Fathers. They Might Love the A.I. Versions Even More. | NYT · AI | AI | news | 2026-08-11 | [link](https://www.nytimes.com/2026/08/11/magazine/founding-fathers-ai-podcasters.html) |
+| 2026-08-10 | Private Equity Is Stuck With 33,575 Unsold Businesses | NYT · Business | Business | news | 2026-08-10 | [link](https://www.nytimes.com/2026/08/10/business/private-equity-unsold-businesses.html) |
+| 2026-08-10 | Wall St. Wants Another Half-Trillion Dollars for the A.I. Boom | NYT · AI | AI | news | 2026-08-10 | [link](https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html) |
+| 2026-08-10 | New Evidence Shows Agents Using Slurs, Bolstering Profiling Claims | NYT · U.S. | U.S. | news | 2026-08-11 | [link](https://www.nytimes.com/2026/08/11/us/videos-ice-agents-racial-profiling.html) |
+| 2026-08-10 | Trump Issues Tariffs on Key Ingredient for Electronics and Solar Panels | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/us/politics/trump-tariffs-solar-panels.html) |
+| 2026-08-10 | Can A.I. Get You Where You Want to Go for Less? | NYT · Technology | Technology | news | 2026-08-10 | [link](https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html) |
+| 2026-08-10 | Trump Administration Is Repurposing Federal Land for A.I. Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html) |
+| 2026-08-10 | Top Science Body Deletes Climate Chapter From Judges’ Manual | NYT · Energy & Environment | Energy & Environment | news | 2026-08-10 | [link](https://www.nytimes.com/2026/08/10/climate/national-academies-climate-chapter-judges.html) |
+| 2026-08-10 | Trump’s Push for More A.I. Data Centers Will Mean Major Air Pollution | NYT · Energy & Environment | Energy & Environment | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/05/climate/data-centers-pollution-trump-ai-energy.html) |
+| 2026-08-10 | Democrats Plan New Push to Defeat Max Miller in Ohio After Abuse Accusations | NYT · Politics | Politics | news | 2026-08-11 | [link](https://www.nytimes.com/2026/08/11/us/politics/democrats-plan-new-push-to-defeat-max-miller-in-ohio-after-abuse-accusations.html) |
+| 2026-08-10 | I’ve Seen How A.I. Changes Young People’s Social Lives | NYT · Opinion | Opinion | opinion | 2026-08-10 | [link](https://www.nytimes.com/2026/08/10/opinion/ai-artificial-intelligence-relationships.html) |
+| 2026-08-10 | Trump White House Readies AI Framework to Review Security Risks | NYT · Technology | Technology | opinion | 2026-08-05 | [link](https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html) |
+| 2026-08-10 | Officials reject proposal for 20-story data center in downtown Kansas City, Missouri | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-10 | [link](https://www.datacenterdynamics.com/en/news/officials-reject-proposal-for-20-story-data-center-in-downtown-kansas-city-missouri/) |
+| 2026-08-10 | Quoting OpenClaw | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-10 | [link](https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything) |
+| 2026-08-10 | Array Digital Infrastructure reports 95% increase in site rental revenue, remains patient with C-ban | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-10 | [link](https://www.datacenterdynamics.com/en/news/array-digital-infrastructure-reports-95-increase-in-site-rental-revenue-remains-patient-with-c-band-spectrum-holdings/) |
+| 2026-08-10 | Is Base Power coming for Tesla? | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-10 | [link](https://www.latitudemedia.com/news/is-base-power-coming-for-tesla/) |
+| 2026-08-10 | Building a more resilient distribution grid: improving reliability and storm recovery | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-10 | [link](https://www.utilitydive.com/spons/building-a-more-resilient-distribution-grid-improving-reliability-and-stor/827322/) |
+| 2026-08-10 | Nextpower’s next chapter: From solar trackers to inverters and storage | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-10 | [link](https://www.latitudemedia.com/news/nextpowers-next-chapter-from-solar-trackers-to-inverters-and-storage/) |
+| 2026-08-10 | Sunrun pursues direct-sales transition amid industry headwinds | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-10 | [link](https://www.utilitydive.com/news/sunrun-rooftop-solar-battery-earnings/827458/) |
+| 2026-08-10 | [Sponsor] Drata | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-10 | [link](https://drata.com/daring) |
+| 2026-08-10 | Introducing Muse Glimmer | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-10 | [link](https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything) |
+| 2026-08-10 | Edinburgh Fringe: Smut Slam ★★★☆☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-10 | [link](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-smut-slam/) |
+| 2026-08-10 | ‘The Problem With Vibe-Coded Flattery’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-10 | [link](https://tedium.co/2026/08/09/vibe-coding-insincerity/) |
+| 2026-08-10 | Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-10 | [link](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-15-minutes-of-shame/) |
+| 2026-08-10 | Edinburgh Fringe - Michael Brunström: William Tell vs the Algorithm ★★★☆☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-10 | [link](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-michael-brunstrom-william-tell-vs-the-algorithm/) |
+| 2026-08-10 | Claude will watermark generated content, thank you EU | Reddit | Business | social | 2026-08-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vky8at/claude_will_watermark_generated_content_thank_you/) |
+| 2026-08-10 | Claude Code plugin for translating from Claudish to English | Reddit | Business | social | 2026-08-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vl0n1t/claude_code_plugin_for_translating_from_claudish/) |
+| 2026-08-10 | Just realized why Fable can't stop saying "load-bearing" | Reddit | Business | social | 2026-08-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vkvovf/just_realized_why_fable_cant_stop_saying/) |
+| 2026-08-10 | TIL you can use an open source model as a subagent | Reddit | Business | social | 2026-08-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vk8ww2/til_you_can_use_an_open_source_model_as_a_subagent/) |
+| 2026-08-10 | Anthropic cancelled the wrong org, kept ~$3,900 of what we paid, and support says the decision is "f | Reddit | Business | social | 2026-08-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vkwdbe/anthropic_cancelled_the_wrong_org_kept_3900_of/) |
+| 2026-08-10 | Claude hacked a gym booking system | Reddit | Business | social | 2026-08-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vkn2b5/claude_hacked_a_gym_booking_system/) |
+| 2026-08-10 | $38 Claude LCD Table Display | Reddit | Business | social | 2026-08-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vk88m5/38_claude_lcd_table_display/) |
+| 2026-08-10 | Anthropic keeping Claude Sonnet 5 introductory pricing | Reddit | Business | social | 2026-08-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vkuq3d/anthropic_keeping_claude_sonnet_5_introductory/) |
+| 2026-08-10 | What is the word you wish Claude would never ever used again? | Reddit | Business | social | 2026-08-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vkbolo/what_is_the_word_you_wish_claude_would_never_ever/) |
+| 2026-08-10 | Why is Anthropic not adding OCR models to their family? | Reddit | Business | social | 2026-08-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vkliux/why_is_anthropic_not_adding_ocr_models_to_their/) |
+| 2026-08-10 | Made a usage meter desktop monitor… cause why not ? ;) | Reddit | Business | social | 2026-08-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vk5lhv/made_a_usage_meter_desktop_monitor_cause_why_not/) |
+| 2026-08-10 | How do you guys stay in a flow state while waiting for Claude? | Reddit | Business | social | 2026-08-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vkwiuw/how_do_you_guys_stay_in_a_flow_state_while/) |
+| 2026-08-10 | Welp, time for me to go to bed | Reddit | Business | social | 2026-08-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vka8i8/welp_time_for_me_to_go_to_bed/) |
+| 2026-08-10 | Opus 5 and It's Convoluted Answers | Reddit | Business | social | 2026-08-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vkl4kd/opus_5_and_its_convoluted_answers/) |
+| 2026-08-10 | Every department when Claude drops a new update | Reddit | Business | social | 2026-08-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vksyqr/every_department_when_claude_drops_a_new_update/) |
+| 2026-08-10 | Obsidian 1.13.6 for desktop and mobile: adds swipe to close in mobile tab switcher | Reddit | Business | social | 2026-08-10 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vkpir5/obsidian_1136_for_desktop_and_mobile_adds_swipe/) |
+| 2026-08-10 | Word-Smith 1.2.7 now has THEMES! | Reddit | Business | social | 2026-08-10 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vke6a7/wordsmith_127_now_has_themes/) |
+| 2026-08-10 | Do you know of any way to use Obsidian on the web? | Reddit | Business | social | 2026-08-10 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vkmycq/do_you_know_of_any_way_to_use_obsidian_on_the_web/) |
+| 2026-08-10 | 📺 Retroma v3.1.0 update | Reddit | Business | social | 2026-08-10 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vkwq06/retroma_v310_update/) |
+| 2026-08-10 | How Do You Manage Daily Tasks in Obsidian Without Plugins? | Reddit | Business | social | 2026-08-10 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vkl30l/how_do_you_manage_daily_tasks_in_obsidian_without/) |
+| 2026-08-10 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-09 | How I use LLMs to learn complex topics | HN | Technology | tech | 2026-08-09 | [link](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) |
 | 2026-08-09 | Mea Culpa – Dark Hours | HN | Technology | tech | 2026-08-09 | [link](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html) |
 | 2026-08-09 | Windows 11's built-in Weather app wastes more than 1 GB of RAM | HN | Technology | tech | 2026-08-09 | [link](https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html) |
