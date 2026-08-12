@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-11 · 461 days · 4610 stories*
+*Last updated: 2026-08-12 · 462 days · 4620 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-11 | Tuesday | 1 | France to ban unsolicited telemarketing calls | 1027 | 485 | Technology | [link](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html) · [HN](https://news.ycombinator.com/item?id=49254880) |
+| 2026-08-11 | Tuesday | 2 | Stealing Reasoning Traces from Proprietary LLM APIs | 623 | 281 | Technology | [link](https://stolen-thoughts.com/) · [HN](https://news.ycombinator.com/item?id=49257876) |
+| 2026-08-11 | Tuesday | 3 | England set to be one of the first countries to eliminate hepatitis C | 541 | 383 | Technology | [link](https://www.bbc.com/news/articles/c75gk620r22o) · [HN](https://news.ycombinator.com/item?id=49257377) |
+| 2026-08-11 | Tuesday | 4 | Compression is prediction | 529 | 216 | Technology | [link](https://ngrok.com/blog/compression-is-prediction) · [HN](https://news.ycombinator.com/item?id=49263497) |
+| 2026-08-11 | Tuesday | 5 | OpenAI’s head of ethics leaves less than a year after joining | 433 | 417 | Technology | [link](https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0) · [HN](https://news.ycombinator.com/item?id=49257160) |
+| 2026-08-11 | Tuesday | 6 | Mojo 1.0 | 385 | 193 | Technology | [link](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here) · [HN](https://news.ycombinator.com/item?id=49261128) |
+| 2026-08-11 | Tuesday | 7 | Go is an ideal language for AI-assisted software engineering | 382 | 430 | Technology | [link](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/) · [HN](https://news.ycombinator.com/item?id=49261133) |
+| 2026-08-11 | Tuesday | 8 | London Underground begins scanning passengers' faces | 336 | 383 | Technology | [link](https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/) · [HN](https://news.ycombinator.com/item?id=49255496) |
+| 2026-08-11 | Tuesday | 9 | Nvidia's Risky Business | 336 | 166 | Technology | [link](https://stratechery.com/2026/nvidias-risky-business/) · [HN](https://news.ycombinator.com/item?id=49255710) |
+| 2026-08-11 | Tuesday | 10 | Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp | 292 | 43 | Technology | [link](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md) · [HN](https://news.ycombinator.com/item?id=49259339) |
 | 2026-08-10 | Monday | 1 | Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows | 1116 | 608 | Technology | [link](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) · [HN](https://news.ycombinator.com/item?id=49241679) |
 | 2026-08-10 | Monday | 2 | Docker Sandboxes – Disposable, isolated sandboxes for AI agents | 654 | 365 | Technology | [link](https://www.docker.com/products/docker-sandboxes/) · [HN](https://news.ycombinator.com/item?id=49239751) |
 | 2026-08-10 | Monday | 3 | Tl;dv: Over 180k meetings left wide open | 582 | 192 | Technology | [link](https://bobdahacker.com/blog/tldv-hack) · [HN](https://news.ycombinator.com/item?id=49242739) |

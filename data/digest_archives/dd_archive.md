@@ -1,9 +1,76 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-11 · 5382 items*
+*Last updated: 2026-08-12 · 5449 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-11 | France to ban unsolicited telemarketing calls | HN | Technology | tech | 2026-08-11 | [link](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html) |
+| 2026-08-11 | Stealing Reasoning Traces from Proprietary LLM APIs | HN | Technology | tech | 2026-08-11 | [link](https://stolen-thoughts.com/) |
+| 2026-08-11 | England set to be one of the first countries to eliminate hepatitis C | HN | Technology | tech | 2026-08-11 | [link](https://www.bbc.com/news/articles/c75gk620r22o) |
+| 2026-08-11 | Compression is prediction | HN | Technology | tech | 2026-08-11 | [link](https://ngrok.com/blog/compression-is-prediction) |
+| 2026-08-11 | OpenAI’s head of ethics leaves less than a year after joining | HN | Technology | tech | 2026-08-11 | [link](https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0) |
+| 2026-08-11 | Mojo 1.0 | HN | Technology | tech | 2026-08-11 | [link](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here) |
+| 2026-08-11 | Go is an ideal language for AI-assisted software engineering | HN | Technology | tech | 2026-08-11 | [link](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/) |
+| 2026-08-11 | London Underground begins scanning passengers' faces | HN | Technology | tech | 2026-08-11 | [link](https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/) |
+| 2026-08-11 | Nvidia's Risky Business | HN | Technology | tech | 2026-08-11 | [link](https://stratechery.com/2026/nvidias-risky-business/) |
+| 2026-08-11 | Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp | HN | Technology | tech | 2026-08-11 | [link](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md) |
+| 2026-08-11 | Grok Bot | HN | Technology | tech | 2026-08-11 | [link](https://x.ai/bot) |
+| 2026-08-11 | More than 10 firms pay up to $100k a month for access to Truth Social posts | HN | Technology | tech | 2026-08-11 | [link](https://www.bbc.com/news/articles/ce3q5nxpgk1o) |
+| 2026-08-11 | Woman pulled over twice after Flock-linked software connected her to homicide | HN | Technology | tech | 2026-08-11 | [link](https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/) |
+| 2026-08-11 | Nvidia Nemotron 3.5 Lightning and NeMo Switchyard | HN | Technology | tech | 2026-08-11 | [link](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/) |
+| 2026-08-11 | WorldClaw Agentic 3D open-world generation at scale | HN | Technology | tech | 2026-08-11 | [link](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) |
+| 2026-08-11 | What I learned by putting GitHub Copilot behind a MitM proxy | HN | Technology | tech | 2026-08-11 | [link](https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm) |
+| 2026-08-11 | Why the U.S. Economy Needs A.I. — Bubble or Not | NYT · AI | AI | opinion | 2026-08-12 | [link](https://www.nytimes.com/2026/08/12/opinion/ai-bubble-economy-crash.html) |
+| 2026-08-11 | David Ellison Floats Hollywood Exit as States Threaten His Warner Bros. Deal | NYT · Business | Business | news | 2026-08-12 | [link](https://www.nytimes.com/2026/08/11/business/media/david-ellison-hollywood-paramount-warner-bros.html) |
+| 2026-08-11 | The Perils of Wall St.’s Race to Pour Billions More Into A.I. | NYT · AI | AI | news | 2026-08-11 | [link](https://www.nytimes.com/2026/08/11/business/dealbook/ai-lending-nvidia-blackrock.html) |
+| 2026-08-11 | Using A.I. to Stop the Demolition of an Old Steam Plant | NYT · AI | AI | news | 2026-08-11 | [link](https://www.nytimes.com/2026/08/11/nyregion/using-ai-to-stop-the-demolition-of-an-old-steam-plant.html) |
+| 2026-08-11 | Reducing Childhood Vaccinations Is ‘Unconscionable’ | NYT · AI | AI | opinion | 2026-08-11 | [link](https://www.nytimes.com/2026/08/11/opinion/childhood-vaccinations.html) |
+| 2026-08-11 | New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S. | NYT · Technology | Technology | news | 2026-08-10 | [link](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html) |
+| 2026-08-11 | Trump Administration Bars Medicaid Funding of Transition Treatment for Transgender Youth | NYT · Politics | Politics | news | 2026-08-12 | [link](https://www.nytimes.com/2026/08/11/us/politics/trump-medicaid-trans-treatment.html) |
+| 2026-08-11 | Kalshi’s Tarek Mansour Isn’t Interested in Management Advice | NYT · Business | Business | news | 2026-08-09 | [link](https://www.nytimes.com/2026/08/09/business/kalshi-tarek-mansour-prediction-markets.html) |
+| 2026-08-11 | The Right Loves the Founding Fathers. They Might Love the A.I. Versions Even More. | NYT · AI | AI | news | 2026-08-11 | [link](https://www.nytimes.com/2026/08/11/magazine/founding-fathers-ai-podcasters.html) |
+| 2026-08-11 | Democrats Accuse Trump Administration of Stonewalling Major Transit Projects | NYT · Politics | Politics | news | 2026-08-11 | [link](https://www.nytimes.com/2026/08/11/upshot/democrats-trump-frozen-transit-funds.html) |
+| 2026-08-11 | His Start-Up’s Goal: A.I. That Is Trainable and Not Controlled by a Big Company | NYT · AI | AI | news | 2026-08-11 | [link](https://www.nytimes.com/2026/08/11/technology/igor-babuschkin-xai-river-ai.html) |
+| 2026-08-11 | Spotify Will Label A.I. Artists and Avoid Promoting Them | NYT · AI | AI | news | 2026-08-11 | [link](https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html) |
+| 2026-08-11 | Wall St. Wants Another Half-Trillion Dollars for the A.I. Boom | NYT · Technology | Technology | news | 2026-08-10 | [link](https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html) |
+| 2026-08-11 | Frenzy for Solar Eclipse Glasses Takes Over London | NYT · Business | Business | news | 2026-08-12 | [link](https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html) |
+| 2026-08-11 | Trump Issues Tariffs on Key Ingredient for Electronics and Solar Panels | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/us/politics/trump-tariffs-solar-panels.html) |
+| 2026-08-11 | Trump Administration Is Repurposing Federal Land for A.I. Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-07-29 | [link](https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html) |
+| 2026-08-11 | Rep. John Larson, a Longtime Lawmaker, Loses a Primary in Connecticut | NYT · Politics | Politics | news | 2026-08-12 | [link](https://www.nytimes.com/2026/08/11/us/politics/bronin-larson-connecticut-primary-results.html) |
+| 2026-08-11 | Birds Are Dying. Clues Point to El Niño. | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html) |
+| 2026-08-11 | Matt Little, a Progressive, Wins a Democratic House Primary in Minnesota | NYT · Politics | Politics | news | 2026-08-12 | [link](https://www.nytimes.com/2026/08/11/us/politics/berg-little-klein-minnesota-primary.html) |
+| 2026-08-11 | Plug-In Solar Panels Are Starting to Sprout in U.S. Backyards | NYT · Energy & Environment | Energy & Environment | news | 2026-08-03 | [link](https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html) |
+| 2026-08-11 | Stealing Reasoning Traces from Proprietary LLM APIs | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-11 | [link](https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything) |
+| 2026-08-11 | GIC and Macquarie form Theseus Infrastructure to serve Anthropic's data center needs | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-11 | [link](https://www.datacenterdynamics.com/en/news/gic-and-macquarie-form-theseus-infrastructure-to-serve-anthropics-data-center-needs/) |
+| 2026-08-11 | Nvidia partners with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR for $500bn fi | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-11 | [link](https://www.datacenterdynamics.com/en/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-for-500bn-financing-program/) |
+| 2026-08-11 | Pay-as-you-go batteries: ‘One weird trick’ for the distribution grid? | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-11 | [link](https://www.utilitydive.com/news/residential-batteries-solar-base-power-palmetto/827579/) |
+| 2026-08-11 | Caterpillar sales surpass $20B as generators for data centers take off | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-11 | [link](https://www.utilitydive.com/news/caterpillar-sales-surpass-20b-growing-data-center-demand-q2-2026/827569/) |
+| 2026-08-11 | Can the advanced geothermal industry follow in Fervo’s wake? | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-11 | [link](https://www.latitudemedia.com/news/can-the-advanced-geothermal-industry-follow-in-fervos-wake/) |
+| 2026-08-11 | Make demand response participation the default | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-11 | [link](https://www.latitudemedia.com/news/make-demand-response-participation-the-default/) |
+| 2026-08-11 | Anthropic Posts ‘How Claude Marks AI-Generated Content’ Without Explaining How Claude Marks AI-Gener | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-11 | [link](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content) |
+| 2026-08-11 | Mark Zuckerberg Posts 6,500-Word AI Essay | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-11 | [link](https://www.meta.com/thefutureisforeveryone/) |
+| 2026-08-11 | There are no lossless transformations of natural-language text | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-11 | [link](https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything) |
+| 2026-08-11 | Edinburgh Fringe: Noted ★★★⯪☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-11 | [link](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-noted/) |
+| 2026-08-11 | Microsoft Plugs Nearly 400 Security Holes | Krebs on Security · Security & Privacy | Security | tech | 2026-08-11 | [link](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/) |
+| 2026-08-11 | Edinburgh Fringe: Handel Nine German Arias ★★★⯪☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-11 | [link](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-handel-nine-german-arias/) |
+| 2026-08-11 | ChatGPT brings unlimited text chats to free users | Superpower Daily · Tech & Engineering | Technology | tech | 2026-08-11 | [link](https://www.superpowerdaily.com/p/chatgpt-brings-unlimited-text-chats-to-free-users) |
+| 2026-08-11 | Gadget Review: Soundpeats UU2 POP Clip2 Earphones ★★★★⯪ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-11 | [link](https://shkspr.mobi/blog/2026/08/gadget-review-soundpeats-pop-clip2-earphones/) |
+| 2026-08-11 | Claude will now include invisible marks to show a text was made with AI | Reddit | Business | social | 2026-08-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vlidn0/claude_will_now_include_invisible_marks_to_show_a/) |
+| 2026-08-11 | People are worried about watermarks when the slop they put out is the biggest watermark that can be | Reddit | Business | social | 2026-08-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vlghjq/people_are_worried_about_watermarks_when_the_slop/) |
+| 2026-08-11 | What the hell happened? | Reddit | Business | social | 2026-08-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vlme0b/what_the_hell_happened/) |
+| 2026-08-11 | Fable 5 vs Opus 5 for 2D Sprites | Reddit | Business | social | 2026-08-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vls7dp/fable_5_vs_opus_5_for_2d_sprites/) |
+| 2026-08-11 | How would an “invisible watermark” in AI-generated text actually work? | Reddit | Business | social | 2026-08-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vl9gq5/how_would_an_invisible_watermark_in_aigenerated/) |
+| 2026-08-11 | Why is Claude so morally judgmental | Reddit | Business | social | 2026-08-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vl2rzi/why_is_claude_so_morally_judgmental/) |
+| 2026-08-11 | I’m sorry, Dave. | Reddit | Business | social | 2026-08-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vlf34z/im_sorry_dave/) |
+| 2026-08-11 | Sonnet 5 Pricing Update: No Update | Reddit | Business | social | 2026-08-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vlxrzy/sonnet_5_pricing_update_no_update/) |
+| 2026-08-11 | Claude watermarking our work is unethical and disgusting | Reddit | Business | social | 2026-08-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vlckt9/claude_watermarking_our_work_is_unethical_and/) |
+| 2026-08-11 | What if AI watermarks become machine-to-machine triggers? | Reddit | Business | social | 2026-08-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vlw0wz/what_if_ai_watermarks_become_machinetomachine/) |
+| 2026-08-11 | How the watermark for generated text actually works | Reddit | Business | social | 2026-08-11 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vli2wm/how_the_watermark_for_generated_text_actually/) |
+| 2026-08-11 | If a watermark can be detected, it can be removed. Who's gonna build the watermark remover? | Reddit | Business | social | 2026-08-11 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vlky3f/if_a_watermark_can_be_detected_it_can_be_removed/) |
+| 2026-08-11 | Claude watermarking our work is unethical and disgusting | Reddit | Business | social | 2026-08-11 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vlclpn/claude_watermarking_our_work_is_unethical_and/) |
+| 2026-08-11 | I created a 3D lunar rover survey game with Opus 5. | Reddit | Business | social | 2026-08-11 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vlw3r1/i_created_a_3d_lunar_rover_survey_game_with_opus_5/) |
+| 2026-08-11 | All frontier models will have to add watermarking, if they haven't done so already | Reddit | Business | social | 2026-08-11 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vlnt5x/all_frontier_models_will_have_to_add_watermarking/) |
+| 2026-08-11 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-10 | Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows | HN | Technology | tech | 2026-08-10 | [link](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) |
 | 2026-08-10 | Docker Sandboxes – Disposable, isolated sandboxes for AI agents | HN | Technology | tech | 2026-08-10 | [link](https://www.docker.com/products/docker-sandboxes/) |
 | 2026-08-10 | Tl;dv: Over 180k meetings left wide open | HN | Technology | tech | 2026-08-10 | [link](https://bobdahacker.com/blog/tldv-hack) |
