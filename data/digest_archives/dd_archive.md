@@ -1,9 +1,82 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-12 · 5449 items*
+*Last updated: 2026-08-13 · 5522 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-12 | Tracking down the 16-year-old WAL-reset SQLite bug | HN | Technology | tech | 2026-08-12 | [link](https://tailscale.com/blog/sqlite-wal-reset-bug) |
+| 2026-08-12 | DeepSeek V4 Pro 0813 | HN | Technology | tech | 2026-08-12 | [link](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) |
+| 2026-08-12 | AI is removing the middle class of software engineering? | HN | Technology | tech | 2026-08-12 | [link](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html) |
+| 2026-08-12 | Qwen3.8-2.4T | HN | Technology | tech | 2026-08-12 | [link](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) |
+| 2026-08-12 | License plate reader searches should require a warrant | HN | Technology | tech | 2026-08-12 | [link](https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/) |
+| 2026-08-12 | Delta | HN | Technology | tech | 2026-08-12 | [link](https://zed.dev/blog/introducing-delta) |
+| 2026-08-12 | Grok 4.6 | HN | Technology | tech | 2026-08-12 | [link](https://x.ai/news/grok-4-6) |
+| 2026-08-12 | uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook | HN | Technology | tech | 2026-08-12 | [link](https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html) |
+| 2026-08-12 | 2026 Eclipse Webcams | HN | Technology | tech | 2026-08-12 | [link](https://jonty.github.io/2026_eclipse_webcams/) |
+| 2026-08-12 | Controversial creators are benefiting from monetization programs run by Meta | HN | Technology | tech | 2026-08-12 | [link](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696) |
+| 2026-08-12 | LinkedIn CringeBot 3000 | HN | Technology | tech | 2026-08-12 | [link](https://www.cringebot3000.com/) |
+| 2026-08-12 | llama.cpp | HN | Technology | tech | 2026-08-12 | [link](https://llama.app) |
+| 2026-08-12 | Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index | HN | Technology | tech | 2026-08-12 | [link](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis) |
+| 2026-08-12 | Why tiny JPEGs look different in Chrome | HN | Technology | tech | 2026-08-12 | [link](https://guillaumetech.github.io/posts/jpg-scaling-chrome/) |
+| 2026-08-12 | Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation | HN | Technology | tech | 2026-08-12 | [link](https://woxi.ad-si.com) |
+| 2026-08-12 | Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot | HN | Technology | tech | 2026-08-12 | [link](https://knownagents.com/insights) |
+| 2026-08-12 | A.I. Hype Is Running Into Reality | NYT · AI | AI | opinion | 2026-08-12 | [link](https://www.nytimes.com/2026/08/12/opinion/ai-bubble-economy-crash.html) |
+| 2026-08-12 | Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion | NYT · AI | AI | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html) |
+| 2026-08-12 | Will Paramount’s Brinkmanship Work? | NYT · Business | Business | news | 2026-08-12 | [link](https://www.nytimes.com/2026/08/12/business/dealbook/paramount-california-states-lawsuit.html) |
+| 2026-08-12 | Who Is Joshua Kushner, the New Lakers Co-Owner? | NYT · Business | Business | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/12/business/joshua-kushner-lakers.html) |
+| 2026-08-12 | David Ellison Floats Hollywood Exit as States Threaten His Warner Bros. Deal | NYT · Business | Business | news | 2026-08-12 | [link](https://www.nytimes.com/2026/08/11/business/media/david-ellison-hollywood-paramount-warner-bros.html) |
+| 2026-08-12 | If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks | NYT · AI | AI | opinion | 2026-08-13 | [link](https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html) |
+| 2026-08-12 | New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S. | NYT · Technology | Technology | news | 2026-08-10 | [link](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html) |
+| 2026-08-12 | So You Want to Build an A.I. Star? | NYT · AI | AI | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/13/arts/ai-podcasts-fashion-pop-avatars.html) |
+| 2026-08-12 | Reducing Childhood Vaccinations Is ‘Unconscionable’ | NYT · AI | AI | opinion | 2026-08-11 | [link](https://www.nytimes.com/2026/08/11/opinion/childhood-vaccinations.html) |
+| 2026-08-12 | I Tested a Popular A.I. Slop Detector. It Felt Empowering. | NYT · AI | AI | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html) |
+| 2026-08-12 | Inflation Eased Slightly in July, but Prices Remain Elevated as War Drags On | NYT · Economy | Economy | news | 2026-08-12 | [link](https://www.nytimes.com/2026/08/12/business/economy/cpi-report-july-inflation-data.html) |
+| 2026-08-12 | Consumer Debt Data Shows ‘Overall’ Health Amid Persisting Divides | NYT · Business | Business | news | 2026-08-12 | [link](https://www.nytimes.com/2026/08/12/business/consumer-debt-inflation.html) |
+| 2026-08-12 | Why the U.S. Economy Needs A.I. — Bubble or Not | NYT · AI | AI | opinion | 2026-08-12 | [link](https://www.nytimes.com/video/opinion/100000011083257/why-the-us-economy-needs-ai-bubble-or-not.html) |
+| 2026-08-12 | The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The F | NYT · Technology | Technology | news | 2026-08-12 | [link](https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html) |
+| 2026-08-12 | Are Rogue A.I. Models Just a Marketing Stunt? | NYT · AI | AI | news | 2026-08-12 | [link](https://www.nytimes.com/video/podcasts/100000011088898/are-rogue-ai-models-just-a-marketing-stunt.html) |
+| 2026-08-12 | Prediction Firms Are Flagging Insider Traders. Many Will Not Face Charges. | NYT · Business | Business | news | 2026-08-12 | [link](https://www.nytimes.com/2026/08/12/us/politics/prediction-markets-insider-trading.html) |
+| 2026-08-12 | ICE Agent Who Pushed Activist to the Ground Near Chicago Pleads Guilty | NYT · Politics | Politics | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/12/us/politics/ice-chicago-agent-guilty.html) |
+| 2026-08-12 | ICE Plans to Give Officers Gloves That Can Deliver Electric Shocks | NYT · Politics | Politics | news | 2026-08-12 | [link](https://www.nytimes.com/2026/08/12/us/politics/ice-gloves-shock.html) |
+| 2026-08-12 | Treasury Scales Back Scrutiny of U.S. Shell Companies | NYT · Business | Business | news | 2026-08-12 | [link](https://www.nytimes.com/2026/08/12/us/politics/treasury-scrutiny-shell-companies.html) |
+| 2026-08-12 | Birds Are Dying. Clues Point to El Niño. | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html) |
+| 2026-08-12 | How MIT Students Taught AI Agents to Trade | MIT IDE · MIT Research & Insights | Research | research | 2026-08-12 | [link](https://ide.mit.edu/insights/how-mit-students-taught-ai-agents-to-trade/) |
+| 2026-08-12 | Powering the Next Era of AI: How Google, Microsoft and Nvidia Are Standardizing and Accelerating the | Open Compute Project · AI Infrastructure | Infrastructure | tech | 2026-08-12 | [link](https://www.opencompute.org/blog/powering-the-next-era-of-ai-how-google-microsoft-and-nvidia-are-standardizing-and-accelerating-the-industry-transition-to-lvdc) |
+| 2026-08-12 | Sponsored: The powered mill: 10GW of shovel-ready data center sites is hiding in plain sight | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-12 | [link](https://www.datacenterdynamics.com/en/opinions/the-powered-mill-10gw-of-shovel-ready-data-center-sites-is-hiding-in-plain-sight/) |
+| 2026-08-12 | Quoting Florian Herrengt | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-12 | [link](https://simonwillison.net/2026/Aug/12/florian-herrengt/) |
+| 2026-08-12 | Telkom Indonesia finalizes spin-off of $4.8bn InfraCo | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-12 | [link](https://www.datacenterdynamics.com/en/news/telkom-indonesia-finalizes-spin-off-of-48bn-infraco/) |
+| 2026-08-12 | How to sell small clean energy tax credits | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-12 | [link](https://www.latitudemedia.com/news/how-to-sell-small-clean-energy-tax-credits/) |
+| 2026-08-12 | Weekly Update 516: Live From Vietnam | Troy Hunt · Security & Privacy | Security | tech | 2026-08-12 | [link](https://www.troyhunt.com/weekly-update-516/) |
+| 2026-08-12 | alchemy-utils 0.1a0 | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-12 | [link](https://simonwillison.net/2026/Aug/12/alchemy-utils/) |
+| 2026-08-12 | ConEd plans 28 new substations by 2035 | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-12 | [link](https://www.utilitydive.com/news/coned-plans-28-new-substations-by-2035/827700/) |
+| 2026-08-12 | PJM eyes data center, crypto reliability requirements after 3.8 GW of load trips offline | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-12 | [link](https://www.utilitydive.com/news/pjm-nerc-data-center-crypto-reliability-standards/827653/) |
+| 2026-08-12 | TechCrunch on Google’s Pixel 11 Lineup | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-12 | [link](https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/) |
+| 2026-08-12 | Hands-On With Google Pixel 11 Pro Fold | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-12 | [link](https://www.engadget.com/2235294/google-pixel-11-pro-fold-hands-on/) |
+| 2026-08-12 | AI programming : are you angry yet? | Lemire.me · Tech & Engineering | Technology | tech | 2026-08-12 | [link](https://lemire.me/blog/2026/08/12/ai-programming-are-you-angry-yet/) |
+| 2026-08-12 | Edinburgh Fringe - Garrett Millerick: We Tried it Your Way ★☆☆☆☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-12 | [link](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-garrett-millerick-we-tried-it-your-way/) |
+| 2026-08-12 | Edinburgh Fringe - James Rowland: Team Viking ★★⯪☆☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-12 | [link](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-james-rowland-team-viking/) |
+| 2026-08-12 | Edinburgh Fringe - Heated Rivalry: The Unauthorized Musical Parody ★★★★☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-12 | [link](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-unauthorized-musical-parody/) |
+| 2026-08-12 | I asked Opus 5 to build GTA6 on its own in 24 hours | Reddit | Business | social | 2026-08-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vmjzh7/i_asked_opus_5_to_build_gta6_on_its_own_in_24/) |
+| 2026-08-12 | New to Claude but this is the greatest interaction I’ve ever had with any AI model. | Reddit | Business | social | 2026-08-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vm8zgv/new_to_claude_but_this_is_the_greatest/) |
+| 2026-08-12 | PSA: your claude code sessions are on disk as plaintext json, including everything you ever pasted | Reddit | Business | social | 2026-08-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vmpplr/psa_your_claude_code_sessions_are_on_disk_as/) |
+| 2026-08-12 | The True Motive Behind Watermarking: To Avoid AI-generated Text During Training | Reddit | Business | social | 2026-08-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vmgctq/the_true_motive_behind_watermarking_to_avoid/) |
+| 2026-08-12 | What exactly is people's problem with text watermarking? | Reddit | Business | social | 2026-08-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vm78ug/what_exactly_is_peoples_problem_with_text/) |
+| 2026-08-12 | I created a 3D moon rover survey game with Opus 5. | Reddit | Business | social | 2026-08-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vmi9x3/i_created_a_3d_moon_rover_survey_game_with_opus_5/) |
+| 2026-08-12 | Zero After Effects: Claude Code built, animated, and edited a full 60s commercial for my startup. | Reddit | Business | social | 2026-08-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vmp3gp/zero_after_effects_claude_code_built_animated_and/) |
+| 2026-08-12 | my Claude Code sessions now have a physical mascot | Reddit | Business | social | 2026-08-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vmdc6k/my_claude_code_sessions_now_have_a_physical_mascot/) |
+| 2026-08-12 | Show us what you've created with Claude! | Reddit | Business | social | 2026-08-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vmtj8f/show_us_what_youve_created_with_claude/) |
+| 2026-08-12 | At last! I thought y'all were hallucinating...... | Reddit | Business | social | 2026-08-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vms9yu/at_last_i_thought_yall_were_hallucinating/) |
+| 2026-08-12 | Modern Problems with the Fable Workflow | Reddit | Business | social | 2026-08-12 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vm2cec/modern_problems_with_the_fable_workflow/) |
+| 2026-08-12 | My Claude Code workflow after months of daily use | Reddit | Business | social | 2026-08-12 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vmey7d/my_claude_code_workflow_after_months_of_daily_use/) |
+| 2026-08-12 | AI Gives People the Illusion That They Are Capable | Reddit | Business | social | 2026-08-12 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vlzgfq/ai_gives_people_the_illusion_that_they_are_capable/) |
+| 2026-08-12 | Claude Code is terrible for mental health | Reddit | Business | social | 2026-08-12 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vlzyal/claude_code_is_terrible_for_mental_health/) |
+| 2026-08-12 | Did Anthropic Decreased the Usage Limit? | Reddit | Business | social | 2026-08-12 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vm9135/did_anthropic_decreased_the_usage_limit/) |
+| 2026-08-12 | I wish I had this system 6 years ago. | Reddit | Business | social | 2026-08-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vm3mu6/i_wish_i_had_this_system_6_years_ago/) |
+| 2026-08-12 | Obsidian 1.13.7 for desktop and mobile: bug fixes | Reddit | Business | social | 2026-08-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vmfs32/obsidian_1137_for_desktop_and_mobile_bug_fixes/) |
+| 2026-08-12 | Visual Card Writer | Reddit | Business | social | 2026-08-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vm70id/visual_card_writer/) |
+| 2026-08-12 | Vertical Tabs plugin — for people with a gazillion tabs open and widescreen displays | Reddit | Business | social | 2026-08-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vmr3pj/vertical_tabs_plugin_for_people_with_a_gazillion/) |
+| 2026-08-12 | how to deal with stuff that isn’t text in obsidian? | Reddit | Business | social | 2026-08-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vmctjm/how_to_deal_with_stuff_that_isnt_text_in_obsidian/) |
+| 2026-08-12 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-11 | France to ban unsolicited telemarketing calls | HN | Technology | tech | 2026-08-11 | [link](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html) |
 | 2026-08-11 | Stealing Reasoning Traces from Proprietary LLM APIs | HN | Technology | tech | 2026-08-11 | [link](https://stolen-thoughts.com/) |
 | 2026-08-11 | England set to be one of the first countries to eliminate hepatitis C | HN | Technology | tech | 2026-08-11 | [link](https://www.bbc.com/news/articles/c75gk620r22o) |

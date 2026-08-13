@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-12 · 462 days · 4620 stories*
+*Last updated: 2026-08-13 · 463 days · 4630 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-12 | Wednesday | 1 | Tracking down the 16-year-old WAL-reset SQLite bug | 1045 | 196 | Technology | [link](https://tailscale.com/blog/sqlite-wal-reset-bug) · [HN](https://news.ycombinator.com/item?id=49272832) |
+| 2026-08-12 | Wednesday | 2 | DeepSeek V4 Pro 0813 | 931 | 377 | Technology | [link](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) · [HN](https://news.ycombinator.com/item?id=49274600) |
+| 2026-08-12 | Wednesday | 3 | AI is removing the middle class of software engineering? | 882 | 795 | Technology | [link](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html) · [HN](https://news.ycombinator.com/item?id=49271994) |
+| 2026-08-12 | Wednesday | 4 | Qwen3.8-2.4T | 628 | 147 | Technology | [link](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) · [HN](https://news.ycombinator.com/item?id=49273478) |
+| 2026-08-12 | Wednesday | 5 | License plate reader searches should require a warrant | 582 | 346 | Technology | [link](https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/) · [HN](https://news.ycombinator.com/item?id=49273165) |
+| 2026-08-12 | Wednesday | 6 | Delta | 553 | 197 | Technology | [link](https://zed.dev/blog/introducing-delta) · [HN](https://news.ycombinator.com/item?id=49276574) |
+| 2026-08-12 | Wednesday | 7 | Grok 4.6 | 552 | 494 | Technology | [link](https://x.ai/news/grok-4-6) · [HN](https://news.ycombinator.com/item?id=49274027) |
+| 2026-08-12 | Wednesday | 8 | uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook | 513 | 608 | Technology | [link](https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html) · [HN](https://news.ycombinator.com/item?id=49270726) |
+| 2026-08-12 | Wednesday | 9 | 2026 Eclipse Webcams | 486 | 133 | Technology | [link](https://jonty.github.io/2026_eclipse_webcams/) · [HN](https://news.ycombinator.com/item?id=49270953) |
+| 2026-08-12 | Wednesday | 10 | Controversial creators are benefiting from monetization programs run by Meta | 471 | 326 | Technology | [link](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696) · [HN](https://news.ycombinator.com/item?id=49269818) |
 | 2026-08-11 | Tuesday | 1 | France to ban unsolicited telemarketing calls | 1027 | 485 | Technology | [link](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html) · [HN](https://news.ycombinator.com/item?id=49254880) |
 | 2026-08-11 | Tuesday | 2 | Stealing Reasoning Traces from Proprietary LLM APIs | 623 | 281 | Technology | [link](https://stolen-thoughts.com/) · [HN](https://news.ycombinator.com/item?id=49257876) |
 | 2026-08-11 | Tuesday | 3 | England set to be one of the first countries to eliminate hepatitis C | 541 | 383 | Technology | [link](https://www.bbc.com/news/articles/c75gk620r22o) · [HN](https://news.ycombinator.com/item?id=49257377) |
