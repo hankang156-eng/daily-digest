@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-13 · 463 days · 4630 stories*
+*Last updated: 2026-08-14 · 464 days · 4640 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-13 | Thursday | 1 | Gemini 3.7 Flash | 839 | 433 | Technology | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) · [HN](https://news.ycombinator.com/item?id=49289112) |
+| 2026-08-13 | Thursday | 2 | DeepSeek Harness developer preview | 662 | 276 | Technology | [link](https://deepseek.com/harness/en/) · [HN](https://news.ycombinator.com/item?id=49285244) |
+| 2026-08-13 | Thursday | 3 | Spaghettifying DRAM | 624 | 162 | Technology | [link](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) · [HN](https://news.ycombinator.com/item?id=49286341) |
+| 2026-08-13 | Thursday | 4 | Accelerating GPT-5.6 Sol Ultrafast | 602 | 241 | Technology | [link](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) · [HN](https://news.ycombinator.com/item?id=49289844) |
+| 2026-08-13 | Thursday | 5 | Codex in ChatGPT desktop app for Linux is now in preview | 454 | 308 | Technology | [link](https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027) · [HN](https://news.ycombinator.com/item?id=49281916) |
+| 2026-08-13 | Thursday | 6 | Gloomberb | 417 | 219 | Technology | [link](https://gloom.sh/) · [HN](https://news.ycombinator.com/item?id=49285982) |
+| 2026-08-13 | Thursday | 7 | Deutsche Bank becomes first foreign yuan clearing bank in Europe | 403 | 443 | Technology | [link](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/) · [HN](https://news.ycombinator.com/item?id=49284774) |
+| 2026-08-13 | Thursday | 8 | Mistral OCR 4.1 | 353 | 140 | Technology | [link](https://docs.mistral.ai/models/ocr-4-1) · [HN](https://news.ycombinator.com/item?id=49288889) |
+| 2026-08-13 | Thursday | 9 | Choose Boring Technology (2015) | 342 | 181 | Technology | [link](https://mcfunley.com/choose-boring-technology) · [HN](https://news.ycombinator.com/item?id=49289512) |
+| 2026-08-13 | Thursday | 10 | Understanding is the new bottleneck | 334 | 179 | Technology | [link](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck) · [HN](https://news.ycombinator.com/item?id=49290299) |
 | 2026-08-12 | Wednesday | 1 | Tracking down the 16-year-old WAL-reset SQLite bug | 1045 | 196 | Technology | [link](https://tailscale.com/blog/sqlite-wal-reset-bug) · [HN](https://news.ycombinator.com/item?id=49272832) |
 | 2026-08-12 | Wednesday | 2 | DeepSeek V4 Pro 0813 | 931 | 377 | Technology | [link](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) · [HN](https://news.ycombinator.com/item?id=49274600) |
 | 2026-08-12 | Wednesday | 3 | AI is removing the middle class of software engineering? | 882 | 795 | Technology | [link](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html) · [HN](https://news.ycombinator.com/item?id=49271994) |

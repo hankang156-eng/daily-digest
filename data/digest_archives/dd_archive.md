@@ -1,9 +1,79 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-13 · 5522 items*
+*Last updated: 2026-08-14 · 5592 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-13 | Gemini 3.7 Flash | HN | Technology | tech | 2026-08-13 | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) |
+| 2026-08-13 | DeepSeek Harness developer preview | HN | Technology | tech | 2026-08-13 | [link](https://deepseek.com/harness/en/) |
+| 2026-08-13 | Spaghettifying DRAM | HN | Technology | tech | 2026-08-13 | [link](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) |
+| 2026-08-13 | Accelerating GPT-5.6 Sol Ultrafast | HN | Technology | tech | 2026-08-13 | [link](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) |
+| 2026-08-13 | Codex in ChatGPT desktop app for Linux is now in preview | HN | Technology | tech | 2026-08-13 | [link](https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027) |
+| 2026-08-13 | Gloomberb | HN | Technology | tech | 2026-08-13 | [link](https://gloom.sh/) |
+| 2026-08-13 | Deutsche Bank becomes first foreign yuan clearing bank in Europe | HN | Technology | tech | 2026-08-13 | [link](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/) |
+| 2026-08-13 | Mistral OCR 4.1 | HN | Technology | tech | 2026-08-13 | [link](https://docs.mistral.ai/models/ocr-4-1) |
+| 2026-08-13 | Choose Boring Technology (2015) | HN | Technology | tech | 2026-08-13 | [link](https://mcfunley.com/choose-boring-technology) |
+| 2026-08-13 | Understanding is the new bottleneck | HN | Technology | tech | 2026-08-13 | [link](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck) |
+| 2026-08-13 | Nine PBS sues Iron Mountain over blocked access to archival data | HN | Technology | tech | 2026-08-13 | [link](https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/) |
+| 2026-08-13 | Ordinary Abundance | HN | Technology | tech | 2026-08-13 | [link](https://ordinaryabundance.com/) |
+| 2026-08-13 | Donkey.bas is 45 Years Old – 131 line of Glory | HN | Technology | tech | 2026-08-13 | [link](https://donkeybas.com/) |
+| 2026-08-13 | I requested a copy of my data from McDonald’s loyalty program | HN | Technology | tech | 2026-08-13 | [link](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/) |
+| 2026-08-13 | Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes | HN | Technology | tech | 2026-08-13 | [link](https://github.com/systemd/systemd/issues/40262) |
+| 2026-08-13 | Hello, me. It's been a while | HN | Technology | tech | 2026-08-13 | [link](https://themech.net/2026/08/hello-me-its-been-a-while/) |
+| 2026-08-13 | These A.I. Policies Will Hurt Our Business. We Should Do Them Anyway. | NYT · AI | AI | opinion | 2026-08-14 | [link](https://www.nytimes.com/2026/08/14/opinion/ai-policy-tax-technology.html) |
+| 2026-08-13 | Will Paramount’s Brinkmanship Work? | NYT · Business | Business | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/12/business/dealbook/paramount-california-states-lawsuit.html) |
+| 2026-08-13 | Who Is Joshua Kushner, the New Lakers Co-Owner? | NYT · Business | Business | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/12/business/joshua-kushner-lakers.html) |
+| 2026-08-13 | Only Global Cooperation Can Keep the World Safe From A.I. | NYT · AI | AI | opinion | 2026-08-13 | [link](https://www.nytimes.com/2026/08/13/opinion/ai-safety-regulation-robert-wright.html) |
+| 2026-08-13 | If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks | NYT · AI | AI | opinion | 2026-08-13 | [link](https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html) |
+| 2026-08-13 | Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion | NYT · Technology | Technology | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html) |
+| 2026-08-13 | Judge Affirms Settlement Allowing HPE’s Deal for Juniper | NYT · Technology | Technology | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html) |
+| 2026-08-13 | David Ellison Floats Hollywood Exit as States Threaten His Warner Bros. Deal | NYT · Business | Business | news | 2026-08-12 | [link](https://www.nytimes.com/2026/08/11/business/media/david-ellison-hollywood-paramount-warner-bros.html) |
+| 2026-08-13 | Chatbots Are Pushing Us Toward a Post-Human Internet | NYT · AI | AI | news | 2026-08-14 | [link](https://www.nytimes.com/2026/08/14/magazine/ai-chatbots-internet-communication-loops.html) |
+| 2026-08-13 | We Need Global A.I. Safety Planning | NYT · AI | AI | opinion | 2026-08-13 | [link](https://www.nytimes.com/video/opinion/100000011083260/we-need-global-ai-safety-planning.html) |
+| 2026-08-13 | So You Want to Build an A.I. Star? | NYT · AI | AI | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/13/arts/ai-podcasts-fashion-pop-avatars.html) |
+| 2026-08-13 | I Tested a Popular A.I. Slop Detector. It Felt Empowering. | NYT · AI | AI | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html) |
+| 2026-08-13 | Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up | NYT · AI | AI | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/13/technology/openai-executive-departure-denise-dresser.html) |
+| 2026-08-13 | Consumer Debt Data Shows ‘Overall’ Health Amid Persisting Divides | NYT · Business | Business | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/12/business/consumer-debt-inflation.html) |
+| 2026-08-13 | How Bob Iger and Joshua Kushner’s Bromance Led Them to Lakers | NYT · Business | Business | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/13/business/bob-iger-joshua-kushner-lakers.html) |
+| 2026-08-13 | Appeals Court Sidesteps Key Question Over Trump’s Use of Alien Enemies Act | NYT · Politics | Politics | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/13/us/politics/alien-enemies-act-trump-appeals-court.html) |
+| 2026-08-13 | Trump’s Immigration Policy Echoes 1920s Crackdown, but This Time Congress Isn’t Involved | NYT · Politics | Politics | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/13/us/politics/trump-immigration-crackdown.html) |
+| 2026-08-13 | After Supreme Court Losses, Trump Keeps Pushing | NYT · Politics | Politics | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/13/us/politics/the-docket-supreme-court-trump-losses.html) |
+| 2026-08-13 | Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals | NYT · Politics | Politics | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html) |
+| 2026-08-13 | Birds Are Dying. Clues Point to El Niño. | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html) |
+| 2026-08-13 | Lightmatter launches 19-company strong initiative to standardize silicon photonics-ready infrastruct | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-13 | [link](https://www.datacenterdynamics.com/en/news/lightmatter-launches-19-company-strong-initiative-to-standardize-silicon-photonics-ready-infrastructure/) |
+| 2026-08-13 | Sponsored: Planning liquid cooling for new AI data center builds in India | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-13 | [link](https://www.datacenterdynamics.com/en/opinions/planning-liquid-cooling-for-new-ai-data-center-builds-in-india/) |
+| 2026-08-13 | Record-setting geothermal bid signals rising interest in federal leases | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-13 | [link](https://www.utilitydive.com/news/record-setting-geothermal-bid-signals-rising-interest-in-federal-leases/827834/) |
+| 2026-08-13 | Tesla’s new home energy offering comes with an affordability pitch | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-13 | [link](https://www.latitudemedia.com/news/teslas-new-home-energy-offering-comes-with-an-affordability-pitch/) |
+| 2026-08-13 | Pacific Northwest targets 14 GW clean energy buildout by 2032 | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-13 | [link](https://www.latitudemedia.com/news/pacific-northwest-targets-14-gw-clean-energy-buildout-by-2032/) |
+| 2026-08-13 | Software-based initiative could unlock up to 20% more bulk capacity: OATI | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-13 | [link](https://www.utilitydive.com/news/software-based-initiative-could-unlock-up-to-20-more-bulk-capacity-oati/827806/) |
+| 2026-08-13 | Book Review: Coding Literacy by Annette Vee ★★⯪☆☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-13 | [link](https://shkspr.mobi/blog/2026/08/book-review-coding-literacy-by-annette-vee/) |
+| 2026-08-13 | Google Design Pisses Its Pants on Twitter/X | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-13 | [link](https://x.com/googledesign/status/2087195277094695096) |
+| 2026-08-13 | llm-gemini 0.33 | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-13 | [link](https://simonwillison.net/2026/Aug/13/llm-gemini/) |
+| 2026-08-13 | sqlite-utils 4.2.1 | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-13 | [link](https://simonwillison.net/2026/Aug/13/sqlite-utils-2/) |
+| 2026-08-13 | Edinburgh Fringe: Miscast Sondheim ★★☆☆☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-13 | [link](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-miscast-sondheim/) |
+| 2026-08-13 | Ceramic Shield 2 Is the Real Deal | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-13 | [link](https://www.tomsguide.com/phones/iphones/iphone-17-and-iphone-air-durability-testing-heres-how-the-new-iphones-stand-up-to-bending-scratching-and-dropping) |
+| 2026-08-13 | Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-13 | [link](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/) |
+| 2026-08-13 | I built a watercolor Simulator based on real physics (V2) | Reddit | Business | social | 2026-08-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vn7yk3/i_built_a_watercolor_simulator_based_on_real/) |
+| 2026-08-13 | Opus 5 is actually almost rage-inducing to use. | Reddit | Business | social | 2026-08-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vn8ml6/opus_5_is_actually_almost_rageinducing_to_use/) |
+| 2026-08-13 | You never know the good days until they’re gone (unless you’re still using 4.6) | Reddit | Business | social | 2026-08-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vn6b31/you_never_know_the_good_days_until_theyre_gone/) |
+| 2026-08-13 | Example of a real working loop orchestrator | Reddit | Business | social | 2026-08-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vnnpur/example_of_a_real_working_loop_orchestrator/) |
+| 2026-08-13 | Finally, Claude Code has “Auto-continue when limits reset” | Reddit | Business | social | 2026-08-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vndhg6/finally_claude_code_has_autocontinue_when_limits/) |
+| 2026-08-13 | The three AI giants be like | Reddit | Business | social | 2026-08-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vnpb13/the_three_ai_giants_be_like/) |
+| 2026-08-13 | Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, cl | Reddit | Business | social | 2026-08-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vndlg3/some_claude_users_are_mad_that_anthropics_new/) |
+| 2026-08-13 | Sonnet 5's pricing is outrageous | Reddit | Business | social | 2026-08-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vmyaoc/sonnet_5s_pricing_is_outrageous/) |
+| 2026-08-13 | Why aren't businesses using Fable 5? | Reddit | Business | social | 2026-08-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vnj1xq/why_arent_businesses_using_fable_5/) |
+| 2026-08-13 | I built my 9 year old's game concept with Claude Code. She wrote the design doc in a notebook. | Reddit | Business | social | 2026-08-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vnci9w/i_built_my_9_year_olds_game_concept_with_claude/) |
+| 2026-08-13 | I make Claude Code keep a MISTAKES.md file. Here's what actually happened. | Reddit | Business | social | 2026-08-13 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vn6d5r/i_make_claude_code_keep_a_mistakesmd_file_heres/) |
+| 2026-08-13 | Opus 5 is exhausting | Reddit | Business | social | 2026-08-13 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vnf5tl/opus_5_is_exhausting/) |
+| 2026-08-13 | I built a watercolor Simulator based on real physics (V2) | Reddit | Business | social | 2026-08-13 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vn7ze8/i_built_a_watercolor_simulator_based_on_real/) |
+| 2026-08-13 | I made a two-page, printable cheat sheet for Claude Code | Reddit | Business | social | 2026-08-13 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vn98by/i_made_a_twopage_printable_cheat_sheet_for_claude/) |
+| 2026-08-13 | Am I the only one who ALWAYS uses --dangerously-skip-permissions? | Reddit | Business | social | 2026-08-13 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vngm0i/am_i_the_only_one_who_always_uses/) |
+| 2026-08-13 | Ink Paper | Reddit | Business | social | 2026-08-13 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vmydsj/ink_paper/) |
+| 2026-08-13 | Obsidian Should Support Periodic Notes and Calendar as Core Plugins | Reddit | Business | social | 2026-08-13 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vnnkm3/obsidian_should_support_periodic_notes_and/) |
+| 2026-08-13 | Ink Paper Update v1.1.7 | Reddit | Business | social | 2026-08-13 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vni1tc/ink_paper_update_v117/) |
+| 2026-08-13 | My design notebook, mostly images | Reddit | Business | social | 2026-08-13 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vn0msq/my_design_notebook_mostly_images/) |
+| 2026-08-13 | What is the most useful Obsidian workflow you built without a community plugin? | Reddit | Business | social | 2026-08-13 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vn6fcg/what_is_the_most_useful_obsidian_workflow_you/) |
+| 2026-08-13 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-12 | Tracking down the 16-year-old WAL-reset SQLite bug | HN | Technology | tech | 2026-08-12 | [link](https://tailscale.com/blog/sqlite-wal-reset-bug) |
 | 2026-08-12 | DeepSeek V4 Pro 0813 | HN | Technology | tech | 2026-08-12 | [link](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) |
 | 2026-08-12 | AI is removing the middle class of software engineering? | HN | Technology | tech | 2026-08-12 | [link](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html) |
