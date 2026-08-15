@@ -1,9 +1,60 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-14 · 5592 items*
+*Last updated: 2026-08-15 · 5643 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-14 | These A.I. Policies Will Hurt Our Business. We Should Do Them Anyway. | NYT · AI | AI | opinion | 2026-08-14 | [link](https://www.nytimes.com/2026/08/14/opinion/ai-policy-tax-technology.html) |
+| 2026-08-14 | The Markets Have Been on a Roll. Is It Time to Hedge Your Bets? | NYT · AI | AI | news | 2026-08-14 | [link](https://www.nytimes.com/2026/08/14/business/stock-market-ai-bonds-rally.html) |
+| 2026-08-14 | Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom | NYT · AI | AI | news | 2026-08-14 | [link](https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html) |
+| 2026-08-14 | An A.I. Bot is Judging Your Résumé | NYT · AI | AI | opinion | 2026-08-14 | [link](https://www.nytimes.com/video/opinion/100000011085683/an-ai-bot-is-judging-your-resume.html) |
+| 2026-08-14 | Will Paramount’s Brinkmanship Work? | NYT · Business | Business | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/12/business/dealbook/paramount-california-states-lawsuit.html) |
+| 2026-08-14 | Judge Affirms Settlement Allowing HPE’s Deal for Juniper | NYT · Technology | Technology | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html) |
+| 2026-08-14 | The 5 Congress Members Whose Families Trade the Most Stocks | NYT · Politics | Politics | news | 2026-08-14 | [link](https://www.nytimes.com/2026/08/14/us/politics/biggest-stock-traders-congress.html) |
+| 2026-08-14 | Stock Trading in Congress Becomes an Attack Line in Midterm Campaigns | NYT · Politics | Politics | news | 2026-08-15 | [link](https://www.nytimes.com/2026/08/14/us/politics/stock-trading-congress.html) |
+| 2026-08-14 | Who Is Joshua Kushner, the New Lakers Co-Owner? | NYT · Business | Business | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/12/business/joshua-kushner-lakers.html) |
+| 2026-08-14 | Only Global Cooperation Can Keep the World Safe From A.I. | NYT · AI | AI | opinion | 2026-08-13 | [link](https://www.nytimes.com/2026/08/13/opinion/ai-safety-regulation-robert-wright.html) |
+| 2026-08-14 | Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion | NYT · Technology | Technology | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html) |
+| 2026-08-14 | Chatbots Are Pushing Us Toward a Post-Human Internet | NYT · AI | AI | news | 2026-08-14 | [link](https://www.nytimes.com/2026/08/14/magazine/ai-chatbots-internet-communication-loops.html) |
+| 2026-08-14 | David Ellison Floats Hollywood Exit as States Threaten His Warner Bros. Deal | NYT · Business | Business | news | 2026-08-12 | [link](https://www.nytimes.com/2026/08/11/business/media/david-ellison-hollywood-paramount-warner-bros.html) |
+| 2026-08-14 | I Tested a Popular A.I. Slop Detector. It Felt Empowering. | NYT · AI | AI | news | 2026-08-14 | [link](https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html) |
+| 2026-08-14 | If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks | NYT · Opinion | Opinion | opinion | 2026-08-14 | [link](https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html) |
+| 2026-08-14 | Zuckerberg’s Anti-Doom Fantasy + Finally an A.I. Detector That Works + A.I. Math | NYT · AI | AI | news | 2026-08-14 | [link](https://www.nytimes.com/2026/08/14/podcasts/zuckerberg-essay-pangram-math.html) |
+| 2026-08-14 | Lawsuit Accuses Selena Gomez of Defrauding Investors in Mental Health Site | NYT · Business | Business | news | 2026-08-14 | [link](https://www.nytimes.com/2026/08/14/us/selena-gomez-wondermind-lawsuit-fraud.html) |
+| 2026-08-14 | Colorado Was Targeted as Trump Fumed Over Election Denier, Email Shows | NYT · U.S. | U.S. | news | 2026-08-15 | [link](https://www.nytimes.com/2026/08/14/us/colorado-trump-tina-peters.html) |
+| 2026-08-14 | So You Want to Build an A.I. Star? | NYT · AI | AI | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/13/arts/ai-podcasts-fashion-pop-avatars.html) |
+| 2026-08-14 | Judge Rejects Suit Against University of Michigan That Sought Emails on Climate Law | NYT · Energy & Environment | Energy & Environment | news | 2026-08-14 | [link](https://www.nytimes.com/2026/08/14/climate/climate-superfund-professor-lawsuit-emails-michigan.html) |
+| 2026-08-14 | SK Telecom gears up to retire 3G, plans to halt new subscriptions - report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-14 | [link](https://www.datacenterdynamics.com/en/news/sk-telecom-gears-up-to-retire-3g-plans-to-halt-new-subscriptions-report/) |
+| 2026-08-14 | US utility Southern Co reports 55% higher data center power usage compared to last year | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-14 | [link](https://www.datacenterdynamics.com/en/news/us-utility-southern-co-reports-55-higher-data-center-power-usage-compared-to-last-year/) |
+| 2026-08-14 | Quantum computing is coming fast. Are utilities ready? | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-14 | [link](https://www.utilitydive.com/news/quantum-computing-utilities-duke-epri-schneider/827241/) |
+| 2026-08-14 | Did China outsmart America after the oil shock? | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-14 | [link](https://www.latitudemedia.com/news/did-china-outsmart-america-after-the-oil-shock/) |
+| 2026-08-14 | In the Midwest, more coal power for data centers | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-14 | [link](https://www.latitudemedia.com/news/in-the-midwest-more-coal-power-for-data-centers/) |
+| 2026-08-14 | WSP capitalizes on surging US power work | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-14 | [link](https://www.utilitydive.com/news/wsp-power-generation-nuclear-data-centers-construction-us/827577/) |
+| 2026-08-14 | Who’s Tracking You? Use This New Service to Find Out | Krebs on Security · Security & Privacy | Security | tech | 2026-08-14 | [link](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/) |
+| 2026-08-14 | Don't classify. Hallucinate! | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-14 | [link](https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/) |
+| 2026-08-14 | Google’s ‘Material 3’ Design Write-Up Is 93.3 Percent Embarrassing | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-14 | [link](https://design.google/library/expressive-material-design-google-research) |
+| 2026-08-14 | ★ You Don’t Need to Worry About Scratching Your iPhone Camera Lenses | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-14 | [link](https://daringfireball.net/2026/08/iphone_camera_lens_scratch_resistance) |
+| 2026-08-14 | I let Claude Code trade stocks with my real money. Results: | Reddit | Business | social | 2026-08-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1voi341/i_let_claude_code_trade_stocks_with_my_real_money/) |
+| 2026-08-14 | Claude changed the way I eat: 9+ kg down this summer, and it never felt like a diet | Reddit | Business | social | 2026-08-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vo7klb/claude_changed_the_way_i_eat_9_kg_down_this/) |
+| 2026-08-14 | AI might be making you dumb but it made me smart | Reddit | Business | social | 2026-08-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vo8je1/ai_might_be_making_you_dumb_but_it_made_me_smart/) |
+| 2026-08-14 | Anthropic writes an FAQ about watermarking | Reddit | Business | social | 2026-08-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vokr48/anthropic_writes_an_faq_about_watermarking/) |
+| 2026-08-14 | Anthropic gave 3 Claude agents the same task, but secretly gave them conflicting goals. They escalat | Reddit | Business | social | 2026-08-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1voaqvq/anthropic_gave_3_claude_agents_the_same_task_but/) |
+| 2026-08-14 | You can now build yourself a clone to control your computer, if you have a claude subscription | Reddit | Business | social | 2026-08-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vo3sj9/you_can_now_build_yourself_a_clone_to_control/) |
+| 2026-08-14 | Thank you, Claude, for making sure my 3D object does NOT read unmistakably as phallic. | Reddit | Business | social | 2026-08-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vog95p/thank_you_claude_for_making_sure_my_3d_object/) |
+| 2026-08-14 | I Vibe Coded Half My Job | Reddit | Business | social | 2026-08-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vnsu99/i_vibe_coded_half_my_job/) |
+| 2026-08-14 | What are some common giveaways of Claude AI writing? | Reddit | Business | social | 2026-08-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vonba5/what_are_some_common_giveaways_of_claude_ai/) |
+| 2026-08-14 | my own writing has started sounding like claude and someone at work noticed | Reddit | Business | social | 2026-08-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vo2vr6/my_own_writing_has_started_sounding_like_claude/) |
+| 2026-08-14 | Claude explaining to me over two pages how he just moved a comma to the left | Reddit | Business | social | 2026-08-14 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vo167p/claude_explaining_to_me_over_two_pages_how_he/) |
+| 2026-08-14 | Coolest claude code wrapper out there and it’s 100% open source | Reddit | Business | social | 2026-08-14 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vo94xi/coolest_claude_code_wrapper_out_there_and_its_100/) |
+| 2026-08-14 | I used Claude to vibe code a compass app to find the nearest toilet, called Compiss. | Reddit | Business | social | 2026-08-14 | [link](https://www.reddit.com/r/ClaudeCode/comments/1voccq0/i_used_claude_to_vibe_code_a_compass_app_to_find/) |
+| 2026-08-14 | Vibe coders when someone asks them to explain their own code | Reddit | Business | social | 2026-08-14 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vodqza/vibe_coders_when_someone_asks_them_to_explain/) |
+| 2026-08-14 | Downgrading never felt so good. Opus 4.8 FTW🔥 | Reddit | Business | social | 2026-08-14 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vojj88/downgrading_never_felt_so_good_opus_48_ftw/) |
+| 2026-08-14 | My Obsidian Dashboard / Home Page | Reddit | Business | social | 2026-08-14 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vnux2z/my_obsidian_dashboard_home_page/) |
+| 2026-08-14 | Giganttix update - simple gantt charts from notes | Reddit | Business | social | 2026-08-14 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vof5ho/giganttix_update_simple_gantt_charts_from_notes/) |
+| 2026-08-14 | I made a CSS snippet that transform my callouts like that ! | Reddit | Business | social | 2026-08-14 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vo7fqd/i_made_a_css_snippet_that_transform_my_callouts/) |
+| 2026-08-14 | Obsidian Team Manager 0.5.0: Calendar | Reddit | Business | social | 2026-08-14 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vo3rem/obsidian_team_manager_050_calendar/) |
+| 2026-08-14 | How can i organize my habit tracking and make it more effective/aesthetically pleasing? Any habit tr | Reddit | Business | social | 2026-08-14 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vodfs9/how_can_i_organize_my_habit_tracking_and_make_it/) |
+| 2026-08-14 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-13 | Gemini 3.7 Flash | HN | Technology | tech | 2026-08-13 | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) |
 | 2026-08-13 | DeepSeek Harness developer preview | HN | Technology | tech | 2026-08-13 | [link](https://deepseek.com/harness/en/) |
 | 2026-08-13 | Spaghettifying DRAM | HN | Technology | tech | 2026-08-13 | [link](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) |
