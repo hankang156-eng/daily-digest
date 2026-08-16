@@ -1,9 +1,74 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-15 · 5643 items*
+*Last updated: 2026-08-16 · 5708 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-15 | AI has access to a vastly larger working memory than the human brain | HN | Technology | tech | 2026-08-15 | [link](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) |
+| 2026-08-15 | Semaglutide linked to lower predicted dementia risk | HN | Technology | tech | 2026-08-15 | [link](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) |
+| 2026-08-15 | Auto-research with codex: How I achieved a 232x Faster Kernel | HN | Technology | tech | 2026-08-15 | [link](https://sankalp.bearblog.dev/autoresearch/) |
+| 2026-08-15 | The other Sean Byrne doesn't exist | HN | Technology | tech | 2026-08-15 | [link](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/) |
+| 2026-08-15 | Working with AI feels more like leadership than coding | HN | Technology | tech | 2026-08-15 | [link](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/) |
+| 2026-08-15 | Abdominal fat predicts heart disease risk better than BMI | HN | Technology | tech | 2026-08-15 | [link](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi) |
+| 2026-08-15 | At-home test for infected ticks could improve Lyme Disease diagnosis | HN | Technology | tech | 2026-08-15 | [link](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/) |
+| 2026-08-15 | Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter | HN | Technology | tech | 2026-08-15 | [link](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/) |
+| 2026-08-15 | A spectre is haunting Unicode | HN | Technology | tech | 2026-08-15 | [link](https://www.dampfkraft.com/ghost-characters.html) |
+| 2026-08-15 | Cultivating a state of mind where new ideas are born (2023) | HN | Technology | tech | 2026-08-15 | [link](https://www.henrikkarlsson.xyz/p/good-ideas) |
+| 2026-08-15 | A controversial Alzheimer's surgery is said to reverse symptoms | HN | Technology | tech | 2026-08-15 | [link](https://www.nature.com/articles/d41586-026-02448-x) |
+| 2026-08-15 | Engineers will do anything to avoid learning from history | HN | Technology | tech | 2026-08-15 | [link](https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/) |
+| 2026-08-15 | Software Engineering fundamentals matter more | HN | Technology | tech | 2026-08-15 | [link](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/) |
+| 2026-08-15 | AI in drug discovery – what it is, where we stand and the path forward | HN | Technology | tech | 2026-08-15 | [link](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really) |
+| 2026-08-15 | The Dutch community where people live on strips of land in a lake | HN | Technology | tech | 2026-08-15 | [link](https://www.core77.com/posts/144869) |
+| 2026-08-15 | Show HN: ThoughtDAG – An editable context graph for LLM conversations | HN | Technology | tech | 2026-08-15 | [link](https://chenxiachan.github.io/thoughtdag/) |
+| 2026-08-15 | These A.I. Policies Will Hurt Our Business. We Should Do Them Anyway. | NYT · AI | AI | opinion | 2026-08-15 | [link](https://www.nytimes.com/2026/08/14/opinion/ai-policy-tax-technology.html) |
+| 2026-08-15 | As A.I. Data Centers Spread, Pressure Mounts to Share Profits | NYT · AI | AI | news | 2026-08-16 | [link](https://www.nytimes.com/2026/08/16/business/ai-data-centers.html) |
+| 2026-08-15 | An A.I. Bot is Judging Your Résumé | NYT · AI | AI | opinion | 2026-08-15 | [link](https://www.nytimes.com/video/opinion/100000011085683/an-ai-bot-is-judging-your-resume.html) |
+| 2026-08-15 | The Markets Have Been on a Roll. Is It Time to Hedge Your Bets? | NYT · AI | AI | news | 2026-08-14 | [link](https://www.nytimes.com/2026/08/14/business/stock-market-ai-bonds-rally.html) |
+| 2026-08-15 | Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom | NYT · AI | AI | news | 2026-08-14 | [link](https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html) |
+| 2026-08-15 | The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. | NYT · AI | AI | news | 2026-08-16 | [link](https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html) |
+| 2026-08-15 | Will Paramount’s Brinkmanship Work? | NYT · Business | Business | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/12/business/dealbook/paramount-california-states-lawsuit.html) |
+| 2026-08-15 | Stock Trading in Congress Becomes an Attack Line in Midterm Campaigns | NYT · Politics | Politics | news | 2026-08-15 | [link](https://www.nytimes.com/2026/08/14/us/politics/stock-trading-congress.html) |
+| 2026-08-15 | Judge Affirms Settlement Allowing HPE’s Deal for Juniper | NYT · Technology | Technology | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html) |
+| 2026-08-15 | Who Is Joshua Kushner, the New Lakers Co-Owner? | NYT · Business | Business | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/12/business/joshua-kushner-lakers.html) |
+| 2026-08-15 | Only Global Cooperation Can Keep the World Safe From A.I. | NYT · AI | AI | opinion | 2026-08-13 | [link](https://www.nytimes.com/2026/08/13/opinion/ai-safety-regulation-robert-wright.html) |
+| 2026-08-15 | Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion | NYT · Technology | Technology | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html) |
+| 2026-08-15 | Colorado Was Targeted as Trump Fumed Over Election Denier, Email Shows | NYT · U.S. | U.S. | news | 2026-08-15 | [link](https://www.nytimes.com/2026/08/14/us/colorado-trump-tina-peters.html) |
+| 2026-08-15 | If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-08-14 | [link](https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html) |
+| 2026-08-15 | The 5 Congress Members Whose Families Trade the Most Stocks | NYT · Politics | Politics | news | 2026-08-14 | [link](https://www.nytimes.com/2026/08/14/us/politics/biggest-stock-traders-congress.html) |
+| 2026-08-15 | Chatbots Are Pushing Us Toward a Post-Human Internet | NYT · AI | AI | news | 2026-08-14 | [link](https://www.nytimes.com/2026/08/14/magazine/ai-chatbots-internet-communication-loops.html) |
+| 2026-08-15 | I Tested a Popular A.I. Slop Detector. It Felt Empowering. | NYT · AI | AI | news | 2026-08-14 | [link](https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html) |
+| 2026-08-15 | Birds Are Dying. Clues Point to El Niño. | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html) |
+| 2026-08-15 | Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated. | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html) |
+| 2026-08-15 | Zuckerberg’s Anti-Doom Fantasy + Finally an A.I. Detector That Works + A.I. Math | NYT · AI | AI | news | 2026-08-14 | [link](https://www.nytimes.com/2026/08/14/podcasts/zuckerberg-essay-pangram-math.html) |
+| 2026-08-15 | Common Earth Project Aims to End Chip Supply Chain Bottlenecks | IEEE Spectrum Semiconductors · AI Infrastructure | Infrastructure | tech | 2026-08-15 | [link](https://spectrum.ieee.org/rare-earth-metals-in-semiconductors) |
+| 2026-08-15 | Sponsored: Power on the critical path: why the IPP is moving to the center of data center developmen | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-15 | [link](https://www.datacenterdynamics.com/en/opinions/power-on-the-critical-path-why-the-ipp-is-moving-to-the-center-of-data-center-development/) |
+| 2026-08-15 | Are orbital AI data centers the next frontier for compute infrastructure? | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-15 | [link](https://www.datacenterdynamics.com/en/opinions/are-orbital-ai-data-centers-the-next-frontier-for-compute-infrastructure/) |
+| 2026-08-15 | Drata | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-15 | [link](https://drata.com/daring) |
+| 2026-08-15 | CORS Chat | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-15 | [link](https://simonwillison.net/2026/Aug/15/cors-chat/) |
+| 2026-08-15 | Go 1.27 will make some allocations cheaper | Lemire.me · Tech & Engineering | Technology | tech | 2026-08-15 | [link](https://lemire.me/blog/2026/08/15/go-1-27-will-make-some-allocations-cheaper/) |
+| 2026-08-15 | Book Review: Slags by Emma Jane Unsworth ★★★⯪☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-15 | [link](https://shkspr.mobi/blog/2026/08/book-review-slags-by-emma-jane-unsworth/) |
+| 2026-08-15 | Northern Gannet | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-15 | [link](https://simonwillison.net/2026/Aug/15/sighting-391300422/) |
+| 2026-08-15 | Whhat? | Reddit | Business | social | 2026-08-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1votms0/whhat/) |
+| 2026-08-15 | Downgraded from Opus 5 to Opus 4.6 and it feels night and day | Reddit | Business | social | 2026-08-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1voz6sm/downgraded_from_opus_5_to_opus_46_and_it_feels/) |
+| 2026-08-15 | I built Popwatch - your personal popcorn popping pal | Reddit | Business | social | 2026-08-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vp09ja/i_built_popwatch_your_personal_popcorn_popping_pal/) |
+| 2026-08-15 | World of Claudecraft after 2 months of vibe coding | Reddit | Business | social | 2026-08-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1voxq2f/world_of_claudecraft_after_2_months_of_vibe_coding/) |
+| 2026-08-15 | Claude just made me this launch video | Reddit | Business | social | 2026-08-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vpbsem/claude_just_made_me_this_launch_video/) |
+| 2026-08-15 | Fable, shmable... The real flagship feature is not having to set a 4:20 AM alarm just to hit "try ag | Reddit | Business | social | 2026-08-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vp2ty0/fable_shmable_the_real_flagship_feature_is_not/) |
+| 2026-08-15 | How do you make Opus cut the fluff and reply like a human? | Reddit | Business | social | 2026-08-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vpfhej/how_do_you_make_opus_cut_the_fluff_and_reply_like/) |
+| 2026-08-15 | Claude conversation too long to continue: best way to preserve 7 months of project context? | Reddit | Business | social | 2026-08-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vp9nh8/claude_conversation_too_long_to_continue_best_way/) |
+| 2026-08-15 | I vibecoded my own MMO inspired by my favorite childhood MMO | Reddit | Business | social | 2026-08-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vp840g/i_vibecoded_my_own_mmo_inspired_by_my_favorite/) |
+| 2026-08-15 | Kind of burnt out reviewing every single line claude code writes | Reddit | Business | social | 2026-08-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1voyaox/kind_of_burnt_out_reviewing_every_single_line/) |
+| 2026-08-15 | A Google Cloud engineer just showed how to build a complete application with Claude from scratch | Reddit | Business | social | 2026-08-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vozpv9/a_google_cloud_engineer_just_showed_how_to_build/) |
+| 2026-08-15 | Claude Moralizing | Reddit | Business | social | 2026-08-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vpf51m/claude_moralizing/) |
+| 2026-08-15 | A humble guide to the multi-agent workflows I use every day | Reddit | Business | social | 2026-08-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vphazv/a_humble_guide_to_the_multiagent_workflows_i_use/) |
+| 2026-08-15 | I'm starting to hate anthropic/claude, but I don't want to | Reddit | Business | social | 2026-08-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vp4fjh/im_starting_to_hate_anthropicclaude_but_i_dont/) |
+| 2026-08-15 | Benjamin Pasero joined Claude Code Team | Reddit | Business | social | 2026-08-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vp6vt3/benjamin_pasero_joined_claude_code_team/) |
+| 2026-08-15 | the most boring obsidian setup yet | Reddit | Business | social | 2026-08-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1votkr8/the_most_boring_obsidian_setup_yet/) |
+| 2026-08-15 | Be honest: what did Obsidian actually replace for you? | Reddit | Business | social | 2026-08-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vp52fb/be_honest_what_did_obsidian_actually_replace_for/) |
+| 2026-08-15 | Ink Paper | Reddit | Business | social | 2026-08-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vow5ib/ink_paper/) |
+| 2026-08-15 | Fought iCloud for forever, finally paid for Sync | Reddit | Business | social | 2026-08-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vp3pds/fought_icloud_for_forever_finally_paid_for_sync/) |
+| 2026-08-15 | What is the simplest, most effective setup for someone who's starting out with Obsidian? | Reddit | Business | social | 2026-08-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vot1zc/what_is_the_simplest_most_effective_setup_for/) |
+| 2026-08-15 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-14 | These A.I. Policies Will Hurt Our Business. We Should Do Them Anyway. | NYT · AI | AI | opinion | 2026-08-14 | [link](https://www.nytimes.com/2026/08/14/opinion/ai-policy-tax-technology.html) |
 | 2026-08-14 | The Markets Have Been on a Roll. Is It Time to Hedge Your Bets? | NYT · AI | AI | news | 2026-08-14 | [link](https://www.nytimes.com/2026/08/14/business/stock-market-ai-bonds-rally.html) |
 | 2026-08-14 | Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom | NYT · AI | AI | news | 2026-08-14 | [link](https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html) |

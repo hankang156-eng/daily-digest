@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-14 · 464 days · 4640 stories*
+*Last updated: 2026-08-16 · 465 days · 4650 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-15 | Saturday | 1 | AI has access to a vastly larger working memory than the human brain | 500 | 421 | Technology | [link](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) · [HN](https://news.ycombinator.com/item?id=49312845) |
+| 2026-08-15 | Saturday | 2 | Semaglutide linked to lower predicted dementia risk | 427 | 298 | Technology | [link](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) · [HN](https://news.ycombinator.com/item?id=49311651) |
+| 2026-08-15 | Saturday | 3 | Auto-research with codex: How I achieved a 232x Faster Kernel | 419 | 91 | Technology | [link](https://sankalp.bearblog.dev/autoresearch/) · [HN](https://news.ycombinator.com/item?id=49309549) |
+| 2026-08-15 | Saturday | 4 | The other Sean Byrne doesn't exist | 380 | 181 | Technology | [link](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/) · [HN](https://news.ycombinator.com/item?id=49307592) |
+| 2026-08-15 | Saturday | 5 | Working with AI feels more like leadership than coding | 301 | 190 | Technology | [link](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/) · [HN](https://news.ycombinator.com/item?id=49309451) |
+| 2026-08-15 | Saturday | 6 | Abdominal fat predicts heart disease risk better than BMI | 261 | 197 | Technology | [link](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi) · [HN](https://news.ycombinator.com/item?id=49314403) |
+| 2026-08-15 | Saturday | 7 | At-home test for infected ticks could improve Lyme Disease diagnosis | 256 | 94 | Technology | [link](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/) · [HN](https://news.ycombinator.com/item?id=49310682) |
+| 2026-08-15 | Saturday | 8 | Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter | 244 | 136 | Technology | [link](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/) · [HN](https://news.ycombinator.com/item?id=49313428) |
+| 2026-08-15 | Saturday | 9 | A spectre is haunting Unicode | 225 | 86 | Technology | [link](https://www.dampfkraft.com/ghost-characters.html) · [HN](https://news.ycombinator.com/item?id=49310926) |
+| 2026-08-15 | Saturday | 10 | Cultivating a state of mind where new ideas are born (2023) | 174 | 41 | Technology | [link](https://www.henrikkarlsson.xyz/p/good-ideas) · [HN](https://news.ycombinator.com/item?id=49314235) |
 | 2026-08-13 | Thursday | 1 | Gemini 3.7 Flash | 839 | 433 | Technology | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) · [HN](https://news.ycombinator.com/item?id=49289112) |
 | 2026-08-13 | Thursday | 2 | DeepSeek Harness developer preview | 662 | 276 | Technology | [link](https://deepseek.com/harness/en/) · [HN](https://news.ycombinator.com/item?id=49285244) |
 | 2026-08-13 | Thursday | 3 | Spaghettifying DRAM | 624 | 162 | Technology | [link](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) · [HN](https://news.ycombinator.com/item?id=49286341) |
