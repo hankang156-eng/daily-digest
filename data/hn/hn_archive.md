@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-16 · 465 days · 4650 stories*
+*Last updated: 2026-08-17 · 466 days · 4660 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-16 | Sunday | 1 | Claude: System Prompts | 661 | 256 | Technology | [link](https://platform.claude.com/docs/en/release-notes/system-prompts) · [HN](https://news.ycombinator.com/item?id=49319556) |
+| 2026-08-16 | Sunday | 2 | Firefox for iOS now has a native adblocker | 658 | 259 | Technology | [link](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios) · [HN](https://news.ycombinator.com/item?id=49319633) |
+| 2026-08-16 | Sunday | 3 | A third world engineer responds to “RISC-V: They should have known better” | 510 | 268 | Technology | [link](https://rvembedded.com/blog_post/12/) · [HN](https://news.ycombinator.com/item?id=49321717) |
+| 2026-08-16 | Sunday | 4 | Tell HN: Cloudflare silently injects its analytics when you switch nameservers | 510 | 140 | Technology | [link](https://news.ycombinator.com/item?id=49322107) · [HN](https://news.ycombinator.com/item?id=49322107) |
+| 2026-08-16 | Sunday | 5 | Qwen 3.8 27B is excellent, but it defaults to overthinking things | 474 | 223 | Technology | [link](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) · [HN](https://news.ycombinator.com/item?id=49324985) |
+| 2026-08-16 | Sunday | 6 | Research papers using "kidney disappointment" instead of "kidney failure" | 398 | 140 | Technology | [link](https://scholar.google.com/scholar?q=%22kidney+disappointment%22) · [HN](https://news.ycombinator.com/item?id=49319389) |
+| 2026-08-16 | Sunday | 7 | Stripe will reportedly acquire OpenRouter for $7B+ | 358 | 217 | Technology | [link](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/) · [HN](https://news.ycombinator.com/item?id=49323381) |
+| 2026-08-16 | Sunday | 8 | Models Are Getting Dumber on Purpose | 313 | 174 | Technology | [link](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose) · [HN](https://news.ycombinator.com/item?id=49322695) |
+| 2026-08-16 | Sunday | 9 | The AI Credit Resale Economy | 289 | 117 | Technology | [link](https://vectoral.com/blog/who-are-the-token-brokers) · [HN](https://news.ycombinator.com/item?id=49320611) |
+| 2026-08-16 | Sunday | 10 | Anthropic's 'watermark' text adulteration in Claude is a perversion of writing | 268 | 264 | Technology | [link](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) · [HN](https://news.ycombinator.com/item?id=49324087) |
 | 2026-08-15 | Saturday | 1 | AI has access to a vastly larger working memory than the human brain | 500 | 421 | Technology | [link](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) · [HN](https://news.ycombinator.com/item?id=49312845) |
 | 2026-08-15 | Saturday | 2 | Semaglutide linked to lower predicted dementia risk | 427 | 298 | Technology | [link](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) · [HN](https://news.ycombinator.com/item?id=49311651) |
 | 2026-08-15 | Saturday | 3 | Auto-research with codex: How I achieved a 232x Faster Kernel | 419 | 91 | Technology | [link](https://sankalp.bearblog.dev/autoresearch/) · [HN](https://news.ycombinator.com/item?id=49309549) |

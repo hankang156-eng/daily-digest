@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-16 · 5708 items*
+*Last updated: 2026-08-17 · 5771 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-16 | Claude: System Prompts | HN | Technology | tech | 2026-08-16 | [link](https://platform.claude.com/docs/en/release-notes/system-prompts) |
+| 2026-08-16 | Firefox for iOS now has a native adblocker | HN | Technology | tech | 2026-08-16 | [link](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios) |
+| 2026-08-16 | A third world engineer responds to “RISC-V: They should have known better” | HN | Technology | tech | 2026-08-16 | [link](https://rvembedded.com/blog_post/12/) |
+| 2026-08-16 | Tell HN: Cloudflare silently injects its analytics when you switch nameservers | HN | Technology | tech | 2026-08-16 | [link](https://news.ycombinator.com/item?id=49322107) |
+| 2026-08-16 | Qwen 3.8 27B is excellent, but it defaults to overthinking things | HN | Technology | tech | 2026-08-16 | [link](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) |
+| 2026-08-16 | Research papers using "kidney disappointment" instead of "kidney failure" | HN | Technology | tech | 2026-08-16 | [link](https://scholar.google.com/scholar?q=%22kidney+disappointment%22) |
+| 2026-08-16 | Stripe will reportedly acquire OpenRouter for $7B+ | HN | Technology | tech | 2026-08-16 | [link](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/) |
+| 2026-08-16 | Models Are Getting Dumber on Purpose | HN | Technology | tech | 2026-08-16 | [link](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose) |
+| 2026-08-16 | The AI Credit Resale Economy | HN | Technology | tech | 2026-08-16 | [link](https://vectoral.com/blog/who-are-the-token-brokers) |
+| 2026-08-16 | Anthropic's 'watermark' text adulteration in Claude is a perversion of writing | HN | Technology | tech | 2026-08-16 | [link](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) |
+| 2026-08-16 | What happens when an LLM never sees material beyond fifth grade? | HN | Technology | tech | 2026-08-16 | [link](https://littlelearner-ll.github.io/) |
+| 2026-08-16 | The federal keyword lists that canceled billions in research funding | HN | Technology | tech | 2026-08-16 | [link](https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/) |
+| 2026-08-16 | Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee | HN | Technology | tech | 2026-08-16 | [link](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/) |
+| 2026-08-16 | The weekend is 100 years old | HN | Technology | tech | 2026-08-16 | [link](https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it) |
+| 2026-08-16 | St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core | HN | Technology | tech | 2026-08-16 | [link](https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core) |
+| 2026-08-16 | The Life and Death of Direct File [pdf] | HN | Technology | tech | 2026-08-16 | [link](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf) |
+| 2026-08-16 | As A.I. Data Centers Spread, Pressure Mounts to Share Profits | NYT · AI | AI | news | 2026-08-16 | [link](https://www.nytimes.com/2026/08/16/business/ai-data-centers.html) |
+| 2026-08-16 | The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. | NYT · AI | AI | news | 2026-08-16 | [link](https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html) |
+| 2026-08-16 | The Markets Have Been on a Roll. Is It Time to Hedge Your Bets? | NYT · AI | AI | news | 2026-08-14 | [link](https://www.nytimes.com/2026/08/14/business/stock-market-ai-bonds-rally.html) |
+| 2026-08-16 | David Ellison’s Plan to Move Hollywood to Nashville | NYT · Opinion | Opinion | opinion | 2026-08-16 | [link](https://www.nytimes.com/2026/08/15/opinion/culture/ellison-nashville-paramount-hollywood.html) |
+| 2026-08-16 | Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom | NYT · AI | AI | news | 2026-08-14 | [link](https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html) |
+| 2026-08-16 | An A.I. Bot is Judging Your Résumé | NYT · AI | AI | opinion | 2026-08-15 | [link](https://www.nytimes.com/video/opinion/100000011085683/an-ai-bot-is-judging-your-resume.html) |
+| 2026-08-16 | Will Paramount’s Brinkmanship Work? | NYT · Business | Business | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/12/business/dealbook/paramount-california-states-lawsuit.html) |
+| 2026-08-16 | Judge Affirms Settlement Allowing HPE’s Deal for Juniper | NYT · Technology | Technology | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html) |
+| 2026-08-16 | Trump Issues Tariffs on Key Ingredient for Electronics and Solar Panels | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/us/politics/trump-tariffs-solar-panels.html) |
+| 2026-08-16 | Who Is Joshua Kushner, the New Lakers Co-Owner? | NYT · Business | Business | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/12/business/joshua-kushner-lakers.html) |
+| 2026-08-16 | China Wants Its Data to Power the World’s A.I. | NYT · AI | AI | news | 2026-08-17 | [link](https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html) |
+| 2026-08-16 | These A.I. Policies Will Hurt Our Business. We Should Do Them Anyway. | NYT · Opinion | Opinion | opinion | 2026-08-15 | [link](https://www.nytimes.com/2026/08/14/opinion/ai-policy-tax-technology.html) |
+| 2026-08-16 | Bot Meets Bot | NYT · AI | AI | news | 2026-08-16 | [link](https://www.nytimes.com/2026/08/16/briefing/chatbots-talking-to-each-other.html) |
+| 2026-08-16 | To Save Higher Ed, Professors Need to Get a Little Weird | NYT · AI | AI | opinion | 2026-08-17 | [link](https://www.nytimes.com/2026/08/17/opinion/higher-ed-dostoevsky-attention.html) |
+| 2026-08-16 | Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea | NYT · Politics | Politics | news | 2026-08-17 | [link](https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html) |
+| 2026-08-16 | In ‘The Brink of War,’ a Return to an Era of Razor-Edge Diplomacy | NYT · Politics | Politics | news | 2026-08-16 | [link](https://www.nytimes.com/2026/08/16/us/politics/brink-of-war-reagan-nuclear-weapons.html) |
+| 2026-08-16 | Birds Are Dying. Clues Point to El Niño. | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html) |
+| 2026-08-16 | Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated. | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html) |
+| 2026-08-16 | Blanche Refuses to Say He’ll Always Be Independent of Trump as Attorney General | NYT · Politics | Politics | news | 2026-08-16 | [link](https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html) |
+| 2026-08-16 | Trump’s Push for More A.I. Data Centers Will Mean Major Air Pollution | NYT · Energy & Environment | Energy & Environment | news | 2026-08-07 | [link](https://www.nytimes.com/2026/08/05/climate/data-centers-pollution-trump-ai-energy.html) |
+| 2026-08-16 | When a grid signal becomes a production change | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-16 | [link](https://www.datacenterdynamics.com/en/opinions/when-a-grid-signal-becomes-a-production-change/) |
+| 2026-08-16 | When AI hoards flash: the storage playbook that protects budget and performance in turbulent times | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-16 | [link](https://www.datacenterdynamics.com/en/opinions/when-ai-hoards-flash-the-storage-playbook-that-protects-budget-and-performance-in-turbulent-times/) |
+| 2026-08-16 | XCancel — An Unofficial Twitter/X Mirror | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-16 | [link](https://xcancel.com/about) |
+| 2026-08-16 | The Information Profiles Cami Clark — Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be  | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-16 | [link](https://www.theinformation.com/articles/anthropics-first-lady-took-winding-road-top?rc=jfy0lk) |
+| 2026-08-16 | Quoting Dario Amodei | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-16 | [link](https://simonwillison.net/2026/Aug/16/dario-amodei/) |
+| 2026-08-16 | Thoughts on visiting the Edinburgh Fringe as a newbie | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-16 | [link](https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/) |
+| 2026-08-16 | I built my first Unity game with Claude | Reddit | Business | social | 2026-08-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vq3rtp/i_built_my_first_unity_game_with_claude/) |
+| 2026-08-16 | Thanks, Claude | Reddit | Business | social | 2026-08-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vpziv3/thanks_claude/) |
+| 2026-08-16 | I'm getting this error constantly while trying to use Claude Cowork on Desktop - anyone else? | Reddit | Business | social | 2026-08-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vq9o87/im_getting_this_error_constantly_while_trying_to/) |
+| 2026-08-16 | Curious, what does vibe-coded code read like to original coders? | Reddit | Business | social | 2026-08-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vq8ahg/curious_what_does_vibecoded_code_read_like_to/) |
+| 2026-08-16 | Hi, my name is Ian and it has been 13 days since my last em dash | Reddit | Business | social | 2026-08-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vpww78/hi_my_name_is_ian_and_it_has_been_13_days_since/) |
+| 2026-08-16 | No more weekly limits? I don’t have one. | Reddit | Business | social | 2026-08-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vq9gye/no_more_weekly_limits_i_dont_have_one/) |
+| 2026-08-16 | The Absurd Math of $20 AI Coding Subs: Codex vs. Claude Code | Reddit | Business | social | 2026-08-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vptwlz/the_absurd_math_of_20_ai_coding_subs_codex_vs/) |
+| 2026-08-16 | I just got this in right bottom of web page. What happened? | Reddit | Business | social | 2026-08-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vq9qp8/i_just_got_this_in_right_bottom_of_web_page_what/) |
+| 2026-08-16 | I've used both ChatGPT and Gemini extensively for almost 3 years now, and started using Claude last  | Reddit | Business | social | 2026-08-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vq5e7d/ive_used_both_chatgpt_and_gemini_extensively_for/) |
+| 2026-08-16 | Nothing you generate with Claude today is watermarked, and nobody can check for marks anyway. What I | Reddit | Business | social | 2026-08-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vpro2f/nothing_you_generate_with_claude_today_is/) |
+| 2026-08-16 | Smart Watch Theme | Reddit | Business | social | 2026-08-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vpyfta/smart_watch_theme/) |
+| 2026-08-16 | This is how Opus 5 in general | Reddit | Business | social | 2026-08-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vq2x10/this_is_how_opus_5_in_general/) |
+| 2026-08-16 | Anthropic has nerfed every model | Reddit | Business | social | 2026-08-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vpyugk/anthropic_has_nerfed_every_model/) |
+| 2026-08-16 | Anyone using both CC and Codex together? | Reddit | Business | social | 2026-08-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vpkfam/anyone_using_both_cc_and_codex_together/) |
+| 2026-08-16 | Desktop App VS Terminal | Reddit | Business | social | 2026-08-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vpqiwx/desktop_app_vs_terminal/) |
+| 2026-08-16 | The ultimate writing suite - Word-Smith 1.3.5 is out with many improvements | Reddit | Business | social | 2026-08-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vpot8t/the_ultimate_writing_suite_wordsmith_135_is_out/) |
+| 2026-08-16 | Notion finally broke me. Seriously considering moving everything to Obsidian - talk me into it or ou | Reddit | Business | social | 2026-08-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vq5jp7/notion_finally_broke_me_seriously_considering/) |
+| 2026-08-16 | [Beta] Third Mind Reader — Mobile update | Reddit | Business | social | 2026-08-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vq109e/beta_third_mind_reader_mobile_update/) |
+| 2026-08-16 | Ink Paper Update v1.1.8 | Reddit | Business | social | 2026-08-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vpzrn6/ink_paper_update_v118/) |
+| 2026-08-16 | Is it possible to use if you don’t understand coding and that speak? | Reddit | Business | social | 2026-08-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vpk35r/is_it_possible_to_use_if_you_dont_understand/) |
+| 2026-08-16 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-15 | AI has access to a vastly larger working memory than the human brain | HN | Technology | tech | 2026-08-15 | [link](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) |
 | 2026-08-15 | Semaglutide linked to lower predicted dementia risk | HN | Technology | tech | 2026-08-15 | [link](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) |
 | 2026-08-15 | Auto-research with codex: How I achieved a 232x Faster Kernel | HN | Technology | tech | 2026-08-15 | [link](https://sankalp.bearblog.dev/autoresearch/) |
