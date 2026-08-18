@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-17 · 5771 items*
+*Last updated: 2026-08-18 · 5834 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-17 | AI;DR (AI; Didn't Read) | HN | Technology | tech | 2026-08-17 | [link](https://www.rickmanelius.com/p/aidr-ai-didnt-read) |
+| 2026-08-17 | Incident with Github.com | HN | Technology | tech | 2026-08-17 | [link](https://www.githubstatus.com/incidents/zkxwbgr0cnmx) |
+| 2026-08-17 | A Preview of DuckDB v2.0 | HN | Technology | tech | 2026-08-17 | [link](https://duckdb.org/2026/08/17/duckdb-20-highlights) |
+| 2026-08-17 | Ask HN: Alternatives to GitHub | HN | Technology | tech | 2026-08-17 | [link](https://news.ycombinator.com/item?id=49331033) |
+| 2026-08-17 | How Bluesky draws its logo on screenshots | HN | Technology | tech | 2026-08-17 | [link](https://timmarinin.net/2026/bluesky-screenshots/) |
+| 2026-08-17 | Israel creates fake think tank in likely attempt to dupe AI chatbots | HN | Technology | tech | 2026-08-17 | [link](https://responsiblestatecraft.org/israel-influence-chatgpt/) |
+| 2026-08-17 | GPT-5.6 Sol Pricing Cut by 50% | HN | Technology | tech | 2026-08-17 | [link](https://openrouter.ai/openai/gpt-5.6-sol) |
+| 2026-08-17 | Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study | HN | Technology | tech | 2026-08-17 | [link](https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/) |
+| 2026-08-17 | AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira | HN | Technology | tech | 2026-08-17 | [link](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) |
+| 2026-08-17 | Qwen3.8 27B scores 52 on Artificial Analysis | HN | Technology | tech | 2026-08-17 | [link](https://artificialanalysis.ai/models/qwen3-8-27b) |
+| 2026-08-17 | Quake Shareware, a CD-ROM just a little too full | HN | Technology | tech | 2026-08-17 | [link](https://fabiensanglard.net/quake_shareware_cd/index.html) |
+| 2026-08-17 | GPT 5.6 Sol is the best "vision" model OpenAI ever released | HN | Technology | tech | 2026-08-17 | [link](https://blog.roboflow.com/openai-gpt-5-6/) |
+| 2026-08-17 | How to disable or avoid intrusive AI | HN | Technology | tech | 2026-08-17 | [link](https://www.librarian.net/notoai/) |
+| 2026-08-17 | GitHub down again? no PR access | HN | Technology | tech | 2026-08-17 | [link](https://news.ycombinator.com/item?id=49330632) |
+| 2026-08-17 | Linear algebra done right | HN | Technology | tech | 2026-08-17 | [link](https://linear.axler.net/) |
+| 2026-08-17 | Apple's App Tracking Transparency treated its own apps better than rivals | HN | Technology | tech | 2026-08-17 | [link](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html) |
+| 2026-08-17 | Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal | NYT · Business | Business | news | 2026-08-17 | [link](https://www.nytimes.com/2026/08/17/business/paramount-warner-bros-antitrust-trial.html) |
+| 2026-08-17 | The Markets Have Been on a Roll. Is It Time to Hedge Your Bets? | NYT · Business | Business | news | 2026-08-17 | [link](https://www.nytimes.com/2026/08/14/business/stock-market-ai-bonds-rally.html) |
+| 2026-08-17 | How New York Is Restricting Data Centers | NYT · AI | AI | news | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/nyregion/how-new-york-is-restricting-data-centers.html) |
+| 2026-08-17 | ‘Buy Now, Pay Later’ Lenders Pitch Loans for Needs Like Electricity and Rent | NYT · Business | Business | news | 2026-08-17 | [link](https://www.nytimes.com/2026/08/17/business/buy-now-pay-later.html) |
+| 2026-08-17 | David Ellison’s Plan to Move Hollywood to Nashville | NYT · Opinion | Opinion | opinion | 2026-08-17 | [link](https://www.nytimes.com/2026/08/15/opinion/culture/ellison-nashville-paramount-hollywood.html) |
+| 2026-08-17 | The A.I.s Are Already Out of Control | NYT · AI | AI | opinion | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/opinion/ezra-klein-podcast-helen-toner.html) |
+| 2026-08-17 | The Blackout That Could Devastate America | NYT · Technology | Technology | news | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html) |
+| 2026-08-17 | Texas Tech University Is Using A.I. to Cut Left-Leaning Content | NYT · AI | AI | news | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html) |
+| 2026-08-17 | AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough. | NYT · AI | AI | news | 2026-08-17 | [link](https://www.nytimes.com/2026/08/17/technology/ai-slop.html) |
+| 2026-08-17 | Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids. | NYT · AI | AI | news | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html) |
+| 2026-08-17 | More Naming Drama at the Kennedy Center | NYT · AI | AI | opinion | 2026-08-17 | [link](https://www.nytimes.com/2026/08/17/opinion/trump-kennedy-center.html) |
+| 2026-08-17 | As A.I. Data Centers Spread, Pressure Mounts to Share Profits | NYT · Technology | Technology | news | 2026-08-16 | [link](https://www.nytimes.com/2026/08/16/business/ai-data-centers.html) |
+| 2026-08-17 | Appeals Court Rejects Trump’s Strategy of Picking U.S. Attorneys | NYT · U.S. | U.S. | news | 2026-08-17 | [link](https://www.nytimes.com/2026/08/17/us/us-attorneys-interim-appointments.html) |
+| 2026-08-17 | Nvidia to Back Ohio Data Center With as Much as $105 Billion | NYT · AI | AI | news | 2026-08-17 | [link](https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html) |
+| 2026-08-17 | An A.I. Bot Is Judging Your Résumé | NYT · Opinion | Opinion | opinion | 2026-08-17 | [link](https://www.nytimes.com/video/opinion/100000011085683/an-ai-bot-is-judging-your-resume.html) |
+| 2026-08-17 | Trump Issues Tariffs on Key Ingredient for Electronics and Solar Panels | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/us/politics/trump-tariffs-solar-panels.html) |
+| 2026-08-17 | Will Paramount’s Brinkmanship Work? | NYT · Business | Business | news | 2026-08-13 | [link](https://www.nytimes.com/2026/08/12/business/dealbook/paramount-california-states-lawsuit.html) |
+| 2026-08-17 | Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un | NYT · Politics | Politics | news | 2026-08-17 | [link](https://www.nytimes.com/2026/08/17/us/politics/trump-iran-north-korea-kim-jong-un.html) |
+| 2026-08-17 | Birds Are Dying. Clues Point to El Niño. | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html) |
+| 2026-08-17 | Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea | NYT · Politics | Politics | news | 2026-08-17 | [link](https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html) |
+| 2026-08-17 | Enterprise quantum spend surpassed combined academic and gov’t investments in 2025, Boston Consultin | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-17 | [link](https://www.datacenterdynamics.com/en/news/enterprise-quantum-spend-surpassed-combined-academic-and-govt-investments-in-2025-boston-consulting-group-reports/) |
+| 2026-08-17 | Google rumored to have partnered with AMD on TPU v10, as shipments of current generations revised do | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-17 | [link](https://www.datacenterdynamics.com/en/news/google-rumored-to-have-partnered-with-amd-on-tpu-v10-as-shipments-of-current-generations-revised-down-report/) |
+| 2026-08-17 | What the rise of anonymous land agents means for next-gen geothermal | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-17 | [link](https://www.latitudemedia.com/news/what-the-rise-of-anonymous-land-agents-means-for-next-gen-geothermal/) |
+| 2026-08-17 | Colorado has provided the blueprint for integrating community power | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-17 | [link](https://www.utilitydive.com/news/colorado-has-provided-the-blueprint-for-integrating-community-power/826175/) |
+| 2026-08-17 | When the capital plan outgrows engineering capacity | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-17 | [link](https://www.utilitydive.com/spons/when-the-capital-plan-outgrows-engineering-capacity/827763/) |
+| 2026-08-17 | Another Voltus data center expansion — this time with Sunrun | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-17 | [link](https://www.latitudemedia.com/news/another-voltus-data-center-expansion-this-time-with-sunrun/) |
+| 2026-08-17 | Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-17 | [link](https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/) |
+| 2026-08-17 | We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-17 | [link](https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/) |
+| 2026-08-17 | No Update Since Early July Regarding Siri AI Coming to the EU, Ever | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-17 | [link](https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d) |
+| 2026-08-17 | Apple TV Still Has No Start Date for ‘The Savant’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-17 | [link](https://daringfireball.net/linked/2026/04/19/chastain-says-the-savant-will-be-released) |
+| 2026-08-17 | And then the men with guns tell you to do it anyway | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-17 | [link](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/) |
+| 2026-08-17 | Claude is Losing Me After Being Heavy User Since Release | Reddit | Business | social | 2026-08-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vqsas9/claude_is_losing_me_after_being_heavy_user_since/) |
+| 2026-08-17 | I coded terminal manager for ADHD brains. 100% Opensource. | Reddit | Business | social | 2026-08-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vqx297/i_coded_terminal_manager_for_adhd_brains_100/) |
+| 2026-08-17 | If Claude writes all my code, what exactly is my skill? Genuinely losing sleep over this. | Reddit | Business | social | 2026-08-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vqrauh/if_claude_writes_all_my_code_what_exactly_is_my/) |
+| 2026-08-17 | What is this behavior where it leaks info about the process of making the feature....INTO THE FEATUR | Reddit | Business | social | 2026-08-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vqehi3/what_is_this_behavior_where_it_leaks_info_about/) |
+| 2026-08-17 | why do i get like this | Reddit | Business | social | 2026-08-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vqqe2g/why_do_i_get_like_this/) |
+| 2026-08-17 | Hot take: Most "prompt engineering" advice for claude code is just common sense dressed up as a skil | Reddit | Business | social | 2026-08-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vqvua9/hot_take_most_prompt_engineering_advice_for/) |
+| 2026-08-17 | Anybody have a good method to tone down the Claude-isms? | Reddit | Business | social | 2026-08-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vr7bqj/anybody_have_a_good_method_to_tone_down_the/) |
+| 2026-08-17 | Claude code doesn’t follow rules anymore | Reddit | Business | social | 2026-08-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vqxfn0/claude_code_doesnt_follow_rules_anymore/) |
+| 2026-08-17 | How are you guys discovering new Claude Skills and workflows? I feel like I'm missing a lot | Reddit | Business | social | 2026-08-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vqv6pp/how_are_you_guys_discovering_new_claude_skills/) |
+| 2026-08-17 | I gave Claude Code a visual output: Turn codebases into animated walkthroughs | Reddit | Business | social | 2026-08-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vqr46d/i_gave_claude_code_a_visual_output_turn_codebases/) |
+| 2026-08-17 | Something is seriously wrong with Anthropic right now | Reddit | Business | social | 2026-08-17 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vqoba2/something_is_seriously_wrong_with_anthropic_right/) |
+| 2026-08-17 | Weekly limits 50% higher expires tommorow. Good luck everyone! | Reddit | Business | social | 2026-08-17 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vr8vo5/weekly_limits_50_higher_expires_tommorow_good/) |
+| 2026-08-17 | why do i get like this | Reddit | Business | social | 2026-08-17 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vqqd26/why_do_i_get_like_this/) |
+| 2026-08-17 | August 19th 50% Additional Claude Code limits Likely Not to Be Extended | Reddit | Business | social | 2026-08-17 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vqsvg9/august_19th_50_additional_claude_code_limits/) |
+| 2026-08-17 | Claude 20x plan isn’t 20X it is just another 5x 🫠 | Reddit | Business | social | 2026-08-17 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vqk7rs/claude_20x_plan_isnt_20x_it_is_just_another_5x/) |
+| 2026-08-17 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-16 | Claude: System Prompts | HN | Technology | tech | 2026-08-16 | [link](https://platform.claude.com/docs/en/release-notes/system-prompts) |
 | 2026-08-16 | Firefox for iOS now has a native adblocker | HN | Technology | tech | 2026-08-16 | [link](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios) |
 | 2026-08-16 | A third world engineer responds to “RISC-V: They should have known better” | HN | Technology | tech | 2026-08-16 | [link](https://rvembedded.com/blog_post/12/) |

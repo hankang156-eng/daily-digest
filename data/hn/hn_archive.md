@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-17 · 466 days · 4660 stories*
+*Last updated: 2026-08-18 · 467 days · 4670 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-17 | Monday | 1 | AI;DR (AI; Didn't Read) | 882 | 538 | Technology | [link](https://www.rickmanelius.com/p/aidr-ai-didnt-read) · [HN](https://news.ycombinator.com/item?id=49336573) |
+| 2026-08-17 | Monday | 2 | Incident with Github.com | 698 | 2 | Technology | [link](https://www.githubstatus.com/incidents/zkxwbgr0cnmx) · [HN](https://news.ycombinator.com/item?id=49330684) |
+| 2026-08-17 | Monday | 3 | A Preview of DuckDB v2.0 | 639 | 113 | Technology | [link](https://duckdb.org/2026/08/17/duckdb-20-highlights) · [HN](https://news.ycombinator.com/item?id=49330781) |
+| 2026-08-17 | Monday | 4 | Ask HN: Alternatives to GitHub | 591 | 379 | Technology | [link](https://news.ycombinator.com/item?id=49331033) · [HN](https://news.ycombinator.com/item?id=49331033) |
+| 2026-08-17 | Monday | 5 | How Bluesky draws its logo on screenshots | 517 | 349 | Technology | [link](https://timmarinin.net/2026/bluesky-screenshots/) · [HN](https://news.ycombinator.com/item?id=49338459) |
+| 2026-08-17 | Monday | 6 | Israel creates fake think tank in likely attempt to dupe AI chatbots | 506 | 317 | Technology | [link](https://responsiblestatecraft.org/israel-influence-chatgpt/) · [HN](https://news.ycombinator.com/item?id=49337392) |
+| 2026-08-17 | Monday | 7 | GPT-5.6 Sol Pricing Cut by 50% | 444 | 266 | Technology | [link](https://openrouter.ai/openai/gpt-5.6-sol) · [HN](https://news.ycombinator.com/item?id=49337602) |
+| 2026-08-17 | Monday | 8 | Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study | 398 | 536 | Technology | [link](https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/) · [HN](https://news.ycombinator.com/item?id=49332981) |
+| 2026-08-17 | Monday | 9 | AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira | 375 | 142 | Technology | [link](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) · [HN](https://news.ycombinator.com/item?id=49331423) |
+| 2026-08-17 | Monday | 10 | Qwen3.8 27B scores 52 on Artificial Analysis | 349 | 157 | Technology | [link](https://artificialanalysis.ai/models/qwen3-8-27b) · [HN](https://news.ycombinator.com/item?id=49334544) |
 | 2026-08-16 | Sunday | 1 | Claude: System Prompts | 661 | 256 | Technology | [link](https://platform.claude.com/docs/en/release-notes/system-prompts) · [HN](https://news.ycombinator.com/item?id=49319556) |
 | 2026-08-16 | Sunday | 2 | Firefox for iOS now has a native adblocker | 658 | 259 | Technology | [link](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios) · [HN](https://news.ycombinator.com/item?id=49319633) |
 | 2026-08-16 | Sunday | 3 | A third world engineer responds to “RISC-V: They should have known better” | 510 | 268 | Technology | [link](https://rvembedded.com/blog_post/12/) · [HN](https://news.ycombinator.com/item?id=49321717) |
