@@ -1,9 +1,76 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-18 · 5834 items*
+*Last updated: 2026-08-19 · 5901 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-18 | The Amazon tax | HN | Technology | tech | 2026-08-18 | [link](https://seths.blog/2026/08/the-amazon-tax/) |
+| 2026-08-18 | OpenLogi | HN | Technology | tech | 2026-08-18 | [link](https://openlogi.org/en) |
+| 2026-08-18 | Google has acquired the data of failed US airline Spirit | HN | Technology | tech | 2026-08-18 | [link](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) |
+| 2026-08-18 | Beware Management Consultants | HN | Technology | tech | 2026-08-18 | [link](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/) |
+| 2026-08-18 | Linux 7.3 improves performance when running out of vRAM | HN | Technology | tech | 2026-08-18 | [link](https://pixelcluster.dev/VRAM-Overcommit/) |
+| 2026-08-18 | Using the railway network as a flatbed scanner | HN | Technology | tech | 2026-08-18 | [link](https://philo.gay/linecam/) |
+| 2026-08-18 | Fixing a bricked Framework laptop | HN | Technology | tech | 2026-08-18 | [link](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/) |
+| 2026-08-18 | Fairphone is now officially available in the United States | HN | Technology | tech | 2026-08-18 | [link](https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more) |
+| 2026-08-18 | Sticky wage norms and the real wage cost of unexpected inflation | HN | Technology | tech | 2026-08-18 | [link](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf) |
+| 2026-08-18 | How does IKEA come up with names for its products? | HN | Technology | tech | 2026-08-18 | [link](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html) |
+| 2026-08-18 | And then the men with guns tell you to do it anyway | HN | Technology | tech | 2026-08-18 | [link](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/) |
+| 2026-08-18 | Field measurements of neighborhood-scale air temperature impacts of data centers | HN | Technology | tech | 2026-08-18 | [link](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban) |
+| 2026-08-18 | Cerebras CS-4 | HN | Technology | tech | 2026-08-18 | [link](https://www.cerebras.ai/cs4) |
+| 2026-08-18 | A 3D fruit fly on macOS desktop powered by the real FlyWire connectome | HN | Technology | tech | 2026-08-18 | [link](https://github.com/DenisSergeevitch/desktop-fly) |
+| 2026-08-18 | Claude Code May–August 2026 weekly limits promotion | HN | Technology | tech | 2026-08-18 | [link](https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion) |
+| 2026-08-18 | Babies born under sugar rationing grew into adults with lower cancer risk | HN | Technology | tech | 2026-08-18 | [link](https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873) |
+| 2026-08-18 | An A.I. Tax Boom Could Curtail America’s Debt. But Not Solve It. | NYT · AI | AI | news | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/us/politics/ai-national-debt-budget.html) |
+| 2026-08-18 | Is Silicon Valley in the Justice Dept.’s Sights? | NYT · Business | Business | news | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/business/dealbook/andreessen-horowitz-justice-antitrust.html) |
+| 2026-08-18 | How Wall St. Profits When Personal Injury Lawsuits Pay Out | NYT · Business | Business | news | 2026-08-19 | [link](https://www.nytimes.com/2026/08/19/business/personal-injury-lawsuits-funding.html) |
+| 2026-08-18 | Theater Chains Back Paramount-Warner Deal That States Say Will Hurt Them | NYT · Business | Business | news | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/business/cinemark-paramount-warner-deal-movie-theater-chains.html) |
+| 2026-08-18 | OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow | NYT · AI | AI | news | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html) |
+| 2026-08-18 | How New York Is Restricting Data Centers | NYT · AI | AI | news | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/nyregion/how-new-york-is-restricting-data-centers.html) |
+| 2026-08-18 | Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal | NYT · Business | Business | news | 2026-08-17 | [link](https://www.nytimes.com/2026/08/17/business/paramount-warner-bros-antitrust-trial.html) |
+| 2026-08-18 | Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007 | NYT · Business | Business | news | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html) |
+| 2026-08-18 | The A.I.s Are Already Out of Control | NYT · AI | AI | opinion | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/opinion/ezra-klein-podcast-helen-toner.html) |
+| 2026-08-18 | The Blackout That Could Devastate America | NYT · Technology | Technology | news | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html) |
+| 2026-08-18 | The Markets Have Been on a Roll. Is It Time to Hedge Your Bets? | NYT · Business | Business | news | 2026-08-17 | [link](https://www.nytimes.com/2026/08/14/business/stock-market-ai-bonds-rally.html) |
+| 2026-08-18 | Apple Removes Some Fees for App Developers in European Union | NYT · Technology | Technology | news | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/technology/apple-fees-european-union.html) |
+| 2026-08-18 | Trump to Nominate Heidi Overton, a Top Domestic Policy Aide, for F.D.A. Commissioner | NYT · Business | Business | news | 2026-08-19 | [link](https://www.nytimes.com/2026/08/18/health/heidi-overton-fda.html) |
+| 2026-08-18 | Is A.I. Development Really on a Safe Path? | NYT · AI | AI | opinion | 2026-08-18 | [link](https://www.nytimes.com/video/opinion/100000011099984/is-ai-development-really-on-a-safe-path.html) |
+| 2026-08-18 | Everyone’s Using This A.I. Dictation App That I Want to Murder With a Hammer | NYT · AI | AI | news | 2026-08-19 | [link](https://www.nytimes.com/2026/08/19/magazine/ai-dictation-app-wispr.html) |
+| 2026-08-18 | A Bitter Anniversary for Afghan Women | NYT · AI | AI | opinion | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/opinion/afghanistan-taliban-women.html) |
+| 2026-08-18 | Bridget Todd Doesn’t Trust A.I., But She Told ChatGPT Everything | NYT · AI | AI | news | 2026-08-19 | [link](https://www.nytimes.com/2026/08/19/podcasts/bridget-todd-ai-chatgpt.html) |
+| 2026-08-18 | David Ellison’s Plan to Move Hollywood to Nashville | NYT · Opinion | Opinion | opinion | 2026-08-17 | [link](https://www.nytimes.com/2026/08/15/opinion/culture/ellison-nashville-paramount-hollywood.html) |
+| 2026-08-18 | Trump Officials Ignored Their Own University Investigations, Lawyer Says | NYT · U.S. | U.S. | news | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/us/trump-administration-university-investigations-whistleblower.html) |
+| 2026-08-18 | Birds Are Dying. Clues Point to El Niño. | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html) |
+| 2026-08-18 | The Xcelerated Compute Show \| New York 2026 - Post Event Report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-18 | [link](https://www.datacenterdynamics.com/en/dcd-downloads/txcsny-26-post-event-report/) |
+| 2026-08-18 | CBRE: Europe data center market to grow by nearly a quarter in 2026 | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-18 | [link](https://www.datacenterdynamics.com/en/news/cbre-europe-data-center-market-to-grow-by-nearly-a-quarter-in-2026/) |
+| 2026-08-18 | Hyundai unifies vehicle V2X capabilities with AllDayEnergy entity | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-18 | [link](https://www.utilitydive.com/news/hyundai-unifies-vehicle-v2x-capabilities-with-alldayenergy-entity/828129/) |
+| 2026-08-18 | CAISO’s load-balancing EDAM math doesn’t add up, says CPUC staff | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-18 | [link](https://www.utilitydive.com/news/caiso-load-balancing-edam-cpuc-staff-powerex/828142/) |
+| 2026-08-18 | The grid’s woes just got bigger in Texas | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-18 | [link](https://www.latitudemedia.com/news/the-grids-woes-just-got-bigger-in-texas/) |
+| 2026-08-18 | Weekly Update 517: Cyber Ransoms | Troy Hunt · Security & Privacy | Security | tech | 2026-08-18 | [link](https://www.troyhunt.com/weekly-update-517/) |
+| 2026-08-18 | Do heat batteries make sense for data centers? | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-18 | [link](https://www.latitudemedia.com/news/do-heat-batteries-make-sense-for-data-centers/) |
+| 2026-08-18 | Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-18 | [link](https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/) |
+| 2026-08-18 | Apple Gives Legal Middle Finger to DOJ Challenge on Apple’s July Discovery Win | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-18 | [link](https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/) |
+| 2026-08-18 | Mojo🔥 is now open source | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-18 | [link](https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/) |
+| 2026-08-18 | The extreme number of updates comes off as janky and unprofessional. | Reddit | Business | social | 2026-08-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vr9vri/the_extreme_number_of_updates_comes_off_as_janky/) |
+| 2026-08-18 | Week 3 of making my fishing game entirely with AI | Reddit | Business | social | 2026-08-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vrjryf/week_3_of_making_my_fishing_game_entirely_with_ai/) |
+| 2026-08-18 | Anthropic extends 50% limit increase to Aug 31 | Reddit | Business | social | 2026-08-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vrzmx9/anthropic_extends_50_limit_increase_to_aug_31/) |
+| 2026-08-18 | Gaslighting Claude with its own Verbal Tics | Reddit | Business | social | 2026-08-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vrlrud/gaslighting_claude_with_its_own_verbal_tics/) |
+| 2026-08-18 | What is happening... | Reddit | Business | social | 2026-08-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vs4ntq/what_is_happening/) |
+| 2026-08-18 | Reminder: Claude Code's additional 50% weekly usage ends tomorrow | Reddit | Business | social | 2026-08-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vrvham/reminder_claude_codes_additional_50_weekly_usage/) |
+| 2026-08-18 | This is new ... Claude seems to be not in the mood to do some work | Reddit | Business | social | 2026-08-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vs5f9r/this_is_new_claude_seems_to_be_not_in_the_mood_to/) |
+| 2026-08-18 | I built a local gateway so Claude Code can use 48 AI providers. Six months later, it has 45,000 GitH | Reddit | Business | social | 2026-08-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vrkg1q/i_built_a_local_gateway_so_claude_code_can_use_48/) |
+| 2026-08-18 | Passed the Claude Certified Architect, Professional (CCAR-P) exam. Here’s a breakdown for anyone pre | Reddit | Business | social | 2026-08-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vrl9ng/passed_the_claude_certified_architect/) |
+| 2026-08-18 | claude code is not a junior dev and we need to stop treating it like one | Reddit | Business | social | 2026-08-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vrkayg/claude_code_is_not_a_junior_dev_and_we_need_to/) |
+| 2026-08-18 | Game over. 22GB local models run in Pi now outperform Claude Code Opus 5 High on real-world coding t | Reddit | Business | social | 2026-08-18 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vrqxqc/game_over_22gb_local_models_run_in_pi_now/) |
+| 2026-08-18 | 50% increase extended to end of the month!! | Reddit | Business | social | 2026-08-18 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vrzm9h/50_increase_extended_to_end_of_the_month/) |
+| 2026-08-18 | How I want to interact with a Burger King kiosk. | Reddit | Business | social | 2026-08-18 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vrjuuc/how_i_want_to_interact_with_a_burger_king_kiosk/) |
+| 2026-08-18 | Fable on Subscription vs API Billing are two different models | Reddit | Business | social | 2026-08-18 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vrnqnc/fable_on_subscription_vs_api_billing_are_two/) |
+| 2026-08-18 | PSA: Claude will now use Bash instead of Read/Update in Auto Mode | Reddit | Business | social | 2026-08-18 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vruj7h/psa_claude_will_now_use_bash_instead_of/) |
+| 2026-08-18 | I know you liked the last one.... | Reddit | Business | social | 2026-08-18 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vs0ty0/i_know_you_liked_the_last_one/) |
+| 2026-08-18 | My first vault | Reddit | Business | social | 2026-08-18 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vs64m2/my_first_vault/) |
+| 2026-08-18 | Better Paste - Wow, what a response! 💜 Now with custom regex snippets, PDF cleanup and Reddit suppor | Reddit | Business | social | 2026-08-18 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vrqnin/better_paste_wow_what_a_response_now_with_custom/) |
+| 2026-08-18 | 300+ Hours of Using Obsidian for Taking Notes (Vault Showcase) Questions, Lectures, Vision Board, Cl | Reddit | Business | social | 2026-08-18 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vrsbva/300_hours_of_using_obsidian_for_taking_notes/) |
+| 2026-08-18 | Tactile feedback test | Reddit | Business | social | 2026-08-18 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vrc2hs/tactile_feedback_test/) |
+| 2026-08-18 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-17 | AI;DR (AI; Didn't Read) | HN | Technology | tech | 2026-08-17 | [link](https://www.rickmanelius.com/p/aidr-ai-didnt-read) |
 | 2026-08-17 | Incident with Github.com | HN | Technology | tech | 2026-08-17 | [link](https://www.githubstatus.com/incidents/zkxwbgr0cnmx) |
 | 2026-08-17 | A Preview of DuckDB v2.0 | HN | Technology | tech | 2026-08-17 | [link](https://duckdb.org/2026/08/17/duckdb-20-highlights) |

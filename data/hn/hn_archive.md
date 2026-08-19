@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-18 · 467 days · 4670 stories*
+*Last updated: 2026-08-19 · 468 days · 4680 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-18 | Tuesday | 1 | The Amazon tax | 1177 | 628 | Technology | [link](https://seths.blog/2026/08/the-amazon-tax/) · [HN](https://news.ycombinator.com/item?id=49345263) |
+| 2026-08-18 | Tuesday | 2 | OpenLogi | 667 | 183 | Technology | [link](https://openlogi.org/en) · [HN](https://news.ycombinator.com/item?id=49355606) |
+| 2026-08-18 | Tuesday | 3 | Google has acquired the data of failed US airline Spirit | 583 | 404 | Technology | [link](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) · [HN](https://news.ycombinator.com/item?id=49343559) |
+| 2026-08-18 | Tuesday | 4 | Beware Management Consultants | 549 | 149 | Technology | [link](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/) · [HN](https://news.ycombinator.com/item?id=49351324) |
+| 2026-08-18 | Tuesday | 5 | Linux 7.3 improves performance when running out of vRAM | 527 | 297 | Technology | [link](https://pixelcluster.dev/VRAM-Overcommit/) · [HN](https://news.ycombinator.com/item?id=49342719) |
+| 2026-08-18 | Tuesday | 6 | Using the railway network as a flatbed scanner | 429 | 69 | Technology | [link](https://philo.gay/linecam/) · [HN](https://news.ycombinator.com/item?id=49344825) |
+| 2026-08-18 | Tuesday | 7 | Fixing a bricked Framework laptop | 404 | 274 | Technology | [link](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/) · [HN](https://news.ycombinator.com/item?id=49345220) |
+| 2026-08-18 | Tuesday | 8 | Fairphone is now officially available in the United States | 376 | 176 | Technology | [link](https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more) · [HN](https://news.ycombinator.com/item?id=49344811) |
+| 2026-08-18 | Tuesday | 9 | Sticky wage norms and the real wage cost of unexpected inflation | 357 | 224 | Technology | [link](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf) · [HN](https://news.ycombinator.com/item?id=49355142) |
+| 2026-08-18 | Tuesday | 10 | How does IKEA come up with names for its products? | 349 | 231 | Technology | [link](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html) · [HN](https://news.ycombinator.com/item?id=49349984) |
 | 2026-08-17 | Monday | 1 | AI;DR (AI; Didn't Read) | 882 | 538 | Technology | [link](https://www.rickmanelius.com/p/aidr-ai-didnt-read) · [HN](https://news.ycombinator.com/item?id=49336573) |
 | 2026-08-17 | Monday | 2 | Incident with Github.com | 698 | 2 | Technology | [link](https://www.githubstatus.com/incidents/zkxwbgr0cnmx) · [HN](https://news.ycombinator.com/item?id=49330684) |
 | 2026-08-17 | Monday | 3 | A Preview of DuckDB v2.0 | 639 | 113 | Technology | [link](https://duckdb.org/2026/08/17/duckdb-20-highlights) · [HN](https://news.ycombinator.com/item?id=49330781) |
