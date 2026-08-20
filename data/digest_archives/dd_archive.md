@@ -1,9 +1,77 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-19 · 5901 items*
+*Last updated: 2026-08-20 · 5969 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-19 | A joke domain purchase turned in geopolitical warfare | HN | Technology | tech | 2026-08-19 | [link](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/) |
+| 2026-08-19 | OpenRouter is joining Stripe | HN | Technology | tech | 2026-08-19 | [link](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) |
+| 2026-08-19 | Go 1.27 | HN | Technology | tech | 2026-08-19 | [link](https://go.dev/blog/go1.27) |
+| 2026-08-19 | Devices with GrapheneOS support should be available in 2027 | HN | Technology | tech | 2026-08-19 | [link](https://grapheneos.social/@GrapheneOS/117078064184215730) |
+| 2026-08-19 | Remote workers report the highest well-being in study of 7,700 employees | HN | Technology | tech | 2026-08-19 | [link](https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees) |
+| 2026-08-19 | Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma | HN | Technology | tech | 2026-08-19 | [link](https://twitter.com/NoubarAfeyan/status/2090050162441752787) |
+| 2026-08-19 | Google has stopped pushing Git tags for some Android source code | HN | Technology | tech | 2026-08-19 | [link](https://grapheneos.social/@GrapheneOS/117057099753905023) |
+| 2026-08-19 | Geolocating a random island using geometry and CUDA programming | HN | Technology | tech | 2026-08-19 | [link](https://yassa9.github.io/osint/gralhix-004/) |
+| 2026-08-19 | Civic Hygiene – avoid building technologies that could be used by a police state (2013) | HN | Technology | tech | 2026-08-19 | [link](https://shkspr.mobi/blog/2013/11/civic-hygiene/) |
+| 2026-08-19 | Casio F-B100W-1A | HN | Technology | tech | 2026-08-19 | [link](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/) |
+| 2026-08-19 | PostgreSQL for Everything | HN | Technology | tech | 2026-08-19 | [link](https://www.raphaelbauer.com:443/posts/postgresql-everything/) |
+| 2026-08-19 | Air Theremin – A browser theremin you play by waving at your webcam | HN | Technology | tech | 2026-08-19 | [link](https://theremin.bizibah.com/) |
+| 2026-08-19 | Unsloth Dynamic 3.0 GGUFs | HN | Technology | tech | 2026-08-19 | [link](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs) |
+| 2026-08-19 | Feature Request: Support AGENTS.md | HN | Technology | tech | 2026-08-19 | [link](https://github.com/anthropics/claude-code/issues/6235) |
+| 2026-08-19 | The Mojo language (by Modular, now Qualcomm) is now open-source | HN | Technology | tech | 2026-08-19 | [link](https://www.modular.com/blog/modcon-announcements) |
+| 2026-08-19 | Turns are Better than Radians (2022) | HN | Technology | tech | 2026-08-19 | [link](https://www.computerenhance.com/p/turns-are-better-than-radians) |
+| 2026-08-19 | Inside the Data Center Capital of the World | NYT · AI | AI | news | 2026-08-19 | [link](https://www.nytimes.com/video/us/100000011066777/inside-the-data-center-capital-of-the-world.html) |
+| 2026-08-19 | More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting | NYT · AI | AI | news | 2026-08-19 | [link](https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html) |
+| 2026-08-19 | Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion | NYT · AI | AI | news | 2026-08-19 | [link](https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html) |
+| 2026-08-19 | How Wall St. Profits When Personal Injury Lawsuits Pay Out | NYT · Business | Business | news | 2026-08-19 | [link](https://www.nytimes.com/2026/08/19/business/personal-injury-lawsuits-funding.html) |
+| 2026-08-19 | China Wants Its Tech Champions to Raise Money at Home | NYT · Business | Business | news | 2026-08-19 | [link](https://www.nytimes.com/2026/08/18/business/unitree-ipo-trading.html) |
+| 2026-08-19 | Why A.I. Relationships Fizzle | NYT · AI | AI | news | 2026-08-19 | [link](https://www.nytimes.com/video/podcasts/100000011101005/ai-relationships-bridget-todd.html) |
+| 2026-08-19 | Is Silicon Valley in the Justice Dept.’s Sights? | NYT · Business | Business | news | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/business/dealbook/andreessen-horowitz-justice-antitrust.html) |
+| 2026-08-19 | OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow | NYT · Technology | Technology | news | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html) |
+| 2026-08-19 | The Rising Stakes of the Global Bond Rout | NYT · Business | Business | news | 2026-08-19 | [link](https://www.nytimes.com/2026/08/19/business/dealbook/bonds-yields-treasury-ai.html) |
+| 2026-08-19 | How Trump Is Trying to Crush California’s Climate Policies | NYT · Energy & Environment | Energy & Environment | news | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/climate/trump-california-climate.html) |
+| 2026-08-19 | Apple Removes Some Fees for App Developers in European Union | NYT · Technology | Technology | news | 2026-08-19 | [link](https://www.nytimes.com/2026/08/18/technology/apple-fees-european-union.html) |
+| 2026-08-19 | Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That? | NYT · AI | AI | news | 2026-08-19 | [link](https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html) |
+| 2026-08-19 | A County Got Rich From Data Centers. Some Question ‘At What Cost?’ | NYT · AI | AI | news | 2026-08-19 | [link](https://www.nytimes.com/2026/08/19/technology/data-centers-backlash-loudoun-virginia.html) |
+| 2026-08-19 | Trump, Who Has Amassed Enormous Wealth in Crypto, Hosts Industry Leaders | NYT · Business | Business | news | 2026-08-19 | [link](https://www.nytimes.com/2026/08/19/us/politics/trump-crypto-executives.html) |
+| 2026-08-19 | U.S. Debt Hits $40 Trillion as America’s Borrowing Binge Continues | NYT · Economy | Economy | news | 2026-08-19 | [link](https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html) |
+| 2026-08-19 | David Ellison’s Plan to Move Hollywood to Nashville | NYT · Opinion | Opinion | opinion | 2026-08-17 | [link](https://www.nytimes.com/2026/08/15/opinion/culture/ellison-nashville-paramount-hollywood.html) |
+| 2026-08-19 | Trump’s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say | NYT · Politics | Politics | news | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html) |
+| 2026-08-19 | Birds Are Dying. Clues Point to El Niño. | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html) |
+| 2026-08-19 | Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated. | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html) |
+| 2026-08-19 | The Markets Have Been on a Roll. Is It Time to Hedge Your Bets? | NYT · Your Money | Your Money | news | 2026-08-17 | [link](https://www.nytimes.com/2026/08/14/business/stock-market-ai-bonds-rally.html) |
+| 2026-08-19 | AI Sycophancy: When It’s Good, and When It’s Not | MIT IDE · MIT Research & Insights | Research | research | 2026-08-19 | [link](https://ide.mit.edu/insights/ai-sycophancy-when-its-good-and-when-its-not/) |
+| 2026-08-19 | smolmachines / smolvm as a sandbox for untrusted Python & JavaScript | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-19 | [link](https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/) |
+| 2026-08-19 | Liquid Death and Garage Beer use data center water usage fears to market drink with "we want your pe | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-19 | [link](https://www.datacenterdynamics.com/en/news/liquid-death-and-garage-beer-use-data-center-water-usage-fears-to-market-drink-with-we-want-your-pee-campaign/) |
+| 2026-08-19 | Pilot Fiber snaps up Extenet Systems’ enterprise fiber business | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-19 | [link](https://www.datacenterdynamics.com/en/news/pilot-fiber-snaps-up-extenet-systems-enterprise-fiber-business/) |
+| 2026-08-19 | Conceptual integrity and counting lines of code | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-19 | [link](https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/) |
+| 2026-08-19 | Home buyers want more information on energy usage. Utilities can help. | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-19 | [link](https://www.utilitydive.com/news/home-buyers-want-more-information-on-energy-usage-utilities-can-help/827014/) |
+| 2026-08-19 | The Western energy market must shift as power flows evolve, say experts | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-19 | [link](https://www.utilitydive.com/news/the-western-energy-market-must-shift-as-its-flows-evolve-say-experts/828263/) |
+| 2026-08-19 | Scoop: BlocPower is shutting down | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-19 | [link](https://www.latitudemedia.com/news/scoop-blocpower-is-shutting-down/) |
+| 2026-08-19 | AI needs a different kind of power plant | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-19 | [link](https://www.latitudemedia.com/news/ai-needs-a-different-kind-of-power-plant/) |
+| 2026-08-19 | Asymmetric Agents | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-19 | [link](https://shkspr.mobi/blog/2026/08/asymmetric-agents/) |
+| 2026-08-19 | Parsing IP addresses in C# at crazy speeds | Lemire.me · Tech & Engineering | Technology | tech | 2026-08-19 | [link](https://lemire.me/blog/2026/08/19/parsing-ip-addresses-in-c-at-crazy-speeds/) |
+| 2026-08-19 | Anthropic has twice the revenue of OpenAI | Reddit | Business | social | 2026-08-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vsdx5z/anthropic_has_twice_the_revenue_of_openai/) |
+| 2026-08-19 | Antrophic Employee said there is "make a lot of money" button | Reddit | Business | social | 2026-08-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vsl6c7/antrophic_employee_said_there_is_make_a_lot_of/) |
+| 2026-08-19 | Claude Sonnet 5 shifts behavior when it recognizes the user as an AI safety researcher | Reddit | Business | social | 2026-08-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vst16y/claude_sonnet_5_shifts_behavior_when_it/) |
+| 2026-08-19 | Anthropic’s Project Parka sits through meetings and assigns Claude agents the homework | Reddit | Business | social | 2026-08-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vsgxgn/anthropics_project_parka_sits_through_meetings/) |
+| 2026-08-19 | The absolute insanity of comments in Opus 5.0 is killing me | Reddit | Business | social | 2026-08-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vs7cdt/the_absolute_insanity_of_comments_in_opus_50_is/) |
+| 2026-08-19 | I brought an ancient Zen book to life with Claude | Reddit | Business | social | 2026-08-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vscycu/i_brought_an_ancient_zen_book_to_life_with_claude/) |
+| 2026-08-19 | Give Back Claude’s ‘Thought Process’ | Reddit | Business | social | 2026-08-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vsztvg/give_back_claudes_thought_process/) |
+| 2026-08-19 | I hooked Claude Cowork up to an iPhone Home Screen widget | Reddit | Business | social | 2026-08-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vsg9p0/i_hooked_claude_cowork_up_to_an_iphone_home/) |
+| 2026-08-19 | One Claude Code skill pushed DeepSeek V4 Flash from 67.42% to 82.02% | Reddit | Business | social | 2026-08-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vst0hm/one_claude_code_skill_pushed_deepseek_v4_flash/) |
+| 2026-08-19 | Show us what you've created with Claude! | Reddit | Business | social | 2026-08-19 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vt249k/show_us_what_youve_created_with_claude/) |
+| 2026-08-19 | My son screams while gaming at midnight. I'm a developer, so I did what developers do - I over-engin | Reddit | Business | social | 2026-08-19 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vsk86i/my_son_screams_while_gaming_at_midnight_im_a/) |
+| 2026-08-19 | Why does Claude Code say things like, “that’s about 3 days of work” then proceeds to do it all in a  | Reddit | Business | social | 2026-08-19 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vscjcz/why_does_claude_code_say_things_like_thats_about/) |
+| 2026-08-19 | The DownFall of a VibeCoder | Reddit | Business | social | 2026-08-19 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vsjzxf/the_downfall_of_a_vibecoder/) |
+| 2026-08-19 | My brain is fried bcos of Vibe coding | Reddit | Business | social | 2026-08-19 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vssw4k/my_brain_is_fried_bcos_of_vibe_coding/) |
+| 2026-08-19 | I have no idea what Opus is outputting | Reddit | Business | social | 2026-08-19 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vsjffe/i_have_no_idea_what_opus_is_outputting/) |
+| 2026-08-19 | I've made a 100% free plugin for creating fully customisable, interactive star maps for your worldbu | Reddit | Business | social | 2026-08-19 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vs6twb/ive_made_a_100_free_plugin_for_creating_fully/) |
+| 2026-08-19 | Dashboards are neat, but this is all I need | Reddit | Business | social | 2026-08-19 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vsopeo/dashboards_are_neat_but_this_is_all_i_need/) |
+| 2026-08-19 | New to Obsidian — how are you actually using it long-term? | Reddit | Business | social | 2026-08-19 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vsq92a/new_to_obsidian_how_are_you_actually_using_it/) |
+| 2026-08-19 | Obsidian Automation Deep Dive | Reddit | Business | social | 2026-08-19 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vsi59w/obsidian_automation_deep_dive/) |
+| 2026-08-19 | Anyone else get a dopamine hit when they make a new note, and you see it in the graph? | Reddit | Business | social | 2026-08-19 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vt0p4y/anyone_else_get_a_dopamine_hit_when_they_make_a/) |
+| 2026-08-19 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-18 | The Amazon tax | HN | Technology | tech | 2026-08-18 | [link](https://seths.blog/2026/08/the-amazon-tax/) |
 | 2026-08-18 | OpenLogi | HN | Technology | tech | 2026-08-18 | [link](https://openlogi.org/en) |
 | 2026-08-18 | Google has acquired the data of failed US airline Spirit | HN | Technology | tech | 2026-08-18 | [link](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) |

@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-19 · 468 days · 4680 stories*
+*Last updated: 2026-08-20 · 469 days · 4690 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-19 | Wednesday | 1 | A joke domain purchase turned in geopolitical warfare | 906 | 144 | Technology | [link](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/) · [HN](https://news.ycombinator.com/item?id=49360015) |
+| 2026-08-19 | Wednesday | 2 | OpenRouter is joining Stripe | 842 | 441 | Technology | [link](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) · [HN](https://news.ycombinator.com/item?id=49364559) |
+| 2026-08-19 | Wednesday | 3 | Go 1.27 | 640 | 183 | Technology | [link](https://go.dev/blog/go1.27) · [HN](https://news.ycombinator.com/item?id=49365405) |
+| 2026-08-19 | Wednesday | 4 | Devices with GrapheneOS support should be available in 2027 | 604 | 385 | Technology | [link](https://grapheneos.social/@GrapheneOS/117078064184215730) · [HN](https://news.ycombinator.com/item?id=49360242) |
+| 2026-08-19 | Wednesday | 5 | Remote workers report the highest well-being in study of 7,700 employees | 576 | 285 | Technology | [link](https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees) · [HN](https://news.ycombinator.com/item?id=49362934) |
+| 2026-08-19 | Wednesday | 6 | Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma | 563 | 264 | Technology | [link](https://twitter.com/NoubarAfeyan/status/2090050162441752787) · [HN](https://news.ycombinator.com/item?id=49361395) |
+| 2026-08-19 | Wednesday | 7 | Google has stopped pushing Git tags for some Android source code | 560 | 230 | Technology | [link](https://grapheneos.social/@GrapheneOS/117057099753905023) · [HN](https://news.ycombinator.com/item?id=49364745) |
+| 2026-08-19 | Wednesday | 8 | Geolocating a random island using geometry and CUDA programming | 478 | 78 | Technology | [link](https://yassa9.github.io/osint/gralhix-004/) · [HN](https://news.ycombinator.com/item?id=49360545) |
+| 2026-08-19 | Wednesday | 9 | Civic Hygiene – avoid building technologies that could be used by a police state (2013) | 434 | 312 | Technology | [link](https://shkspr.mobi/blog/2013/11/civic-hygiene/) · [HN](https://news.ycombinator.com/item?id=49363433) |
+| 2026-08-19 | Wednesday | 10 | Casio F-B100W-1A | 386 | 317 | Technology | [link](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/) · [HN](https://news.ycombinator.com/item?id=49362887) |
 | 2026-08-18 | Tuesday | 1 | The Amazon tax | 1177 | 628 | Technology | [link](https://seths.blog/2026/08/the-amazon-tax/) · [HN](https://news.ycombinator.com/item?id=49345263) |
 | 2026-08-18 | Tuesday | 2 | OpenLogi | 667 | 183 | Technology | [link](https://openlogi.org/en) · [HN](https://news.ycombinator.com/item?id=49355606) |
 | 2026-08-18 | Tuesday | 3 | Google has acquired the data of failed US airline Spirit | 583 | 404 | Technology | [link](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) · [HN](https://news.ycombinator.com/item?id=49343559) |
