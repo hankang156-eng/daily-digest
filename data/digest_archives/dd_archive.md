@@ -1,9 +1,58 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-20 · 5969 items*
+*Last updated: 2026-08-21 · 6018 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-20 | America Is About to Get More Expensive | NYT · AI | AI | opinion | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/opinion/bond-market-interest-rates-affordability.html) |
+| 2026-08-20 | How Big Tech’s A.I. Borrowing Binge Is Driving Up Bond Yields | NYT · AI | AI | news | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/business/bond-yields-tech-ai-debt.html) |
+| 2026-08-20 | A Few Expert Lawyers Dominate Supreme Court Arguments, a New Study Finds | NYT · AI | AI | news | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/us/politics/the-docket-supreme-court-lawyers.html) |
+| 2026-08-20 | More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting | NYT · AI | AI | news | 2026-08-19 | [link](https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html) |
+| 2026-08-20 | Walmart Posts Slowest Sales Growth in Years as Americans Tighten Wallets | NYT · Business | Business | news | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html) |
+| 2026-08-20 | How Wall St. Profits When Personal Injury Lawsuits Pay Out | NYT · Business | Business | news | 2026-08-19 | [link](https://www.nytimes.com/2026/08/19/business/personal-injury-lawsuits-funding.html) |
+| 2026-08-20 | China Wants Its Tech Champions to Raise Money at Home | NYT · Business | Business | news | 2026-08-19 | [link](https://www.nytimes.com/2026/08/18/business/unitree-ipo-trading.html) |
+| 2026-08-20 | Why Bond Yields Are Rising, and What It Means for the Economy | NYT · Business | Business | news | 2026-08-20 | [link](https://www.nytimes.com/2026/08/19/business/treasury-bonds-yields-economy.html) |
+| 2026-08-20 | How Trump Is Trying to Crush California’s Climate Policies | NYT · Energy & Environment | Energy & Environment | news | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/climate/trump-california-climate.html) |
+| 2026-08-20 | OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow | NYT · Technology | Technology | news | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html) |
+| 2026-08-20 | Transportation Secretary Sean Duffy’s ‘Road Trip’ Highlights America, and Some of Its Sponsors | NYT · Politics | Politics | news | 2026-08-21 | [link](https://www.nytimes.com/2026/08/20/us/politics/sean-duffy-american-road-trip.html) |
+| 2026-08-20 | Who Loves Data Centers? Electricians. | NYT · AI | AI | opinion | 2026-08-21 | [link](https://www.nytimes.com/2026/08/21/opinion/data-centers-electricians-union-labor.html) |
+| 2026-08-20 | Debating the Use of A.I. in Writing | NYT · AI | AI | opinion | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/opinion/letters/debating-ai-in-writing.html) |
+| 2026-08-20 | The Indian City Where AI Is Creating Jobs for Humans | NYT · AI | AI | news | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html) |
+| 2026-08-20 | The Teens Taking On A.I. Data Centers | NYT · AI | AI | news | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/style/ai-data-centers-teens.html) |
+| 2026-08-20 | The A.I.-Robotics Job Only a Human Can Do | NYT · AI | AI | news | 2026-08-20 | [link](https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html) |
+| 2026-08-20 | Bad Plot, Worse Graphics: Chinese Moviegoers Flock to a Low-Budget Hit | NYT · AI | AI | news | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/world/asia/niu-lai-chinese-movie-box-office.html) |
+| 2026-08-20 | FBI Agents Search Eric Swalwell’s Home as Part of Federal Sexual Assault Inquiry | NYT · Politics | Politics | news | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/us/eric-swalwell-fbi-search-home.html) |
+| 2026-08-20 | Climate: Trump vs. California | NYT · Energy & Environment | Energy & Environment | news | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/climate/climate-trump-vs-california.html) |
+| 2026-08-20 | Birds Are Dying. Clues Point to El Niño. | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html) |
+| 2026-08-20 | Hudson River Trading taps CoreWeave for research platform | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-20 | [link](https://www.datacenterdynamics.com/en/news/hudson-river-trading-taps-coreweave-for-research-platform/) |
+| 2026-08-20 | A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-20 | [link](https://simonwillison.net/2026/Aug/20/bun-webview-json-api/) |
+| 2026-08-20 | Zayo expands Corning partnership to secure long-term fiber supply for AI expansion | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-20 | [link](https://www.datacenterdynamics.com/en/news/zayo-expands-corning-partnership-to-secure-long-term-fiber-supply-for-ai-expansion/) |
+| 2026-08-20 | ChatGPT search now uses the site:operator at scale | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-20 | [link](https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/) |
+| 2026-08-20 | FERC approves SPP ‘topology optimization’ plan for cutting grid congestion | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-20 | [link](https://www.utilitydive.com/news/ferc-spp-topology-optimization-grid-congestion/828366/) |
+| 2026-08-20 | What’s behind Form Energy’s downgraded valuation | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-20 | [link](https://www.latitudemedia.com/news/whats-behind-form-energys-downgraded-valuation/) |
+| 2026-08-20 | Can AI revolutionize grid operations? | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-20 | [link](https://www.latitudemedia.com/news/catalyst-can-ai-revolutionize-grid-operations/) |
+| 2026-08-20 | Duke’s Carolinas resource plan targets 18.5 GW new solar by 2041 | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-20 | [link](https://www.utilitydive.com/news/dukes-carolinas-resource-plan-solar-gas-nuclear/828402/) |
+| 2026-08-20 | This is letting Claude handle a good amount of money for a month... | Reddit | Business | social | 2026-08-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vtl9of/this_is_letting_claude_handle_a_good_amount_of/) |
+| 2026-08-20 | Claude says I used 54.9 BILLION tokens. | Reddit | Business | social | 2026-08-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vtctj3/claude_says_i_used_549_billion_tokens/) |
+| 2026-08-20 | The Claude language calibration issue on GitHub got an official response from Anthropic. Guess who w | Reddit | Business | social | 2026-08-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vtfq1k/the_claude_language_calibration_issue_on_github/) |
+| 2026-08-20 | Claude is a thinking partner. Opus 5 is not Claude. | Reddit | Business | social | 2026-08-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vtqyg9/claude_is_a_thinking_partner_opus_5_is_not_claude/) |
+| 2026-08-20 | How big of a difference do you think it’s going to make on token consumption? | Reddit | Business | social | 2026-08-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vtjif5/how_big_of_a_difference_do_you_think_its_going_to/) |
+| 2026-08-20 | PSA: a malicious published Claude artifact is ranking on Google for Claude Code install queries — it | Reddit | Business | social | 2026-08-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vtmkft/psa_a_malicious_published_claude_artifact_is/) |
+| 2026-08-20 | Hot take: Claude code should ask more questions before touching your code. | Reddit | Business | social | 2026-08-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vtdbxa/hot_take_claude_code_should_ask_more_questions/) |
+| 2026-08-20 | I'm so careful to not share secret keys with claude | Reddit | Business | social | 2026-08-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vtcuja/im_so_careful_to_not_share_secret_keys_with_claude/) |
+| 2026-08-20 | I Am Morally Opposed to Updating My CLAUDE.md | Reddit | Business | social | 2026-08-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vto86a/i_am_morally_opposed_to_updating_my_claudemd/) |
+| 2026-08-20 | Compiled a list of BEST MCP 2026 | Reddit | Business | social | 2026-08-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vttte2/compiled_a_list_of_best_mcp_2026/) |
+| 2026-08-20 | Finally. Could this be the smoking gun that makes Opus less load-bearing? | Reddit | Business | social | 2026-08-20 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vt6gf8/finally_could_this_be_the_smoking_gun_that_makes/) |
+| 2026-08-20 | I Claude Coded a multiplayer Three.js tank game with 100+ procedural vehicles | Reddit | Business | social | 2026-08-20 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vtv818/i_claude_coded_a_multiplayer_threejs_tank_game/) |
+| 2026-08-20 | Usage is a joke, Models are a joke… Anthropic is just not what it used to be, in just a couple of mo | Reddit | Business | social | 2026-08-20 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vto9on/usage_is_a_joke_models_are_a_joke_anthropic_is/) |
+| 2026-08-20 | Wish me luck | Reddit | Business | social | 2026-08-20 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vtj15v/wish_me_luck/) |
+| 2026-08-20 | fable 5.5? | Reddit | Business | social | 2026-08-20 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vtkekg/fable_55/) |
+| 2026-08-20 | What's the status of native PDF annotations? (Doesn't PDF.js already support this?) | Reddit | Business | social | 2026-08-20 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vtngum/whats_the_status_of_native_pdf_annotations_doesnt/) |
+| 2026-08-20 | 700 themes for Obsidian! What's your favorite? | Reddit | Business | social | 2026-08-20 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vtk1tn/700_themes_for_obsidian_whats_your_favorite/) |
+| 2026-08-20 | I cleaned up my Zotero to Obsidian export template for general use. Now available on GitHub, go nuts | Reddit | Business | social | 2026-08-20 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vtd5om/i_cleaned_up_my_zotero_to_obsidian_export/) |
+| 2026-08-20 | Just Simple Excalidraw — a deliberately minimal, local-first Excalidraw editor | Reddit | Business | social | 2026-08-20 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vteex3/just_simple_excalidraw_a_deliberately_minimal/) |
+| 2026-08-20 | Sync storage is 10x larger than my local vault — please add cleanup controls | Reddit | Business | social | 2026-08-20 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vtoh8l/sync_storage_is_10x_larger_than_my_local_vault/) |
+| 2026-08-20 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-19 | A joke domain purchase turned in geopolitical warfare | HN | Technology | tech | 2026-08-19 | [link](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/) |
 | 2026-08-19 | OpenRouter is joining Stripe | HN | Technology | tech | 2026-08-19 | [link](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) |
 | 2026-08-19 | Go 1.27 | HN | Technology | tech | 2026-08-19 | [link](https://go.dev/blog/go1.27) |
