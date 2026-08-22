@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-20 · 469 days · 4690 stories*
+*Last updated: 2026-08-22 · 470 days · 4700 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-21 | Friday | 1 | Kagi added a setting for removing paywalled links from search results | 1126 | 363 | Technology | [link](https://kagi.com/changelog#11296) · [HN](https://news.ycombinator.com/item?id=49388154) |
+| 2026-08-21 | Friday | 2 | Felony charges for citizen deleting phone data at US Border | 792 | 922 | Technology | [link](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html) · [HN](https://news.ycombinator.com/item?id=49386895) |
+| 2026-08-21 | Friday | 3 | Felony Bench | 707 | 279 | Technology | [link](https://www.felonybench.com/) · [HN](https://news.ycombinator.com/item?id=49389430) |
+| 2026-08-21 | Friday | 4 | AI companies destroy physical books – let's scan rare books before it's too late | 703 | 2 | Technology | [link](https://annas-archive.pk/blog/physical-destruction.html) · [HN](https://news.ycombinator.com/item?id=49385994) |
+| 2026-08-21 | Friday | 5 | Grand jury declines to indict Ohio man charged with destroying Flock camera | 663 | 371 | Technology | [link](https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/) · [HN](https://news.ycombinator.com/item?id=49387497) |
+| 2026-08-21 | Friday | 6 | Kobo can run apps now | 551 | 188 | Technology | [link](https://bandarlabs.github.io/Cobalt/) · [HN](https://news.ycombinator.com/item?id=49390427) |
+| 2026-08-21 | Friday | 7 | I accidentally logged hundreds of thousands of phone calls to military bases | 551 | 65 | Technology | [link](https://lina.sh/blog/hijacking-e164-arpa) · [HN](https://news.ycombinator.com/item?id=49387570) |
+| 2026-08-21 | Friday | 8 | DeepSeek-v4-flash-vision-exp | 481 | 150 | Technology | [link](https://api-docs.deepseek.com/guides/vision/) · [HN](https://news.ycombinator.com/item?id=49386163) |
+| 2026-08-21 | Friday | 9 | There's no reason for software to be slow anymore | 414 | 300 | Technology | [link](https://danluu.com/perf-opt/) · [HN](https://news.ycombinator.com/item?id=49395628) |
+| 2026-08-21 | Friday | 10 | I'm becoming AI-blind | 370 | 366 | Technology | [link](https://cymerys.com/w/im-becoming-ai-blind) · [HN](https://news.ycombinator.com/item?id=49386699) |
 | 2026-08-19 | Wednesday | 1 | A joke domain purchase turned in geopolitical warfare | 906 | 144 | Technology | [link](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/) · [HN](https://news.ycombinator.com/item?id=49360015) |
 | 2026-08-19 | Wednesday | 2 | OpenRouter is joining Stripe | 842 | 441 | Technology | [link](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) · [HN](https://news.ycombinator.com/item?id=49364559) |
 | 2026-08-19 | Wednesday | 3 | Go 1.27 | 640 | 183 | Technology | [link](https://go.dev/blog/go1.27) · [HN](https://news.ycombinator.com/item?id=49365405) |

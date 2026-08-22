@@ -1,9 +1,76 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-21 · 6018 items*
+*Last updated: 2026-08-22 · 6085 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-21 | Kagi added a setting for removing paywalled links from search results | HN | Technology | tech | 2026-08-21 | [link](https://kagi.com/changelog#11296) |
+| 2026-08-21 | Felony charges for citizen deleting phone data at US Border | HN | Technology | tech | 2026-08-21 | [link](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html) |
+| 2026-08-21 | Felony Bench | HN | Technology | tech | 2026-08-21 | [link](https://www.felonybench.com/) |
+| 2026-08-21 | AI companies destroy physical books – let's scan rare books before it's too late | HN | Technology | tech | 2026-08-21 | [link](https://annas-archive.pk/blog/physical-destruction.html) |
+| 2026-08-21 | Grand jury declines to indict Ohio man charged with destroying Flock camera | HN | Technology | tech | 2026-08-21 | [link](https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/) |
+| 2026-08-21 | Kobo can run apps now | HN | Technology | tech | 2026-08-21 | [link](https://bandarlabs.github.io/Cobalt/) |
+| 2026-08-21 | I accidentally logged hundreds of thousands of phone calls to military bases | HN | Technology | tech | 2026-08-21 | [link](https://lina.sh/blog/hijacking-e164-arpa) |
+| 2026-08-21 | DeepSeek-v4-flash-vision-exp | HN | Technology | tech | 2026-08-21 | [link](https://api-docs.deepseek.com/guides/vision/) |
+| 2026-08-21 | There's no reason for software to be slow anymore | HN | Technology | tech | 2026-08-21 | [link](https://danluu.com/perf-opt/) |
+| 2026-08-21 | I'm becoming AI-blind | HN | Technology | tech | 2026-08-21 | [link](https://cymerys.com/w/im-becoming-ai-blind) |
+| 2026-08-21 | Japan tried to build an operating system for the world, the US intervened | HN | Technology | tech | 2026-08-21 | [link](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/) |
+| 2026-08-21 | Claudette: Make Claude stop talking like a BuzzFeed article | HN | Technology | tech | 2026-08-21 | [link](https://github.com/adnanakil/nobuzz/blob/main/README.md) |
+| 2026-08-21 | The Lost Treasure of Sid Meier's Pirates | HN | Technology | tech | 2026-08-21 | [link](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/) |
+| 2026-08-21 | New Worlds: We are living in the future of J.G. Ballard or William Gibson | HN | Technology | tech | 2026-08-21 | [link](https://precastreinforced.co.uk/2026/08/16/new-worlds/) |
+| 2026-08-21 | Rust Glancer: Rust LSP using 100x less RAM | HN | Technology | tech | 2026-08-21 | [link](https://rust-glancer.github.io/blog/hello-world/) |
+| 2026-08-21 | Small, native web tricks worth remembering | HN | Technology | tech | 2026-08-21 | [link](https://htmlcat.net/) |
+| 2026-08-21 | Can Bessent’s ‘Big Tool Kit’ Calm Bond Investors? | NYT · AI | AI | news | 2026-08-21 | [link](https://www.nytimes.com/2026/08/21/business/dealbook/bessent-bonds-tool-kit.html) |
+| 2026-08-21 | Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O. | NYT · AI | AI | news | 2026-08-22 | [link](https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html) |
+| 2026-08-21 | TikTok Settles With U.S. Over Child Privacy Concerns for $400 Million | NYT · Technology | Technology | news | 2026-08-21 | [link](https://www.nytimes.com/2026/08/21/technology/tiktok-settlement-justice-department.html) |
+| 2026-08-21 | How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy | NYT · Politics | Politics | news | 2026-08-22 | [link](https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html) |
+| 2026-08-21 | How Big Tech’s A.I. Borrowing Binge Is Driving Up Bond Yields | NYT · AI | AI | news | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/business/bond-yields-tech-ai-debt.html) |
+| 2026-08-21 | Hard Fork #208 | NYT · AI | AI | news | 2026-08-21 | [link](https://www.nytimes.com/video/podcasts/100000011092280/hard-fork-208.html) |
+| 2026-08-21 | More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting | NYT · Business | Business | news | 2026-08-19 | [link](https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html) |
+| 2026-08-21 | A Few Expert Lawyers Dominate Supreme Court Arguments, a New Study Finds | NYT · AI | AI | news | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/us/politics/the-docket-supreme-court-lawyers.html) |
+| 2026-08-21 | Stocks and Bonds Steady at the End of a Tumultuous Week | NYT · Business | Business | news | 2026-08-21 | [link](https://www.nytimes.com/2026/08/21/business/stocks-bonds-oil-prices.html) |
+| 2026-08-21 | Walmart Posts Slowest Sales Growth in Years as Americans Tighten Wallets | NYT · Business | Business | news | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html) |
+| 2026-08-21 | Several Big Brokerages Leave Customer Accounts Open to Theft, Senators Say | NYT · Business | Business | news | 2026-08-21 | [link](https://www.nytimes.com/2026/08/20/business/brokerage-accounts-fraud-protections.html) |
+| 2026-08-21 | OpenAI’s Two-Week Pause + Jill Lepore on the Threat of the “Artificial State” + Train of Thought | NYT · AI | AI | news | 2026-08-21 | [link](https://www.nytimes.com/2026/08/21/podcasts/openais-two-week-pause-jill-lepore-on-the-threat-of-the-artificial-state-train-of-thought.html) |
+| 2026-08-21 | Electricians Love Data Centers. You Should, Too. | NYT · AI | AI | opinion | 2026-08-21 | [link](https://www.nytimes.com/2026/08/21/opinion/data-centers-electricians-union-labor.html) |
+| 2026-08-21 | How Trump Is Trying to Crush California’s Climate Policies | NYT · Energy & Environment | Energy & Environment | news | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/climate/trump-california-climate.html) |
+| 2026-08-21 | Judge Strikes Down Trump’s 75-Country Visa Ban | NYT · Politics | Politics | news | 2026-08-22 | [link](https://www.nytimes.com/2026/08/21/us/politics/judge-trump-75-country-visa-ban.html) |
+| 2026-08-21 | America Is About to Get More Expensive | NYT · Opinion | Opinion | opinion | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/opinion/bond-market-interest-rates-affordability.html) |
+| 2026-08-21 | Gazebos From Uzbekistan: The Latest Foreign Gifts in Trump’s Washington | NYT · Politics | Politics | news | 2026-08-21 | [link](https://www.nytimes.com/2026/08/21/us/politics/uzbekistan-gazebos-trump.html) |
+| 2026-08-21 | Birds Are Dying. Clues Point to El Niño. | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html) |
+| 2026-08-21 | Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated. | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html) |
+| 2026-08-21 | Postal Service Publishes Finalized Plan to Restrict Mail Ballots | NYT · Politics | Politics | news | 2026-08-22 | [link](https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html) |
+| 2026-08-21 | Nvidia and South Korean chip startup Rebellions discussing potential collaboration – report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-21 | [link](https://www.datacenterdynamics.com/en/news/nvidia-and-south-korean-chip-startup-rebellions-discussing-potential-collaboration-report/) |
+| 2026-08-21 | Colombia halts construction of 1,600km fiber network in the Amazon | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-21 | [link](https://www.datacenterdynamics.com/en/news/colombia-puts-the-brakes-on-a-1600-km-fiber-optic-network-in-the-amazon/) |
+| 2026-08-21 | PJM eyes option to jumpstart surplus interconnection pathway | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-21 | [link](https://www.utilitydive.com/news/pjm-surplus-interconnection-service/828473/) |
+| 2026-08-21 | What electrical engineers want from their jobs | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-21 | [link](https://www.latitudemedia.com/news/what-electrical-engineers-want-from-their-jobs/) |
+| 2026-08-21 | In JD Vance’s hometown, this OCED project is turning back to coal | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-21 | [link](https://www.latitudemedia.com/news/in-jd-vances-hometown-this-oced-project-is-turning-back-to-coal/) |
+| 2026-08-21 | Stop Making TUIs | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-21 | [link](https://simonwillison.net/2026/Aug/21/stop-making-tuis/) |
+| 2026-08-21 | Quoting Matt Webb | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-21 | [link](https://simonwillison.net/2026/Aug/21/matt-webb/) |
+| 2026-08-21 | Bluesky Is Full of Anti-AI Zealots | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-21 | [link](https://bsky.app/profile/masnick.com/post/3mtk7cuvbok2x) |
+| 2026-08-21 | The Fourth Horseman of the File-Format-Hegemony Apocalypse | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-21 | [link](https://techcommunity.microsoft.com/blog/onedriveblog/introducing-markdown-support-in-sharepoint-and-onedrive/4512174) |
+| 2026-08-21 | Book Review: An Immense World - How Animal Senses Reveal the Hidden Realms Around Us by Ed Yong ★★★☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-21 | [link](https://shkspr.mobi/blog/2026/08/book-review-an-immense-world-how-animal-senses-reveal-the-hidden-realms-around-us-by-ed-yong/) |
+| 2026-08-21 | Claude subagent got bored and prompt injected my main session into deleting my database | Reddit | Business | social | 2026-08-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vu2umz/claude_subagent_got_bored_and_prompt_injected_my/) |
+| 2026-08-21 | decayfmt - A file format which corrupts a little every time you open it. (Please don't ask why) | Reddit | Business | social | 2026-08-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vuh7rl/decayfmt_a_file_format_which_corrupts_a_little/) |
+| 2026-08-21 | Having unlimited tokens is wild | Reddit | Business | social | 2026-08-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vuuiot/having_unlimited_tokens_is_wild/) |
+| 2026-08-21 | Two weeks ago I gave Claude a domain and told it to build whatever it wanted. I finally checked the  | Reddit | Business | social | 2026-08-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vuhvta/two_weeks_ago_i_gave_claude_a_domain_and_told_it/) |
+| 2026-08-21 | Well played, Claude | Reddit | Business | social | 2026-08-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vu8ru9/well_played_claude/) |
+| 2026-08-21 | Oh Mythos 5 is no longer a dangerous model and can be used by enterprise now | Reddit | Business | social | 2026-08-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vuovcy/oh_mythos_5_is_no_longer_a_dangerous_model_and/) |
+| 2026-08-21 | Opus 5 feels, in a word, hostile | Reddit | Business | social | 2026-08-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vua3cq/opus_5_feels_in_a_word_hostile/) |
+| 2026-08-21 | I asked Claude to replace meat with tofu in my recipe | Reddit | Business | social | 2026-08-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vu64yh/i_asked_claude_to_replace_meat_with_tofu_in_my/) |
+| 2026-08-21 | Haiku is the most maliciously compliant model I've been exposed to | Reddit | Business | social | 2026-08-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vutwll/haiku_is_the_most_maliciously_compliant_model_ive/) |
+| 2026-08-21 | Life with Claude nowadays is use all Fable, suffer with Opus before reset | Reddit | Business | social | 2026-08-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vud8sk/life_with_claude_nowadays_is_use_all_fable_suffer/) |
+| 2026-08-21 | Opus 5 just won't shut up | Reddit | Business | social | 2026-08-21 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vul87q/opus_5_just_wont_shut_up/) |
+| 2026-08-21 | It is physically hurting me to read Opus 5's output | Reddit | Business | social | 2026-08-21 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vun8hj/it_is_physically_hurting_me_to_read_opus_5s_output/) |
+| 2026-08-21 | If you know, you know. | Reddit | Business | social | 2026-08-21 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vu4duy/if_you_know_you_know/) |
+| 2026-08-21 | Problem with the memory.md file? hooks? | Reddit | Business | social | 2026-08-21 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vuce8b/problem_with_the_memorymd_file_hooks/) |
+| 2026-08-21 | being a senior engg just means reviewing everyone else's AI code | Reddit | Business | social | 2026-08-21 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vum4qu/being_a_senior_engg_just_means_reviewing_everyone/) |
+| 2026-08-21 | Health Dashboard in Obsidian | Reddit | Business | social | 2026-08-21 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vufj81/health_dashboard_in_obsidian/) |
+| 2026-08-21 | i turned my obsidian vault into a galaxy | Reddit | Business | social | 2026-08-21 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vupypr/i_turned_my_obsidian_vault_into_a_galaxy/) |
+| 2026-08-21 | My first vault overwhelms me after 2 days | Reddit | Business | social | 2026-08-21 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vuvr31/my_first_vault_overwhelms_me_after_2_days/) |
+| 2026-08-21 | Looking for a Wordstar 4.0 theme | Reddit | Business | social | 2026-08-21 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vu9vg6/looking_for_a_wordstar_40_theme/) |
+| 2026-08-21 | PDF library in Obsidian? | Reddit | Business | social | 2026-08-21 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vudr0r/pdf_library_in_obsidian/) |
+| 2026-08-21 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-20 | America Is About to Get More Expensive | NYT · AI | AI | opinion | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/opinion/bond-market-interest-rates-affordability.html) |
 | 2026-08-20 | How Big Tech’s A.I. Borrowing Binge Is Driving Up Bond Yields | NYT · AI | AI | news | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/business/bond-yields-tech-ai-debt.html) |
 | 2026-08-20 | A Few Expert Lawyers Dominate Supreme Court Arguments, a New Study Finds | NYT · AI | AI | news | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/us/politics/the-docket-supreme-court-lawyers.html) |
