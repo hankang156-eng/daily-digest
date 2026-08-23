@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-22 · 470 days · 4700 stories*
+*Last updated: 2026-08-23 · 471 days · 4710 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-22 | Saturday | 1 | Canada will match US tariffs 'dollar for dollar' as trade talks break down | 614 | 1430 | Technology | [link](https://www.bbc.com/news/articles/cvgvyy4x2mvo) · [HN](https://news.ycombinator.com/item?id=49397074) |
+| 2026-08-22 | Saturday | 2 | ElevenLabs, TwelveLabs, ThirteenLabs | 401 | 120 | Technology | [link](https://quantumi.sh/public/labs.html) · [HN](https://news.ycombinator.com/item?id=49400408) |
+| 2026-08-22 | Saturday | 3 | Scrap (2006) | 374 | 197 | Technology | [link](https://twitter.com/moxie/status/2091218652133732491) · [HN](https://news.ycombinator.com/item?id=49402189) |
+| 2026-08-22 | Saturday | 4 | Why your local LLM feels dumber than it is | 355 | 127 | Technology | [link](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) · [HN](https://news.ycombinator.com/item?id=49402232) |
+| 2026-08-22 | Saturday | 5 | Munder Difflin – Agent harness to run an office of your clones | 280 | 119 | Technology | [link](https://munderdiffl.in/) · [HN](https://news.ycombinator.com/item?id=49398152) |
+| 2026-08-22 | Saturday | 6 | A Friendly Introduction to Racket | 230 | 129 | Technology | [link](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/) · [HN](https://news.ycombinator.com/item?id=49399898) |
+| 2026-08-22 | Saturday | 7 | A Kantian Critique of "Sorry" by Justin Bieber | 216 | 91 | Technology | [link](https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/) · [HN](https://news.ycombinator.com/item?id=49399524) |
+| 2026-08-22 | Saturday | 8 | Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week | 212 | 175 | Technology | [link](https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy) · [HN](https://news.ycombinator.com/item?id=49398904) |
+| 2026-08-22 | Saturday | 9 | New MCP Roadmap | 209 | 133 | Technology | [link](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/) · [HN](https://news.ycombinator.com/item?id=49399591) |
+| 2026-08-22 | Saturday | 10 | Anthropic appears to be A/B testing reduced effort levels in Claude Code | 191 | 172 | Technology | [link](https://twitter.com/argofowl/status/2091150597374537729) · [HN](https://news.ycombinator.com/item?id=49401549) |
 | 2026-08-21 | Friday | 1 | Kagi added a setting for removing paywalled links from search results | 1126 | 363 | Technology | [link](https://kagi.com/changelog#11296) · [HN](https://news.ycombinator.com/item?id=49388154) |
 | 2026-08-21 | Friday | 2 | Felony charges for citizen deleting phone data at US Border | 792 | 922 | Technology | [link](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html) · [HN](https://news.ycombinator.com/item?id=49386895) |
 | 2026-08-21 | Friday | 3 | Felony Bench | 707 | 279 | Technology | [link](https://www.felonybench.com/) · [HN](https://news.ycombinator.com/item?id=49389430) |

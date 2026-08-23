@@ -1,9 +1,73 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-22 · 6085 items*
+*Last updated: 2026-08-23 · 6149 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-22 | Canada will match US tariffs 'dollar for dollar' as trade talks break down | HN | Technology | tech | 2026-08-22 | [link](https://www.bbc.com/news/articles/cvgvyy4x2mvo) |
+| 2026-08-22 | ElevenLabs, TwelveLabs, ThirteenLabs | HN | Technology | tech | 2026-08-22 | [link](https://quantumi.sh/public/labs.html) |
+| 2026-08-22 | Scrap (2006) | HN | Technology | tech | 2026-08-22 | [link](https://twitter.com/moxie/status/2091218652133732491) |
+| 2026-08-22 | Why your local LLM feels dumber than it is | HN | Technology | tech | 2026-08-22 | [link](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) |
+| 2026-08-22 | Munder Difflin – Agent harness to run an office of your clones | HN | Technology | tech | 2026-08-22 | [link](https://munderdiffl.in/) |
+| 2026-08-22 | A Friendly Introduction to Racket | HN | Technology | tech | 2026-08-22 | [link](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/) |
+| 2026-08-22 | A Kantian Critique of "Sorry" by Justin Bieber | HN | Technology | tech | 2026-08-22 | [link](https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/) |
+| 2026-08-22 | Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week | HN | Technology | tech | 2026-08-22 | [link](https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy) |
+| 2026-08-22 | New MCP Roadmap | HN | Technology | tech | 2026-08-22 | [link](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/) |
+| 2026-08-22 | Anthropic appears to be A/B testing reduced effort levels in Claude Code | HN | Technology | tech | 2026-08-22 | [link](https://twitter.com/argofowl/status/2091150597374537729) |
+| 2026-08-22 | hdiutil is deprecated in macOS 27 Golden Gate | HN | Technology | tech | 2026-08-22 | [link](https://lapcatsoftware.com/articles/2026/8/7.html) |
+| 2026-08-22 | Thinking in Python | HN | Technology | tech | 2026-08-22 | [link](https://thinkinginpython.com/) |
+| 2026-08-22 | To become a better writer, read as much as you can | HN | Technology | tech | 2026-08-22 | [link](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/) |
+| 2026-08-22 | Z80 – The 1970s Microprocessor Still Alive (2021) | HN | Technology | tech | 2026-08-22 | [link](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi) |
+| 2026-08-22 | NetBSD and my life (2005) | HN | Technology | tech | 2026-08-22 | [link](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html) |
+| 2026-08-22 | MartyPC is a cross-platform emulator of early PCs written in Rust | HN | Technology | tech | 2026-08-22 | [link](https://martypc.net/) |
+| 2026-08-22 | Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music | NYT · AI | AI | news | 2026-08-23 | [link](https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html) |
+| 2026-08-22 | How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy | NYT · Politics | Politics | news | 2026-08-22 | [link](https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html) |
+| 2026-08-22 | Can Bessent’s ‘Big Tool Kit’ Calm Bond Investors? | NYT · AI | AI | news | 2026-08-21 | [link](https://www.nytimes.com/2026/08/21/business/dealbook/bessent-bonds-tool-kit.html) |
+| 2026-08-22 | Paramount and California to Hold Preliminary Talks on Warner Bros. Deal | NYT · Business | Business | news | 2026-08-22 | [link](https://www.nytimes.com/2026/08/22/business/paramount-california-warner-bros.html) |
+| 2026-08-22 | The Data Center Backlash Bursts Into the Midterms | NYT · AI | AI | news | 2026-08-23 | [link](https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html) |
+| 2026-08-22 | Surveillance Prices. Hidden Fees. Shifting Costs. This Madness Must Stop. | NYT · Opinion | Opinion | opinion | 2026-08-22 | [link](https://www.nytimes.com/2026/08/22/opinion/surveillance-pricing-data-companies.html) |
+| 2026-08-22 | How Big Tech Captured American Schools | NYT · AI | AI | news | 2026-08-23 | [link](https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html) |
+| 2026-08-22 | Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty | NYT · AI | AI | news | 2026-08-22 | [link](https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html) |
+| 2026-08-22 | Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O. | NYT · AI | AI | news | 2026-08-22 | [link](https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html) |
+| 2026-08-22 | Gen Z Is Building Wealth By Investing Instead of Buying Homes | NYT · Business | Business | news | 2026-08-22 | [link](https://www.nytimes.com/2026/08/22/business/gen-z-houses-investing.html) |
+| 2026-08-22 | Hard Fork #208 | NYT · AI | AI | news | 2026-08-21 | [link](https://www.nytimes.com/video/podcasts/100000011092280/hard-fork-208.html) |
+| 2026-08-22 | A.I. Is Everywhere in China. See For Yourself. | NYT · AI | AI | news | 2026-08-22 | [link](https://www.nytimes.com/interactive/2026/08/21/world/asia/china-ai-life.html) |
+| 2026-08-22 | OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow | NYT · Technology | Technology | news | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html) |
+| 2026-08-22 | TikTok Settles With U.S. Over Child Privacy Concerns for $400 Million | NYT · Technology | Technology | news | 2026-08-21 | [link](https://www.nytimes.com/2026/08/21/technology/tiktok-settlement-justice-department.html) |
+| 2026-08-22 | Birds Are Dying. Clues Point to El Niño. | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html) |
+| 2026-08-22 | Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated. | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html) |
+| 2026-08-22 | The Midterms Feel Like 2006 All Over Again | NYT · Politics | Politics | news | 2026-08-23 | [link](https://www.nytimes.com/2026/08/23/us/politics/midterms-feel-like-2006-all-over-again.html) |
+| 2026-08-22 | Angry Ohio Voters Could Turn Their State Purple Again | NYT · Politics | Politics | news | 2026-08-23 | [link](https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html) |
+| 2026-08-22 | Electricians Love Data Centers. You Should, Too. | NYT · AI | AI | opinion | 2026-08-21 | [link](https://www.nytimes.com/2026/08/21/opinion/data-centers-electricians-union-labor.html) |
+| 2026-08-22 | How Trump Is Trying to Crush California’s Climate Policies | NYT · Energy & Environment | Energy & Environment | news | 2026-08-20 | [link](https://www.nytimes.com/2026/08/20/climate/trump-california-climate.html) |
+| 2026-08-22 | Sponsored: Powering data centers is no longer a simple matter of supply and demand | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-22 | [link](https://www.datacenterdynamics.com/en/marketwatch/powering-data-centers-is-no-longer-a-simple-matter-of-supply-and-demand/) |
+| 2026-08-22 | Quoting Linus Torvalds | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-22 | [link](https://simonwillison.net/2026/Aug/22/linus-torvalds/) |
+| 2026-08-22 | Sponsored: What coolant should you use for data center liquid cooling? | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-22 | [link](https://www.datacenterdynamics.com/en/opinions/what-coolant-should-you-use-for-data-center-liquid-cooling/) |
+| 2026-08-22 | WorkOS: Agents Can Now Sign Up for Your App | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-22 | [link](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) |
+| 2026-08-22 | More than just code review | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-22 | [link](https://simonwillison.net/2026/Aug/22/more-than-just-code-review/) |
+| 2026-08-22 | Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-22 | [link](https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html?unlocked_article_code=1.7VA.r3Ue.GTc_tOhX0qSn) |
+| 2026-08-22 | Java’s String.indexOf can be slow (quadratic) | Lemire.me · Tech & Engineering | Technology | tech | 2026-08-22 | [link](https://lemire.me/blog/2026/08/22/javas-string-indexof-can-be-slow-quadratic/) |
+| 2026-08-22 | I built an English ↔ Claudish translator | Reddit | Business | social | 2026-08-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vvi3x1/i_built_an_english_claudish_translator/) |
+| 2026-08-22 | Is anyone else finding Claude really hard to follow lately? (Massive context dumps, cryptic phrasing | Reddit | Business | social | 2026-08-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vv14nh/is_anyone_else_finding_claude_really_hard_to/) |
+| 2026-08-22 | Just in case you needed to know, Domino's India is a certified connector for Claude. | Reddit | Business | social | 2026-08-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vvlv0p/just_in_case_you_needed_to_know_dominos_india_is/) |
+| 2026-08-22 | Devs who actually use Claude Code properly (not vibe coding) — what's your take? | Reddit | Business | social | 2026-08-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vvo1a5/devs_who_actually_use_claude_code_properly_not/) |
+| 2026-08-22 | What do people mean by "my harness" re: agentic coding? | Reddit | Business | social | 2026-08-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vvjl5y/what_do_people_mean_by_my_harness_re_agentic/) |
+| 2026-08-22 | What's the most practical thing I can do with my Claude subscription? | Reddit | Business | social | 2026-08-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vvi5d8/whats_the_most_practical_thing_i_can_do_with_my/) |
+| 2026-08-22 | Anthropic: Please Have Daisy the CC Engineer Do a Video! | Reddit | Business | social | 2026-08-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vvn0dy/anthropic_please_have_daisy_the_cc_engineer_do_a/) |
+| 2026-08-22 | About 12 F***ing Ounces - Claude Selve Serve Beer Wall and POS | Reddit | Business | social | 2026-08-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vvqzwh/about_12_fing_ounces_claude_selve_serve_beer_wall/) |
+| 2026-08-22 | What a plain language standard does to a coding agent | Reddit | Business | social | 2026-08-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vveyvm/what_a_plain_language_standard_does_to_a_coding/) |
+| 2026-08-22 | Claude saved my data | Reddit | Business | social | 2026-08-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vv4tgo/claude_saved_my_data/) |
+| 2026-08-22 | Lol true | Reddit | Business | social | 2026-08-22 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vvh2mt/lol_true/) |
+| 2026-08-22 | Vibe coded this game in four months | Reddit | Business | social | 2026-08-22 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vvhrfq/vibe_coded_this_game_in_four_months/) |
+| 2026-08-22 | he just can't bear my load anymore 😩 | Reddit | Business | social | 2026-08-22 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vv7f3p/he_just_cant_bear_my_load_anymore/) |
+| 2026-08-22 | Is Superpowers still relevant? | Reddit | Business | social | 2026-08-22 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vvgsia/is_superpowers_still_relevant/) |
+| 2026-08-22 | Anthropic Quietly Overriding Effort Settings | Reddit | Business | social | 2026-08-22 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vvkot2/anthropic_quietly_overriding_effort_settings/) |
+| 2026-08-22 | Created my own Vault Graph to keep me motivated | Reddit | Business | social | 2026-08-22 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vvahan/created_my_own_vault_graph_to_keep_me_motivated/) |
+| 2026-08-22 | 22 Months, 2,250 Notes, One Obsidian Vault | Reddit | Business | social | 2026-08-22 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vv600k/22_months_2250_notes_one_obsidian_vault/) |
+| 2026-08-22 | My approach to a timeline in Obsidian | Reddit | Business | social | 2026-08-22 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vvpv94/my_approach_to_a_timeline_in_obsidian/) |
+| 2026-08-22 | you guys wanted the repo , so here it is. | Reddit | Business | social | 2026-08-22 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vvjf22/you_guys_wanted_the_repo_so_here_it_is/) |
+| 2026-08-22 | How did you guys find out about obsidian? | Reddit | Business | social | 2026-08-22 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vuxlna/how_did_you_guys_find_out_about_obsidian/) |
+| 2026-08-22 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-21 | Kagi added a setting for removing paywalled links from search results | HN | Technology | tech | 2026-08-21 | [link](https://kagi.com/changelog#11296) |
 | 2026-08-21 | Felony charges for citizen deleting phone data at US Border | HN | Technology | tech | 2026-08-21 | [link](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html) |
 | 2026-08-21 | Felony Bench | HN | Technology | tech | 2026-08-21 | [link](https://www.felonybench.com/) |
