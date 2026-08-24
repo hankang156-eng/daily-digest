@@ -1,9 +1,73 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-23 · 6149 items*
+*Last updated: 2026-08-24 · 6213 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-23 | I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes | HN | Technology | tech | 2026-08-23 | [link](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/) |
+| 2026-08-23 | Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed | HN | Technology | tech | 2026-08-23 | [link](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/) |
+| 2026-08-23 | The End of an Athlon | HN | Technology | tech | 2026-08-23 | [link](http://www.os2museum.com/wp/the-end-of-an-athlon/) |
+| 2026-08-23 | JIT Compiling Code in 5μs | HN | Technology | tech | 2026-08-23 | [link](https://malisper.me/jit-compiling-code-in-5-us/) |
+| 2026-08-23 | Tragically, as many as 9625 out of every 10k individuals may be neurotypical | HN | Technology | tech | 2026-08-23 | [link](https://erikengdahl.se/autism/isnt/) |
+| 2026-08-23 | Sydney Marathon medal mistakenly depicts Munich stadium | HN | Technology | tech | 2026-08-23 | [link](https://www.bbc.com/news/articles/cvg92y1wzn8o) |
+| 2026-08-23 | Malware infects Android-based automotive head unit firmware | HN | Technology | tech | 2026-08-23 | [link](https://securelist.com/android-head-unit-malware/121106/) |
+| 2026-08-23 | Fast and Hard Code | HN | Technology | tech | 2026-08-23 | [link](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/) |
+| 2026-08-23 | The Sloppification of Peptides | HN | Technology | tech | 2026-08-23 | [link](https://henryaj.substack.com/p/the-sloppification-of-peptides) |
+| 2026-08-23 | Iranian hackers shut down UK power plant for 4 days | HN | Technology | tech | 2026-08-23 | [link](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/) |
+| 2026-08-23 | Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has | HN | Technology | tech | 2026-08-23 | [link](https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html) |
+| 2026-08-23 | My favorite nonfiction books about cults, scams, and schemes | HN | Technology | tech | 2026-08-23 | [link](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes) |
+| 2026-08-23 | Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive | HN | Technology | tech | 2026-08-23 | [link](https://skylens.yantraai.app/) |
+| 2026-08-23 | 'AI refuser' quit her dream job, and hopes others follow | HN | Technology | tech | 2026-08-23 | [link](https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html) |
+| 2026-08-23 | Steve French (SMB3/CIFSFS Linux kernel maintainer) has died | HN | Technology | tech | 2026-08-23 | [link](https://www.phoronix.com/news/SMB3-CIFS-Maintainer-Change) |
+| 2026-08-23 | What Is a Harness? | HN | Technology | tech | 2026-08-23 | [link](https://earendil.com/posts/what-is-a-harness/) |
+| 2026-08-23 | Trump Shuns E.V.s and Wind Power, But He’s Pouring Billions Into Batteries | NYT · AI | AI | news | 2026-08-24 | [link](https://www.nytimes.com/2026/08/24/climate/trump-administration-batteries-data-centers.html) |
+| 2026-08-23 | Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music | NYT · AI | AI | news | 2026-08-23 | [link](https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html) |
+| 2026-08-23 | Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say | NYT · AI | AI | news | 2026-08-24 | [link](https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html) |
+| 2026-08-23 | Paramount and California to Hold Preliminary Talks on Warner Bros. Deal | NYT · Business | Business | news | 2026-08-22 | [link](https://www.nytimes.com/2026/08/22/business/paramount-california-warner-bros.html) |
+| 2026-08-23 | The Data Center Backlash Bursts Into the Midterms | NYT · AI | AI | news | 2026-08-23 | [link](https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html) |
+| 2026-08-23 | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots | NYT · AI | AI | opinion | 2026-08-24 | [link](https://www.nytimes.com/2026/08/24/opinion/claude-pirated-books-ai.html) |
+| 2026-08-23 | How Big Tech Captured American Schools | NYT · AI | AI | news | 2026-08-23 | [link](https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html) |
+| 2026-08-23 | College Students Worried About A.I. Should Study the Humanities | NYT · AI | AI | opinion | 2026-08-24 | [link](https://www.nytimes.com/2026/08/24/opinion/college-ai.html) |
+| 2026-08-23 | The Economy Got Used to Low Borrowing Costs. Their Exit Could Pose Risks. | NYT · Business | Business | news | 2026-08-22 | [link](https://www.nytimes.com/2026/08/22/business/bonds-borrowing-costs-economy.html) |
+| 2026-08-23 | Can Bessent’s ‘Big Tool Kit’ Calm Bond Investors? | NYT · Business | Business | news | 2026-08-21 | [link](https://www.nytimes.com/2026/08/21/business/dealbook/bessent-bonds-tool-kit.html) |
+| 2026-08-23 | Trump Issues Tariffs on Key Ingredient for Electronics and Solar Panels | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/us/politics/trump-tariffs-solar-panels.html) |
+| 2026-08-23 | A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I. | NYT · AI | AI | news | 2026-08-24 | [link](https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html) |
+| 2026-08-23 | How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy | NYT · Politics | Politics | news | 2026-08-22 | [link](https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html) |
+| 2026-08-23 | OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow | NYT · Technology | Technology | news | 2026-08-18 | [link](https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html) |
+| 2026-08-23 | Farmers Struggle to Get Basic Services From Depleted Agriculture Dept. | NYT · Politics | Politics | news | 2026-08-24 | [link](https://www.nytimes.com/2026/08/24/us/politics/farmers-federal-workers-exodus.html) |
+| 2026-08-23 | Surveillance Prices. Hidden Fees. Shifting Costs. This Madness Must Stop. | NYT · Opinion | Opinion | opinion | 2026-08-22 | [link](https://www.nytimes.com/2026/08/22/opinion/surveillance-pricing-data-companies.html) |
+| 2026-08-23 | Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O. | NYT · AI | AI | news | 2026-08-22 | [link](https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html) |
+| 2026-08-23 | Birds Are Dying. Clues Point to El Niño. | NYT · Energy & Environment | Energy & Environment | news | 2026-08-06 | [link](https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html) |
+| 2026-08-23 | Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated. | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html) |
+| 2026-08-23 | Trump’s Economic Approach Draws Concern From Some Republicans | NYT · Politics | Politics | news | 2026-08-23 | [link](https://www.nytimes.com/2026/08/23/us/politics/trump-republicans-economy-midterms.html) |
+| 2026-08-23 | Quoting Drew Breunig | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-23 | [link](https://simonwillison.net/2026/Aug/23/drew-breunig/) |
+| 2026-08-23 | The hidden infrastructure decisions that impact long-term uptime | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-23 | [link](https://www.datacenterdynamics.com/en/opinions/the-hidden-infrastructure-decisions-that-impact-long-term-uptime/) |
+| 2026-08-23 | Sponsored: Why speed to power starts before the grid | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-23 | [link](https://www.datacenterdynamics.com/en/marketwatch/why-speed-to-power-starts-before-the-grid/) |
+| 2026-08-23 | Welcoming the Sri Lankan Government to Have I Been Pwned | Troy Hunt · Security & Privacy | Security | tech | 2026-08-23 | [link](https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/) |
+| 2026-08-23 | Cooper Sharp Proves That American Cheese Can Be Great Cheese | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-23 | [link](https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight/) |
+| 2026-08-23 | Anthropic’s best AI model struggles to attract users as cheaper tools thrive | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-23 | [link](https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/) |
+| 2026-08-23 | Death to px, long live ch! | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-23 | [link](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/) |
+| 2026-08-23 | Opus 5 real usecase decoded. Using it for coding sessions was anyway a lost cause. | Reddit | Business | social | 2026-08-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vwinim/opus_5_real_usecase_decoded_using_it_for_coding/) |
+| 2026-08-23 | Yeah, feels like something's wrong. | Reddit | Business | social | 2026-08-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vvtz9b/yeah_feels_like_somethings_wrong/) |
+| 2026-08-23 | Anthropic uploaded 8+ hours of talks from "Code w/ Claude" SF — all 19 videos (free on YouTube) | Reddit | Business | social | 2026-08-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vw0osz/anthropic_uploaded_8_hours_of_talks_from_code_w/) |
+| 2026-08-23 | Why do most tech subs seem to hate Claude so much? | Reddit | Business | social | 2026-08-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vw1gfy/why_do_most_tech_subs_seem_to_hate_claude_so_much/) |
+| 2026-08-23 | Lattice: An isometric game kit for agents | Reddit | Business | social | 2026-08-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vw868t/lattice_an_isometric_game_kit_for_agents/) |
+| 2026-08-23 | How to stop Claude code from adding every correction to the spec? 😭 | Reddit | Business | social | 2026-08-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vwkw83/how_to_stop_claude_code_from_adding_every/) |
+| 2026-08-23 | I built one app to replace Adobe Illustrator, Lightroom and most of After Effects. The Figma part is | Reddit | Business | social | 2026-08-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vvspv7/i_built_one_app_to_replace_adobe_illustrator/) |
+| 2026-08-23 | Claude in your daily work if your are not a coder/programmer | Reddit | Business | social | 2026-08-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vw0m4p/claude_in_your_daily_work_if_your_are_not_a/) |
+| 2026-08-23 | Is anyone using Claude for actual email triage — on a real work inbox, every day? | Reddit | Business | social | 2026-08-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vw6ebk/is_anyone_using_claude_for_actual_email_triage_on/) |
+| 2026-08-23 | you guys wanted the repo , so here it is. | Reddit | Business | social | 2026-08-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vw4cc2/you_guys_wanted_the_repo_so_here_it_is/) |
+| 2026-08-23 | Every Claude Code speedrun ends with another Markdown file | Reddit | Business | social | 2026-08-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vw6iek/every_claude_code_speedrun_ends_with_another/) |
+| 2026-08-23 | Please kill me now | Reddit | Business | social | 2026-08-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vw637w/please_kill_me_now/) |
+| 2026-08-23 | Claude solves my fat fingered Caesar cipher | Reddit | Business | social | 2026-08-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vw14kh/claude_solves_my_fat_fingered_caesar_cipher/) |
+| 2026-08-23 | Claude yelled at another claude session unprompted | Reddit | Business | social | 2026-08-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vwf74r/claude_yelled_at_another_claude_session_unprompted/) |
+| 2026-08-23 | I finally figured out why every AI-coded site looks the same and how to actually fix it | Reddit | Business | social | 2026-08-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vvzqvj/i_finally_figured_out_why_every_aicoded_site/) |
+| 2026-08-23 | showing my obsidian vault graph. what does yours look like? | Reddit | Business | social | 2026-08-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vw3e3z/showing_my_obsidian_vault_graph_what_does_yours/) |
+| 2026-08-23 | Some Crazy thing happened today in obsidian PDF viewer | Reddit | Business | social | 2026-08-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vw0sj4/some_crazy_thing_happened_today_in_obsidian_pdf/) |
+| 2026-08-23 | My Obsidian setup as a programmer (vim + VimRC + Linter + Quick Switcher++ included) and an avid rea | Reddit | Business | social | 2026-08-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vwff9e/my_obsidian_setup_as_a_programmer_vim_vimrc/) |
+| 2026-08-23 | Why is my vault maxed out at 1GB when I have only sub-1MB text files and how do I fix it? | Reddit | Business | social | 2026-08-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vvvezz/why_is_my_vault_maxed_out_at_1gb_when_i_have_only/) |
+| 2026-08-23 | Ink Paper v1.2.0 Released | Reddit | Business | social | 2026-08-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vw9ri9/ink_paper_v120_released/) |
+| 2026-08-23 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-22 | Canada will match US tariffs 'dollar for dollar' as trade talks break down | HN | Technology | tech | 2026-08-22 | [link](https://www.bbc.com/news/articles/cvgvyy4x2mvo) |
 | 2026-08-22 | ElevenLabs, TwelveLabs, ThirteenLabs | HN | Technology | tech | 2026-08-22 | [link](https://quantumi.sh/public/labs.html) |
 | 2026-08-22 | Scrap (2006) | HN | Technology | tech | 2026-08-22 | [link](https://twitter.com/moxie/status/2091218652133732491) |

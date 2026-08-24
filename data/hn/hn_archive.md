@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-23 · 471 days · 4710 stories*
+*Last updated: 2026-08-24 · 472 days · 4720 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-23 | Sunday | 1 | I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes | 159 | 80 | Technology | [link](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/) · [HN](https://news.ycombinator.com/item?id=49407507) |
+| 2026-08-23 | Sunday | 2 | Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed | 155 | 115 | Technology | [link](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/) · [HN](https://news.ycombinator.com/item?id=49406539) |
+| 2026-08-23 | Sunday | 3 | The End of an Athlon | 143 | 57 | Technology | [link](http://www.os2museum.com/wp/the-end-of-an-athlon/) · [HN](https://news.ycombinator.com/item?id=49406333) |
+| 2026-08-23 | Sunday | 4 | JIT Compiling Code in 5μs | 123 | 78 | Technology | [link](https://malisper.me/jit-compiling-code-in-5-us/) · [HN](https://news.ycombinator.com/item?id=49406387) |
+| 2026-08-23 | Sunday | 5 | Tragically, as many as 9625 out of every 10k individuals may be neurotypical | 90 | 101 | Technology | [link](https://erikengdahl.se/autism/isnt/) · [HN](https://news.ycombinator.com/item?id=49407143) |
+| 2026-08-23 | Sunday | 6 | Sydney Marathon medal mistakenly depicts Munich stadium | 90 | 59 | Technology | [link](https://www.bbc.com/news/articles/cvg92y1wzn8o) · [HN](https://news.ycombinator.com/item?id=49407576) |
+| 2026-08-23 | Sunday | 7 | Malware infects Android-based automotive head unit firmware | 87 | 40 | Technology | [link](https://securelist.com/android-head-unit-malware/121106/) · [HN](https://news.ycombinator.com/item?id=49408550) |
+| 2026-08-23 | Sunday | 8 | Fast and Hard Code | 81 | 44 | Technology | [link](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/) · [HN](https://news.ycombinator.com/item?id=49406285) |
+| 2026-08-23 | Sunday | 9 | The Sloppification of Peptides | 74 | 59 | Technology | [link](https://henryaj.substack.com/p/the-sloppification-of-peptides) · [HN](https://news.ycombinator.com/item?id=49407341) |
+| 2026-08-23 | Sunday | 10 | Iranian hackers shut down UK power plant for 4 days | 56 | 34 | Technology | [link](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/) · [HN](https://news.ycombinator.com/item?id=49407509) |
 | 2026-08-22 | Saturday | 1 | Canada will match US tariffs 'dollar for dollar' as trade talks break down | 614 | 1430 | Technology | [link](https://www.bbc.com/news/articles/cvgvyy4x2mvo) · [HN](https://news.ycombinator.com/item?id=49397074) |
 | 2026-08-22 | Saturday | 2 | ElevenLabs, TwelveLabs, ThirteenLabs | 401 | 120 | Technology | [link](https://quantumi.sh/public/labs.html) · [HN](https://news.ycombinator.com/item?id=49400408) |
 | 2026-08-22 | Saturday | 3 | Scrap (2006) | 374 | 197 | Technology | [link](https://twitter.com/moxie/status/2091218652133732491) · [HN](https://news.ycombinator.com/item?id=49402189) |
