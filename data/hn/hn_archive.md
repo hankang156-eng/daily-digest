@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-24 · 472 days · 4720 stories*
+*Last updated: 2026-08-25 · 473 days · 4730 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-24 | Monday | 1 | How Europe is killing makers and micro-entrepreneurs | 1370 | 853 | Technology | [link](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs) · [HN](https://news.ycombinator.com/item?id=49419237) |
+| 2026-08-24 | Monday | 2 | Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded | 869 | 619 | Technology | [link](https://twitter.com/lemire/status/2091894299289874926) · [HN](https://news.ycombinator.com/item?id=49420873) |
+| 2026-08-24 | Monday | 3 | MS Paint and Photos inivisibly watermark even locally generated output with GUID | 718 | 314 | Technology | [link](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) · [HN](https://news.ycombinator.com/item?id=49421158) |
+| 2026-08-24 | Monday | 4 | Andreessen Horowitz is investing billions into a bleak future | 700 | 368 | Technology | [link](https://www.modelrepublic.org/articles/a16z-portfolio) · [HN](https://news.ycombinator.com/item?id=49416055) |
+| 2026-08-24 | Monday | 5 | Oceans hit highest temperature on record | 565 | 441 | Technology | [link](https://www.bbc.com/news/articles/c62m4gpnp78o) · [HN](https://news.ycombinator.com/item?id=49424606) |
+| 2026-08-24 | Monday | 6 | Executable Is a SQLite Database | 523 | 99 | Technology | [link](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database) · [HN](https://news.ycombinator.com/item?id=49415271) |
+| 2026-08-24 | Monday | 7 | Coding expertise is going to collapse from AI reliance | 514 | 503 | Technology | [link](https://larsfaye.com/articles/ai-coding-will-prevent-expertise) · [HN](https://news.ycombinator.com/item?id=49421554) |
+| 2026-08-24 | Monday | 8 | The entire city of San Francisco as a video game | 470 | 142 | Technology | [link](https://sf.thijs.gg/) · [HN](https://news.ycombinator.com/item?id=49422784) |
+| 2026-08-24 | Monday | 9 | iCloud+ Hide My Email addresses will remain on icloud.com | 466 | 133 | Technology | [link](https://developer.apple.com/news/?id=1ptvdtcm) · [HN](https://news.ycombinator.com/item?id=49426564) |
+| 2026-08-24 | Monday | 10 | IPFS Maintainers Winding Down | 346 | 177 | Technology | [link](https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/) · [HN](https://news.ycombinator.com/item?id=49421489) |
 | 2026-08-23 | Sunday | 1 | I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes | 159 | 80 | Technology | [link](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/) · [HN](https://news.ycombinator.com/item?id=49407507) |
 | 2026-08-23 | Sunday | 2 | Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed | 155 | 115 | Technology | [link](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/) · [HN](https://news.ycombinator.com/item?id=49406539) |
 | 2026-08-23 | Sunday | 3 | The End of an Athlon | 143 | 57 | Technology | [link](http://www.os2museum.com/wp/the-end-of-an-athlon/) · [HN](https://news.ycombinator.com/item?id=49406333) |

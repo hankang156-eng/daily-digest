@@ -1,9 +1,78 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-24 · 6213 items*
+*Last updated: 2026-08-25 · 6282 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-24 | How Europe is killing makers and micro-entrepreneurs | HN | Technology | tech | 2026-08-24 | [link](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs) |
+| 2026-08-24 | Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded | HN | Technology | tech | 2026-08-24 | [link](https://twitter.com/lemire/status/2091894299289874926) |
+| 2026-08-24 | MS Paint and Photos inivisibly watermark even locally generated output with GUID | HN | Technology | tech | 2026-08-24 | [link](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) |
+| 2026-08-24 | Andreessen Horowitz is investing billions into a bleak future | HN | Technology | tech | 2026-08-24 | [link](https://www.modelrepublic.org/articles/a16z-portfolio) |
+| 2026-08-24 | Oceans hit highest temperature on record | HN | Technology | tech | 2026-08-24 | [link](https://www.bbc.com/news/articles/c62m4gpnp78o) |
+| 2026-08-24 | Executable Is a SQLite Database | HN | Technology | tech | 2026-08-24 | [link](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database) |
+| 2026-08-24 | Coding expertise is going to collapse from AI reliance | HN | Technology | tech | 2026-08-24 | [link](https://larsfaye.com/articles/ai-coding-will-prevent-expertise) |
+| 2026-08-24 | The entire city of San Francisco as a video game | HN | Technology | tech | 2026-08-24 | [link](https://sf.thijs.gg/) |
+| 2026-08-24 | iCloud+ Hide My Email addresses will remain on icloud.com | HN | Technology | tech | 2026-08-24 | [link](https://developer.apple.com/news/?id=1ptvdtcm) |
+| 2026-08-24 | IPFS Maintainers Winding Down | HN | Technology | tech | 2026-08-24 | [link](https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/) |
+| 2026-08-24 | OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21) | HN | Technology | tech | 2026-08-24 | [link](https://developers.openai.com/api/docs/pricing) |
+| 2026-08-24 | Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online | HN | Technology | tech | 2026-08-24 | [link](https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/) |
+| 2026-08-24 | New EU-wide product repair rules come into force | HN | Technology | tech | 2026-08-24 | [link](https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/) |
+| 2026-08-24 | Where did all the public bathrooms go? | HN | Technology | tech | 2026-08-24 | [link](https://daily.jstor.org/where-did-all-the-public-bathrooms-go/) |
+| 2026-08-24 | Jabber/XMPP: 25 Years of Digital Independence | HN | Technology | tech | 2026-08-24 | [link](https://gultsch.de/posts/25-years-of-digital-independence/) |
+| 2026-08-24 | Show HN: A techno machine in one HTML file, with verifiable renders | HN | Technology | tech | 2026-08-24 | [link](https://ssx360.github.io/rack-02/?src=hn) |
+| 2026-08-24 | We Know the Risks of A.I. We Need to Act. | NYT · AI | AI | opinion | 2026-08-25 | [link](https://www.nytimes.com/2026/08/25/opinion/ai-risks.html) |
+| 2026-08-24 | Trump Shuns E.V.s and Wind Power, But He’s Pouring Billions Into Batteries | NYT · Energy & Environment | Energy & Environment | news | 2026-08-24 | [link](https://www.nytimes.com/2026/08/24/climate/trump-administration-batteries-data-centers.html) |
+| 2026-08-24 | Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails | NYT · AI | AI | news | 2026-08-25 | [link](https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html) |
+| 2026-08-24 | S.E.C. Investigating Near-Implosion of A.I. Hedge Fund | NYT · AI | AI | news | 2026-08-24 | [link](https://www.nytimes.com/2026/08/24/business/sec-situational-awareness-investigation.html) |
+| 2026-08-24 | Australia Bans Generative A.I. From Official Music Charts | NYT · AI | AI | news | 2026-08-25 | [link](https://www.nytimes.com/2026/08/25/world/australia/australia-ai-music-chart-ban.html) |
+| 2026-08-24 | After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade | NYT · AI | AI | news | 2026-08-24 | [link](https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html) |
+| 2026-08-24 | What Do A.I. Companies Really Do With Data They Purchase? | NYT · AI | AI | news | 2026-08-24 | [link](https://www.nytimes.com/video/podcasts/100000011110545/what-do-ai-companies-really-do-with-data-they-purchase.html) |
+| 2026-08-24 | Paramount and California to Hold Preliminary Talks on Warner Bros. Deal | NYT · Business | Business | news | 2026-08-22 | [link](https://www.nytimes.com/2026/08/22/business/paramount-california-warner-bros.html) |
+| 2026-08-24 | What You Should Know About College Admissions Changes | NYT · AI | AI | news | 2026-08-24 | [link](https://www.nytimes.com/2026/08/24/us/college-admissions-changes.html) |
+| 2026-08-24 | College Students Worried About A.I. Should Study the Humanities | NYT · AI | AI | opinion | 2026-08-25 | [link](https://www.nytimes.com/2026/08/24/opinion/college-ai.html) |
+| 2026-08-24 | A Chinese A.I. Lab May Test the World’s Cybersecurity With a Model | NYT · AI | AI | news | 2026-08-25 | [link](https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html) |
+| 2026-08-24 | How Big Tech Captured American Schools | NYT · Technology | Technology | news | 2026-08-24 | [link](https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html) |
+| 2026-08-24 | Canada Is Retaliating Against Trump’s Tariffs. Will Others Follow? | NYT · Business | Business | news | 2026-08-24 | [link](https://www.nytimes.com/2026/08/24/business/dealbook/canada-carney-tariffs-trump.html) |
+| 2026-08-24 | Los Angeles Dodgers Owner’s Troubles Roil Insurance World | NYT · Business | Business | news | 2026-08-24 | [link](https://www.nytimes.com/2026/08/24/business/mark-walter-insurance-dodgers-lakers.html) |
+| 2026-08-24 | Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music | NYT · Business | Business | news | 2026-08-23 | [link](https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html) |
+| 2026-08-24 | Trump Threatens New 50% Tariffs on Cars, Trucks and Steel as U.S.-Canada Trade War Unfolds | NYT · Economy | Economy | news | 2026-08-25 | [link](https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html) |
+| 2026-08-24 | Trump’s Attempt to Strangle Iran’s Economy Depends on China’s Cooperation | NYT · Politics | Politics | news | 2026-08-25 | [link](https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html) |
+| 2026-08-24 | Farmers Struggle to Get Basic Services From Depleted Agriculture Dept. | NYT · Politics | Politics | news | 2026-08-24 | [link](https://www.nytimes.com/2026/08/24/us/politics/farmers-federal-workers-exodus.html) |
+| 2026-08-24 | Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated. | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html) |
+| 2026-08-24 | Even Millions of Stolen Books Cannot Satisfy Ravenous A.I. Chatbots | NYT · Opinion | Opinion | opinion | 2026-08-24 | [link](https://www.nytimes.com/2026/08/24/opinion/claude-pirated-books-ai.html) |
+| 2026-08-24 | Nscale targets $3bn raise in US IPO - report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-24 | [link](https://www.datacenterdynamics.com/en/news/nscale-targets-3bn-raise-in-us-ipo-report/) |
+| 2026-08-24 | AEP Ohio secures $18m from data center firms for bill assistance program | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-24 | [link](https://www.datacenterdynamics.com/en/news/aep-ohio-secures-18m-from-data-center-firms-for-bill-assistance-program/) |
+| 2026-08-24 | Building Technology People Can Trust | IEEE Spectrum Semiconductors · AI Infrastructure | Infrastructure | tech | 2026-08-24 | [link](https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms) |
+| 2026-08-24 | People + Vertical AI: The new operating model for energy and utilities | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-24 | [link](https://www.utilitydive.com/spons/people-vertical-ai-the-new-operating-model-for-energy-and-utilities/828314/) |
+| 2026-08-24 | How Heron Power plans to scale first transformer factory to 40 GW | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-24 | [link](https://www.latitudemedia.com/news/how-heron-power-plans-to-scale-first-transformer-factory-to-40-gw/) |
+| 2026-08-24 | Nvidia’s growing collection of energy stakes | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-24 | [link](https://www.latitudemedia.com/news/nvidias-growing-collection-of-energy-stakes/) |
+| 2026-08-24 | Weekly Update 518: IoT Doorlock Nirvana with UniFi | Troy Hunt · Security & Privacy | Security | tech | 2026-08-24 | [link](https://www.troyhunt.com/weekly-update-518/) |
+| 2026-08-24 | llm-anthropic 0.27 | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-24 | [link](https://simonwillison.net/2026/Aug/24/llm-anthropic/) |
+| 2026-08-24 | Your executable is a SQLite database | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-24 | [link](https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/) |
+| 2026-08-24 | ★ What Is the Point of the DMA? | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-24 | [link](https://daringfireball.net/2026/08/what_is_the_point_of_the_dma) |
+| 2026-08-24 | BitCam: The 1-Bit Camera App Turns 2.0 | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-24 | [link](https://bitcam-app.com/) |
+| 2026-08-24 | Why do audience members choose specific shows at the Edinburgh Fringe? | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-24 | [link](https://shkspr.mobi/blog/2026/08/why-do-audience-members-choose-specific-shows-at-the-edinburgh-fringe/) |
+| 2026-08-24 | What I Built with Claude - sweet potatoes | Reddit | Business | social | 2026-08-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vx6fyn/what_i_built_with_claude_sweet_potatoes/) |
+| 2026-08-24 | Indeed laid off my pregnant wife, so I built a job search competitor with Claude. It just got its fi | Reddit | Business | social | 2026-08-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vx4kn7/indeed_laid_off_my_pregnant_wife_so_i_built_a_job/) |
+| 2026-08-24 | Week 4 of making my fishing game entirely with AI | Reddit | Business | social | 2026-08-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vxdnw6/week_4_of_making_my_fishing_game_entirely_with_ai/) |
+| 2026-08-24 | Claude Enterprise admins, have you ever found anything shocking in an employee's chat history? | Reddit | Business | social | 2026-08-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vxehxv/claude_enterprise_admins_have_you_ever_found/) |
+| 2026-08-24 | Lifting the Curtain: The Max x5 and Max x20 Usage Limits that Anthropic Refuses to Share | Reddit | Business | social | 2026-08-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vx0k69/lifting_the_curtain_the_max_x5_and_max_x20_usage/) |
+| 2026-08-24 | Opus 5 medium is such an unique experience, LOL. | Reddit | Business | social | 2026-08-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vws2g7/opus_5_medium_is_such_an_unique_experience_lol/) |
+| 2026-08-24 | “It’s an issue but not a bug”-Cherny. Community notes cooked him on X | Reddit | Business | social | 2026-08-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vx3phv/its_an_issue_but_not_a_bugcherny_community_notes/) |
+| 2026-08-24 | I would immediately switch my money and time to any AI platform that made it so that hitting enter w | Reddit | Business | social | 2026-08-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vx7fb6/i_would_immediately_switch_my_money_and_time_to/) |
+| 2026-08-24 | Welp thats just great ! | Reddit | Business | social | 2026-08-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vx9qo0/welp_thats_just_great/) |
+| 2026-08-24 | I'm now claudish native speaker | Reddit | Business | social | 2026-08-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vxbww3/im_now_claudish_native_speaker/) |
+| 2026-08-24 | Received a plushy from Anthropic ! | Reddit | Business | social | 2026-08-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vx5t8a/received_a_plushy_from_anthropic/) |
+| 2026-08-24 | 168K organic clicks in 3 months — my Claude Code SEO workflow | Reddit | Business | social | 2026-08-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vwzbo2/168k_organic_clicks_in_3_months_my_claude_code/) |
+| 2026-08-24 | Claude Down Again?? | Reddit | Business | social | 2026-08-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vwt5bd/claude_down_again/) |
+| 2026-08-24 | This was a tricky problem but I think we got to the root of it.. I love Opus 5! | Reddit | Business | social | 2026-08-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vx0y8u/this_was_a_tricky_problem_but_i_think_we_got_to/) |
+| 2026-08-24 | Claude has been down for 3 hours straight | Reddit | Business | social | 2026-08-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vww43n/claude_has_been_down_for_3_hours_straight/) |
+| 2026-08-24 | So... I built a full PS1 & NES emulator running directly inside Obsidian Canvas nodes (Free & Open S | Reddit | Business | social | 2026-08-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vx1emi/so_i_built_a_full_ps1_nes_emulator_running/) |
+| 2026-08-24 | I remade the vault I've been using for years | Reddit | Business | social | 2026-08-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vwnd8d/i_remade_the_vault_ive_been_using_for_years/) |
+| 2026-08-24 | Plugin that allows you to handwrite in Obsidian .md notes | Reddit | Business | social | 2026-08-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vxbvz1/plugin_that_allows_you_to_handwrite_in_obsidian/) |
+| 2026-08-24 | What’s your fastest way to capture ideas into Obsidian, especially while driving? | Reddit | Business | social | 2026-08-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vx7v75/whats_your_fastest_way_to_capture_ideas_into/) |
+| 2026-08-24 | Any good plugins or vault templates for an academic vault (taking literature notes on articles and b | Reddit | Business | social | 2026-08-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vwn9ts/any_good_plugins_or_vault_templates_for_an/) |
+| 2026-08-24 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-23 | I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes | HN | Technology | tech | 2026-08-23 | [link](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/) |
 | 2026-08-23 | Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed | HN | Technology | tech | 2026-08-23 | [link](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/) |
 | 2026-08-23 | The End of an Athlon | HN | Technology | tech | 2026-08-23 | [link](http://www.os2museum.com/wp/the-end-of-an-athlon/) |
