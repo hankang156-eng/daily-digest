@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-25 · 473 days · 4730 stories*
+*Last updated: 2026-08-26 · 474 days · 4740 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-25 | Tuesday | 1 | Dolly Parton has died | 1468 | 222 | Technology | [link](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead) · [HN](https://news.ycombinator.com/item?id=49438052) |
+| 2026-08-25 | Tuesday | 2 | Apple introduces M6 and M5 Ultra | 1143 | 1111 | Technology | [link](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) · [HN](https://news.ycombinator.com/item?id=49433292) |
+| 2026-08-25 | Tuesday | 3 | Nitter and XCancel receive cease and desist notices | 950 | 788 | Technology | [link](https://github.com/zedeus/nitter/issues/1442) · [HN](https://news.ycombinator.com/item?id=49437283) |
+| 2026-08-25 | Tuesday | 4 | New Mac Studio with M5 Max and M5 Ultra | 769 | 508 | Technology | [link](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) · [HN](https://news.ycombinator.com/item?id=49433316) |
+| 2026-08-25 | Tuesday | 5 | My Friend Aaron | 567 | 158 | Technology | [link](https://rorz.io/writing/my-friend-aaron) · [HN](https://news.ycombinator.com/item?id=49437069) |
+| 2026-08-25 | Tuesday | 6 | New Mac mini, featuring M6 and M5 Pro | 498 | 313 | Technology | [link](https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/) · [HN](https://news.ycombinator.com/item?id=49433450) |
+| 2026-08-25 | Tuesday | 7 | OpenAI Jalapeño: Better than Nvidia Blackwell | 487 | 309 | Technology | [link](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia) · [HN](https://news.ycombinator.com/item?id=49434378) |
+| 2026-08-25 | Tuesday | 8 | FDA authorizes first wearable device that monitors ketone and blood sugar levels | 397 | 194 | Technology | [link](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar) · [HN](https://news.ycombinator.com/item?id=49439017) |
+| 2026-08-25 | Tuesday | 9 | Firefox 157 will include JPEG XL by default on all platforms | 380 | 104 | Technology | [link](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1) · [HN](https://news.ycombinator.com/item?id=49437946) |
+| 2026-08-25 | Tuesday | 10 | Don't Wordle | 351 | 124 | Technology | [link](https://dontwordle.com/) · [HN](https://news.ycombinator.com/item?id=49432319) |
 | 2026-08-24 | Monday | 1 | How Europe is killing makers and micro-entrepreneurs | 1370 | 853 | Technology | [link](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs) · [HN](https://news.ycombinator.com/item?id=49419237) |
 | 2026-08-24 | Monday | 2 | Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded | 869 | 619 | Technology | [link](https://twitter.com/lemire/status/2091894299289874926) · [HN](https://news.ycombinator.com/item?id=49420873) |
 | 2026-08-24 | Monday | 3 | MS Paint and Photos inivisibly watermark even locally generated output with GUID | 718 | 314 | Technology | [link](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) · [HN](https://news.ycombinator.com/item?id=49421158) |
