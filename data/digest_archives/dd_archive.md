@@ -1,9 +1,78 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-26 · 6349 items*
+*Last updated: 2026-08-27 · 6418 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-26 | Nvidia agrees to acquire Hugging Face for $13B | HN | Technology | tech | 2026-08-26 | [link](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) |
+| 2026-08-26 | AWS Acquires DuckLabs | HN | Technology | tech | 2026-08-26 | [link](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws) |
+| 2026-08-26 | GLM-5.3-Flash | HN | Technology | tech | 2026-08-26 | [link](https://z.ai/blog/glm-5.3-flash) |
+| 2026-08-26 | Qwen3.8-Flash-Next | HN | Technology | tech | 2026-08-26 | [link](https://qwen.ai/blog?id=qwen3.8-flash-next) |
+| 2026-08-26 | Tim Curry has died | HN | Technology | tech | 2026-08-26 | [link](https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film) |
+| 2026-08-26 | CEO fired developers to make room for AI. Developers create open source AI CEO | HN | Technology | tech | 2026-08-26 | [link](https://github.com/SenteLabsAI/OpenExecutive) |
+| 2026-08-26 | Tailcat – Like netcat, but over Tailscale’s data plane | HN | Technology | tech | 2026-08-26 | [link](https://github.com/tailscale/tailcat) |
+| 2026-08-26 | U.S. State Department pauses immigrant visa applications | HN | Technology | tech | 2026-08-26 | [link](https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23) |
+| 2026-08-26 | Meta reaches $17B settlement over social media harms to children | HN | Technology | tech | 2026-08-26 | [link](https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/) |
+| 2026-08-26 | RAG Is Simpler Than You Think | HN | Technology | tech | 2026-08-26 | [link](https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think) |
+| 2026-08-26 | Twitter Viewer – View Twitter Without Account | HN | Technology | tech | 2026-08-26 | [link](https://twitterwebviewer.com/) |
+| 2026-08-26 | Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights | HN | Technology | tech | 2026-08-26 | [link](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek) |
+| 2026-08-26 | Nebula Sans | HN | Technology | tech | 2026-08-26 | [link](https://www.nebulasans.com) |
+| 2026-08-26 | An ongoing 3D-printer AGPL violation | HN | Technology | tech | 2026-08-26 | [link](https://lwn.net/SubscriberLink/1089390/46116614cc74b814/) |
+| 2026-08-26 | Mechanical Turk shutting down September 30 | HN | Technology | tech | 2026-08-26 | [link](https://www.mturk.com/) |
+| 2026-08-26 | France reaches 94.9% fiber coverage in 2026 | HN | Technology | tech | 2026-08-26 | [link](https://cartefibre.arcep.fr) |
+| 2026-08-26 | The A.I. Debt Binge Is Endangering the Economy | NYT · AI | AI | opinion | 2026-08-26 | [link](https://www.nytimes.com/2026/08/26/opinion/ai-debt-economy-hyperscalers.html) |
+| 2026-08-26 | Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit | NYT · AI | AI | news | 2026-08-27 | [link](https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html) |
+| 2026-08-26 | The Scandinavian Solution to A.I. in Schools | NYT · AI | AI | opinion | 2026-08-26 | [link](https://www.nytimes.com/2026/08/26/opinion/ai-norway-schools.html) |
+| 2026-08-26 | Wall St. Scrutinizes Nvidia’s Deal Machine | NYT · AI | AI | news | 2026-08-26 | [link](https://www.nytimes.com/2026/08/26/business/dealbook/nvidia-earnings-ai-investments.html) |
+| 2026-08-26 | Prediction Markets and States Clashed, Setting Off a Furious Political Battle | NYT · Technology | Technology | news | 2026-08-27 | [link](https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html) |
+| 2026-08-26 | Lisa Cook Hits Back at Trump’s Latest Attempt to Oust Her as Fed Governor | NYT · Business | Business | news | 2026-08-27 | [link](https://www.nytimes.com/2026/08/26/business/trump-lisa-cook-fed.html) |
+| 2026-08-26 | Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails | NYT · AI | AI | news | 2026-08-25 | [link](https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html) |
+| 2026-08-26 | Trump Shuns E.V.s and Wind Power, But He’s Pouring Billions Into Batteries | NYT · Energy & Environment | Energy & Environment | news | 2026-08-24 | [link](https://www.nytimes.com/2026/08/24/climate/trump-administration-batteries-data-centers.html) |
+| 2026-08-26 | Army Awards $2.2 Billion for ‘Microreactors’ On U.S. Bases | NYT · Energy & Environment | Energy & Environment | news | 2026-08-26 | [link](https://www.nytimes.com/2026/08/26/climate/army-miniature-nuclear-reactors.html) |
+| 2026-08-26 | MAHA Moms Take On Coal | NYT · AI | AI | news | 2026-08-25 | [link](https://www.nytimes.com/2026/08/25/climate/climate-maha-moms-coal.html) |
+| 2026-08-26 | Diesel Price Nears Record High, Helping Oil Companies and Hurting Consumers | NYT · Energy & Environment | Energy & Environment | news | 2026-08-27 | [link](https://www.nytimes.com/2026/08/26/business/energy-environment/diesel-prices-iran-war-oil.html) |
+| 2026-08-26 | E.P.A. Moves to Curb Public Input on Air Pollution Permits for Data Centers | NYT · Technology | Technology | news | 2026-08-25 | [link](https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html) |
+| 2026-08-26 | Nvidia’s Profit Doubles to $59.69 Billion Thanks to A.I. Spending | NYT · AI | AI | news | 2026-08-27 | [link](https://www.nytimes.com/2026/08/26/technology/nvidia-profit-ai-doubles-earnings.html) |
+| 2026-08-26 | Some Scientists Have ‘Magic Hands’ in the Lab. This A.I. Is Learning Why. | NYT · AI | AI | news | 2026-08-27 | [link](https://www.nytimes.com/2026/08/27/science/scientists-experiments-replication-ai.html) |
+| 2026-08-26 | We Know the Risks of A.I. We Need to Act. | NYT · Opinion | Opinion | opinion | 2026-08-25 | [link](https://www.nytimes.com/2026/08/25/opinion/ai-risks.html) |
+| 2026-08-26 | Los Angeles Dodgers Owner’s Troubles Roil Insurance World | NYT · Business | Business | news | 2026-08-26 | [link](https://www.nytimes.com/2026/08/24/business/mark-walter-insurance-dodgers-lakers.html) |
+| 2026-08-26 | Why China Loves A.I. | NYT · AI | AI | news | 2026-08-27 | [link](https://www.nytimes.com/2026/08/26/world/china-ai-nepal-tibet-flood.html) |
+| 2026-08-26 | Bessent Faces Credibility Test in Quest to Tame Markets | NYT · Business | Business | news | 2026-08-26 | [link](https://www.nytimes.com/2026/08/26/business/scott-bessent-economy-markets.html) |
+| 2026-08-26 | There’s Really Only One Way to Stop Students From Cheating | NYT · AI | AI | opinion | 2026-08-26 | [link](https://www.nytimes.com/2026/08/26/opinion/students-cheating-ai.html) |
+| 2026-08-26 | West Point Climate Professor Says He Was Fired for Refusing to ‘Defy Science’ | NYT · Politics | Politics | news | 2026-08-26 | [link](https://www.nytimes.com/2026/08/26/us/politics/west-point-climate-professor-lawsuit.html) |
+| 2026-08-26 | Economics and AI Meet on ‘Justified Posteriors’ Podcast | MIT IDE · MIT Research & Insights | Research | research | 2026-08-26 | [link](https://ide.mit.edu/insights/economics-and-ai-meet-on-justified-posteriors-podcast/) |
+| 2026-08-26 | Spain drafts rules requiring data centers to source 80% of power from new renewables - report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-26 | [link](https://www.datacenterdynamics.com/en/news/spain-drafts-rules-requiring-data-centers-to-source-80-of-power-from-new-renewables-report/) |
+| 2026-08-26 | Case Study: How Kirby equipped their engineering teams across Europe with advanced, specialist exper | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-26 | [link](https://www.datacenterdynamics.com/en/whitepapers/case-study-how-kirby-equipped-their-engineering-teams-across-europe/) |
+| 2026-08-26 | Trump’s energy policy could cost US 540 GW of renewables, says NRDC | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-26 | [link](https://www.utilitydive.com/news/trumps-energy-policy-could-cost-us-540-gw-of-renewables-says-nrdc/828826/) |
+| 2026-08-26 | China’s Grip on Erbium and Yttrium Could Choke Data-Center Growth | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-08-26 | [link](https://spectrum.ieee.org/rare-earth-shortage) |
+| 2026-08-26 | Nevada ‘misses an opportunity’ in performance-based DER tariffs: advocate | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-26 | [link](https://www.utilitydive.com/news/nevada-misses-an-opportunity-in-performance-based-der-tariffs-advocate/828836/) |
+| 2026-08-26 | The problem with the US gas bonanza for data centers | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-26 | [link](https://www.latitudemedia.com/news/the-problem-with-the-us-gas-bonanza-for-data-centers/) |
+| 2026-08-26 | Qwen3.8-Flash-Next | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-26 | [link](https://simonwillison.net/2026/Aug/26/qwen38-flash-next/) |
+| 2026-08-26 | Quoting Paul Dix | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-26 | [link](https://simonwillison.net/2026/Aug/26/paul-dix/) |
+| 2026-08-26 | POSIWID: The Purpose of a System Is What It Does | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-26 | [link](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does) |
+| 2026-08-26 | ‘Surprise and Shine’ Apple Event: Wednesday 9 September | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-26 | [link](https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/) |
+| 2026-08-26 | Gadget Review: Thermal Master P3 Macro Lens ★★★★⯪ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-26 | [link](https://shkspr.mobi/blog/2026/08/gadget-review-thermal-master-p3-macro-lens/) |
+| 2026-08-26 | What my wife’s Claude knows about me. | Reddit | Business | social | 2026-08-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vyo76q/what_my_wifes_claude_knows_about_me/) |
+| 2026-08-26 | Went through a list of 27 advanced Claude tips. These were the first 5 I thought were actually usefu | Reddit | Business | social | 2026-08-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vyjm2h/went_through_a_list_of_27_advanced_claude_tips/) |
+| 2026-08-26 | I Claude Coded a multiplayer Three.js tank game with 100+ procedural vehicles. Here's my workflow | Reddit | Business | social | 2026-08-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vz70zy/i_claude_coded_a_multiplayer_threejs_tank_game/) |
+| 2026-08-26 | Claude REFUSES/EVADES all instructions, hooks, mds, skills. Also: Extreme cycling between nonsensica | Reddit | Business | social | 2026-08-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vymqan/claude_refusesevades_all_instructions_hooks_mds/) |
+| 2026-08-26 | Why do we trust Microsoft 365 with sensitive documents, but not AI? | Reddit | Business | social | 2026-08-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vz8l1f/why_do_we_trust_microsoft_365_with_sensitive/) |
+| 2026-08-26 | Got 6 months of Claude Max 20x free, already have Premium slot through work, so unsure I need it | Reddit | Business | social | 2026-08-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vzdn45/got_6_months_of_claude_max_20x_free_already_have/) |
+| 2026-08-26 | Show us what you've created with Claude! | Reddit | Business | social | 2026-08-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vzcqv2/show_us_what_youve_created_with_claude/) |
+| 2026-08-26 | I used Claude to learn to garden | Reddit | Business | social | 2026-08-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vz8rem/i_used_claude_to_learn_to_garden/) |
+| 2026-08-26 | Why doesn't Claude ask more questions before moving to execution? | Reddit | Business | social | 2026-08-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vz3rlc/why_doesnt_claude_ask_more_questions_before/) |
+| 2026-08-26 | Two 5x account vs. one 20x account in Claude | Reddit | Business | social | 2026-08-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vyrh6k/two_5x_account_vs_one_20x_account_in_claude/) |
+| 2026-08-26 | Don't be a meat proxy... | Reddit | Business | social | 2026-08-26 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vz5cg2/dont_be_a_meat_proxy/) |
+| 2026-08-26 | I am ditching .mp4 for use with Claude. Instead use an oss .cdaf (AI-friendly) format for 91% cost e | Reddit | Business | social | 2026-08-26 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vyv8h1/i_am_ditching_mp4_for_use_with_claude_instead_use/) |
+| 2026-08-26 | Well, that was a lie. | Reddit | Business | social | 2026-08-26 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vyigif/well_that_was_a_lie/) |
+| 2026-08-26 | Who is the asshole who decided to include session URLs in PRs by default? | Reddit | Business | social | 2026-08-26 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vyj6u6/who_is_the_asshole_who_decided_to_include_session/) |
+| 2026-08-26 | which LLM as of today? | Reddit | Business | social | 2026-08-26 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vyvsb5/which_llm_as_of_today/) |
+| 2026-08-26 | Second brain cringelords | Reddit | Business | social | 2026-08-26 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vypc18/second_brain_cringelords/) |
+| 2026-08-26 | Trained the handwriting model for the Obsidian plugin. 2x fewer errors than the prototype on real ha | Reddit | Business | social | 2026-08-26 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vyvg8g/trained_the_handwriting_model_for_the_obsidian/) |
+| 2026-08-26 | I made a plugin that mimics Homebrewery editing and render preview into Obsidian | Reddit | Business | social | 2026-08-26 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vz964d/i_made_a_plugin_that_mimics_homebrewery_editing/) |
+| 2026-08-26 | I have always had a fixation on collaborations, and the "degree of separation" concept. Obsidian has | Reddit | Business | social | 2026-08-26 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vyt8su/i_have_always_had_a_fixation_on_collaborations/) |
+| 2026-08-26 | Does anyone use their vault for their actual life, rather than knowledge? | Reddit | Business | social | 2026-08-26 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vz2tsg/does_anyone_use_their_vault_for_their_actual_life/) |
+| 2026-08-26 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-25 | Dolly Parton has died | HN | Technology | tech | 2026-08-25 | [link](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead) |
 | 2026-08-25 | Apple introduces M6 and M5 Ultra | HN | Technology | tech | 2026-08-25 | [link](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) |
 | 2026-08-25 | Nitter and XCancel receive cease and desist notices | HN | Technology | tech | 2026-08-25 | [link](https://github.com/zedeus/nitter/issues/1442) |

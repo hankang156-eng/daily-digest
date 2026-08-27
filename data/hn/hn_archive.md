@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-26 · 474 days · 4740 stories*
+*Last updated: 2026-08-27 · 475 days · 4750 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-26 | Wednesday | 1 | Nvidia agrees to acquire Hugging Face for $13B | 1131 | 475 | Technology | [link](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) · [HN](https://news.ycombinator.com/item?id=49458161) |
+| 2026-08-26 | Wednesday | 2 | AWS Acquires DuckLabs | 1054 | 306 | Technology | [link](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws) · [HN](https://news.ycombinator.com/item?id=49448321) |
+| 2026-08-26 | Wednesday | 3 | GLM-5.3-Flash | 1031 | 518 | Technology | [link](https://z.ai/blog/glm-5.3-flash) · [HN](https://news.ycombinator.com/item?id=49449507) |
+| 2026-08-26 | Wednesday | 4 | Qwen3.8-Flash-Next | 669 | 217 | Technology | [link](https://qwen.ai/blog?id=qwen3.8-flash-next) · [HN](https://news.ycombinator.com/item?id=49448210) |
+| 2026-08-26 | Wednesday | 5 | Tim Curry has died | 666 | 214 | Technology | [link](https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film) · [HN](https://news.ycombinator.com/item?id=49451448) |
+| 2026-08-26 | Wednesday | 6 | CEO fired developers to make room for AI. Developers create open source AI CEO | 605 | 387 | Technology | [link](https://github.com/SenteLabsAI/OpenExecutive) · [HN](https://news.ycombinator.com/item?id=49458418) |
+| 2026-08-26 | Wednesday | 7 | Tailcat – Like netcat, but over Tailscale’s data plane | 577 | 101 | Technology | [link](https://github.com/tailscale/tailcat) · [HN](https://news.ycombinator.com/item?id=49452990) |
+| 2026-08-26 | Wednesday | 8 | U.S. State Department pauses immigrant visa applications | 514 | 763 | Technology | [link](https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23) · [HN](https://news.ycombinator.com/item?id=49452709) |
+| 2026-08-26 | Wednesday | 9 | Meta reaches $17B settlement over social media harms to children | 514 | 480 | Technology | [link](https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/) · [HN](https://news.ycombinator.com/item?id=49448819) |
+| 2026-08-26 | Wednesday | 10 | RAG Is Simpler Than You Think | 458 | 193 | Technology | [link](https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think) · [HN](https://news.ycombinator.com/item?id=49445727) |
 | 2026-08-25 | Tuesday | 1 | Dolly Parton has died | 1468 | 222 | Technology | [link](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead) · [HN](https://news.ycombinator.com/item?id=49438052) |
 | 2026-08-25 | Tuesday | 2 | Apple introduces M6 and M5 Ultra | 1143 | 1111 | Technology | [link](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) · [HN](https://news.ycombinator.com/item?id=49433292) |
 | 2026-08-25 | Tuesday | 3 | Nitter and XCancel receive cease and desist notices | 950 | 788 | Technology | [link](https://github.com/zedeus/nitter/issues/1442) · [HN](https://news.ycombinator.com/item?id=49437283) |
