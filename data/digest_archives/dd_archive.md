@@ -1,9 +1,75 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-27 · 6418 items*
+*Last updated: 2026-08-28 · 6484 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-27 | Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache | HN | Technology | tech | 2026-08-27 | [link](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) |
+| 2026-08-27 | Microduck | HN | Technology | tech | 2026-08-27 | [link](https://pollen-robotics.com/microduck/) |
+| 2026-08-27 | Small Models Have Arrived | HN | Technology | tech | 2026-08-27 | [link](https://calv.info/small-models-have-arrived) |
+| 2026-08-27 | 507 Mechanical Movements | HN | Technology | tech | 2026-08-27 | [link](https://507movements.com/) |
+| 2026-08-27 | Show HN: The load-bearing vocabulary of Claude | HN | Technology | tech | 2026-08-27 | [link](https://louisabraham.github.io/load-bearing/) |
+| 2026-08-27 | Trade (and Tariffs) | HN | Technology | tech | 2026-08-27 | [link](https://xkcd.com/3290/) |
+| 2026-08-27 | Tell HN: PayPal blocks GrapheneOS | HN | Technology | tech | 2026-08-27 | [link](https://news.ycombinator.com/item?id=49462253) |
+| 2026-08-27 | Gemini-3.5-Transcribe | HN | Technology | tech | 2026-08-27 | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/) |
+| 2026-08-27 | Gemini Omni 1.1 Flash | HN | Technology | tech | 2026-08-27 | [link](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/) |
+| 2026-08-27 | Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal | HN | Technology | tech | 2026-08-27 | [link](https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html) |
+| 2026-08-27 | We found a division by zero bug in FFmpeg with a vibecoded fuzzer | HN | Technology | tech | 2026-08-27 | [link](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290) |
+| 2026-08-27 | Decompiling a Nintendo 64 game in 84 days | HN | Technology | tech | 2026-08-27 | [link](https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/) |
+| 2026-08-27 | Suica, Japan's First IC Transit Card | HN | Technology | tech | 2026-08-27 | [link](https://www.tokyodev.com/articles/the-story-of-suica) |
+| 2026-08-27 | US Government designates host of noblogs.org a "global terrorist" | HN | Technology | tech | 2026-08-27 | [link](https://crimethinc.com/2026/08/27/us-government-designates-host-of-noblogsorg-a-global-terrorist) |
+| 2026-08-27 | Two German airport workers die of malaria after 'mosquito arrives on plane' | HN | Technology | tech | 2026-08-27 | [link](https://www.bbc.com/news/articles/cz6zwgg9y8go) |
+| 2026-08-27 | Emacs 31: An unofficial guide to Markdown-ts-mode | HN | Technology | tech | 2026-08-27 | [link](https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31) |
+| 2026-08-27 | Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit | NYT · AI | AI | news | 2026-08-27 | [link](https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html) |
+| 2026-08-27 | California Lawmakers Pass Plug-In Solar Bill | NYT · Energy & Environment | Energy & Environment | news | 2026-08-27 | [link](https://www.nytimes.com/2026/08/27/business/energy-environment/california-legislature-plugin-solar.html) |
+| 2026-08-27 | Prediction Markets and States Clashed, Setting Off a Furious Political Battle | NYT · Technology | Technology | news | 2026-08-28 | [link](https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html) |
+| 2026-08-27 | Gwyneth Paltrow’s Hamptons Dinner for Sam Altman Postponed | NYT · AI | AI | news | 2026-08-28 | [link](https://www.nytimes.com/2026/08/27/style/gwyneth-paltrows-sam-altman-dinner-postponed.html) |
+| 2026-08-27 | Meta Projected It Could Spend $10 Billion on Anthropic’s A.I. | NYT · AI | AI | news | 2026-08-27 | [link](https://www.nytimes.com/2026/08/27/technology/meta-anthropic-frenemies.html) |
+| 2026-08-27 | Lisa Cook Hits Back at Trump’s Latest Attempt to Oust Her as Fed Governor | NYT · Business | Business | news | 2026-08-27 | [link](https://www.nytimes.com/2026/08/26/business/trump-lisa-cook-fed.html) |
+| 2026-08-27 | What It Would Take to Dismantle the Most Powerful Companies in the World | NYT · AI | AI | opinion | 2026-08-28 | [link](https://www.nytimes.com/2026/08/28/opinion/ai-power-lobbying-military-britain-east-india-company.html) |
+| 2026-08-27 | Inside the Iceland Eclipse Festival: $1,000-a-Week Yurts and Endless Optimism | NYT · AI | AI | news | 2026-08-27 | [link](https://www.nytimes.com/2026/08/27/style/iceland-eclipse-festival.html) |
+| 2026-08-27 | Army Awards $2.2 Billion for ‘Microreactors’ On U.S. Bases | NYT · Energy & Environment | Energy & Environment | news | 2026-08-27 | [link](https://www.nytimes.com/2026/08/26/climate/army-miniature-nuclear-reactors.html) |
+| 2026-08-27 | Diesel Price Nears Record High, Helping Oil Companies and Hurting Consumers | NYT · Energy & Environment | Energy & Environment | news | 2026-08-27 | [link](https://www.nytimes.com/2026/08/26/business/energy-environment/diesel-prices-iran-war-oil.html) |
+| 2026-08-27 | The Scandinavian Solution to A.I. in Schools | NYT · Opinion | Opinion | opinion | 2026-08-27 | [link](https://www.nytimes.com/2026/08/26/opinion/ai-norway-schools.html) |
+| 2026-08-27 | Starbucks Drops Drink Powder That Enveloped Baristas in Clouds of Dust | NYT · Politics | Politics | news | 2026-08-27 | [link](https://www.nytimes.com/2026/08/27/us/politics/starbucks-silica-powder-blended-drinks.html) |
+| 2026-08-27 | Trump Shuns E.V.s and Wind Power, But He’s Pouring Billions Into Batteries | NYT · Energy & Environment | Energy & Environment | news | 2026-08-24 | [link](https://www.nytimes.com/2026/08/24/climate/trump-administration-batteries-data-centers.html) |
+| 2026-08-27 | Wall St. Scrutinizes Nvidia’s Deal Machine | NYT · Business | Business | news | 2026-08-26 | [link](https://www.nytimes.com/2026/08/26/business/dealbook/nvidia-earnings-ai-investments.html) |
+| 2026-08-27 | Clashes Cloud Shawn Fain’s Re-election Bid at U.A.W. | NYT · Economy | Economy | news | 2026-08-28 | [link](https://www.nytimes.com/2026/08/28/business/economy/uaw-shawn-fain-reelection.html) |
+| 2026-08-27 | The Bond Market Chaos Is Coming for Us All | NYT · Opinion | Opinion | opinion | 2026-08-28 | [link](https://www.nytimes.com/2026/08/28/opinion/ezra-klein-podcast-robin-wigglesworth.html) |
+| 2026-08-27 | E.P.A. Moves to Curb Public Input on Air Pollution Permits for Data Centers | NYT · Technology | Technology | news | 2026-08-25 | [link](https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html) |
+| 2026-08-27 | Trump Administration Will Appeal Harvard Antisemitism Case | NYT · Politics | Politics | news | 2026-08-27 | [link](https://www.nytimes.com/2026/08/27/us/politics/trump-administration-harvard-antisemitism-lawsuit-appeal.html) |
+| 2026-08-27 | Secrecy in Lawsuits Has ‘Run Amok,’ Scholars Say | NYT · Politics | Politics | news | 2026-08-27 | [link](https://www.nytimes.com/2026/08/27/us/politics/the-docket-lawsuit-secrecy.html) |
+| 2026-08-27 | Breaking Claude Code Opus 5 Auto Mode | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-27 | [link](https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/) |
+| 2026-08-27 | War and peace in the Middle East | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-27 | [link](https://www.datacenterdynamics.com/en/analysis/war-and-peace-in-the-middle-east/) |
+| 2026-08-27 | Sponsored: Designing the white space for flexible fiber requirements | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-27 | [link](https://www.datacenterdynamics.com/en/opinions/designing-the-white-space-for-flexible-fiber-requirements/) |
+| 2026-08-27 | Long-term enhanced geothermal test begins in Utah | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-27 | [link](https://www.utilitydive.com/news/testing-of-long-term-enhanced-geothermal-production-begins-in-utah/828975/) |
+| 2026-08-27 | The U.S. is Building CHIPS Act Fabs but Neglecting R&D | IEEE Spectrum Semiconductors · AI Infrastructure | Infrastructure | tech | 2026-08-27 | [link](https://spectrum.ieee.org/chips-act-impact-semiconductor-manufacturing) |
+| 2026-08-27 | Data center load made up 9% of PJM wholesale costs so far in 2026: market monitor | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-27 | [link](https://www.utilitydive.com/news/data-center-load-pjm-wholesale-market/828917/) |
+| 2026-08-27 | The rise of metal fuels | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-27 | [link](https://www.latitudemedia.com/news/catalyst-the-rise-of-metal-fuels/) |
+| 2026-08-27 | Two Alleged ‘TeamPCP’ Hackers Arrested in Australia | Krebs on Security · Security & Privacy | Security | tech | 2026-08-27 | [link](https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/) |
+| 2026-08-27 | Panic Is Refunding Tariff Fees to Playdate Buyers | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-27 | [link](https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers) |
+| 2026-08-27 | Book Review: The Infinite Sadness of Small Appliances by Glenn Dixon ★★★★☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-27 | [link](https://shkspr.mobi/blog/2026/08/book-review-the-infinite-sadness-of-small-appliances-by-glenn-dixon/) |
+| 2026-08-27 | Literally me when claude codes | Reddit | Business | social | 2026-08-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vzl671/literally_me_when_claude_codes/) |
+| 2026-08-27 | Claude figured out what was wrong with my 4090 after years of no success and built a guard against t | Reddit | Business | social | 2026-08-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vzy4cg/claude_figured_out_what_was_wrong_with_my_4090/) |
+| 2026-08-27 | a new level of sass today lmao | Reddit | Business | social | 2026-08-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vzxt5a/a_new_level_of_sass_today_lmao/) |
+| 2026-08-27 | I think we’re starting to see the downside of everyone being able to build | Reddit | Business | social | 2026-08-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w047gy/i_think_were_starting_to_see_the_downside_of/) |
+| 2026-08-27 | So much chatter on X! Is it actually happening today? | Reddit | Business | social | 2026-08-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vzq8g2/so_much_chatter_on_x_is_it_actually_happening/) |
+| 2026-08-27 | Opus 5 sudden improvement? | Reddit | Business | social | 2026-08-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vzvtkl/opus_5_sudden_improvement/) |
+| 2026-08-27 | 6 months of vibe coding: what I wish I knew when I started | Reddit | Business | social | 2026-08-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vzxyi6/6_months_of_vibe_coding_what_i_wish_i_knew_when_i/) |
+| 2026-08-27 | Did Anthropic release Fable 5.1? | Reddit | Business | social | 2026-08-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w05cv6/did_anthropic_release_fable_51/) |
+| 2026-08-27 | what's the most pointless thing you've built with claude that you still use every day? | Reddit | Business | social | 2026-08-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vzrt6t/whats_the_most_pointless_thing_youve_built_with/) |
+| 2026-08-27 | Anthropic published an AI-native SDLC playbook. The interesting part isn't the six stages, it's what | Reddit | Business | social | 2026-08-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1vzl6kk/anthropic_published_an_ainative_sdlc_playbook_the/) |
+| 2026-08-27 | Opus 5 is insufferable | Reddit | Business | social | 2026-08-27 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vzi6wp/opus_5_is_insufferable/) |
+| 2026-08-27 | Ok? No one's stopping you... | Reddit | Business | social | 2026-08-27 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vzgbae/ok_no_ones_stopping_you/) |
+| 2026-08-27 | “Claude Max is massively subsidized and eventually it’ll cost $1000/month” is mostly nonsense | Reddit | Business | social | 2026-08-27 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w05cx3/claude_max_is_massively_subsidized_and_eventually/) |
+| 2026-08-27 | I didn't like CluadeCode's infographics capabilities, so I built a skill that can do that 🥳 | Reddit | Business | social | 2026-08-27 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vzsduv/i_didnt_like_cluadecodes_infographics/) |
+| 2026-08-27 | Did Claude usage suddenly get way more expensive? | Reddit | Business | social | 2026-08-27 | [link](https://www.reddit.com/r/ClaudeCode/comments/1vzucc8/did_claude_usage_suddenly_get_way_more_expensive/) |
+| 2026-08-27 | I made the ultimate scientific literature research plugin | Reddit | Business | social | 2026-08-27 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vzxsqt/i_made_the_ultimate_scientific_literature/) |
+| 2026-08-27 | Please share your published/public second brains for inspirations. | Reddit | Business | social | 2026-08-27 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w02e8m/please_share_your_publishedpublic_second_brains/) |
+| 2026-08-27 | Anyone using Obsidian + Anki together for spaced repetition? | Reddit | Business | social | 2026-08-27 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vzic42/anyone_using_obsidian_anki_together_for_spaced/) |
+| 2026-08-27 | Looking for one single plugin to organize tasks, calendar and life projects? | Reddit | Business | social | 2026-08-27 | [link](https://www.reddit.com/r/ObsidianMD/comments/1vzuyw0/looking_for_one_single_plugin_to_organize_tasks/) |
+| 2026-08-27 | I built a free Obsidian plugin for life management & gamification | Reddit | Business | social | 2026-08-27 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w068wq/i_built_a_free_obsidian_plugin_for_life/) |
+| 2026-08-27 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-26 | Nvidia agrees to acquire Hugging Face for $13B | HN | Technology | tech | 2026-08-26 | [link](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) |
 | 2026-08-26 | AWS Acquires DuckLabs | HN | Technology | tech | 2026-08-26 | [link](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws) |
 | 2026-08-26 | GLM-5.3-Flash | HN | Technology | tech | 2026-08-26 | [link](https://z.ai/blog/glm-5.3-flash) |

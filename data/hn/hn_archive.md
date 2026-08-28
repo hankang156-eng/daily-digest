@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-27 · 475 days · 4750 stories*
+*Last updated: 2026-08-28 · 476 days · 4760 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-27 | Thursday | 1 | Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache | 761 | 223 | Technology | [link](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) · [HN](https://news.ycombinator.com/item?id=49468083) |
+| 2026-08-27 | Thursday | 2 | Microduck | 660 | 213 | Technology | [link](https://pollen-robotics.com/microduck/) · [HN](https://news.ycombinator.com/item?id=49462763) |
+| 2026-08-27 | Thursday | 3 | Small Models Have Arrived | 641 | 292 | Technology | [link](https://calv.info/small-models-have-arrived) · [HN](https://news.ycombinator.com/item?id=49466917) |
+| 2026-08-27 | Thursday | 4 | 507 Mechanical Movements | 585 | 74 | Technology | [link](https://507movements.com/) · [HN](https://news.ycombinator.com/item?id=49465169) |
+| 2026-08-27 | Thursday | 5 | Show HN: The load-bearing vocabulary of Claude | 524 | 253 | Technology | [link](https://louisabraham.github.io/load-bearing/) · [HN](https://news.ycombinator.com/item?id=49461817) |
+| 2026-08-27 | Thursday | 6 | Trade (and Tariffs) | 512 | 245 | Technology | [link](https://xkcd.com/3290/) · [HN](https://news.ycombinator.com/item?id=49464896) |
+| 2026-08-27 | Thursday | 7 | Tell HN: PayPal blocks GrapheneOS | 485 | 312 | Technology | [link](https://news.ycombinator.com/item?id=49462253) · [HN](https://news.ycombinator.com/item?id=49462253) |
+| 2026-08-27 | Thursday | 8 | Gemini-3.5-Transcribe | 285 | 89 | Technology | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/) · [HN](https://news.ycombinator.com/item?id=49468818) |
+| 2026-08-27 | Thursday | 9 | Gemini Omni 1.1 Flash | 250 | 190 | Technology | [link](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/) · [HN](https://news.ycombinator.com/item?id=49467922) |
+| 2026-08-27 | Thursday | 10 | Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal | 246 | 112 | Technology | [link](https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html) · [HN](https://news.ycombinator.com/item?id=49473522) |
 | 2026-08-26 | Wednesday | 1 | Nvidia agrees to acquire Hugging Face for $13B | 1131 | 475 | Technology | [link](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) · [HN](https://news.ycombinator.com/item?id=49458161) |
 | 2026-08-26 | Wednesday | 2 | AWS Acquires DuckLabs | 1054 | 306 | Technology | [link](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws) · [HN](https://news.ycombinator.com/item?id=49448321) |
 | 2026-08-26 | Wednesday | 3 | GLM-5.3-Flash | 1031 | 518 | Technology | [link](https://z.ai/blog/glm-5.3-flash) · [HN](https://news.ycombinator.com/item?id=49449507) |
