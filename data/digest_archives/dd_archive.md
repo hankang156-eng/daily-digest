@@ -1,9 +1,68 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-28 · 6484 items*
+*Last updated: 2026-08-31 · 6543 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-30 | “I just chose words carefully” | HN | Technology | tech | 2026-08-30 | [link](https://unsung.aresluna.org/i-just-chose-words-carefully/) |
+| 2026-08-30 | Omarchy: Any User Process Can Escalate to Root | HN | Technology | tech | 2026-08-30 | [link](https://0xcc.io/posts/omarchy-root-creds/) |
+| 2026-08-30 | European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy | HN | Technology | tech | 2026-08-30 | [link](https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement) |
+| 2026-08-30 | Brits would quite like their private messages to stay private | HN | Technology | tech | 2026-08-30 | [link](https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994) |
+| 2026-08-30 | Haiku R1/beta6 has been released | HN | Technology | tech | 2026-08-30 | [link](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6) |
+| 2026-08-30 | Hacking IKEA Furniture | HN | Technology | tech | 2026-08-30 | [link](https://greenlightning.eu/diy/hacking-ikea-furniture/) |
+| 2026-08-30 | Europe's summer drought is so extreme that desertification is a growing threat | HN | Technology | tech | 2026-08-30 | [link](https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/) |
+| 2026-08-30 | No AI Fridays | HN | Technology | tech | 2026-08-30 | [link](https://noaifridays.com/) |
+| 2026-08-30 | METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack | HN | Technology | tech | 2026-08-30 | [link](https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/) |
+| 2026-08-30 | Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel | HN | Technology | tech | 2026-08-30 | [link](https://www.qubes-os.org/news/2026/08/29/qsb-118/) |
+| 2026-08-30 | Longest Straight Line Paths on Water or Land on the Earth (2018) | HN | Technology | tech | 2026-08-30 | [link](https://arxiv.org/abs/1804.07389) |
+| 2026-08-30 | Claude Session URL appended to commit messages and PR descriptions by default | HN | Technology | tech | 2026-08-30 | [link](https://github.com/anthropics/claude-code/issues/66504) |
+| 2026-08-30 | Understanding ChatGPT Work | HN | Technology | tech | 2026-08-30 | [link](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) |
+| 2026-08-30 | Coordination Headwind: How Organizations Are Like Slime Molds | HN | Technology | tech | 2026-08-30 | [link](https://komoroske.com/slime-mold/) |
+| 2026-08-30 | Startup Anti-Patterns | HN | Technology | tech | 2026-08-30 | [link](https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/) |
+| 2026-08-30 | The world may have less time than it thinks on climate change | HN | Technology | tech | 2026-08-30 | [link](https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change) |
+| 2026-08-30 | How Flock Cameras Took Over America | NYT · AI | AI | news | 2026-08-31 | [link](https://www.nytimes.com/2026/08/31/podcasts/the-daily/flock-cameras-surveillance-america.html) |
+| 2026-08-30 | Prediction Markets and States Clashed, Setting Off a Furious Political Battle | NYT · Technology | Technology | news | 2026-08-30 | [link](https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html) |
+| 2026-08-30 | Pennsylvania’s A.I. Gold Rush Meets Second Thoughts | NYT · AI | AI | news | 2026-08-31 | [link](https://www.nytimes.com/2026/08/31/business/pennsylvanias-ai-gold-rush-meets-second-thoughts.html) |
+| 2026-08-30 | What if the A.I. Stock Market Rally Is Just Getting Started? | NYT · AI | AI | news | 2026-08-28 | [link](https://www.nytimes.com/2026/08/28/business/ai-stock-market-bull-rally.html) |
+| 2026-08-30 | Americans Hate Data Centers. Why? | NYT · AI | AI | opinion | 2026-08-31 | [link](https://www.nytimes.com/2026/08/31/opinion/data-centers-ai-populism.html) |
+| 2026-08-30 | U.S. Start-Up Partners With Saudi Arabia for Data Center | NYT · AI | AI | news | 2026-08-31 | [link](https://www.nytimes.com/2026/08/31/business/dealbook/together-ai-humain-saudi-arabia-data-center.html) |
+| 2026-08-30 | A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs | NYT · Business | Business | news | 2026-08-31 | [link](https://www.nytimes.com/2026/08/31/business/pancreatic-cancer-drug-prices.html) |
+| 2026-08-30 | China Sees Opportunity in America’s Recent A.I. Security Scares | NYT · AI | AI | news | 2026-08-28 | [link](https://www.nytimes.com/2026/08/28/business/china-artificial-intelligence-zai.html) |
+| 2026-08-30 | Prediction Markets Should Be Regulated as Gambling, Appeals Court Says | NYT · Technology | Technology | news | 2026-08-28 | [link](https://www.nytimes.com/2026/08/28/technology/kalshi-prediction-markets-federal-courts.html) |
+| 2026-08-30 | High Debt and Rising Prices Catch Up to Trump, as Midterms Near | NYT · Business | Business | news | 2026-08-29 | [link](https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html) |
+| 2026-08-30 | Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit | NYT · AI | AI | news | 2026-08-27 | [link](https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html) |
+| 2026-08-30 | Trump Shuns E.V.s and Wind Power, But He’s Pouring Billions Into Batteries | NYT · Energy & Environment | Energy & Environment | news | 2026-08-24 | [link](https://www.nytimes.com/2026/08/24/climate/trump-administration-batteries-data-centers.html) |
+| 2026-08-30 | Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails | NYT · AI | AI | news | 2026-08-25 | [link](https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html) |
+| 2026-08-30 | Trump Administration’s Blacklisting of Anthropic Was Illegal, Judge Rules | NYT · Technology | Technology | news | 2026-08-28 | [link](https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html) |
+| 2026-08-30 | How a ’70s Improv Book Became Silicon Valley’s Required Reading | NYT · AI | AI | opinion | 2026-08-30 | [link](https://www.nytimes.com/2026/08/30/opinion/silicon-valley-theater-improv.html) |
+| 2026-08-30 | Trump Says Venezuelan Oil Will Refill U.S. Stockpiles, but It’s Not So Simple | NYT · Politics | Politics | news | 2026-08-30 | [link](https://www.nytimes.com/2026/08/30/us/politics/trump-venezuela-oil-us-reserves.html) |
+| 2026-08-30 | Trump’s Venezuelan Oil Deal Relies on a Powerful and Divisive Partner | NYT · Energy & Environment | Energy & Environment | news | 2026-08-29 | [link](https://www.nytimes.com/2026/08/29/business/energy-environment/venezuela-alejandro-betancourt-oil-trump.html) |
+| 2026-08-30 | Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated. | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html) |
+| 2026-08-30 | The A.I. Debt Binge Is Endangering the Economy | NYT · Opinion | Opinion | opinion | 2026-08-28 | [link](https://www.nytimes.com/2026/08/26/opinion/ai-debt-economy-hyperscalers.html) |
+| 2026-08-30 | Meta Shifts the Blame + Do Data Center Bans Work? + The Final HatGPT | NYT · AI | AI | news | 2026-08-28 | [link](https://www.nytimes.com/2026/08/28/podcasts/hardfork-meta-settlement.html) |
+| 2026-08-30 | Finalist 4 | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-08-30 | [link](https://www.finalist.works/?utm_source=df-aug-2026) |
+| 2026-08-30 | ActivityBot is the recipient of an NLnet grant! | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-30 | [link](https://shkspr.mobi/blog/2026/08/activitybot-is-the-recipient-of-an-nlnet-grant/) |
+| 2026-08-30 | I have been working on quantum computing with Fable 5. | Reddit | Business | social | 2026-08-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w2xapb/i_have_been_working_on_quantum_computing_with/) |
+| 2026-08-30 | Those were the days | Reddit | Business | social | 2026-08-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w2nl6j/those_were_the_days/) |
+| 2026-08-30 | All leaks and news about Fable, Opus and sometimes Sonnet, what about Haiku? Do you use it? what is  | Reddit | Business | social | 2026-08-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w2t9x1/all_leaks_and_news_about_fable_opus_and_sometimes/) |
+| 2026-08-30 | What’s a good useful MCP you connected to that brings you real value? | Reddit | Business | social | 2026-08-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w2grux/whats_a_good_useful_mcp_you_connected_to_that/) |
+| 2026-08-30 | Claude Code is silently adding session URLs (claude.ai/code/session_...) to the bottom of every sing | Reddit | Business | social | 2026-08-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w2omfu/claude_code_is_silently_adding_session_urls/) |
+| 2026-08-30 | What's the dumbest thing you use AI for? | Reddit | Business | social | 2026-08-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w2jtq8/whats_the_dumbest_thing_you_use_ai_for/) |
+| 2026-08-30 | Claude just throwing unrelated words in a ban appeal discussion | Reddit | Business | social | 2026-08-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w25bat/claude_just_throwing_unrelated_words_in_a_ban/) |
+| 2026-08-30 | Claude rude/unhelpful | Reddit | Business | social | 2026-08-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w22zj1/claude_rudeunhelpful/) |
+| 2026-08-30 | Does Opus 5 verbosity affect its real world coding capacities as compared to Fable | Reddit | Business | social | 2026-08-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w22dy7/does_opus_5_verbosity_affect_its_real_world/) |
+| 2026-08-30 | Check your default organisation spend limit as a Max User. | Reddit | Business | social | 2026-08-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w2k6jh/check_your_default_organisation_spend_limit_as_a/) |
+| 2026-08-30 | Tip: Instantly save 10k tokens on every new session | Reddit | Business | social | 2026-08-30 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w2ja43/tip_instantly_save_10k_tokens_on_every_new_session/) |
+| 2026-08-30 | Anthropic has no idea what a regular subscription is like when they get infinite tokens | Reddit | Business | social | 2026-08-30 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w2aq4q/anthropic_has_no_idea_what_a_regular_subscription/) |
+| 2026-08-30 | All leaks and news about Fable, Opus and sometimes Sonnet, what about Haiku? Do you use it? what is  | Reddit | Business | social | 2026-08-30 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w2teg1/all_leaks_and_news_about_fable_opus_and_sometimes/) |
+| 2026-08-30 | Having Fable cut down on Opus 5's comment paragraphs is so satisfying | Reddit | Business | social | 2026-08-30 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w224cg/having_fable_cut_down_on_opus_5s_comment/) |
+| 2026-08-30 | what are people using to keep multiple claude code sessions organized? | Reddit | Business | social | 2026-08-30 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w2ezng/what_are_people_using_to_keep_multiple_claude/) |
+| 2026-08-30 | I tried different ways to sync Obsidian, and GitHub ended up being the simplest | Reddit | Business | social | 2026-08-30 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w26ta3/i_tried_different_ways_to_sync_obsidian_and/) |
+| 2026-08-30 | My startup config, after restarting it after a few months | Reddit | Business | social | 2026-08-30 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w24128/my_startup_config_after_restarting_it_after_a_few/) |
+| 2026-08-30 | I made a plugin that turns a pasted YouTube link into an embedded player | Reddit | Business | social | 2026-08-30 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w2k9lc/i_made_a_plugin_that_turns_a_pasted_youtube_link/) |
+| 2026-08-30 | Horizontal timeline for world building | Reddit | Business | social | 2026-08-30 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w2hlla/horizontal_timeline_for_world_building/) |
+| 2026-08-30 | Missing arrow and border in the canvas | Reddit | Business | social | 2026-08-30 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w2mjxp/missing_arrow_and_border_in_the_canvas/) |
+| 2026-08-30 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-27 | Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache | HN | Technology | tech | 2026-08-27 | [link](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) |
 | 2026-08-27 | Microduck | HN | Technology | tech | 2026-08-27 | [link](https://pollen-robotics.com/microduck/) |
 | 2026-08-27 | Small Models Have Arrived | HN | Technology | tech | 2026-08-27 | [link](https://calv.info/small-models-have-arrived) |

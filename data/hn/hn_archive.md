@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-28 · 476 days · 4760 stories*
+*Last updated: 2026-08-31 · 477 days · 4770 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-30 | Sunday | 1 | “I just chose words carefully” | 802 | 206 | Technology | [link](https://unsung.aresluna.org/i-just-chose-words-carefully/) · [HN](https://news.ycombinator.com/item?id=49503601) |
+| 2026-08-30 | Sunday | 2 | Omarchy: Any User Process Can Escalate to Root | 497 | 494 | Technology | [link](https://0xcc.io/posts/omarchy-root-creds/) · [HN](https://news.ycombinator.com/item?id=49499854) |
+| 2026-08-30 | Sunday | 3 | European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy | 425 | 176 | Technology | [link](https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement) · [HN](https://news.ycombinator.com/item?id=49499394) |
+| 2026-08-30 | Sunday | 4 | Brits would quite like their private messages to stay private | 338 | 275 | Technology | [link](https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994) · [HN](https://news.ycombinator.com/item?id=49497063) |
+| 2026-08-30 | Sunday | 5 | Haiku R1/beta6 has been released | 324 | 91 | Technology | [link](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6) · [HN](https://news.ycombinator.com/item?id=49499867) |
+| 2026-08-30 | Sunday | 6 | Hacking IKEA Furniture | 323 | 230 | Technology | [link](https://greenlightning.eu/diy/hacking-ikea-furniture/) · [HN](https://news.ycombinator.com/item?id=49497810) |
+| 2026-08-30 | Sunday | 7 | Europe's summer drought is so extreme that desertification is a growing threat | 310 | 369 | Technology | [link](https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/) · [HN](https://news.ycombinator.com/item?id=49498978) |
+| 2026-08-30 | Sunday | 8 | No AI Fridays | 273 | 192 | Technology | [link](https://noaifridays.com/) · [HN](https://news.ycombinator.com/item?id=49498095) |
+| 2026-08-30 | Sunday | 9 | METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack | 249 | 200 | Technology | [link](https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/) · [HN](https://news.ycombinator.com/item?id=49498787) |
+| 2026-08-30 | Sunday | 10 | Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel | 237 | 94 | Technology | [link](https://www.qubes-os.org/news/2026/08/29/qsb-118/) · [HN](https://news.ycombinator.com/item?id=49496918) |
 | 2026-08-27 | Thursday | 1 | Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache | 761 | 223 | Technology | [link](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) · [HN](https://news.ycombinator.com/item?id=49468083) |
 | 2026-08-27 | Thursday | 2 | Microduck | 660 | 213 | Technology | [link](https://pollen-robotics.com/microduck/) · [HN](https://news.ycombinator.com/item?id=49462763) |
 | 2026-08-27 | Thursday | 3 | Small Models Have Arrived | 641 | 292 | Technology | [link](https://calv.info/small-models-have-arrived) · [HN](https://news.ycombinator.com/item?id=49466917) |
