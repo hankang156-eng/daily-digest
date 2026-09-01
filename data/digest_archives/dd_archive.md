@@ -1,9 +1,75 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-08-31 · 6543 items*
+*Last updated: 2026-09-01 · 6609 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-08-31 | Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO | HN | Technology | tech | 2026-08-31 | [link](https://webiterate.dev/google-removed-extensions-ublock-origin-108/) |
+| 2026-08-31 | Playa Phone | HN | Technology | tech | 2026-08-31 | [link](https://playaphone.com/) |
+| 2026-08-31 | OpenShot 4.0 – Open-source video editor | HN | Technology | tech | 2026-08-31 | [link](https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/) |
+| 2026-08-31 | I turned my security cameras into an automatic bird identification system | HN | Technology | tech | 2026-08-31 | [link](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/) |
+| 2026-08-31 | Apple caught off guard by AI demand for Mac Mini and Mac Studio | HN | Technology | tech | 2026-08-31 | [link](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/) |
+| 2026-08-31 | Fastpotify | HN | Technology | tech | 2026-08-31 | [link](https://fastpotify.rocks/) |
+| 2026-08-31 | A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history | HN | Technology | tech | 2026-08-31 | [link](https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/) |
+| 2026-08-31 | Breaking Claude Code Opus 5 Auto Mode | HN | Technology | tech | 2026-08-31 | [link](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/) |
+| 2026-08-31 | I think the military commissary's freezers were hacked | HN | Technology | tech | 2026-08-31 | [link](https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary) |
+| 2026-08-31 | A walkable ASCII cyberpunk city in one HTML file [video] | HN | Technology | tech | 2026-08-31 | [link](https://www.youtube.com/watch?v=3YtygAx_C6A) |
+| 2026-08-31 | Evidence of Fraud in an Influential Study About Procrastination | HN | Technology | tech | 2026-08-31 | [link](https://datacolada.org/138) |
+| 2026-08-31 | GPU World | HN | Technology | tech | 2026-08-31 | [link](https://www.gpuworld.org/) |
+| 2026-08-31 | Run macOS Software on Linux | HN | Technology | tech | 2026-08-31 | [link](https://www.darlinghq.org/) |
+| 2026-08-31 | ChatGPT Work Tool and Skill Reference | HN | Technology | tech | 2026-08-31 | [link](https://codex-tool-reference.simonw.chatgpt.site/) |
+| 2026-08-31 | uv: Deduplicate all files in the wheel cache | HN | Technology | tech | 2026-08-31 | [link](https://github.com/astral-sh/uv/pull/21327) |
+| 2026-08-31 | RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source | HN | Technology | tech | 2026-08-31 | [link](https://ravynos.com/) |
+| 2026-08-31 | How Flock Cameras Took Over America | NYT · AI | AI | news | 2026-09-01 | [link](https://www.nytimes.com/2026/08/31/podcasts/the-daily/flock-cameras-surveillance-america.html) |
+| 2026-08-31 | Trump Mocks Data-Center Opponents as Wanting to Stay ‘Backwards and Poor’ | NYT · AI | AI | news | 2026-08-31 | [link](https://www.nytimes.com/2026/08/31/us/politics/trump-data-centers.html) |
+| 2026-08-31 | Donald Trump Jr.’s Firm Leads $1 Billion Funding Round for Polymarket | NYT · Business | Business | news | 2026-09-01 | [link](https://www.nytimes.com/2026/08/31/business/polymarket-funding-trump.html) |
+| 2026-08-31 | High Debt and Rising Prices Catch Up to Trump, as Midterms Near | NYT · Business | Business | news | 2026-08-31 | [link](https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html) |
+| 2026-08-31 | John Ternus Replaces Tim Cook as Apple CEO | NYT · AI | AI | news | 2026-09-01 | [link](https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html) |
+| 2026-08-31 | Americans Hate Data Centers. Why? | NYT · AI | AI | opinion | 2026-08-31 | [link](https://www.nytimes.com/2026/08/31/opinion/data-centers-ai-populism.html) |
+| 2026-08-31 | U.S. Start-Up and Saudi Arabia Form Data Center Partnership | NYT · AI | AI | news | 2026-08-31 | [link](https://www.nytimes.com/2026/08/31/business/dealbook/together-ai-humain-saudi-arabia-data-center.html) |
+| 2026-08-31 | Pennsylvania’s A.I. Gold Rush Meets Second Thoughts | NYT · AI | AI | news | 2026-08-31 | [link](https://www.nytimes.com/2026/08/31/climate/pennsylvanias-ai-gold-rush-meets-second-thoughts.html) |
+| 2026-08-31 | A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs | NYT · Business | Business | news | 2026-08-31 | [link](https://www.nytimes.com/2026/08/31/business/pancreatic-cancer-drug-prices.html) |
+| 2026-08-31 | Kalshi Permanently Bars George Santos From the Platform | NYT · Business | Business | news | 2026-08-31 | [link](https://www.nytimes.com/2026/08/31/business/kalshi-bans-george-santos.html) |
+| 2026-08-31 | Private Equity Wants to Invest in College Sports. Some Schools Are Wary. | NYT · Business | Business | news | 2026-08-31 | [link](https://www.nytimes.com/2026/08/31/business/private-equity-college-sports.html) |
+| 2026-08-31 | Trump’s Venezuelan Oil Deal Relies on a Powerful and Divisive Partner | NYT · Energy & Environment | Energy & Environment | news | 2026-08-31 | [link](https://www.nytimes.com/2026/08/29/business/energy-environment/venezuela-alejandro-betancourt-oil-trump.html) |
+| 2026-08-31 | Prediction Markets and States Clashed, Setting Off a Furious Political Battle | NYT · Technology | Technology | news | 2026-08-30 | [link](https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html) |
+| 2026-08-31 | Study A.I. Consciousness? The Bots Would Like a Word With You. | NYT · AI | AI | news | 2026-09-01 | [link](https://www.nytimes.com/2026/08/31/science/ai-consciousness-agents-email.html) |
+| 2026-08-31 | Trump Shuns E.V.s and Wind Power, But He’s Pouring Billions Into Batteries | NYT · Energy & Environment | Energy & Environment | news | 2026-08-24 | [link](https://www.nytimes.com/2026/08/24/climate/trump-administration-batteries-data-centers.html) |
+| 2026-08-31 | How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump | NYT · Business | Business | news | 2026-09-01 | [link](https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html) |
+| 2026-08-31 | How a ’70s Improv Book Became Silicon Valley’s Required Reading | NYT · AI | AI | opinion | 2026-08-31 | [link](https://www.nytimes.com/2026/08/30/opinion/silicon-valley-theater-improv.html) |
+| 2026-08-31 | Supreme Court Allows Trump’s White House Ballroom Construction | NYT · Politics | Politics | news | 2026-08-31 | [link](https://www.nytimes.com/2026/08/31/us/politics/supreme-court-trump-ballroom.html) |
+| 2026-08-31 | Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated. | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html) |
+| 2026-08-31 | Trump vs. the Bond Market | NYT · Opinion | Opinion | opinion | 2026-08-31 | [link](https://www.nytimes.com/2026/08/28/opinion/ezra-klein-podcast-robin-wigglesworth.html) |
+| 2026-08-31 | The First Battery Was Inspired By a Dead Frog | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-08-31 | [link](https://spectrum.ieee.org/voltaic-pile-first-battery) |
+| 2026-08-31 | PJM drops Oklo advanced nuclear project from interconnection study cycle | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-31 | [link](https://www.utilitydive.com/news/pjm-oklo-advanced-nuclear-ferc-interconnection/829150/) |
+| 2026-08-31 | The E.U.’s AI Drive Undermines Its ​Own Chip Strategy | IEEE Spectrum Semiconductors · AI Infrastructure | Infrastructure | tech | 2026-08-31 | [link](https://spectrum.ieee.org/europes-ai-drive) |
+| 2026-08-31 | The rules of data center development are evolving. Is your strategy? | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-08-31 | [link](https://www.utilitydive.com/spons/the-rules-of-data-center-development-are-evolving-is-your-strategy-1/828795/) |
+| 2026-08-31 | The great home battery financing experiment | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-08-31 | [link](https://www.latitudemedia.com/news/the-great-home-battery-financing-experiment/) |
+| 2026-08-31 | Unlocking the potential of existing assets | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-08-31 | [link](https://www.datacenterdynamics.com/en/opinions/unlocking-the-potential-of-existing-assets/) |
+| 2026-08-31 | Introducing wrapture | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-31 | [link](https://simonwillison.net/2026/Aug/31/introducing-wrapture/) |
+| 2026-08-31 | Review: Ruined Theatre's A Midsummer Night's Dream ★★★★☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-08-31 | [link](https://shkspr.mobi/blog/2026/08/review-ruined-theatres-a-midsummer-nights-dream/) |
+| 2026-08-31 | Quoting Andrew Digby | Simon Willison · Tech & Engineering | Technology | tech | 2026-08-31 | [link](https://simonwillison.net/2026/Aug/31/andrew-digby/) |
+| 2026-08-31 | This Claude's response made me think about our relationship with smartphones. | Reddit | Business | social | 2026-08-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w3g17r/this_claudes_response_made_me_think_about_our/) |
+| 2026-08-31 | Feds quietly sold a seized Anthropic stake from former FTX executives that could be worth up to $5 b | Reddit | Business | social | 2026-08-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w38vay/feds_quietly_sold_a_seized_anthropic_stake_from/) |
+| 2026-08-31 | The complaints I see every hour here and on Twitter | Reddit | Business | social | 2026-08-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w2z3h6/the_complaints_i_see_every_hour_here_and_on/) |
+| 2026-08-31 | Week 5 of making my fishing game entirely with AI | Reddit | Business | social | 2026-08-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w3oha6/week_5_of_making_my_fishing_game_entirely_with_ai/) |
+| 2026-08-31 | Is the "20x Pro limits" claim on the Max plan actually 10x? | Reddit | Business | social | 2026-08-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w363of/is_the_20x_pro_limits_claim_on_the_max_plan/) |
+| 2026-08-31 | I was wrong about Claude’s UI skills | Reddit | Business | social | 2026-08-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w3jydv/i_was_wrong_about_claudes_ui_skills/) |
+| 2026-08-31 | Claude started pirating PREY from Fitgirl while I wasnt looking 😆 | Reddit | Business | social | 2026-08-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w3i0yv/claude_started_pirating_prey_from_fitgirl_while_i/) |
+| 2026-08-31 | I replaced $60/season of Fantasy Football draft tools with one Claude project | Reddit | Business | social | 2026-08-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w3d7b1/i_replaced_60season_of_fantasy_football_draft/) |
+| 2026-08-31 | Reminder: Can you still use Opus 4.6 with 1M context in Claude Code | Reddit | Business | social | 2026-08-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w2z2rx/reminder_can_you_still_use_opus_46_with_1m/) |
+| 2026-08-31 | I posted 3 days ago about a Claude UI bug that showed I was using Opus when it was draining Fable us | Reddit | Business | social | 2026-08-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w3pfdc/i_posted_3_days_ago_about_a_claude_ui_bug_that/) |
+| 2026-08-31 | Claude Max “20x” only applies to the 5-hour window. Weekly usage on the $200 plan is 2x the $100 pla | Reddit | Business | social | 2026-08-31 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w38v98/claude_max_20x_only_applies_to_the_5hour_window/) |
+| 2026-08-31 | Anthropic extended the 50% offer again, guess I am canceling my $20 subscription | Reddit | Business | social | 2026-08-31 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w325v6/anthropic_extended_the_50_offer_again_guess_i_am/) |
+| 2026-08-31 | Just cancelled my Claude Code Bullshit 20x Plan | Reddit | Business | social | 2026-08-31 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w3lw7f/just_cancelled_my_claude_code_bullshit_20x_plan/) |
+| 2026-08-31 | Average Opus 5 response | Reddit | Business | social | 2026-08-31 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w3rxkj/average_opus_5_response/) |
+| 2026-08-31 | How do Chinese AI companies like DeepSeek have so much compute/capacity compared to US giants, or is | Reddit | Business | social | 2026-08-31 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w34r8n/how_do_chinese_ai_companies_like_deepseek_have_so/) |
+| 2026-08-31 | Project Manager v2: We’re dotpm now. Here’s what’s new | Reddit | Business | social | 2026-08-31 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w3i0sl/project_manager_v2_were_dotpm_now_heres_whats_new/) |
+| 2026-08-31 | I also use Obsidian as a KJV bible | Reddit | Business | social | 2026-08-31 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w3dq59/i_also_use_obsidian_as_a_kjv_bible/) |
+| 2026-08-31 | How Do I Recreate This? | Reddit | Business | social | 2026-08-31 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w324rr/how_do_i_recreate_this/) |
+| 2026-08-31 | What do you use for turning your Vaults into static websites? | Reddit | Business | social | 2026-08-31 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w302u9/what_do_you_use_for_turning_your_vaults_into/) |
+| 2026-08-31 | Number of Notes Before it Breaks? | Reddit | Business | social | 2026-08-31 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w3nlwf/number_of_notes_before_it_breaks/) |
+| 2026-08-31 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-30 | “I just chose words carefully” | HN | Technology | tech | 2026-08-30 | [link](https://unsung.aresluna.org/i-just-chose-words-carefully/) |
 | 2026-08-30 | Omarchy: Any User Process Can Escalate to Root | HN | Technology | tech | 2026-08-30 | [link](https://0xcc.io/posts/omarchy-root-creds/) |
 | 2026-08-30 | European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy | HN | Technology | tech | 2026-08-30 | [link](https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement) |

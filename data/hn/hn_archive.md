@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-08-31 · 477 days · 4770 stories*
+*Last updated: 2026-09-01 · 478 days · 4780 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-08-31 | Monday | 1 | Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO | 679 | 524 | Technology | [link](https://webiterate.dev/google-removed-extensions-ublock-origin-108/) · [HN](https://news.ycombinator.com/item?id=49514878) |
+| 2026-08-31 | Monday | 2 | Playa Phone | 633 | 210 | Technology | [link](https://playaphone.com/) · [HN](https://news.ycombinator.com/item?id=49510514) |
+| 2026-08-31 | Monday | 3 | OpenShot 4.0 – Open-source video editor | 564 | 132 | Technology | [link](https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/) · [HN](https://news.ycombinator.com/item?id=49507822) |
+| 2026-08-31 | Monday | 4 | I turned my security cameras into an automatic bird identification system | 503 | 121 | Technology | [link](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/) · [HN](https://news.ycombinator.com/item?id=49511856) |
+| 2026-08-31 | Monday | 5 | Apple caught off guard by AI demand for Mac Mini and Mac Studio | 411 | 455 | Technology | [link](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/) · [HN](https://news.ycombinator.com/item?id=49508982) |
+| 2026-08-31 | Monday | 6 | Fastpotify | 394 | 205 | Technology | [link](https://fastpotify.rocks/) · [HN](https://news.ycombinator.com/item?id=49517448) |
+| 2026-08-31 | Monday | 7 | A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history | 375 | 83 | Technology | [link](https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/) · [HN](https://news.ycombinator.com/item?id=49506182) |
+| 2026-08-31 | Monday | 8 | Breaking Claude Code Opus 5 Auto Mode | 370 | 116 | Technology | [link](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/) · [HN](https://news.ycombinator.com/item?id=49506819) |
+| 2026-08-31 | Monday | 9 | I think the military commissary's freezers were hacked | 345 | 195 | Technology | [link](https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary) · [HN](https://news.ycombinator.com/item?id=49508506) |
+| 2026-08-31 | Monday | 10 | A walkable ASCII cyberpunk city in one HTML file [video] | 328 | 40 | Technology | [link](https://www.youtube.com/watch?v=3YtygAx_C6A) · [HN](https://news.ycombinator.com/item?id=49512975) |
 | 2026-08-30 | Sunday | 1 | “I just chose words carefully” | 802 | 206 | Technology | [link](https://unsung.aresluna.org/i-just-chose-words-carefully/) · [HN](https://news.ycombinator.com/item?id=49503601) |
 | 2026-08-30 | Sunday | 2 | Omarchy: Any User Process Can Escalate to Root | 497 | 494 | Technology | [link](https://0xcc.io/posts/omarchy-root-creds/) · [HN](https://news.ycombinator.com/item?id=49499854) |
 | 2026-08-30 | Sunday | 3 | European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy | 425 | 176 | Technology | [link](https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement) · [HN](https://news.ycombinator.com/item?id=49499394) |
