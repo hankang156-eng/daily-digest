@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-01 · 6609 items*
+*Last updated: 2026-09-02 · 6672 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-01 | Claude Fable 5.1 and Claude Mythos 5.1 | HN | Technology | tech | 2026-09-01 | [link](https://www.anthropic.com/claude-fable-and-mythos-5-1) |
+| 2026-09-01 | AnkiDroid: Google Play no longer allowing Open Collective donation link | HN | Technology | tech | 2026-09-01 | [link](https://github.com/ankidroid/Anki-Android/issues/21656) |
+| 2026-09-01 | Hang on to Your Firefox | HN | Technology | tech | 2026-09-01 | [link](https://www.newsonaut.com/articles/hang-on-to-your-firefox) |
+| 2026-09-01 | How accurate have Ed Zitron's AI skeptic predictions been? | HN | Technology | tech | 2026-09-01 | [link](https://danluu.com/zitron/) |
+| 2026-09-01 | I trained a small transformer in 1.5hrs and it beats many LLMs | HN | Technology | tech | 2026-09-01 | [link](https://mvakde.github.io/blog/44-on-arc-1/) |
+| 2026-09-01 | Play Store blocks AuroraStore, hurting GrapheneOS users | HN | Technology | tech | 2026-09-01 | [link](https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566) |
+| 2026-09-01 | Introducing Ad Blocker for Firefox on iOS | HN | Technology | tech | 2026-09-01 | [link](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/) |
+| 2026-09-01 | The ChatGPT/Codex app bundles a full copy of LibreOffice | HN | Technology | tech | 2026-09-01 | [link](https://simonwillison.net/2026/Sep/1/codex-libreoffice/) |
+| 2026-09-01 | Ambient CSS v3 – Blender meets CSS | HN | Technology | tech | 2026-09-01 | [link](https://ambientcss.vercel.app/) |
+| 2026-09-01 | Movie Scene Map – 13,312 films, series, games, anime and manga | HN | Technology | tech | 2026-09-01 | [link](https://moviescenemap.com/) |
+| 2026-09-01 | The creator of Jujutsu has joined ERSC | HN | Technology | tech | 2026-09-01 | [link](https://ersc.io/blog/martin-joins-ersc) |
+| 2026-09-01 | True Rate of Unemployment | HN | Technology | tech | 2026-09-01 | [link](https://www.lisep.org/tru) |
+| 2026-09-01 | Dwarf Fortress' creator says the industry's in shambles over AI | HN | Technology | tech | 2026-09-01 | [link](https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/) |
+| 2026-09-01 | Atlas: A World Model for Spatial Intelligence | HN | Technology | tech | 2026-09-01 | [link](https://www.worldlabs.ai/blog/atlas) |
+| 2026-09-01 | FBI Probes Service Selling 153M+ Drivers Licenses | HN | Technology | tech | 2026-09-01 | [link](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/) |
+| 2026-09-01 | Ask HN: Who is hiring? (September 2026) | HN | Technology | tech | 2026-09-01 | [link](https://news.ycombinator.com/item?id=49522897) |
+| 2026-09-01 | Jason Isbell and Others Say Suno’s A.I. Imitates Their Voices | NYT · AI | AI | news | 2026-09-01 | [link](https://www.nytimes.com/2026/09/01/arts/music/jason-isbell-suno-ai-lawsuit.html) |
+| 2026-09-01 | A.I. Is to Be Banned in N.Y.C. Elementary and Middle Schools | NYT · AI | AI | news | 2026-09-02 | [link](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html) |
+| 2026-09-01 | How Flock Cameras Took Over America | NYT · AI | AI | news | 2026-09-01 | [link](https://www.nytimes.com/2026/08/31/podcasts/the-daily/flock-cameras-surveillance-america.html) |
+| 2026-09-01 | Donald Trump Jr.’s Firm Leads $1 Billion Funding Round for Polymarket | NYT · Business | Business | news | 2026-09-01 | [link](https://www.nytimes.com/2026/08/31/business/polymarket-funding-trump.html) |
+| 2026-09-01 | John Ternus Replaces Tim Cook as Apple CEO | NYT · AI | AI | news | 2026-09-01 | [link](https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html) |
+| 2026-09-01 | New York Climate ‘Superfund’ Law Falls in Court | NYT · Energy & Environment | Energy & Environment | news | 2026-09-01 | [link](https://www.nytimes.com/2026/09/01/climate/new-york-climate-superfund-law.html) |
+| 2026-09-01 | Who Approves Trump’s Washington Makeover Projects? | NYT · Politics | Politics | news | 2026-09-02 | [link](https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html) |
+| 2026-09-01 | Global Bond Rates Are Rising. What Should You Do Now? | NYT · Business | Business | news | 2026-09-02 | [link](https://www.nytimes.com/2026/09/02/business/bond-rates-retirement-401k.html) |
+| 2026-09-01 | What to Know About Venezuelan Energy Following Trump’s Oil Deal | NYT · Energy & Environment | Energy & Environment | news | 2026-09-01 | [link](https://www.nytimes.com/2026/09/01/business/energy-environment/venezuela-oil-trump-deal.html) |
+| 2026-09-01 | After the Earthquake, They Used A.I. to Mobilize Aid | NYT · AI | AI | news | 2026-09-02 | [link](https://www.nytimes.com/2026/09/02/world/americas/colombia-earthquake-ai-aid-app.html) |
+| 2026-09-01 | Bill Simmons’s Co-Hosts Are Tired of His A.I. Antics | NYT · AI | AI | news | 2026-09-02 | [link](https://www.nytimes.com/2026/09/01/business/media/bill-simmons-chat-gpt-open-ai-roger-ebert.html) |
+| 2026-09-01 | A Data Center Backlash | NYT · AI | AI | news | 2026-09-01 | [link](https://www.nytimes.com/2026/09/01/climate/climate-forward-data-center-backlash.html) |
+| 2026-09-01 | Bond Sell-Off Threatens to Squeeze Borrowers Around the World | NYT · Business | Business | news | 2026-09-02 | [link](https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html) |
+| 2026-09-01 | High Debt and Rising Prices Catch Up to Trump, as Midterms Near | NYT · Business | Business | news | 2026-08-31 | [link](https://www.nytimes.com/2026/08/29/us/politics/trump-economy-inflation.html) |
+| 2026-09-01 | Trump Shuns E.V.s and Wind Power, But He’s Pouring Billions Into Batteries | NYT · Energy & Environment | Energy & Environment | news | 2026-08-24 | [link](https://www.nytimes.com/2026/08/24/climate/trump-administration-batteries-data-centers.html) |
+| 2026-09-01 | Justice Department Sues Kansas City Schools Over Gender Policy | NYT · Politics | Politics | news | 2026-09-01 | [link](https://www.nytimes.com/2026/09/01/us/politics/transgender-kansas-doj-lawsuit.html) |
+| 2026-09-01 | Satsuki Katayama, the Woman at the Center of Japan’s Currency Fight | NYT · Business | Business | news | 2026-09-01 | [link](https://www.nytimes.com/2026/09/01/business/japan-finance-minister-yen.html) |
+| 2026-09-01 | Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize? | NYT · Politics | Politics | news | 2026-09-02 | [link](https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html) |
+| 2026-09-01 | Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated. | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html) |
+| 2026-09-01 | Americans Hate Data Centers. Why? | NYT · Opinion | Opinion | opinion | 2026-09-01 | [link](https://www.nytimes.com/2026/08/31/opinion/data-centers-ai-populism.html) |
+| 2026-09-01 | Infleqtion supplies Japanese research team with QPU for neutral-atom quantum computer | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-01 | [link](https://www.datacenterdynamics.com/en/news/infleqtion-supplies-japanese-research-team-with-qpu-for-neutral-atom-quantum-computer/) |
+| 2026-09-01 | 2026 Global Data Center Market Report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-01 | [link](https://www.datacenterdynamics.com/en/whitepapers/2026-global-data-center-market-report/) |
+| 2026-09-01 | How the AI boom has impacted US battery storage so far | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-01 | [link](https://www.latitudemedia.com/news/how-the-ai-boom-has-impacted-us-battery-storage-so-far/) |
+| 2026-09-01 | Odyssey raises $74 million to scale DERs in emerging markets | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-01 | [link](https://www.latitudemedia.com/news/odyssey-raises-74-million-to-scale-ders-in-emerging-markets/) |
+| 2026-09-01 | Weekly Update 519: Breaches & Data Integrity | Troy Hunt · Security & Privacy | Security | tech | 2026-09-01 | [link](https://www.troyhunt.com/weekly-update-519/) |
+| 2026-09-01 | Claude Fable 5.1 made me a really nice animated pelican | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-01 | [link](https://simonwillison.net/2026/Sep/1/claude-fable-5-1/) |
+| 2026-09-01 | OCP Global Summit is moving to a new location! | Open Compute Project · AI Infrastructure | Infrastructure | tech | 2026-09-01 | [link](https://www.opencompute.org/blog/ocp-global-summit-is-moving-to-a-new-location) |
+| 2026-09-01 | Trump grid order likely to cause energy storage delays, cancellations: BloombergNEF | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-01 | [link](https://www.utilitydive.com/news/trump-grid-order-likely-to-cause-energy-storage-delays-cancellations-bloo/829306/) |
+| 2026-09-01 | Apple Reveals Forensic Evidence From Chang Liu’s MacBook in OpenAI Lawsuit | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-01 | [link](https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/) |
+| 2026-09-01 | [Sponsor] WorkOS: How to Give an Agent a Task Instead of a Token | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-01 | [link](https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) |
+| 2026-09-01 | Book Review: ActivityPub by Evan Prodromou ★★★★⯪ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-09-01 | [link](https://shkspr.mobi/blog/2026/09/book-review-activitypub-by-evan-prodromou/) |
+| 2026-09-01 | Introducing Claude Fable 5.1 and Claude Mythos 5.1 \ Anthropic | Reddit | Business | social | 2026-09-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w4juj2/introducing_claude_fable_51_and_claude_mythos_51/) |
+| 2026-09-01 | I asked Claude to draw itself after analyzing our chat history. | Reddit | Business | social | 2026-09-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w4k88s/i_asked_claude_to_draw_itself_after_analyzing_our/) |
+| 2026-09-01 | Introducing Claude Fable 5.1 and Claude Mythos 5.1 | Reddit | Business | social | 2026-09-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w4juuz/introducing_claude_fable_51_and_claude_mythos_51/) |
+| 2026-09-01 | Does anyone feel like Fable 5.1 has been nerfed since release? | Reddit | Business | social | 2026-09-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w4n3jn/does_anyone_feel_like_fable_51_has_been_nerfed/) |
+| 2026-09-01 | I can't do Opus 5 anymore. Every time I talk with it and try to read it, I literally get so confused | Reddit | Business | social | 2026-09-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w3xtsz/i_cant_do_opus_5_anymore_every_time_i_talk_with/) |
+| 2026-09-01 | Presenting my dumbest idea yet. The Claw’deck. | Reddit | Business | social | 2026-09-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w4fjy3/presenting_my_dumbest_idea_yet_the_clawdeck/) |
+| 2026-09-01 | Anthropic really doesn’t seem to value its $20 subscribers anymore | Reddit | Business | social | 2026-09-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w4tadv/anthropic_really_doesnt_seem_to_value_its_20/) |
+| 2026-09-01 | Fable 5.1 is out it’s amazing — it’s terrible — they nerfed it — | Reddit | Business | social | 2026-09-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w4mp9y/fable_51_is_out_its_amazing_its_terrible_they/) |
+| 2026-09-01 | Just Know this about Fable 5.1 Max | Reddit | Business | social | 2026-09-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w4k7yd/just_know_this_about_fable_51_max/) |
+| 2026-09-01 | Anthropic's Fable 5.1 Guide on dense prose is dense Claudish slop | Reddit | Business | social | 2026-09-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w4szvz/anthropics_fable_51_guide_on_dense_prose_is_dense/) |
+| 2026-09-01 | OneNote handwriting in Obsidian, now with pdf | Reddit | Business | social | 2026-09-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w4hl75/onenote_handwriting_in_obsidian_now_with_pdf/) |
+| 2026-09-01 | A vault full of unread material isn't a second brain.. | Reddit | Business | social | 2026-09-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w3wvnd/a_vault_full_of_unread_material_isnt_a_second/) |
+| 2026-09-01 | Me dashboard | Reddit | Business | social | 2026-09-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w43k0p/me_dashboard/) |
+| 2026-09-01 | Obsidian dashboard | Reddit | Business | social | 2026-09-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w4gsau/obsidian_dashboard/) |
+| 2026-09-01 | Experimenting with 3D spectral audio visualization inside an Obsidian vault (WebXR) | Reddit | Business | social | 2026-09-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w3ywcd/experimenting_with_3d_spectral_audio/) |
+| 2026-09-01 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-08-31 | Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO | HN | Technology | tech | 2026-08-31 | [link](https://webiterate.dev/google-removed-extensions-ublock-origin-108/) |
 | 2026-08-31 | Playa Phone | HN | Technology | tech | 2026-08-31 | [link](https://playaphone.com/) |
 | 2026-08-31 | OpenShot 4.0 – Open-source video editor | HN | Technology | tech | 2026-08-31 | [link](https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/) |

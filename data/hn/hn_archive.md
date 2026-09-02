@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-01 · 478 days · 4780 stories*
+*Last updated: 2026-09-02 · 479 days · 4790 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-01 | Tuesday | 1 | Claude Fable 5.1 and Claude Mythos 5.1 | 1250 | 1169 | Technology | [link](https://www.anthropic.com/claude-fable-and-mythos-5-1) · [HN](https://news.ycombinator.com/item?id=49525378) |
+| 2026-09-01 | Tuesday | 2 | AnkiDroid: Google Play no longer allowing Open Collective donation link | 884 | 260 | Technology | [link](https://github.com/ankidroid/Anki-Android/issues/21656) · [HN](https://news.ycombinator.com/item?id=49520022) |
+| 2026-09-01 | Tuesday | 3 | Hang on to Your Firefox | 829 | 422 | Technology | [link](https://www.newsonaut.com/articles/hang-on-to-your-firefox) · [HN](https://news.ycombinator.com/item?id=49527748) |
+| 2026-09-01 | Tuesday | 4 | How accurate have Ed Zitron's AI skeptic predictions been? | 709 | 772 | Technology | [link](https://danluu.com/zitron/) · [HN](https://news.ycombinator.com/item?id=49526069) |
+| 2026-09-01 | Tuesday | 5 | I trained a small transformer in 1.5hrs and it beats many LLMs | 621 | 158 | Technology | [link](https://mvakde.github.io/blog/44-on-arc-1/) · [HN](https://news.ycombinator.com/item?id=49519939) |
+| 2026-09-01 | Tuesday | 6 | Play Store blocks AuroraStore, hurting GrapheneOS users | 527 | 225 | Technology | [link](https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566) · [HN](https://news.ycombinator.com/item?id=49523754) |
+| 2026-09-01 | Tuesday | 7 | Introducing Ad Blocker for Firefox on iOS | 476 | 158 | Technology | [link](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/) · [HN](https://news.ycombinator.com/item?id=49521973) |
+| 2026-09-01 | Tuesday | 8 | The ChatGPT/Codex app bundles a full copy of LibreOffice | 413 | 189 | Technology | [link](https://simonwillison.net/2026/Sep/1/codex-libreoffice/) · [HN](https://news.ycombinator.com/item?id=49527396) |
+| 2026-09-01 | Tuesday | 9 | Ambient CSS v3 – Blender meets CSS | 274 | 82 | Technology | [link](https://ambientcss.vercel.app/) · [HN](https://news.ycombinator.com/item?id=49523387) |
+| 2026-09-01 | Tuesday | 10 | Movie Scene Map – 13,312 films, series, games, anime and manga | 255 | 37 | Technology | [link](https://moviescenemap.com/) · [HN](https://news.ycombinator.com/item?id=49524320) |
 | 2026-08-31 | Monday | 1 | Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO | 679 | 524 | Technology | [link](https://webiterate.dev/google-removed-extensions-ublock-origin-108/) · [HN](https://news.ycombinator.com/item?id=49514878) |
 | 2026-08-31 | Monday | 2 | Playa Phone | 633 | 210 | Technology | [link](https://playaphone.com/) · [HN](https://news.ycombinator.com/item?id=49510514) |
 | 2026-08-31 | Monday | 3 | OpenShot 4.0 – Open-source video editor | 564 | 132 | Technology | [link](https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/) · [HN](https://news.ycombinator.com/item?id=49507822) |
