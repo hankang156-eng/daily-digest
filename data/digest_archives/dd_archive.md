@@ -1,9 +1,75 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-02 · 6672 items*
+*Last updated: 2026-09-03 · 6738 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-02 | Gemini 3.8 Flash and 3.8 Flash Cyber | HN | Technology | tech | 2026-09-02 | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) |
+| 2026-09-02 | A note on subscription prices from LWN | HN | Technology | tech | 2026-09-02 | [link](https://lwn.net/Articles/1090585/) |
+| 2026-09-02 | Muse Spark 1.3 | HN | Technology | tech | 2026-09-02 | [link](https://developer.meta.com/ai/models/muse-spark/) |
+| 2026-09-02 | Can I opt out of my input or output data being used for training? | HN | Technology | tech | 2026-09-02 | [link](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training) |
+| 2026-09-02 | Three sites made 215,128 “best software” pages for AI. Perplexity cites them | HN | Technology | tech | 2026-09-02 | [link](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/) |
+| 2026-09-02 | Google avoids a breakup of its ad tech business | HN | Technology | tech | 2026-09-02 | [link](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html) |
+| 2026-09-02 | Commodore 64 released September 1, 1982 | HN | Technology | tech | 2026-09-02 | [link](https://dfarq.homeip.net/commodore-64-released-september-1-1982/) |
+| 2026-09-02 | Biggest dark matter detector spots a single weird particle | HN | Technology | tech | 2026-09-02 | [link](https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle) |
+| 2026-09-02 | The Emergent Symbolic Structure of Artificial Neural Networks | HN | Technology | tech | 2026-09-02 | [link](https://arxiv.org/abs/2608.29530) |
+| 2026-09-02 | Aging brains blend memories together instead of just forgetting them | HN | Technology | tech | 2026-09-02 | [link](https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/) |
+| 2026-09-02 | Exit the Cave | HN | Technology | tech | 2026-09-02 | [link](https://turtlespace.blog/p/exit-the-cave) |
+| 2026-09-02 | I wanna live an NPC life | HN | Technology | tech | 2026-09-02 | [link](https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/) |
+| 2026-09-02 | Fable 5.1 World Modeling | HN | Technology | tech | 2026-09-02 | [link](https://github.com/PhiloLabs/fable51-worlds) |
+| 2026-09-02 | Dutch central bank moves share of gold from U.S., Canada to London | HN | Technology | tech | 2026-09-02 | [link](https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability) |
+| 2026-09-02 | I Don't Have a Smartphone | HN | Technology | tech | 2026-09-02 | [link](https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html) |
+| 2026-09-02 | Paint.net 5.2 alpha now runs on Linux | HN | Technology | tech | 2026-09-02 | [link](https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/) |
+| 2026-09-02 | Which Investors Will Get Rich From Anthropic’s IPO? | NYT · AI | AI | news | 2026-09-03 | [link](https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html) |
+| 2026-09-02 | Why the Courts Struggle to Tame Big Tech | NYT · Business | Business | news | 2026-09-03 | [link](https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html) |
+| 2026-09-02 | Justice Dept. Sides With OpenAI in New York Times Copyright Suit | NYT · AI | AI | news | 2026-09-02 | [link](https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html) |
+| 2026-09-02 | Trump’s Tactics to Lower Beef Prices and Appease Ranchers Fall Short | NYT · Business | Business | news | 2026-09-02 | [link](https://www.nytimes.com/2026/09/02/business/trump-ranchers-beef-prices-cattle-supply.html) |
+| 2026-09-02 | New York City Bans A.I. in Elementary and Middle Schools | NYT · AI | AI | news | 2026-09-02 | [link](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html) |
+| 2026-09-02 | Jason Isbell and Others Say Suno’s A.I. Imitates Their Voices | NYT · AI | AI | news | 2026-09-01 | [link](https://www.nytimes.com/2026/09/01/arts/music/jason-isbell-suno-ai-lawsuit.html) |
+| 2026-09-02 | Uber Lays Off 10% of Employees in Sweeping Reorganization | NYT · AI | AI | news | 2026-09-02 | [link](https://www.nytimes.com/2026/09/02/technology/uber-layoffs.html) |
+| 2026-09-02 | Missouri Voters Appear to Recall City Councilman Over Data Center Support | NYT · AI | AI | news | 2026-09-02 | [link](https://www.nytimes.com/2026/09/01/technology/data-center-recall-vote-independence.html) |
+| 2026-09-02 | Global Bond Rates Are Rising. What Should You Do Now? | NYT · Business | Business | news | 2026-09-02 | [link](https://www.nytimes.com/2026/09/02/business/bond-rates-retirement-401k.html) |
+| 2026-09-02 | Bill Simmons’s Co-Hosts Are Tired of His A.I. Antics | NYT · AI | AI | news | 2026-09-02 | [link](https://www.nytimes.com/2026/09/01/business/media/bill-simmons-chat-gpt-open-ai-roger-ebert.html) |
+| 2026-09-02 | Who Approves Trump’s Washington Makeover Projects? | NYT · Politics | Politics | news | 2026-09-02 | [link](https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html) |
+| 2026-09-02 | The President Can’t Handle the Truth | NYT · AI | AI | opinion | 2026-09-03 | [link](https://www.nytimes.com/2026/09/02/opinion/trump-fantasty-reality-politics.html) |
+| 2026-09-02 | New York Climate ‘Superfund’ Law Falls in Court | NYT · Energy & Environment | Energy & Environment | news | 2026-09-01 | [link](https://www.nytimes.com/2026/09/01/climate/new-york-climate-superfund-law.html) |
+| 2026-09-02 | Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts | NYT · Politics | Politics | news | 2026-09-02 | [link](https://www.nytimes.com/2026/09/02/us/politics/trump-courts-ballroom.html) |
+| 2026-09-02 | Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated. | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html) |
+| 2026-09-02 | Homeland Security Secretary’s Plane Makes Emergency Landing | NYT · Politics | Politics | news | 2026-09-03 | [link](https://www.nytimes.com/2026/09/02/us/politics/homeland-security-mullin-plane-emergency-landing.html) |
+| 2026-09-02 | Judge Blocks Trump’s Second Try to Restrict Birthright Citizenship | NYT · Politics | Politics | news | 2026-09-03 | [link](https://www.nytimes.com/2026/09/02/us/politics/judge-trump-birthright-citizenship.html) |
+| 2026-09-02 | U.N. Says World Will Miss Its 1.5-Degree Climate Target | NYT · Energy & Environment | Energy & Environment | news | 2026-09-02 | [link](https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html) |
+| 2026-09-02 | A Data Center Backlash | NYT · Energy & Environment | Energy & Environment | news | 2026-09-01 | [link](https://www.nytimes.com/2026/09/01/climate/climate-forward-data-center-backlash.html) |
+| 2026-09-02 | Rethinking When AI Agents Should Make Decisions…For “Us” | MIT IDE · MIT Research & Insights | Research | research | 2026-09-02 | [link](https://ide.mit.edu/insights/rethinking-when-ai-agents-should-make-decisionsfor-us/) |
+| 2026-09-02 | US defense contractor Northrop Grumman awarded $7m for diamond-cooled chip technology | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-02 | [link](https://www.datacenterdynamics.com/en/news/us-defense-contractor-northrop-grumman-awarded-7m-for-diamond-cooled-chip-technology/) |
+| 2026-09-02 | CollPlant Biotechnologies acquires laser-based computing startup LightSolver | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-02 | [link](https://www.datacenterdynamics.com/en/news/collplant-biotechnologies-acquires-laser-based-computing-startup-lightsolver/) |
+| 2026-09-02 | Fervo-Google geothermal deal underscores baseload power scarcity, analysts say | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-02 | [link](https://www.utilitydive.com/news/analysts-say-fervo-google-geothermal-deal-underscores-baseload-power-scarci/829419/) |
+| 2026-09-02 | Betting on AI and Robots to Automate Superconductor Discovery | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-09-02 | [link](https://spectrum.ieee.org/high-temperature-superconductor-ai-research) |
+| 2026-09-02 | Transmission expansion could spur billions in savings, especially in PJM: study | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-02 | [link](https://www.utilitydive.com/news/interregional-transmission-expansion-pjm-eca-study/829430/) |
+| 2026-09-02 | Under the hood of SB Energy’s IPO filing | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-02 | [link](https://www.latitudemedia.com/news/under-the-hood-of-sb-energys-ipo-filing/) |
+| 2026-09-02 | Claude's new system prompt really doesn't want to reproduce song lyrics | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-02 | [link](https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/) |
+| 2026-09-02 | Quoting Rick Brewster | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-02 | [link](https://simonwillison.net/2026/Sep/2/rick-brewster/) |
+| 2026-09-02 | iOS 27 Introduces New ‘iPhone Handoff’ Feature | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-02 | [link](https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/) |
+| 2026-09-02 | Fable 5.1 Max gave me the most reasonable local setup guide | Reddit | Business | social | 2026-09-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w54tww/fable_51_max_gave_me_the_most_reasonable_local/) |
+| 2026-09-02 | Fable 5.1 made a Minecraft mod for $20 | Reddit | Business | social | 2026-09-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w5ftqe/fable_51_made_a_minecraft_mod_for_20/) |
+| 2026-09-02 | Well I almost got prompt injected | Reddit | Business | social | 2026-09-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w57t43/well_i_almost_got_prompt_injected/) |
+| 2026-09-02 | Differences Between Fable 5 and Fable 5.1 on MineBench | Reddit | Business | social | 2026-09-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w5fh39/differences_between_fable_5_and_fable_51_on/) |
+| 2026-09-02 | Anthropic, we want Fable back into the pro plan!!! | Reddit | Business | social | 2026-09-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w5c2xe/anthropic_we_want_fable_back_into_the_pro_plan/) |
+| 2026-09-02 | Meta Releases Muse Spark 1.3, matching Fable 5 w/ .10 cents input .20 cents output per million token | Reddit | Business | social | 2026-09-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w5mbo4/meta_releases_muse_spark_13_matching_fable_5_w_10/) |
+| 2026-09-02 | First one to out-lead Claude on Code Arena in a long time. Also first Chinese ever. Landscape is cha | Reddit | Business | social | 2026-09-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w545dz/first_one_to_outlead_claude_on_code_arena_in_a/) |
+| 2026-09-02 | This is new - `/limit-reset` resets your session limit once per week | Reddit | Business | social | 2026-09-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w5r094/this_is_new_limitreset_resets_your_session_limit/) |
+| 2026-09-02 | Fable 5.1 is insane and it burned usage, which is fine. Anthropic just needs to nail Opus 5.1 | Reddit | Business | social | 2026-09-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w5ai3j/fable_51_is_insane_and_it_burned_usage_which_is/) |
+| 2026-09-02 | Gone in 60 seconds | Reddit | Business | social | 2026-09-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w52pbu/gone_in_60_seconds/) |
+| 2026-09-02 | My average Opus 5 experience | Reddit | Business | social | 2026-09-02 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w59ies/my_average_opus_5_experience/) |
+| 2026-09-02 | This is incredible, I asked opus 5.1 to build me a full game and it built this in less than 1 hour. | Reddit | Business | social | 2026-09-02 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w5hwdk/this_is_incredible_i_asked_opus_51_to_build_me_a/) |
+| 2026-09-02 | What Claude sees when inspecting my codebase | Reddit | Business | social | 2026-09-02 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w5nboa/what_claude_sees_when_inspecting_my_codebase/) |
+| 2026-09-02 | This is new - `/limit-reset` resets your session limit once per week | Reddit | Business | social | 2026-09-02 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w5r1hv/this_is_new_limitreset_resets_your_session_limit/) |
+| 2026-09-02 | That reframes everything | Reddit | Business | social | 2026-09-02 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w56bwk/that_reframes_everything/) |
+| 2026-09-02 | Two years syncing Obsidian with Git, here's the exact setup | Reddit | Business | social | 2026-09-02 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w544z2/two_years_syncing_obsidian_with_git_heres_the/) |
+| 2026-09-02 | Obsidian 1.14.0 (early access) for desktop and mobile: kanban, colored highlights, iOS quick capture | Reddit | Business | social | 2026-09-02 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w5p5a7/obsidian_1140_early_access_for_desktop_and_mobile/) |
+| 2026-09-02 | I really love Obsidian Web Clipper but I feel this plug in made me become a knowledge hoarder | Reddit | Business | social | 2026-09-02 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w5dv60/i_really_love_obsidian_web_clipper_but_i_feel/) |
+| 2026-09-02 | Finally started customizing my vault after 2+ months of vanilla Obsidian | Reddit | Business | social | 2026-09-02 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w5em7k/finally_started_customizing_my_vault_after_2/) |
+| 2026-09-02 | Created a plugin to make obsidian link notes like Capacities | Reddit | Business | social | 2026-09-02 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w5l1tj/created_a_plugin_to_make_obsidian_link_notes_like/) |
+| 2026-09-02 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-01 | Claude Fable 5.1 and Claude Mythos 5.1 | HN | Technology | tech | 2026-09-01 | [link](https://www.anthropic.com/claude-fable-and-mythos-5-1) |
 | 2026-09-01 | AnkiDroid: Google Play no longer allowing Open Collective donation link | HN | Technology | tech | 2026-09-01 | [link](https://github.com/ankidroid/Anki-Android/issues/21656) |
 | 2026-09-01 | Hang on to Your Firefox | HN | Technology | tech | 2026-09-01 | [link](https://www.newsonaut.com/articles/hang-on-to-your-firefox) |

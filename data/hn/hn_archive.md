@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-02 · 479 days · 4790 stories*
+*Last updated: 2026-09-03 · 480 days · 4800 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-02 | Wednesday | 1 | Gemini 3.8 Flash and 3.8 Flash Cyber | 1022 | 574 | Technology | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) · [HN](https://news.ycombinator.com/item?id=49537553) |
+| 2026-09-02 | Wednesday | 2 | A note on subscription prices from LWN | 706 | 144 | Technology | [link](https://lwn.net/Articles/1090585/) · [HN](https://news.ycombinator.com/item?id=49535752) |
+| 2026-09-02 | Wednesday | 3 | Muse Spark 1.3 | 583 | 385 | Technology | [link](https://developer.meta.com/ai/models/muse-spark/) · [HN](https://news.ycombinator.com/item?id=49541256) |
+| 2026-09-02 | Wednesday | 4 | Can I opt out of my input or output data being used for training? | 443 | 201 | Technology | [link](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training) · [HN](https://news.ycombinator.com/item?id=49535284) |
+| 2026-09-02 | Wednesday | 5 | Three sites made 215,128 “best software” pages for AI. Perplexity cites them | 416 | 207 | Technology | [link](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/) · [HN](https://news.ycombinator.com/item?id=49536375) |
+| 2026-09-02 | Wednesday | 6 | Google avoids a breakup of its ad tech business | 388 | 281 | Technology | [link](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html) · [HN](https://news.ycombinator.com/item?id=49537131) |
+| 2026-09-02 | Wednesday | 7 | Commodore 64 released September 1, 1982 | 342 | 177 | Technology | [link](https://dfarq.homeip.net/commodore-64-released-september-1-1982/) · [HN](https://news.ycombinator.com/item?id=49533497) |
+| 2026-09-02 | Wednesday | 8 | Biggest dark matter detector spots a single weird particle | 298 | 104 | Technology | [link](https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle) · [HN](https://news.ycombinator.com/item?id=49536079) |
+| 2026-09-02 | Wednesday | 9 | The Emergent Symbolic Structure of Artificial Neural Networks | 287 | 107 | Technology | [link](https://arxiv.org/abs/2608.29530) · [HN](https://news.ycombinator.com/item?id=49531651) |
+| 2026-09-02 | Wednesday | 10 | Aging brains blend memories together instead of just forgetting them | 286 | 118 | Technology | [link](https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/) · [HN](https://news.ycombinator.com/item?id=49535548) |
 | 2026-09-01 | Tuesday | 1 | Claude Fable 5.1 and Claude Mythos 5.1 | 1250 | 1169 | Technology | [link](https://www.anthropic.com/claude-fable-and-mythos-5-1) · [HN](https://news.ycombinator.com/item?id=49525378) |
 | 2026-09-01 | Tuesday | 2 | AnkiDroid: Google Play no longer allowing Open Collective donation link | 884 | 260 | Technology | [link](https://github.com/ankidroid/Anki-Android/issues/21656) · [HN](https://news.ycombinator.com/item?id=49520022) |
 | 2026-09-01 | Tuesday | 3 | Hang on to Your Firefox | 829 | 422 | Technology | [link](https://www.newsonaut.com/articles/hang-on-to-your-firefox) · [HN](https://news.ycombinator.com/item?id=49527748) |
