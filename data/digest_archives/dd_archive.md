@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-03 · 6738 items*
+*Last updated: 2026-09-04 · 6801 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-03 | .name Termination | HN | Technology | tech | 2026-09-03 | [link](https://neil.fraser.name/news/2026/09/03/) |
+| 2026-09-03 | GPT-6 Astra | HN | Technology | tech | 2026-09-03 | [link](https://openai.com/index/gpt-6-astra/) |
+| 2026-09-03 | Audacity 4.0 | HN | Technology | tech | 2026-09-03 | [link](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0) |
+| 2026-09-03 | Any Human Ever – One life, drawn at random from all who have ever lived | HN | Technology | tech | 2026-09-03 | [link](https://anyhumanever.com/) |
+| 2026-09-03 | Qwen 3.8 27B available on Cerebras at 1500 tokens/s | HN | Technology | tech | 2026-09-03 | [link](https://inference-docs.cerebras.ai/models/overview) |
+| 2026-09-03 | Pre-Release of Polars 2.0 | HN | Technology | tech | 2026-09-03 | [link](https://pola.rs/posts/announcing-polars-2/) |
+| 2026-09-03 | Ask HN: Why were OpenAI, Claude, and Grok simultaneously down? | HN | Technology | tech | 2026-09-03 | [link](https://news.ycombinator.com/item?id=49551096) |
+| 2026-09-03 | ChatGPT outage – Resolved | HN | Technology | tech | 2026-09-03 | [link](https://chatgpt.com/) |
+| 2026-09-03 | Google Antigravity TOS: 3rd party usage can get Google account suspended | HN | Technology | tech | 2026-09-03 | [link](https://twitter.com/GergelyOrosz/status/2095453567955968398) |
+| 2026-09-03 | Nvidia to acquire Hugging Face | HN | Technology | tech | 2026-09-03 | [link](https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html) |
+| 2026-09-03 | K2 Horizon: A connected fleet of six open models | HN | Technology | tech | 2026-09-03 | [link](https://ifm.ai/blog/k2/) |
+| 2026-09-03 | Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly | HN | Technology | tech | 2026-09-03 | [link](https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/) |
+| 2026-09-03 | OpenAI begins rolling out GPT-6 Astra | HN | Technology | tech | 2026-09-03 | [link](https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html) |
+| 2026-09-03 | Mom gets 6-month suspended sentence for letting 5-year-old walk to the pond | HN | Technology | tech | 2026-09-03 | [link](https://reason.com/2026/09/02/virginia-mom-gets-6-month-suspended-jail-sentence-for-letting-5-year-old-walk-to-the-pond/) |
+| 2026-09-03 | Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60% | HN | Technology | tech | 2026-09-03 | [link](https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california) |
+| 2026-09-03 | New York Times and The Athletic workers demand company scrap Kalshi deal | HN | Technology | tech | 2026-09-03 | [link](https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/) |
+| 2026-09-03 | Which Investors Will Get Rich From Anthropic’s IPO? | NYT · AI | AI | news | 2026-09-03 | [link](https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html) |
+| 2026-09-03 | Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google | NYT · Technology | Technology | news | 2026-09-03 | [link](https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html) |
+| 2026-09-03 | Nvidia Buys Hugging Face in $12.9 Billion Deal | NYT · AI | AI | news | 2026-09-03 | [link](https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html) |
+| 2026-09-03 | How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face | NYT · AI | AI | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html) |
+| 2026-09-03 | U.S. Trade Gap Ballooned in July | NYT · AI | AI | news | 2026-09-03 | [link](https://www.nytimes.com/2026/09/03/business/economy/us-trade-defecit-july.html) |
+| 2026-09-03 | In a Big Win, Google Won’t Have to Break Up Its Ad Tech Business, Court Rules | NYT · Technology | Technology | news | 2026-09-02 | [link](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html) |
+| 2026-09-03 | The Bond Markets Are Pushing Up Rates. Will Central Banks Follow? | NYT · Business | Business | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html) |
+| 2026-09-03 | Trump’s Tactics to Lower Beef Prices and Appease Ranchers Fall Short | NYT · Business | Business | news | 2026-09-02 | [link](https://www.nytimes.com/2026/09/02/business/trump-ranchers-beef-prices-cattle-supply.html) |
+| 2026-09-03 | Justice Dept. Sides With OpenAI in New York Times Copyright Suit | NYT · Technology | Technology | news | 2026-09-02 | [link](https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html) |
+| 2026-09-03 | Is Letting Only Seniors Vote by Mail Unconstitutional? | NYT · Politics | Politics | news | 2026-09-03 | [link](https://www.nytimes.com/2026/09/03/us/politics/the-docket-senior-mail-ballot.html) |
+| 2026-09-03 | Rate Rise in Play as Fed Officials Await Inflation Data | NYT · Business | Business | news | 2026-09-03 | [link](https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html) |
+| 2026-09-03 | Why the Hugging Face Hack Should Make You Worry More About A.I. | NYT · AI | AI | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html) |
+| 2026-09-03 | ICE Agent Charged With Lying About Minnesota Shooting | NYT · U.S. | U.S. | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/03/us/federal-prosecution-minnesota-ice-shooting.html) |
+| 2026-09-03 | Los Angeles District Bans Most A.I. for Students | NYT · AI | AI | news | 2026-09-03 | [link](https://www.nytimes.com/2026/09/03/us/lausd-schools-ban-ai-artificial-intelligence.html) |
+| 2026-09-03 | The President Can’t Handle the Truth | NYT · AI | AI | opinion | 2026-09-03 | [link](https://www.nytimes.com/2026/09/02/opinion/trump-fantasty-reality-politics.html) |
+| 2026-09-03 | A.I. Is Outsmarting Its Creators | NYT · AI | AI | news | 2026-09-03 | [link](https://www.nytimes.com/2026/09/03/podcasts/the-daily/ai-openai-hugging-face-rogue-model.html) |
+| 2026-09-03 | This Is the Real Point of College | NYT · AI | AI | opinion | 2026-09-04 | [link](https://www.nytimes.com/2026/09/04/opinion/college-freshman-education.html) |
+| 2026-09-03 | Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated. | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html) |
+| 2026-09-03 | New York Climate ‘Superfund’ Law Falls in Court | NYT · Energy & Environment | Energy & Environment | news | 2026-09-01 | [link](https://www.nytimes.com/2026/09/01/climate/new-york-climate-superfund-law.html) |
+| 2026-09-03 | U.N. Says World Will Miss Its 1.5-Degree Climate Target | NYT · Energy & Environment | Energy & Environment | news | 2026-09-03 | [link](https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html) |
+| 2026-09-03 | India mulls removal of legacy Chinese telecoms kit - report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-03 | [link](https://www.datacenterdynamics.com/en/news/india-mulls-removal-of-legacy-chinese-telecoms-kit-report/) |
+| 2026-09-03 | GoPro to enter AI data center market via merger with optical photonics company | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-03 | [link](https://www.datacenterdynamics.com/en/news/gopro-to-enter-ai-data-center-market-via-merger-with-optical-photonics-company/) |
+| 2026-09-03 | GPT‑6 Astra | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-03 | [link](https://simonwillison.net/2026/Sep/3/gpt6-astra/) |
+| 2026-09-03 | CISA scraps 6 free cybersecurity assessments for critical infrastructure operators | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-03 | [link](https://www.utilitydive.com/news/cisa-scraps-6-free-cybersecurity-assessments-for-critical-infrastructure-op/829570/) |
+| 2026-09-03 | What comes after the data center backlash? | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-03 | [link](https://www.latitudemedia.com/news/catalyst-what-comes-after-the-data-center-backlash/) |
+| 2026-09-03 | National Grid’s different gas-electric forecasts are responsible planning | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-03 | [link](https://www.utilitydive.com/news/different-forecasts-dont-mean-higher-bills-they-mean-responsible-planning/829035/) |
+| 2026-09-03 | Three questions left open by Trump’s bulk power executive order | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-03 | [link](https://www.latitudemedia.com/news/three-questions-left-open-by-trumps-bulk-power-executive-order/) |
+| 2026-09-03 | MapQuest Refuses to Relabel Lake Ontario, Rewarded With Surge in Popularity | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-03 | [link](https://thehill.com/homenews/administration/6063924-mapquest-tops-apple-google-maps-in-downloads-after-refusing-trumps-lake-america-change/?ref=ihnatko.com) |
+| 2026-09-03 | Python sets and dictionaries can have quadratic-time performance | Lemire.me · Tech & Engineering | Technology | tech | 2026-09-03 | [link](https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/) |
+| 2026-09-03 | Phil Schiller Steps Down From Running App Store and Product Events | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-03 | [link](https://www.bloomberg.com/news/articles/2026-08-31/apple-s-phil-schiller-steps-down-from-running-app-store-and-product-events?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODE5Mzk5NywiZXhwIjoxNzg4Nzk4Nzk3LCJhcnRpY2xlSWQiOiJUS0VDTE1LSkg2VjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.G1fAbZQH31AQBLUajPYPUJ7BqRyeIUN7SbxQZFAqMXE) |
+| 2026-09-03 | A reasonably practical guide to validating RFC 9421 HTTP Signatures for ActivityPub in PHP | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-09-03 | [link](https://shkspr.mobi/blog/2026/09/a-reasonably-practical-guide-to-validating-rfc-9421-http-signatures-for-activitypub-in-php/) |
+| 2026-09-03 | The vibe coders! | Reddit | Business | social | 2026-09-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w61niq/the_vibe_coders/) |
+| 2026-09-03 | We'll just keep a human in the loop | Reddit | Business | social | 2026-09-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w66kf1/well_just_keep_a_human_in_the_loop/) |
+| 2026-09-03 | True | Reddit | Business | social | 2026-09-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w6ijc2/true/) |
+| 2026-09-03 | Opus 5 mogged anthropic support bot while filing a complaint about opus 5 | Reddit | Business | social | 2026-09-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w6jo1o/opus_5_mogged_anthropic_support_bot_while_filing/) |
+| 2026-09-03 | so they just silently killed the thinking chain huh | Reddit | Business | social | 2026-09-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w5xmrj/so_they_just_silently_killed_the_thinking_chain/) |
+| 2026-09-03 | Astra is out and so are the benchmarks | Reddit | Business | social | 2026-09-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w6g58f/astra_is_out_and_so_are_the_benchmarks/) |
+| 2026-09-03 | Can I get a load-bearing refund? | Reddit | Business | social | 2026-09-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w66mtr/can_i_get_a_loadbearing_refund/) |
+| 2026-09-03 | Day 2 of using claude to make a cozy game with no dev experience. | Reddit | Business | social | 2026-09-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w5xsyb/day_2_of_using_claude_to_make_a_cozy_game_with_no/) |
+| 2026-09-03 | Fable 5.1 vs Fable at making a driving game | Reddit | Business | social | 2026-09-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w6lcv4/fable_51_vs_fable_at_making_a_driving_game/) |
+| 2026-09-03 | Who even invited bro to the party? | Reddit | Business | social | 2026-09-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w6jvqk/who_even_invited_bro_to_the_party/) |
+| 2026-09-03 | Tibo is giving one reset a day and we are offered none from Claude | Reddit | Business | social | 2026-09-03 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w6o3xu/tibo_is_giving_one_reset_a_day_and_we_are_offered/) |
+| 2026-09-03 | Claude, Codex, and Cursor are down, and I've got a huge deadline in an hour and need all my hand-wri | Reddit | Business | social | 2026-09-03 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w6a6pw/claude_codex_and_cursor_are_down_and_ive_got_a/) |
+| 2026-09-03 | New day: new 592 overloaded | Reddit | Business | social | 2026-09-03 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w67g8k/new_day_new_592_overloaded/) |
+| 2026-09-03 | I tried to build the spy gadget watch 12-year-old me wanted. Somehow I ended up building the design  | Reddit | Business | social | 2026-09-03 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w6htjg/i_tried_to_build_the_spy_gadget_watch_12yearold/) |
+| 2026-09-03 | Learning Programming With Fable | Reddit | Business | social | 2026-09-03 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w6j2ef/learning_programming_with_fable/) |
+| 2026-09-03 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-02 | Gemini 3.8 Flash and 3.8 Flash Cyber | HN | Technology | tech | 2026-09-02 | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) |
 | 2026-09-02 | A note on subscription prices from LWN | HN | Technology | tech | 2026-09-02 | [link](https://lwn.net/Articles/1090585/) |
 | 2026-09-02 | Muse Spark 1.3 | HN | Technology | tech | 2026-09-02 | [link](https://developer.meta.com/ai/models/muse-spark/) |

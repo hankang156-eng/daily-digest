@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-03 · 480 days · 4800 stories*
+*Last updated: 2026-09-04 · 481 days · 4810 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-03 | Thursday | 1 | .name Termination | 1825 | 450 | Technology | [link](https://neil.fraser.name/news/2026/09/03/) · [HN](https://news.ycombinator.com/item?id=49550772) |
+| 2026-09-03 | Thursday | 2 | GPT-6 Astra | 1818 | 1596 | Technology | [link](https://openai.com/index/gpt-6-astra/) · [HN](https://news.ycombinator.com/item?id=49554643) |
+| 2026-09-03 | Thursday | 3 | Audacity 4.0 | 1103 | 250 | Technology | [link](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0) · [HN](https://news.ycombinator.com/item?id=49548395) |
+| 2026-09-03 | Thursday | 4 | Any Human Ever – One life, drawn at random from all who have ever lived | 589 | 279 | Technology | [link](https://anyhumanever.com/) · [HN](https://news.ycombinator.com/item?id=49550698) |
+| 2026-09-03 | Thursday | 5 | Qwen 3.8 27B available on Cerebras at 1500 tokens/s | 561 | 188 | Technology | [link](https://inference-docs.cerebras.ai/models/overview) · [HN](https://news.ycombinator.com/item?id=49554520) |
+| 2026-09-03 | Thursday | 6 | Pre-Release of Polars 2.0 | 394 | 133 | Technology | [link](https://pola.rs/posts/announcing-polars-2/) · [HN](https://news.ycombinator.com/item?id=49546753) |
+| 2026-09-03 | Thursday | 7 | Ask HN: Why were OpenAI, Claude, and Grok simultaneously down? | 373 | 535 | Technology | [link](https://news.ycombinator.com/item?id=49551096) · [HN](https://news.ycombinator.com/item?id=49551096) |
+| 2026-09-03 | Thursday | 8 | ChatGPT outage – Resolved | 361 | 318 | Technology | [link](https://chatgpt.com/) · [HN](https://news.ycombinator.com/item?id=49550614) |
+| 2026-09-03 | Thursday | 9 | Google Antigravity TOS: 3rd party usage can get Google account suspended | 316 | 210 | Technology | [link](https://twitter.com/GergelyOrosz/status/2095453567955968398) · [HN](https://news.ycombinator.com/item?id=49548452) |
+| 2026-09-03 | Thursday | 10 | Nvidia to acquire Hugging Face | 313 | 98 | Technology | [link](https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html) · [HN](https://news.ycombinator.com/item?id=49548952) |
 | 2026-09-02 | Wednesday | 1 | Gemini 3.8 Flash and 3.8 Flash Cyber | 1022 | 574 | Technology | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) · [HN](https://news.ycombinator.com/item?id=49537553) |
 | 2026-09-02 | Wednesday | 2 | A note on subscription prices from LWN | 706 | 144 | Technology | [link](https://lwn.net/Articles/1090585/) · [HN](https://news.ycombinator.com/item?id=49535752) |
 | 2026-09-02 | Wednesday | 3 | Muse Spark 1.3 | 583 | 385 | Technology | [link](https://developer.meta.com/ai/models/muse-spark/) · [HN](https://news.ycombinator.com/item?id=49541256) |
