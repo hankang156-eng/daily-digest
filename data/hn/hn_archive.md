@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-04 · 481 days · 4810 stories*
+*Last updated: 2026-09-05 · 482 days · 4820 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-04 | Friday | 1 | Discovery of a new OpenAI agent message board | 1725 | 1320 | Technology | [link](https://collusion.wiki/) · [HN](https://news.ycombinator.com/item?id=49563355) |
+| 2026-09-04 | Friday | 2 | Formalizing Fermat's Last Theorem | 619 | 387 | Technology | [link](https://www.anthropic.com/research/formalizing-fermats-last-theorem) · [HN](https://news.ycombinator.com/item?id=49568506) |
+| 2026-09-04 | Friday | 3 | Hackers had a live feed of every ID verification company scanned for over a year | 541 | 237 | Technology | [link](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/) · [HN](https://news.ycombinator.com/item?id=49561320) |
+| 2026-09-04 | Friday | 4 | Actively exploited sandbox RCE in all Chromium versions | 503 | 273 | Technology | [link](https://nvd.nist.gov/vuln/detail/cve-2026-85046) · [HN](https://news.ycombinator.com/item?id=49570669) |
+| 2026-09-04 | Friday | 5 | Record-High 89% in U.S. Say Government Corruption Widespread | 428 | 323 | Technology | [link](https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx) · [HN](https://news.ycombinator.com/item?id=49570772) |
+| 2026-09-04 | Friday | 6 | Solving the Jane Street reverse engineering challenge | 419 | 92 | Technology | [link](https://jestoph.com/2026/09/04/jane-street-challenge.html) · [HN](https://news.ycombinator.com/item?id=49562657) |
+| 2026-09-04 | Friday | 7 | Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive | 389 | 226 | Technology | [link](https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/) · [HN](https://news.ycombinator.com/item?id=49567053) |
+| 2026-09-04 | Friday | 8 | Google AI Mode shows same products 21.6% more expensive than traditional search | 383 | 72 | Technology | [link](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products) · [HN](https://news.ycombinator.com/item?id=49563386) |
+| 2026-09-04 | Friday | 9 | Shutting down our public encrypted DNS | 347 | 157 | Technology | [link](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead) · [HN](https://news.ycombinator.com/item?id=49568579) |
+| 2026-09-04 | Friday | 10 | Corporate America is getting hooked on open-source AI | 297 | 270 | Technology | [link](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html) · [HN](https://news.ycombinator.com/item?id=49566137) |
 | 2026-09-03 | Thursday | 1 | .name Termination | 1825 | 450 | Technology | [link](https://neil.fraser.name/news/2026/09/03/) · [HN](https://news.ycombinator.com/item?id=49550772) |
 | 2026-09-03 | Thursday | 2 | GPT-6 Astra | 1818 | 1596 | Technology | [link](https://openai.com/index/gpt-6-astra/) · [HN](https://news.ycombinator.com/item?id=49554643) |
 | 2026-09-03 | Thursday | 3 | Audacity 4.0 | 1103 | 250 | Technology | [link](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0) · [HN](https://news.ycombinator.com/item?id=49548395) |

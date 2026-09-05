@@ -1,9 +1,73 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-04 · 6801 items*
+*Last updated: 2026-09-05 · 6865 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-04 | Discovery of a new OpenAI agent message board | HN | Technology | tech | 2026-09-04 | [link](https://collusion.wiki/) |
+| 2026-09-04 | Formalizing Fermat's Last Theorem | HN | Technology | tech | 2026-09-04 | [link](https://www.anthropic.com/research/formalizing-fermats-last-theorem) |
+| 2026-09-04 | Hackers had a live feed of every ID verification company scanned for over a year | HN | Technology | tech | 2026-09-04 | [link](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/) |
+| 2026-09-04 | Actively exploited sandbox RCE in all Chromium versions | HN | Technology | tech | 2026-09-04 | [link](https://nvd.nist.gov/vuln/detail/cve-2026-85046) |
+| 2026-09-04 | Record-High 89% in U.S. Say Government Corruption Widespread | HN | Technology | tech | 2026-09-04 | [link](https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx) |
+| 2026-09-04 | Solving the Jane Street reverse engineering challenge | HN | Technology | tech | 2026-09-04 | [link](https://jestoph.com/2026/09/04/jane-street-challenge.html) |
+| 2026-09-04 | Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive | HN | Technology | tech | 2026-09-04 | [link](https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/) |
+| 2026-09-04 | Google AI Mode shows same products 21.6% more expensive than traditional search | HN | Technology | tech | 2026-09-04 | [link](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products) |
+| 2026-09-04 | Shutting down our public encrypted DNS | HN | Technology | tech | 2026-09-04 | [link](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead) |
+| 2026-09-04 | Corporate America is getting hooked on open-source AI | HN | Technology | tech | 2026-09-04 | [link](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html) |
+| 2026-09-04 | Statichost.eu – European static site hosting | HN | Technology | tech | 2026-09-04 | [link](https://www.statichost.eu/) |
+| 2026-09-04 | Show HN: Open-Source eInk Bike Computer | HN | Technology | tech | 2026-09-04 | [link](https://opentrailpaper.com) |
+| 2026-09-04 | IBM Bob | HN | Technology | tech | 2026-09-04 | [link](https://bob.ibm.com/) |
+| 2026-09-04 | Can AI design circuit boards yet? | HN | Technology | tech | 2026-09-04 | [link](https://eebench.org/blog/can-ai-design-circuit-boards-yet/) |
+| 2026-09-04 | GPT-6 Astra on OpenRouter | HN | Technology | tech | 2026-09-04 | [link](https://openrouter.ai/openai/gpt-6-astra) |
+| 2026-09-04 | Nitter has more working instances than before the takedowns | HN | Technology | tech | 2026-09-04 | [link](https://codeberg.org/mv12star/shitter/wiki/Instances) |
+| 2026-09-04 | How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face | NYT · Technology | Technology | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html) |
+| 2026-09-04 | Which Investors Will Get Rich From Anthropic’s IPO? | NYT · Technology | Technology | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html) |
+| 2026-09-04 | Why the Hugging Face Hack Should Make You Worry More About A.I. | NYT · AI | AI | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html) |
+| 2026-09-04 | Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports | NYT · AI | AI | news | 2026-09-05 | [link](https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html) |
+| 2026-09-04 | Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI | NYT · AI | AI | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html) |
+| 2026-09-04 | Nvidia Buys Hugging Face in $12.9 Billion Deal | NYT · Technology | Technology | news | 2026-09-03 | [link](https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html) |
+| 2026-09-04 | ‘Wrongheaded and Perilous’: 3 Writers on the Big Meta Ruling | NYT · AI | AI | opinion | 2026-09-04 | [link](https://www.nytimes.com/2026/09/04/opinion/a-win-for-meta-a-debate-on-the-big-social-media-ruling.html) |
+| 2026-09-04 | Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement | NYT · AI | AI | news | 2026-09-05 | [link](https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html) |
+| 2026-09-04 | Trump Threatens to Halt Some Trade Unless the Fed Cuts Rates | NYT · Economy | Economy | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html) |
+| 2026-09-04 | Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google | NYT · Business | Business | news | 2026-09-03 | [link](https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html) |
+| 2026-09-04 | The Bond Markets Are Pushing Up Rates. Will Central Banks Follow? | NYT · Business | Business | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html) |
+| 2026-09-04 | Kenyans Made a Living Writing College Essays. Then A.I. Arrived. | NYT · AI | AI | opinion | 2026-09-05 | [link](https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html) |
+| 2026-09-04 | ICE Agent Charged With Six Counts of Lying About Minnesota Shooting | NYT · U.S. | U.S. | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/04/us/christian-castro-ice-agent-charges-minnesota-shooting.html) |
+| 2026-09-04 | This Is the Real Point of College | NYT · AI | AI | opinion | 2026-09-04 | [link](https://www.nytimes.com/2026/09/04/opinion/college-freshman-education.html) |
+| 2026-09-04 | Tesla’s Cybercab Is Being Investigated by Federal Regulators | NYT · Technology | Technology | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html) |
+| 2026-09-04 | In Major Leak Hunt, Pentagon Gives Polygraph Tests to Joint Staff Members | NYT · Politics | Politics | news | 2026-09-05 | [link](https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html) |
+| 2026-09-04 | Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated. | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html) |
+| 2026-09-04 | Judge Once Again Blocks Trump Administration’s Plans to Restrict Mail-In Ballots | NYT · Politics | Politics | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/04/us/politics/judge-blocks-trump-mail-ballots.html) |
+| 2026-09-04 | The Search for New Cures Is Broken | NYT · Opinion | Opinion | opinion | 2026-09-04 | [link](https://www.nytimes.com/2026/09/04/opinion/clinical-trials-drugs-science.html) |
+| 2026-09-04 | OpenAI's rogue agents were caught communicating via public wikis | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-04 | [link](https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/) |
+| 2026-09-04 | Telstra confirms July outage was caused by network timing system failure | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-04 | [link](https://www.datacenterdynamics.com/en/news/telstra-confirms-july-outage-was-caused-by-network-timing-system-failure/) |
+| 2026-09-04 | Microsoft reveals Azure earnings for the first time, adjusts financial reporting practices | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-04 | [link](https://www.datacenterdynamics.com/en/news/microsoft-reveals-azure-earnings-for-the-first-time-adjusts-financial-reporting-practices/) |
+| 2026-09-04 | Building clean power for data centers in a gas-obsessed market | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-04 | [link](https://www.latitudemedia.com/news/building-clean-power-for-data-centers-in-a-gas-obsessed-market/) |
+| 2026-09-04 | Utilities eye small modular nuclear reactors for reliability as hyperscalers drive demand | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-04 | [link](https://www.utilitydive.com/news/utilities-eye-small-modular-nuclear-reactors-for-reliability-as-hyperscaler/829681/) |
+| 2026-09-04 | The Pelican comparison grid for Astra is pretty interesting | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-04 | [link](https://simonwillison.net/2026/Sep/4/astra-pelicans/) |
+| 2026-09-04 | NBA Brings the Hammer on the Clippers — $30 Million Fine, 5 First-Round Draft Picks, and Steve Ballm | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-04 | [link](https://www.nytimes.com/athletic/7513882/2026/09/02/clippers-kawhi-leonard-punishment-fine-suspensions-nba-investigation/?unlocked_article_code=1.-lA.wcSN.awOHwzojR5nR) |
+| 2026-09-04 | Vinted | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-04 | [link](https://www.vinted.com/) |
+| 2026-09-04 | Fable 5.1 one shotted this | Reddit | Business | social | 2026-09-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w7bh9p/fable_51_one_shotted_this/) |
+| 2026-09-04 | We got a limits reset. | Reddit | Business | social | 2026-09-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w7ffob/we_got_a_limits_reset/) |
+| 2026-09-04 | Claude got usage limit reset | Reddit | Business | social | 2026-09-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w7hr8x/claude_got_usage_limit_reset/) |
+| 2026-09-04 | Did I get hacked??? | Reddit | Business | social | 2026-09-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w6z9qy/did_i_get_hacked/) |
+| 2026-09-04 | Asked Claude to reverse engineer a Cracktro EXE from 2001... it fully turned it into a portable html | Reddit | Business | social | 2026-09-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w6qliz/asked_claude_to_reverse_engineer_a_cracktro_exe/) |
+| 2026-09-04 | Claude will deliver your data in any way you want it. | Reddit | Business | social | 2026-09-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w7agvf/claude_will_deliver_your_data_in_any_way_you_want/) |
+| 2026-09-04 | Am I falling into the hype train or is Fable 5.1 really this better compared to everything else? Thi | Reddit | Business | social | 2026-09-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w77fyo/am_i_falling_into_the_hype_train_or_is_fable_51/) |
+| 2026-09-04 | Day 3 of making a cozy game with no dev experience. FAQ edition! | Reddit | Business | social | 2026-09-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w6u79l/day_3_of_making_a_cozy_game_with_no_dev/) |
+| 2026-09-04 | I’ve started using Claude for the parts of work I normally procrastinate on | Reddit | Business | social | 2026-09-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w70jgk/ive_started_using_claude_for_the_parts_of_work_i/) |
+| 2026-09-04 | Claude Code Beats Codex in a Negotiation Competition | Reddit | Business | social | 2026-09-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w6otte/claude_code_beats_codex_in_a_negotiation/) |
+| 2026-09-04 | Did we just get a reset? | Reddit | Business | social | 2026-09-04 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w7fckf/did_we_just_get_a_reset/) |
+| 2026-09-04 | Claude recommended that I set my Mac's date to the year 4026. Here's what happened, and why you prob | Reddit | Business | social | 2026-09-04 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w6w7y1/claude_recommended_that_i_set_my_macs_date_to_the/) |
+| 2026-09-04 | Claude Code v2.1.259 forces Co-Authored-By | Reddit | Business | social | 2026-09-04 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w6yw16/claude_code_v21259_forces_coauthoredby/) |
+| 2026-09-04 | Whew. Unbelievable disaster of a launch for Fable 5.1 | Reddit | Business | social | 2026-09-04 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w6u3ob/whew_unbelievable_disaster_of_a_launch_for_fable/) |
+| 2026-09-04 | 2 months of vibe coding my MMORPG with Claude Code | Reddit | Business | social | 2026-09-04 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w731nw/2_months_of_vibe_coding_my_mmorpg_with_claude_code/) |
+| 2026-09-04 | Doomscroll: new plugin for re-discovering and re-engaging with your notes | Reddit | Business | social | 2026-09-04 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w6xf0q/doomscroll_new_plugin_for_rediscovering_and/) |
+| 2026-09-04 | DnD Interactive Character sheet, with builder | Reddit | Business | social | 2026-09-04 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w71ezj/dnd_interactive_character_sheet_with_builder/) |
+| 2026-09-04 | Jetbrains Markdown Pro Plugin now supports Obsidian as well, looking for feedback! | Reddit | Business | social | 2026-09-04 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w6tiod/jetbrains_markdown_pro_plugin_now_supports/) |
+| 2026-09-04 | True Recall 2.3 is here: mobile beta + sync between devices | Reddit | Business | social | 2026-09-04 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w731im/true_recall_23_is_here_mobile_beta_sync_between/) |
+| 2026-09-04 | Word-Smith 1.4.0 -> You can now add properties to ANY file, not just your notes. Sort and filter you | Reddit | Business | social | 2026-09-04 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w79ut7/wordsmith_140_you_can_now_add_properties_to_any/) |
+| 2026-09-04 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-03 | .name Termination | HN | Technology | tech | 2026-09-03 | [link](https://neil.fraser.name/news/2026/09/03/) |
 | 2026-09-03 | GPT-6 Astra | HN | Technology | tech | 2026-09-03 | [link](https://openai.com/index/gpt-6-astra/) |
 | 2026-09-03 | Audacity 4.0 | HN | Technology | tech | 2026-09-03 | [link](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0) |
