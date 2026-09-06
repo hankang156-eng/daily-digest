@@ -1,9 +1,69 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-05 · 6865 items*
+*Last updated: 2026-09-06 · 6925 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-05 | Private German rocket makes history, reaches orbit from European soil | HN | Technology | tech | 2026-09-05 | [link](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket) |
+| 2026-09-05 | The Real Luxuries In Life | HN | Technology | tech | 2026-09-05 | [link](https://feld.com/archives/2026/09/the-real-luxuries-in-life/) |
+| 2026-09-05 | Cloud in a Bottle: making self-hosting accessible to everyone | HN | Technology | tech | 2026-09-05 | [link](https://cloudinabottle.org/blog/launch-post) |
+| 2026-09-05 | Chrome again exempts Google from user site data settings | HN | Technology | tech | 2026-09-05 | [link](https://lapcatsoftware.com/articles/2026/9/1.html) |
+| 2026-09-05 | AI handles incidents, engineers lose touch with their systems | HN | Technology | tech | 2026-09-05 | [link](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems) |
+| 2026-09-05 | Flock used >100 times to track veteran who recorded traffic stop | HN | Technology | tech | 2026-09-05 | [link](https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/) |
+| 2026-09-05 | Netherlands pulls gold out of the US | HN | Technology | tech | 2026-09-05 | [link](https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990) |
+| 2026-09-05 | The revolt of the reader | HN | Technology | tech | 2026-09-05 | [link](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/) |
+| 2026-09-05 | Git hosting that never leaves Europe | HN | Technology | tech | 2026-09-05 | [link](https://pushin.eu) |
+| 2026-09-05 | The "$60 Gaming PC" – AMD BC-250 (2025) | HN | Technology | tech | 2026-09-05 | [link](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/) |
+| 2026-09-05 | Global warming will exceed 1.5-degree limit, UN says | HN | Technology | tech | 2026-09-05 | [link](https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone) |
+| 2026-09-05 | How the Disaster of "Forever Chemicals" Was Kept Secret | HN | Technology | tech | 2026-09-05 | [link](https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen) |
+| 2026-09-05 | Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA | HN | Technology | tech | 2026-09-05 | [link](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/) |
+| 2026-09-05 | LLMs as a Cognitive Virus | HN | Technology | tech | 2026-09-05 | [link](https://arxiv.org/abs/2609.03344) |
+| 2026-09-05 | Learn Programming with OCaml | HN | Technology | tech | 2026-09-05 | [link](https://usr.lmf.cnrs.fr/lpo/) |
+| 2026-09-05 | Why are European countries moving their gold out of North America? | HN | Technology | tech | 2026-09-05 | [link](https://www.bbc.com/news/articles/cvgyn8q8gqxo) |
+| 2026-09-05 | How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips | NYT · AI | AI | news | 2026-09-06 | [link](https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html) |
+| 2026-09-05 | Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports | NYT · AI | AI | news | 2026-09-05 | [link](https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html) |
+| 2026-09-05 | Corporate America Is Getting Hooked on Open-Source A.I. | NYT · AI | AI | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html) |
+| 2026-09-05 | Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement | NYT · AI | AI | news | 2026-09-05 | [link](https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html) |
+| 2026-09-05 | How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face | NYT · Technology | Technology | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html) |
+| 2026-09-05 | Which Investors Will Get Rich From Anthropic’s IPO? | NYT · Technology | Technology | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html) |
+| 2026-09-05 | Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI | NYT · AI | AI | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html) |
+| 2026-09-05 | Nvidia Buys Hugging Face in $12.9 Billion Deal | NYT · Technology | Technology | news | 2026-09-03 | [link](https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html) |
+| 2026-09-05 | Trump Threatens to Halt Some Trade Unless the Fed Cuts Rates | NYT · Economy | Economy | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html) |
+| 2026-09-05 | Kenyans Made a Living Writing College Essays. Then A.I. Arrived. | NYT · AI | AI | opinion | 2026-09-05 | [link](https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html) |
+| 2026-09-05 | Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google | NYT · Business | Business | news | 2026-09-03 | [link](https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html) |
+| 2026-09-05 | How Scared Should We Be of A.I. Right Now? | NYT · AI | AI | opinion | 2026-09-05 | [link](https://www.nytimes.com/2026/09/05/opinion/ai-silicon-valley.html) |
+| 2026-09-05 | ‘Wrongheaded and Perilous’: 3 Writers on the Big Meta Ruling | NYT · AI | AI | opinion | 2026-09-04 | [link](https://www.nytimes.com/2026/09/04/opinion/a-win-for-meta-a-debate-on-the-big-social-media-ruling.html) |
+| 2026-09-05 | We Can’t Know Our A.I. Future if We Don’t Study It | NYT · Opinion | Opinion | opinion | 2026-09-06 | [link](https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html) |
+| 2026-09-05 | Why the Hugging Face Hack Should Make You Worry More About A.I. | NYT · Technology | Technology | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html) |
+| 2026-09-05 | Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones | NYT · Politics | Politics | news | 2026-09-05 | [link](https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html) |
+| 2026-09-05 | As Midterms Approach, Republicans Find There Is No Escape From Trump | NYT · Politics | Politics | news | 2026-09-06 | [link](https://www.nytimes.com/2026/09/06/us/politics/trump-miderm-elections-republicans.html) |
+| 2026-09-05 | Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated. | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html) |
+| 2026-09-05 | Is Work Starting for Trump’s Arch? It Depends Who’s Asking. | NYT · Politics | Politics | news | 2026-09-05 | [link](https://www.nytimes.com/2026/09/05/us/politics/trump-arch-justice-department.html) |
+| 2026-09-05 | Missouri Asks Supreme Court to Allow Voting Map Benefiting Republicans | NYT · Politics | Politics | news | 2026-09-05 | [link](https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html) |
+| 2026-09-05 | The role of manufacturing in tomorrow’s data center buildouts | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-05 | [link](https://www.datacenterdynamics.com/en/opinions/the-role-of-manufacturing-in-tomorrows-data-center-buildouts/) |
+| 2026-09-05 | Sponsored: Planning power and cooling for high-density AI | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-05 | [link](https://www.datacenterdynamics.com/en/marketwatch/planning-power-and-cooling-for-high-density-ai/) |
+| 2026-09-05 | AI programming: a layered model | Lemire.me · Tech & Engineering | Technology | tech | 2026-09-05 | [link](https://lemire.me/blog/2026/09/05/ai-programming-a-layered-model/) |
+| 2026-09-05 | Introducing GPT-6 Astra for developers | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-05 | [link](https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/) |
+| 2026-09-05 | Using Blender with coding agents on macOS | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-05 | [link](https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/) |
+| 2026-09-05 | Gloria Steinem’s Final Essay | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-05 | [link](https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350) |
+| 2026-09-05 | ‘Bob and Van’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-05 | [link](https://marco.org/2026/09/04/bob-and-van) |
+| 2026-09-05 | Book Review: The Passing of the Dragon and Other Stories by Ken Liu ★★★★☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-09-05 | [link](https://shkspr.mobi/blog/2026/09/book-review-the-passing-of-the-dragon-and-other-stories-by-ken-liu/) |
+| 2026-09-05 | sub agents being released into my codebase | Reddit | Business | social | 2026-09-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w801bh/sub_agents_being_released_into_my_codebase/) |
+| 2026-09-05 | Fable vs. Astra | Reddit | Business | social | 2026-09-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w7ulqw/fable_vs_astra/) |
+| 2026-09-05 | I miss when people built things for the internet without turning everything into a subscription | Reddit | Business | social | 2026-09-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w7web0/i_miss_when_people_built_things_for_the_internet/) |
+| 2026-09-05 | New #1 on Code Arena: Astra and Fable 5.1 are in a class of their own. Anyone seeing real world diff | Reddit | Business | social | 2026-09-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w8b57m/new_1_on_code_arena_astra_and_fable_51_are_in_a/) |
+| 2026-09-05 | A small gift to all my opusfived friends | Reddit | Business | social | 2026-09-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w80umw/a_small_gift_to_all_my_opusfived_friends/) |
+| 2026-09-05 | What's going on with claude usage | Reddit | Business | social | 2026-09-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w81w5b/whats_going_on_with_claude_usage/) |
+| 2026-09-05 | I redrew Artificial Analysis using subscription costs instead of API pricing | Reddit | Business | social | 2026-09-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w7mwbb/i_redrew_artificial_analysis_using_subscription/) |
+| 2026-09-05 | Suddenly worried about costs of Claude | Reddit | Business | social | 2026-09-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w8fy9u/suddenly_worried_about_costs_of_claude/) |
+| 2026-09-05 | GPT vs. Claude: Is the extra intelligence worth the extra cost? | Reddit | Business | social | 2026-09-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w7r3u1/gpt_vs_claude_is_the_extra_intelligence_worth_the/) |
+| 2026-09-05 | Am I the only one noticing the same pattern with every launch? Fable vs Astra | Reddit | Business | social | 2026-09-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w8g9dx/am_i_the_only_one_noticing_the_same_pattern_with/) |
+| 2026-09-05 | Technically … 🤷‍♂️ | Reddit | Business | social | 2026-09-05 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w87vcp/technically/) |
+| 2026-09-05 | I built a job search engine for Claude Code. It read 10,000+ postings against my resume and picked 1 | Reddit | Business | social | 2026-09-05 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w8e6i5/i_built_a_job_search_engine_for_claude_code_it/) |
+| 2026-09-05 | Insulting agents considered harmful | Reddit | Business | social | 2026-09-05 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w7me8l/insulting_agents_considered_harmful/) |
+| 2026-09-05 | Guys is this the right one? | Reddit | Business | social | 2026-09-05 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w7n66y/guys_is_this_the_right_one/) |
+| 2026-09-05 | My experience with Opus/Fable vs Astra | Reddit | Business | social | 2026-09-05 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w7y24r/my_experience_with_opusfable_vs_astra/) |
+| 2026-09-05 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-04 | Discovery of a new OpenAI agent message board | HN | Technology | tech | 2026-09-04 | [link](https://collusion.wiki/) |
 | 2026-09-04 | Formalizing Fermat's Last Theorem | HN | Technology | tech | 2026-09-04 | [link](https://www.anthropic.com/research/formalizing-fermats-last-theorem) |
 | 2026-09-04 | Hackers had a live feed of every ID verification company scanned for over a year | HN | Technology | tech | 2026-09-04 | [link](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/) |

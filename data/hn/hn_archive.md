@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-05 · 482 days · 4820 stories*
+*Last updated: 2026-09-06 · 483 days · 4830 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-05 | Saturday | 1 | Private German rocket makes history, reaches orbit from European soil | 605 | 318 | Technology | [link](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket) · [HN](https://news.ycombinator.com/item?id=49580369) |
+| 2026-09-05 | Saturday | 2 | The Real Luxuries In Life | 481 | 226 | Technology | [link](https://feld.com/archives/2026/09/the-real-luxuries-in-life/) · [HN](https://news.ycombinator.com/item?id=49578866) |
+| 2026-09-05 | Saturday | 3 | Cloud in a Bottle: making self-hosting accessible to everyone | 403 | 189 | Technology | [link](https://cloudinabottle.org/blog/launch-post) · [HN](https://news.ycombinator.com/item?id=49582000) |
+| 2026-09-05 | Saturday | 4 | Chrome again exempts Google from user site data settings | 403 | 60 | Technology | [link](https://lapcatsoftware.com/articles/2026/9/1.html) · [HN](https://news.ycombinator.com/item?id=49581870) |
+| 2026-09-05 | Saturday | 5 | AI handles incidents, engineers lose touch with their systems | 382 | 333 | Technology | [link](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems) · [HN](https://news.ycombinator.com/item?id=49574167) |
+| 2026-09-05 | Saturday | 6 | Flock used >100 times to track veteran who recorded traffic stop | 359 | 188 | Technology | [link](https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/) · [HN](https://news.ycombinator.com/item?id=49578310) |
+| 2026-09-05 | Saturday | 7 | Netherlands pulls gold out of the US | 358 | 260 | Technology | [link](https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990) · [HN](https://news.ycombinator.com/item?id=49575034) |
+| 2026-09-05 | Saturday | 8 | The revolt of the reader | 357 | 147 | Technology | [link](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/) · [HN](https://news.ycombinator.com/item?id=49580939) |
+| 2026-09-05 | Saturday | 9 | Git hosting that never leaves Europe | 344 | 157 | Technology | [link](https://pushin.eu) · [HN](https://news.ycombinator.com/item?id=49573680) |
+| 2026-09-05 | Saturday | 10 | The "$60 Gaming PC" – AMD BC-250 (2025) | 343 | 99 | Technology | [link](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/) · [HN](https://news.ycombinator.com/item?id=49576386) |
 | 2026-09-04 | Friday | 1 | Discovery of a new OpenAI agent message board | 1725 | 1320 | Technology | [link](https://collusion.wiki/) · [HN](https://news.ycombinator.com/item?id=49563355) |
 | 2026-09-04 | Friday | 2 | Formalizing Fermat's Last Theorem | 619 | 387 | Technology | [link](https://www.anthropic.com/research/formalizing-fermats-last-theorem) · [HN](https://news.ycombinator.com/item?id=49568506) |
 | 2026-09-04 | Friday | 3 | Hackers had a live feed of every ID verification company scanned for over a year | 541 | 237 | Technology | [link](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/) · [HN](https://news.ycombinator.com/item?id=49561320) |
