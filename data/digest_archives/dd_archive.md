@@ -1,9 +1,63 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-06 · 6925 items*
+*Last updated: 2026-09-07 · 6979 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-06 | QBittorrent breaks out of sandbox to commit crimes | HN | Technology | tech | 2026-09-06 | [link](https://beige.party/@intransitivelie/117057396732763183) |
+| 2026-09-06 | Nitter and XCancel resume service after legal advice | HN | Technology | tech | 2026-09-06 | [link](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3) |
+| 2026-09-06 | Your intellectual fly is open when you use an LLM to author a post (2025) | HN | Technology | tech | 2026-09-06 | [link](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/) |
+| 2026-09-06 | Isar Aerospace reaches orbit and deploys payloads on second flight | HN | Technology | tech | 2026-09-06 | [link](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight) |
+| 2026-09-06 | A/I shuts down | HN | Technology | tech | 2026-09-06 | [link](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/) |
+| 2026-09-06 | Asahi Linux on M3 | HN | Technology | tech | 2026-09-06 | [link](https://asahilinux.org/2026/09/m2-episode-1/) |
+| 2026-09-06 | Keep Our Servers Running | HN | Technology | tech | 2026-09-06 | [link](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/) |
+| 2026-09-06 | An Alien Mind | HN | Technology | tech | 2026-09-06 | [link](https://openai.com/index/an-alien-mind/) |
+| 2026-09-06 | Doomscrolling ourselves to death | HN | Technology | tech | 2026-09-06 | [link](https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death) |
+| 2026-09-06 | GrapheneOS Overhauled Default Apps and Secure Clipboard | HN | Technology | tech | 2026-09-06 | [link](https://grapheneos.social/@GrapheneOS/117225539756835649) |
+| 2026-09-06 | It took a year to ship WebAssembly in Anubis | HN | Technology | tech | 2026-09-06 | [link](https://anubis.techaro.lol/blog/2026/anubis-wasm/) |
+| 2026-09-06 | Following legal advice, the Nitter project will continue | HN | Technology | tech | 2026-09-06 | [link](https://github.com/zedeus/nitter) |
+| 2026-09-06 | Making a Python interpreter in 1024 bytes | HN | Technology | tech | 2026-09-06 | [link](https://austinhenley.com/blog/python1024.html) |
+| 2026-09-06 | You Don't Have a Right to Safe Drinking Water, US Court Rules | HN | Technology | tech | 2026-09-06 | [link](https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/) |
+| 2026-09-06 | Research acceleration: The view inside OpenAI | HN | Technology | tech | 2026-09-06 | [link](https://openai.com/index/research-acceleration-view-inside-openai) |
+| 2026-09-06 | How I feel about AI | HN | Technology | tech | 2026-09-06 | [link](https://beza1e1.tuxen.de/ai_feelings.html) |
+| 2026-09-06 | Why Labor’s Share of Wealth Is Shrinking | NYT · AI | AI | opinion | 2026-09-07 | [link](https://www.nytimes.com/2026/09/07/opinion/labor-capitol-workers-income.html) |
+| 2026-09-06 | How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips | NYT · AI | AI | news | 2026-09-06 | [link](https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html) |
+| 2026-09-06 | We Can’t Know Our A.I. Future if We Don’t Study It | NYT · AI | AI | opinion | 2026-09-06 | [link](https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html) |
+| 2026-09-06 | When A.I. Starts Scheming | NYT · AI | AI | news | 2026-09-07 | [link](https://www.nytimes.com/2026/09/06/world/ai-hugging-face-afd-germany-election.html) |
+| 2026-09-06 | Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports | NYT · AI | AI | news | 2026-09-05 | [link](https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html) |
+| 2026-09-06 | How Scared Should We Be of A.I. Right Now? | NYT · AI | AI | opinion | 2026-09-05 | [link](https://www.nytimes.com/2026/09/05/opinion/ai-silicon-valley.html) |
+| 2026-09-06 | How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face | NYT · Technology | Technology | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html) |
+| 2026-09-06 | Which Investors Will Get Rich From Anthropic’s IPO? | NYT · Technology | Technology | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html) |
+| 2026-09-06 | Nvidia Buys Hugging Face in $12.9 Billion Deal | NYT · Technology | Technology | news | 2026-09-03 | [link](https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html) |
+| 2026-09-06 | Early Data Indicates an A.I.-Generated Drug Could Slow Aging | NYT · AI | AI | news | 2026-09-07 | [link](https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html) |
+| 2026-09-06 | China’s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I. | NYT · AI | AI | news | 2026-09-06 | [link](https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html) |
+| 2026-09-06 | Trump Threatens to Halt Some Trade Unless the Fed Cuts Rates | NYT · Economy | Economy | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html) |
+| 2026-09-06 | Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement | NYT · AI | AI | news | 2026-09-05 | [link](https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html) |
+| 2026-09-06 | Corporate America Is Getting Hooked on Open-Source A.I. | NYT · Technology | Technology | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html) |
+| 2026-09-06 | How a Colorado School District Is Fighting Trump’s Anti-Transgender Push | NYT · Politics | Politics | news | 2026-09-07 | [link](https://www.nytimes.com/2026/09/07/us/politics/jefferson-county-trump-transgender-lawsuit.html) |
+| 2026-09-06 | Kenyans Made a Living Writing College Essays. Then A.I. Arrived. | NYT · AI | AI | opinion | 2026-09-05 | [link](https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html) |
+| 2026-09-06 | As Midterms Approach, Republicans Find There Is No Escape From Trump | NYT · Politics | Politics | news | 2026-09-06 | [link](https://www.nytimes.com/2026/09/06/us/politics/trump-miderm-elections-republicans.html) |
+| 2026-09-06 | Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated. | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html) |
+| 2026-09-06 | Trump Administration Again Asks Supreme Court to Allow Mail Voting Restrictions | NYT · Politics | Politics | news | 2026-09-06 | [link](https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html) |
+| 2026-09-06 | Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones | NYT · Politics | Politics | news | 2026-09-05 | [link](https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html) |
+| 2026-09-06 | Research acceleration: The view inside OpenAI | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-06 | [link](https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/) |
+| 2026-09-06 | Why data center cooling is now business-critical | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-06 | [link](https://www.datacenterdynamics.com/en/opinions/why-data-center-cooling-is-now-business-critical/) |
+| 2026-09-06 | The electrical power problem that will decide the AI race | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-06 | [link](https://www.datacenterdynamics.com/en/opinions/the-electrical-power-problem-that-will-decide-the-ai-race/) |
+| 2026-09-06 | Weekly Update 520: The Unscripted Edition | Troy Hunt · Security & Privacy | Security | tech | 2026-09-06 | [link](https://www.troyhunt.com/weekly-update-520/) |
+| 2026-09-06 | Quoting Zach Kehs | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-06 | [link](https://simonwillison.net/2026/Sep/6/zach-kehs/) |
+| 2026-09-06 | Meta AI Has a Native Mac App Now, and It Seems Decent | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-06 | [link](https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/) |
+| 2026-09-06 | Dickover of the Week: Slashdot Put One in Their RSS Feed | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-06 | [link](https://discourse.netnewswire.com/t/dickover-in-the-slashdot-rss-feed/372) |
+| 2026-09-06 | I thought I will never say this about Fable | Reddit | Business | social | 2026-09-06 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w8h2mj/i_thought_i_will_never_say_this_about_fable/) |
+| 2026-09-06 | Fable 5.1 vs Astra | Reddit | Business | social | 2026-09-06 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w8m0ho/fable_51_vs_astra/) |
+| 2026-09-06 | I canceled Claude because I wanted to test Astra. Here are my 2 cents | Reddit | Business | social | 2026-09-06 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w8u4jm/i_canceled_claude_because_i_wanted_to_test_astra/) |
+| 2026-09-06 | Stop posting about limits. Fix your workflow | Reddit | Business | social | 2026-09-06 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w8vi25/stop_posting_about_limits_fix_your_workflow/) |
+| 2026-09-06 | Anthropic, regional pricing exists. Please use it. | Reddit | Business | social | 2026-09-06 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w8msqp/anthropic_regional_pricing_exists_please_use_it/) |
+| 2026-09-06 | Vault Graph 2.0: Rebuild, tweaked and ready for feature requests. | Reddit | Business | social | 2026-09-06 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w94ofc/vault_graph_20_rebuild_tweaked_and_ready_for/) |
+| 2026-09-06 | [Awesome Obsidian] A collection of awesome Obsidian plugins, themes, tools and more! | Reddit | Business | social | 2026-09-06 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w8zmst/awesome_obsidian_a_collection_of_awesome_obsidian/) |
+| 2026-09-06 | [ReverySky 3D Graph] Notes as planets, properties as landmarks | Reddit | Business | social | 2026-09-06 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w8trpf/reverysky_3d_graph_notes_as_planets_properties_as/) |
+| 2026-09-06 | Do you write everything in Obsidian? | Reddit | Business | social | 2026-09-06 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w8vo1i/do_you_write_everything_in_obsidian/) |
+| 2026-09-06 | Obsidian or OneNote for personal information system? | Reddit | Business | social | 2026-09-06 | [link](https://www.reddit.com/r/ObsidianMD/comments/1w94l3z/obsidian_or_onenote_for_personal_information/) |
+| 2026-09-06 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-05 | Private German rocket makes history, reaches orbit from European soil | HN | Technology | tech | 2026-09-05 | [link](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket) |
 | 2026-09-05 | The Real Luxuries In Life | HN | Technology | tech | 2026-09-05 | [link](https://feld.com/archives/2026/09/the-real-luxuries-in-life/) |
 | 2026-09-05 | Cloud in a Bottle: making self-hosting accessible to everyone | HN | Technology | tech | 2026-09-05 | [link](https://cloudinabottle.org/blog/launch-post) |

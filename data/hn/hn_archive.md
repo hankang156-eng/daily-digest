@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-06 · 483 days · 4830 stories*
+*Last updated: 2026-09-07 · 484 days · 4840 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-06 | Sunday | 1 | QBittorrent breaks out of sandbox to commit crimes | 1271 | 275 | Technology | [link](https://beige.party/@intransitivelie/117057396732763183) · [HN](https://news.ycombinator.com/item?id=49586171) |
+| 2026-09-06 | Sunday | 2 | Nitter and XCancel resume service after legal advice | 749 | 328 | Technology | [link](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3) · [HN](https://news.ycombinator.com/item?id=49588988) |
+| 2026-09-06 | Sunday | 3 | Your intellectual fly is open when you use an LLM to author a post (2025) | 653 | 408 | Technology | [link](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/) · [HN](https://news.ycombinator.com/item?id=49585644) |
+| 2026-09-06 | Sunday | 4 | Isar Aerospace reaches orbit and deploys payloads on second flight | 586 | 186 | Technology | [link](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight) · [HN](https://news.ycombinator.com/item?id=49584083) |
+| 2026-09-06 | Sunday | 5 | A/I shuts down | 582 | 480 | Technology | [link](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/) · [HN](https://news.ycombinator.com/item?id=49586898) |
+| 2026-09-06 | Sunday | 6 | Asahi Linux on M3 | 477 | 297 | Technology | [link](https://asahilinux.org/2026/09/m2-episode-1/) · [HN](https://news.ycombinator.com/item?id=49586698) |
+| 2026-09-06 | Sunday | 7 | Keep Our Servers Running | 470 | 100 | Technology | [link](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/) · [HN](https://news.ycombinator.com/item?id=49593563) |
+| 2026-09-06 | Sunday | 8 | An Alien Mind | 413 | 362 | Technology | [link](https://openai.com/index/an-alien-mind/) · [HN](https://news.ycombinator.com/item?id=49588080) |
+| 2026-09-06 | Sunday | 9 | Doomscrolling ourselves to death | 394 | 294 | Technology | [link](https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death) · [HN](https://news.ycombinator.com/item?id=49585627) |
+| 2026-09-06 | Sunday | 10 | GrapheneOS Overhauled Default Apps and Secure Clipboard | 294 | 211 | Technology | [link](https://grapheneos.social/@GrapheneOS/117225539756835649) · [HN](https://news.ycombinator.com/item?id=49590512) |
 | 2026-09-05 | Saturday | 1 | Private German rocket makes history, reaches orbit from European soil | 605 | 318 | Technology | [link](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket) · [HN](https://news.ycombinator.com/item?id=49580369) |
 | 2026-09-05 | Saturday | 2 | The Real Luxuries In Life | 481 | 226 | Technology | [link](https://feld.com/archives/2026/09/the-real-luxuries-in-life/) · [HN](https://news.ycombinator.com/item?id=49578866) |
 | 2026-09-05 | Saturday | 3 | Cloud in a Bottle: making self-hosting accessible to everyone | 403 | 189 | Technology | [link](https://cloudinabottle.org/blog/launch-post) · [HN](https://news.ycombinator.com/item?id=49582000) |
