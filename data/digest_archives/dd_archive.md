@@ -1,9 +1,67 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-07 · 6979 items*
+*Last updated: 2026-09-08 · 7037 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-07 | LG smart TVs caught logging audio with screen off and snooping on local devices | HN | Technology | tech | 2026-09-07 | [link](https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html) |
+| 2026-09-07 | De-Brainrot Vacations | HN | Technology | tech | 2026-09-07 | [link](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/) |
+| 2026-09-07 | bzip3 | HN | Technology | tech | 2026-09-07 | [link](https://github.com/iczelia/bzip3) |
+| 2026-09-07 | Bill Gates tries to install MovieMaker (2003) | HN | Technology | tech | 2026-09-07 | [link](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker) |
+| 2026-09-07 | Jellyfin 12.0 | HN | Technology | tech | 2026-09-07 | [link](https://jellyfin.org/posts/jellyfin-release-12.0/) |
+| 2026-09-07 | Switzerland's Federal Government Is Replacing Microsoft on 3k Computers | HN | Technology | tech | 2026-09-07 | [link](https://itsfoss.com/news/switzerland-replace-microssoft-pilot/) |
+| 2026-09-07 | I've factored the RSA keys of a Certificate Authority from the 90s | HN | Technology | tech | 2026-09-07 | [link](https://mcpherrin.ca/2026/09/07/rsa.html) |
+| 2026-09-07 | 'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes | HN | Technology | tech | 2026-09-07 | [link](https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/) |
+| 2026-09-07 | Smartphone makers don't bother to comply with EU repairability requirements | HN | Technology | tech | 2026-09-07 | [link](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532) |
+| 2026-09-07 | Watch Los Angeles get built, one building at a time (1880–2026) | HN | Technology | tech | 2026-09-07 | [link](https://lax-skyline.parcelscope.net/) |
+| 2026-09-07 | Caltech Mathathon – first hackathon ever devoted to research level mathematics | HN | Technology | tech | 2026-09-07 | [link](https://mathathonchallenge.com/index.html) |
+| 2026-09-07 | Splash-free urinals (2025) | HN | Technology | tech | 2026-09-07 | [link](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false) |
+| 2026-09-07 | TALA Is Open-Source | HN | Technology | tech | 2026-09-07 | [link](https://d2lang.com/blog/tala-is-open-source/) |
+| 2026-09-07 | Tiny $70 Xteink X3 e-reader | HN | Technology | tech | 2026-09-07 | [link](https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/) |
+| 2026-09-07 | Leaving VMware just got harder after Broadcom pulled VDDK downloads | HN | Technology | tech | 2026-09-07 | [link](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/) |
+| 2026-09-07 | Live map of public transport in Belgium | HN | Technology | tech | 2026-09-07 | [link](https://openbaarvervoerbelgie.be/) |
+| 2026-09-07 | Why Stocks Are Defying Gravity and What Could Bring Them Down | NYT · AI | AI | news | 2026-09-08 | [link](https://www.nytimes.com/2026/09/08/business/stock-market-interest-rates.html) |
+| 2026-09-07 | French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift | NYT · AI | AI | news | 2026-09-08 | [link](https://www.nytimes.com/2026/09/08/business/mistral-ai-fund-raising.html) |
+| 2026-09-07 | A.I. Models Built a Computer Worm That Could Rapidly Hack WeChat Accounts | NYT · AI | AI | news | 2026-09-08 | [link](https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html) |
+| 2026-09-07 | Key App Developers Have Yet to Embrace Apple’s New Siri A.I. | NYT · AI | AI | news | 2026-09-08 | [link](https://www.nytimes.com/2026/09/08/technology/apple-siri-ai.html) |
+| 2026-09-07 | Why Labor’s Share of Wealth Is Shrinking | NYT · Opinion | Opinion | opinion | 2026-09-07 | [link](https://www.nytimes.com/2026/09/07/opinion/labor-capitol-workers-income.html) |
+| 2026-09-07 | How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips | NYT · Technology | Technology | news | 2026-09-08 | [link](https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html) |
+| 2026-09-07 | How to Stop Cheating in the A.I. Era | NYT · AI | AI | opinion | 2026-09-07 | [link](https://www.nytimes.com/2026/09/07/opinion/letters/stop-cheating-ai.html) |
+| 2026-09-07 | Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports | NYT · Technology | Technology | news | 2026-09-05 | [link](https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html) |
+| 2026-09-07 | How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face | NYT · Technology | Technology | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html) |
+| 2026-09-07 | Near the Border, Americans Fear Losing Ties With Canadians | NYT · U.S. | U.S. | news | 2026-09-08 | [link](https://www.nytimes.com/2026/09/08/us/canada-tariffs-us-relationship.html) |
+| 2026-09-07 | A.I. Listings Are So Widespread Even Zillow Is Concerned | NYT · AI | AI | news | 2026-09-08 | [link](https://www.nytimes.com/2026/09/08/realestate/ai-real-estate-listings-legislation.html) |
+| 2026-09-07 | Which Investors Will Get Rich From Anthropic’s IPO? | NYT · Technology | Technology | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html) |
+| 2026-09-07 | Trump Threatens to Halt Some Trade Unless the Fed Cuts Rates | NYT · Economy | Economy | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html) |
+| 2026-09-07 | U.S. Reading Scores Plummet on Global Exam | NYT · AI | AI | news | 2026-09-08 | [link](https://www.nytimes.com/2026/09/08/us/us-reading-test-scores-pisa.html) |
+| 2026-09-07 | We’ve Forgotten the Most Important Lessons of 9/11 | NYT · AI | AI | opinion | 2026-09-08 | [link](https://www.nytimes.com/2026/09/08/opinion/september-11-al-qaeda-attacks.html) |
+| 2026-09-07 | How a Colorado School District Is Fighting Trump’s Anti-Transgender Push | NYT · Politics | Politics | news | 2026-09-07 | [link](https://www.nytimes.com/2026/09/07/us/politics/jefferson-county-trump-transgender-lawsuit.html) |
+| 2026-09-07 | We Can’t Know Our A.I. Future if We Don’t Study It | NYT · Opinion | Opinion | opinion | 2026-09-06 | [link](https://www.nytimes.com/2026/09/06/opinion/ai-social-sciences.html) |
+| 2026-09-07 | Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated. | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html) |
+| 2026-09-07 | ‘Go Get Your Kicks’: The Europeans Obsessed With a U.S. Highway | NYT · Business | Business | news | 2026-09-07 | [link](https://www.nytimes.com/2026/09/06/business/route-66-highway-centennial.html) |
+| 2026-09-07 | CCRCs Are Expanding Retirement Home Care to Seniors’ Own Homes | NYT · Business | Business | news | 2026-09-07 | [link](https://www.nytimes.com/2026/09/06/business/retirement-long-term-care.html) |
+| 2026-09-07 | Two men arrested over copper theft in Lyon County, Kentucky | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-07 | [link](https://www.datacenterdynamics.com/en/news/two-men-arrested-over-copper-theft-in-lyon-county-kentucky/) |
+| 2026-09-07 | Ireland weighs cut-price gas for data centers in exchange for curtailment - report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-07 | [link](https://www.datacenterdynamics.com/en/news/ireland-weighs-cut-price-gas-for-data-centers-in-exchange-for-curtailment-report/) |
+| 2026-09-07 | Quoting Jakub Pachocki | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-07 | [link](https://simonwillison.net/2026/Sep/7/jakub-pachocki/) |
+| 2026-09-07 | Matt Birchler’s Folding iPhone Predictions | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-07 | [link](https://birchtree.me/blog/my-folding-iphone-predictions/) |
+| 2026-09-07 | [Sponsor] Glyphs 4 | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-07 | [link](https://glyphsapp.com/) |
+| 2026-09-07 | llm 0.35 | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-07 | [link](https://simonwillison.net/2026/Sep/7/llm/) |
+| 2026-09-07 | Notion's Official MCP connector prompt injects AI agents to advertise products mid-task | Reddit | Business | social | 2026-09-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w9dluw/notions_official_mcp_connector_prompt_injects_ai/) |
+| 2026-09-07 | Tried GPT Astra today | Reddit | Business | social | 2026-09-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w9xeyl/tried_gpt_astra_today/) |
+| 2026-09-07 | Inside Anthropic Labs, the small team behind Claude Code and other fast-moving product bets | Reddit | Business | social | 2026-09-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w9pcjq/inside_anthropic_labs_the_small_team_behind/) |
+| 2026-09-07 | Claude's responses are just word vomit | Reddit | Business | social | 2026-09-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wa544p/claudes_responses_are_just_word_vomit/) |
+| 2026-09-07 | denzel explains ai slop | Reddit | Business | social | 2026-09-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w9h9wi/denzel_explains_ai_slop/) |
+| 2026-09-07 | One Claude Code feature I was underusing: hooks | Reddit | Business | social | 2026-09-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w9vof4/one_claude_code_feature_i_was_underusing_hooks/) |
+| 2026-09-07 | Claude Pro Token Usage Has Increased Dramatically After the Latest Update. Anyone Else? | Reddit | Business | social | 2026-09-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w9i1iv/claude_pro_token_usage_has_increased_dramatically/) |
+| 2026-09-07 | Week 6 of making my fishing game entirely with AI | Reddit | Business | social | 2026-09-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w9zz9f/week_6_of_making_my_fishing_game_entirely_with_ai/) |
+| 2026-09-07 | Why applying Anthropic's model-level watermark to source code is a software sovereignty issue (and n | Reddit | Business | social | 2026-09-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w9s6jr/why_applying_anthropics_modellevel_watermark_to/) |
+| 2026-09-07 | AI flagged 20 problems in a legal doc. None of them were real problems. | Reddit | Business | social | 2026-09-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1w9zp2m/ai_flagged_20_problems_in_a_legal_doc_none_of/) |
+| 2026-09-07 | Denzel Explains AI "Slop" | Reddit | Business | social | 2026-09-07 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w9e1tg/denzel_explains_ai_slop/) |
+| 2026-09-07 | Coding on an Linux machine over SSH has been a game changer for Quality of Life | Reddit | Business | social | 2026-09-07 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w9yzkw/coding_on_an_linux_machine_over_ssh_has_been_a/) |
+| 2026-09-07 | Claude just compacted my session and took me from 15% usage to 90% 💀 | Reddit | Business | social | 2026-09-07 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w9wf7z/claude_just_compacted_my_session_and_took_me_from/) |
+| 2026-09-07 | Programming using Claude makes me kinda sad | Reddit | Business | social | 2026-09-07 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wa744p/programming_using_claude_makes_me_kinda_sad/) |
+| 2026-09-07 | So I said to myself: “You’ve never used Ultracode before… What could possibly go wrong...?” | Reddit | Business | social | 2026-09-07 | [link](https://www.reddit.com/r/ClaudeCode/comments/1w9ty8g/so_i_said_to_myself_youve_never_used_ultracode/) |
+| 2026-09-07 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-06 | QBittorrent breaks out of sandbox to commit crimes | HN | Technology | tech | 2026-09-06 | [link](https://beige.party/@intransitivelie/117057396732763183) |
 | 2026-09-06 | Nitter and XCancel resume service after legal advice | HN | Technology | tech | 2026-09-06 | [link](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3) |
 | 2026-09-06 | Your intellectual fly is open when you use an LLM to author a post (2025) | HN | Technology | tech | 2026-09-06 | [link](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/) |

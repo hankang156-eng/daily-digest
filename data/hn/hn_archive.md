@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-07 · 484 days · 4840 stories*
+*Last updated: 2026-09-08 · 485 days · 4850 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-07 | Monday | 1 | LG smart TVs caught logging audio with screen off and snooping on local devices | 1138 | 3 | Technology | [link](https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html) · [HN](https://news.ycombinator.com/item?id=49594878) |
+| 2026-09-07 | Monday | 2 | De-Brainrot Vacations | 485 | 196 | Technology | [link](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/) · [HN](https://news.ycombinator.com/item?id=49597907) |
+| 2026-09-07 | Monday | 3 | bzip3 | 408 | 117 | Technology | [link](https://github.com/iczelia/bzip3) · [HN](https://news.ycombinator.com/item?id=49598291) |
+| 2026-09-07 | Monday | 4 | Bill Gates tries to install MovieMaker (2003) | 397 | 267 | Technology | [link](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker) · [HN](https://news.ycombinator.com/item?id=49599481) |
+| 2026-09-07 | Monday | 5 | Jellyfin 12.0 | 370 | 151 | Technology | [link](https://jellyfin.org/posts/jellyfin-release-12.0/) · [HN](https://news.ycombinator.com/item?id=49604861) |
+| 2026-09-07 | Monday | 6 | Switzerland's Federal Government Is Replacing Microsoft on 3k Computers | 348 | 277 | Technology | [link](https://itsfoss.com/news/switzerland-replace-microssoft-pilot/) · [HN](https://news.ycombinator.com/item?id=49594251) |
+| 2026-09-07 | Monday | 7 | I've factored the RSA keys of a Certificate Authority from the 90s | 331 | 56 | Technology | [link](https://mcpherrin.ca/2026/09/07/rsa.html) · [HN](https://news.ycombinator.com/item?id=49604637) |
+| 2026-09-07 | Monday | 8 | 'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes | 310 | 271 | Technology | [link](https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/) · [HN](https://news.ycombinator.com/item?id=49596119) |
+| 2026-09-07 | Monday | 9 | Smartphone makers don't bother to comply with EU repairability requirements | 291 | 193 | Technology | [link](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532) · [HN](https://news.ycombinator.com/item?id=49597189) |
+| 2026-09-07 | Monday | 10 | Watch Los Angeles get built, one building at a time (1880–2026) | 291 | 144 | Technology | [link](https://lax-skyline.parcelscope.net/) · [HN](https://news.ycombinator.com/item?id=49601655) |
 | 2026-09-06 | Sunday | 1 | QBittorrent breaks out of sandbox to commit crimes | 1271 | 275 | Technology | [link](https://beige.party/@intransitivelie/117057396732763183) · [HN](https://news.ycombinator.com/item?id=49586171) |
 | 2026-09-06 | Sunday | 2 | Nitter and XCancel resume service after legal advice | 749 | 328 | Technology | [link](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3) · [HN](https://news.ycombinator.com/item?id=49588988) |
 | 2026-09-06 | Sunday | 3 | Your intellectual fly is open when you use an LLM to author a post (2025) | 653 | 408 | Technology | [link](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/) · [HN](https://news.ycombinator.com/item?id=49585644) |
