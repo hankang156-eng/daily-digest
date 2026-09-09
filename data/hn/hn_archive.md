@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-08 · 485 days · 4850 stories*
+*Last updated: 2026-09-09 · 486 days · 4860 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-08 | Tuesday | 1 | Navier-Stokes – Tristan Buckmaster [pdf] | 1689 | 705 | Technology | [link](https://cims.nyu.edu/~tristanb/statement.pdf) · [HN](https://news.ycombinator.com/item?id=49605915) |
+| 2026-09-08 | Tuesday | 2 | On the Navier–Stokes Millennium Prize Problem | 1262 | 1012 | Technology | [link](https://openai.com/index/navier-stokes-solution/) · [HN](https://news.ycombinator.com/item?id=49613262) |
+| 2026-09-08 | Tuesday | 3 | Mistral raises €3B | 822 | 583 | Technology | [link](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/) · [HN](https://news.ycombinator.com/item?id=49605767) |
+| 2026-09-08 | Tuesday | 4 | LibreOffice breaks download records after declaring it has no AI features | 681 | 230 | Technology | [link](https://manualdousuario.net/en/libreoffice-download-record-no-ai/) · [HN](https://news.ycombinator.com/item?id=49610538) |
+| 2026-09-08 | Tuesday | 5 | I resigned from Anthropic today | 569 | 753 | Technology | [link](https://twitter.com/hilbertspaess/status/2097476196791709843#m) · [HN](https://news.ycombinator.com/item?id=49619227) |
+| 2026-09-08 | Tuesday | 6 | AlphaGenome Atlas: a high-resolution map of human DNA | 562 | 121 | Technology | [link](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) · [HN](https://news.ycombinator.com/item?id=49611251) |
+| 2026-09-08 | Tuesday | 7 | LG TVs caught spying even when offline or on standby | 535 | 317 | Technology | [link](https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus) · [HN](https://news.ycombinator.com/item?id=49612329) |
+| 2026-09-08 | Tuesday | 8 | Muse – Meta’s personal AI agent | 506 | 548 | Technology | [link](https://ai.meta.com/muse/) · [HN](https://news.ycombinator.com/item?id=49615537) |
+| 2026-09-08 | Tuesday | 9 | I-have-ADHD: A skill to stop coding agents from burying the answer | 448 | 310 | Technology | [link](https://github.com/ayghri/i-have-adhd) · [HN](https://news.ycombinator.com/item?id=49610631) |
+| 2026-09-08 | Tuesday | 10 | DaVinci Resolve 21.1 | 404 | 179 | Technology | [link](https://www.blackmagicdesign.com/media/release/20260908-03) · [HN](https://news.ycombinator.com/item?id=49610181) |
 | 2026-09-07 | Monday | 1 | LG smart TVs caught logging audio with screen off and snooping on local devices | 1138 | 3 | Technology | [link](https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html) · [HN](https://news.ycombinator.com/item?id=49594878) |
 | 2026-09-07 | Monday | 2 | De-Brainrot Vacations | 485 | 196 | Technology | [link](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/) · [HN](https://news.ycombinator.com/item?id=49597907) |
 | 2026-09-07 | Monday | 3 | bzip3 | 408 | 117 | Technology | [link](https://github.com/iczelia/bzip3) · [HN](https://news.ycombinator.com/item?id=49598291) |
