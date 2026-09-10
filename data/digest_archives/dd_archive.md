@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-09 · 7106 items*
+*Last updated: 2026-09-10 · 7169 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-09 | iPhone Duo | HN | Technology | tech | 2026-09-09 | [link](https://www.apple.com/iphone-duo/) |
+| 2026-09-09 | Claude, change the “Add to Cart” button to blue | HN | Technology | tech | 2026-09-09 | [link](https://opusfived.dev/) |
+| 2026-09-09 | Shopify acquires Tailwind | HN | Technology | tech | 2026-09-09 | [link](https://tailwindcss.com/blog/tailwind-is-joining-shopify) |
+| 2026-09-09 | Flock Wants a Closely Surveilled World with No Exit | HN | Technology | tech | 2026-09-09 | [link](https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit) |
+| 2026-09-09 | AirPods 5 | HN | Technology | tech | 2026-09-09 | [link](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/) |
+| 2026-09-09 | Desert Ant Labs: local, fast models that run on device | HN | Technology | tech | 2026-09-09 | [link](https://desertant.com/blog/introducing-desert-ant-labs/) |
+| 2026-09-09 | GPT-6 Astra, looped transformers, and hidden reasoning | HN | Technology | tech | 2026-09-09 | [link](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and) |
+| 2026-09-09 | DeepSeek launching v4.1 flash cheaper and more capable than v4 pro | HN | Technology | tech | 2026-09-09 | [link](https://news.ycombinator.com/item?id=49624603) |
+| 2026-09-09 | How I advertise malicious software on Google Ads | HN | Technology | tech | 2026-09-09 | [link](https://xlii.space/eng/malicious-software-on-google-ads/) |
+| 2026-09-09 | No Man's Sky Cosmos | HN | Technology | tech | 2026-09-09 | [link](https://www.nomanssky.com/cosmos-update/) |
+| 2026-09-09 | iPhone 18 Pro and iPhone 18 Pro Max | HN | Technology | tech | 2026-09-09 | [link](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/) |
+| 2026-09-09 | Growing proof that autonomous cars save lives | HN | Technology | tech | 2026-09-09 | [link](https://spectrum.ieee.org/are-self-driving-cars-safe) |
+| 2026-09-09 | Show HN: What if the speed of light was 5 km/h? | HN | Technology | tech | 2026-09-09 | [link](https://rivendell.dmitrybrant.com/relativity/) |
+| 2026-09-09 | iPhone Duo | HN | Technology | tech | 2026-09-09 | [link](https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/) |
+| 2026-09-09 | Copyright does more harm than good and should be abolished | HN | Technology | tech | 2026-09-09 | [link](https://grapheneos.social/@GrapheneOS/117231186011306184) |
+| 2026-09-09 | Anthropic Is Building a Predictive Surveillance System to Monitor Activists | HN | Technology | tech | 2026-09-09 | [link](https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/) |
+| 2026-09-09 | The Data Center Conundrum | NYT · AI | AI | opinion | 2026-09-09 | [link](https://www.nytimes.com/2026/09/09/opinion/data-center-ai-resistance.html) |
+| 2026-09-09 | Clay, an A.I. Sales Tool Provider, Raises $115 Million | NYT · AI | AI | news | 2026-09-09 | [link](https://www.nytimes.com/2026/09/09/business/dealbook/clay-ai-fundraising.html) |
+| 2026-09-09 | Big Tech Fooled America Once. The Second Time’s Not Going So Well. | NYT · AI | AI | opinion | 2026-09-10 | [link](https://www.nytimes.com/2026/09/10/opinion/ai-big-tech-america-politics.html) |
+| 2026-09-09 | Justice Dept. Investigates Nvidia Deal With Groq | NYT · Business | Business | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/09/business/nvidia-groq-antitrust.html) |
+| 2026-09-09 | Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity | NYT · AI | AI | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html) |
+| 2026-09-09 | I Worked on Safety at OpenAI. The Fix Isn’t Hard. | NYT · AI | AI | opinion | 2026-09-09 | [link](https://www.nytimes.com/2026/09/09/opinion/openai-ai-companies-safety-regulation.html) |
+| 2026-09-09 | Trump’s Midterm Pitch Clouded by Iran War and Canada Tariffs | NYT · Business | Business | news | 2026-09-09 | [link](https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html) |
+| 2026-09-09 | U.S. to Lend $1.9 Billion to Restart a Shuttered Nuclear Plant in Iowa | NYT · Energy & Environment | Energy & Environment | news | 2026-09-09 | [link](https://www.nytimes.com/2026/09/08/climate/nuclear-plant-iowa-loan.html) |
+| 2026-09-09 | Blame Ronald Reagan | NYT · Opinion | Opinion | opinion | 2026-09-09 | [link](https://www.nytimes.com/2026/09/09/opinion/80s-reagan-revolution-deregulation.html) |
+| 2026-09-09 | 60 Posts in 10 Hours: How Trump’s Social Media Reflects His Version of Reality | NYT · AI | AI | news | 2026-09-09 | [link](https://www.nytimes.com/2026/09/09/us/politics/trump-social-media-ai-reality.html) |
+| 2026-09-09 | A.I. Music Giant Suno Tries to Play Nice With Record Labels | NYT · Business | Business | news | 2026-09-09 | [link](https://www.nytimes.com/2026/09/09/arts/music/suno-new-ai-model-warner-music.html) |
+| 2026-09-09 | Voters Are Asking A.I. About Elections. The Answers Can Vary by User. | NYT · AI | AI | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/10/business/media/ai-chatbots-election-misinformation.html) |
+| 2026-09-09 | Why California Is Reconsidering Its Decision to Shun Nuclear Power | NYT · Energy & Environment | Energy & Environment | news | 2026-09-09 | [link](https://www.nytimes.com/2026/09/09/business/energy-environment/california-diablo-canyon-nuclear-energy.html) |
+| 2026-09-09 | Back to School, Now With A.I. | NYT · AI | AI | news | 2026-09-09 | [link](https://www.nytimes.com/2026/09/09/world/10int-theworld-web-ai-education.html) |
+| 2026-09-09 | Why Trump Is Gathering Republicans in Texas, and Iran Targets U.S. Warships | NYT · AI | AI | news | 2026-09-09 | [link](https://www.nytimes.com/2026/09/09/podcasts/the-headlines/trump-republicans-texas-iran-us-warships.html) |
+| 2026-09-09 | Who Will Enforce the New A.I. Rules? Probably Teachers. | NYT · AI | AI | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/10/nyregion/who-will-enforce-the-new-ai-rules-probably-teachers.html) |
+| 2026-09-09 | How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face | NYT · Technology | Technology | news | 2026-09-04 | [link](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html) |
+| 2026-09-09 | States File 2 Lawsuits Over Trump’s Cuts to Endangered Species Act | NYT · Politics | Politics | news | 2026-09-09 | [link](https://www.nytimes.com/2026/09/09/climate/lawsuit-trump-endangered-species-act.html) |
+| 2026-09-09 | How Much Does Trump Care Who Wins the Midterms? | NYT · Politics | Politics | news | 2026-09-09 | [link](https://www.nytimes.com/2026/09/09/us/politics/trump-midterm-strategy.html) |
+| 2026-09-09 | Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated. | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html) |
+| 2026-09-09 | AI-Assisted Writing: Is It Good for Authors and Book Publishing? | MIT IDE · MIT Research & Insights | Research | research | 2026-09-09 | [link](https://ide.mit.edu/insights/ai-assisted-writing-is-it-good-for-authors-and-book-publishing/) |
+| 2026-09-09 | Oracle issues RFP for 2GW of new renewable capacity in New Mexico | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-09 | [link](https://www.datacenterdynamics.com/en/news/oracle-issues-rfp-for-2gw-of-new-renewable-capacity-in-new-mexico/) |
+| 2026-09-09 | .blend URL Viewer | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-09 | [link](https://simonwillison.net/2026/Sep/9/blender-viewer/) |
+| 2026-09-09 | Google and Blackstone JV experiences delays in data center projects - report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-09 | [link](https://www.datacenterdynamics.com/en/news/google-and-blackstone-jv-experiences-delays-in-data-center-projects-report/) |
+| 2026-09-09 | Front-of-meter solar, storage could serve 32% of California’s 2032 peak load: study | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-09 | [link](https://www.utilitydive.com/news/front-of-meter-solar-storage-could-serve-32-of-californias-2032-peak-loa/829935/) |
+| 2026-09-09 | Inside GM’s new battery lab — and its plans to challenge Asian rivals | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-09 | [link](https://www.latitudemedia.com/news/inside-gms-new-battery-lab-and-its-plans-to-challenge-asian-rivals/) |
+| 2026-09-09 | Burying trees to save forests? | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-09 | [link](https://www.latitudemedia.com/news/green-blueprint-burying-trees-to-save-forests/) |
+| 2026-09-09 | Quoting Terence Tao | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-09 | [link](https://simonwillison.net/2026/Sep/9/terence-tao/) |
+| 2026-09-09 | Google, Xcel, others back MISO’s ‘zero injection’ large-load proposal | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-09 | [link](https://www.utilitydive.com/news/google-xcel-miso-zero-injection-large-load-ferc/829912/) |
+| 2026-09-09 | ★ The iPhone Air and iPhone 17 Pro | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-09 | [link](https://daringfireball.net/2026/09/the_iphone_air_and_iphone_17_pro) |
+| 2026-09-09 | A quick overview of atomics in C | Lemire.me · Tech & Engineering | Technology | tech | 2026-09-09 | [link](https://lemire.me/blog/2026/09/09/a-quick-overview-of-atomics-in-c/) |
+| 2026-09-09 | Anthropic researcher quits, saying Anthropic and OpenAI are 'gambling with our lives' | Reddit | Business | social | 2026-09-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wbi2pr/anthropic_researcher_quits_saying_anthropic_and/) |
+| 2026-09-09 | I made a virtual lounge for vibecoders to hang out while claude code is running. | Reddit | Business | social | 2026-09-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wb7190/i_made_a_virtual_lounge_for_vibecoders_to_hang/) |
+| 2026-09-09 | Cut your Claude Code cost by 90% using the Spotify Method | Reddit | Business | social | 2026-09-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wbmcgw/cut_your_claude_code_cost_by_90_using_the_spotify/) |
+| 2026-09-09 | Opus Simulator | Reddit | Business | social | 2026-09-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wbka16/opus_simulator/) |
+| 2026-09-09 | I got accepted into the Cyber Verification Program at Anthropic! | Reddit | Business | social | 2026-09-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wbx66j/i_got_accepted_into_the_cyber_verification/) |
+| 2026-09-09 | Chatgpt $20 plan VS Claude $20 plan | Reddit | Business | social | 2026-09-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wbux15/chatgpt_20_plan_vs_claude_20_plan/) |
+| 2026-09-09 | We need to talk about this icon in "Design" | Reddit | Business | social | 2026-09-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wbrn5l/we_need_to_talk_about_this_icon_in_design/) |
+| 2026-09-09 | You’re right, and it’s worse than I thought | Reddit | Business | social | 2026-09-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wbbhsy/youre_right_and_its_worse_than_i_thought/) |
+| 2026-09-09 | Fable 5.1 Plays MMORPG Ultima Online For 2+ Hours | Reddit | Business | social | 2026-09-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wbjrtw/fable_51_plays_mmorpg_ultima_online_for_2_hours/) |
+| 2026-09-09 | I asked Claude to go through 9.2 million news articles, here's what I got | Reddit | Business | social | 2026-09-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wbv0yc/i_asked_claude_to_go_through_92_million_news/) |
+| 2026-09-09 | Claude, change the "Add to Cart" button to blue | Reddit | Business | social | 2026-09-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wbn25x/claude_change_the_add_to_cart_button_to_blue/) |
+| 2026-09-09 | How I use sub-agents without burning through Fable 5.1 | Reddit | Business | social | 2026-09-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wbc03f/how_i_use_subagents_without_burning_through_fable/) |
+| 2026-09-09 | The gap between 'using AI' and 'being good at AI' is wider than most people think | Reddit | Business | social | 2026-09-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wbed3t/the_gap_between_using_ai_and_being_good_at_ai_is/) |
+| 2026-09-09 | FIY: Playwrite released a CLI that CC can interact with. Saves a lot of tokens. | Reddit | Business | social | 2026-09-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wbwpwv/fiy_playwrite_released_a_cli_that_cc_can_interact/) |
+| 2026-09-09 | I made an MCP app so claude code can record, edit and export demo screen recordings for you | Reddit | Business | social | 2026-09-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wbg30i/i_made_an_mcp_app_so_claude_code_can_record_edit/) |
+| 2026-09-09 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-08 | Navier-Stokes – Tristan Buckmaster [pdf] | HN | Technology | tech | 2026-09-08 | [link](https://cims.nyu.edu/~tristanb/statement.pdf) |
 | 2026-09-08 | On the Navier–Stokes Millennium Prize Problem | HN | Technology | tech | 2026-09-08 | [link](https://openai.com/index/navier-stokes-solution/) |
 | 2026-09-08 | Mistral raises €3B | HN | Technology | tech | 2026-09-08 | [link](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/) |

@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-09 · 486 days · 4860 stories*
+*Last updated: 2026-09-10 · 487 days · 4870 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-09 | Wednesday | 1 | iPhone Duo | 1213 | 2122 | Technology | [link](https://www.apple.com/iphone-duo/) · [HN](https://news.ycombinator.com/item?id=49630931) |
+| 2026-09-09 | Wednesday | 2 | Claude, change the “Add to Cart” button to blue | 1116 | 434 | Technology | [link](https://opusfived.dev/) · [HN](https://news.ycombinator.com/item?id=49623754) |
+| 2026-09-09 | Wednesday | 3 | Shopify acquires Tailwind | 1035 | 395 | Technology | [link](https://tailwindcss.com/blog/tailwind-is-joining-shopify) · [HN](https://news.ycombinator.com/item?id=49626190) |
+| 2026-09-09 | Wednesday | 4 | Flock Wants a Closely Surveilled World with No Exit | 560 | 534 | Technology | [link](https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit) · [HN](https://news.ycombinator.com/item?id=49624394) |
+| 2026-09-09 | Wednesday | 5 | AirPods 5 | 456 | 384 | Technology | [link](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/) · [HN](https://news.ycombinator.com/item?id=49630253) |
+| 2026-09-09 | Wednesday | 6 | Desert Ant Labs: local, fast models that run on device | 448 | 96 | Technology | [link](https://desertant.com/blog/introducing-desert-ant-labs/) · [HN](https://news.ycombinator.com/item?id=49624823) |
+| 2026-09-09 | Wednesday | 7 | GPT-6 Astra, looped transformers, and hidden reasoning | 433 | 141 | Technology | [link](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and) · [HN](https://news.ycombinator.com/item?id=49627370) |
+| 2026-09-09 | Wednesday | 8 | DeepSeek launching v4.1 flash cheaper and more capable than v4 pro | 409 | 214 | Technology | [link](https://news.ycombinator.com/item?id=49624603) · [HN](https://news.ycombinator.com/item?id=49624603) |
+| 2026-09-09 | Wednesday | 9 | How I advertise malicious software on Google Ads | 407 | 246 | Technology | [link](https://xlii.space/eng/malicious-software-on-google-ads/) · [HN](https://news.ycombinator.com/item?id=49624856) |
+| 2026-09-09 | Wednesday | 10 | No Man's Sky Cosmos | 388 | 400 | Technology | [link](https://www.nomanssky.com/cosmos-update/) · [HN](https://news.ycombinator.com/item?id=49628493) |
 | 2026-09-08 | Tuesday | 1 | Navier-Stokes – Tristan Buckmaster [pdf] | 1689 | 705 | Technology | [link](https://cims.nyu.edu/~tristanb/statement.pdf) · [HN](https://news.ycombinator.com/item?id=49605915) |
 | 2026-09-08 | Tuesday | 2 | On the Navier–Stokes Millennium Prize Problem | 1262 | 1012 | Technology | [link](https://openai.com/index/navier-stokes-solution/) · [HN](https://news.ycombinator.com/item?id=49613262) |
 | 2026-09-08 | Tuesday | 3 | Mistral raises €3B | 822 | 583 | Technology | [link](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/) · [HN](https://news.ycombinator.com/item?id=49605767) |
