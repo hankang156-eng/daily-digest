@@ -1,9 +1,78 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-10 · 7169 items*
+*Last updated: 2026-09-11 · 7238 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-10 | Shopify is moving from React Native back to Swift and Kotlin | HN | Technology | tech | 2026-09-10 | [link](https://shopify.engineering/back-to-native) |
+| 2026-09-10 | DeepSeek v4.1 Flash | HN | Technology | tech | 2026-09-10 | [link](https://twitter.com/deepseek_ai/status/2097930608790167907) |
+| 2026-09-10 | More questions about whether researchers can trust OpenAI with unpublished math | HN | Technology | tech | 2026-09-10 | [link](https://mathstodon.xyz/@andreasthom/117240535270608201) |
+| 2026-09-10 | Rust is tier-1 language at Microsoft | HN | Technology | tech | 2026-09-10 | [link](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/) |
+| 2026-09-10 | Don't let anyone take away your big box of cables | HN | Technology | tech | 2026-09-10 | [link](https://blog.jim-nielsen.com/2026/hands-off-my-cables/) |
+| 2026-09-10 | Tell HN: OpenAI keeps re-enabling the 'allow training' setting | HN | Technology | tech | 2026-09-10 | [link](https://news.ycombinator.com/item?id=49643556) |
+| 2026-09-10 | I have a theory that software drives people insane | HN | Technology | tech | 2026-09-10 | [link](https://graybeard.ing/software-drives-people-insane/) |
+| 2026-09-10 | Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra | HN | Technology | tech | 2026-09-10 | [link](https://cognition.com/blog/swe-2) |
+| 2026-09-10 | List of references on Sony websites to players "owning" their digital games | HN | Technology | tech | 2026-09-10 | [link](https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit) |
+| 2026-09-10 | The same nine streaming subscriptions cost $702/year more than in 2021 | HN | Technology | tech | 2026-09-10 | [link](https://honestlyranked.com/guides/streaming-price-increases/) |
+| 2026-09-10 | What algorithm did Windows XP use to choose your initial user picture? | HN | Technology | tech | 2026-09-10 | [link](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683) |
+| 2026-09-10 | Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025) | HN | Technology | tech | 2026-09-10 | [link](https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images) |
+| 2026-09-10 | OpenAI might have stolen another major proof | HN | Technology | tech | 2026-09-10 | [link](https://twitter.com/ValerioCapraro/status/2097791836269977996) |
+| 2026-09-10 | OpenAI Agents API | HN | Technology | tech | 2026-09-10 | [link](https://developers.openai.com/api/docs/guides/agents-api/overview) |
+| 2026-09-10 | All grown-ups were once children, but only few of them remember it | HN | Technology | tech | 2026-09-10 | [link](https://mathstodon.xyz/@tao/117244102901892965) |
+| 2026-09-10 | Another researcher says OpenAI trained on conversations, then claimed breakthrou | HN | Technology | tech | 2026-09-10 | [link](https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d) |
+| 2026-09-10 | A.I. Data Center Pollution Poses Health Threat, Former E.P.A. Officials Warn | NYT · Business | Business | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/10/climate/ai-data-centers-air-pollution-health.html) |
+| 2026-09-10 | Justice Dept. Investigates Nvidia Deal With Groq | NYT · Business | Business | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/09/business/nvidia-groq-antitrust.html) |
+| 2026-09-10 | The A.I. Threat Is Real. We Need to Act Now. | NYT · AI | AI | opinion | 2026-09-11 | [link](https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html) |
+| 2026-09-10 | Clay, an A.I. Sales Tool Provider, Raises $115 Million | NYT · Business | Business | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/09/business/dealbook/clay-ai-fundraising.html) |
+| 2026-09-10 | Here’s what to know about the report. | NYT · Economy | Economy | news | 2026-09-11 | [link](https://www.nytimes.com/live/2026/09/11/business/inflation-cpi-report/inflation-cpi-august) |
+| 2026-09-10 | Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity | NYT · Technology | Technology | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html) |
+| 2026-09-10 | Blame Ronald Reagan | NYT · Opinion | Opinion | opinion | 2026-09-10 | [link](https://www.nytimes.com/2026/09/09/opinion/80s-reagan-revolution-deregulation.html) |
+| 2026-09-10 | Some Republicans Balk at Trump’s $5,000 ‘Dividend’ Offer | NYT · Politics | Politics | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-republicans-inflation.html) |
+| 2026-09-10 | McClatchy Makes Deep Job Cuts to Newspapers Around the Country | NYT · AI | AI | news | 2026-09-11 | [link](https://www.nytimes.com/2026/09/10/business/media/mcclatchy-miami-herald-layoffs.html) |
+| 2026-09-10 | A $5,000 ‘Trump Dividend’? The Bond Market May Like a Word. | NYT · Business | Business | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/10/business/dealbook/trump-dividend-bond-market.html) |
+| 2026-09-10 | Trump’s Midterm Pitch Clouded by Iran War and Canada Tariffs | NYT · Business | Business | news | 2026-09-09 | [link](https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html) |
+| 2026-09-10 | The Next Terrorist Attack Is Predictable | NYT · AI | AI | opinion | 2026-09-10 | [link](https://www.nytimes.com/2026/09/10/opinion/911-ai-terrorist-attack-america.html) |
+| 2026-09-10 | Anthropic Says It Blocked Possible Efforts to Build Biological Weapons | NYT · Technology | Technology | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html) |
+| 2026-09-10 | Trump Wants to Give Out $5,000 Checks. It Would Cost More Than $1 Trillion. | NYT · Politics | Politics | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-check.html) |
+| 2026-09-10 | U.S. to Lend $1.9 Billion to Restart a Shuttered Nuclear Plant in Iowa | NYT · Energy & Environment | Energy & Environment | news | 2026-09-09 | [link](https://www.nytimes.com/2026/09/08/climate/nuclear-plant-iowa-loan.html) |
+| 2026-09-10 | For China, a Mock A.I. Attack on WeChat Signals a Dangerous New Era | NYT · AI | AI | news | 2026-09-11 | [link](https://www.nytimes.com/2026/09/11/world/asia/china-ai-attack-wechat.html) |
+| 2026-09-10 | California’s Governor Signs Landmark Online Child Safety Bills | NYT · Technology | Technology | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/10/technology/californias-governor-gavin-newsom-online-child-safety-bills.html) |
+| 2026-09-10 | Big Tech Fooled America Once. The Second Time’s Not Going So Well. | NYT · Opinion | Opinion | opinion | 2026-09-11 | [link](https://www.nytimes.com/2026/09/10/opinion/ai-big-tech-america-politics.html) |
+| 2026-09-10 | The Ezra Klein Show: The A.I. Revolt Is Here | NYT · AI | AI | news | 2026-09-11 | [link](https://www.nytimes.com/2026/09/11/podcasts/hardfork-ezra-klein-jasmine-sun.html) |
+| 2026-09-10 | Could A.I. Really Kill All Humans? | NYT · AI | AI | news | 2026-09-10 | [link](https://www.nytimes.com/video/technology/100000011145658/could-ai-really-kill-all-humans.html) |
+| 2026-09-10 | Quoting Calif Research | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-10 | [link](https://simonwillison.net/2026/Sep/10/calif-research/) |
+| 2026-09-10 | Nvidia’s Groq deal facing DOJ probe amid regulator scrutiny into acqui-hires: report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-10 | [link](https://www.datacenterdynamics.com/en/news/nvidias-groq-deal-facing-doj-probe-amid-regulator-scrutiny-into-acqui-hires-report/) |
+| 2026-09-10 | Forget about TDP | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-10 | [link](https://www.datacenterdynamics.com/en/analysis/forget-about-tdp/) |
+| 2026-09-10 | Beyond Category 5: What extreme hurricanes mean for electric utilities | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-10 | [link](https://www.utilitydive.com/news/beyond-category-5-what-extreme-hurricanes-mean-for-the-grid/828906/) |
+| 2026-09-10 | Is the West on the cusp of a transmission breakthrough? | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-10 | [link](https://www.latitudemedia.com/news/is-the-west-on-the-cusp-of-a-transmission-breakthrough/) |
+| 2026-09-10 | Do data centers really increase electricity prices? | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-10 | [link](https://www.latitudemedia.com/news/catalyst-do-data-centers-really-increase-electricity-prices/) |
+| 2026-09-10 | Islands Tap Energy From Oceans’ Thermal Layers | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-09-10 | [link](https://spectrum.ieee.org/ocean-thermal-energy-conversion) |
+| 2026-09-10 | Native is now the future of mobile at Shopify | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-10 | [link](https://simonwillison.net/2026/Sep/10/shopify-react-native/) |
+| 2026-09-10 | Joanna Stern on the iPhone Duo | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-10 | [link](https://youtu.be/VNzl-q0EGfg) |
+| 2026-09-10 | Put an AV test at the start of your slides | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-09-10 | [link](https://shkspr.mobi/blog/2026/09/put-an-av-test-at-the-start-of-your-slides/) |
+| 2026-09-10 | Fear Is Not an Argument | Lemire.me · Tech & Engineering | Technology | tech | 2026-09-10 | [link](https://lemire.me/blog/2026/09/10/fear-is-not-an-argument/) |
+| 2026-09-10 | Apple’s OS 27 Updates Will Be Released on Monday, 14 September | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-10 | [link](https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/) |
+| 2026-09-10 | Claude to reMarkable now possible | Reddit | Business | social | 2026-09-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wcmmi6/claude_to_remarkable_now_possible/) |
+| 2026-09-10 | Anthropic Is Building a Predictive Surveillance System to Monitor Activists - The American Prospect | Reddit | Business | social | 2026-09-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wc7frn/anthropic_is_building_a_predictive_surveillance/) |
+| 2026-09-10 | Anthropic whistleblower gave up his equity to leave the company | Reddit | Business | social | 2026-09-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wcfso0/anthropic_whistleblower_gave_up_his_equity_to/) |
+| 2026-09-10 | Claude Code just burned fifty million tokens in seconds | Reddit | Business | social | 2026-09-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wce8dh/claude_code_just_burned_fifty_million_tokens_in/) |
+| 2026-09-10 | Took a break for a few days so no new game updates but.... | Reddit | Business | social | 2026-09-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wc6prf/took_a_break_for_a_few_days_so_no_new_game/) |
+| 2026-09-10 | Anthropic says "double-check your work" is now an anti-pattern. I counted 125 of those lines in my o | Reddit | Business | social | 2026-09-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wcdisq/anthropic_says_doublecheck_your_work_is_now_an/) |
+| 2026-09-10 | Claude vs ChatGPT: Personality Matters More Than I Expected | Reddit | Business | social | 2026-09-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wcgnw5/claude_vs_chatgpt_personality_matters_more_than_i/) |
+| 2026-09-10 | Told Claude I was ending the session for the day and the text suggestion is savage | Reddit | Business | social | 2026-09-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wcjob3/told_claude_i_was_ending_the_session_for_the_day/) |
+| 2026-09-10 | I built a Git history visualizer with Claude Code | Reddit | Business | social | 2026-09-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wcruyv/i_built_a_git_history_visualizer_with_claude_code/) |
+| 2026-09-10 | Chat pauses stipulate specific reason now? | Reddit | Business | social | 2026-09-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wck7pi/chat_pauses_stipulate_specific_reason_now/) |
+| 2026-09-10 | Me: what's project's node version? Claude: | Reddit | Business | social | 2026-09-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wcakzw/me_whats_projects_node_version_claude/) |
+| 2026-09-10 | Same prompt, Codex (Astra 6) vs Claude (Fable 5.1): "a game where a fish follows my cursor, super cr | Reddit | Business | social | 2026-09-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wd01tk/same_prompt_codex_astra_6_vs_claude_fable_51_a/) |
+| 2026-09-10 | State of the subreddit | Reddit | Business | social | 2026-09-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wcoh39/state_of_the_subreddit/) |
+| 2026-09-10 | Claude Code scaled my work, but not my brain | Reddit | Business | social | 2026-09-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wccptu/claude_code_scaled_my_work_but_not_my_brain/) |
+| 2026-09-10 | The grass isn't always greener on the other side | Reddit | Business | social | 2026-09-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wcshnz/the_grass_isnt_always_greener_on_the_other_side/) |
+| 2026-09-10 | How to use Obsidian for academic note taking and independent research/reading log? | Reddit | Business | social | 2026-09-10 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wc2yc2/how_to_use_obsidian_for_academic_note_taking_and/) |
+| 2026-09-10 | I want to recreate the minimal theme show cased in the minimal theme guide | Reddit | Business | social | 2026-09-10 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wcglwn/i_want_to_recreate_the_minimal_theme_show_cased/) |
+| 2026-09-10 | Wiki style Vault setup in Obsidian | Reddit | Business | social | 2026-09-10 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wctkpo/wiki_style_vault_setup_in_obsidian/) |
+| 2026-09-10 | Is Obsidian Synch Standard worth it? | Reddit | Business | social | 2026-09-10 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wcnssl/is_obsidian_synch_standard_worth_it/) |
+| 2026-09-10 | I used obsidian to show me the clusters of pages/relationships on my website with 156,032 internal l | Reddit | Business | social | 2026-09-10 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wcnhf3/i_used_obsidian_to_show_me_the_clusters_of/) |
+| 2026-09-10 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-09 | iPhone Duo | HN | Technology | tech | 2026-09-09 | [link](https://www.apple.com/iphone-duo/) |
 | 2026-09-09 | Claude, change the “Add to Cart” button to blue | HN | Technology | tech | 2026-09-09 | [link](https://opusfived.dev/) |
 | 2026-09-09 | Shopify acquires Tailwind | HN | Technology | tech | 2026-09-09 | [link](https://tailwindcss.com/blog/tailwind-is-joining-shopify) |

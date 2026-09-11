@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-10 · 487 days · 4870 stories*
+*Last updated: 2026-09-11 · 488 days · 4880 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-10 | Thursday | 1 | Shopify is moving from React Native back to Swift and Kotlin | 1074 | 746 | Technology | [link](https://shopify.engineering/back-to-native) · [HN](https://news.ycombinator.com/item?id=49643982) |
+| 2026-09-10 | Thursday | 2 | DeepSeek v4.1 Flash | 971 | 549 | Technology | [link](https://twitter.com/deepseek_ai/status/2097930608790167907) · [HN](https://news.ycombinator.com/item?id=49639090) |
+| 2026-09-10 | Thursday | 3 | More questions about whether researchers can trust OpenAI with unpublished math | 809 | 742 | Technology | [link](https://mathstodon.xyz/@andreasthom/117240535270608201) · [HN](https://news.ycombinator.com/item?id=49639408) |
+| 2026-09-10 | Thursday | 4 | Rust is tier-1 language at Microsoft | 676 | 423 | Technology | [link](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/) · [HN](https://news.ycombinator.com/item?id=49643546) |
+| 2026-09-10 | Thursday | 5 | Don't let anyone take away your big box of cables | 532 | 342 | Technology | [link](https://blog.jim-nielsen.com/2026/hands-off-my-cables/) · [HN](https://news.ycombinator.com/item?id=49645393) |
+| 2026-09-10 | Thursday | 6 | Tell HN: OpenAI keeps re-enabling the 'allow training' setting | 454 | 181 | Technology | [link](https://news.ycombinator.com/item?id=49643556) · [HN](https://news.ycombinator.com/item?id=49643556) |
+| 2026-09-10 | Thursday | 7 | I have a theory that software drives people insane | 440 | 178 | Technology | [link](https://graybeard.ing/software-drives-people-insane/) · [HN](https://news.ycombinator.com/item?id=49646181) |
+| 2026-09-10 | Thursday | 8 | Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra | 416 | 174 | Technology | [link](https://cognition.com/blog/swe-2) · [HN](https://news.ycombinator.com/item?id=49645443) |
+| 2026-09-10 | Thursday | 9 | List of references on Sony websites to players "owning" their digital games | 396 | 132 | Technology | [link](https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit) · [HN](https://news.ycombinator.com/item?id=49642531) |
+| 2026-09-10 | Thursday | 10 | The same nine streaming subscriptions cost $702/year more than in 2021 | 376 | 375 | Technology | [link](https://honestlyranked.com/guides/streaming-price-increases/) · [HN](https://news.ycombinator.com/item?id=49641215) |
 | 2026-09-09 | Wednesday | 1 | iPhone Duo | 1213 | 2122 | Technology | [link](https://www.apple.com/iphone-duo/) · [HN](https://news.ycombinator.com/item?id=49630931) |
 | 2026-09-09 | Wednesday | 2 | Claude, change the “Add to Cart” button to blue | 1116 | 434 | Technology | [link](https://opusfived.dev/) · [HN](https://news.ycombinator.com/item?id=49623754) |
 | 2026-09-09 | Wednesday | 3 | Shopify acquires Tailwind | 1035 | 395 | Technology | [link](https://tailwindcss.com/blog/tailwind-is-joining-shopify) · [HN](https://news.ycombinator.com/item?id=49626190) |
