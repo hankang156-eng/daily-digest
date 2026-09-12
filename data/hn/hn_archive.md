@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-11 · 488 days · 4880 stories*
+*Last updated: 2026-09-12 · 489 days · 4890 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-11 | Friday | 1 | A misalignment of AI in mathematics | 931 | 895 | Technology | [link](https://mathandai.org/) · [HN](https://news.ycombinator.com/item?id=49662371) |
+| 2026-09-11 | Friday | 2 | Ask HN: Can we please limit the AI news flood? | 790 | 373 | Technology | [link](https://news.ycombinator.com/item?id=49657850) · [HN](https://news.ycombinator.com/item?id=49657850) |
+| 2026-09-11 | Friday | 3 | OpenAI agents carried out an undisclosed attack on RubyGems | 707 | 395 | Technology | [link](https://www.rubyhack.ai/) · [HN](https://news.ycombinator.com/item?id=49666735) |
+| 2026-09-11 | Friday | 4 | Claude is only available to people over 18 years | 644 | 628 | Technology | [link](https://support.claude.com/en/articles/15171100-age-assurance-on-claude) · [HN](https://news.ycombinator.com/item?id=49656225) |
+| 2026-09-11 | Friday | 5 | I spent $220 on Google app ads and 60% of the installs were robots | 531 | 277 | Technology | [link](https://dayzlegame.com/blog/google-ads-bot-farm/) · [HN](https://news.ycombinator.com/item?id=49662990) |
+| 2026-09-11 | Friday | 6 | The EPA is planning to scrap public review rules for data center pollution | 463 | 336 | Technology | [link](https://capitalbnews.org/data-centers-permit-rules-epa/) · [HN](https://news.ycombinator.com/item?id=49662672) |
+| 2026-09-11 | Friday | 7 | Astra for Coding: Why Are We Doing This Again? | 432 | 325 | Technology | [link](https://lucumr.pocoo.org/2026/9/7/astra-why/) · [HN](https://news.ycombinator.com/item?id=49654229) |
+| 2026-09-11 | Friday | 8 | google.com/goto: Google's anti-scraping update | 427 | 328 | Technology | [link](https://www.autom.dev/blog/google-search-goto-links) · [HN](https://news.ycombinator.com/item?id=49668386) |
+| 2026-09-11 | Friday | 9 | Houthis 'take control' of key island in global shipping route | 376 | 663 | Technology | [link](https://www.bbc.com/news/live/cmd683p01eljt) · [HN](https://news.ycombinator.com/item?id=49658299) |
+| 2026-09-11 | Friday | 10 | The Waymo effect: how AI is quietly making research less collaborative | 324 | 298 | Technology | [link](https://www.researchagenda.news/articles/the-waymo-effect.html) · [HN](https://news.ycombinator.com/item?id=49656496) |
 | 2026-09-10 | Thursday | 1 | Shopify is moving from React Native back to Swift and Kotlin | 1074 | 746 | Technology | [link](https://shopify.engineering/back-to-native) · [HN](https://news.ycombinator.com/item?id=49643982) |
 | 2026-09-10 | Thursday | 2 | DeepSeek v4.1 Flash | 971 | 549 | Technology | [link](https://twitter.com/deepseek_ai/status/2097930608790167907) · [HN](https://news.ycombinator.com/item?id=49639090) |
 | 2026-09-10 | Thursday | 3 | More questions about whether researchers can trust OpenAI with unpublished math | 809 | 742 | Technology | [link](https://mathstodon.xyz/@andreasthom/117240535270608201) · [HN](https://news.ycombinator.com/item?id=49639408) |

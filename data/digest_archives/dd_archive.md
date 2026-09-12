@@ -1,9 +1,74 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-11 · 7238 items*
+*Last updated: 2026-09-12 · 7303 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-11 | A misalignment of AI in mathematics | HN | Technology | tech | 2026-09-11 | [link](https://mathandai.org/) |
+| 2026-09-11 | Ask HN: Can we please limit the AI news flood? | HN | Technology | tech | 2026-09-11 | [link](https://news.ycombinator.com/item?id=49657850) |
+| 2026-09-11 | OpenAI agents carried out an undisclosed attack on RubyGems | HN | Technology | tech | 2026-09-11 | [link](https://www.rubyhack.ai/) |
+| 2026-09-11 | Claude is only available to people over 18 years | HN | Technology | tech | 2026-09-11 | [link](https://support.claude.com/en/articles/15171100-age-assurance-on-claude) |
+| 2026-09-11 | I spent $220 on Google app ads and 60% of the installs were robots | HN | Technology | tech | 2026-09-11 | [link](https://dayzlegame.com/blog/google-ads-bot-farm/) |
+| 2026-09-11 | The EPA is planning to scrap public review rules for data center pollution | HN | Technology | tech | 2026-09-11 | [link](https://capitalbnews.org/data-centers-permit-rules-epa/) |
+| 2026-09-11 | Astra for Coding: Why Are We Doing This Again? | HN | Technology | tech | 2026-09-11 | [link](https://lucumr.pocoo.org/2026/9/7/astra-why/) |
+| 2026-09-11 | google.com/goto: Google's anti-scraping update | HN | Technology | tech | 2026-09-11 | [link](https://www.autom.dev/blog/google-search-goto-links) |
+| 2026-09-11 | Houthis 'take control' of key island in global shipping route | HN | Technology | tech | 2026-09-11 | [link](https://www.bbc.com/news/live/cmd683p01eljt) |
+| 2026-09-11 | The Waymo effect: how AI is quietly making research less collaborative | HN | Technology | tech | 2026-09-11 | [link](https://www.researchagenda.news/articles/the-waymo-effect.html) |
+| 2026-09-11 | GrapheneOS' rewritten Messages app is released | HN | Technology | tech | 2026-09-11 | [link](https://github.com/GrapheneOS/Messaging/releases/tag/13) |
+| 2026-09-11 | HuggingFace: Security.txt | HN | Technology | tech | 2026-09-11 | [link](https://huggingface.co/security.txt) |
+| 2026-09-11 | Measuring the sloppiness of code | HN | Technology | tech | 2026-09-11 | [link](https://earendil.com/posts/measuring-code-sloppiness/) |
+| 2026-09-11 | Cherenkov Radiation | HN | Technology | tech | 2026-09-11 | [link](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation) |
+| 2026-09-11 | Show HN: Hacker News, without AI | HN | Technology | tech | 2026-09-11 | [link](https://hcker.news/?ai=exclude) |
+| 2026-09-11 | Rune is now open source | HN | Technology | tech | 2026-09-11 | [link](https://rune.build/blog/rune-is-now-open-source) |
+| 2026-09-11 | Will Stark Warnings About AI Shape the Midterm Elections? | NYT · AI | AI | news | 2026-09-11 | [link](https://www.nytimes.com/2026/09/11/us/politics/midterm-elections-trump-ai.html) |
+| 2026-09-11 | Inside the Discussions at AI Companies Over a Superintelligence Doomsday | NYT · AI | AI | news | 2026-09-12 | [link](https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html) |
+| 2026-09-11 | This Is Really Bad | NYT · AI | AI | opinion | 2026-09-11 | [link](https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html) |
+| 2026-09-11 | Naomi Klein and Astra Taylor Say the End of the World Is Now on the Table | NYT · AI | AI | news | 2026-09-12 | [link](https://www.nytimes.com/2026/09/12/magazine/naomi-klein-astra-taylor-interview.html) |
+| 2026-09-11 | California’s Governor Signs Landmark Online Child Safety Bills | NYT · Technology | Technology | news | 2026-09-11 | [link](https://www.nytimes.com/2026/09/10/technology/californias-governor-gavin-newsom-online-child-safety-bills.html) |
+| 2026-09-11 | Blame Ronald Reagan | NYT · Opinion | Opinion | opinion | 2026-09-11 | [link](https://www.nytimes.com/2026/09/09/opinion/80s-reagan-revolution-deregulation.html) |
+| 2026-09-11 | How Minnesota Became the Front Line in the Fight Over Prediction Markets | NYT · Technology | Technology | news | 2026-09-11 | [link](https://www.nytimes.com/2026/09/11/business/kalshi-polymarket-minnesota-prediction-markets.html) |
+| 2026-09-11 | Inflation Complicates Trump’s Midterms Pitch to Voters | NYT · Business | Business | news | 2026-09-12 | [link](https://www.nytimes.com/2026/09/12/us/politics/trump-inflation-midterms.html) |
+| 2026-09-11 | Justice Dept. Investigates Nvidia Deal With Groq | NYT · Business | Business | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/09/business/nvidia-groq-antitrust.html) |
+| 2026-09-11 | A.I. Data Center Pollution Poses Health Threat, Former E.P.A. Officials Warn | NYT · Business | Business | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/10/climate/ai-data-centers-air-pollution-health.html) |
+| 2026-09-11 | Bessent Takes on the Bond Vigilantes | NYT · Business | Business | news | 2026-09-11 | [link](https://www.nytimes.com/2026/09/11/business/dealbook/bessent-bond-vigilantes.html) |
+| 2026-09-11 | Clay, an A.I. Sales Tool Provider, Raises $115 Million | NYT · Business | Business | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/09/business/dealbook/clay-ai-fundraising.html) |
+| 2026-09-11 | For China, a Mock A.I. Attack on WeChat Signals a Dangerous New Era | NYT · AI | AI | news | 2026-09-11 | [link](https://www.nytimes.com/2026/09/11/world/asia/china-ai-attack-wechat.html) |
+| 2026-09-11 | Big Tech Fooled America Once. The Second Time’s Not Going So Well. | NYT · Opinion | Opinion | opinion | 2026-09-11 | [link](https://www.nytimes.com/2026/09/10/opinion/ai-big-tech-america-politics.html) |
+| 2026-09-11 | Elevated Inflation Keeps Pressure on Fed to Raise Rates | NYT · Economy | Economy | news | 2026-09-12 | [link](https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html) |
+| 2026-09-11 | Why It’s Difficult for Tech Companies to Rein In A.I. | NYT · AI | AI | news | 2026-09-12 | [link](https://www.nytimes.com/2026/09/12/technology/why-its-tough-for-tech-companies-to-keep-ai-out-of-trouble.html) |
+| 2026-09-11 | I Worked on Safety at OpenAI. The Fix Isn’t Hard. | NYT · Opinion | Opinion | opinion | 2026-09-11 | [link](https://www.nytimes.com/2026/09/09/opinion/openai-ai-companies-safety-regulation.html) |
+| 2026-09-11 | U.S. to Lend $1.9 Billion to Restart a Shuttered Nuclear Plant in Iowa | NYT · Energy & Environment | Energy & Environment | news | 2026-09-09 | [link](https://www.nytimes.com/2026/09/08/climate/nuclear-plant-iowa-loan.html) |
+| 2026-09-11 | Federal Judge Poised to Dismiss Lawsuit Challenging Trump’s Library | NYT · Politics | Politics | news | 2026-09-12 | [link](https://www.nytimes.com/2026/09/11/us/politics/trump-library-legal-action.html) |
+| 2026-09-11 | Republicans, Facing Midterm Peril, Try to Brand Democrats as Communists | NYT · Politics | Politics | news | 2026-09-12 | [link](https://www.nytimes.com/2026/09/12/us/politics/trump-democrats-communism-midterms.html) |
+| 2026-09-11 | Quoting huggingface.co/security.txt | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-11 | [link](https://simonwillison.net/2026/Sep/11/hugging-face-security/) |
+| 2026-09-11 | Pentagon in talks to loan Fluidstack $5bn - report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-11 | [link](https://www.datacenterdynamics.com/en/news/pentagon-in-talks-to-loan-fluidstack-5bn-report/) |
+| 2026-09-11 | Virgin Media O2 owners consider £600m cost cuts - report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-11 | [link](https://www.datacenterdynamics.com/en/news/virgin-media-o2-owners-consider-600m-cost-cuts-report/) |
+| 2026-09-11 | Weekly Update 521: Breach Perception v. Reality | Troy Hunt · Security & Privacy | Security | tech | 2026-09-11 | [link](https://www.troyhunt.com/weekly-update-521/) |
+| 2026-09-11 | Quoting Boris Cherny | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-11 | [link](https://simonwillison.net/2026/Sep/11/boris-cherny/) |
+| 2026-09-11 | Unplanned power plant outages fall sharply during 2025/26 winter storms: FERC-NERC report | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-11 | [link](https://www.utilitydive.com/news/unplanned-power-plant-outages-winter-weather-ferc-nerc/830141/) |
+| 2026-09-11 | Court rejects DOE ‘emergency’ order delaying coal plant retirement as overstep | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-11 | [link](https://www.utilitydive.com/news/appeals-court-vacates-doe-emergency-order-michigan-power-plant/830189/) |
+| 2026-09-11 | Empowering utility customers with demand flexibility | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-11 | [link](https://www.latitudemedia.com/news/empowering-utility-customers-with-demand-flexibility/) |
+| 2026-09-11 | Oracle and OpenAI bet that more solar could combat data center pushback | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-11 | [link](https://www.latitudemedia.com/news/oracle-and-openai-bet-that-more-solar-could-combat-data-center-pushback/) |
+| 2026-09-11 | Clarus the Dogcow Easter Egg in Apple’s OS 27 Settings | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-11 | [link](https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-ios-27-settings-app/) |
+| 2026-09-11 | The four-colour theorem was only the start | Lemire.me · Tech & Engineering | Technology | tech | 2026-09-11 | [link](https://lemire.me/blog/2026/09/11/the-four-colour-theorem-was-only-the-start/) |
+| 2026-09-11 | XCancel Is Back | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-11 | [link](https://xcancel.com/cdclegal) |
+| 2026-09-11 | [RSS Club] Sneak peek at new DOI functionality | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-09-11 | [link](https://shkspr.mobi/blog/2026/09/rss-club-sneak-peek-at-new-doi-functionality/) |
+| 2026-09-11 | New leaderboard just dropped | Reddit | Business | social | 2026-09-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wd7l4v/new_leaderboard_just_dropped/) |
+| 2026-09-11 | Opus 4.6 was OUR wet dream of AI | Reddit | Business | social | 2026-09-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wd15a1/opus_46_was_our_wet_dream_of_ai/) |
+| 2026-09-11 | My first ever PCB, entirely designed by Claude | Reddit | Business | social | 2026-09-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wdgzue/my_first_ever_pcb_entirely_designed_by_claude/) |
+| 2026-09-11 | GPT-6 Astra takes the #1 spot on VerBench | Reddit | Business | social | 2026-09-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wdvpma/gpt6_astra_takes_the_1_spot_on_verbench/) |
+| 2026-09-11 | She doesn't know about my $100 AI companion | Reddit | Business | social | 2026-09-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wdtdex/she_doesnt_know_about_my_100_ai_companion/) |
+| 2026-09-11 | If Anthropic cared to read some average chats 😂 | Reddit | Business | social | 2026-09-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wdfh5b/if_anthropic_cared_to_read_some_average_chats/) |
+| 2026-09-11 | Senior engineer, loop orchestrator sample setup | Reddit | Business | social | 2026-09-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wd44vj/senior_engineer_loop_orchestrator_sample_setup/) |
+| 2026-09-11 | Claude basically broke their "Projects" overnight and I’m pissed | Reddit | Business | social | 2026-09-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wdli7f/claude_basically_broke_their_projects_overnight/) |
+| 2026-09-11 | Recreating my favorite game with Claude | Reddit | Business | social | 2026-09-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wd12fr/recreating_my_favorite_game_with_claude/) |
+| 2026-09-11 | When doing anything creative, have y'all figured out how to not get to speak in "nebulous LLM speak" | Reddit | Business | social | 2026-09-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wd5yck/when_doing_anything_creative_have_yall_figured/) |
+| 2026-09-11 | New post: Obsidian CEO creates new language, turns data into markdown | Reddit | Business | social | 2026-09-11 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wdg6t0/new_post_obsidian_ceo_creates_new_language_turns/) |
+| 2026-09-11 | Turning Obsidian into my true self compassion tool for ADHD - Automatic daily log with timestamp | Reddit | Business | social | 2026-09-11 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wdjocd/turning_obsidian_into_my_true_self_compassion/) |
+| 2026-09-11 | Sync using your own google drive storage with simple OAuth | Reddit | Business | social | 2026-09-11 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wd6nht/sync_using_your_own_google_drive_storage_with/) |
+| 2026-09-11 | My minimalist Cookbook vault 🍳 | Reddit | Business | social | 2026-09-11 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wdc5rv/my_minimalist_cookbook_vault/) |
+| 2026-09-11 | beginner obsidian tips | Reddit | Business | social | 2026-09-11 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wd1tij/beginner_obsidian_tips/) |
+| 2026-09-11 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-10 | Shopify is moving from React Native back to Swift and Kotlin | HN | Technology | tech | 2026-09-10 | [link](https://shopify.engineering/back-to-native) |
 | 2026-09-10 | DeepSeek v4.1 Flash | HN | Technology | tech | 2026-09-10 | [link](https://twitter.com/deepseek_ai/status/2097930608790167907) |
 | 2026-09-10 | More questions about whether researchers can trust OpenAI with unpublished math | HN | Technology | tech | 2026-09-10 | [link](https://mathstodon.xyz/@andreasthom/117240535270608201) |
