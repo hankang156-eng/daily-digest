@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-12 · 489 days · 4890 stories*
+*Last updated: 2026-09-13 · 490 days · 4900 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-12 | Saturday | 1 | We must pace the frontier | 646 | 909 | Technology | [link](https://darioamodei.com/post/we-must-pace-the-frontier) · [HN](https://news.ycombinator.com/item?id=49672510) |
+| 2026-09-12 | Saturday | 2 | Fuck it, make it anyway | 568 | 576 | Technology | [link](https://www.joelotter.com/posts/2026/09/make-it-anyway/) · [HN](https://news.ycombinator.com/item?id=49671329) |
+| 2026-09-12 | Saturday | 3 | Nvidia is the central bank of AI | 484 | 338 | Technology | [link](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) · [HN](https://news.ycombinator.com/item?id=49673098) |
+| 2026-09-12 | Saturday | 4 | Everyone should slow down AI development except for me | 475 | 289 | Technology | [link](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/) · [HN](https://news.ycombinator.com/item?id=49678683) |
+| 2026-09-12 | Saturday | 5 | Make your first edit to OpenStreetMap | 460 | 114 | Technology | [link](https://high5apps.github.io/josm-plugin-website-wizard/) · [HN](https://news.ycombinator.com/item?id=49674050) |
+| 2026-09-12 | Saturday | 6 | Linux Zoom client proactively reading everything written to X11 clipboard | 326 | 104 | Technology | [link](https://hachyderm.io/@simontatham/117201594980991062) · [HN](https://news.ycombinator.com/item?id=49675902) |
+| 2026-09-12 | Saturday | 7 | Navier-Stokes Announcement | 323 | 274 | Technology | [link](https://www.claymath.org/news/navier-stokes-announcement/) · [HN](https://news.ycombinator.com/item?id=49668706) |
+| 2026-09-12 | Saturday | 8 | An open letter to Dario: if you mean it, open the weights | 286 | 96 | Technology | [link](https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/) · [HN](https://news.ycombinator.com/item?id=49676085) |
+| 2026-09-12 | Saturday | 9 | LG Says We're Fake News [video] | 268 | 122 | Technology | [link](https://www.youtube.com/watch?v=ToP9xfLDSME) · [HN](https://news.ycombinator.com/item?id=49676324) |
+| 2026-09-12 | Saturday | 10 | Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases | 243 | 135 | Technology | [link](https://withspecific.com/benchmarks/real-swe) · [HN](https://news.ycombinator.com/item?id=49676820) |
 | 2026-09-11 | Friday | 1 | A misalignment of AI in mathematics | 931 | 895 | Technology | [link](https://mathandai.org/) · [HN](https://news.ycombinator.com/item?id=49662371) |
 | 2026-09-11 | Friday | 2 | Ask HN: Can we please limit the AI news flood? | 790 | 373 | Technology | [link](https://news.ycombinator.com/item?id=49657850) · [HN](https://news.ycombinator.com/item?id=49657850) |
 | 2026-09-11 | Friday | 3 | OpenAI agents carried out an undisclosed attack on RubyGems | 707 | 395 | Technology | [link](https://www.rubyhack.ai/) · [HN](https://news.ycombinator.com/item?id=49666735) |

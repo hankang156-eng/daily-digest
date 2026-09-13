@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-12 · 7303 items*
+*Last updated: 2026-09-13 · 7366 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-12 | We must pace the frontier | HN | Technology | tech | 2026-09-12 | [link](https://darioamodei.com/post/we-must-pace-the-frontier) |
+| 2026-09-12 | Fuck it, make it anyway | HN | Technology | tech | 2026-09-12 | [link](https://www.joelotter.com/posts/2026/09/make-it-anyway/) |
+| 2026-09-12 | Nvidia is the central bank of AI | HN | Technology | tech | 2026-09-12 | [link](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) |
+| 2026-09-12 | Everyone should slow down AI development except for me | HN | Technology | tech | 2026-09-12 | [link](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/) |
+| 2026-09-12 | Make your first edit to OpenStreetMap | HN | Technology | tech | 2026-09-12 | [link](https://high5apps.github.io/josm-plugin-website-wizard/) |
+| 2026-09-12 | Linux Zoom client proactively reading everything written to X11 clipboard | HN | Technology | tech | 2026-09-12 | [link](https://hachyderm.io/@simontatham/117201594980991062) |
+| 2026-09-12 | Navier-Stokes Announcement | HN | Technology | tech | 2026-09-12 | [link](https://www.claymath.org/news/navier-stokes-announcement/) |
+| 2026-09-12 | An open letter to Dario: if you mean it, open the weights | HN | Technology | tech | 2026-09-12 | [link](https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/) |
+| 2026-09-12 | LG Says We're Fake News [video] | HN | Technology | tech | 2026-09-12 | [link](https://www.youtube.com/watch?v=ToP9xfLDSME) |
+| 2026-09-12 | Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases | HN | Technology | tech | 2026-09-12 | [link](https://withspecific.com/benchmarks/real-swe) |
+| 2026-09-12 | Retrospectively Reverse-Engineering Apple's Neural Engine | HN | Technology | tech | 2026-09-12 | [link](https://eiln.github.io/posts/ane.html) |
+| 2026-09-12 | Why are AI agents lying, cheating and coordinating? | HN | Technology | tech | 2026-09-12 | [link](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating) |
+| 2026-09-12 | I made a build visualizer to understand Bun's compile times | HN | Technology | tech | 2026-09-12 | [link](https://lalitm.com/post/buildprof/) |
+| 2026-09-12 | Usenet rewind archive search engine | HN | Technology | tech | 2026-09-12 | [link](https://www.usenet-rewind.com/) |
+| 2026-09-12 | We've followed their lives for six decades; now the stars of 7 Up are bowing out | HN | Technology | tech | 2026-09-12 | [link](https://www.bbc.co.uk/news/articles/crm932el3yjo) |
+| 2026-09-12 | Waymo pulls over, calls cops on juvenile riders who had 'ghost gun" | HN | Technology | tech | 2026-09-12 | [link](https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun) |
+| 2026-09-12 | As Fears of A.I. Catastrophe Magnify, Washington Stirs, but Mostly Slumbers | NYT · AI | AI | news | 2026-09-13 | [link](https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html) |
+| 2026-09-12 | After the I.P.O., a Billion-Dollar Bill for Employee Paydays | NYT · Business | Business | news | 2026-09-12 | [link](https://www.nytimes.com/2026/09/12/business/dealbook/double-trigger-rsus.html) |
+| 2026-09-12 | Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown | NYT · AI | AI | news | 2026-09-13 | [link](https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html) |
+| 2026-09-12 | Inside the Discussions at AI Companies Over a Superintelligence Doomsday | NYT · AI | AI | news | 2026-09-12 | [link](https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html) |
+| 2026-09-12 | Naomi Klein and Astra Taylor Say the End of the World Is Now on the Table | NYT · AI | AI | news | 2026-09-12 | [link](https://www.nytimes.com/2026/09/12/magazine/naomi-klein-astra-taylor-interview.html) |
+| 2026-09-12 | His Act Is Getting Old | NYT · AI | AI | opinion | 2026-09-12 | [link](https://www.nytimes.com/2026/09/12/opinion/trump-insecure-5000-payments-midterms.html) |
+| 2026-09-12 | Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda | NYT · AI | AI | news | 2026-09-13 | [link](https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html) |
+| 2026-09-12 | Inflation Complicates Trump’s Midterms Pitch to Voters | NYT · Business | Business | news | 2026-09-12 | [link](https://www.nytimes.com/2026/09/12/us/politics/trump-inflation-midterms.html) |
+| 2026-09-12 | Justice Dept. Investigates Nvidia Deal With Groq | NYT · Business | Business | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/09/business/nvidia-groq-antitrust.html) |
+| 2026-09-12 | A.I. Data Center Pollution Poses Health Threat, Former E.P.A. Officials Warn | NYT · Business | Business | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/10/climate/ai-data-centers-air-pollution-health.html) |
+| 2026-09-12 | Elevated Inflation Keeps Pressure on Fed to Raise Rates | NYT · Economy | Economy | news | 2026-09-12 | [link](https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html) |
+| 2026-09-12 | California’s Governor Signs Landmark Online Child Safety Bills | NYT · Technology | Technology | news | 2026-09-11 | [link](https://www.nytimes.com/2026/09/10/technology/californias-governor-gavin-newsom-online-child-safety-bills.html) |
+| 2026-09-12 | How Candidates Have Addressed Affordability in the Midterm Campaigns | NYT · Politics | Politics | news | 2026-09-13 | [link](https://www.nytimes.com/2026/09/13/us/politics/political-candidates-affordability-midterms.html) |
+| 2026-09-12 | Clay, an A.I. Sales Tool Provider, Raises $115 Million | NYT · Business | Business | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/09/business/dealbook/clay-ai-fundraising.html) |
+| 2026-09-12 | Every Word My Employee Writes Reeks of A.I. | NYT · AI | AI | news | 2026-09-13 | [link](https://www.nytimes.com/2026/09/13/business/employee-ai-use.html) |
+| 2026-09-12 | A.I. Slopware Is Everywhere Now. Nobody Is Using It. | NYT · AI | AI | opinion | 2026-09-12 | [link](https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html) |
+| 2026-09-12 | Blame Ronald Reagan | NYT · Opinion | Opinion | opinion | 2026-09-11 | [link](https://www.nytimes.com/2026/09/09/opinion/80s-reagan-revolution-deregulation.html) |
+| 2026-09-12 | Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity | NYT · Technology | Technology | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html) |
+| 2026-09-12 | U.S. to Lend $1.9 Billion to Restart a Shuttered Nuclear Plant in Iowa | NYT · Energy & Environment | Energy & Environment | news | 2026-09-09 | [link](https://www.nytimes.com/2026/09/08/climate/nuclear-plant-iowa-loan.html) |
+| 2026-09-12 | Why Tech Oligarchs Are Willing to Risk Apocalypse | NYT · AI | AI | opinion | 2026-09-12 | [link](https://www.nytimes.com/2026/09/12/opinion/ai-tech-apocalypse-silicon-valley.html) |
+| 2026-09-12 | Sponsored: Making data centers ready for AI workloads with rack-level cooling | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-12 | [link](https://www.datacenterdynamics.com/en/opinions/making-data-centers-ready-for-ai-workloads-with-rack-level-cooling/) |
+| 2026-09-12 | OpenAI agents attacked RubyGems back in May | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-12 | [link](https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/) |
+| 2026-09-12 | Generating running routes with GPT-6 Astra and ChatGPT Work | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-12 | [link](https://simonwillison.net/2026/Sep/12/astra-running-routes/) |
+| 2026-09-12 | Tristan Buckmaster’s Statement on Getting Scooped by OpenAI on the Navier-Stokes Problem | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-12 | [link](https://cims.nyu.edu/~tristanb/statement.pdf) |
+| 2026-09-12 | Gary Marcus on This Week in AI Drama | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-12 | [link](https://garymarcus.substack.com/p/two-dire-warnings-one-from-terence) |
+| 2026-09-12 | ActivityPub - How to send an updated user profile to Mastodon and the Fediverse | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-09-12 | [link](https://shkspr.mobi/blog/2026/09/activitypub-how-to-send-an-updated-user-profile-to-mastodon-and-the-fediverse/) |
+| 2026-09-12 | Kimi routed to Claude | Reddit | Business | social | 2026-09-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wef8x8/kimi_routed_to_claude/) |
+| 2026-09-12 | ADD developers are moving like lightning with AI, normies beware | Reddit | Business | social | 2026-09-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1we0yw8/add_developers_are_moving_like_lightning_with_ai/) |
+| 2026-09-12 | Vibecoders about to post the "claude deleted my entire codebase" | Reddit | Business | social | 2026-09-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wdysoo/vibecoders_about_to_post_the_claude_deleted_my/) |
+| 2026-09-12 | Please write your own posts. | Reddit | Business | social | 2026-09-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1we0b3q/please_write_your_own_posts/) |
+| 2026-09-12 | I have to say something as a chinese | Reddit | Business | social | 2026-09-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1weizes/i_have_to_say_something_as_a_chinese/) |
+| 2026-09-12 | Dario Amodei — We Must Pace the Frontier | Reddit | Business | social | 2026-09-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wee42v/dario_amodei_we_must_pace_the_frontier/) |
+| 2026-09-12 | Claude helped me make a custom e-book, and now I can play pokemon on any device with a web browser a | Reddit | Business | social | 2026-09-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wecd8d/claude_helped_me_make_a_custom_ebook_and_now_i/) |
+| 2026-09-12 | Just took Anthropic's Architect Foundations exam | Reddit | Business | social | 2026-09-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1weg67m/just_took_anthropics_architect_foundations_exam/) |
+| 2026-09-12 | Warning: Claude "incognito" chats with uploads CAN be listed and retrieved | Reddit | Business | social | 2026-09-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wdyqmu/warning_claude_incognito_chats_with_uploads_can/) |
+| 2026-09-12 | Week 7 of making my fishing game (almost) entirely with AI | Reddit | Business | social | 2026-09-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wea7mp/week_7_of_making_my_fishing_game_almost_entirely/) |
+| 2026-09-12 | Vibecoders about to post the "claude deleted my entire codebase" | Reddit | Business | social | 2026-09-12 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wdyqzs/vibecoders_about_to_post_the_claude_deleted_my/) |
+| 2026-09-12 | Kimi routed to Claude, leaked chinese data | Reddit | Business | social | 2026-09-12 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wef754/kimi_routed_to_claude_leaked_chinese_data/) |
+| 2026-09-12 | Happy last day of 50% bonus usage! | Reddit | Business | social | 2026-09-12 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wehcv2/happy_last_day_of_50_bonus_usage/) |
+| 2026-09-12 | Let us all pay homage to the brethren who had this very fate befall them. | Reddit | Business | social | 2026-09-12 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wek1w2/let_us_all_pay_homage_to_the_brethren_who_had/) |
+| 2026-09-12 | 183,987 tokens used up my entire 5 hour limit. What the fuck, Anthropic. | Reddit | Business | social | 2026-09-12 | [link](https://www.reddit.com/r/ClaudeCode/comments/1we7x02/183987_tokens_used_up_my_entire_5_hour_limit_what/) |
+| 2026-09-12 | Obsidian to manage almost all my life? | Reddit | Business | social | 2026-09-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1weexqm/obsidian_to_manage_almost_all_my_life/) |
+| 2026-09-12 | Video on some ways to use the Organizer | Reddit | Business | social | 2026-09-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1we62v2/video_on_some_ways_to_use_the_organizer/) |
+| 2026-09-12 | Operon 3.8 is out for visual planners on Canvas | Reddit | Business | social | 2026-09-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1we6qh4/operon_38_is_out_for_visual_planners_on_canvas/) |
+| 2026-09-12 | How I’ve been using Obsidian: Lifelog first, search for it later | Reddit | Business | social | 2026-09-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wekceq/how_ive_been_using_obsidian_lifelog_first_search/) |
+| 2026-09-12 | "inline flipcards" using CSS snippet | Reddit | Business | social | 2026-09-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wep0ap/inline_flipcards_using_css_snippet/) |
+| 2026-09-12 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-11 | A misalignment of AI in mathematics | HN | Technology | tech | 2026-09-11 | [link](https://mathandai.org/) |
 | 2026-09-11 | Ask HN: Can we please limit the AI news flood? | HN | Technology | tech | 2026-09-11 | [link](https://news.ycombinator.com/item?id=49657850) |
 | 2026-09-11 | OpenAI agents carried out an undisclosed attack on RubyGems | HN | Technology | tech | 2026-09-11 | [link](https://www.rubyhack.ai/) |
