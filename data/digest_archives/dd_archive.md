@@ -1,9 +1,66 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-13 · 7366 items*
+*Last updated: 2026-09-14 · 7423 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-13 | Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher | HN | Technology | tech | 2026-09-13 | [link](https://www.vals.ai/blogs/fable-solves-cyphral-distich) |
+| 2026-09-13 | Why is Google still serving dodgy ads? | HN | Technology | tech | 2026-09-13 | [link](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) |
+| 2026-09-13 | Homebrew 7.0.0 | HN | Technology | tech | 2026-09-13 | [link](https://brew.sh/2026/09/13/homebrew-7.0.0/) |
+| 2026-09-13 | JetKVM Mini | HN | Technology | tech | 2026-09-13 | [link](https://jetkvm.com/blog/introducing-jetkvm-mini) |
+| 2026-09-13 | Astra and Fable still hack on simple variants of alignment evals from 2025 | HN | Technology | tech | 2026-09-13 | [link](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) |
+| 2026-09-13 | I'm being cyberattacked by Tesla, Inc | HN | Technology | tech | 2026-09-13 | [link](https://dreamstation.systems/personal/tesla.html) |
+| 2026-09-13 | Data collected by cars and sold to third parties | HN | Technology | tech | 2026-09-13 | [link](https://www.theverge.com/column/994172/your-car-is-selling-your-data) |
+| 2026-09-13 | Garry Tan wants US open-weight AI labs to 'distill' frontier models, too | HN | Technology | tech | 2026-09-13 | [link](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/) |
+| 2026-09-13 | Flock worker calls police on reporter filming public camera installation | HN | Technology | tech | 2026-09-13 | [link](https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/) |
+| 2026-09-13 | David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models | HN | Technology | tech | 2026-09-13 | [link](https://twitter.com/DavidSacks/status/2098973625252708460) |
+| 2026-09-13 | Mark Zuckerberg: "Cambridge Analytica" (2017) | HN | Technology | tech | 2026-09-13 | [link](https://twitter.com/TechEmails/status/2099214399840059428) |
+| 2026-09-13 | Registration without a phone number on Signal will use zero-knowledge proofs | HN | Technology | tech | 2026-09-13 | [link](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10) |
+| 2026-09-13 | Why is the x86 undefined instruction called ud2? Why 2? | HN | Technology | tech | 2026-09-13 | [link](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689) |
+| 2026-09-13 | The contagion of fear | HN | Technology | tech | 2026-09-13 | [link](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/) |
+| 2026-09-13 | Global shortage has led to motor oil rationing at Costco | HN | Technology | tech | 2026-09-13 | [link](https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/) |
+| 2026-09-13 | Making Startups Powerful | HN | Technology | tech | 2026-09-13 | [link](https://paulgraham.com/powerful.html) |
+| 2026-09-13 | Top Lawmakers Agree A.I.’s Risks Are Rising but Say They Have No Quick Fix | NYT · AI | AI | news | 2026-09-13 | [link](https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html) |
+| 2026-09-13 | Tech Stocks Shudder in Response to Calls to Slow A.I. Progress | NYT · AI | AI | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html) |
+| 2026-09-13 | Is A.I. Raising the Chances of Biological Warfare? | NYT · AI | AI | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/14/science/ai-bioweapons.html) |
+| 2026-09-13 | King Charles Will Convene A.I. Leaders Amid Calls to Slow Development | NYT · AI | AI | news | 2026-09-13 | [link](https://www.nytimes.com/2026/09/13/world/europe/king-charles-ai-meeting.html) |
+| 2026-09-13 | What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown | NYT · AI | AI | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html) |
+| 2026-09-13 | Some in Silicon Valley Are Questioning the Calls for an A.I. Slowdown | NYT · AI | AI | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/13/technology/silicon-valley-ai-slowdown.html) |
+| 2026-09-13 | As Fears of A.I. Catastrophe Magnify, Washington Stirs, but Mostly Slumbers | NYT · Politics | Politics | news | 2026-09-13 | [link](https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html) |
+| 2026-09-13 | Trump Says ‘Negative Forces’ Are Calling for A.I. Regulation in the U.S. | NYT · AI | AI | news | 2026-09-13 | [link](https://www.nytimes.com/video/technology/100000011149572/trump-says-negative-forces-are-calling-for-ai-regulation-in-the-us.html) |
+| 2026-09-13 | Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda | NYT · Politics | Politics | news | 2026-09-13 | [link](https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html) |
+| 2026-09-13 | Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown | NYT · Technology | Technology | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html) |
+| 2026-09-13 | Inside the Discussions at AI Companies Over a Superintelligence Doomsday | NYT · Technology | Technology | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html) |
+| 2026-09-13 | After the I.P.O., a Billion-Dollar Bill for Employee Paydays | NYT · Business | Business | news | 2026-09-12 | [link](https://www.nytimes.com/2026/09/12/business/dealbook/double-trigger-rsus.html) |
+| 2026-09-13 | How Candidates Have Addressed Affordability in the Midterm Campaigns | NYT · Politics | Politics | news | 2026-09-13 | [link](https://www.nytimes.com/2026/09/13/us/politics/political-candidates-affordability-midterms.html) |
+| 2026-09-13 | A.I. Data Center Pollution Poses Health Threat, Former E.P.A. Officials Warn | NYT · Business | Business | news | 2026-09-10 | [link](https://www.nytimes.com/2026/09/10/climate/ai-data-centers-air-pollution-health.html) |
+| 2026-09-13 | Defense Hiring Will Ease, Not End, Pain in European Car Industry | NYT · Business | Business | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/14/business/defense-hiring-european-car-industry.html) |
+| 2026-09-13 | U.S. to Lend $1.9 Billion to Restart a Shuttered Nuclear Plant in Iowa | NYT · Energy & Environment | Energy & Environment | news | 2026-09-09 | [link](https://www.nytimes.com/2026/09/08/climate/nuclear-plant-iowa-loan.html) |
+| 2026-09-13 | Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated. | NYT · AI | AI | news | 2026-07-30 | [link](https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html) |
+| 2026-09-13 | Big Tech Fooled America Once. The Second Time’s Not Going So Well. | NYT · Opinion | Opinion | opinion | 2026-09-11 | [link](https://www.nytimes.com/2026/09/10/opinion/ai-big-tech-america-politics.html) |
+| 2026-09-13 | Global Warming Will Breach the 1.5 Degree Celsius Limit. Now What? | NYT · Energy & Environment | Energy & Environment | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/14/climate/global-warming-limit-paris-climate-agreement.html) |
+| 2026-09-13 | This Is Really Bad | NYT · Opinion | Opinion | opinion | 2026-09-11 | [link](https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html) |
+| 2026-09-13 | From grid constraint to grid asset: Rethinking the path to data center power | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-13 | [link](https://www.datacenterdynamics.com/en/opinions/from-grid-constraint-to-grid-asset-rethinking-the-path-to-data-center-power/) |
+| 2026-09-13 | Attackers already understand your software supply chain better than you do | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-13 | [link](https://www.datacenterdynamics.com/en/opinions/attackers-already-understand-your-software-supply-chain-better-than-you-do/) |
+| 2026-09-13 | The expectations of privacy in driverless cars | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-09-13 | [link](https://shkspr.mobi/blog/2026/09/the-expectations-of-privacy-in-driverless-cars/) |
+| 2026-09-13 | shot-scraper 1.12 | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-13 | [link](https://simonwillison.net/2026/Sep/13/shot-scraper/) |
+| 2026-09-13 | Glyphs 4 | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-13 | [link](https://glyphsapp.com/) |
+| 2026-09-13 | Back to normal limit | Reddit | Business | social | 2026-09-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wf65up/back_to_normal_limit/) |
+| 2026-09-13 | I vibe coded 5 mobile games with Claude Code.Turns out, people actually enjoy playing them. | Reddit | Business | social | 2026-09-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wf4r63/i_vibe_coded_5_mobile_games_with_claude_codeturns/) |
+| 2026-09-13 | Claude can optimize my computer | Reddit | Business | social | 2026-09-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wf7es1/claude_can_optimize_my_computer/) |
+| 2026-09-13 | Day 12ish of making a cozy game with no game dev experience | Reddit | Business | social | 2026-09-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wfnikw/day_12ish_of_making_a_cozy_game_with_no_game_dev/) |
+| 2026-09-13 | claudes scared of me | Reddit | Business | social | 2026-09-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wezdab/claudes_scared_of_me/) |
+| 2026-09-13 | Has Anyone Successfully Vibe-Coded an iOS App using Claude? | Reddit | Business | social | 2026-09-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wf9yg1/has_anyone_successfully_vibecoded_an_ios_app/) |
+| 2026-09-13 | Its very difficult to work with SVGs with Fable and Opus, Astra is way ahead. | Reddit | Business | social | 2026-09-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wfg65f/its_very_difficult_to_work_with_svgs_with_fable/) |
+| 2026-09-13 | Headsup if you are using claude-mem: kaspersky flagged it reading credentials via PowerShell | Reddit | Business | social | 2026-09-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wf53cb/headsup_if_you_are_using_claudemem_kaspersky/) |
+| 2026-09-13 | I made a Mecha Battle Royale where you and your friends pilot the SAME giant robot | Reddit | Business | social | 2026-09-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wf1p1p/i_made_a_mecha_battle_royale_where_you_and_your/) |
+| 2026-09-13 | Multiple accounts now on iOS | Reddit | Business | social | 2026-09-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wfewmw/multiple_accounts_now_on_ios/) |
+| 2026-09-13 | Elon Musk (Grok) and Sam Altman (OpenAI) have joined Dario Amodei's (Anthropic) proposal to slow dow | Reddit | Business | social | 2026-09-13 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wf7yjc/elon_musk_grok_and_sam_altman_openai_have_joined/) |
+| 2026-09-13 | WTH is going on with Claude Usage Limits | Reddit | Business | social | 2026-09-13 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wf9uuf/wth_is_going_on_with_claude_usage_limits/) |
+| 2026-09-13 | Do not ask Claude Opus 5 what it's thinking | Reddit | Business | social | 2026-09-13 | [link](https://www.reddit.com/r/ClaudeCode/comments/1weudf9/do_not_ask_claude_opus_5_what_its_thinking/) |
+| 2026-09-13 | When you're usage reset, and you get to go back to Fable5.1 | Reddit | Business | social | 2026-09-13 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wewahp/when_youre_usage_reset_and_you_get_to_go_back_to/) |
+| 2026-09-13 | AGI is achieved ! | Reddit | Business | social | 2026-09-13 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wf3ne2/agi_is_achieved/) |
+| 2026-09-13 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-12 | We must pace the frontier | HN | Technology | tech | 2026-09-12 | [link](https://darioamodei.com/post/we-must-pace-the-frontier) |
 | 2026-09-12 | Fuck it, make it anyway | HN | Technology | tech | 2026-09-12 | [link](https://www.joelotter.com/posts/2026/09/make-it-anyway/) |
 | 2026-09-12 | Nvidia is the central bank of AI | HN | Technology | tech | 2026-09-12 | [link](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) |

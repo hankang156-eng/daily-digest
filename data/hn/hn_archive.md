@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-13 · 490 days · 4900 stories*
+*Last updated: 2026-09-14 · 491 days · 4910 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-13 | Sunday | 1 | Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher | 955 | 407 | Technology | [link](https://www.vals.ai/blogs/fable-solves-cyphral-distich) · [HN](https://news.ycombinator.com/item?id=49688695) |
+| 2026-09-13 | Sunday | 2 | Why is Google still serving dodgy ads? | 822 | 363 | Technology | [link](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) · [HN](https://news.ycombinator.com/item?id=49686445) |
+| 2026-09-13 | Sunday | 3 | Homebrew 7.0.0 | 598 | 241 | Technology | [link](https://brew.sh/2026/09/13/homebrew-7.0.0/) · [HN](https://news.ycombinator.com/item?id=49681545) |
+| 2026-09-13 | Sunday | 4 | JetKVM Mini | 547 | 223 | Technology | [link](https://jetkvm.com/blog/introducing-jetkvm-mini) · [HN](https://news.ycombinator.com/item?id=49681152) |
+| 2026-09-13 | Sunday | 5 | Astra and Fable still hack on simple variants of alignment evals from 2025 | 440 | 205 | Technology | [link](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) · [HN](https://news.ycombinator.com/item?id=49684393) |
+| 2026-09-13 | Sunday | 6 | I'm being cyberattacked by Tesla, Inc | 432 | 117 | Technology | [link](https://dreamstation.systems/personal/tesla.html) · [HN](https://news.ycombinator.com/item?id=49686766) |
+| 2026-09-13 | Sunday | 7 | Data collected by cars and sold to third parties | 431 | 218 | Technology | [link](https://www.theverge.com/column/994172/your-car-is-selling-your-data) · [HN](https://news.ycombinator.com/item?id=49683953) |
+| 2026-09-13 | Sunday | 8 | Garry Tan wants US open-weight AI labs to 'distill' frontier models, too | 390 | 214 | Technology | [link](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/) · [HN](https://news.ycombinator.com/item?id=49685253) |
+| 2026-09-13 | Sunday | 9 | Flock worker calls police on reporter filming public camera installation | 346 | 254 | Technology | [link](https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/) · [HN](https://news.ycombinator.com/item?id=49683853) |
+| 2026-09-13 | Sunday | 10 | David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models | 303 | 226 | Technology | [link](https://twitter.com/DavidSacks/status/2098973625252708460) · [HN](https://news.ycombinator.com/item?id=49685991) |
 | 2026-09-12 | Saturday | 1 | We must pace the frontier | 646 | 909 | Technology | [link](https://darioamodei.com/post/we-must-pace-the-frontier) · [HN](https://news.ycombinator.com/item?id=49672510) |
 | 2026-09-12 | Saturday | 2 | Fuck it, make it anyway | 568 | 576 | Technology | [link](https://www.joelotter.com/posts/2026/09/make-it-anyway/) · [HN](https://news.ycombinator.com/item?id=49671329) |
 | 2026-09-12 | Saturday | 3 | Nvidia is the central bank of AI | 484 | 338 | Technology | [link](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) · [HN](https://news.ycombinator.com/item?id=49673098) |
