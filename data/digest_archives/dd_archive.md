@@ -1,9 +1,77 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-14 · 7423 items*
+*Last updated: 2026-09-15 · 7491 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-14 | Steam Frame starts at $1059 | HN | Technology | tech | 2026-09-14 | [link](https://store.steampowered.com/hardware/steamframe) |
+| 2026-09-14 | XCancel service is suspended until further notice | HN | Technology | tech | 2026-09-14 | [link](https://xcancel.com/#) |
+| 2026-09-14 | iOS 27, iPadOS 27, and macOS 27 | HN | Technology | tech | 2026-09-14 | [link](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) |
+| 2026-09-14 | Dario, Please | HN | Technology | tech | 2026-09-14 | [link](https://pop.rdi.sh/dario-please/) |
+| 2026-09-14 | OpenAI bots knew about the RubyGems caching vulnerability | HN | Technology | tech | 2026-09-14 | [link](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/) |
+| 2026-09-14 | Pion, an agent designed to run any company autonomously | HN | Technology | tech | 2026-09-14 | [link](https://andonlabs.com/blog/why-we-built-pion) |
+| 2026-09-14 | How to write an effective software design document | HN | Technology | tech | 2026-09-14 | [link](https://refactoringenglish.com/excerpts/write-an-effective-design-doc/) |
+| 2026-09-14 | Distributed Systems Classics (2017) | HN | Technology | tech | 2026-09-14 | [link](https://nvartolomei.com/dist-sys-classics/) |
+| 2026-09-14 | XCancel suspended "due to a new development in the ongoing legal proceedings" | HN | Technology | tech | 2026-09-14 | [link](https://xcancel.com/twitter) |
+| 2026-09-14 | Microsoft patches Windows and Excel – breaks audio, remote access, and paste | HN | Technology | tech | 2026-09-14 | [link](https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085) |
+| 2026-09-14 | Charts built for Chat | HN | Technology | tech | 2026-09-14 | [link](https://dbtcharts.com/blog/charts-built-for-chat/) |
+| 2026-09-14 | A beginning for mathematics | HN | Technology | tech | 2026-09-14 | [link](https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/) |
+| 2026-09-14 | Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows | HN | Technology | tech | 2026-09-14 | [link](https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/) |
+| 2026-09-14 | EuroBirdPortal – Live bird movements across Europe | HN | Technology | tech | 2026-09-14 | [link](https://www.eurobirdportal.org/ebp/en/) |
+| 2026-09-14 | Principles for Fast Tokio Applications | HN | Technology | tech | 2026-09-14 | [link](https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/) |
+| 2026-09-14 | How my e-reader lost its stripes | HN | Technology | tech | 2026-09-14 | [link](https://www.serpentine.com/posts/2026/x3-stripes/) |
+| 2026-09-14 | Alex Bores Wants Democrats to Make AI Safety a 2028 Election Issue | NYT · AI | AI | news | 2026-09-15 | [link](https://www.nytimes.com/2026/09/15/us/politics/ai-safety-2028-election-democrats.html) |
+| 2026-09-14 | As A.I. Fears Rise, Experts Suggest Focusing on the Humans in Charge | NYT · AI | AI | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/14/us/ai-fears-human-role.html) |
+| 2026-09-14 | The A.I. Slowdown Debate Goes Global | NYT · Business | Business | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/14/business/dealbook/ai-slowdown-dc-beijing.html) |
+| 2026-09-14 | Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns | NYT · Technology | Technology | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html) |
+| 2026-09-14 | Trump Administration Moves to Integrate A.I. Into Medical Care Despite Concerns | NYT · Business | Business | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/14/health/ai-doctors-medicare-fda.html) |
+| 2026-09-14 | Dario Amodei’s Essay Was Gutsy. It Didn’t Go Far Enough. | NYT · AI | AI | opinion | 2026-09-14 | [link](https://www.nytimes.com/2026/09/14/opinion/ai-pause-anthropic-openai.html) |
+| 2026-09-14 | The ‘But China!’ Dilemma Driving the A.I. Race | NYT · AI | AI | opinion | 2026-09-15 | [link](https://www.nytimes.com/2026/09/15/opinion/ezra-klein-podcast-matt-sheehan.html) |
+| 2026-09-14 | Railroads. Highways. Data Centers. One of Those Is Unlike the Others. | NYT · AI | AI | opinion | 2026-09-15 | [link](https://www.nytimes.com/2026/09/15/opinion/data-centers-americans-infrastructure.html) |
+| 2026-09-14 | Trump Rejects Talk of A.I. Regulation and Calls Out Anthropic’s CEO | NYT · Politics | Politics | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html) |
+| 2026-09-14 | Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down | NYT · Business | Business | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html) |
+| 2026-09-14 | Some in Silicon Valley Are Questioning the Calls for an A.I. Slowdown | NYT · Technology | Technology | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/13/technology/silicon-valley-ai-slowdown.html) |
+| 2026-09-14 | Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown | NYT · Technology | Technology | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html) |
+| 2026-09-14 | What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown | NYT · Technology | Technology | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html) |
+| 2026-09-14 | Inside the Discussions at AI Companies Over a Superintelligence Doomsday | NYT · Technology | Technology | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html) |
+| 2026-09-14 | A.I. Queries From Abroad Raise Fears of a Biological Weapons Race | NYT · Business | Business | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/14/science/ai-bioweapons.html) |
+| 2026-09-14 | Warsh Set for Showdown With Trump as Fed Faces Pressure to Raise Rates | NYT · Business | Business | news | 2026-09-15 | [link](https://www.nytimes.com/2026/09/15/business/fed-interest-rates-warsh.html) |
+| 2026-09-14 | 10-Year Treasury Yield Touches 5%, Highest Level in Years | NYT · Business | Business | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/14/business/10-year-treasury-yield-5-percent.html) |
+| 2026-09-14 | Why is JD Vance Campaigning in Kansas, a Red State? | NYT · AI | AI | news | 2026-09-14 | [link](https://www.nytimes.com/2026/09/14/us/politics/jd-vance-kansas-campaign-midterms.html) |
+| 2026-09-14 | The Challenge of Regulating A.I., and Ourselves | NYT · Opinion | Opinion | opinion | 2026-09-14 | [link](https://www.nytimes.com/2026/09/14/opinion/ai-regulation.html) |
+| 2026-09-14 | Several Big Brokerages Leave Customer Accounts Open to Theft, Senators Say | NYT · Your Money | Your Money | news | 2026-09-14 | [link](https://www.nytimes.com/2026/08/20/business/brokerage-accounts-fraud-protections.html) |
+| 2026-09-14 | DayOne breaks ground on data center in Tokyo, Japan | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-14 | [link](https://www.datacenterdynamics.com/en/news/dayone-breaks-ground-on-data-center-in-tokyo-japan/) |
+| 2026-09-14 | Sponsored: Data center growth is reshaping the insurability question | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-14 | [link](https://www.datacenterdynamics.com/en/opinions/data-center-growth-is-reshaping-the-insurability-question/) |
+| 2026-09-14 | Turning utility customer affordability into action | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-14 | [link](https://www.utilitydive.com/spons/turning-utility-customer-affordability-into-action/829519/) |
+| 2026-09-14 | The hidden cost of utility customer vulnerability | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-14 | [link](https://www.utilitydive.com/spons/the-hidden-cost-of-utility-customer-vulnerability/829737/) |
+| 2026-09-14 | TAR aims to build off-grid power for data centers in just six months | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-14 | [link](https://www.latitudemedia.com/news/tar-aims-to-build-off-grid-power-for-data-centers-in-just-six-months/) |
+| 2026-09-14 | The contagion of fear | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-14 | [link](https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/) |
+| 2026-09-14 | commit-rewriter 0.1 | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-14 | [link](https://simonwillison.net/2026/Sep/14/commit-rewriter/) |
+| 2026-09-14 | Apple’s 27.0 OS Updates | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-14 | [link](https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026/) |
+| 2026-09-14 | EPA poised to scrap power plant carbon standards | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-14 | [link](https://www.utilitydive.com/news/epa-poised-to-scrap-power-plant-carbon-standards/830301/) |
+| 2026-09-14 | Dumpster Fire – Litterbox-Inspired Extension for Firefox | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-14 | [link](https://addons.mozilla.org/en-US/firefox/addon/dumpster-fire/) |
+| 2026-09-14 | Esoteric HTML - ismap vs CSS | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-09-14 | [link](https://shkspr.mobi/blog/2026/09/esoteric-html-ismap-vs-css/) |
+| 2026-09-14 | I asked Claude to build an operating system from scratch. A few days later it was running on a real  | Reddit | Business | social | 2026-09-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wfpydl/i_asked_claude_to_build_an_operating_system_from/) |
+| 2026-09-14 | Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows | Reddit | Business | social | 2026-09-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wge6gc/apples_siri_ai_can_be_swapped_out_for_claude/) |
+| 2026-09-14 | Simulation: what if you could throw anything into a black hole? | Reddit | Business | social | 2026-09-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wfyjrh/simulation_what_if_you_could_throw_anything_into/) |
+| 2026-09-14 | I gave Claude Fable 5.1 and GPT 6 Astra control of my Robot Arm. Which do you think painted better? | Reddit | Business | social | 2026-09-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wgaetp/i_gave_claude_fable_51_and_gpt_6_astra_control_of/) |
+| 2026-09-14 | Anthropic says Russian and Chinese threat actors used Claude for drone-swarm software and other weap | Reddit | Business | social | 2026-09-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wg6zf9/anthropic_says_russian_and_chinese_threat_actors/) |
+| 2026-09-14 | Sol Low managing Opus Medium - “I’m not publishing that” | Reddit | Business | social | 2026-09-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wfq5y5/sol_low_managing_opus_medium_im_not_publishing/) |
+| 2026-09-14 | I built a handwriting canvas where AI can see what you're writing, and then I added a Tom Riddle dia | Reddit | Business | social | 2026-09-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wgcuh6/i_built_a_handwriting_canvas_where_ai_can_see/) |
+| 2026-09-14 | I don't see how to upskill any further | Reddit | Business | social | 2026-09-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wg7rcl/i_dont_see_how_to_upskill_any_further/) |
+| 2026-09-14 | Claude keeps naming things after the mistakes I told it not to make. So I built a hook for it. | Reddit | Business | social | 2026-09-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wghjmn/claude_keeps_naming_things_after_the_mistakes_i/) |
+| 2026-09-14 | Claude Helped Me Build A Dynamic Weather System | Reddit | Business | social | 2026-09-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wgk4wp/claude_helped_me_build_a_dynamic_weather_system/) |
+| 2026-09-14 | AI is using AI now | Reddit | Business | social | 2026-09-14 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wga9u4/ai_is_using_ai_now/) |
+| 2026-09-14 | The limits have been reduced even further now. It's September 14, and it really happened.. | Reddit | Business | social | 2026-09-14 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wfwl6k/the_limits_have_been_reduced_even_further_now_its/) |
+| 2026-09-14 | The lads after raising the limit cost by 50% | Reddit | Business | social | 2026-09-14 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wgfqoz/the_lads_after_raising_the_limit_cost_by_50/) |
+| 2026-09-14 | vibe coders the moment their claude code usage limit is reached | Reddit | Business | social | 2026-09-14 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wfylts/vibe_coders_the_moment_their_claude_code_usage/) |
+| 2026-09-14 | It's literally Monday and my look at my Claude usage | Reddit | Business | social | 2026-09-14 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wg60rh/its_literally_monday_and_my_look_at_my_claude/) |
+| 2026-09-14 | Infinite canvas for Handwriting + features update | Reddit | Business | social | 2026-09-14 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wg8ayq/infinite_canvas_for_handwriting_features_update/) |
+| 2026-09-14 | My random ADHD Tip for Obsidian | Reddit | Business | social | 2026-09-14 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wg5o84/my_random_adhd_tip_for_obsidian/) |
+| 2026-09-14 | A case for building personal plugins | Reddit | Business | social | 2026-09-14 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wg8uxp/a_case_for_building_personal_plugins/) |
+| 2026-09-14 | Custom Views 0.5.0 – View editor and performance improvements (no more flickers now) | Reddit | Business | social | 2026-09-14 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wg28ob/custom_views_050_view_editor_and_performance/) |
+| 2026-09-14 | Audio Note Transcription and Ingestion Process | Reddit | Business | social | 2026-09-14 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wg5nsr/audio_note_transcription_and_ingestion_process/) |
+| 2026-09-14 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-13 | Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher | HN | Technology | tech | 2026-09-13 | [link](https://www.vals.ai/blogs/fable-solves-cyphral-distich) |
 | 2026-09-13 | Why is Google still serving dodgy ads? | HN | Technology | tech | 2026-09-13 | [link](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) |
 | 2026-09-13 | Homebrew 7.0.0 | HN | Technology | tech | 2026-09-13 | [link](https://brew.sh/2026/09/13/homebrew-7.0.0/) |

@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-14 · 491 days · 4910 stories*
+*Last updated: 2026-09-15 · 492 days · 4920 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-14 | Monday | 1 | Steam Frame starts at $1059 | 679 | 515 | Technology | [link](https://store.steampowered.com/hardware/steamframe) · [HN](https://news.ycombinator.com/item?id=49700661) |
+| 2026-09-14 | Monday | 2 | XCancel service is suspended until further notice | 643 | 941 | Technology | [link](https://xcancel.com/#) · [HN](https://news.ycombinator.com/item?id=49694296) |
+| 2026-09-14 | Monday | 3 | iOS 27, iPadOS 27, and macOS 27 | 610 | 690 | Technology | [link](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) · [HN](https://news.ycombinator.com/item?id=49701004) |
+| 2026-09-14 | Monday | 4 | Dario, Please | 546 | 259 | Technology | [link](https://pop.rdi.sh/dario-please/) · [HN](https://news.ycombinator.com/item?id=49697893) |
+| 2026-09-14 | Monday | 5 | OpenAI bots knew about the RubyGems caching vulnerability | 465 | 375 | Technology | [link](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/) · [HN](https://news.ycombinator.com/item?id=49695876) |
+| 2026-09-14 | Monday | 6 | Pion, an agent designed to run any company autonomously | 411 | 513 | Technology | [link](https://andonlabs.com/blog/why-we-built-pion) · [HN](https://news.ycombinator.com/item?id=49700477) |
+| 2026-09-14 | Monday | 7 | How to write an effective software design document | 332 | 136 | Technology | [link](https://refactoringenglish.com/excerpts/write-an-effective-design-doc/) · [HN](https://news.ycombinator.com/item?id=49696125) |
+| 2026-09-14 | Monday | 8 | Distributed Systems Classics (2017) | 308 | 67 | Technology | [link](https://nvartolomei.com/dist-sys-classics/) · [HN](https://news.ycombinator.com/item?id=49699158) |
+| 2026-09-14 | Monday | 9 | XCancel suspended "due to a new development in the ongoing legal proceedings" | 271 | 1 | Technology | [link](https://xcancel.com/twitter) · [HN](https://news.ycombinator.com/item?id=49695459) |
+| 2026-09-14 | Monday | 10 | Microsoft patches Windows and Excel – breaks audio, remote access, and paste | 244 | 155 | Technology | [link](https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085) · [HN](https://news.ycombinator.com/item?id=49699297) |
 | 2026-09-13 | Sunday | 1 | Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher | 955 | 407 | Technology | [link](https://www.vals.ai/blogs/fable-solves-cyphral-distich) · [HN](https://news.ycombinator.com/item?id=49688695) |
 | 2026-09-13 | Sunday | 2 | Why is Google still serving dodgy ads? | 822 | 363 | Technology | [link](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) · [HN](https://news.ycombinator.com/item?id=49686445) |
 | 2026-09-13 | Sunday | 3 | Homebrew 7.0.0 | 598 | 241 | Technology | [link](https://brew.sh/2026/09/13/homebrew-7.0.0/) · [HN](https://news.ycombinator.com/item?id=49681545) |
