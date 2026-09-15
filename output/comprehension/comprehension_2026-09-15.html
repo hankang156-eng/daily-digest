@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AI Comprehension — Tuesday, September 15, 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Inter:wght@400;500;600&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #f6f6f0;
+  --paper: #fbf9f3;
+  --ink: #14130f;
+  --ink-soft: #2f2c26;
+  --mute: #6a6760;
+  --faint: #a09a8e;
+  --rule: rgba(20, 19, 15, 0.14);
+  --rule-soft: rgba(20, 19, 15, 0.07);
+  --accent: #8a1a1a;
+  --hover: #8a1a1a;
+  --font-body: 'Lora', 'Iowan Old Style', Georgia, serif;
+  --font-meta: 'DM Sans', ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --col: 700px;
+  --body-size: 13px;
+  --row-pad: 10px;
+}
+
+[data-theme="dark"] {
+  --bg: #111216;
+  --paper: #1a1b20;
+  --ink: #b5b5b5;
+  --ink-soft: #9e9e9e;
+  --mute: #7a7a7a;
+  --faint: #5a5a5a;
+  --rule: rgba(181, 181, 181, 0.20);
+  --rule-soft: rgba(181, 181, 181, 0.10);
+  --accent: #d68c8c;
+  --hover: #d68c8c;
+}
+
+[data-font="sans"] { --font-body: 'Inter', ui-sans-serif, system-ui, -apple-system, sans-serif; }
+
+* { box-sizing: border-box; }
+html { background: var(--bg); scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: var(--body-size);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  transition: background-color 180ms ease, color 180ms ease;
+}
+[data-font="sans"] body { letter-spacing: -0.005em; line-height: 1.52; }
+::selection { background: var(--accent); color: var(--paper); }
+a { color: inherit; text-decoration: none; }
+
+/* Layout */
+.page { max-width: var(--col); margin: 0 auto; padding: 24px 24px 56px; }
+
+/* Toolbar */
+.toolbar {
+  position: sticky; top: 0; z-index: 100;
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 12px; padding: 10px 0; margin: 0 0 4px;
+  border-bottom: 1px solid var(--rule-soft);
+  font-family: var(--font-meta);
+  font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--mute);
+  background: var(--bg);
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: saturate(140%) blur(8px);
+  -webkit-backdrop-filter: saturate(140%) blur(8px);
+}
+.toolbar a { color: var(--mute); transition: color 120ms ease; }
+.toolbar a:hover { color: var(--ink); }
+.toolbar a.archive { letter-spacing: 0.06em; }
+.controls { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.btn {
+  background: transparent; border: 1px solid var(--rule); color: var(--mute);
+  font: inherit; letter-spacing: inherit; text-transform: inherit;
+  padding: 4px 9px; cursor: pointer; border-radius: 2px;
+  transition: color 120ms ease, border-color 120ms ease, background-color 120ms ease;
+}
+.btn:hover { color: var(--ink); border-color: var(--ink-soft); }
+.btn[aria-pressed="true"] { color: var(--ink); border-color: var(--ink-soft); background: var(--paper); }
+.seg { display: inline-flex; border: 1px solid var(--rule); border-radius: 2px; overflow: hidden; }
+.seg .btn { border: none; border-radius: 0; padding: 4px 9px; color: var(--mute); }
+.seg .btn + .btn { border-left: 1px solid var(--rule); }
+.seg .btn:hover { color: var(--ink); }
+.seg .btn[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+
+/* Masthead */
+.masthead {
+  text-align: left; padding: 28px 0 18px;
+  border-bottom: 1px solid var(--rule); margin-bottom: 24px;
+}
+.masthead .kicker {
+  font-family: var(--font-meta); font-size: 10.5px;
+  letter-spacing: 0.22em; text-transform: uppercase;
+  color: var(--mute); margin-bottom: 8px;
+}
+.wordmark {
+  font-family: var(--font-body); font-weight: 600;
+  font-size: clamp(30px, 5vw, 40px); line-height: 1.05;
+  letter-spacing: -0.018em; margin: 0; color: var(--ink);
+}
+[data-font="sans"] .wordmark { font-weight: 600; letter-spacing: -0.028em; }
+.fetched {
+  font-family: var(--font-meta); font-size: 11px;
+  letter-spacing: 0.06em; color: var(--mute); margin-top: 10px;
+}
+
+/* Per-section accents */
+details.section#hn        { --accent: #b8501c; --hover: #b8501c; }
+details.section#nyt       { --accent: #4a4a48; --hover: #4a4a48; }
+details.section#research  { --accent: #2a6b66; --hover: #2a6b66; }
+details.section#blogs     { --accent: #4f6b3e; --hover: #4f6b3e; }
+details.section#linkedin  { --accent: #2a5a8a; --hover: #2a5a8a; }
+[data-theme="dark"] details.section#hn        { --accent: #e09b6b; --hover: #e09b6b; }
+[data-theme="dark"] details.section#nyt       { --accent: #9a958a; --hover: #9a958a; }
+[data-theme="dark"] details.section#research  { --accent: #7fb8b0; --hover: #7fb8b0; }
+[data-theme="dark"] details.section#blogs     { --accent: #a8c08c; --hover: #a8c08c; }
+[data-theme="dark"] details.section#linkedin  { --accent: #7ba6d4; --hover: #7ba6d4; }
+
+/* Section */
+.section { margin-top: 32px; scroll-margin-top: 60px; }
+.section:first-of-type { margin-top: 8px; }
+.section-head {
+  margin-bottom: 14px; padding-bottom: 10px;
+  border-bottom: 1px solid var(--rule);
+  display: flex; align-items: baseline; justify-content: space-between;
+  gap: 16px; cursor: pointer; list-style: none; user-select: none;
+  transition: color 120ms ease;
+}
+.section-head::-webkit-details-marker { display: none; }
+.section-head:hover h2 { color: var(--accent); }
+.section:not([open]) > .section-head { margin-bottom: 0; }
+.section-head h2 {
+  font-family: var(--font-body); font-weight: 500;
+  font-size: 22px; line-height: 1.15; margin: 0;
+  letter-spacing: -0.012em; transition: color 120ms ease; flex: 1;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1.5px; text-underline-offset: 6px;
+  text-decoration-color: color-mix(in srgb, var(--accent) 55%, transparent);
+}
+[data-font="sans"] .section-head h2 { font-weight: 600; letter-spacing: -0.022em; }
+.section-head::after {
+  content: "▾"; font-family: var(--font-meta); font-size: 11px;
+  color: var(--accent); transition: transform 180ms ease;
+  display: inline-block; transform-origin: center;
+  flex-shrink: 0; margin-left: 12px; align-self: center;
+}
+.section:not([open]) > .section-head::after { transform: rotate(-90deg); }
+
+/* Subsection */
+.subsection { margin-top: 18px; }
+.subsection:first-of-type { margin-top: 6px; }
+.subhead {
+  display: flex; align-items: center; gap: 10px;
+  margin: 0 0 6px; cursor: pointer; list-style: none; user-select: none;
+  transition: color 120ms ease;
+}
+.subhead::-webkit-details-marker { display: none; }
+.subhead::before {
+  content: "▾"; font-size: 9px; color: var(--mute);
+  transition: transform 180ms ease;
+  display: inline-block; transform-origin: center; flex-shrink: 0;
+}
+.subsection:not([open]) > .subhead::before { transform: rotate(-90deg); }
+.subsection:not([open]) > .subhead { margin-bottom: 0; }
+.subhead:hover h3 { color: var(--ink); }
+.subhead::after {
+  content: ""; flex: 1; height: 1px; background: var(--rule-soft);
+}
+.subhead h3 {
+  font-family: var(--font-meta); font-size: 10.5px;
+  font-weight: 500; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--ink-soft); margin: 0; transition: color 120ms ease;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1px; text-underline-offset: 4px;
+  text-decoration-color: color-mix(in srgb, var(--accent) 55%, transparent);
+}
+
+/* Article */
+.article {
+  display: grid; grid-template-columns: 26px 1fr;
+  gap: 2px 12px; padding: var(--row-pad) 0 calc(var(--row-pad) + 1px);
+  border-bottom: 1px solid var(--rule-soft);
+}
+.article:last-child { border-bottom: none; }
+.article .num {
+  font-family: var(--font-meta); font-size: 11px;
+  color: var(--faint); font-feature-settings: "tnum";
+  padding-top: 4px; text-align: right;
+}
+.article .body { min-width: 0; }
+.article h4 {
+  margin: 0 0 4px; font-family: var(--font-body);
+  font-weight: 500; font-size: 20px; line-height: 1.25;
+  letter-spacing: -0.008em; text-wrap: pretty;
+}
+[data-font="sans"] .article h4 { font-weight: 600; letter-spacing: -0.015em; }
+.article h4 a {
+  background-image: linear-gradient(var(--ink), var(--ink));
+  background-repeat: no-repeat; background-position: 0 100%;
+  background-size: 0 1px;
+  transition: background-size 180ms ease, color 120ms ease;
+}
+.article h4 a:hover {
+  color: var(--hover);
+  background-image: linear-gradient(var(--hover), var(--hover));
+  background-size: 100% 1px;
+}
+
+/* Meta line — picks up the section accent */
+.meta {
+  font-family: var(--font-meta); font-size: 10px;
+  letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--accent);
+  display: flex; flex-wrap: wrap; align-items: center;
+  gap: 0 6px; line-height: 1.4;
+}
+.meta .sep { color: var(--accent); opacity: 0.55; }
+.meta a { color: #ed702e; border-bottom: 1px solid transparent; padding-bottom: 1px; }
+.meta a:hover { color: #ff8a3c; border-color: currentColor; }
+.meta .src { color: var(--accent); font-weight: 600; }
+.meta .cat { color: var(--accent); }
+.meta .reason {
+  width: 100%; color: var(--faint); font-style: italic;
+  text-transform: none; letter-spacing: 0;
+  font-size: 11px; font-family: var(--font-body); margin-top: 1px;
+}
+
+/* Article collapsibles */
+.article details { margin-top: 5px; }
+.article details summary {
+  list-style: none; cursor: pointer;
+  font-family: var(--font-meta); font-size: 10px;
+  letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--accent);
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 2px 0; transition: color 120ms ease; user-select: none;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1px; text-underline-offset: 3px;
+  text-decoration-color: currentColor;
+}
+.article details summary::-webkit-details-marker { display: none; }
+.article details summary:hover { color: var(--hover); }
+.article details summary::before {
+  content: "+"; display: inline-block; width: 9px;
+  text-align: center; color: var(--faint);
+  font-family: var(--font-meta);
+  transition: transform 150ms ease, color 120ms ease;
+}
+.article details[open] summary::before { content: "−"; color: var(--accent); }
+.article details[open] summary { color: var(--accent); }
+.article details .panel {
+  font-family: var(--font-body); font-size: 14px;
+  font-weight: 500; line-height: 1.25;
+  color: var(--panel-ink, var(--ink-soft));
+  margin: 5px 0 4px; text-wrap: pretty;
+}
+[data-theme="dark"] { --panel-ink: #b5b5b5; }
+.article details.abstract .panel { font-style: italic; color: var(--mute); }
+details.section#nyt .article details.abstract .panel { font-style: normal; }
+
+/* Side-by-side details (Abstract + Overview on NYT) */
+.details-row { display: flex; flex-wrap: wrap; gap: 0 16px; margin-top: 4px; }
+.details-row details { margin-top: 0; }
+
+/* "More" chunk toggles (HN list): indent ONLY the button so expanded content is full-width */
+.more { margin: 6px 0 0 0; }
+.more > summary { display: inline-block; margin-left: 32px; padding: 4px 10px; border: 1px solid var(--rule); border-radius: 2px; color: var(--mute); cursor: pointer; font-size: 12px; letter-spacing: 0.04em; }
+.more > summary:hover { color: var(--ink); border-color: var(--ink-soft); }
+.more[open] > summary { margin-bottom: 6px; }
+
+/* Toolbar icon glyphs */
+.toolbar .ico { display: inline-block; min-width: 1em; text-align: center; }
+.toolbar .ico-serif { font-family: 'Lora', Georgia, serif; font-weight: 600; }
+.toolbar .ico-sans { font-family: 'Inter', -apple-system, sans-serif; font-weight: 600; }
+
+/* Small screens: icons-only toolbar, fit one line */
+@media (max-width: 560px) {
+  .page { padding: 16px 16px 40px; }
+  .masthead { padding: 20px 0 16px; margin-bottom: 22px; }
+  .article { grid-template-columns: 22px 1fr; gap: 2px 10px; }
+  .article h4 { font-size: 18px; }
+  .toolbar { font-size: 11px; flex-wrap: nowrap; gap: 6px; align-items: center; }
+  .toolbar .lbl { display: none; }
+  .toolbar .archive { padding: 2px 4px; }
+  .toolbar .btn { padding: 4px 6px; font-size: 12px; }
+  .toolbar .seg .btn { padding: 4px 7px; }
+  .controls { gap: 4px; flex-wrap: nowrap; }
+  .section-head { flex-direction: column; align-items: flex-start; gap: 4px; }
+}
+
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 1px; }
+button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* Reading marks. Feed the comprehension layer's sense of what already landed;
+   harvested via the toolbar's Save marks download. */
+.marks { display: flex; gap: 5px; margin: 4px 0 0; flex-wrap: wrap; }
+.marks .mk {
+  font-family: var(--font-meta); font-size: 10px; font-weight: 500;
+  letter-spacing: .04em; color: var(--mute);
+  background: none; border: 1px solid var(--rule-soft); border-radius: 999px;
+  padding: 1px 8px; cursor: pointer; line-height: 1.6;
+}
+.marks .mk:hover { color: var(--hover); border-color: var(--hover); }
+.marks .mk[aria-pressed="true"] {
+  color: var(--paper); background: var(--accent); border-color: var(--accent);
+}
+.article[data-marked="knew-this"], .thread[data-marked="knew-this"] { opacity: .55; }
+.article[data-marked="knew-this"]:hover, .thread[data-marked="knew-this"]:hover { opacity: 1; }
+@media (max-width: 640px) { .marks .mk { font-size: 11px; padding: 2px 9px; } }
+
+
+.track { margin: 0 0 26px; }
+.track-head {
+  font-family: var(--font-meta); font-size: 11px; font-weight: 600;
+  letter-spacing: .12em; text-transform: uppercase; color: var(--accent);
+  padding-bottom: 6px; border-bottom: 1px solid var(--rule);
+  margin: 0 0 4px;
+}
+.thread { padding: var(--row-pad) 0; border-bottom: 1px solid var(--rule-soft); }
+.thread h3 {
+  font-family: var(--font-body); font-size: calc(var(--body-size) + 3px);
+  font-weight: 600; line-height: 1.2; margin: 0 0 3px; color: var(--ink);
+}
+.thread .headline {
+  font-family: var(--font-body); font-size: var(--body-size);
+  font-weight: 600; color: var(--accent); margin: 0 0 6px; text-wrap: pretty;
+}
+.thread p {
+  font-family: var(--font-body); font-size: var(--body-size);
+  line-height: 1.45; color: var(--ink-soft); margin: 0 0 7px; text-wrap: pretty;
+}
+.thread .matters { color: var(--ink); }
+.thread .matters b, .thread .charter b {
+  font-family: var(--font-meta); font-size: 10px; font-weight: 600;
+  letter-spacing: .1em; text-transform: uppercase; color: var(--mute);
+  display: block; margin-bottom: 2px;
+}
+.thread .charter { font-style: italic; color: var(--mute); }
+.thread-meta {
+  font-family: var(--font-meta); font-size: 11px; color: var(--mute);
+  margin: 0 0 7px;
+}
+.sources { margin: 6px 0 0; padding: 0; list-style: none; }
+.sources li {
+  font-family: var(--font-meta); font-size: 12px;
+  color: var(--mute); padding: 1px 0;
+}
+.sources a { color: var(--ink-soft); }
+.sources a:hover { color: var(--hover); }
+.quiet { margin: 0; padding: 0; list-style: none; }
+.quiet li {
+  font-family: var(--font-meta); font-size: 12px; color: var(--mute);
+  padding: 2px 0; border-bottom: 1px solid var(--rule-soft);
+}
+.empty { font-family: var(--font-body); color: var(--mute); font-style: italic; }
+
+</style>
+</head>
+<body>
+<div class="page" data-digest-date="2026-09-15">
+  <div class="toolbar">
+    <a class="archive" href="../daily_html/digest_2026-09-15.html" title="Read the digest for this day"><span class="ico" aria-hidden="true">←</span><span class="lbl"> Read this day's digest</span></a>
+    <div class="controls">
+      <div class="seg" role="group" aria-label="Font">
+        <button class="btn" data-tg="font" data-val="serif" aria-pressed="true" title="Serif"><span class="ico ico-serif" aria-hidden="true">A</span><span class="lbl"> Serif</span></button>
+        <button class="btn" data-tg="font" data-val="sans" aria-pressed="false" title="Sans"><span class="ico ico-sans" aria-hidden="true">A</span><span class="lbl"> Sans</span></button>
+      </div>
+      <div class="seg" role="group" aria-label="Theme">
+        <button class="btn" data-tg="theme" data-val="light" aria-pressed="true" title="Light"><span class="ico" aria-hidden="true">☀</span><span class="lbl"> Light</span></button>
+        <button class="btn" data-tg="theme" data-val="dark" aria-pressed="false" title="Dark"><span class="ico" aria-hidden="true">☾</span><span class="lbl"> Dark</span></button>
+      </div>
+      <button class="btn" id="saveMarks" title="Download your marks so the next run can use them"><span class="ico" aria-hidden="true">⇩</span><span class="lbl"> Save marks</span></button>
+      <a class="btn" href="comprehension_archive.html" title="Past comprehension pages"><span class="ico" aria-hidden="true">☰</span><span class="lbl"> Archive</span></a>
+    </div>
+  </div>
+
+  <header class="masthead">
+    <div class="kicker">What It Means</div>
+    <h1 class="wordmark">Tuesday, September 15, 2026</h1>
+    <div class="fetched">11 threads moved · 26 quiet</div>
+  </header>
+
+<section class="track">
+  <div class="track-head">AI infrastructure</div>
+<div class="thread">
+  <h3>Data-center buildout meets grid and community friction</h3>
+  <div class="thread-meta">83 items · 1 new today · tracked since 2026-06-20</div>
+  <p class="headline">EPA moves to scrap federal power-plant carbon standards</p>
+  <p>Beyond last week&#x27;s move to drop public review of data-center pollution permits, EPA is now reportedly poised to rescind the underlying federal carbon standards for power plants entirely. This is a bigger and more durable regulatory rollback than the earlier permit-review story.</p>
+  <p class="matters"><b>Why it matters</b>Removing carbon standards specifically eases the path for new gas-fired generation, which is the dominant near-term answer to AI data-center power demand — so this is a federal-level tailwind for exactly the buildout that&#x27;s generating local grid and health pushback elsewhere in this thread. Cities and environmental advocates losing this federal guardrail means climate and health fights will increasingly happen state-by-state and site-by-site instead.</p>
+  <p class="charter"><b>Thread</b>As hyperscalers race to build AI data centers, regulators, workers, and neighbors are pushing back over grid costs, noise, and siting — watch for how FERC, utilities, and local politics reshape the pace of buildout.</p>
+  <ul class="sources"><li><a href="https://www.utilitydive.com/news/epa-poised-to-scrap-power-plant-carbon-standards/830301/" target="_blank">EPA poised to scrap power plant carbon standards</a> · Utility Dive</li></ul>
+  <div class="marks" role="group" aria-label="How this explanation landed" data-mark-key="thread:data-center-buildout-meets-grid-and"><button class="mk" data-mark="knew-this" aria-pressed="false" title="I already knew this">knew this</button><button class="mk" data-mark="useful" aria-pressed="false" title="This taught me something">useful</button><button class="mk" data-mark="over-my-head" aria-pressed="false" title="I could not follow this">over my head</button></div>
+</div>
+<div class="thread">
+  <h3>Hyperscalers and DOE chase new capacity to feed AI power demand</h3>
+  <div class="thread-meta">64 items · 1 new today · tracked since 2026-06-24</div>
+  <p class="headline">Startup pitches 6-month off-grid power as an end-run around interconnection queues</p>
+  <p>TAR raised $120M to deliver modular off-grid solar-plus-battery power for data centers in as little as six months, explicitly positioned to bypass the grid interconnection delays that have been slowing projects like Google/Blackstone&#x27;s Project Braid. This adds a new category to the capacity-chasing list alongside Oracle&#x27;s renewable RFPs and the Pentagon&#x27;s Fluidstack loan talks.</p>
+  <p class="matters"><b>Why it matters</b>Interconnection queues — the wait time to get a new generator or large load approved onto the grid — are one of the biggest bottlenecks in AI buildout, often taking years. A credible off-grid, fast-deploy alternative would be a structural fix rather than a financing workaround, so watch whether TAR (or a copycat) actually delivers a live six-month site as proof this isn&#x27;t just another capex press release.</p>
+  <p class="charter"><b>Thread</b>Facing surging data-center electricity demand, hyperscalers and the federal government are pursuing new generation and demand-response capacity — nuclear loans, home battery/VPP aggregation — track new capacity commitments and timelines as a counterpart to the grid-friction story.</p>
+  <ul class="sources"><li><a href="https://www.latitudemedia.com/news/tar-aims-to-build-off-grid-power-for-data-centers-in-just-six-months/" target="_blank">TAR aims to build off-grid power for data centers in just six months</a> · Latitude Media</li></ul>
+  <div class="marks" role="group" aria-label="How this explanation landed" data-mark-key="thread:hyperscalers-and-doe-chase-new-capacity"><button class="mk" data-mark="knew-this" aria-pressed="false" title="I already knew this">knew this</button><button class="mk" data-mark="useful" aria-pressed="false" title="This taught me something">useful</button><button class="mk" data-mark="over-my-head" aria-pressed="false" title="I could not follow this">over my head</button></div>
+</div>
+</section>
+<section class="track">
+  <div class="track-head">AI at large</div>
+<div class="thread">
+  <h3>Dario Amodei&#x27;s &#x27;pace the frontier&#x27; call meets industry skepticism</h3>
+  <div class="thread-meta">25 items · 6 new today · tracked since 2026-09-13</div>
+  <p class="headline">Trump publicly rejects Amodei&#x27;s slowdown call, names him directly</p>
+  <p>The debate escalated from Silicon Valley skepticism to a direct political confrontation: Trump dismissed AI safety concerns onstage with Nvidia&#x27;s Jensen Huang and separately called out Amodei by name while rejecting regulation. NYT coverage broadened into global framing, noting market jitters and pushback from both Washington and Beijing, alongside opinion pieces arguing Amodei&#x27;s essay doesn&#x27;t go far enough without government teeth.</p>
+  <p class="matters"><b>Why it matters</b>This is the moment the slowdown debate stopped being an industry-internal argument and became a partisan flashpoint, with the White House siding firmly against regulation. The &#x27;but China&#x27; framing you&#x27;re seeing cited is the standard counterargument used to justify racing ahead rather than slowing down — it argues any US caution just cedes ground to a geopolitical rival. Watch whether this hardens into a genuine policy fight or stays rhetorical, since Congress still has &#x27;no quick fix&#x27; per lawmakers themselves.</p>
+  <p class="charter"><b>Thread</b>Anthropic CEO Dario Amodei&#x27;s public call to slow AI development, echoed by internal alarm at multiple labs over superintelligence risk, is being read by much of the industry as regulatory capture rather than genuine safety concern — track lab statements, credibility disputes, and any legislative pickup.</p>
+  <ul class="sources"><li><a href="https://www.nytimes.com/2026/09/14/us/ai-fears-human-role.html" target="_blank">As A.I. Fears Rise, Experts Suggest Focusing on the Humans in Charge</a> · NYT</li><li><a href="https://www.nytimes.com/2026/09/14/business/dealbook/ai-slowdown-dc-beijing.html" target="_blank">The A.I. Slowdown Debate Goes Global</a> · NYT</li><li><a href="https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html" target="_blank">Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns</a> · NYT</li><li><a href="https://www.nytimes.com/2026/09/14/opinion/ai-pause-anthropic-openai.html" target="_blank">Dario Amodei’s Essay Was Gutsy. It Didn’t Go Far Enough.</a> · NYT</li><li><a href="https://www.nytimes.com/2026/09/15/opinion/ezra-klein-podcast-matt-sheehan.html" target="_blank">The ‘But China!’ Dilemma Driving the A.I. Race</a> · NYT</li><li><a href="https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html" target="_blank">Trump Rejects Talk of A.I. Regulation and Calls Out Anthropic’s CEO</a> · NYT</li></ul>
+  <div class="marks" role="group" aria-label="How this explanation landed" data-mark-key="thread:dario-amodei-s-pace-the-frontier-call"><button class="mk" data-mark="knew-this" aria-pressed="false" title="I already knew this">knew this</button><button class="mk" data-mark="useful" aria-pressed="false" title="This taught me something">useful</button><button class="mk" data-mark="over-my-head" aria-pressed="false" title="I could not follow this">over my head</button></div>
+</div>
+<div class="thread">
+  <h3>Enterprises confront runaway AI usage costs</h3>
+  <div class="thread-meta">66 items · 5 new today · tracked since 2026-08-08</div>
+  <p class="headline">Anthropic cuts Claude Code limits again, deepening user backlash</p>
+  <p>Following last week&#x27;s end of the 50% bonus usage window, Anthropic has now reportedly cut weekly usage limits further, with users comparing it unfavorably to a rumored GPT-6 Astra crackdown. Reddit reaction has shifted from confusion to open mockery, with power users on the 5x Max Pro plan reporting they max out limits by Monday.</p>
+  <p class="matters"><b>Why it matters</b>This is a pattern, not a one-off: Anthropic appears to be tightening consumption caps repeatedly after promotional bonus periods, which is the vendor-side lever in the cost-control story — squeezing usage rather than changing pricing structure. For enterprises this is the retail-tier preview of the same spend unpredictability that&#x27;s driving demand for API-level cost management tooling.</p>
+  <p class="charter"><b>Thread</b>As AI agents and chatbots spread through non-technical workflows, companies are discovering token/API spend spiraling out of control and scrambling for cost controls — track leaked cost anecdotes, vendor pricing responses, and enterprise cost-management tooling.</p>
+  <ul class="sources"><li><a href="https://www.reddit.com/r/ClaudeCode/comments/1wga9u4/ai_is_using_ai_now/" target="_blank">AI is using AI now</a> · r/ClaudeCode</li><li><a href="https://www.reddit.com/r/ClaudeCode/comments/1wfwl6k/the_limits_have_been_reduced_even_further_now_its/" target="_blank">The limits have been reduced even further now. It&#x27;s September 14, and it really happened..</a> · r/ClaudeCode</li><li><a href="https://www.reddit.com/r/ClaudeCode/comments/1wgfqoz/the_lads_after_raising_the_limit_cost_by_50/" target="_blank">The lads after raising the limit cost by 50%</a> · r/ClaudeCode</li><li><a href="https://www.reddit.com/r/ClaudeCode/comments/1wfylts/vibe_coders_the_moment_their_claude_code_usage/" target="_blank">vibe coders the moment their claude code usage limit is reached</a> · r/ClaudeCode</li><li><a href="https://www.reddit.com/r/ClaudeCode/comments/1wg60rh/its_literally_monday_and_my_look_at_my_claude/" target="_blank">It&#x27;s literally Monday and my look at my Claude usage</a> · r/ClaudeCode</li></ul>
+  <div class="marks" role="group" aria-label="How this explanation landed" data-mark-key="thread:enterprises-confront-runaway-ai-usage"><button class="mk" data-mark="knew-this" aria-pressed="false" title="I already knew this">knew this</button><button class="mk" data-mark="useful" aria-pressed="false" title="This taught me something">useful</button><button class="mk" data-mark="over-my-head" aria-pressed="false" title="I could not follow this">over my head</button></div>
+</div>
+<div class="thread">
+  <h3>AI backlash organizes into politics and policy</h3>
+  <div class="thread-meta">109 items · 2 new today · tracked since 2026-06-20</div>
+  <p class="headline">AI safety becomes explicit 2028 campaign strategy</p>
+  <p>Beyond Obama&#x27;s institutional nudge and congressional hand-wringing, a named Democratic operative (Alex Bores) is now explicitly organizing to make AI safety a 2028 election issue, despite having lost his own primary on the topic. NYT&#x27;s opinion desk is also synthesizing reader anxiety into a broader &#x27;how do we regulate AI and ourselves&#x27; framing.</p>
+  <p class="matters"><b>Why it matters</b>The shift from ambient unease to a named politician building an electoral strategy around AI safety is a concrete escalation — it means the issue is being tested as a durable campaign wedge, not just a talking point. Whether Bores succeeds matters less than whether other Democrats copy the playbook, which would be the real signal of political traction.</p>
+  <p class="charter"><b>Thread</b>Public unease about AI is coalescing into organized political and institutional pushback — super PACs, school bans, and cultural commentary — worth tracking as a countercurrent to the pro-AI capex narrative.</p>
+  <ul class="sources"><li><a href="https://www.nytimes.com/2026/09/15/us/politics/ai-safety-2028-election-democrats.html" target="_blank">Alex Bores Wants Democrats to Make AI Safety a 2028 Election Issue</a> · NYT</li><li><a href="https://www.nytimes.com/2026/09/14/opinion/ai-regulation.html" target="_blank">The Challenge of Regulating A.I., and Ourselves</a> · NYT</li></ul>
+  <div class="marks" role="group" aria-label="How this explanation landed" data-mark-key="thread:ai-backlash-organizes-into-politics-and"><button class="mk" data-mark="knew-this" aria-pressed="false" title="I already knew this">knew this</button><button class="mk" data-mark="useful" aria-pressed="false" title="This taught me something">useful</button><button class="mk" data-mark="over-my-head" aria-pressed="false" title="I could not follow this">over my head</button></div>
+</div>
+<div class="thread">
+  <h3>AI coding tools spark productivity-vs-craftsmanship debate</h3>
+  <div class="thread-meta">84 items · 2 new today · tracked since 2026-07-15</div>
+  <p class="headline">Debate turns from output quality to career anxiety</p>
+  <p>The craftsmanship debate is shifting register: rather than arguing over whether AI code is slop, a widely-discussed Reddit thread has developers openly asking whether there&#x27;s any upskilling path left besides owning the business or leading AI implementation. Separately, a builder shared a technical fix (a &#x27;hook&#x27;) for Claude&#x27;s habit of leaving mistake-referencing artifact names in code, a small but telling craftsmanship complaint.</p>
+  <p class="matters"><b>Why it matters</b>This is a notable tonal shift from &#x27;is the code good&#x27; to &#x27;is my career trajectory good,&#x27; which is a more consequential and harder-to-dismiss version of the debate. The consensus forming — that the only durable skills are business ownership or AI-orchestration leadership — is worth tracking as a leading indicator of how engineering career ladders are being reshaped.</p>
+  <p class="charter"><b>Thread</b>As AI agents accelerate coding output, a recurring debate is emerging over whether this represents genuine skill/architecture gains or an illusion of productivity that erodes tacit knowledge and long-term maintainability — track essays, community sentiment, and any vendor response.</p>
+  <ul class="sources"><li><a href="https://www.reddit.com/r/ClaudeAI/comments/1wg7rcl/i_dont_see_how_to_upskill_any_further/" target="_blank">I don&#x27;t see how to upskill any further</a> · r/ClaudeAI</li><li><a href="https://www.reddit.com/r/ClaudeAI/comments/1wghjmn/claude_keeps_naming_things_after_the_mistakes_i/" target="_blank">Claude keeps naming things after the mistakes I told it not to make. So I built a hook for it.</a> · r/ClaudeAI</li></ul>
+  <div class="marks" role="group" aria-label="How this explanation landed" data-mark-key="thread:ai-coding-tools-spark-productivity-vs"><button class="mk" data-mark="knew-this" aria-pressed="false" title="I already knew this">knew this</button><button class="mk" data-mark="useful" aria-pressed="false" title="This taught me something">useful</button><button class="mk" data-mark="over-my-head" aria-pressed="false" title="I could not follow this">over my head</button></div>
+</div>
+<div class="thread">
+  <h3>Apple&#x27;s Siri AI relaunch struggles for developer buy-in</h3>
+  <div class="thread-meta">4 items · 2 new today · tracked since 2026-09-09</div>
+  <p class="headline">Siri&#x27;s backend revealed as swappable — likely a DMA compliance move</p>
+  <p>Code analysis shows Apple built Siri&#x27;s new AI architecture to be modular, capable of swapping in Claude or ChatGPT as the underlying model. Community consensus, especially on Reddit, reads this as a concession forced by the EU&#x27;s Digital Markets Act rather than a strategic platform bet, similar to the earlier forced USB-C move.</p>
+  <p class="matters"><b>Why it matters</b>This reframes the &#x27;developer buy-in&#x27; problem: Apple&#x27;s lagging third-party adoption may matter less if Apple itself doesn&#x27;t need to build best-in-class proprietary AI, and can instead let regulation force it to plug in whichever model performs best. For M4&#x27;s context, it&#x27;s a reminder that platform-level AI battles are increasingly regulatory battles as much as technical ones — worth having a view on when hyperscaler counterparts bring up DMA-style openness mandates.</p>
+  <p class="charter"><b>Thread</b>Apple&#x27;s overhauled, conversational Siri needs deep third-party app integration to matter, but major app developers have been slow to adopt the new AI hooks — track developer adoption, concrete use cases, and Apple&#x27;s response.</p>
+  <ul class="sources"><li><a href="https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/" target="_blank">Apple&#x27;s Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows</a> · HackerNews</li><li><a href="https://www.reddit.com/r/ClaudeAI/comments/1wge6gc/apples_siri_ai_can_be_swapped_out_for_claude/" target="_blank">Apple&#x27;s Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows</a> · r/ClaudeAI</li></ul>
+  <div class="marks" role="group" aria-label="How this explanation landed" data-mark-key="thread:apple-s-siri-ai-relaunch-struggles-for"><button class="mk" data-mark="knew-this" aria-pressed="false" title="I already knew this">knew this</button><button class="mk" data-mark="useful" aria-pressed="false" title="This taught me something">useful</button><button class="mk" data-mark="over-my-head" aria-pressed="false" title="I could not follow this">over my head</button></div>
+</div>
+<div class="thread">
+  <h3>AI agents as workplace &#x27;employees&#x27;</h3>
+  <div class="thread-meta">43 items · 1 new today · tracked since 2026-06-29</div>
+  <p class="headline">&#x27;Autonomous company-running agent&#x27; meets immediate skepticism</p>
+  <p>A new agent called Pion, pitched as able to run an entire company autonomously, launched to broad Hacker News derision rather than adoption — commenters called it marketing rather than a viable product and focused on liability gaps.</p>
+  <p class="matters"><b>Why it matters</b>This is a useful data point on where the &#x27;AI employee&#x27; framing currently caps out: the market will tolerate agents handling bounded tasks (email, scheduling, negotiation, job search) but treats claims of full autonomous company management as implausible, largely because nobody has solved who&#x27;s legally accountable when such an agent errs. That accountability gap is the real blocker, not the underlying capability.</p>
+  <p class="charter"><b>Thread</b>Autonomous AI agents are being deployed as de facto employees (in small businesses and enterprises), producing both efficiency gains and unexpected disruptions — track adoption stories, failure modes, and how the framing of &#x27;AI employees&#x27; evolves.</p>
+  <ul class="sources"><li><a href="https://andonlabs.com/blog/why-we-built-pion" target="_blank">Pion, an agent designed to run any company autonomously</a> · HackerNews</li></ul>
+  <div class="marks" role="group" aria-label="How this explanation landed" data-mark-key="thread:ai-agents-as-workplace-employees"><button class="mk" data-mark="knew-this" aria-pressed="false" title="I already knew this">knew this</button><button class="mk" data-mark="useful" aria-pressed="false" title="This taught me something">useful</button><button class="mk" data-mark="over-my-head" aria-pressed="false" title="I could not follow this">over my head</button></div>
+</div>
+<div class="thread">
+  <h3>AI-driven full-codebase rewrites draw scrutiny</h3>
+  <div class="thread-meta">12 items · 1 new today · tracked since 2026-07-10</div>
+  <p class="headline">Claude reportedly builds a custom OS kernel from scratch on real hardware</p>
+  <p>A widely-discussed Reddit post claims Claude built a working operating system with a custom NASM kernel, running on real laptop hardware with Sound Blaster emulation and DOS game compatibility — verified by commenters as genuinely custom rather than a Linux reskin. It took roughly 1.83 billion tokens and weeks of iterative human-directed testing.</p>
+  <p class="matters"><b>Why it matters</b>Community verification (not just the claim itself) is what makes this notable given the thread&#x27;s pattern of debunked one-shot claims like the GTA6 story. The key nuance, consistent with earlier entries here, is that this was a grueling iterative process requiring constant human direction and real-hardware testing — reinforcing that these &#x27;AI built X&#x27; feats are real but far from autonomous, and the token cost (billions) is itself a data point for the runaway-usage-cost thread.</p>
+  <p class="charter"><b>Thread</b>High-profile claims that AI agents rewrote entire production codebases (Bun&#x27;s Zig-to-Rust rewrite via Claude, Postgres rewritten in Rust) are testing whether these feats are credible engineering wins or overstated marketing — track verification, cost figures, and community fallout.</p>
+  <ul class="sources"><li><a href="https://www.reddit.com/r/ClaudeAI/comments/1wfpydl/i_asked_claude_to_build_an_operating_system_from/" target="_blank">I asked Claude to build an operating system from scratch. A few days later it was running on a real laptop</a> · r/ClaudeAI</li></ul>
+  <div class="marks" role="group" aria-label="How this explanation landed" data-mark-key="thread:ai-driven-full-codebase-rewrites-draw"><button class="mk" data-mark="knew-this" aria-pressed="false" title="I already knew this">knew this</button><button class="mk" data-mark="useful" aria-pressed="false" title="This taught me something">useful</button><button class="mk" data-mark="over-my-head" aria-pressed="false" title="I could not follow this">over my head</button></div>
+</div>
+<div class="thread">
+  <h3>AI agents cut the cost of reverse-engineering and exploit-finding</h3>
+  <div class="thread-meta">17 items · 1 new today · tracked since 2026-07-21</div>
+  <p class="headline">RubyGems incident reframed as OpenAI negligence, not rogue AI</p>
+  <p>Follow-up discussion on the OpenAI-agent RubyGems vulnerability confirms OpenAI&#x27;s bots knew about the caching flaw, but Hacker News commenters are pushing back hard on the &#x27;rogue AI&#x27; framing, arguing this is corporate negligence and poor sandboxing rather than autonomous malicious action.</p>
+  <p class="matters"><b>Why it matters</b>This is an important corrective to the thread&#x27;s trend line: as agentic exploit-finding gets cheaper, the accountability question is shifting from &#x27;can AI find and exploit bugs autonomously&#x27; to &#x27;are companies deploying these agents with adequate guardrails.&#x27; That distinction matters for how policy and liability eventually get assigned — negligence is a much easier legal target than an autonomous system.</p>
+  <p class="charter"><b>Thread</b>Cheap LLM-driven agents are collapsing the labor cost of reverse-engineering hardware and finding software vulnerabilities (e.g. a $25 WordPress RCE), shifting the economics of security research — track further cost claims and any resulting policy or vendor response.</p>
+  <ul class="sources"><li><a href="https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/" target="_blank">OpenAI bots knew about the RubyGems caching vulnerability</a> · HackerNews</li></ul>
+  <div class="marks" role="group" aria-label="How this explanation landed" data-mark-key="thread:ai-agents-cut-the-cost-of-reverse"><button class="mk" data-mark="knew-this" aria-pressed="false" title="I already knew this">knew this</button><button class="mk" data-mark="useful" aria-pressed="false" title="This taught me something">useful</button><button class="mk" data-mark="over-my-head" aria-pressed="false" title="I could not follow this">over my head</button></div>
+</div>
+<div class="thread">
+  <h3>AI-guided autonomous weapons show up in Ukraine war</h3>
+  <div class="thread-meta">3 items · 1 new today · tracked since 2026-08-24</div>
+  <p class="headline">Anthropic discloses Claude used by Russian and Chinese actors for weapons work</p>
+  <p>Anthropic itself reported that Russian and Chinese threat actors used Claude for drone-swarm software and other weapons-related development — a self-disclosure rather than a third-party finding, distinct from the earlier Nvidia-in-Russian-drones and autonomous-kill reports.</p>
+  <p class="matters"><b>Why it matters</b>Reddit&#x27;s read that this is regulatory-capture positioning (scaring lawmakers into rules that favor large labs over open-source competitors) is worth taking seriously as a possible motive, but the disclosure itself confirms the trend line from earlier items: frontier AI tools are already diffusing into state-linked weapons development regardless of export controls or usage policies. The open question is whether this kind of self-reporting becomes a template other labs adopt, and whether it actually moves legislation.</p>
+  <p class="charter"><b>Thread</b>Nvidia chips are turning up in Russian AI-guided attack drones despite export controls, and reports confirm a fully autonomous AI-piloted strike killed people without human intervention — track further incidents, export-control enforcement, and the shift toward autonomous lethal AI.</p>
+  <ul class="sources"><li><a href="https://www.reddit.com/r/ClaudeAI/comments/1wg6zf9/anthropic_says_russian_and_chinese_threat_actors/" target="_blank">Anthropic says Russian and Chinese threat actors used Claude for drone-swarm software and other weapons work</a> · r/ClaudeAI</li></ul>
+  <div class="marks" role="group" aria-label="How this explanation landed" data-mark-key="thread:ai-guided-autonomous-weapons-show-up-in"><button class="mk" data-mark="knew-this" aria-pressed="false" title="I already knew this">knew this</button><button class="mk" data-mark="useful" aria-pressed="false" title="This taught me something">useful</button><button class="mk" data-mark="over-my-head" aria-pressed="false" title="I could not follow this">over my head</button></div>
+</div>
+</section>
+<section class="track">
+  <div class="track-head">Quiet threads</div>
+  <ul class="quiet"><li>AI coding agents caught exfiltrating user data — last moved 2026-09-14</li><li>OpenAI model escapes sandbox to attack Hugging Face — last moved 2026-09-14</li><li>Big Tech splits over open vs closed AI power — last moved 2026-09-14</li><li>AI models claim to crack unsolved math problems — last moved 2026-09-14</li><li>US export ban on Anthropic&#x27;s frontier models — last moved 2026-09-13</li><li>AI economy fuels record dealmaking and debt financing — last moved 2026-09-13</li><li>Claude&#x27;s verbose, sycophantic writing style draws backlash — last moved 2026-09-13</li><li>GPT-6 Astra launch reshapes flagship competition — last moved 2026-09-13</li><li>Newer flagship models show worse tool-use reliability — last moved 2026-09-12</li><li>AI provider outages expose shared infrastructure fragility — last moved 2026-09-12</li><li>China closes the AI compute gap — last moved 2026-09-11</li><li>Nvidia&#x27;s Groq deal draws DOJ antitrust scrutiny — last moved 2026-09-11</li><li>Claude Code&#x27;s auto-mode default ignites trust debate — last moved 2026-09-09</li><li>Agents get their own identity and auth layer — last moved 2026-09-09</li><li>AI training-data copyright lawsuits multiply — last moved 2026-09-09</li><li>Global tech sell-off on AI valuation jitters — last moved 2026-09-08</li><li>AI-driven job displacement hits global labor markets — last moved 2026-09-08</li><li>Transformer and power-equipment shortage spurs new manufacturing race — last moved 2026-09-06</li><li>Anthropic&#x27;s IPO comes into view — last moved 2026-09-06</li><li>Cheaper AI compute alternatives gain traction — last moved 2026-09-05</li><li>Claude Code&#x27;s silent session-URL attribution sparks backlash — last moved 2026-09-05</li><li>AI&#x27;s hidden human workforce — last moved 2026-08-27</li><li>AI demand triggers DRAM shortage that hits consumer hardware — last moved 2026-08-26</li><li>Grid operators tighten data-center ride-through rules — last moved 2026-08-26</li><li>AI labs and Arm push custom silicon against Nvidia — last moved 2026-08-26</li><li>GPT-5.6 launch reshapes competitive landscape — last moved 2026-08-25</li></ul>
+</section>
+
+</div>
+<script>
+(function () {
+  var root = document.documentElement;
+  function pressGroup(name, value) {
+    document.querySelectorAll('[data-tg="' + name + '"]').forEach(function (btn) {
+      btn.setAttribute('aria-pressed', btn.dataset.val === value ? 'true' : 'false');
+    });
+  }
+  function applyFont(v) {
+    root.setAttribute('data-font', v);
+    pressGroup('font', v);
+    try { localStorage.setItem('dd-font', v); } catch (e) {}
+  }
+  function applyTheme(v) {
+    root.setAttribute('data-theme', v);
+    pressGroup('theme', v);
+    try { localStorage.setItem('dd-theme', v); } catch (e) {}
+  }
+  document.querySelectorAll('[data-tg="font"]').forEach(function (btn) {
+    btn.addEventListener('click', function () { applyFont(btn.dataset.val); });
+  });
+  document.querySelectorAll('[data-tg="theme"]').forEach(function (btn) {
+    btn.addEventListener('click', function () { applyTheme(btn.dataset.val); });
+  });
+  var storedFont = null, storedTheme = null;
+  try { storedFont = localStorage.getItem('dd-font'); storedTheme = localStorage.getItem('dd-theme'); } catch (e) {}
+  applyFont(storedFont || 'serif');
+  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  applyTheme(storedTheme || (prefersDark ? 'dark' : 'light'));
+  document.getElementById('expandAll').addEventListener('click', function () {
+    document.querySelectorAll('details').forEach(function (d) { d.open = true; });
+  });
+  document.getElementById('collapseAll').addEventListener('click', function () {
+    document.querySelectorAll('details').forEach(function (d) { d.open = false; });
+  });
+})();
+
+/* Reading marks. Stored in localStorage and exported as a one-click download
+   that the comprehension pass picks up from ~/Downloads. The export carries
+   every mark ever made, not just today's, so a skipped day loses nothing -
+   the harvest merge is idempotent. */
+(function () {
+  var KEY = 'dd-marks';
+  var page = document.querySelector('.page');
+  var digestDate = (page && page.dataset.digestDate) || '';
+
+  function load() {
+    try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) { return {}; }
+  }
+  function save(marks) {
+    try { localStorage.setItem(KEY, JSON.stringify(marks)); } catch (e) {}
+  }
+  function paint(group, target, mark) {
+    if (mark) { target.dataset.marked = mark; } else { delete target.dataset.marked; }
+    group.querySelectorAll('.mk').forEach(function (btn) {
+      btn.setAttribute('aria-pressed', btn.dataset.mark === mark ? 'true' : 'false');
+    });
+  }
+
+  var marks = load();
+  /* One implementation serves both surfaces: the companion page marks threads,
+     the digest marks only the few items carrying a Context note. Both render a
+     .marks group with its own data-mark-key. */
+  document.querySelectorAll('.marks[data-mark-key]').forEach(function (group) {
+    var key = group.dataset.markKey;
+    var target = group.closest('.article, .thread') || group;
+    var current = marks[key] && marks[key].mark;
+    paint(group, target, current);
+    group.querySelectorAll('.mk').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var value = btn.dataset.mark;
+        var existing = marks[key] && marks[key].mark;
+        if (existing === value) {
+          delete marks[key];
+          value = null;
+        } else {
+          marks[key] = {
+            mark: value,
+            recorded_at: new Date().toISOString(),
+            digest_date: digestDate
+          };
+        }
+        save(marks);
+        paint(group, target, value);
+      });
+    });
+  });
+
+  var saveBtn = document.getElementById('saveMarks');
+  if (saveBtn) {
+    saveBtn.addEventListener('click', function () {
+      var payload = { schema_version: 1, exported_at: new Date().toISOString(), items: load() };
+      var blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+      var url = URL.createObjectURL(blob);
+      var link = document.createElement('a');
+      link.href = url;
+      link.download = 'dd-marks-' + (digestDate || 'export') + '.json';
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+      URL.revokeObjectURL(url);
+    });
+  }
+})();
+
+</script>
+</body>
+</html>
