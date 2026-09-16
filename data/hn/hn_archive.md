@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-15 · 492 days · 4920 stories*
+*Last updated: 2026-09-16 · 493 days · 4930 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-15 | Tuesday | 1 | Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations | 1649 | 206 | Technology | [link](https://github.com/arnegiacomo/fugleramme) · [HN](https://news.ycombinator.com/item?id=49711544) |
+| 2026-09-15 | Tuesday | 2 | Introducing System One Models and Jev | 1401 | 399 | Technology | [link](https://typesafe.ai/blog/introducing-system-one-models-and-jev) · [HN](https://news.ycombinator.com/item?id=49717558) |
+| 2026-09-15 | Tuesday | 3 | I can't stop thinking about Papua New Guinea | 1064 | 447 | Technology | [link](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua) · [HN](https://news.ycombinator.com/item?id=49708431) |
+| 2026-09-15 | Tuesday | 4 | 25 years of mass surveillance is enough | 858 | 317 | Technology | [link](https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html) · [HN](https://news.ycombinator.com/item?id=49710883) |
+| 2026-09-15 | Tuesday | 5 | An update on Wayback Machine access | 538 | 272 | Technology | [link](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/) · [HN](https://news.ycombinator.com/item?id=49716176) |
+| 2026-09-15 | Tuesday | 6 | Suspected sabotage causes major Netherlands rail disruption | 492 | 431 | Technology | [link](https://www.bbc.com/news/articles/c8ly49w9g1edo) · [HN](https://news.ycombinator.com/item?id=49710253) |
+| 2026-09-15 | Tuesday | 7 | Gemini 3.8 Live and 3.8 Live Extended Thinking | 416 | 272 | Technology | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/) · [HN](https://news.ycombinator.com/item?id=49715947) |
+| 2026-09-15 | Tuesday | 8 | Let's make quality the norm again | 392 | 394 | Technology | [link](https://www.forbrukerradet.no/short-life/) · [HN](https://news.ycombinator.com/item?id=49710109) |
+| 2026-09-15 | Tuesday | 9 | Linux from Scratch | 370 | 109 | Technology | [link](https://www.linuxfromscratch.org/) · [HN](https://news.ycombinator.com/item?id=49707627) |
+| 2026-09-15 | Tuesday | 10 | Java 27 | 336 | 348 | Technology | [link](https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/) · [HN](https://news.ycombinator.com/item?id=49712041) |
 | 2026-09-14 | Monday | 1 | Steam Frame starts at $1059 | 679 | 515 | Technology | [link](https://store.steampowered.com/hardware/steamframe) · [HN](https://news.ycombinator.com/item?id=49700661) |
 | 2026-09-14 | Monday | 2 | XCancel service is suspended until further notice | 643 | 941 | Technology | [link](https://xcancel.com/#) · [HN](https://news.ycombinator.com/item?id=49694296) |
 | 2026-09-14 | Monday | 3 | iOS 27, iPadOS 27, and macOS 27 | 610 | 690 | Technology | [link](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) · [HN](https://news.ycombinator.com/item?id=49701004) |
