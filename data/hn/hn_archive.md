@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-16 · 493 days · 4930 stories*
+*Last updated: 2026-09-17 · 494 days · 4940 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-16 | Wednesday | 1 | Nvidia announces native GPU programming in Rust | 688 | 269 | Technology | [link](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/) · [HN](https://news.ycombinator.com/item?id=49724881) |
+| 2026-09-16 | Wednesday | 2 | EU chief opens door for Canada to become 'associate member' | 664 | 850 | Technology | [link](https://www.bbc.com/news/articles/cjwyzrr9d3dko) · [HN](https://news.ycombinator.com/item?id=49724141) |
+| 2026-09-16 | Wednesday | 3 | Mistral X Mozilla: Private, Multilingual AI Browsing | 565 | 193 | Technology | [link](https://mistral.ai/news/mistral-x-mozilla/) · [HN](https://news.ycombinator.com/item?id=49723408) |
+| 2026-09-16 | Wednesday | 4 | Training a 4B model to produce 81% faster query plans than Postgres | 552 | 118 | Technology | [link](https://rohanbansal.com/qorl) · [HN](https://news.ycombinator.com/item?id=49731285) |
+| 2026-09-16 | Wednesday | 5 | Hackers Got Inside a Flock Camera | 528 | 240 | Technology | [link](https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/) · [HN](https://news.ycombinator.com/item?id=49726586) |
+| 2026-09-16 | Wednesday | 6 | Small programming tricks | 522 | 235 | Technology | [link](https://will-keleher.com/posts/small-programming-tricks-matter/) · [HN](https://news.ycombinator.com/item?id=49729000) |
+| 2026-09-16 | Wednesday | 7 | Xiaomi Mimo 2.6 live post-training dashboard | 435 | 112 | Technology | [link](https://mimo.xiaomi.com/rl/) · [HN](https://news.ycombinator.com/item?id=49732270) |
+| 2026-09-16 | Wednesday | 8 | The Google Play app review process now regularly takes longer than a week | 351 | 337 | Technology | [link](https://gultsch.social/@daniel/117280438824908947) · [HN](https://news.ycombinator.com/item?id=49724927) |
+| 2026-09-16 | Wednesday | 9 | PS5 Linux lead quits: "a bunch of noobs using LLMs" that "they don't understand" | 314 | 217 | Technology | [link](https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/) · [HN](https://news.ycombinator.com/item?id=49727627) |
+| 2026-09-16 | Wednesday | 10 | Original Sony PlayStation 2 security chip 'broken wide open' after 26 years | 275 | 82 | Technology | [link](https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip) · [HN](https://news.ycombinator.com/item?id=49725356) |
 | 2026-09-15 | Tuesday | 1 | Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations | 1649 | 206 | Technology | [link](https://github.com/arnegiacomo/fugleramme) · [HN](https://news.ycombinator.com/item?id=49711544) |
 | 2026-09-15 | Tuesday | 2 | Introducing System One Models and Jev | 1401 | 399 | Technology | [link](https://typesafe.ai/blog/introducing-system-one-models-and-jev) · [HN](https://news.ycombinator.com/item?id=49717558) |
 | 2026-09-15 | Tuesday | 3 | I can't stop thinking about Papua New Guinea | 1064 | 447 | Technology | [link](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua) · [HN](https://news.ycombinator.com/item?id=49708431) |

@@ -1,9 +1,79 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-16 · 7553 items*
+*Last updated: 2026-09-17 · 7623 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-16 | Nvidia announces native GPU programming in Rust | HN | Technology | tech | 2026-09-16 | [link](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/) |
+| 2026-09-16 | EU chief opens door for Canada to become 'associate member' | HN | Technology | tech | 2026-09-16 | [link](https://www.bbc.com/news/articles/cjwyzrr9d3dko) |
+| 2026-09-16 | Mistral X Mozilla: Private, Multilingual AI Browsing | HN | Technology | tech | 2026-09-16 | [link](https://mistral.ai/news/mistral-x-mozilla/) |
+| 2026-09-16 | Training a 4B model to produce 81% faster query plans than Postgres | HN | Technology | tech | 2026-09-16 | [link](https://rohanbansal.com/qorl) |
+| 2026-09-16 | Hackers Got Inside a Flock Camera | HN | Technology | tech | 2026-09-16 | [link](https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/) |
+| 2026-09-16 | Small programming tricks | HN | Technology | tech | 2026-09-16 | [link](https://will-keleher.com/posts/small-programming-tricks-matter/) |
+| 2026-09-16 | Xiaomi Mimo 2.6 live post-training dashboard | HN | Technology | tech | 2026-09-16 | [link](https://mimo.xiaomi.com/rl/) |
+| 2026-09-16 | The Google Play app review process now regularly takes longer than a week | HN | Technology | tech | 2026-09-16 | [link](https://gultsch.social/@daniel/117280438824908947) |
+| 2026-09-16 | PS5 Linux lead quits: "a bunch of noobs using LLMs" that "they don't understand" | HN | Technology | tech | 2026-09-16 | [link](https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/) |
+| 2026-09-16 | Original Sony PlayStation 2 security chip 'broken wide open' after 26 years | HN | Technology | tech | 2026-09-16 | [link](https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip) |
+| 2026-09-16 | Salesforce Global Outage | HN | Technology | tech | 2026-09-16 | [link](https://status.salesforce.com/products/all) |
+| 2026-09-16 | Learning Programming in an Age of LLMs | HN | Technology | tech | 2026-09-16 | [link](https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/) |
+| 2026-09-16 | Backups Aren't Simple | HN | Technology | tech | 2026-09-16 | [link](https://filipovski.net/2026/09/16/backups-arent-simple.html) |
+| 2026-09-16 | Claude Cowork and chat are now one Claude | HN | Technology | tech | 2026-09-16 | [link](https://claude.com/blog/cowork-is-now-claude) |
+| 2026-09-16 | Australia says it could follow Canada in forging deeper ties with EU | HN | Technology | tech | 2026-09-16 | [link](https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html) |
+| 2026-09-16 | A warning about 'model welfare' | HN | Technology | tech | 2026-09-16 | [link](https://mustafa-suleyman.ai/a-warning-about-model-welfare) |
+| 2026-09-16 | House Passes Bill Taking Aim at Data Center Electricity Costs | NYT · AI | AI | news | 2026-09-16 | [link](https://www.nytimes.com/2026/09/16/us/politics/house-bill-data-center-ai-energy.html) |
+| 2026-09-16 | There Are Three Possible Economies: Stable, Unstable and Unknown | NYT · AI | AI | opinion | 2026-09-17 | [link](https://www.nytimes.com/2026/09/17/opinion/us-economy-treasury-stable.html) |
+| 2026-09-16 | Do Buildings Need Cast-Iron Pipes, or Would Plastic Do? | NYT · AI | AI | news | 2026-09-17 | [link](https://www.nytimes.com/2026/09/17/nyregion/cast-iron-pipes-pvc-buildings.html) |
+| 2026-09-16 | King Charles Meets With A.I. Executives About Safety Risks | NYT · AI | AI | news | 2026-09-17 | [link](https://www.nytimes.com/2026/09/17/business/king-charles-ai.html) |
+| 2026-09-16 | How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears | NYT · AI | AI | news | 2026-09-17 | [link](https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html) |
+| 2026-09-16 | A.I. Regulation May Finally Be Here. What Took So Long? | NYT · AI | AI | opinion | 2026-09-16 | [link](https://www.nytimes.com/2026/09/16/opinion/ai-regulation-covid.html) |
+| 2026-09-16 | Judge Orders Data Sharing and Other Fixes to Solve Google’s Ad Tech Monopoly | NYT · AI | AI | news | 2026-09-16 | [link](https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html) |
+| 2026-09-16 | In Silicon Valley, Hardware Is Having a Moment Again | NYT · Business | Business | news | 2026-09-16 | [link](https://www.nytimes.com/2026/09/16/business/dealbook/in-silicon-valley-hardware-is-having-a-moment-again.html) |
+| 2026-09-16 | OpenAI Considers New Financing at a $1.5 Trillion Valuation | NYT · Business | Business | news | 2026-09-16 | [link](https://www.nytimes.com/2026/09/16/business/dealbook/openai-new-funding-round.html) |
+| 2026-09-16 | Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms | NYT · Technology | Technology | news | 2026-09-16 | [link](https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html) |
+| 2026-09-16 | Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown | NYT · Technology | Technology | news | 2026-09-16 | [link](https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html) |
+| 2026-09-16 | Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns | NYT · Technology | Technology | news | 2026-09-15 | [link](https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html) |
+| 2026-09-16 | The Quiet Way A.I. Is Hitting the Work Force | NYT · Business | Business | news | 2026-09-16 | [link](https://www.nytimes.com/2026/09/16/business/ai-raises-hiring.html) |
+| 2026-09-16 | I Led A.I. Diplomacy for the U.S. The Coming Safety Talks Will Not Save Us. | NYT · AI | AI | opinion | 2026-09-17 | [link](https://www.nytimes.com/2026/09/16/opinion/us-china-ai-safety-talks.html) |
+| 2026-09-16 | Why the Fed Might Raise Interest Rates When Borrowing Costs Are Surging | NYT · Economy | Economy | news | 2026-09-16 | [link](https://www.nytimes.com/2026/09/16/business/economy/fed-interest-rates-borrowing-costs.html) |
+| 2026-09-16 | The Latest Corporate Climate Ruse | NYT · Opinion | Opinion | opinion | 2026-09-17 | [link](https://www.nytimes.com/2026/09/17/opinion/climate-change-forests-corporations.html) |
+| 2026-09-16 | The Fed Raised Rates. What Comes Next? | NYT · Economy | Economy | news | 2026-09-17 | [link](https://www.nytimes.com/2026/09/17/business/economy/fed-interest-rates-warsh.html) |
+| 2026-09-16 | Rising Seas Are Gobbling Up Beaches Around the World. A.I. Might Restore Them. | NYT · AI | AI | news | 2026-09-16 | [link](https://www.nytimes.com/2026/09/16/climate/maldives-beach-restoration-ai.html) |
+| 2026-09-16 | Texas Abortion Ban Blamed in Pregnant Woman’s Death in Lawsuit | NYT · U.S. | U.S. | news | 2026-09-16 | [link](https://www.nytimes.com/2026/09/16/us/family-of-woman-who-died-while-pregnant-sues-texas-over-abortion-ban.html) |
+| 2026-09-16 | Congress Clears Russia Sanctions Bill, Sending It to Trump | NYT · Politics | Politics | news | 2026-09-16 | [link](https://www.nytimes.com/2026/09/16/us/politics/trump-congress-russia-sanctions.html) |
+| 2026-09-16 | Pulling Back the Curtain on Enterprise AI Adoption | MIT IDE · MIT Research & Insights | Research | research | 2026-09-16 | [link](https://ide.mit.edu/insights/pulling-back-the-curtain-on-enterprise-ai-adoption/) |
+| 2026-09-16 | Onsemi unveils its Embedded Power Platform architecture to increase power density | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-16 | [link](https://www.datacenterdynamics.com/en/news/onsemi-unveils-its-embedded-power-platform-architecture-to-increase-power-density/) |
+| 2026-09-16 | Sponsored: Why clean air is critical to airflow intelligence | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-16 | [link](https://www.datacenterdynamics.com/en/opinions/why-clean-air-is-critical-to-airflow-intelligence/) |
+| 2026-09-16 | Investment tax credit glut gives corporate buyers more leverage, report says | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-16 | [link](https://www.utilitydive.com/news/investment-tax-credit-glut-gives-corporate-buyers-more-leverage/830267/) |
+| 2026-09-16 | The AI race has a pollution problem | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-16 | [link](https://www.latitudemedia.com/news/the-ai-race-has-a-pollution-problem/) |
+| 2026-09-16 | Climavision offers expanded weather forecasting to data centers | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-16 | [link](https://www.utilitydive.com/news/climavision-offers-expanded-weather-forecasting-to-data-centers/830057/) |
+| 2026-09-16 | How tech and energy giants plan to mainstream data center flexibility | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-16 | [link](https://www.latitudemedia.com/news/how-tech-and-energy-giants-plan-to-mainstream-data-center-flexibility/) |
+| 2026-09-16 | ‘Apple Reference Image: A New Approach for Verified Photography’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-16 | [link](https://security.apple.com/blog/apple-reference-image/) |
+| 2026-09-16 | Claude Cowork and chat are now one Claude | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-16 | [link](https://simonwillison.net/2026/Sep/16/one-claude/) |
+| 2026-09-16 | Quoting Mustafa Suleyman | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-16 | [link](https://simonwillison.net/2026/Sep/16/mustafa-suleyman/) |
+| 2026-09-16 | Data Broker Radaris Loses Domains in Privacy Fight | Krebs on Security · Security & Privacy | Security | tech | 2026-09-16 | [link](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/) |
+| 2026-09-16 | Is That a Duo in Ternus’s Pocket or Was He Just Happy That Apple TV Shows Won 28 Emmys? | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-16 | [link](https://x.com/DEADLINE/status/2099645816361332775) |
+| 2026-09-16 | How to get a DOI for your blog posts | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-09-16 | [link](https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/) |
+| 2026-09-16 | Claude 4.6 was peak and it's downhill since then | Reddit | Business | social | 2026-09-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1whzlzz/claude_46_was_peak_and_its_downhill_since_then/) |
+| 2026-09-16 | The new usage limits make subscription and team plans genuinely useless for real work | Reddit | Business | social | 2026-09-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1whi2hu/the_new_usage_limits_make_subscription_and_team/) |
+| 2026-09-16 | I recreated the viral riso animation with Claude Code + Opus 5. Here's the full prompt, the process  | Reddit | Business | social | 2026-09-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wi0rhx/i_recreated_the_viral_riso_animation_with_claude/) |
+| 2026-09-16 | Claude Cowork and chat are merging into one Claude | Reddit | Business | social | 2026-09-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wi1wfu/claude_cowork_and_chat_are_merging_into_one_claude/) |
+| 2026-09-16 | Claude's habit of inventing rules to avoid helping is getting ridiculous | Reddit | Business | social | 2026-09-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wi6o5h/claudes_habit_of_inventing_rules_to_avoid_helping/) |
+| 2026-09-16 | Anthropic says Claude for Small Business has reached 900,000 installations since launching in May | Reddit | Business | social | 2026-09-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wi17s2/anthropic_says_claude_for_small_business_has/) |
+| 2026-09-16 | I'm a fully blind business owner. I just sold my first vibe coded product for $1700. | Reddit | Business | social | 2026-09-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1who6dy/im_a_fully_blind_business_owner_i_just_sold_my/) |
+| 2026-09-16 | Insane how fast limits get eaten | Reddit | Business | social | 2026-09-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1whk7j3/insane_how_fast_limits_get_eaten/) |
+| 2026-09-16 | A lot of talk about reduced weekly limits but a lack of data - so here's some actual numbers | Reddit | Business | social | 2026-09-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1why2zx/a_lot_of_talk_about_reduced_weekly_limits_but_a/) |
+| 2026-09-16 | I Used Claude Code + Unreal MCP to Build a Souls-Like Boss Fight in 72 Hours | Reddit | Business | social | 2026-09-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1widtfq/i_used_claude_code_unreal_mcp_to_build_a/) |
+| 2026-09-16 | Anthropic claims profit by excluding major expenses | Reddit | Business | social | 2026-09-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wi2aq5/anthropic_claims_profit_by_excluding_major/) |
+| 2026-09-16 | I've been doing an experiment with a project where I iterate on the design plan until the frontier r | Reddit | Business | social | 2026-09-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wi5gcz/ive_been_doing_an_experiment_with_a_project_where/) |
+| 2026-09-16 | Limits are fixed! | Reddit | Business | social | 2026-09-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1whrr18/limits_are_fixed/) |
+| 2026-09-16 | Use any subscription in Claude Code! (using the new Claude Mods feature) | Reddit | Business | social | 2026-09-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1whw82q/use_any_subscription_in_claude_code_using_the_new/) |
+| 2026-09-16 | Fable went from 91% to 61% over night | Reddit | Business | social | 2026-09-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1whqo7x/fable_went_from_91_to_61_over_night/) |
+| 2026-09-16 | Simple. Powerful. | Reddit | Business | social | 2026-09-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wi2d8t/simple_powerful/) |
+| 2026-09-16 | I wanted the file explorer to show only the notes I'm working on, so I made it do that | Reddit | Business | social | 2026-09-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wi1izj/i_wanted_the_file_explorer_to_show_only_the_notes/) |
+| 2026-09-16 | Want to use obsidian to take my notes for university, overwhelmed by all it if, how do i start? | Reddit | Business | social | 2026-09-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wi3hf6/want_to_use_obsidian_to_take_my_notes_for/) |
+| 2026-09-16 | Wishlist Plugin | Reddit | Business | social | 2026-09-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wic31z/wishlist_plugin/) |
+| 2026-09-16 | Best plugins to make my obsidian into the ultimate schoolwork station? | Reddit | Business | social | 2026-09-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wi4mcg/best_plugins_to_make_my_obsidian_into_the/) |
+| 2026-09-16 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-15 | Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations | HN | Technology | tech | 2026-09-15 | [link](https://github.com/arnegiacomo/fugleramme) |
 | 2026-09-15 | Introducing System One Models and Jev | HN | Technology | tech | 2026-09-15 | [link](https://typesafe.ai/blog/introducing-system-one-models-and-jev) |
 | 2026-09-15 | I can't stop thinking about Papua New Guinea | HN | Technology | tech | 2026-09-15 | [link](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua) |
