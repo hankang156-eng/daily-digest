@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-17 · 494 days · 4940 stories*
+*Last updated: 2026-09-18 · 495 days · 4950 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-17 | Thursday | 1 | Hister: A private search engine for the pages you visit and the files you keep | 608 | 168 | Technology | [link](https://github.com/asciimoo/hister) · [HN](https://news.ycombinator.com/item?id=49743097) |
+| 2026-09-17 | Thursday | 2 | Astra for Law | 491 | 543 | Technology | [link](https://openai.com/index/astra-for-law/) · [HN](https://news.ycombinator.com/item?id=49745940) |
+| 2026-09-17 | Thursday | 3 | Bend – A language that blocks AI mistakes via proof, on CPU and GPU | 467 | 219 | Technology | [link](https://bend-lang.com/) · [HN](https://news.ycombinator.com/item?id=49746163) |
+| 2026-09-17 | Thursday | 4 | Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint | 449 | 129 | Technology | [link](https://prismml.com/news/bonsai-2-27b) · [HN](https://news.ycombinator.com/item?id=49746618) |
+| 2026-09-17 | Thursday | 5 | How GLM built its own inference infrastructure | 396 | 272 | Technology | [link](https://z.ai/blog/glm-built-its-inference-infrastructure) · [HN](https://news.ycombinator.com/item?id=49737922) |
+| 2026-09-17 | Thursday | 6 | CCC invites all model citizens to 40C3 | 360 | 215 | Technology | [link](https://events.ccc.de/en/2026/09/12/40c3-model-citizens/) · [HN](https://news.ycombinator.com/item?id=49737787) |
+| 2026-09-17 | Thursday | 7 | A heap overflow and SSO misconfiguration to compromise OpenAI internal repos | 357 | 153 | Technology | [link](https://www.hacktron.ai/blog/hacking-openai) · [HN](https://news.ycombinator.com/item?id=49749656) |
+| 2026-09-17 | Thursday | 8 | One year of sponsored Servo development | 352 | 140 | Technology | [link](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/) · [HN](https://news.ycombinator.com/item?id=49737849) |
+| 2026-09-17 | Thursday | 9 | Iran school bombing: grounds to believe US was behind atrocity, UN finds | 330 | 286 | Technology | [link](https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack) · [HN](https://news.ycombinator.com/item?id=49739018) |
+| 2026-09-17 | Thursday | 10 | Everybody's Lost Their Minds | 326 | 275 | Technology | [link](https://www.netmeister.org/blog/everybodys-lost-their-minds.html) · [HN](https://news.ycombinator.com/item?id=49745570) |
 | 2026-09-16 | Wednesday | 1 | Nvidia announces native GPU programming in Rust | 688 | 269 | Technology | [link](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/) · [HN](https://news.ycombinator.com/item?id=49724881) |
 | 2026-09-16 | Wednesday | 2 | EU chief opens door for Canada to become 'associate member' | 664 | 850 | Technology | [link](https://www.bbc.com/news/articles/cjwyzrr9d3dko) · [HN](https://news.ycombinator.com/item?id=49724141) |
 | 2026-09-16 | Wednesday | 3 | Mistral X Mozilla: Private, Multilingual AI Browsing | 565 | 193 | Technology | [link](https://mistral.ai/news/mistral-x-mozilla/) · [HN](https://news.ycombinator.com/item?id=49723408) |

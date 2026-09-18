@@ -1,9 +1,75 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-17 · 7623 items*
+*Last updated: 2026-09-18 · 7689 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-17 | Hister: A private search engine for the pages you visit and the files you keep | HN | Technology | tech | 2026-09-17 | [link](https://github.com/asciimoo/hister) |
+| 2026-09-17 | Astra for Law | HN | Technology | tech | 2026-09-17 | [link](https://openai.com/index/astra-for-law/) |
+| 2026-09-17 | Bend – A language that blocks AI mistakes via proof, on CPU and GPU | HN | Technology | tech | 2026-09-17 | [link](https://bend-lang.com/) |
+| 2026-09-17 | Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint | HN | Technology | tech | 2026-09-17 | [link](https://prismml.com/news/bonsai-2-27b) |
+| 2026-09-17 | How GLM built its own inference infrastructure | HN | Technology | tech | 2026-09-17 | [link](https://z.ai/blog/glm-built-its-inference-infrastructure) |
+| 2026-09-17 | CCC invites all model citizens to 40C3 | HN | Technology | tech | 2026-09-17 | [link](https://events.ccc.de/en/2026/09/12/40c3-model-citizens/) |
+| 2026-09-17 | A heap overflow and SSO misconfiguration to compromise OpenAI internal repos | HN | Technology | tech | 2026-09-17 | [link](https://www.hacktron.ai/blog/hacking-openai) |
+| 2026-09-17 | One year of sponsored Servo development | HN | Technology | tech | 2026-09-17 | [link](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/) |
+| 2026-09-17 | Iran school bombing: grounds to believe US was behind atrocity, UN finds | HN | Technology | tech | 2026-09-17 | [link](https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack) |
+| 2026-09-17 | Everybody's Lost Their Minds | HN | Technology | tech | 2026-09-17 | [link](https://www.netmeister.org/blog/everybodys-lost-their-minds.html) |
+| 2026-09-17 | Neovim have a ~$800k Bitcoin donation sitting untouched since 2023 | HN | Technology | tech | 2026-09-17 | [link](https://news.ycombinator.com/item?id=49738879) |
+| 2026-09-17 | AI safety is mostly a sex cult | HN | Technology | tech | 2026-09-17 | [link](https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q) |
+| 2026-09-17 | Canada welcomes EU proposal to become 'associate member' | HN | Technology | tech | 2026-09-17 | [link](https://www.bbc.com/news/articles/cwly7vkke4jxo) |
+| 2026-09-17 | Why I didn’t sign the Fields medallists’ letter | HN | Technology | tech | 2026-09-17 | [link](https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/) |
+| 2026-09-17 | The American Religion of Self-Storage Facilities | HN | Technology | tech | 2026-09-17 | [link](https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities) |
+| 2026-09-17 | Qwen 3.8 Omni Flash | HN | Technology | tech | 2026-09-17 | [link](https://qwen.ai/blog?id=qwen3.8-omni-flash) |
+| 2026-09-17 | Fed Raises Rates in First Major Step by Warsh to Contain Inflation | NYT · Economy | Economy | news | 2026-09-17 | [link](https://www.nytimes.com/2026/09/16/business/economy/federal-reserve-interest-rates-warsh.html) |
+| 2026-09-17 | How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears | NYT · Technology | Technology | news | 2026-09-17 | [link](https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html) |
+| 2026-09-17 | OpenAI Discloses Six New Incidents of ‘Concerning' A.I. Behavior | NYT · Technology | Technology | news | 2026-09-17 | [link](https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html) |
+| 2026-09-17 | King Charles Meets With A.I. Executives About Safety Risks | NYT · Business | Business | news | 2026-09-18 | [link](https://www.nytimes.com/2026/09/17/business/king-charles-ai.html) |
+| 2026-09-17 | Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms | NYT · Business | Business | news | 2026-09-17 | [link](https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html) |
+| 2026-09-17 | Judge Orders Data Sharing and Other Fixes to Solve Google’s Ad Tech Monopoly | NYT · Technology | Technology | news | 2026-09-16 | [link](https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html) |
+| 2026-09-17 | Humanity Has Avoided Apocalypse Before. Let’s Do It Again. | NYT · Opinion | Opinion | opinion | 2026-09-18 | [link](https://www.nytimes.com/2026/09/18/opinion/ai-tech-danger-apocalypse-government.html) |
+| 2026-09-17 | There Are Three Paths for the Economy. Only One Is Good. | NYT · Opinion | Opinion | opinion | 2026-09-17 | [link](https://www.nytimes.com/2026/09/17/opinion/us-economy-treasury-stable.html) |
+| 2026-09-17 | Why Is It So Difficult to Regulate A.I.? | NYT · Business | Business | news | 2026-09-18 | [link](https://www.nytimes.com/video/business/100000011155275/why-is-it-so-difficult-to-regulate-ai.html) |
+| 2026-09-17 | Montana Ballot Measure Would Strike at Political ‘Dark Money’ | NYT · Politics | Politics | news | 2026-09-18 | [link](https://www.nytimes.com/2026/09/17/us/politics/montana-ballot-political-spending-ban.html) |
+| 2026-09-17 | Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns | NYT · Technology | Technology | news | 2026-09-15 | [link](https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html) |
+| 2026-09-17 | In Silicon Valley, Hardware Is Having a Moment Again | NYT · Business | Business | news | 2026-09-16 | [link](https://www.nytimes.com/2026/09/16/business/dealbook/in-silicon-valley-hardware-is-having-a-moment-again.html) |
+| 2026-09-17 | OpenAI Considers New Financing at a $1.5 Trillion Valuation | NYT · Business | Business | news | 2026-09-16 | [link](https://www.nytimes.com/2026/09/16/business/dealbook/openai-new-funding-round.html) |
+| 2026-09-17 | The Latest Corporate Climate Ruse | NYT · Opinion | Opinion | opinion | 2026-09-17 | [link](https://www.nytimes.com/2026/09/17/opinion/climate-change-forests-corporations.html) |
+| 2026-09-17 | Blanche’s Political Campaigning Breaks an Ethical Norm Going Back to Watergate | NYT · Politics | Politics | news | 2026-09-18 | [link](https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html) |
+| 2026-09-17 | The Fed Raised Rates. What Comes Next? | NYT · Economy | Economy | news | 2026-09-17 | [link](https://www.nytimes.com/2026/09/17/business/economy/fed-interest-rates-warsh.html) |
+| 2026-09-17 | Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown | NYT · Technology | Technology | news | 2026-09-16 | [link](https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html) |
+| 2026-09-17 | Anxieties and Advice on Facing the A.I. Crisis | NYT · Opinion | Opinion | opinion | 2026-09-17 | [link](https://www.nytimes.com/2026/09/17/opinion/ai-anxiety.html) |
+| 2026-09-17 | Alabama Executes Inmate After Supreme Court Blocked Last Attempt | NYT · U.S. | U.S. | news | 2026-09-18 | [link](https://www.nytimes.com/2026/09/17/us/alabama-execution-lethal-injection.html) |
+| 2026-09-17 | Rising Seas Are Gobbling Up Beaches Around the World. A.I. Might Restore Them. | NYT · Energy & Environment | Energy & Environment | news | 2026-09-17 | [link](https://www.nytimes.com/2026/09/16/climate/maldives-beach-restoration-ai.html) |
+| 2026-09-17 | AI chip startup Rebellions partners with ai& for Japanese AI infrastructure deployment | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-17 | [link](https://www.datacenterdynamics.com/en/news/ai-chip-startup-rebellions-partners-with-ai-for-japanese-ai-infrastructure-deployment/) |
+| 2026-09-17 | Former Global Switch execs to lead AI and cloud infrastructure investment company | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-17 | [link](https://www.datacenterdynamics.com/en/news/former-global-switch-execs-launch-ai-and-cloud-infrastructure-investment-company/) |
+| 2026-09-17 | Grid congestion cost the US a record $17 billion last year | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-17 | [link](https://www.latitudemedia.com/news/grid-congestion-cost-the-us-a-record-17-billion-last-year/) |
+| 2026-09-17 | Fuel cells, geopolitics, and the solar growth curve | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-17 | [link](https://www.latitudemedia.com/news/catalyst-fuel-cells-geopolitics-and-the-solar-growth-curve/) |
+| 2026-09-17 | Burlington advances on-site solar strategy across distribution network | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-17 | [link](https://www.utilitydive.com/news/burlington-advances-on-site-solar-strategy-across-distribution-network/830650/) |
+| 2026-09-17 | Meta, Apex Clean Energy agree to 144-MW Texas solar PPA | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-17 | [link](https://www.utilitydive.com/news/meta-apex-clean-energy-144-mw-texas-solar-ppa/830675/) |
+| 2026-09-17 | How To Write With An LLM | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-17 | [link](https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/) |
+| 2026-09-17 | Self-generated prompt injections in compaction summaries | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-17 | [link](https://simonwillison.net/2026/Sep/17/compaction-summaries/) |
+| 2026-09-17 | Why Do U.S. Models of the iPhone 18 Pro Max, and Only U.S. Models of the 18 Pro Max, Use Qualcomm Ce | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-17 | [link](https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/) |
+| 2026-09-17 | Sales pitch of the century. | Reddit | Business | social | 2026-09-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1winf9r/sales_pitch_of_the_century/) |
+| 2026-09-17 | Opus 5 first refused to help me make this due to "distaste", got around it by calling it "Horror the | Reddit | Business | social | 2026-09-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wj18o8/opus_5_first_refused_to_help_me_make_this_due_to/) |
+| 2026-09-17 | JPMorgan is putting Claude Code inside a sandbox with no standing access to internal systems | Reddit | Business | social | 2026-09-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wit5yg/jpmorgan_is_putting_claude_code_inside_a_sandbox/) |
+| 2026-09-17 | Claude saved me $800 | Reddit | Business | social | 2026-09-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wj3u0m/claude_saved_me_800/) |
+| 2026-09-17 | Claude's response to me pressing the "quick answer" button | Reddit | Business | social | 2026-09-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wj6l0y/claudes_response_to_me_pressing_the_quick_answer/) |
+| 2026-09-17 | Anthropic says its chatbot Claude is taking over the work of building its own successor | Reddit | Business | social | 2026-09-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wjaev2/anthropic_says_its_chatbot_claude_is_taking_over/) |
+| 2026-09-17 | What’s one Claude workflow that genuinely changed how you work? | Reddit | Business | social | 2026-09-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wikd24/whats_one_claude_workflow_that_genuinely_changed/) |
+| 2026-09-17 | Looking for the right Harness for Claude Code | Reddit | Business | social | 2026-09-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wj2ru2/looking_for_the_right_harness_for_claude_code/) |
+| 2026-09-17 | Sub-agents burning your Claude Code 5-hour window? Check their 5-minute prompt cache | Reddit | Business | social | 2026-09-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wj4gs0/subagents_burning_your_claude_code_5hour_window/) |
+| 2026-09-17 | I think some people are using Claude to avoid thinking, not to think better | Reddit | Business | social | 2026-09-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wilk4u/i_think_some_people_are_using_claude_to_avoid/) |
+| 2026-09-17 | Claude code is falling behind Codex not because of token cost, but because of Opus 5. | Reddit | Business | social | 2026-09-17 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wiujum/claude_code_is_falling_behind_codex_not_because/) |
+| 2026-09-17 | "Opus 5, could you tell me what you just did?" | Reddit | Business | social | 2026-09-17 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wj83nc/opus_5_could_you_tell_me_what_you_just_did/) |
+| 2026-09-17 | Keep Claude Code’s 1-hour cache warm during breaks. On Fable 5.1, rewriting it costs 80x a cache rea | Reddit | Business | social | 2026-09-17 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wj108u/keep_claude_codes_1hour_cache_warm_during_breaks/) |
+| 2026-09-17 | Downgraded Claude Max 20x -> 5x after moving the "derivable" half of my agent work to a local 27B on | Reddit | Business | social | 2026-09-17 | [link](https://www.reddit.com/r/ClaudeCode/comments/1winjoh/downgraded_claude_max_20x_5x_after_moving_the/) |
+| 2026-09-17 | Fable is pure chaos | Reddit | Business | social | 2026-09-17 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wilp2z/fable_is_pure_chaos/) |
+| 2026-09-17 | A theme inspired by Blade Runner, atmospheric, with flickering neon lights, and a pizza slice to set | Reddit | Business | social | 2026-09-17 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wj8m17/a_theme_inspired_by_blade_runner_atmospheric_with/) |
+| 2026-09-17 | Free, open source Windows launcher with optional Obsidian integration. Quickest way to capture your  | Reddit | Business | social | 2026-09-17 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wiq2n9/free_open_source_windows_launcher_with_optional/) |
+| 2026-09-17 | Data view plugin, apprectaion post. | Reddit | Business | social | 2026-09-17 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wiu5bm/data_view_plugin_apprectaion_post/) |
+| 2026-09-17 | Using Obsidian as a visual researcher / art historian... | Reddit | Business | social | 2026-09-17 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wiemdu/using_obsidian_as_a_visual_researcher_art/) |
+| 2026-09-17 | New Plugin Inbound: MDFriday Publish (Now LIVE!) - After 78 releases and 5,000 downloads, I rebuilt  | Reddit | Business | social | 2026-09-17 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wimvti/new_plugin_inbound_mdfriday_publish_now_live/) |
+| 2026-09-17 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-16 | Nvidia announces native GPU programming in Rust | HN | Technology | tech | 2026-09-16 | [link](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/) |
 | 2026-09-16 | EU chief opens door for Canada to become 'associate member' | HN | Technology | tech | 2026-09-16 | [link](https://www.bbc.com/news/articles/cjwyzrr9d3dko) |
 | 2026-09-16 | Mistral X Mozilla: Private, Multilingual AI Browsing | HN | Technology | tech | 2026-09-16 | [link](https://mistral.ai/news/mistral-x-mozilla/) |
