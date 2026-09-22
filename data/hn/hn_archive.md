@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-18 · 495 days · 4950 stories*
+*Last updated: 2026-09-22 · 496 days · 4960 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-21 | Monday | 1 | MiMo v2.6 | 906 | 402 | Technology | [link](https://mimo.xiaomi.com/mimo-v2-6) · [HN](https://news.ycombinator.com/item?id=49792730) |
+| 2026-09-21 | Monday | 2 | Attention is all you have | 812 | 243 | Technology | [link](https://alicegg.tech/2026/09/21/attention) · [HN](https://news.ycombinator.com/item?id=49787726) |
+| 2026-09-21 | Monday | 3 | I don't want to read what you didn't write | 685 | 275 | Technology | [link](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/) · [HN](https://news.ycombinator.com/item?id=49794330) |
+| 2026-09-21 | Monday | 4 | ZuckOff Know when a camera is in the room | 599 | 4 | Technology | [link](https://zuckoff.app/) · [HN](https://news.ycombinator.com/item?id=49785429) |
+| 2026-09-21 | Monday | 5 | What Sun got wrong | 591 | 342 | Technology | [link](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) · [HN](https://news.ycombinator.com/item?id=49787436) |
+| 2026-09-21 | Monday | 6 | Grok 4.7 | 574 | 485 | Technology | [link](https://x.ai/news/grok-4-7) · [HN](https://news.ycombinator.com/item?id=49788838) |
+| 2026-09-21 | Monday | 7 | Disney+: New user agreement allows ads before movies in all subscriptions | 499 | 353 | Technology | [link](https://consumerrights.wiki/w/Disney%2B_ad_policy_change) · [HN](https://news.ycombinator.com/item?id=49784336) |
+| 2026-09-21 | Monday | 8 | Spymarks, Not Watermarks | 444 | 110 | Technology | [link](https://brand.io/article/spymarks/) · [HN](https://news.ycombinator.com/item?id=49794615) |
+| 2026-09-21 | Monday | 9 | Kev: Tiny Jev-like family of decision models built on top of Qwen3.5 | 434 | 196 | Technology | [link](https://github.com/jaredpalmer/kev/tree/main) · [HN](https://news.ycombinator.com/item?id=49783999) |
+| 2026-09-21 | Monday | 10 | Transformers Explained Visually | 412 | 64 | Technology | [link](https://poloclub.github.io/transformer-explainer/) · [HN](https://news.ycombinator.com/item?id=49792342) |
 | 2026-09-17 | Thursday | 1 | Hister: A private search engine for the pages you visit and the files you keep | 608 | 168 | Technology | [link](https://github.com/asciimoo/hister) · [HN](https://news.ycombinator.com/item?id=49743097) |
 | 2026-09-17 | Thursday | 2 | Astra for Law | 491 | 543 | Technology | [link](https://openai.com/index/astra-for-law/) · [HN](https://news.ycombinator.com/item?id=49745940) |
 | 2026-09-17 | Thursday | 3 | Bend – A language that blocks AI mistakes via proof, on CPU and GPU | 467 | 219 | Technology | [link](https://bend-lang.com/) · [HN](https://news.ycombinator.com/item?id=49746163) |

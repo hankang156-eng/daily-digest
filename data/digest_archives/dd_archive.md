@@ -1,9 +1,76 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-18 · 7689 items*
+*Last updated: 2026-09-22 · 7756 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-21 | MiMo v2.6 | HN | Technology | tech | 2026-09-21 | [link](https://mimo.xiaomi.com/mimo-v2-6) |
+| 2026-09-21 | Attention is all you have | HN | Technology | tech | 2026-09-21 | [link](https://alicegg.tech/2026/09/21/attention) |
+| 2026-09-21 | I don't want to read what you didn't write | HN | Technology | tech | 2026-09-21 | [link](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/) |
+| 2026-09-21 | ZuckOff Know when a camera is in the room | HN | Technology | tech | 2026-09-21 | [link](https://zuckoff.app/) |
+| 2026-09-21 | What Sun got wrong | HN | Technology | tech | 2026-09-21 | [link](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) |
+| 2026-09-21 | Grok 4.7 | HN | Technology | tech | 2026-09-21 | [link](https://x.ai/news/grok-4-7) |
+| 2026-09-21 | Disney+: New user agreement allows ads before movies in all subscriptions | HN | Technology | tech | 2026-09-21 | [link](https://consumerrights.wiki/w/Disney%2B_ad_policy_change) |
+| 2026-09-21 | Spymarks, Not Watermarks | HN | Technology | tech | 2026-09-21 | [link](https://brand.io/article/spymarks/) |
+| 2026-09-21 | Kev: Tiny Jev-like family of decision models built on top of Qwen3.5 | HN | Technology | tech | 2026-09-21 | [link](https://github.com/jaredpalmer/kev/tree/main) |
+| 2026-09-21 | Transformers Explained Visually | HN | Technology | tech | 2026-09-21 | [link](https://poloclub.github.io/transformer-explainer/) |
+| 2026-09-21 | Fable 5 – Median thinking declined in August | HN | Technology | tech | 2026-09-21 | [link](https://twitter.com/Lon/status/2101793422487204027) |
+| 2026-09-21 | ZuckOff is a free app that sees Meta glasses before they see you | HN | Technology | tech | 2026-09-21 | [link](https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff) |
+| 2026-09-21 | NASA’s Mars Sample Return mission is dead | HN | Technology | tech | 2026-09-21 | [link](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead) |
+| 2026-09-21 | Grim Fandango Puzzle Document (1996) [pdf] | HN | Technology | tech | 2026-09-21 | [link](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf) |
+| 2026-09-21 | Turn off and restrict access to Apple Intelligence features on Mac | HN | Technology | tech | 2026-09-21 | [link](https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac) |
+| 2026-09-21 | Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM | HN | Technology | tech | 2026-09-21 | [link](https://github.com/volotat/mini-AGI/) |
+| 2026-09-21 | Anthropic Pursues IPO Despite Its A.I. Safety Warnings | NYT · Technology | Technology | news | 2026-09-21 | [link](https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html) |
+| 2026-09-21 | Paramount Settles States’ Lawsuit, Clearing Way for Warner Bros. Merger | NYT · Business | Business | news | 2026-09-22 | [link](https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html) |
+| 2026-09-21 | How Potential 2028 Presidential Candidates Are Talking About A.I. | NYT · Technology | Technology | news | 2026-09-21 | [link](https://www.nytimes.com/2026/09/21/us/politics/2028-presidential-race-artificial-intelligence.html) |
+| 2026-09-21 | The State of the Economy Before the Midterms: Rising Inflation and A.I. Unease | NYT · Politics | Politics | news | 2026-09-21 | [link](https://www.nytimes.com/2026/09/21/us/politics/midterm-elections-economy.html) |
+| 2026-09-21 | Wall Street Is Growing Skeptical of the Data Center Boom | NYT · Business | Business | news | 2026-09-21 | [link](https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html) |
+| 2026-09-21 | U.N. Seeks Relevance on A.I. as the U.S. and China Race Ahead | NYT · Politics | Politics | news | 2026-09-22 | [link](https://www.nytimes.com/2026/09/21/us/politics/united-nations-artificial-intelligence-china-us.html) |
+| 2026-09-21 | The Big Threat Has Been Climate Change. Now Comes A.I. | NYT · Technology | Technology | news | 2026-09-22 | [link](https://www.nytimes.com/2026/09/22/climate/climate-change-artificial-intelligence-global-threat.html) |
+| 2026-09-21 | Paramount Weighs Some Concessions in Bid to Finalize Warner Bros. Merger | NYT · Business | Business | news | 2026-09-19 | [link](https://www.nytimes.com/2026/09/18/business/paramount-warner-bros-settlement.html) |
+| 2026-09-21 | Rivian C.E.O. RJ Scaringe Has Some Ideas for How to Make More Cars in America | NYT · Business | Business | news | 2026-09-20 | [link](https://www.nytimes.com/2026/09/20/business/rivian-rj-scaringe.html) |
+| 2026-09-21 | Bessent and China Hail Progress on A.I. Talks. Now Comes the Hard Part. | NYT · Business | Business | news | 2026-09-21 | [link](https://www.nytimes.com/2026/09/21/business/dealbook/bessent-china-ai-talks.html) |
+| 2026-09-21 | A.I. Is a Threat, but Not in the Way You Think | NYT · Opinion | Opinion | opinion | 2026-09-21 | [link](https://www.nytimes.com/2026/09/19/opinion/ai-hugging-face-big-tech-danger.html) |
+| 2026-09-21 | Bernie Sanders, Steve Case and Susan Rice on How to Avert A.I. Disaster | NYT · Opinion | Opinion | opinion | 2026-09-21 | [link](https://www.nytimes.com/2026/09/21/opinion/bernie-sanders-case-ai-policy.html) |
+| 2026-09-21 | Judge Orders Data Sharing and Other Fixes to Solve Google’s Ad Tech Monopoly | NYT · Technology | Technology | news | 2026-09-16 | [link](https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html) |
+| 2026-09-21 | ‘I Was Sold a Bill of Goods’: Americans and the Distrust Election | NYT · Politics | Politics | news | 2026-09-22 | [link](https://www.nytimes.com/2026/09/22/us/politics/americans-distrust-election.html) |
+| 2026-09-21 | What to Know About Recent A.I. Hacks | NYT · Technology | Technology | news | 2026-09-22 | [link](https://www.nytimes.com/2026/09/22/technology/ai-hacks-list.html) |
+| 2026-09-21 | As Big Tech Takes Over Hollywood, the Picture Onscreen Gets Darker | NYT · Technology | Technology | news | 2026-09-18 | [link](https://www.nytimes.com/2026/09/18/movies/tech-founder-movies-hollywood.html) |
+| 2026-09-21 | We’re Not Losing Control of A.I. We’re Giving It Away. | NYT · Opinion | Opinion | opinion | 2026-09-20 | [link](https://www.nytimes.com/video/opinion/100000011157825/were-not-losing-control-of-ai-were-giving-it-away.html) |
+| 2026-09-21 | There Is Something We Have to Do Right Now About A.I. | NYT · Opinion | Opinion | opinion | 2026-09-20 | [link](https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html) |
+| 2026-09-21 | California Governor Gavin Newsom Issues A.I. Safety Executive Order | NYT · Technology | Technology | news | 2026-09-18 | [link](https://www.nytimes.com/2026/09/18/technology/ai-safety-california-gavin-newsom.html) |
+| 2026-09-21 | What if the A.I. Stock Market Rally Is Just Getting Started? | NYT · Your Money | Your Money | news | 2026-08-28 | [link](https://www.nytimes.com/2026/08/28/business/ai-stock-market-bull-rally.html) |
+| 2026-09-21 | Flag to deploy Ciena's Waveserver platform on Echo subsea cable | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-21 | [link](https://www.datacenterdynamics.com/en/news/flag-to-deploy-cienas-waveserver-platform-on-echo-subsea-cable/) |
+| 2026-09-21 | Sponsored: Why protecting your data center's cash flow costs less than you think | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-21 | [link](https://www.datacenterdynamics.com/en/opinions/why-protecting-your-data-centers-cash-flow-costs-less-than-you-think/) |
+| 2026-09-21 | Texas PUC adopts softened rules on data center interconnection | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-21 | [link](https://www.utilitydive.com/news/texas-puc-adopts-data-center-interconnection-rules/830899/) |
+| 2026-09-21 | Rune is tapping spare solar power for modular data centers | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-21 | [link](https://www.latitudemedia.com/news/rune-is-tapping-spare-solar-power-for-modular-data-centers/) |
+| 2026-09-21 | What’s going on with Fluence? | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-21 | [link](https://www.latitudemedia.com/news/whats-going-on-with-fluence/) |
+| 2026-09-21 | Federal judge restores $7B Solar for All program, says EPA illegally axed it | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-21 | [link](https://www.utilitydive.com/news/federal-judge-restores-7b-solar-for-all-program-says-epa-illegally-axed-i/830879/) |
+| 2026-09-21 | Cloudflare Python Workers are now generally available | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-21 | [link](https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/) |
+| 2026-09-21 | [Sponsor] Mux: Turn Your Video Into Context | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-21 | [link](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) |
+| 2026-09-21 | Matthew Butterick: ‘Big AI to Humanity: Drop Dead’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-21 | [link](https://matthewbutterick.com/chron/drop-dead.html) |
+| 2026-09-21 | Jev introduces a new shape of LLM - System One, aka Decision Models | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-21 | [link](https://simonwillison.net/2026/Sep/21/jev/) |
+| 2026-09-21 | I am done with this shit. | Reddit | Business | social | 2026-09-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/) |
+| 2026-09-21 | Eerie/concerning hallucinations | Reddit | Business | social | 2026-09-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wm6mht/eerieconcerning_hallucinations/) |
+| 2026-09-21 | PSA - Claude Code: Turn off Prompt Suggestions, save ~10% of your limits/spend | Reddit | Business | social | 2026-09-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wm8adm/psa_claude_code_turn_off_prompt_suggestions_save/) |
+| 2026-09-21 | Do you talk to Claude politely? | Reddit | Business | social | 2026-09-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wm1foz/do_you_talk_to_claude_politely/) |
+| 2026-09-21 | Seeing this on monday while claude is fixing a critical bug | Reddit | Business | social | 2026-09-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wm8ori/seeing_this_on_monday_while_claude_is_fixing_a/) |
+| 2026-09-21 | Web Radar Now Available! | Reddit | Business | social | 2026-09-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wmt9mq/web_radar_now_available/) |
+| 2026-09-21 | If Fable made you buy a second account, this shows which one still has usage and when the others res | Reddit | Business | social | 2026-09-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wmbjb5/if_fable_made_you_buy_a_second_account_this_shows/) |
+| 2026-09-21 | Continuing Development on Oversteer with Claude + Some Thoughts on AI Game Dev | Reddit | Business | social | 2026-09-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wmpsjt/continuing_development_on_oversteer_with_claude/) |
+| 2026-09-21 | Use Fable instead of Opus | Reddit | Business | social | 2026-09-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wmij5x/use_fable_instead_of_opus/) |
+| 2026-09-21 | Do you guys ever downgrade a workflow after you’ve got it working? | Reddit | Business | social | 2026-09-21 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wmgm43/do_you_guys_ever_downgrade_a_workflow_after_youve/) |
+| 2026-09-21 | Anthropic is currently stealth testing Opus 5.5 (`claude-opus-5-5`) under the codename `claude-wafer | Reddit | Business | social | 2026-09-21 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wmeayt/anthropic_is_currently_stealth_testing_opus_55/) |
+| 2026-09-21 | Is my Opus 5 routed to Opus 5.2? | Reddit | Business | social | 2026-09-21 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wm8wdc/is_my_opus_5_routed_to_opus_52/) |
+| 2026-09-21 | I'm afraid to use Opus 5 | Reddit | Business | social | 2026-09-21 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wm4ncx/im_afraid_to_use_opus_5/) |
+| 2026-09-21 | Anthropic's playbook (Enshittify -> Release -> Hype -> Repeat) | Reddit | Business | social | 2026-09-21 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wmdqs7/anthropics_playbook_enshittify_release_hype_repeat/) |
+| 2026-09-21 | How do you carry *decisions* (not chat history) across Claude Code sessions? | Reddit | Business | social | 2026-09-21 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wmoost/how_do_you_carry_decisions_not_chat_history/) |
+| 2026-09-21 | 🐻 Bear Style for Obsidian with all 38 themes!! | Reddit | Business | social | 2026-09-21 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wmf6bg/bear_style_for_obsidian_with_all_38_themes/) |
+| 2026-09-21 | Note Toolbar 1.35: Rules, and more you may have missed | Reddit | Business | social | 2026-09-21 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wmhvlw/note_toolbar_135_rules_and_more_you_may_have/) |
+| 2026-09-21 | Lag by using Bases | Reddit | Business | social | 2026-09-21 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wmkstj/lag_by_using_bases/) |
+| 2026-09-21 | Not everything goes in the same Vault. Starting organized makes rebuilding easier | Reddit | Business | social | 2026-09-21 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wm46iw/not_everything_goes_in_the_same_vault_starting/) |
+| 2026-09-21 | Obsidian Plugins Safety | Reddit | Business | social | 2026-09-21 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wm67m7/obsidian_plugins_safety/) |
+| 2026-09-21 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-17 | Hister: A private search engine for the pages you visit and the files you keep | HN | Technology | tech | 2026-09-17 | [link](https://github.com/asciimoo/hister) |
 | 2026-09-17 | Astra for Law | HN | Technology | tech | 2026-09-17 | [link](https://openai.com/index/astra-for-law/) |
 | 2026-09-17 | Bend – A language that blocks AI mistakes via proof, on CPU and GPU | HN | Technology | tech | 2026-09-17 | [link](https://bend-lang.com/) |
