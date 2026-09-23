@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-22 · 496 days · 4960 stories*
+*Last updated: 2026-09-23 · 497 days · 4970 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-22 | Tuesday | 1 | Claude Opus 5.5 | 1547 | 958 | Technology | [link](https://www.anthropic.com/claude-opus-5-5) · [HN](https://news.ycombinator.com/item?id=49803892) |
+| 2026-09-22 | Tuesday | 2 | GPT-6 Sol and Luna | 1533 | 735 | Technology | [link](https://openai.com/index/introducing-gpt-6-sol-and-luna/) · [HN](https://news.ycombinator.com/item?id=49805509) |
+| 2026-09-22 | Tuesday | 3 | I said no and Apple said yes | 825 | 669 | Technology | [link](https://dbushell.com/2026/09/22/apple-intelligence/) · [HN](https://news.ycombinator.com/item?id=49797982) |
+| 2026-09-22 | Tuesday | 4 | Apple has added persistent 'ads' to iOS, and it's driving users crazy | 723 | 526 | Technology | [link](https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy) · [HN](https://news.ycombinator.com/item?id=49801939) |
+| 2026-09-22 | Tuesday | 5 | OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005 | 660 | 387 | Technology | [link](https://www.cryptocellar.org/bgac/the-mvueh-break.html) · [HN](https://news.ycombinator.com/item?id=49801324) |
+| 2026-09-22 | Tuesday | 6 | Pentagon says overreliance on AI contributed to missile strike on Iran school | 654 | 335 | Technology | [link](https://www.bloomberg.com/graphics/2026-iran-school-attack/) · [HN](https://news.ycombinator.com/item?id=49806430) |
+| 2026-09-22 | Tuesday | 7 | 'We hacked the FBI:' Hackers say they have data on all FBI employees | 609 | 445 | Technology | [link](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/) · [HN](https://news.ycombinator.com/item?id=49805278) |
+| 2026-09-22 | Tuesday | 8 | Can gzip be a language model? | 390 | 154 | Technology | [link](https://nathan.rs/posts/gzip-lm/) · [HN](https://news.ycombinator.com/item?id=49797323) |
+| 2026-09-22 | Tuesday | 9 | AI Has No Wisdom and Neither Will You | 377 | 528 | Technology | [link](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/) · [HN](https://news.ycombinator.com/item?id=49799965) |
+| 2026-09-22 | Tuesday | 10 | Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived | 325 | 189 | Technology | [link](https://foxscript.org/) · [HN](https://news.ycombinator.com/item?id=49808023) |
 | 2026-09-21 | Monday | 1 | MiMo v2.6 | 906 | 402 | Technology | [link](https://mimo.xiaomi.com/mimo-v2-6) · [HN](https://news.ycombinator.com/item?id=49792730) |
 | 2026-09-21 | Monday | 2 | Attention is all you have | 812 | 243 | Technology | [link](https://alicegg.tech/2026/09/21/attention) · [HN](https://news.ycombinator.com/item?id=49787726) |
 | 2026-09-21 | Monday | 3 | I don't want to read what you didn't write | 685 | 275 | Technology | [link](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/) · [HN](https://news.ycombinator.com/item?id=49794330) |
