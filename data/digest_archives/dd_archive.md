@@ -1,9 +1,78 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-23 · 7824 items*
+*Last updated: 2026-09-24 · 7893 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-23 | Italian parliament votes for return to nuclear energy | HN | Technology | tech | 2026-09-23 | [link](https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567) |
+| 2026-09-23 | Jev in 25 Lines of Python | HN | Technology | tech | 2026-09-23 | [link](https://www.nobodywho.ai/posts/jev-in-25-lines/) |
+| 2026-09-23 | Claude discovers a novel enzyme system with CRISPR-like repeats | HN | Technology | tech | 2026-09-23 | [link](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) |
+| 2026-09-23 | Claude Code reads AGENTS.md only when telemetry is on [fixed] | HN | Technology | tech | 2026-09-23 | [link](https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/) |
+| 2026-09-23 | Fixing the Portobello Police Station Clock | HN | Technology | tech | 2026-09-23 | [link](https://pointinthecloud.com/2026-04-11-211700.html) |
+| 2026-09-23 | Linux support is coming to Snapdragon X2 Series | HN | Technology | tech | 2026-09-23 | [link](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) |
+| 2026-09-23 | I don't want the details | HN | Technology | tech | 2026-09-23 | [link](https://michaelheap.com/i-dont-want-the-details/) |
+| 2026-09-23 | Meta VR Glasses | HN | Technology | tech | 2026-09-23 | [link](https://www.meta.com/vr-glasses/) |
+| 2026-09-23 | Grammarly will send unhinged messages to all your users if you try to cancel | HN | Technology | tech | 2026-09-23 | [link](https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/) |
+| 2026-09-23 | Seattle City Council votes to ban surveillance pricing in sale of groceries | HN | Technology | tech | 2026-09-23 | [link](https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/) |
+| 2026-09-23 | DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why | HN | Technology | tech | 2026-09-23 | [link](https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/) |
+| 2026-09-23 | Gemini 3.8 text-to-speech | HN | Technology | tech | 2026-09-23 | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/) |
+| 2026-09-23 | Tokens too cheap to meter | HN | Technology | tech | 2026-09-23 | [link](https://jyn.dev/tokens-too-cheap-to-meter/) |
+| 2026-09-23 | Feds Target AI Critics as "Foreign Agents" | HN | Technology | tech | 2026-09-23 | [link](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign) |
+| 2026-09-23 | GPT-6 Astra has gained the ability to drive a car | HN | Technology | tech | 2026-09-23 | [link](https://drivingbench.com/) |
+| 2026-09-23 | Why is Hacker News like that? | HN | Technology | tech | 2026-09-23 | [link](https://drewdevault.com/blog/Why-is-HN-like-that/) |
+| 2026-09-23 | Judge Dismisses Unusual Climate Suit Claiming Oil Giants Broke Antitrust Law | NYT · Energy & Environment | Energy & Environment | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/22/climate/michigan-antitrust-lawsuit-oil-companies.html) |
+| 2026-09-23 | Trump Backtracks on Plan for New Controls on N.I.H. Grants | NYT · Business | Business | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/23/us/politics/trump-nih-science-grants.html) |
+| 2026-09-23 | America’s A.I. Leaders Warn U.N. of Possible Peril Absent a Global Response | NYT · Technology | Technology | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/23/us/politics/ai-leaders-united-nations-global-response.html) |
+| 2026-09-23 | How Unions Are Confronting A.I. Threats in the Workplace | NYT · Economy | Economy | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/22/business/economy/unions-ai-negotiations.html) |
+| 2026-09-23 | Texas Halts Data Center Permits, Expanding Environmental Scrutiny | NYT · Energy & Environment | Energy & Environment | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/22/climate/texas-halts-data-center-permits.html) |
+| 2026-09-23 | Paramount Settles States’ Lawsuit, Clearing Way for Warner Bros. Merger | NYT · Business | Business | news | 2026-09-22 | [link](https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html) |
+| 2026-09-23 | What’s Next for Paramount | NYT · Business | Business | news | 2026-09-22 | [link](https://www.nytimes.com/2026/09/22/business/dealbook/paramount-warner-deal-settlement.html) |
+| 2026-09-23 | Jensen Huang Thinks A.I. Alarmism Has Gone Too Far | NYT · Opinion | Opinion | opinion | 2026-09-23 | [link](https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html) |
+| 2026-09-23 | How Paramount Won Warner Bros. | NYT · Business | Business | news | 2026-09-22 | [link](https://www.nytimes.com/2026/09/22/business/paramount-warner-bros-ellison-bonta.html) |
+| 2026-09-23 | Trump’s Diesel Dilemma | NYT · Business | Business | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/23/business/dealbook/trump-diesel-dilemma.html) |
+| 2026-09-23 | Where Is the U.S. Beating China on A.I., and Where Is It Lagging? | NYT · Economy | Economy | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html) |
+| 2026-09-23 | Anthropic Pursues IPO Despite Its A.I. Safety Warnings | NYT · Technology | Technology | news | 2026-09-21 | [link](https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html) |
+| 2026-09-23 | Dear Congress: Here’s What to Ask A.I. Leaders | NYT · Opinion | Opinion | opinion | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/opinion/congress-ai-sam-altman.html) |
+| 2026-09-23 | A Departing U.N. Chief’s Dire Warning on Climate Change | NYT · Energy & Environment | Energy & Environment | news | 2026-09-22 | [link](https://www.nytimes.com/2026/09/22/climate/antonio-guterres-climate-change.html) |
+| 2026-09-23 | RFK Jr. Drew $4 Million in Book Advances From Publisher Who Also Monetized MAHA | NYT · Business | Business | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/23/us/politics/rfk-jr-book-advances-maha.html) |
+| 2026-09-23 | Trump and Xi to Discuss A.I. Risks and Competition at US-China Summit | NYT · Economy | Economy | news | 2026-09-22 | [link](https://www.nytimes.com/2026/09/22/business/economy/us-china-ai-competition.html) |
+| 2026-09-23 | I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away | NYT · Technology | Technology | news | 2026-09-22 | [link](https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html) |
+| 2026-09-23 | Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate | NYT · Technology | Technology | news | 2026-09-22 | [link](https://www.nytimes.com/2026/09/22/technology/anthropic-ai-model-safety.html) |
+| 2026-09-23 | There Is Something We Have to Do Right Now About A.I. | NYT · Opinion | Opinion | opinion | 2026-09-23 | [link](https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html) |
+| 2026-09-23 | OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting | NYT · Technology | Technology | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html) |
+| 2026-09-23 | Why Proprietary AI Leads Over Open AI Models | MIT IDE · MIT Research & Insights | Research | research | 2026-09-23 | [link](https://ide.mit.edu/insights/proprietary-vs-open-ai-models/) |
+| 2026-09-23 | The renewable energy deal that looks cheap on paper can leave data centers most exposed | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-23 | [link](https://www.datacenterdynamics.com/en/opinions/the-renewable-energy-deal-that-looks-cheap-on-paper-can-leave-data-centers-most-exposed/) |
+| 2026-09-23 | IonQ to deploy first quantum computer at Nvidia’s Accelerated Quantum Research Center | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-23 | [link](https://www.datacenterdynamics.com/en/news/ionq-to-deploy-first-quantum-computer-at-nvidias-accelerated-quantum-research-center/) |
+| 2026-09-23 | Ingestible Paper Battery Powers Biodegradable Medical Devices | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-09-23 | [link](https://spectrum.ieee.org/smart-pills-ingestible-biodegradable-battery) |
+| 2026-09-23 | Powering the Next Era of AI: How Google, Microsoft and Nvidia Are Standardizing and Accelerating the | Open Compute Project · AI Infrastructure | Infrastructure | tech | 2026-09-23 | [link](https://www.opencompute.org/blog/powering-the-next-era-of-ai-how-google-microsoft-and-nvidia-are-standardizing-and-accelerating-the-industry-transition-to-lvdc) |
+| 2026-09-23 | Fusion Startup Builds Reactor With Magnetic Mirrors | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-09-23 | [link](https://spectrum.ieee.org/magnetic-mirror-fusion) |
+| 2026-09-23 | EU Tech Push Boosts Ultrafast Laser Startups | IEEE Spectrum Semiconductors · AI Infrastructure | Infrastructure | tech | 2026-09-23 | [link](https://spectrum.ieee.org/ultrafast-lasers-europe) |
+| 2026-09-23 | Weekly Update 522: Live From Oslo with Scott Helme | Troy Hunt · Security & Privacy | Security | tech | 2026-09-23 | [link](https://www.troyhunt.com/weekly-update-522/) |
+| 2026-09-23 | SF October 14th: A Birds of a Feather Session on Agentic Engineering | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-23 | [link](https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/) |
+| 2026-09-23 | Gemini 3.8 TTS Playground | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-23 | [link](https://simonwillison.net/2026/Sep/23/gemini-tts-playground/) |
+| 2026-09-23 | Changes to App Tracking Transparency in the E.U. | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-23 | [link](https://developer.apple.com/app-store/user-privacy-and-data-use/) |
+| 2026-09-23 | Super Intelligence, Indeed | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-23 | [link](https://bsky.app/profile/atrupar.com/post/3mw4it5l5fd23) |
+| 2026-09-23 | Made entirely with Opus 5.5 + $3.21 of OpenRouter API usage | Reddit | Business | social | 2026-09-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wogab3/made_entirely_with_opus_55_321_of_openrouter_api/) |
+| 2026-09-23 | OPUS 5.5 IS THE NEW 4.6! | Reddit | Business | social | 2026-09-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wo9lbs/opus_55_is_the_new_46/) |
+| 2026-09-23 | Stupid question - if Opus 5.5 is better than Fable 5.1, why would we ever use Fable 5.1? | Reddit | Business | social | 2026-09-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wnxeql/stupid_question_if_opus_55_is_better_than_fable/) |
+| 2026-09-23 | AI still has its moments!! | Reddit | Business | social | 2026-09-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wo917e/ai_still_has_its_moments/) |
+| 2026-09-23 | Just add two eggs. | Reddit | Business | social | 2026-09-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wolaq1/just_add_two_eggs/) |
+| 2026-09-23 | Opus 5.5 vs GPT-6 Sol: 3D Pelican riding bike test in Blender | Reddit | Business | social | 2026-09-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1woc97l/opus_55_vs_gpt6_sol_3d_pelican_riding_bike_test/) |
+| 2026-09-23 | I do scientific research and Opus5.5 refuses to touch anything I’ve been working on. | Reddit | Business | social | 2026-09-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wnuko4/i_do_scientific_research_and_opus55_refuses_to/) |
+| 2026-09-23 | I turned around my 70 year old mother's business with Claude | Reddit | Business | social | 2026-09-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wohpdm/i_turned_around_my_70_year_old_mothers_business/) |
+| 2026-09-23 | Is everyone building their own software now? | Reddit | Business | social | 2026-09-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wojuc3/is_everyone_building_their_own_software_now/) |
+| 2026-09-23 | $250 in Cloud Session Credits + a Reset like ChatGPT! What's happening at Anthropic | Reddit | Business | social | 2026-09-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1woijhq/250_in_cloud_session_credits_a_reset_like_chatgpt/) |
+| 2026-09-23 | Chad 5.5 | Reddit | Business | social | 2026-09-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wnwi9s/chad_55/) |
+| 2026-09-23 | THEY FUCKING COOKED YO! Opus 5.5 is a massive upgrade. | Reddit | Business | social | 2026-09-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wnt4d3/they_fucking_cooked_yo_opus_55_is_a_massive/) |
+| 2026-09-23 | Opus 5.5 made me a grillfriend gacha game with hot anime grills | Reddit | Business | social | 2026-09-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wnzgg8/opus_55_made_me_a_grillfriend_gacha_game_with_hot/) |
+| 2026-09-23 | Cloud sessions are officially available and out of research preview! They let you keep Claude Code w | Reddit | Business | social | 2026-09-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wojd4c/cloud_sessions_are_officially_available_and_out/) |
+| 2026-09-23 | Opus 5.5 | Reddit | Business | social | 2026-09-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1woba1t/opus_55/) |
+| 2026-09-23 | My first 3 weeks with Obsidian | Reddit | Business | social | 2026-09-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wnucsp/my_first_3_weeks_with_obsidian/) |
+| 2026-09-23 | How my handwritten reMarkable notes end up in my vault: one tagged page, transcribed on my own machi | Reddit | Business | social | 2026-09-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wo6zej/how_my_handwritten_remarkable_notes_end_up_in_my/) |
+| 2026-09-23 | (Not so) Minimal Dashboard | Reddit | Business | social | 2026-09-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wo0pjr/not_so_minimal_dashboard/) |
+| 2026-09-23 | Is there anyway to make the title text of nodes bigger for when im zoomed out? | Reddit | Business | social | 2026-09-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wnvys9/is_there_anyway_to_make_the_title_text_of_nodes/) |
+| 2026-09-23 | Favorite fun and whimsy themes? | Reddit | Business | social | 2026-09-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wntwt3/favorite_fun_and_whimsy_themes/) |
+| 2026-09-23 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-22 | Claude Opus 5.5 | HN | Technology | tech | 2026-09-22 | [link](https://www.anthropic.com/claude-opus-5-5) |
 | 2026-09-22 | GPT-6 Sol and Luna | HN | Technology | tech | 2026-09-22 | [link](https://openai.com/index/introducing-gpt-6-sol-and-luna/) |
 | 2026-09-22 | I said no and Apple said yes | HN | Technology | tech | 2026-09-22 | [link](https://dbushell.com/2026/09/22/apple-intelligence/) |

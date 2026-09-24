@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-23 · 497 days · 4970 stories*
+*Last updated: 2026-09-24 · 498 days · 4980 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-23 | Wednesday | 1 | Italian parliament votes for return to nuclear energy | 788 | 598 | Technology | [link](https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567) · [HN](https://news.ycombinator.com/item?id=49819221) |
+| 2026-09-23 | Wednesday | 2 | Jev in 25 Lines of Python | 652 | 204 | Technology | [link](https://www.nobodywho.ai/posts/jev-in-25-lines/) · [HN](https://news.ycombinator.com/item?id=49812769) |
+| 2026-09-23 | Wednesday | 3 | Claude discovers a novel enzyme system with CRISPR-like repeats | 650 | 670 | Technology | [link](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) · [HN](https://news.ycombinator.com/item?id=49820134) |
+| 2026-09-23 | Wednesday | 4 | Claude Code reads AGENTS.md only when telemetry is on [fixed] | 468 | 269 | Technology | [link](https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/) · [HN](https://news.ycombinator.com/item?id=49814947) |
+| 2026-09-23 | Wednesday | 5 | Fixing the Portobello Police Station Clock | 445 | 102 | Technology | [link](https://pointinthecloud.com/2026-04-11-211700.html) · [HN](https://news.ycombinator.com/item?id=49817469) |
+| 2026-09-23 | Wednesday | 6 | Linux support is coming to Snapdragon X2 Series | 408 | 174 | Technology | [link](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) · [HN](https://news.ycombinator.com/item?id=49823582) |
+| 2026-09-23 | Wednesday | 7 | I don't want the details | 406 | 212 | Technology | [link](https://michaelheap.com/i-dont-want-the-details/) · [HN](https://news.ycombinator.com/item?id=49815466) |
+| 2026-09-23 | Wednesday | 8 | Meta VR Glasses | 398 | 351 | Technology | [link](https://www.meta.com/vr-glasses/) · [HN](https://news.ycombinator.com/item?id=49824268) |
+| 2026-09-23 | Wednesday | 9 | Grammarly will send unhinged messages to all your users if you try to cancel | 368 | 103 | Technology | [link](https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/) · [HN](https://news.ycombinator.com/item?id=49811484) |
+| 2026-09-23 | Wednesday | 10 | Seattle City Council votes to ban surveillance pricing in sale of groceries | 349 | 213 | Technology | [link](https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/) · [HN](https://news.ycombinator.com/item?id=49816374) |
 | 2026-09-22 | Tuesday | 1 | Claude Opus 5.5 | 1547 | 958 | Technology | [link](https://www.anthropic.com/claude-opus-5-5) · [HN](https://news.ycombinator.com/item?id=49803892) |
 | 2026-09-22 | Tuesday | 2 | GPT-6 Sol and Luna | 1533 | 735 | Technology | [link](https://openai.com/index/introducing-gpt-6-sol-and-luna/) · [HN](https://news.ycombinator.com/item?id=49805509) |
 | 2026-09-22 | Tuesday | 3 | I said no and Apple said yes | 825 | 669 | Technology | [link](https://dbushell.com/2026/09/22/apple-intelligence/) · [HN](https://news.ycombinator.com/item?id=49797982) |
