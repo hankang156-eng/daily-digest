@@ -1,9 +1,77 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-24 · 7893 items*
+*Last updated: 2026-09-25 · 7961 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-24 | F-Droid 2.0 | HN | Technology | tech | 2026-09-24 | [link](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) |
+| 2026-09-24 | Meta takes down a critical video about meta AI Glasses after filming at Meta | HN | Technology | tech | 2026-09-24 | [link](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/) |
+| 2026-09-24 | Two-tier encryption in the UK | HN | Technology | tech | 2026-09-24 | [link](https://macanorak.com/two-tier-encryption-in-the-uk/) |
+| 2026-09-24 | Why is the liver so weirdly regenerative? | HN | Technology | tech | 2026-09-24 | [link](https://dynomight.substack.com/p/liver) |
+| 2026-09-24 | Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design | HN | Technology | tech | 2026-09-24 | [link](https://github.com/devdotfast/whiteboard) |
+| 2026-09-24 | Owners mourn spoiled food after firmware update bricks Samsung smart fridges | HN | Technology | tech | 2026-09-24 | [link](https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/) |
+| 2026-09-24 | Opus 5.5 is good at explainer videos | HN | Technology | tech | 2026-09-24 | [link](https://launchvideo.io) |
+| 2026-09-24 | Early rogue AI agent activity and attempts to hack found on urlquery.net | HN | Technology | tech | 2026-09-24 | [link](https://transluce.org/agent-activity) |
+| 2026-09-24 | GitHub has not removed malicious imitation software after 3 weeks | HN | Technology | tech | 2026-09-24 | [link](https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/) |
+| 2026-09-24 | California is chasing wealth that has feet | HN | Technology | tech | 2026-09-24 | [link](https://blog.landeconomics.org/p/california-is-chasing-wealth-that) |
+| 2026-09-24 | Nokia Design Archive (2025) | HN | Technology | tech | 2026-09-24 | [link](https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c) |
+| 2026-09-24 | The newest ESP32 can run Linux and it's getting close to a Raspberry Pi | HN | Technology | tech | 2026-09-24 | [link](https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/) |
+| 2026-09-24 | Show HN: Koi.rest – watch some fish and regain your balance | HN | Technology | tech | 2026-09-24 | [link](https://koi.rest) |
+| 2026-09-24 | Google’s Project Suncatcher to put ML infrastructure in space | HN | Technology | tech | 2026-09-24 | [link](https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/) |
+| 2026-09-24 | Starlink ground station in Poland hit by fire in suspected arson attack | HN | Technology | tech | 2026-09-24 | [link](https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/) |
+| 2026-09-24 | Best LLM for every budget, updated daily | HN | Technology | tech | 2026-09-24 | [link](https://bestmodelforyourbudget.terrydjony.com/) |
+| 2026-09-24 | A Spirited Battle Over Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/climate/a-spirited-battle-over-data-centers.html) |
+| 2026-09-24 | Why a U.S. Diesel Export Ban May Not Lower Prices | NYT · Energy & Environment | Energy & Environment | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/25/business/energy-environment/trump-diesel-export-ban.html) |
+| 2026-09-24 | A.I. Safety Concerns Go Global | NYT · Business | Business | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/business/dealbook/ai-safety-concerns-go-global.html) |
+| 2026-09-24 | Judge Dismisses Unusual Climate Suit Claiming Oil Giants Broke Antitrust Law | NYT · Energy & Environment | Energy & Environment | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/22/climate/michigan-antitrust-lawsuit-oil-companies.html) |
+| 2026-09-24 | Tech Titans Mingle With Trump and Xi at State Dinner | NYT · Economy | Economy | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/24/business/economy/tech-executives-state-dinner-xi-trump.html) |
+| 2026-09-24 | The Wild West of A.I. Needs to End. Here’s How. | NYT · Opinion | Opinion | opinion | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/opinion/ai-regulation-government-tech-industry.html) |
+| 2026-09-24 | Massachusetts Is Investigating Gambling Companies’ Use of A.I. | NYT · Business | Business | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/business/massachusetts-draftkings-ai-gambling.html) |
+| 2026-09-24 | Google Is Sending an A.I. Data Center to Outer Space | NYT · Technology | Technology | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html) |
+| 2026-09-24 | Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher | NYT · Business | Business | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html) |
+| 2026-09-24 | Ex-F.B.I. Agents Crucial to ‘Grand Conspiracy’ Case Suggest Testimony Won’t Help | NYT · Politics | Politics | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/us/politics/ex-fbi-agents-grand-conspiracy-case.html) |
+| 2026-09-24 | A Second Judge Strikes Down New York’s Climate ‘Superfund’ Law | NYT · Energy & Environment | Energy & Environment | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/climate/new-york-climate-superfund-law.html) |
+| 2026-09-24 | How to Fix the A.I. Dumpster Fire | NYT · Opinion | Opinion | opinion | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/opinion/congress-ai-sam-altman.html) |
+| 2026-09-24 | How Paramount Won Warner Bros. | NYT · Business | Business | news | 2026-09-22 | [link](https://www.nytimes.com/2026/09/22/business/paramount-warner-bros-ellison-bonta.html) |
+| 2026-09-24 | Where Is the U.S. Beating China on A.I., and Where Is It Lagging? | NYT · Economy | Economy | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html) |
+| 2026-09-24 | Anthropic Pursues IPO Despite Its A.I. Safety Warnings | NYT · Technology | Technology | news | 2026-09-21 | [link](https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html) |
+| 2026-09-24 | Trump and Xi Are Expected to Discuss Accusations of Copying American A.I. Tech | NYT · Politics | Politics | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/us/politics/trump-xi-ai-copying-china.html) |
+| 2026-09-24 | Rising Interest Rates Are Causing Alarm. Here’s What to Know. | NYT · Business | Business | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/25/business/interest-rates-economy-markets-inflation-mortgages.html) |
+| 2026-09-24 | America’s A.I. Leaders Warn U.N. of Possible Peril Absent a Global Response | NYT · Technology | Technology | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/23/us/politics/ai-leaders-united-nations-global-response.html) |
+| 2026-09-24 | Pandas and Eagles and A.I., Oh My! Trump Throws a State Dinner for Xi | NYT · Politics | Politics | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/24/us/politics/state-dinner-scene.html) |
+| 2026-09-24 | Jensen Huang Thinks A.I. Alarmism Has Gone Too Far | NYT · Opinion | Opinion | opinion | 2026-09-23 | [link](https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html) |
+| 2026-09-24 | OCP Global Summit 2026: Innovation Village & Future Technologies Symposium (FTS) Demo Lineup | Open Compute Project · AI Infrastructure | Infrastructure | tech | 2026-09-24 | [link](https://www.opencompute.org/blog/ocp-global-summit-2026-innovation-village-and-future-technologies-symposium-fts-demo-lineup) |
+| 2026-09-24 | Engineering the Substation Exit for Reliability, Capacity, and Expansion | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-09-24 | [link](https://content.knowledgehub.wiley.com/aerial-cable-systems-for-substation-exit-construction/) |
+| 2026-09-24 | Oracle issues force majeure notice to Blue Owl following series of setbacks at Project Jupiter data  | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-24 | [link](https://www.datacenterdynamics.com/en/news/oracle-issues-force-majeure-notice-to-blue-owl-following-series-of-setbacks-at-project-jupiter-data-center-campus-report/) |
+| 2026-09-24 | Boldyn Networks picked to deploy private network at Ontario International Airport in California | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-24 | [link](https://www.datacenterdynamics.com/en/news/boldyn-networks-picked-to-deploy-private-network-at-ontario-international-airport-in-california/) |
+| 2026-09-24 | Startup Tests Offshore Geothermal Power | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-09-24 | [link](https://spectrum.ieee.org/offshore-geothermal-energy) |
+| 2026-09-24 | Most new US power is clean — but utilities are choosing gas for data centers | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-24 | [link](https://www.latitudemedia.com/news/most-new-us-power-is-clean-but-utilities-are-choosing-gas-for-data-centers/) |
+| 2026-09-24 | ‘Apple Opens Apple Music Hall, a State-of-the-Art Live Music Venue in London’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-24 | [link](https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/) |
+| 2026-09-24 | Joanna Stern Interviews Mark Zuckerberg | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-24 | [link](https://thenewthings.com/p/exclusive-mark-zuckerberg-interview) |
+| 2026-09-24 | datasette 1.0a41 | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-24 | [link](https://simonwillison.net/2026/Sep/24/datasette/) |
+| 2026-09-24 | Some thoughts on HTML's proposed previewsrc attribute | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-09-24 | [link](https://shkspr.mobi/blog/2026/09/some-thoughts-on-htmls-proposed-previewsrc-attribute/) |
+| 2026-09-24 | commit-rewriter 0.2 | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-24 | [link](https://simonwillison.net/2026/Sep/24/commit-rewriter/) |
+| 2026-09-24 | Jaw literally dropped. I ran the prompt from the "Made entirely with Opus 5.5" post on my own projec | Reddit | Business | social | 2026-09-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wovwao/jaw_literally_dropped_i_ran_the_prompt_from_the/) |
+| 2026-09-24 | Here is what happens when you click the one-time "Reset" button. | Reddit | Business | social | 2026-09-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1woqsqi/here_is_what_happens_when_you_click_the_onetime/) |
+| 2026-09-24 | Anthropic to include Fable 5 usage in Pro plans | Reddit | Business | social | 2026-09-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wp7ofj/anthropic_to_include_fable_5_usage_in_pro_plans/) |
+| 2026-09-24 | How did they do it? | Reddit | Business | social | 2026-09-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wpdyms/how_did_they_do_it/) |
+| 2026-09-24 | What is wrong with Opus 5.5? | Reddit | Business | social | 2026-09-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wp1yht/what_is_wrong_with_opus_55/) |
+| 2026-09-24 | Claude Opus 5.5 Mad defeats Astra 🔥 | Reddit | Business | social | 2026-09-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wpb5hd/claude_opus_55_mad_defeats_astra/) |
+| 2026-09-24 | I see why developers get irritated by vibe coders | Reddit | Business | social | 2026-09-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wp75ay/i_see_why_developers_get_irritated_by_vibe_coders/) |
+| 2026-09-24 | I gave Opus 5.5 four reference images and "build this game". It built a full 3D chess roguelite in G | Reddit | Business | social | 2026-09-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wp8uxb/i_gave_opus_55_four_reference_images_and_build/) |
+| 2026-09-24 | What's one thing you use Claude for that isn't coding? | Reddit | Business | social | 2026-09-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1woxpeg/whats_one_thing_you_use_claude_for_that_isnt/) |
+| 2026-09-24 | claude made a rap and music video about itself (entirely in typescript with opus 5.5) | Reddit | Business | social | 2026-09-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1woy70m/claude_made_a_rap_and_music_video_about_itself/) |
+| 2026-09-24 | got mogged by claude opus 😭 | Reddit | Business | social | 2026-09-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wov62z/got_mogged_by_claude_opus/) |
+| 2026-09-24 | I still don't understand this 'agentic workflow' thing | Reddit | Business | social | 2026-09-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wowilt/i_still_dont_understand_this_agentic_workflow/) |
+| 2026-09-24 | After this week’s announcement | Reddit | Business | social | 2026-09-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1worsco/after_this_weeks_announcement/) |
+| 2026-09-24 | Please don't nerf Opus 5.5 | Reddit | Business | social | 2026-09-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wp4ywp/please_dont_nerf_opus_55/) |
+| 2026-09-24 | The Agentic Loop is OUTDATED | Reddit | Business | social | 2026-09-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wp9nga/the_agentic_loop_is_outdated/) |
+| 2026-09-24 | Notebook Navigator just passed 1 million downloads. Thank you! | Reddit | Business | social | 2026-09-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wov38g/notebook_navigator_just_passed_1_million/) |
+| 2026-09-24 | Cursor-Smith 1.6.4 is out with New & Improved stuff | Reddit | Business | social | 2026-09-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wpc3ui/cursorsmith_164_is_out_with_new_improved_stuff/) |
+| 2026-09-24 | What do y'all want next: an offline handwriting plugin, or a more featureful one? | Reddit | Business | social | 2026-09-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wp33vn/what_do_yall_want_next_an_offline_handwriting/) |
+| 2026-09-24 | I like to use Obsidian but.... Torn between Obsidian and RemNote because of flashcards | Reddit | Business | social | 2026-09-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1woorzz/i_like_to_use_obsidian_but_torn_between_obsidian/) |
+| 2026-09-24 | obsidion customization | Reddit | Business | social | 2026-09-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wp9n1h/obsidion_customization/) |
+| 2026-09-24 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-23 | Italian parliament votes for return to nuclear energy | HN | Technology | tech | 2026-09-23 | [link](https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567) |
 | 2026-09-23 | Jev in 25 Lines of Python | HN | Technology | tech | 2026-09-23 | [link](https://www.nobodywho.ai/posts/jev-in-25-lines/) |
 | 2026-09-23 | Claude discovers a novel enzyme system with CRISPR-like repeats | HN | Technology | tech | 2026-09-23 | [link](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) |

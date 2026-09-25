@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-24 · 498 days · 4980 stories*
+*Last updated: 2026-09-25 · 499 days · 4990 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-24 | Thursday | 1 | F-Droid 2.0 | 1251 | 352 | Technology | [link](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) · [HN](https://news.ycombinator.com/item?id=49831968) |
+| 2026-09-24 | Thursday | 2 | Meta takes down a critical video about meta AI Glasses after filming at Meta | 611 | 367 | Technology | [link](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/) · [HN](https://news.ycombinator.com/item?id=49827794) |
+| 2026-09-24 | Thursday | 3 | Two-tier encryption in the UK | 454 | 406 | Technology | [link](https://macanorak.com/two-tier-encryption-in-the-uk/) · [HN](https://news.ycombinator.com/item?id=49828731) |
+| 2026-09-24 | Thursday | 4 | Why is the liver so weirdly regenerative? | 411 | 208 | Technology | [link](https://dynomight.substack.com/p/liver) · [HN](https://news.ycombinator.com/item?id=49832938) |
+| 2026-09-24 | Thursday | 5 | Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design | 313 | 117 | Technology | [link](https://github.com/devdotfast/whiteboard) · [HN](https://news.ycombinator.com/item?id=49833867) |
+| 2026-09-24 | Thursday | 6 | Owners mourn spoiled food after firmware update bricks Samsung smart fridges | 296 | 301 | Technology | [link](https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/) · [HN](https://news.ycombinator.com/item?id=49829960) |
+| 2026-09-24 | Thursday | 7 | Opus 5.5 is good at explainer videos | 265 | 134 | Technology | [link](https://launchvideo.io) · [HN](https://news.ycombinator.com/item?id=49836374) |
+| 2026-09-24 | Thursday | 8 | Early rogue AI agent activity and attempts to hack found on urlquery.net | 257 | 264 | Technology | [link](https://transluce.org/agent-activity) · [HN](https://news.ycombinator.com/item?id=49826565) |
+| 2026-09-24 | Thursday | 9 | GitHub has not removed malicious imitation software after 3 weeks | 257 | 112 | Technology | [link](https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/) · [HN](https://news.ycombinator.com/item?id=49832406) |
+| 2026-09-24 | Thursday | 10 | California is chasing wealth that has feet | 236 | 654 | Technology | [link](https://blog.landeconomics.org/p/california-is-chasing-wealth-that) · [HN](https://news.ycombinator.com/item?id=49836419) |
 | 2026-09-23 | Wednesday | 1 | Italian parliament votes for return to nuclear energy | 788 | 598 | Technology | [link](https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567) · [HN](https://news.ycombinator.com/item?id=49819221) |
 | 2026-09-23 | Wednesday | 2 | Jev in 25 Lines of Python | 652 | 204 | Technology | [link](https://www.nobodywho.ai/posts/jev-in-25-lines/) · [HN](https://news.ycombinator.com/item?id=49812769) |
 | 2026-09-23 | Wednesday | 3 | Claude discovers a novel enzyme system with CRISPR-like repeats | 650 | 670 | Technology | [link](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) · [HN](https://news.ycombinator.com/item?id=49820134) |
