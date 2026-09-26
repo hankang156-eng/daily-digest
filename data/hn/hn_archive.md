@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-25 · 499 days · 4990 stories*
+*Last updated: 2026-09-26 · 500 days · 5000 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-25 | Friday | 1 | Dutch governments builds alternative for Microsoft based on NixOS | 959 | 552 | Technology | [link](https://www.dawo.community/en/) · [HN](https://news.ycombinator.com/item?id=49841563) |
+| 2026-09-25 | Friday | 2 | Revealing the details of how OpenAI agents hacked Hugging Face | 490 | 299 | Technology | [link](https://swarmtraces.org/) · [HN](https://news.ycombinator.com/item?id=49849985) |
+| 2026-09-25 | Friday | 3 | Ollaya – Ollama for open-source, Jev-style decision models | 462 | 117 | Technology | [link](https://ollaya.dev/) · [HN](https://news.ycombinator.com/item?id=49848269) |
+| 2026-09-25 | Friday | 4 | U.S. appeals court upholds designation of Anthropic as supply chain risk | 445 | 773 | Technology | [link](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html) · [HN](https://news.ycombinator.com/item?id=49845977) |
+| 2026-09-25 | Friday | 5 | Platform-independent SIMD in Go | 388 | 141 | Technology | [link](https://go.dev/blog/simd-experiment) · [HN](https://news.ycombinator.com/item?id=49843269) |
+| 2026-09-25 | Friday | 6 | Git-bug: Distributed, offline-first bug tracker embedded in Git | 334 | 108 | Technology | [link](https://github.com/git-bug/git-bug) · [HN](https://news.ycombinator.com/item?id=49843174) |
+| 2026-09-25 | Friday | 7 | Factorio that you can touch | 333 | 115 | Technology | [link](https://factorio.com/blog/post/fff-447) · [HN](https://news.ycombinator.com/item?id=49845133) |
+| 2026-09-25 | Friday | 8 | Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini | 274 | 119 | Technology | [link](https://nyaa.sh/reviews/mac-mini-m6-emulation) · [HN](https://news.ycombinator.com/item?id=49841285) |
+| 2026-09-25 | Friday | 9 | First Principles Thinking | 264 | 112 | Technology | [link](https://sunilsadasivan.com/writing/first-principles-thinking/) · [HN](https://news.ycombinator.com/item?id=49844736) |
+| 2026-09-25 | Friday | 10 | Goodbye Google | 250 | 312 | Technology | [link](https://robert.ocallahan.org/2026/09/goodbye-google.html) · [HN](https://news.ycombinator.com/item?id=49840314) |
 | 2026-09-24 | Thursday | 1 | F-Droid 2.0 | 1251 | 352 | Technology | [link](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) · [HN](https://news.ycombinator.com/item?id=49831968) |
 | 2026-09-24 | Thursday | 2 | Meta takes down a critical video about meta AI Glasses after filming at Meta | 611 | 367 | Technology | [link](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/) · [HN](https://news.ycombinator.com/item?id=49827794) |
 | 2026-09-24 | Thursday | 3 | Two-tier encryption in the UK | 454 | 406 | Technology | [link](https://macanorak.com/two-tier-encryption-in-the-uk/) · [HN](https://news.ycombinator.com/item?id=49828731) |

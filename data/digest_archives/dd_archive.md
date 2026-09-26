@@ -1,9 +1,77 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-25 · 7961 items*
+*Last updated: 2026-09-26 · 8029 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-25 | Dutch governments builds alternative for Microsoft based on NixOS | HN | Technology | tech | 2026-09-25 | [link](https://www.dawo.community/en/) |
+| 2026-09-25 | Revealing the details of how OpenAI agents hacked Hugging Face | HN | Technology | tech | 2026-09-25 | [link](https://swarmtraces.org/) |
+| 2026-09-25 | Ollaya – Ollama for open-source, Jev-style decision models | HN | Technology | tech | 2026-09-25 | [link](https://ollaya.dev/) |
+| 2026-09-25 | U.S. appeals court upholds designation of Anthropic as supply chain risk | HN | Technology | tech | 2026-09-25 | [link](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html) |
+| 2026-09-25 | Platform-independent SIMD in Go | HN | Technology | tech | 2026-09-25 | [link](https://go.dev/blog/simd-experiment) |
+| 2026-09-25 | Git-bug: Distributed, offline-first bug tracker embedded in Git | HN | Technology | tech | 2026-09-25 | [link](https://github.com/git-bug/git-bug) |
+| 2026-09-25 | Factorio that you can touch | HN | Technology | tech | 2026-09-25 | [link](https://factorio.com/blog/post/fff-447) |
+| 2026-09-25 | Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini | HN | Technology | tech | 2026-09-25 | [link](https://nyaa.sh/reviews/mac-mini-m6-emulation) |
+| 2026-09-25 | First Principles Thinking | HN | Technology | tech | 2026-09-25 | [link](https://sunilsadasivan.com/writing/first-principles-thinking/) |
+| 2026-09-25 | Goodbye Google | HN | Technology | tech | 2026-09-25 | [link](https://robert.ocallahan.org/2026/09/goodbye-google.html) |
+| 2026-09-25 | Ink and Switch interactive homepage | HN | Technology | tech | 2026-09-25 | [link](https://www.inkandswitch.com/) |
+| 2026-09-25 | Jury finds Facebook liable for deceiving users in Cambridge Analytica case | HN | Technology | tech | 2026-09-25 | [link](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/) |
+| 2026-09-25 | How we learned to stop worrying and love campus surveillance | HN | Technology | tech | 2026-09-25 | [link](https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/) |
+| 2026-09-25 | Show HN: Jev Plays Pokémon Red | HN | Technology | tech | 2026-09-25 | [link](https://jev-pokemon.vercel.app/) |
+| 2026-09-25 | What even is an OS now? | HN | Technology | tech | 2026-09-25 | [link](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/) |
+| 2026-09-25 | Gravity seems holographic. What does that mean for reality? | HN | Technology | tech | 2026-09-25 | [link](https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/) |
+| 2026-09-25 | The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far | NYT · Technology | Technology | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/25/podcasts/hardfork-ezra-klein-jensen-huang.html) |
+| 2026-09-25 | Tech Titans Mingle With Trump and Xi at State Dinner | NYT · Economy | Economy | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/24/business/economy/tech-executives-state-dinner-xi-trump.html) |
+| 2026-09-25 | Anthropic’s Blacklisting by the Pentagon Was Legal, Federal Judges Rule | NYT · Technology | Technology | news | 2026-09-26 | [link](https://www.nytimes.com/2026/09/25/technology/anthropic-trump-ruling.html) |
+| 2026-09-25 | OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites | NYT · Technology | Technology | news | 2026-09-26 | [link](https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html) |
+| 2026-09-25 | How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector | NYT · Technology | Technology | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html) |
+| 2026-09-25 | A Spirited Battle Over Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/climate/a-spirited-battle-over-data-centers.html) |
+| 2026-09-25 | Trump Proposes $810 Million in Education and Health Cuts, Defying Congress | NYT · Politics | Politics | news | 2026-09-26 | [link](https://www.nytimes.com/2026/09/25/us/politics/white-house-rescissions-education-and-health-funds.html) |
+| 2026-09-25 | China’s Xi Snubs a Troubled U.N. for Trump, Overshadowing Its Big Week | NYT · Politics | Politics | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/25/us/politics/trump-china-united-nations.html) |
+| 2026-09-25 | Are the Current Laws Enough to Regulate A.I.? | NYT · Opinion | Opinion | opinion | 2026-09-25 | [link](https://www.nytimes.com/video/opinion/100000011166609/are-the-current-laws-enough-to-regulate-ai.html) |
+| 2026-09-25 | Why a U.S. Diesel Export Ban May Not Lower Prices | NYT · Energy & Environment | Energy & Environment | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/25/business/energy-environment/trump-diesel-export-ban.html) |
+| 2026-09-25 | Judge Dismisses Unusual Climate Suit Claiming Oil Giants Broke Antitrust Law | NYT · Energy & Environment | Energy & Environment | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/22/climate/michigan-antitrust-lawsuit-oil-companies.html) |
+| 2026-09-25 | Trump, Xi and the Tech Moguls | NYT · Business | Business | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/25/business/dealbook/trump-xi-tech-ceos-state-dinner.html) |
+| 2026-09-25 | Airline Credit Cards Are Messing Up the Whole Industry | NYT · Opinion | Opinion | opinion | 2026-09-25 | [link](https://www.nytimes.com/2026/09/24/opinion/flights-airlines-spirit-loyalty-credit-cards.html) |
+| 2026-09-25 | Saudi Arabia Open to Possibly Developing Nuclear Weapons | NYT · Politics | Politics | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/25/us/politics/saudi-arabia-nuclear-weapons.html) |
+| 2026-09-25 | Dear Congress: Here’s What You Should Ask A.I. Leaders | NYT · Opinion | Opinion | opinion | 2026-09-25 | [link](https://www.nytimes.com/2026/09/24/opinion/congress-ai-sam-altman.html) |
+| 2026-09-25 | A.I. Safety Concerns Go Global | NYT · Business | Business | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/business/dealbook/ai-safety-concerns-go-global.html) |
+| 2026-09-25 | Trump’s Diesel Dilemma | NYT · DealBook | DealBook | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/23/business/dealbook/trump-diesel-dilemma.html) |
+| 2026-09-25 | Adding a Child to Your Car Insurance? Here Are Ways to Hold Down the Costs. | NYT · Business | Business | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/25/your-money/car-insurance-child-costs.html) |
+| 2026-09-25 | How to Regulate A.I. | NYT · Opinion | Opinion | opinion | 2026-09-25 | [link](https://www.nytimes.com/video/opinion/100000011166038/how-to-regulate-ai.html) |
+| 2026-09-25 | Where Is the U.S. Beating China on A.I., and Where Is It Lagging? | NYT · Economy | Economy | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html) |
+| 2026-09-25 | DensityAI: Chip startup founded by former Tesla Dojo execs valued at $10bn – report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-25 | [link](https://www.datacenterdynamics.com/en/news/ai-chip-startup-founded-by-former-tesla-dojo-execs-valued-at-10bn-report/) |
+| 2026-09-25 | OCP Global Summit 2026: Innovation Village & Future Technologies Symposium (FTS) Demo Lineup | Open Compute Project · AI Infrastructure | Infrastructure | tech | 2026-09-25 | [link](https://www.opencompute.org/blog/ocp-global-summit-2026-innovation-village-and-future-technologies-symposium-fts-demo-lineup) |
+| 2026-09-25 | Thailand set to finalize new data center regulations by mid-October - report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-25 | [link](https://www.datacenterdynamics.com/en/news/thailand-set-to-finalize-new-data-center-regulations-by-mid-october-report/) |
+| 2026-09-25 | FERC rejects Oklo complaint seeking to reinstate project to PJM’s interconnection study cycle | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-25 | [link](https://www.utilitydive.com/news/ferc-rejects-oklo-complaint-pjm-interconnection/831357/) |
+| 2026-09-25 | What China’s clean power advantage means for the AI race | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-25 | [link](https://www.latitudemedia.com/news/what-chinas-clean-power-advantage-means-for-the-ai-race/) |
+| 2026-09-25 | Second federal judge overturns $7B Solar for All cancellation by Trump administration | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-25 | [link](https://www.utilitydive.com/news/second-federal-judge-overturns-7b-solar-for-all-cancellation-by-trump-admi/831371/) |
+| 2026-09-25 | Regarding the Provenance of Charm Within Meta | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-25 | [link](https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNzg4MCwiZXhwIjoxNzkwODEyNjgwLCJhcnRpY2xlSWQiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.k7amXXn8zTVQuiTpQIE0Q_IJY9ny_TINEpSrguxIva8&leadSource=article-gifting) |
+| 2026-09-25 | Quoting John Gruber | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-25 | [link](https://simonwillison.net/2026/Sep/25/john-gruber/) |
+| 2026-09-25 | Muse Looks Cute, but Looks Are Deceiving | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-25 | [link](https://www.inc.com/jason-aten/meta-keeps-apologizing-for-muse-its-explanations-miss-the-point-entirely/91409363) |
+| 2026-09-25 | U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions | Krebs on Security · Security & Privacy | Security | tech | 2026-09-25 | [link](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/) |
+| 2026-09-25 | Northern Gannet, Great Blue Heron, California Brown Pelican | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-25 | [link](https://simonwillison.net/2026/Sep/25/sighting-403293902/) |
+| 2026-09-25 | Testing Claude for 3D creation. Max took a whole hour, but just look at the result 👀 | Reddit | Business | social | 2026-09-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wpq8by/testing_claude_for_3d_creation_max_took_a_whole/) |
+| 2026-09-25 | Claude Opus evolution is getting out of hand 😭 | Reddit | Business | social | 2026-09-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wprgxw/claude_opus_evolution_is_getting_out_of_hand/) |
+| 2026-09-25 | Real talk: If Anthropic never nerfs Opus 5.5, I will keep my Max subscription for years... | Reddit | Business | social | 2026-09-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wpluhu/real_talk_if_anthropic_never_nerfs_opus_55_i_will/) |
+| 2026-09-25 | I made this playable Pokémon battle demo using Opus 5.5 | Reddit | Business | social | 2026-09-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wqb1ur/i_made_this_playable_pokémon_battle_demo_using/) |
+| 2026-09-25 | Anthropic signs $11.6B cloud deal with Akamai | Reddit | Business | social | 2026-09-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wpto23/anthropic_signs_116b_cloud_deal_with_akamai/) |
+| 2026-09-25 | Your AI games suck, and it's not the AI's fault | Reddit | Business | social | 2026-09-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wpzqxn/your_ai_games_suck_and_its_not_the_ais_fault/) |
+| 2026-09-25 | Anthropic killed it with Opus 5.5! | Reddit | Business | social | 2026-09-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wpps13/anthropic_killed_it_with_opus_55/) |
+| 2026-09-25 | Claude Code Wrap Up Allowance! | Reddit | Business | social | 2026-09-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wpxur6/claude_code_wrap_up_allowance/) |
+| 2026-09-25 | claude starting planning a pizza party for me? | Reddit | Business | social | 2026-09-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wplbm3/claude_starting_planning_a_pizza_party_for_me/) |
+| 2026-09-25 | Week 3 Update: Building a cozy game with no game dev experience. He rolls now!! | Reddit | Business | social | 2026-09-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wpjvuy/week_3_update_building_a_cozy_game_with_no_game/) |
+| 2026-09-25 | Claude added graceful stopping point in new update | Reddit | Business | social | 2026-09-25 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wqagzu/claude_added_graceful_stopping_point_in_new_update/) |
+| 2026-09-25 | This whole universe rendered in ASCII text characters. A dream project finally come true | Reddit | Business | social | 2026-09-25 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wq6aqf/this_whole_universe_rendered_in_ascii_text/) |
+| 2026-09-25 | Claude is saving my family hundreds of dollars | Reddit | Business | social | 2026-09-25 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wpmq18/claude_is_saving_my_family_hundreds_of_dollars/) |
+| 2026-09-25 | Pretty much this | Reddit | Business | social | 2026-09-25 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wplcu1/pretty_much_this/) |
+| 2026-09-25 | New 5.5 Safe guards are a joke | Reddit | Business | social | 2026-09-25 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wpqqoy/new_55_safe_guards_are_a_joke/) |
+| 2026-09-25 | [1.0] Third Mind Reader: EPUB & PDF reading in Obsidian, highlights as real notes | Reddit | Business | social | 2026-09-25 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wq25a8/10_third_mind_reader_epub_pdf_reading_in_obsidian/) |
+| 2026-09-25 | Four things I learned throughout the last years working with AI | Reddit | Business | social | 2026-09-25 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wptcsf/four_things_i_learned_throughout_the_last_years/) |
+| 2026-09-25 | For Fun: Forget simplicity, tell me the most convoluted way you used Obsidian | Reddit | Business | social | 2026-09-25 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wpmnmx/for_fun_forget_simplicity_tell_me_the_most/) |
+| 2026-09-25 | My Boards | Reddit | Business | social | 2026-09-25 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wpu9qe/my_boards/) |
+| 2026-09-25 | Solenoid Properties is my new plugin that extends Obsidian's property types with single-type data ob | Reddit | Business | social | 2026-09-25 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wq39js/solenoid_properties_is_my_new_plugin_that_extends/) |
+| 2026-09-25 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-24 | F-Droid 2.0 | HN | Technology | tech | 2026-09-24 | [link](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) |
 | 2026-09-24 | Meta takes down a critical video about meta AI Glasses after filming at Meta | HN | Technology | tech | 2026-09-24 | [link](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/) |
 | 2026-09-24 | Two-tier encryption in the UK | HN | Technology | tech | 2026-09-24 | [link](https://macanorak.com/two-tier-encryption-in-the-uk/) |
