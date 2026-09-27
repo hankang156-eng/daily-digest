@@ -1,9 +1,56 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-26 · 8029 items*
+*Last updated: 2026-09-27 · 8076 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-26 | As A.I. Accelerates, Governments Are Increasingly Being Left Behind | NYT · Technology | Technology | news | 2026-09-27 | [link](https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html) |
+| 2026-09-26 | As A.I. Makes Law Firms More Efficient, Clients Ask: ‘Where’s My Discount?’ | NYT · Business | Business | news | 2026-09-26 | [link](https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html) |
+| 2026-09-26 | OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites | NYT · Technology | Technology | news | 2026-09-26 | [link](https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html) |
+| 2026-09-26 | Anthropic’s Blacklisting by the Pentagon Was Legal, Federal Judges Rule | NYT · Technology | Technology | news | 2026-09-26 | [link](https://www.nytimes.com/2026/09/25/technology/anthropic-trump-ruling.html) |
+| 2026-09-26 | Trump Proposes $810 Million in Education and Health Cuts, Defying Congress | NYT · Politics | Politics | news | 2026-09-26 | [link](https://www.nytimes.com/2026/09/25/us/politics/white-house-rescissions-education-and-health-funds.html) |
+| 2026-09-26 | The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far | NYT · Technology | Technology | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/25/podcasts/hardfork-ezra-klein-jensen-huang.html) |
+| 2026-09-26 | Tech Titans Mingle With Trump and Xi at State Dinner | NYT · Economy | Economy | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/24/business/economy/tech-executives-state-dinner-xi-trump.html) |
+| 2026-09-26 | A Spirited Battle Over Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/climate/a-spirited-battle-over-data-centers.html) |
+| 2026-09-26 | Judge Dismisses Unusual Climate Suit Claiming Oil Giants Broke Antitrust Law | NYT · Energy & Environment | Energy & Environment | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/22/climate/michigan-antitrust-lawsuit-oil-companies.html) |
+| 2026-09-26 | How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector | NYT · Technology | Technology | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html) |
+| 2026-09-26 | Are the Current Laws Enough to Regulate A.I.? | NYT · Opinion | Opinion | opinion | 2026-09-25 | [link](https://www.nytimes.com/video/opinion/100000011166609/are-the-current-laws-enough-to-regulate-ai.html) |
+| 2026-09-26 | High Gas and Rising Mortgage Rates Trouble Trump as Midterms Near | NYT · Business | Business | news | 2026-09-26 | [link](https://www.nytimes.com/2026/09/26/business/trump-economy-midterm-elections.html) |
+| 2026-09-26 | A.I. Safety Concerns Go Global | NYT · Business | Business | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/business/dealbook/ai-safety-concerns-go-global.html) |
+| 2026-09-26 | What Happens if the A.I. Bubble Bursts | NYT · Opinion | Opinion | opinion | 2026-09-26 | [link](https://www.nytimes.com/2026/09/26/opinion/ai-bubble-banking-crisis-too-big-to-fail.html) |
+| 2026-09-26 | Fed Faces Prospect of Another Interest Rate Increase Just Before Midterm Elections | NYT · Business | Business | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/25/business/fed-interest-rates-midterms.html) |
+| 2026-09-26 | Airline Credit Cards Are Messing Up the Whole Industry | NYT · Opinion | Opinion | opinion | 2026-09-25 | [link](https://www.nytimes.com/2026/09/24/opinion/flights-airlines-spirit-loyalty-credit-cards.html) |
+| 2026-09-26 | Saudi Arabia Open to Possibly Developing Nuclear Weapons | NYT · Politics | Politics | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/25/us/politics/saudi-arabia-nuclear-weapons.html) |
+| 2026-09-26 | Dear Congress: Here’s What You Should Ask A.I. Leaders | NYT · Opinion | Opinion | opinion | 2026-09-25 | [link](https://www.nytimes.com/2026/09/24/opinion/congress-ai-sam-altman.html) |
+| 2026-09-26 | Where Is the U.S. Beating China on A.I., and Where Is It Lagging? | NYT · Economy | Economy | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html) |
+| 2026-09-26 | Texas Halts Data Center Permits, Expanding Environmental Scrutiny | NYT · Energy & Environment | Energy & Environment | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/22/climate/texas-halts-data-center-permits.html) |
+| 2026-09-26 | Sponsored: Sustainable data center backup power is a strategy, not a battery chemistry | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-26 | [link](https://www.datacenterdynamics.com/en/opinions/sustainable-data-center-backup-power-is-a-strategy-not-a-battery-chemistry/) |
+| 2026-09-26 | AI infrastructure will define the next industrial revolution | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-26 | [link](https://www.datacenterdynamics.com/en/opinions/ai-infrastructure-will-define-the-next-industrial-revolution/) |
+| 2026-09-26 | The Talk Show: ‘I’m Thinking X, Not X’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-26 | [link](https://daringfireball.net/thetalkshow/2026/09/25/ep-455) |
+| 2026-09-26 | International Standard Paper Sizes | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-26 | [link](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html) |
+| 2026-09-26 | Kākāpō Party | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-26 | [link](https://simonwillison.net/2026/Sep/26/kakapo-party/) |
+| 2026-09-26 | No errors, no warnings, no gods, no masters - HTML Purity is a Fetish | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-09-26 | [link](https://shkspr.mobi/blog/2026/09/no-errors-no-warnings-no-gods-no-masters-html-purity-is-a-fetish/) |
+| 2026-09-26 | I built my own Monarch-style finance dashboard with Opus 5.5 for less than $20 | Reddit | Business | social | 2026-09-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wr140j/i_built_my_own_monarchstyle_finance_dashboard/) |
+| 2026-09-26 | WTF? | Reddit | Business | social | 2026-09-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wqgg66/wtf/) |
+| 2026-09-26 | Aight I get it, Opus 5.5 is actually peak | Reddit | Business | social | 2026-09-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wqcara/aight_i_get_it_opus_55_is_actually_peak/) |
+| 2026-09-26 | I gave Opus 5.5 my Minecraft mod file and told it to create a Trailer | Reddit | Business | social | 2026-09-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wqly15/i_gave_opus_55_my_minecraft_mod_file_and_told_it/) |
+| 2026-09-26 | Elon Musk admits Grok isn’t as good as Anthropic’s Claude | Reddit | Business | social | 2026-09-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wqzu96/elon_musk_admits_grok_isnt_as_good_as_anthropics/) |
+| 2026-09-26 | Opus 5.5 is my favorite model ever, by far | Reddit | Business | social | 2026-09-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wqprkt/opus_55_is_my_favorite_model_ever_by_far/) |
+| 2026-09-26 | Opus 5.5 picked Squirtle because of Brock. Fable 5.1 picked Charmander because it was the closest ba | Reddit | Business | social | 2026-09-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wqzubb/opus_55_picked_squirtle_because_of_brock_fable_51/) |
+| 2026-09-26 | It is scary thinking the era of these subscriptions will come to an end not long from now | Reddit | Business | social | 2026-09-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wqtnng/it_is_scary_thinking_the_era_of_these/) |
+| 2026-09-26 | I built a news-driven world map of current conflicts with Claude Code | Reddit | Business | social | 2026-09-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wqztx3/i_built_a_newsdriven_world_map_of_current/) |
+| 2026-09-26 | Opus 5.5 is amazing. I built a whole cozy pixel game for my daughter, and it even made the trailer | Reddit | Business | social | 2026-09-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wr4twl/opus_55_is_amazing_i_built_a_whole_cozy_pixel/) |
+| 2026-09-26 | Me After Opus 5.5 Release | Reddit | Business | social | 2026-09-26 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wqnh3q/me_after_opus_55_release/) |
+| 2026-09-26 | It’s just so good! | Reddit | Business | social | 2026-09-26 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wqtk1l/its_just_so_good/) |
+| 2026-09-26 | Fable 5.1 - Live Vehicle Diagnostics | Reddit | Business | social | 2026-09-26 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wquoxy/fable_51_live_vehicle_diagnostics/) |
+| 2026-09-26 | Opus 5.5 has absolutely restored value to the 200$ plan, feels like 2025 | Reddit | Business | social | 2026-09-26 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wqsz67/opus_55_has_absolutely_restored_value_to_the_200/) |
+| 2026-09-26 | Is everyone here millionaires | Reddit | Business | social | 2026-09-26 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wr0wic/is_everyone_here_millionaires/) |
+| 2026-09-26 | Family tree | Reddit | Business | social | 2026-09-26 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wr22jq/family_tree/) |
+| 2026-09-26 | What's actually inside your daily or weekly notes? | Reddit | Business | social | 2026-09-26 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wqm1dc/whats_actually_inside_your_daily_or_weekly_notes/) |
+| 2026-09-26 | I made a cleaner Obsidian Tasks list style (Priority Colors · Single-Line Fade · Monochrome Icons ·  | Reddit | Business | social | 2026-09-26 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wqtrbv/i_made_a_cleaner_obsidian_tasks_list_style/) |
+| 2026-09-26 | I built a handwriting companion for Obsidian on iPad. Looking for TestFlight beta testers. | Reddit | Business | social | 2026-09-26 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wqnipy/i_built_a_handwriting_companion_for_obsidian_on/) |
+| 2026-09-26 | Four months on: the browser Obsidian experiment now has local vaults and no public demo | Reddit | Business | social | 2026-09-26 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wqux1w/four_months_on_the_browser_obsidian_experiment/) |
+| 2026-09-26 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-25 | Dutch governments builds alternative for Microsoft based on NixOS | HN | Technology | tech | 2026-09-25 | [link](https://www.dawo.community/en/) |
 | 2026-09-25 | Revealing the details of how OpenAI agents hacked Hugging Face | HN | Technology | tech | 2026-09-25 | [link](https://swarmtraces.org/) |
 | 2026-09-25 | Ollaya – Ollama for open-source, Jev-style decision models | HN | Technology | tech | 2026-09-25 | [link](https://ollaya.dev/) |
