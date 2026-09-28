@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-26 · 500 days · 5000 stories*
+*Last updated: 2026-09-28 · 501 days · 5010 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-27 | Sunday | 1 | When did Google get so weird? | 1297 | 716 | Technology | [link](https://sancho.bearblog.dev/google-weird/) · [HN](https://news.ycombinator.com/item?id=49870367) |
+| 2026-09-27 | Sunday | 2 | Owed a billion dollars in Nvidia stock | 690 | 290 | Technology | [link](https://colo.to/nvidia-stock-narrative.html) · [HN](https://news.ycombinator.com/item?id=49872723) |
+| 2026-09-27 | Sunday | 3 | Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI | 614 | 601 | Technology | [link](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) · [HN](https://news.ycombinator.com/item?id=49863864) |
+| 2026-09-27 | Sunday | 4 | Ember-1 | 460 | 214 | Technology | [link](https://fireworks.ai/blog/ember-1) · [HN](https://news.ycombinator.com/item?id=49868830) |
+| 2026-09-27 | Sunday | 5 | Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election | 442 | 294 | Technology | [link](https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/) · [HN](https://news.ycombinator.com/item?id=49864642) |
+| 2026-09-27 | Sunday | 6 | On caring for user data: NeoVim caused Vim undo files to be deleted | 372 | 327 | Technology | [link](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/) · [HN](https://news.ycombinator.com/item?id=49867067) |
+| 2026-09-27 | Sunday | 7 | There are no "rogue" AI agents | 367 | 251 | Technology | [link](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents) · [HN](https://news.ycombinator.com/item?id=49868083) |
+| 2026-09-27 | Sunday | 8 | Tells of a Slop UI | 367 | 232 | Technology | [link](https://hereticpleb.vercel.app/blog/10-tells-of-slop) · [HN](https://news.ycombinator.com/item?id=49867038) |
+| 2026-09-27 | Sunday | 9 | The Normalization of Inexplicable Failures | 265 | 108 | Technology | [link](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html) · [HN](https://news.ycombinator.com/item?id=49867486) |
+| 2026-09-27 | Sunday | 10 | Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi | 246 | 111 | Technology | [link](https://loficities.com/) · [HN](https://news.ycombinator.com/item?id=49869574) |
 | 2026-09-25 | Friday | 1 | Dutch governments builds alternative for Microsoft based on NixOS | 959 | 552 | Technology | [link](https://www.dawo.community/en/) · [HN](https://news.ycombinator.com/item?id=49841563) |
 | 2026-09-25 | Friday | 2 | Revealing the details of how OpenAI agents hacked Hugging Face | 490 | 299 | Technology | [link](https://swarmtraces.org/) · [HN](https://news.ycombinator.com/item?id=49849985) |
 | 2026-09-25 | Friday | 3 | Ollaya – Ollama for open-source, Jev-style decision models | 462 | 117 | Technology | [link](https://ollaya.dev/) · [HN](https://news.ycombinator.com/item?id=49848269) |

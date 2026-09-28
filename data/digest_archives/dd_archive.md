@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-27 · 8076 items*
+*Last updated: 2026-09-28 · 8139 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-27 | When did Google get so weird? | HN | Technology | tech | 2026-09-27 | [link](https://sancho.bearblog.dev/google-weird/) |
+| 2026-09-27 | Owed a billion dollars in Nvidia stock | HN | Technology | tech | 2026-09-27 | [link](https://colo.to/nvidia-stock-narrative.html) |
+| 2026-09-27 | Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI | HN | Technology | tech | 2026-09-27 | [link](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) |
+| 2026-09-27 | Ember-1 | HN | Technology | tech | 2026-09-27 | [link](https://fireworks.ai/blog/ember-1) |
+| 2026-09-27 | Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election | HN | Technology | tech | 2026-09-27 | [link](https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/) |
+| 2026-09-27 | On caring for user data: NeoVim caused Vim undo files to be deleted | HN | Technology | tech | 2026-09-27 | [link](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/) |
+| 2026-09-27 | There are no "rogue" AI agents | HN | Technology | tech | 2026-09-27 | [link](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents) |
+| 2026-09-27 | Tells of a Slop UI | HN | Technology | tech | 2026-09-27 | [link](https://hereticpleb.vercel.app/blog/10-tells-of-slop) |
+| 2026-09-27 | The Normalization of Inexplicable Failures | HN | Technology | tech | 2026-09-27 | [link](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html) |
+| 2026-09-27 | Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi | HN | Technology | tech | 2026-09-27 | [link](https://loficities.com/) |
+| 2026-09-27 | In an $80 motel room, a discovery to shed light on the origins of life | HN | Technology | tech | 2026-09-27 | [link](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html) |
+| 2026-09-27 | Don't couple your Go code to GitHub | HN | Technology | tech | 2026-09-27 | [link](https://iain.rocks/blog/dont-couple-your-go-code-to-github) |
+| 2026-09-27 | Self-Hosting on the Dark Web | HN | Technology | tech | 2026-09-27 | [link](https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/) |
+| 2026-09-27 | SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video] | HN | Technology | tech | 2026-09-27 | [link](https://www.youtube.com/watch?v=-Nvne3LzBls) |
+| 2026-09-27 | PostmarketOS is rebranding as Nura | HN | Technology | tech | 2026-09-27 | [link](https://nura.eco/blog/2026/09/27/nura-rename/) |
+| 2026-09-27 | Replacing the old battery on rechargeable bike lights | HN | Technology | tech | 2026-09-27 | [link](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/) |
+| 2026-09-27 | Dario Amodei of Anthropic to Dine With Trump at White House | NYT · Technology | Technology | news | 2026-09-27 | [link](https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html) |
+| 2026-09-27 | As A.I. Accelerates, Governments Are Increasingly Being Left Behind | NYT · Technology | Technology | news | 2026-09-27 | [link](https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html) |
+| 2026-09-27 | How Scientists Can Shape Public Opinion Over A.I. Risks | NYT · Business | Business | opinion | 2026-09-28 | [link](https://www.nytimes.com/2026/09/28/business/ai-scientists-protests.html) |
+| 2026-09-27 | Airline Credit Cards Are Messing Up the Whole Industry | NYT · Opinion | Opinion | opinion | 2026-09-28 | [link](https://www.nytimes.com/2026/09/24/opinion/flights-airlines-spirit-loyalty-credit-cards.html) |
+| 2026-09-27 | The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far | NYT · Technology | Technology | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/25/podcasts/hardfork-ezra-klein-jensen-huang.html) |
+| 2026-09-27 | Affordability Is a Winning Message for Democrats. But There’s an Even Better One. | NYT · Opinion | Opinion | opinion | 2026-09-28 | [link](https://www.nytimes.com/2026/09/28/opinion/affordability-democrats-midterms.html) |
+| 2026-09-27 | As A.I. Makes Law Firms More Efficient, Clients Ask: ‘Where’s My Discount?’ | NYT · Business | Business | news | 2026-09-26 | [link](https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html) |
+| 2026-09-27 | Tech Titans Mingle With Trump and Xi at State Dinner | NYT · Economy | Economy | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/24/business/economy/tech-executives-state-dinner-xi-trump.html) |
+| 2026-09-27 | A Spirited Battle Over Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/climate/a-spirited-battle-over-data-centers.html) |
+| 2026-09-27 | OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites | NYT · Technology | Technology | news | 2026-09-26 | [link](https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html) |
+| 2026-09-27 | Anthropic’s Blacklisting by the Pentagon Was Legal, Federal Judges Rule | NYT · Technology | Technology | news | 2026-09-26 | [link](https://www.nytimes.com/2026/09/25/technology/anthropic-trump-ruling.html) |
+| 2026-09-27 | How to Regulate A.I. | NYT · Opinion | Opinion | opinion | 2026-09-27 | [link](https://www.nytimes.com/video/opinion/100000011166038/how-to-regulate-ai.html) |
+| 2026-09-27 | Judge Dismisses Unusual Climate Suit Claiming Oil Giants Broke Antitrust Law | NYT · Energy & Environment | Energy & Environment | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/22/climate/michigan-antitrust-lawsuit-oil-companies.html) |
+| 2026-09-27 | Trump Proposes $810 Million in Education and Health Cuts, Defying Congress | NYT · Politics | Politics | news | 2026-09-26 | [link](https://www.nytimes.com/2026/09/25/us/politics/white-house-rescissions-education-and-health-funds.html) |
+| 2026-09-27 | Under Trump, Commodity Futures Trading Commission Scales Back Enforcement, Worrying Farmers | NYT · Economy | Economy | news | 2026-09-28 | [link](https://www.nytimes.com/2026/09/28/us/politics/cotton-trump-commodity-markets-cftc.html) |
+| 2026-09-27 | How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector | NYT · Technology | Technology | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html) |
+| 2026-09-27 | Trump’s Tariffs Push Canadian Companies to Look Past American Links | NYT · Business | Business | news | 2026-09-28 | [link](https://www.nytimes.com/2026/09/28/business/trump-tariffs-canada-diversify.html) |
+| 2026-09-27 | Job Titles Are Out. Now We’re All ‘Members of the Technical Staff.’ | NYT · Business | Business | news | 2026-09-27 | [link](https://www.nytimes.com/2026/09/27/business/members-of-technical-staff-artificial-intelligence.html) |
+| 2026-09-27 | A.I. Safety Concerns Go Global | NYT · Business | Business | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/business/dealbook/ai-safety-concerns-go-global.html) |
+| 2026-09-27 | Who’s Winning the Race for Congress? | NYT · Politics | Politics | news | 2026-09-28 | [link](https://www.nytimes.com/2026/09/28/us/whos-winning-the-race-for-congress.html) |
+| 2026-09-27 | 2026 in LLMs (so far) | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-27 | [link](https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/) |
+| 2026-09-27 | Sponsored: Speed to power: The infrastructure solutions shaping the global data center race | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-27 | [link](https://www.datacenterdynamics.com/en/opinions/speed-to-power-the-infrastructure-solutions-shaping-the-global-data-center-race/) |
+| 2026-09-27 | Beyond redundancy: Why dynamic stability matters in AI data centers | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-27 | [link](https://www.datacenterdynamics.com/en/opinions/beyond-redundancy-why-dynamic-stability-matters-in-ai-data-centers/) |
+| 2026-09-27 | Katie Notopoulos on Alexandr Wang’s ‘Faux-Hallmark Pap’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-27 | [link](https://x.com/katienotopoulos/status/2103993429659386026) |
+| 2026-09-27 | Mux: Turn Your Video Into Context | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-27 | [link](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) |
+| 2026-09-27 | Bluesky reply bot checker | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-27 | [link](https://simonwillison.net/2026/Sep/27/bluesky-bot-check/) |
+| 2026-09-27 | Gig Review: Public Service Broadcasting's Race For Space at Alexandra Palace ★★★★⯪ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-09-27 | [link](https://shkspr.mobi/blog/2026/09/gig-review-public-service-broadcastings-race-for-space-at-alexandra-palace/) |
+| 2026-09-27 | This is proving how Anthropic was taking even small details seriously during the training phase | Reddit | Business | social | 2026-09-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wrkvdw/this_is_proving_how_anthropic_was_taking_even/) |
+| 2026-09-27 | What tool have you built for yourself with Claude code that removes so much headache in your work or | Reddit | Business | social | 2026-09-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wrckhp/what_tool_have_you_built_for_yourself_with_claude/) |
+| 2026-09-27 | Is Opus 5.5 nerfed? New benchmark called LiveNerf measures this live | Reddit | Business | social | 2026-09-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wryrwx/is_opus_55_nerfed_new_benchmark_called_livenerf/) |
+| 2026-09-27 | Pokémon Claude Red: Opus 5.5 remade all of Pokémon Red and drew every pixel in code. No image files, | Reddit | Business | social | 2026-09-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wryjs1/pokémon_claude_red_opus_55_remade_all_of_pokémon/) |
+| 2026-09-27 | The best thing I do all week is have it interview me instead of me prompting it Due | Reddit | Business | social | 2026-09-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wrrl96/the_best_thing_i_do_all_week_is_have_it_interview/) |
+| 2026-09-27 | Opus 5.5 feels like the beginning of the end, and people still don't stop coping | Reddit | Business | social | 2026-09-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wrmc9b/opus_55_feels_like_the_beginning_of_the_end_and/) |
+| 2026-09-27 | Agents messaging each other is pretty cute 🥹 | Reddit | Business | social | 2026-09-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wrrzo8/agents_messaging_each_other_is_pretty_cute/) |
+| 2026-09-27 | This new usage interface is so useful | Reddit | Business | social | 2026-09-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wrlibh/this_new_usage_interface_is_so_useful/) |
+| 2026-09-27 | Ai is kinda the new Excel when it comes to recruiting talks | Reddit | Business | social | 2026-09-27 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wrkr8f/ai_is_kinda_the_new_excel_when_it_comes_to/) |
+| 2026-09-27 | Any idea what Anthropic figured out? | Reddit | Business | social | 2026-09-27 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wrpq38/any_idea_what_anthropic_figured_out/) |
+| 2026-09-27 | Opus 5.5 is the first model that consistently closes more issues than it opens | Reddit | Business | social | 2026-09-27 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wrosog/opus_55_is_the_first_model_that_consistently/) |
+| 2026-09-27 | Opus 5.5 is how it's meant to be ! | Reddit | Business | social | 2026-09-27 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wre78w/opus_55_is_how_its_meant_to_be/) |
+| 2026-09-27 | This week was so productive with opus 5.5 | Reddit | Business | social | 2026-09-27 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wrxw6k/this_week_was_so_productive_with_opus_55/) |
+| 2026-09-27 | What tool have you built for yourself with Claude code that removes so much headache in your work or | Reddit | Business | social | 2026-09-27 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wrcmjn/what_tool_have_you_built_for_yourself_with_claude/) |
+| 2026-09-27 | Been using Obsidian since March and finally got around to making my homepage look nice after seeing  | Reddit | Business | social | 2026-09-27 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wribsy/been_using_obsidian_since_march_and_finally_got/) |
+| 2026-09-27 | Cardiac arrest canvas | Reddit | Business | social | 2026-09-27 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wry26f/cardiac_arrest_canvas/) |
+| 2026-09-27 | What advice do you have for someone using Obsidian for the first time? | Reddit | Business | social | 2026-09-27 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wrby7q/what_advice_do_you_have_for_someone_using/) |
+| 2026-09-27 | Do you wonder about longevity? | Reddit | Business | social | 2026-09-27 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wror8d/do_you_wonder_about_longevity/) |
+| 2026-09-27 | Please Help me with making this. | Reddit | Business | social | 2026-09-27 | [link](https://www.reddit.com/r/ObsidianMD/comments/1writqg/please_help_me_with_making_this/) |
+| 2026-09-27 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-26 | As A.I. Accelerates, Governments Are Increasingly Being Left Behind | NYT · Technology | Technology | news | 2026-09-27 | [link](https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html) |
 | 2026-09-26 | As A.I. Makes Law Firms More Efficient, Clients Ask: ‘Where’s My Discount?’ | NYT · Business | Business | news | 2026-09-26 | [link](https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html) |
 | 2026-09-26 | OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites | NYT · Technology | Technology | news | 2026-09-26 | [link](https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html) |
