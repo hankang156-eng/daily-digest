@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-28 · 501 days · 5010 stories*
+*Last updated: 2026-09-29 · 502 days · 5020 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-28 | Monday | 1 | Sonnet 5.5 | 787 | 530 | Technology | [link](https://www.anthropic.com/claude-sonnet-5-5) · [HN](https://news.ycombinator.com/item?id=49881850) |
+| 2026-09-28 | Monday | 2 | Pirating the Pirates | 587 | 288 | Technology | [link](https://mubi.com/en/notebook/posts/pirating-the-pirates) · [HN](https://news.ycombinator.com/item?id=49880036) |
+| 2026-09-28 | Monday | 3 | Updated Google Maps shows destruction of the city of Rafah | 562 | 377 | Technology | [link](https://twitter.com/AliAbunimah/status/2103890594137309425) · [HN](https://news.ycombinator.com/item?id=49879645) |
+| 2026-09-28 | Monday | 4 | It's Time to Investigate the AI Labs | 499 | 206 | Technology | [link](https://calnewport.com/its-time-to-investigate-the-ai-labs/) · [HN](https://news.ycombinator.com/item?id=49883471) |
+| 2026-09-28 | Monday | 5 | Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms | 498 | 188 | Technology | [link](https://github.com/firelex/jeff) · [HN](https://news.ycombinator.com/item?id=49883844) |
+| 2026-09-28 | Monday | 6 | Coding is not solved | 496 | 489 | Technology | [link](https://blog.alexewerlof.com/p/coding-is-not-solved) · [HN](https://news.ycombinator.com/item?id=49877988) |
+| 2026-09-28 | Monday | 7 | Windows 11½ | 480 | 153 | Technology | [link](https://definitelynotwindows.com/) · [HN](https://news.ycombinator.com/item?id=49881747) |
+| 2026-09-28 | Monday | 8 | AI companies in race to demonstrate their model most threatening to humanity | 431 | 390 | Technology | [link](https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/) · [HN](https://news.ycombinator.com/item?id=49875148) |
+| 2026-09-28 | Monday | 9 | Kids turned low-traffic NPR Spotify comments into a secret group chat | 405 | 221 | Technology | [link](https://www.thisamericanlife.org/897/transcript) · [HN](https://news.ycombinator.com/item?id=49879697) |
+| 2026-09-28 | Monday | 10 | The problem is not AI code, but not knowing about system architecture or intent | 365 | 231 | Technology | [link](https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/) · [HN](https://news.ycombinator.com/item?id=49880312) |
 | 2026-09-27 | Sunday | 1 | When did Google get so weird? | 1297 | 716 | Technology | [link](https://sancho.bearblog.dev/google-weird/) · [HN](https://news.ycombinator.com/item?id=49870367) |
 | 2026-09-27 | Sunday | 2 | Owed a billion dollars in Nvidia stock | 690 | 290 | Technology | [link](https://colo.to/nvidia-stock-narrative.html) · [HN](https://news.ycombinator.com/item?id=49872723) |
 | 2026-09-27 | Sunday | 3 | Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI | 614 | 601 | Technology | [link](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) · [HN](https://news.ycombinator.com/item?id=49863864) |

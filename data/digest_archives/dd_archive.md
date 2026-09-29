@@ -1,9 +1,74 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-28 · 8139 items*
+*Last updated: 2026-09-29 · 8204 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-28 | Sonnet 5.5 | HN | Technology | tech | 2026-09-28 | [link](https://www.anthropic.com/claude-sonnet-5-5) |
+| 2026-09-28 | Pirating the Pirates | HN | Technology | tech | 2026-09-28 | [link](https://mubi.com/en/notebook/posts/pirating-the-pirates) |
+| 2026-09-28 | Updated Google Maps shows destruction of the city of Rafah | HN | Technology | tech | 2026-09-28 | [link](https://twitter.com/AliAbunimah/status/2103890594137309425) |
+| 2026-09-28 | It's Time to Investigate the AI Labs | HN | Technology | tech | 2026-09-28 | [link](https://calnewport.com/its-time-to-investigate-the-ai-labs/) |
+| 2026-09-28 | Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms | HN | Technology | tech | 2026-09-28 | [link](https://github.com/firelex/jeff) |
+| 2026-09-28 | Coding is not solved | HN | Technology | tech | 2026-09-28 | [link](https://blog.alexewerlof.com/p/coding-is-not-solved) |
+| 2026-09-28 | Windows 11½ | HN | Technology | tech | 2026-09-28 | [link](https://definitelynotwindows.com/) |
+| 2026-09-28 | AI companies in race to demonstrate their model most threatening to humanity | HN | Technology | tech | 2026-09-28 | [link](https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/) |
+| 2026-09-28 | Kids turned low-traffic NPR Spotify comments into a secret group chat | HN | Technology | tech | 2026-09-28 | [link](https://www.thisamericanlife.org/897/transcript) |
+| 2026-09-28 | The problem is not AI code, but not knowing about system architecture or intent | HN | Technology | tech | 2026-09-28 | [link](https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/) |
+| 2026-09-28 | MongoDB CEO resigns to join Meta | HN | Technology | tech | 2026-09-28 | [link](https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/) |
+| 2026-09-28 | Parley: Federated, decentralised chat that speaks plain IRC | HN | Technology | tech | 2026-09-28 | [link](https://git.mills.io/prologic/parley) |
+| 2026-09-28 | SpaceX's Starship launching to orbit for first time ever today | HN | Technology | tech | 2026-09-28 | [link](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live) |
+| 2026-09-28 | World Labs is Joining AMD | HN | Technology | tech | 2026-09-28 | [link](https://www.worldlabs.ai/blog/amd-announcement) |
+| 2026-09-28 | Hijacking the PS5's RTMP stream | HN | Technology | tech | 2026-09-28 | [link](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/) |
+| 2026-09-28 | MicroLLM Lab – Try 7 tiny LLM's in the browser | HN | Technology | tech | 2026-09-28 | [link](https://stateofutopia.com/experiments/microllmlab/) |
+| 2026-09-28 | College Students Flex Their Power in A.I. Investment Frenzy | NYT · Technology | Technology | news | 2026-09-29 | [link](https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html) |
+| 2026-09-28 | Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever | NYT · Technology | Technology | news | 2026-09-28 | [link](https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html) |
+| 2026-09-28 | How Scientists Can Shape Public Opinion Over A.I. Risks | NYT · Business | Business | opinion | 2026-09-28 | [link](https://www.nytimes.com/2026/09/28/business/ai-scientists-protests.html) |
+| 2026-09-28 | Dario Amodei of Anthropic to Dine With Trump at White House | NYT · Technology | Technology | news | 2026-09-27 | [link](https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html) |
+| 2026-09-28 | What Happens if the A.I. Bubble Bursts | NYT · Opinion | Opinion | opinion | 2026-09-28 | [link](https://www.nytimes.com/2026/09/26/opinion/ai-bubble-banking-crisis-too-big-to-fail.html) |
+| 2026-09-28 | As A.I. Accelerates, Governments Are Increasingly Being Left Behind | NYT · Technology | Technology | news | 2026-09-27 | [link](https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html) |
+| 2026-09-28 | Why a U.S. Diesel Export Ban May Backfire | NYT · Energy & Environment | Energy & Environment | news | 2026-09-28 | [link](https://www.nytimes.com/2026/09/25/business/energy-environment/trump-diesel-export-ban.html) |
+| 2026-09-28 | Airline Credit Cards Are Messing Up the Whole Industry | NYT · Opinion | Opinion | opinion | 2026-09-28 | [link](https://www.nytimes.com/2026/09/24/opinion/flights-airlines-spirit-loyalty-credit-cards.html) |
+| 2026-09-28 | Embarrassing Breach at F.B.I. Fuels Fears of Harm to Its Employees | NYT · Politics | Politics | news | 2026-09-28 | [link](https://www.nytimes.com/2026/09/28/us/politics/fbi-shinyhunters-damage.html) |
+| 2026-09-28 | Justice Alito Recuses Himself Days Before Major Climate-Change Case | NYT · Politics | Politics | news | 2026-09-29 | [link](https://www.nytimes.com/2026/09/28/us/politics/alito-suncor-supreme-court-recuse.html) |
+| 2026-09-28 | Affordability Is a Winning Message for Democrats. But There’s an Even Better One. | NYT · Opinion | Opinion | opinion | 2026-09-28 | [link](https://www.nytimes.com/2026/09/28/opinion/affordability-democrats-midterms.html) |
+| 2026-09-28 | The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far | NYT · Technology | Technology | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/25/podcasts/hardfork-ezra-klein-jensen-huang.html) |
+| 2026-09-28 | As A.I. Makes Law Firms More Efficient, Clients Ask: ‘Where’s My Discount?’ | NYT · Business | Business | news | 2026-09-26 | [link](https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html) |
+| 2026-09-28 | Judge Dismisses Unusual Climate Suit Claiming Oil Giants Broke Antitrust Law | NYT · Energy & Environment | Energy & Environment | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/22/climate/michigan-antitrust-lawsuit-oil-companies.html) |
+| 2026-09-28 | Tech Titans Mingle With Trump and Xi at State Dinner | NYT · Economy | Economy | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/24/business/economy/tech-executives-state-dinner-xi-trump.html) |
+| 2026-09-28 | A Spirited Battle Over Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/climate/a-spirited-battle-over-data-centers.html) |
+| 2026-09-28 | Could A.I. Safety Risks Derail the Sector’s I.P.O. Prospects? | NYT · Business | Business | news | 2026-09-28 | [link](https://www.nytimes.com/2026/09/28/business/dealbook/ai-safety-risks-ipo.html) |
+| 2026-09-28 | OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites | NYT · Technology | Technology | news | 2026-09-26 | [link](https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html) |
+| 2026-09-28 | Anthropic’s Blacklisting by the Pentagon Was Legal, Federal Judges Rule | NYT · Technology | Technology | news | 2026-09-26 | [link](https://www.nytimes.com/2026/09/25/technology/anthropic-trump-ruling.html) |
+| 2026-09-28 | Jack Smith, Former Special Counsel, Will Appear Before Congress | NYT · Politics | Politics | news | 2026-09-29 | [link](https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html) |
+| 2026-09-28 | IBM deploys z17 mainframe at Marist University to support AI research projects | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-28 | [link](https://www.datacenterdynamics.com/en/news/ibm-deploys-z17-mainframe-at-marist-university-to-support-ai-research-projects/) |
+| 2026-09-28 | Quoting @joedaroo | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-28 | [link](https://simonwillison.net/2026/Sep/28/joedaroo/) |
+| 2026-09-28 | OCP Global Summit 2026: Innovation Village & Future Technologies Symposium (FTS) Demo Lineup | Open Compute Project · AI Infrastructure | Infrastructure | tech | 2026-09-28 | [link](https://www.opencompute.org/blog/ocp-global-summit-2026-innovation-village-and-future-technologies-symposium-fts-demo-lineup) |
+| 2026-09-28 | Re-engineering silicon and system design for AI-era workloads | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-28 | [link](https://www.datacenterdynamics.com/en/opinions/re-engineering-silicon-and-system-design-for-ai-era-workloads/) |
+| 2026-09-28 | Data center backup power contributes to health risks: report | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-28 | [link](https://www.utilitydive.com/news/data-centers-backup-power-contributing-to-health-risks-report-says/831507/) |
+| 2026-09-28 | Does the market finally have an opening for solid-state transformers? | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-28 | [link](https://www.latitudemedia.com/news/does-the-market-finally-have-an-opening-for-solid-state-transformers/) |
+| 2026-09-28 | Frontier Forum: The rush for clean, on-site power | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-28 | [link](https://www.latitudemedia.com/news/frontier-forum-the-rush-for-clean-on-site-power/) |
+| 2026-09-28 | Weekly Update 523: Live From a Norwegian Fjord | Troy Hunt · Security & Privacy | Security | tech | 2026-09-28 | [link](https://www.troyhunt.com/weekly-update-523/) |
+| 2026-09-28 | Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation | Krebs on Security · Security & Privacy | Security | tech | 2026-09-28 | [link](https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/) |
+| 2026-09-28 | Claude Sonnet 5.5 | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-28 | [link](https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/) |
+| 2026-09-28 | Jeremy Stern’s Profile of Mark Zuckerberg for Colossus | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-28 | [link](https://colossus.com/article/mark-zuckerberg-profile/) |
+| 2026-09-28 | Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-28 | [link](https://lapcatsoftware.com/articles/2026/9/8.html) |
+| 2026-09-28 | Book Review: Bobiverse Books 1-3 by Dennis E. Taylor ★★★☆☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-09-28 | [link](https://shkspr.mobi/blog/2026/09/book-review-bobiverse-books-1-3-by-dennis-e-taylor/) |
+| 2026-09-28 | Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family | Reddit | Business | social | 2026-09-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wslxzs/introducing_claude_sonnet_55_the_second_model_in/) |
+| 2026-09-28 | Claude Opus 5.5 official prompting guide | Reddit | Business | social | 2026-09-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ws08mu/claude_opus_55_official_prompting_guide/) |
+| 2026-09-28 | Sonnet 5.5 on Vals AI benchmark, if these hold true the $20 is insane value right now | Reddit | Business | social | 2026-09-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wsmg82/sonnet_55_on_vals_ai_benchmark_if_these_hold_true/) |
+| 2026-09-28 | Sloppy Kart — a totally finished product™ | Reddit | Business | social | 2026-09-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wsep0x/sloppy_kart_a_totally_finished_product/) |
+| 2026-09-28 | How are people actually getting Claude to build beautiful UIs instead of generic AI slop? | Reddit | Business | social | 2026-09-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ws9oix/how_are_people_actually_getting_claude_to_build/) |
+| 2026-09-28 | Week 9 of making my fishing game with the help of AI | Reddit | Business | social | 2026-09-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ws64e3/week_9_of_making_my_fishing_game_with_the_help_of/) |
+| 2026-09-28 | Its beautiful | Reddit | Business | social | 2026-09-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wstnyy/its_beautiful/) |
+| 2026-09-28 | This just feels right | Reddit | Business | social | 2026-09-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ws8pap/this_just_feels_right/) |
+| 2026-09-28 | Putting One Kimi Among Four Claudes, Can the Claudes Identify Kimi? | Reddit | Business | social | 2026-09-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wshs7m/putting_one_kimi_among_four_claudes_can_the/) |
+| 2026-09-28 | Nvidia wants to put a watchdog chip next to every AI agent including Claude, and Anthropic and Space | Reddit | Business | social | 2026-09-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wsb15k/nvidia_wants_to_put_a_watchdog_chip_next_to_every/) |
+| 2026-09-28 | Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family | Reddit | Business | social | 2026-09-28 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wsly42/introducing_claude_sonnet_55_the_second_model_in/) |
+| 2026-09-28 | Opus 5.5 is the beginning of a new era | Reddit | Business | social | 2026-09-28 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wsuiwx/opus_55_is_the_beginning_of_a_new_era/) |
+| 2026-09-28 | Jesus Christ that's scary | Reddit | Business | social | 2026-09-28 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wsmt3t/jesus_christ_thats_scary/) |
+| 2026-09-28 | damn bro, you could’ve just said “we’re good” 😭 | Reddit | Business | social | 2026-09-28 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ws8aee/damn_bro_you_couldve_just_said_were_good/) |
+| 2026-09-28 | Sonnet 5.5 beats Opus 5.5 at coding and it's half the price?? | Reddit | Business | social | 2026-09-28 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wsmhaz/sonnet_55_beats_opus_55_at_coding_and_its_half/) |
+| 2026-09-28 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-27 | When did Google get so weird? | HN | Technology | tech | 2026-09-27 | [link](https://sancho.bearblog.dev/google-weird/) |
 | 2026-09-27 | Owed a billion dollars in Nvidia stock | HN | Technology | tech | 2026-09-27 | [link](https://colo.to/nvidia-stock-narrative.html) |
 | 2026-09-27 | Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI | HN | Technology | tech | 2026-09-27 | [link](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/) |
