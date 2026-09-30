@@ -1,9 +1,76 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-29 · 8204 items*
+*Last updated: 2026-09-30 · 8271 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-29 | GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price | HN | Technology | tech | 2026-09-29 | [link](https://openai.com/index/introducing-gpt-6-1-sol/) |
+| 2026-09-29 | Everybody’s home. No one’s coming over | HN | Technology | tech | 2026-09-29 | [link](https://www.derekthompson.org/p/the-death-of-the-american-host) |
+| 2026-09-29 | Dots: Always-on agents | HN | Technology | tech | 2026-09-29 | [link](https://openai.com/index/introducing-dots/) |
+| 2026-09-29 | Livenerf: Has Opus 5.5 been nerfed yet? | HN | Technology | tech | 2026-09-29 | [link](https://github.com/ninjahawk/livenerf) |
+| 2026-09-29 | America.gov | HN | Technology | tech | 2026-09-29 | [link](https://america.gov/) |
+| 2026-09-29 | DraftKings is using AI to behaviorally target chronic gamblers | HN | Technology | tech | 2026-09-29 | [link](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising) |
+| 2026-09-29 | How Delhi cut electricity loss from 50 to 5 percent | HN | Technology | tech | 2026-09-29 | [link](https://spectrum.ieee.org/delhi-electricity-loss) |
+| 2026-09-29 | 500k facial scans at UK stations yield no arrests, 1 false positive | HN | Technology | tech | 2026-09-29 | [link](https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive) |
+| 2026-09-29 | macOS Golden Gate Is a Buggy Mess | HN | Technology | tech | 2026-09-29 | [link](https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/) |
+| 2026-09-29 | A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf] | HN | Technology | tech | 2026-09-29 | [link](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf) |
+| 2026-09-29 | US sanctions force The Netherlands off Microsoft and toward alternative NixOS | HN | Technology | tech | 2026-09-29 | [link](https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027) |
+| 2026-09-29 | PS5 Relapse Exploit | HN | Technology | tech | 2026-09-29 | [link](https://github.com/ntfargo/Relapse-Exploit) |
+| 2026-09-29 | Ask HN: What are you reading? | HN | Technology | tech | 2026-09-29 | [link](https://news.ycombinator.com/item?id=49893157) |
+| 2026-09-29 | Tcl/Tk 9.1 | HN | Technology | tech | 2026-09-29 | [link](https://www.tcl-lang.org/software/tcltk/9.1.html) |
+| 2026-09-29 | 1 in 8 cancer cases worldwide are caused by infections, study finds | HN | Technology | tech | 2026-09-29 | [link](https://www.cbc.ca/lite/story/9.7361622) |
+| 2026-09-29 | Show HN: Real-time Solar System with 526k asteroids and all tracked satellites | HN | Technology | tech | 2026-09-29 | [link](https://space.bl2.net/) |
+| 2026-09-29 | Trump Launches America.gov, an AI Chatbot That Contradicts Some of His Claims | NYT · Politics | Politics | news | 2026-09-29 | [link](https://www.nytimes.com/2026/09/29/us/politics/trump-ai-chatbot-america.html) |
+| 2026-09-29 | What’s In Anthropic’s I.P.O. Filing | NYT · Business | Business | news | 2026-09-29 | [link](https://www.nytimes.com/2026/09/29/business/dealbook/anthropic-ipo-filing-s1.html) |
+| 2026-09-29 | A.I. Is ‘Better Informed’ Than Doctors, Kennedy Tells Industry-Backed MAHA Summit | NYT · Business | Business | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/29/health/maha-summit-kennedy-vance.html) |
+| 2026-09-29 | College Students Flex Their Power in A.I. Investment Frenzy | NYT · Technology | Technology | news | 2026-09-29 | [link](https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html) |
+| 2026-09-29 | At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves | NYT · Technology | Technology | news | 2026-09-29 | [link](https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html) |
+| 2026-09-29 | OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models | NYT · Technology | Technology | news | 2026-09-29 | [link](https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html) |
+| 2026-09-29 | Who Attended Trump’s AI Luncheon, and Who Sat Where | NYT · Politics | Politics | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/29/us/politics/trump-ai-luncheon-guests-ceos.html) |
+| 2026-09-29 | What Happens if the A.I. Bubble Bursts | NYT · Opinion | Opinion | opinion | 2026-09-29 | [link](https://www.nytimes.com/2026/09/26/opinion/ai-bubble-banking-crisis-too-big-to-fail.html) |
+| 2026-09-29 | He Was a Tech Investor Before There Was a Silicon Valley | NYT · Technology | Technology | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html) |
+| 2026-09-29 | Troubles at Situational Awareness Point to Record Stock Market Leverage | NYT · Business | Business | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/business/situational-awareness-stock-market-leverage.html) |
+| 2026-09-29 | How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes | NYT · Technology | Technology | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html) |
+| 2026-09-29 | Tennessee Valley Authority Gets Approval to Build Small Nuclear Reactor | NYT · Energy & Environment | Energy & Environment | news | 2026-09-29 | [link](https://www.nytimes.com/2026/09/29/climate/nuclear-reactor-tennessee-valley-authority.html) |
+| 2026-09-29 | Dario Amodei of Anthropic to Dine With Trump at White House | NYT · Technology | Technology | news | 2026-09-27 | [link](https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html) |
+| 2026-09-29 | Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever | NYT · Technology | Technology | news | 2026-09-28 | [link](https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html) |
+| 2026-09-29 | How Scientists Can Shape Public Opinion Over A.I. Risks | NYT · Business | Business | opinion | 2026-09-28 | [link](https://www.nytimes.com/2026/09/28/business/ai-scientists-protests.html) |
+| 2026-09-29 | As A.I. Accelerates, Governments Are Increasingly Being Left Behind | NYT · Technology | Technology | news | 2026-09-27 | [link](https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html) |
+| 2026-09-29 | What Would John Maynard Keynes Say About A.I.? The Keynes Bot Told Us. | NYT · Opinion | Opinion | opinion | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/opinion/john-maynard-keynes-ai-economist.html) |
+| 2026-09-29 | Bill Gates Thinks Relying on A.I. Self-Regulation Is ‘Insane’ | NYT · Opinion | Opinion | opinion | 2026-09-29 | [link](https://www.nytimes.com/video/opinion/100000011179058/bill-gates-thinks-ai-self-regulation-is-insane.html) |
+| 2026-09-29 | Judge Dismisses Unusual Climate Suit Claiming Oil Giants Broke Antitrust Law | NYT · Energy & Environment | Energy & Environment | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/22/climate/michigan-antitrust-lawsuit-oil-companies.html) |
+| 2026-09-29 | A Spirited Battle Over Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/climate/a-spirited-battle-over-data-centers.html) |
+| 2026-09-29 | Quoting Anthropic Frontier Red Team | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-29 | [link](https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/) |
+| 2026-09-29 | Infineon and Eaton partner on silicon-carbide-based solid-state transformers to support 800VDC power | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-29 | [link](https://www.datacenterdynamics.com/en/news/infineon-and-eaton-partner-on-silicon-carbide-based-solid-state-transformers-to-support-800vdc-power-architectures/) |
+| 2026-09-29 | Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog | IEEE Spectrum Semiconductors · AI Infrastructure | Infrastructure | tech | 2026-09-29 | [link](https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32) |
+| 2026-09-29 | EU Chips Joint Undertaking puts out two calls for AI hardware development projects | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-29 | [link](https://www.datacenterdynamics.com/en/news/eu-chips-joint-undertaking-puts-out-two-calls-for-ai-hardware-development-projects/) |
+| 2026-09-29 | The data center boom continues apace, but projects face mounting obstacles | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-29 | [link](https://www.utilitydive.com/news/the-data-center-boom-continues-apace-but-projects-face-mounting-obstacles/830496/) |
+| 2026-09-29 | Most NYC buildings met emissions standard in first compliance year | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-29 | [link](https://www.utilitydive.com/news/most-nyc-buildings-met-emissions-standard-in-first-compliance-year/831620/) |
+| 2026-09-29 | How to measure grid utilization | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-29 | [link](https://www.latitudemedia.com/news/how-to-measure-grid-utilization/) |
+| 2026-09-29 | Why Stolen Device Protection Makes Passwords Safer | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-29 | [link](https://sixcolors.com/post/2026/09/stolen-device-protection-passwords-glenn/) |
+| 2026-09-29 | GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-29 | [link](https://simonwillison.net/2026/Sep/29/hn-49898129/) |
+| 2026-09-29 | Bastardica | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-29 | [link](https://bastardica.mitpit.com/) |
+| 2026-09-29 | Open AI's internal benchmarks show GPT-6.1 Sol crushing Opus 5.5, with Anthropic struggling to keep  | Reddit | Business | social | 2026-09-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wtoi3e/open_ais_internal_benchmarks_show_gpt61_sol/) |
+| 2026-09-29 | Is Opus 5.5 entering a “nerfed” phase? LiveNerf baseline update | Reddit | Business | social | 2026-09-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wtlrnu/is_opus_55_entering_a_nerfed_phase_livenerf/) |
+| 2026-09-29 | Sonnet 5.5 did this. Opus 5.5 quality with half price. | Reddit | Business | social | 2026-09-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wtagdd/sonnet_55_did_this_opus_55_quality_with_half_price/) |
+| 2026-09-29 | Opus 5.5 vs Sonnet 5.5 : 3D steampunk whale modeling | Reddit | Business | social | 2026-09-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wt9cdl/opus_55_vs_sonnet_55_3d_steampunk_whale_modeling/) |
+| 2026-09-29 | Anthropic lost how much? The free ride will be over when it goes public. | Reddit | Business | social | 2026-09-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wt90cb/anthropic_lost_how_much_the_free_ride_will_be/) |
+| 2026-09-29 | With Opus 5.5 and Sonnet 5.5 both apparently outperforming Sol and Astra, Anthropic has technically  | Reddit | Business | social | 2026-09-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wt0kt9/with_opus_55_and_sonnet_55_both_apparently/) |
+| 2026-09-29 | Excuse me? | Reddit | Business | social | 2026-09-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wtk12a/excuse_me/) |
+| 2026-09-29 | Anthropic says a Chinese AI model anyone can download can now build working hacks on its own | Reddit | Business | social | 2026-09-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wtk9kd/anthropic_says_a_chinese_ai_model_anyone_can/) |
+| 2026-09-29 | Are we living in the good old days of AI? | Reddit | Business | social | 2026-09-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wt67b4/are_we_living_in_the_good_old_days_of_ai/) |
+| 2026-09-29 | I gave opus 5.5 one prompt about AI fear-mongering. It made this entire music video in code: researc | Reddit | Business | social | 2026-09-29 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wt2qwh/i_gave_opus_55_one_prompt_about_ai_fearmongering/) |
+| 2026-09-29 | Safety first | Reddit | Business | social | 2026-09-29 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wtgk3l/safety_first/) |
+| 2026-09-29 | Been working for 5 hours straight on the 20x plan and managed to only use a whopping 10% on opus 5.5 | Reddit | Business | social | 2026-09-29 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wsw1c3/been_working_for_5_hours_straight_on_the_20x_plan/) |
+| 2026-09-29 | Sonnet 5.5 (high) oneshot a Full Mario Kart from 1 prompt | Reddit | Business | social | 2026-09-29 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wsx03y/sonnet_55_high_oneshot_a_full_mario_kart_from_1/) |
+| 2026-09-29 | Anthropic please DONT FUCK THIS UP | Reddit | Business | social | 2026-09-29 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wtoar4/anthropic_please_dont_fuck_this_up/) |
+| 2026-09-29 | I am the scab dev | Reddit | Business | social | 2026-09-29 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wtndzi/i_am_the_scab_dev/) |
+| 2026-09-29 | Obsidian 1.14.3 (early access) for desktop and mobile: New Group menu for Bases, macOS Quick Look su | Reddit | Business | social | 2026-09-29 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wtfhim/obsidian_1143_early_access_for_desktop_and_mobile/) |
+| 2026-09-29 | Sea Slug, a theme in release. | Reddit | Business | social | 2026-09-29 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wszzru/sea_slug_a_theme_in_release/) |
+| 2026-09-29 | Integrated Task Manager Plugin has almost reached the finish line. | Reddit | Business | social | 2026-09-29 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wt5fca/integrated_task_manager_plugin_has_almost_reached/) |
+| 2026-09-29 | A single template for every concept in my vault: portrait, definition, nine-part outline, LaTeX | Reddit | Business | social | 2026-09-29 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wtdbcs/a_single_template_for_every_concept_in_my_vault/) |
+| 2026-09-29 | Cursor-Smith X Typewriters (effects, inks, springy dips, real sounds)[SOUND ON] | Reddit | Business | social | 2026-09-29 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wt58oa/cursorsmith_x_typewriters_effects_inks_springy/) |
+| 2026-09-29 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-28 | Sonnet 5.5 | HN | Technology | tech | 2026-09-28 | [link](https://www.anthropic.com/claude-sonnet-5-5) |
 | 2026-09-28 | Pirating the Pirates | HN | Technology | tech | 2026-09-28 | [link](https://mubi.com/en/notebook/posts/pirating-the-pirates) |
 | 2026-09-28 | Updated Google Maps shows destruction of the city of Rafah | HN | Technology | tech | 2026-09-28 | [link](https://twitter.com/AliAbunimah/status/2103890594137309425) |

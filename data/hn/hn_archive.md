@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-29 · 502 days · 5020 stories*
+*Last updated: 2026-09-30 · 503 days · 5030 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-29 | Tuesday | 1 | GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price | 945 | 830 | Technology | [link](https://openai.com/index/introducing-gpt-6-1-sol/) · [HN](https://news.ycombinator.com/item?id=49896586) |
+| 2026-09-29 | Tuesday | 2 | Everybody’s home. No one’s coming over | 785 | 697 | Technology | [link](https://www.derekthompson.org/p/the-death-of-the-american-host) · [HN](https://news.ycombinator.com/item?id=49891295) |
+| 2026-09-29 | Tuesday | 3 | Dots: Always-on agents | 624 | 481 | Technology | [link](https://openai.com/index/introducing-dots/) · [HN](https://news.ycombinator.com/item?id=49896604) |
+| 2026-09-29 | Tuesday | 4 | Livenerf: Has Opus 5.5 been nerfed yet? | 623 | 251 | Technology | [link](https://github.com/ninjahawk/livenerf) · [HN](https://news.ycombinator.com/item?id=49901736) |
+| 2026-09-29 | Tuesday | 5 | America.gov | 562 | 473 | Technology | [link](https://america.gov/) · [HN](https://news.ycombinator.com/item?id=49893509) |
+| 2026-09-29 | Tuesday | 6 | DraftKings is using AI to behaviorally target chronic gamblers | 543 | 401 | Technology | [link](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising) · [HN](https://news.ycombinator.com/item?id=49896050) |
+| 2026-09-29 | Tuesday | 7 | How Delhi cut electricity loss from 50 to 5 percent | 523 | 293 | Technology | [link](https://spectrum.ieee.org/delhi-electricity-loss) · [HN](https://news.ycombinator.com/item?id=49892245) |
+| 2026-09-29 | Tuesday | 8 | 500k facial scans at UK stations yield no arrests, 1 false positive | 488 | 294 | Technology | [link](https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive) · [HN](https://news.ycombinator.com/item?id=49891480) |
+| 2026-09-29 | Tuesday | 9 | macOS Golden Gate Is a Buggy Mess | 457 | 332 | Technology | [link](https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/) · [HN](https://news.ycombinator.com/item?id=49894005) |
+| 2026-09-29 | Tuesday | 10 | A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf] | 417 | 133 | Technology | [link](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf) · [HN](https://news.ycombinator.com/item?id=49890226) |
 | 2026-09-28 | Monday | 1 | Sonnet 5.5 | 787 | 530 | Technology | [link](https://www.anthropic.com/claude-sonnet-5-5) · [HN](https://news.ycombinator.com/item?id=49881850) |
 | 2026-09-28 | Monday | 2 | Pirating the Pirates | 587 | 288 | Technology | [link](https://mubi.com/en/notebook/posts/pirating-the-pirates) · [HN](https://news.ycombinator.com/item?id=49880036) |
 | 2026-09-28 | Monday | 3 | Updated Google Maps shows destruction of the city of Rafah | 562 | 377 | Technology | [link](https://twitter.com/AliAbunimah/status/2103890594137309425) · [HN](https://news.ycombinator.com/item?id=49879645) |
