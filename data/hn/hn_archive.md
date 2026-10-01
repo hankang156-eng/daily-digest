@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-09-30 · 503 days · 5030 stories*
+*Last updated: 2026-10-01 · 504 days · 5040 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-09-30 | Wednesday | 1 | Gemini 4 Argon | 1395 | 894 | Technology | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) · [HN](https://news.ycombinator.com/item?id=49913571) |
+| 2026-09-30 | Wednesday | 2 | You said no MCP | 643 | 354 | Technology | [link](https://earendil.com/posts/you-said-no-mcp/) · [HN](https://news.ycombinator.com/item?id=49906637) |
+| 2026-09-30 | Wednesday | 3 | September 2026: The world today, as seen by one Polish guy | 496 | 375 | Technology | [link](https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/) · [HN](https://news.ycombinator.com/item?id=49905487) |
+| 2026-09-30 | Wednesday | 4 | Singapore govt dating app uses Gale-Shapley stable marriage algorithm | 390 | 338 | Technology | [link](https://twitter.com/tuakdotsol/status/2105105417760391258) · [HN](https://news.ycombinator.com/item?id=49906432) |
+| 2026-09-30 | Wednesday | 5 | The AI Race Just Got Awkward | 387 | 430 | Technology | [link](https://insufferable.dev/posts/the-ai-race-just-got-awkward/) · [HN](https://news.ycombinator.com/item?id=49910553) |
+| 2026-09-30 | Wednesday | 6 | A brief history of the Bloomberg terminal | 291 | 125 | Technology | [link](https://spectrum.ieee.org/bloomberg-terminal) · [HN](https://news.ycombinator.com/item?id=49909583) |
+| 2026-09-30 | Wednesday | 7 | Why Is Sam Altman a Free Man? | 255 | 226 | Technology | [link](https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/) · [HN](https://news.ycombinator.com/item?id=49905633) |
+| 2026-09-30 | Wednesday | 8 | The last time my family was replaced by technology | 242 | 511 | Technology | [link](https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/) · [HN](https://news.ycombinator.com/item?id=49908394) |
+| 2026-09-30 | Wednesday | 9 | The top secret URSALA, RAQUEL, and FARRAH satellites (2025) | 222 | 104 | Technology | [link](https://www.thespacereview.com/article/4951/1) · [HN](https://news.ycombinator.com/item?id=49915082) |
+| 2026-09-30 | Wednesday | 10 | EDG C++ front-end goes public | 216 | 105 | Technology | [link](https://edgcpp.org/#transition) · [HN](https://news.ycombinator.com/item?id=49913192) |
 | 2026-09-29 | Tuesday | 1 | GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price | 945 | 830 | Technology | [link](https://openai.com/index/introducing-gpt-6-1-sol/) · [HN](https://news.ycombinator.com/item?id=49896586) |
 | 2026-09-29 | Tuesday | 2 | Everybody’s home. No one’s coming over | 785 | 697 | Technology | [link](https://www.derekthompson.org/p/the-death-of-the-american-host) · [HN](https://news.ycombinator.com/item?id=49891295) |
 | 2026-09-29 | Tuesday | 3 | Dots: Always-on agents | 624 | 481 | Technology | [link](https://openai.com/index/introducing-dots/) · [HN](https://news.ycombinator.com/item?id=49896604) |

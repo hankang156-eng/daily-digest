@@ -1,9 +1,76 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-09-30 · 8271 items*
+*Last updated: 2026-10-01 · 8338 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-09-30 | Gemini 4 Argon | HN | Technology | tech | 2026-09-30 | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) |
+| 2026-09-30 | You said no MCP | HN | Technology | tech | 2026-09-30 | [link](https://earendil.com/posts/you-said-no-mcp/) |
+| 2026-09-30 | September 2026: The world today, as seen by one Polish guy | HN | Technology | tech | 2026-09-30 | [link](https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/) |
+| 2026-09-30 | Singapore govt dating app uses Gale-Shapley stable marriage algorithm | HN | Technology | tech | 2026-09-30 | [link](https://twitter.com/tuakdotsol/status/2105105417760391258) |
+| 2026-09-30 | The AI Race Just Got Awkward | HN | Technology | tech | 2026-09-30 | [link](https://insufferable.dev/posts/the-ai-race-just-got-awkward/) |
+| 2026-09-30 | A brief history of the Bloomberg terminal | HN | Technology | tech | 2026-09-30 | [link](https://spectrum.ieee.org/bloomberg-terminal) |
+| 2026-09-30 | Why Is Sam Altman a Free Man? | HN | Technology | tech | 2026-09-30 | [link](https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/) |
+| 2026-09-30 | The last time my family was replaced by technology | HN | Technology | tech | 2026-09-30 | [link](https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/) |
+| 2026-09-30 | The top secret URSALA, RAQUEL, and FARRAH satellites (2025) | HN | Technology | tech | 2026-09-30 | [link](https://www.thespacereview.com/article/4951/1) |
+| 2026-09-30 | EDG C++ front-end goes public | HN | Technology | tech | 2026-09-30 | [link](https://edgcpp.org/#transition) |
+| 2026-09-30 | Most data centers refusing to say how much water, electricity they use | HN | Technology | tech | 2026-09-30 | [link](https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use) |
+| 2026-09-30 | LinkedIn Larpmaxxing | HN | Technology | tech | 2026-09-30 | [link](https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/) |
+| 2026-09-30 | Surprisingly complex waves reveal the brain's inner workings | HN | Technology | tech | 2026-09-30 | [link](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/) |
+| 2026-09-30 | What TLA+ can and can't check | HN | Technology | tech | 2026-09-30 | [link](https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/) |
+| 2026-09-30 | 56k.rip – the 1996 dial-up internet experience | HN | Technology | tech | 2026-09-30 | [link](https://56k.rip/) |
+| 2026-09-30 | 5x faster Edge Functions: V8 isolates to Firecracker MicroVMs | HN | Technology | tech | 2026-09-30 | [link](https://www.netlify.com/blog/edge-functions-firecracker-microvms/) |
+| 2026-09-30 | Congress Set to Leave Washington for the Midterms With No A.I. Progress | NYT · Politics | Politics | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/us/politics/congress-ai-safety.html) |
+| 2026-09-30 | F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms | NYT · Technology | Technology | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html) |
+| 2026-09-30 | Trump Media’s Merger With Nuclear Fusion Company Moves Closer to Completion | NYT · Business | Business | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/business/trump-media-tae-technologies-merger.html) |
+| 2026-09-30 | Trump’s Voluntary A.I. Policing Echoes What Biden Did. But Is It Enough Today? | NYT · Politics | Politics | news | 2026-10-01 | [link](https://www.nytimes.com/2026/09/30/us/politics/trump-biden-ai.html) |
+| 2026-09-30 | What’s In Anthropic’s I.P.O. Filing | NYT · Business | Business | news | 2026-09-29 | [link](https://www.nytimes.com/2026/09/29/business/dealbook/anthropic-ipo-filing-s1.html) |
+| 2026-09-30 | While Surging to Records, Stocks Experience Some ‘Wobbles’ | NYT · Business | Business | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/business/stocks-sp500-oil-bonds.html) |
+| 2026-09-30 | College Students Flex Their Power in A.I. Investment Frenzy | NYT · Technology | Technology | news | 2026-09-29 | [link](https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html) |
+| 2026-09-30 | The Dawn of A.I. Comes at the Dusk of American Sanity | NYT · Opinion | Opinion | opinion | 2026-10-01 | [link](https://www.nytimes.com/2026/10/01/opinion/ai-huang-gates-superintelligence.html) |
+| 2026-09-30 | Trump Wants A.I. Companies to Police Themselves. What Can Go Wrong? | NYT · Opinion | Opinion | opinion | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/opinion/ai-anthropic-amodei-self-regulation.html) |
+| 2026-09-30 | Democrats Block Stock-Trading Bill, Denying the G.O.P. a Pre-Midterm Win | NYT · Politics | Politics | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/us/politics/democrats-block-stock-trading-bill.html) |
+| 2026-09-30 | He Was a Tech Investor Before There Was a Silicon Valley | NYT · Technology | Technology | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html) |
+| 2026-09-30 | Troubles at Situational Awareness Point to Record Stock Market Leverage | NYT · Business | Business | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/business/situational-awareness-stock-market-leverage.html) |
+| 2026-09-30 | How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes | NYT · Technology | Technology | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html) |
+| 2026-09-30 | OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models | NYT · Technology | Technology | news | 2026-09-29 | [link](https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html) |
+| 2026-09-30 | OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC | NYT · Technology | Technology | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html) |
+| 2026-09-30 | At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves | NYT · Technology | Technology | news | 2026-09-29 | [link](https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html) |
+| 2026-09-30 | Stop Talking About A.I. Like a Human | NYT · Opinion | Opinion | opinion | 2026-10-01 | [link](https://www.nytimes.com/2026/10/01/opinion/ai-human.html) |
+| 2026-09-30 | Dario Amodei of Anthropic to Dine With Trump at White House | NYT · Technology | Technology | news | 2026-09-27 | [link](https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html) |
+| 2026-09-30 | What Would John Maynard Keynes Say About A.I.? The Keynes Bot Told Us. | NYT · Opinion | Opinion | opinion | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/opinion/john-maynard-keynes-ai-economist.html) |
+| 2026-09-30 | Judge Dismisses Unusual Climate Suit Claiming Oil Giants Broke Antitrust Law | NYT · Energy & Environment | Energy & Environment | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/22/climate/michigan-antitrust-lawsuit-oil-companies.html) |
+| 2026-09-30 | Explore 22 Tracks at the 2026 OCP Global Summit | Open Compute Project · AI Infrastructure | Infrastructure | tech | 2026-09-30 | [link](https://www.opencompute.org/blog/explore-22-tracks-at-the-2026-ocp-global-summit) |
+| 2026-09-30 | Optical interconnect startup CScale emerges from stealth following investment from Nvidia and Intel | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-30 | [link](https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-cscale-emerges-from-stealth-following-investment-from-nvidia-and-intel/) |
+| 2026-09-30 | A data center company signed a PPA for space solar power | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-30 | [link](https://www.latitudemedia.com/news/a-data-center-company-signed-a-ppa-for-space-solar-power/) |
+| 2026-09-30 | Sponsored: Wiring the AI boom: How data centers are changing the grid | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-09-30 | [link](https://www.datacenterdynamics.com/en/opinions/wiring-the-ai-boom-how-data-centers-are-changing-the-grid/) |
+| 2026-09-30 | Utilities and Big Tech lost trust. How can they earn it back? | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-09-30 | [link](https://www.latitudemedia.com/news/open-circuit-utilities-and-big-tech-lost-trust-how-can-they-earn-it-back/) |
+| 2026-09-30 | Facilities are using 48E investment tax credits to make energy projects pencil out | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-09-30 | [link](https://www.utilitydive.com/news/facilities-using-48e-credits-to-make-energy-projects-pencil-out/831733/) |
+| 2026-09-30 | Anthropic’s IPO Prospectus Is a Fucking Doozy | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-30 | [link](https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/) |
+| 2026-09-30 | [Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-09-30 | [link](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) |
+| 2026-09-30 | He Built This City | Simon Willison · Tech & Engineering | Technology | tech | 2026-09-30 | [link](https://simonwillison.net/2026/Sep/30/he-built-this-city/) |
+| 2026-09-30 | Are you a smartwatch "power user"? | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-09-30 | [link](https://shkspr.mobi/blog/2026/09/are-you-a-smartwatch-power-user/) |
+| 2026-09-30 | Opus 5.5 naming files after all my responses are "continue", "decide for yourself", "whatever, all g | Reddit | Business | social | 2026-09-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wu4rv6/opus_55_naming_files_after_all_my_responses_are/) |
+| 2026-09-30 | Gemini 4 is out: The competition has woken up | Reddit | Business | social | 2026-09-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wufk1u/gemini_4_is_out_the_competition_has_woken_up/) |
+| 2026-09-30 | What's the one line in your CLAUDE.md that made the biggest difference ? | Reddit | Business | social | 2026-09-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wu40t8/whats_the_one_line_in_your_claudemd_that_made_the/) |
+| 2026-09-30 | Opus 5.5 Comparison to last week | Reddit | Business | social | 2026-09-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wtzzm4/opus_55_comparison_to_last_week/) |
+| 2026-09-30 | Sonnet 5.5 30x more expensive than GPT 6.1 Sol on 3D tasks | Reddit | Business | social | 2026-09-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wu7ujz/sonnet_55_30x_more_expensive_than_gpt_61_sol_on/) |
+| 2026-09-30 | Opus 5.5 feels way dumber after today’s outage, anyone else noticing this? | Reddit | Business | social | 2026-09-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wtrf5y/opus_55_feels_way_dumber_after_todays_outage/) |
+| 2026-09-30 | Opus 5.5 .. what is the point of life? | Reddit | Business | social | 2026-09-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wtxqcz/opus_55_what_is_the_point_of_life/) |
+| 2026-09-30 | Is Claude a Freak? | Reddit | Business | social | 2026-09-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wuh8vh/is_claude_a_freak/) |
+| 2026-09-30 | New 5hr Banked Reset? | Reddit | Business | social | 2026-09-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wtt5gh/new_5hr_banked_reset/) |
+| 2026-09-30 | Opus 5.5 created me a promotional video using the minecraft mod prompt | Reddit | Business | social | 2026-09-30 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wuf6cv/opus_55_created_me_a_promotional_video_using_the/) |
+| 2026-09-30 | What is wrong with Opus 5.5 all of a sudden? I have it on Max and it's only used 20k tokens in 30 mi | Reddit | Business | social | 2026-09-30 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wtsnf0/what_is_wrong_with_opus_55_all_of_a_sudden_i_have/) |
+| 2026-09-30 | Is this is how Anthropic nerfs models slowly just up to the point users start noticing? | Reddit | Business | social | 2026-09-30 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wueysb/is_this_is_how_anthropic_nerfs_models_slowly_just/) |
+| 2026-09-30 | Plot twist: Gemini 4 Argon tops Val AI benchmark on speed, cost and accuracy! | Reddit | Business | social | 2026-09-30 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wuft2u/plot_twist_gemini_4_argon_tops_val_ai_benchmark/) |
+| 2026-09-30 | opus 5.5 + blender mcp + free google api + 20 minutes | Reddit | Business | social | 2026-09-30 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wuemyx/opus_55_blender_mcp_free_google_api_20_minutes/) |
+| 2026-09-30 | AGI Achieved Opus 5.5 finally beat Google Cloud Console which defeated me for the last 3 years. | Reddit | Business | social | 2026-09-30 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wu0o3y/agi_achieved_opus_55_finally_beat_google_cloud/) |
+| 2026-09-30 | [Updates] 10 Seconds from Plugin Install to a Live Obsidian Website - No Git, No GitHub, No Setup | Reddit | Business | social | 2026-09-30 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wtum70/updates_10_seconds_from_plugin_install_to_a_live/) |
+| 2026-09-30 | TaskFlow 1.1.0: One task view, now with project switching | Reddit | Business | social | 2026-09-30 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wtz3qa/taskflow_110_one_task_view_now_with_project/) |
+| 2026-09-30 | A month or so ago I posted about my "degrees of separation" project and people thought it was cool,  | Reddit | Business | social | 2026-09-30 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wu5u8i/a_month_or_so_ago_i_posted_about_my_degrees_of/) |
+| 2026-09-30 | Proton Drive Sync Obsidian Plugin | Reddit | Business | social | 2026-09-30 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wu0qya/proton_drive_sync_obsidian_plugin/) |
+| 2026-09-30 | New theme - AzulejoBrutalism | Reddit | Business | social | 2026-09-30 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wtxsuo/new_theme_azulejobrutalism/) |
+| 2026-09-30 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-29 | GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price | HN | Technology | tech | 2026-09-29 | [link](https://openai.com/index/introducing-gpt-6-1-sol/) |
 | 2026-09-29 | Everybody’s home. No one’s coming over | HN | Technology | tech | 2026-09-29 | [link](https://www.derekthompson.org/p/the-death-of-the-american-host) |
 | 2026-09-29 | Dots: Always-on agents | HN | Technology | tech | 2026-09-29 | [link](https://openai.com/index/introducing-dots/) |
