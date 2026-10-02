@@ -1,9 +1,71 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-01 · 8338 items*
+*Last updated: 2026-10-02 · 8400 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-01 | Pi 1.0 | HN | Technology | tech | 2026-10-01 | [link](https://earendil.com/posts/pi-1-0/) |
+| 2026-10-01 | StreetComplete on iOS is now in public beta | HN | Technology | tech | 2026-10-01 | [link](https://github.com/streetcomplete/StreetComplete/issues/5421) |
+| 2026-10-01 | Clef: Open-weight decision models, and new RL fine-tuning platform | HN | Technology | tech | 2026-10-01 | [link](https://blog.cloudflare.com/clef-decision-models/) |
+| 2026-10-01 | Pi Durable | HN | Technology | tech | 2026-10-01 | [link](https://earendil.com/posts/pi-durable/) |
+| 2026-10-01 | Git 3.0's upcoming SHA-256 default will be a costly mistake | HN | Technology | tech | 2026-10-01 | [link](https://blog.gitbutler.com/git-3-sha-256) |
+| 2026-10-01 | Returning from vacation? The government can search your phone without a warrant | HN | Technology | tech | 2026-10-01 | [link](https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/) |
+| 2026-10-01 | Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026 | HN | Technology | tech | 2026-10-01 | [link](https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026) |
+| 2026-10-01 | Google breaks promise to provide 10 years of updates to Chromebooks | HN | Technology | tech | 2026-10-01 | [link](https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/) |
+| 2026-10-01 | RIP, vector database | HN | Technology | tech | 2026-10-01 | [link](https://turbopuffer.com/blog/rip-vector-database) |
+| 2026-10-01 | Fuck Android Developer Verification Program | HN | Technology | tech | 2026-10-01 | [link](https://twitter.com/0xcrypto/status/2105515822643114182) |
+| 2026-10-01 | Several vulnerabilities have been discovered in the Linux kernel | HN | Technology | tech | 2026-10-01 | [link](https://lwn.net/Articles/1097401/) |
+| 2026-10-01 | SvelteKit 3 | HN | Technology | tech | 2026-10-01 | [link](https://svelte.dev/blog/sveltekit-3-is-here) |
+| 2026-10-01 | Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones | HN | Technology | tech | 2026-10-01 | [link](https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/) |
+| 2026-10-01 | How to speed up the Rust compiler in September 2026 | HN | Technology | tech | 2026-10-01 | [link](https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html) |
+| 2026-10-01 | Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes | HN | Technology | tech | 2026-10-01 | [link](https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html) |
+| 2026-10-01 | DeepSeek Harness Desktop for macOS and Windows | HN | Technology | tech | 2026-10-01 | [link](https://www.deepseek.com/en/harness/) |
+| 2026-10-01 | The Powerful Yet Fragile Force Propping Up Stocks and the Economy | NYT · Business | Business | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html) |
+| 2026-10-01 | Who’s to Blame When A.I. Goes Rogue? | NYT · Technology | Technology | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html) |
+| 2026-10-01 | Russia’s Latest Propaganda? A.I.-Generated War Songs. | NYT · Technology | Technology | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/technology/russian-propaganda-ai-war-songs.html) |
+| 2026-10-01 | U.S. Bond Yields Hit Highest Level Since 2002 | NYT · Business | Business | news | 2026-10-01 | [link](https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html) |
+| 2026-10-01 | The Global Bond Rout Reaches Worrying New Levels | NYT · Business | Business | news | 2026-10-01 | [link](https://www.nytimes.com/2026/10/01/business/dealbook/bond-rout-trump-powell.html) |
+| 2026-10-01 | David Ellison’s Vision for CNN: Same C.E.O and No Bari Weiss, for Now. | NYT · Business | Business | news | 2026-10-01 | [link](https://www.nytimes.com/2026/10/01/business/media/cnn-paramount-david-ellison.html) |
+| 2026-10-01 | Six Charts That Show Just How Much We Need A.I. | NYT · Opinion | Opinion | opinion | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/opinion/ai-tech-innovation.html) |
+| 2026-10-01 | Behold the Paragons of Rank Incompetence | NYT · Opinion | Opinion | opinion | 2026-10-01 | [link](https://www.nytimes.com/2026/10/01/opinion/ai-huang-gates-superintelligence.html) |
+| 2026-10-01 | F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms | NYT · Technology | Technology | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html) |
+| 2026-10-01 | When Data Centers Cluster Together, How Dirty Are They? One County Wants Answers. | NYT · Energy & Environment | Energy & Environment | news | 2026-10-01 | [link](https://www.nytimes.com/2026/10/01/climate/data-center-pollution-study-pennsylvania.html) |
+| 2026-10-01 | Trump Media’s Merger With Nuclear Fusion Company Moves Closer to Completion | NYT · Business | Business | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/business/trump-media-tae-technologies-merger.html) |
+| 2026-10-01 | Supreme Court, Taking On Trump Immigration Agenda, Will Review Migrant Detention Policy | NYT · Politics | Politics | opinion | 2026-10-01 | [link](https://www.nytimes.com/2026/10/01/us/politics/supreme-court-trump-migrant-detention.html) |
+| 2026-10-01 | Federal Watchdog Investigates Adam Kinzinger for Kalshi Bets on His Pardon | NYT · Business | Business | news | 2026-10-01 | [link](https://www.nytimes.com/2026/10/01/us/politics/cftc-investigating-kinzinger-pardon-bet.html) |
+| 2026-10-01 | Congress Leaves With a Whimper, as the G.O.P. Braces for Midterm Pain | NYT · Politics | Politics | news | 2026-10-01 | [link](https://www.nytimes.com/2026/10/01/us/politics/republicans-congress-midterm-elections-trump-affordability.html) |
+| 2026-10-01 | Are Democrats Worried About the Wrong Rich People? | NYT · Business | Business | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/business/democrats-wealthy-taxes.html) |
+| 2026-10-01 | States Sue Over Trump’s Repeal of Climate Rules for Power Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-01 | [link](https://www.nytimes.com/2026/10/01/climate/states-sue-epa-power-plant-trump.html) |
+| 2026-10-01 | These Things Are Computers. Stop Talking About Them Like They’re Human. | NYT · Opinion | Opinion | opinion | 2026-10-01 | [link](https://www.nytimes.com/2026/10/01/opinion/ai-human.html) |
+| 2026-10-01 | OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models | NYT · Technology | Technology | news | 2026-09-29 | [link](https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html) |
+| 2026-10-01 | Judge Dismisses Unusual Climate Suit Claiming Oil Giants Broke Antitrust Law | NYT · Energy & Environment | Energy & Environment | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/22/climate/michigan-antitrust-lawsuit-oil-companies.html) |
+| 2026-10-01 | Amazon Settles Lawsuit Over Claims of Slow Deliveries to Low-Income Areas | NYT · Technology | Technology | news | 2026-10-01 | [link](https://www.nytimes.com/2026/10/01/technology/amazon-slow-deliveries-dc.html) |
+| 2026-10-01 | Quoting Matthew Green | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-01 | [link](https://simonwillison.net/2026/Oct/1/matthew-green/) |
+| 2026-10-01 | Tencent signs on for 100,000 GPUs via Oracle - report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-01 | [link](https://www.datacenterdynamics.com/en/news/tencent-signs-on-for-100000-gpus-via-oracle-report/) |
+| 2026-10-01 | Sponsored: The data center is becoming a power project | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-01 | [link](https://www.datacenterdynamics.com/en/opinions/the-data-center-is-becoming-a-power-project/) |
+| 2026-10-01 | Electricity Theft Is Rampant, but Delhi Found a Fix | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-10-01 | [link](https://spectrum.ieee.org/electricity-theft) |
+| 2026-10-01 | Fashion brands partner with Schneider Electric to expand renewables | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-01 | [link](https://www.utilitydive.com/news/levis-marks-and-spencer-launch-renewable-energy-initiative-for-fashion-suppliers/831754/) |
+| 2026-10-01 | PJM’s ‘unexpected twist’ is a win for distributed capacity | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-10-01 | [link](https://www.latitudemedia.com/news/pjms-unexpected-twist-is-a-win-for-distributed-capacity/) |
+| 2026-10-01 | Vermont Gas invests in geothermal for the first time | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-10-01 | [link](https://www.latitudemedia.com/news/vermont-gas-invests-in-geothermal-for-the-first-time/) |
+| 2026-10-01 | Throwback to when Claude suggested I should deal drugs to make money. | Reddit | Business | social | 2026-10-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wuvxy7/throwback_to_when_claude_suggested_i_should_deal/) |
+| 2026-10-01 | Made a "Destroy Any Website" stickman game | Reddit | Business | social | 2026-10-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wv2r73/made_a_destroy_any_website_stickman_game/) |
+| 2026-10-01 | Opus 5.5 nerfing - how to measure, how to spot, how to sue | Reddit | Business | social | 2026-10-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wuw9bc/opus_55_nerfing_how_to_measure_how_to_spot_how_to/) |
+| 2026-10-01 | I told Claude I like Bach and synths: Contrapunctus Acidus by Opus 5.5 | Reddit | Business | social | 2026-10-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wuqjz8/i_told_claude_i_like_bach_and_synths/) |
+| 2026-10-01 | Is Opus 5.5 Nerfed Now? LiveNerf Day 8 Update | Reddit | Business | social | 2026-10-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wvdt9p/is_opus_55_nerfed_now_livenerf_day_8_update/) |
+| 2026-10-01 | 100$ plan - holy sh* | Reddit | Business | social | 2026-10-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wvdodf/100_plan_holy_sh/) |
+| 2026-10-01 | Procedural Pixel Creatures (Claude Code - Opus 5.5) | Reddit | Business | social | 2026-10-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wv8ogl/procedural_pixel_creatures_claude_code_opus_55/) |
+| 2026-10-01 | PSA: you don't need Fable for everything. Set it as your /advisor instead | Reddit | Business | social | 2026-10-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wv4cux/psa_you_dont_need_fable_for_everything_set_it_as/) |
+| 2026-10-01 | Argon | Reddit | Business | social | 2026-10-01 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wv2vk2/argon/) |
+| 2026-10-01 | Mmmkay. I didn't believe others at first, but something is suddenly off with Opus 5.5 | Reddit | Business | social | 2026-10-01 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wurd3e/mmmkay_i_didnt_believe_others_at_first_but/) |
+| 2026-10-01 | Introducing Claude Mods | Reddit | Business | social | 2026-10-01 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wvc7vc/introducing_claude_mods/) |
+| 2026-10-01 | I always loved mobile tower defense games, so I built one that runs on the real map of any city (Ope | Reddit | Business | social | 2026-10-01 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wuvufr/i_always_loved_mobile_tower_defense_games_so_i/) |
+| 2026-10-01 | Claude Code helped me self-program my prescription hearing aids | Reddit | Business | social | 2026-10-01 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wv45y0/claude_code_helped_me_selfprogram_my_prescription/) |
+| 2026-10-01 | Syncthing for Obsidian: Free, Private, and Truly Annoying | Reddit | Business | social | 2026-10-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wuzvpe/syncthing_for_obsidian_free_private_and_truly/) |
+| 2026-10-01 | I made an advert for Obsidian | Reddit | Business | social | 2026-10-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wusxyw/i_made_an_advert_for_obsidian/) |
+| 2026-10-01 | Obsidian October: take the State of Obsidian 2026 survey! | Reddit | Business | social | 2026-10-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wv2xuf/obsidian_october_take_the_state_of_obsidian_2026/) |
+| 2026-10-01 | I made Just Simple NPC - a tiny pixel-art companion for your Obsidian status bar | Reddit | Business | social | 2026-10-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wuvon6/i_made_just_simple_npc_a_tiny_pixelart_companion/) |
+| 2026-10-01 | Obsidian 1.14.4 (early access) for desktop and mobile | Reddit | Business | social | 2026-10-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wvaxtc/obsidian_1144_early_access_for_desktop_and_mobile/) |
+| 2026-10-01 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-09-30 | Gemini 4 Argon | HN | Technology | tech | 2026-09-30 | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) |
 | 2026-09-30 | You said no MCP | HN | Technology | tech | 2026-09-30 | [link](https://earendil.com/posts/you-said-no-mcp/) |
 | 2026-09-30 | September 2026: The world today, as seen by one Polish guy | HN | Technology | tech | 2026-09-30 | [link](https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/) |

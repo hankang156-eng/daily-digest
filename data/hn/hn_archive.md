@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-01 · 504 days · 5040 stories*
+*Last updated: 2026-10-02 · 505 days · 5050 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-01 | Thursday | 1 | Pi 1.0 | 1298 | 413 | Technology | [link](https://earendil.com/posts/pi-1-0/) · [HN](https://news.ycombinator.com/item?id=49926069) |
+| 2026-10-01 | Thursday | 2 | StreetComplete on iOS is now in public beta | 567 | 150 | Technology | [link](https://github.com/streetcomplete/StreetComplete/issues/5421) · [HN](https://news.ycombinator.com/item?id=49920160) |
+| 2026-10-01 | Thursday | 3 | Clef: Open-weight decision models, and new RL fine-tuning platform | 515 | 180 | Technology | [link](https://blog.cloudflare.com/clef-decision-models/) · [HN](https://news.ycombinator.com/item?id=49923692) |
+| 2026-10-01 | Thursday | 4 | Pi Durable | 385 | 48 | Technology | [link](https://earendil.com/posts/pi-durable/) · [HN](https://news.ycombinator.com/item?id=49925969) |
+| 2026-10-01 | Thursday | 5 | Git 3.0's upcoming SHA-256 default will be a costly mistake | 382 | 362 | Technology | [link](https://blog.gitbutler.com/git-3-sha-256) · [HN](https://news.ycombinator.com/item?id=49924179) |
+| 2026-10-01 | Thursday | 6 | Returning from vacation? The government can search your phone without a warrant | 372 | 345 | Technology | [link](https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/) · [HN](https://news.ycombinator.com/item?id=49920234) |
+| 2026-10-01 | Thursday | 7 | Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026 | 356 | 413 | Technology | [link](https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026) · [HN](https://news.ycombinator.com/item?id=49920932) |
+| 2026-10-01 | Thursday | 8 | Google breaks promise to provide 10 years of updates to Chromebooks | 348 | 156 | Technology | [link](https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/) · [HN](https://news.ycombinator.com/item?id=49920997) |
+| 2026-10-01 | Thursday | 9 | RIP, vector database | 331 | 88 | Technology | [link](https://turbopuffer.com/blog/rip-vector-database) · [HN](https://news.ycombinator.com/item?id=49923466) |
+| 2026-10-01 | Thursday | 10 | Fuck Android Developer Verification Program | 319 | 133 | Technology | [link](https://twitter.com/0xcrypto/status/2105515822643114182) · [HN](https://news.ycombinator.com/item?id=49917761) |
 | 2026-09-30 | Wednesday | 1 | Gemini 4 Argon | 1395 | 894 | Technology | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) · [HN](https://news.ycombinator.com/item?id=49913571) |
 | 2026-09-30 | Wednesday | 2 | You said no MCP | 643 | 354 | Technology | [link](https://earendil.com/posts/you-said-no-mcp/) · [HN](https://news.ycombinator.com/item?id=49906637) |
 | 2026-09-30 | Wednesday | 3 | September 2026: The world today, as seen by one Polish guy | 496 | 375 | Technology | [link](https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/) · [HN](https://news.ycombinator.com/item?id=49905487) |
