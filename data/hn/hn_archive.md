@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-02 · 505 days · 5050 stories*
+*Last updated: 2026-10-03 · 506 days · 5060 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-02 | Friday | 1 | Apple Pass Designer | 425 | 262 | Technology | [link](https://developer.apple.com/pass-designer/) · [HN](https://news.ycombinator.com/item?id=49937276) |
+| 2026-10-02 | Friday | 2 | Extra Big Ass Intelligence | 298 | 61 | Technology | [link](https://www.extrabigassintelligence.com/) · [HN](https://news.ycombinator.com/item?id=49941114) |
+| 2026-10-02 | Friday | 3 | Shimano Bicycle Museum Review | 291 | 76 | Technology | [link](https://inrng.com/2026/10/shimano-bicycle-museum/) · [HN](https://news.ycombinator.com/item?id=49930047) |
+| 2026-10-02 | Friday | 4 | The Legend of von Neumann (1973) [pdf] | 285 | 150 | Technology | [link](https://gwern.net/doc/math/1973-halmos.pdf) · [HN](https://news.ycombinator.com/item?id=49933235) |
+| 2026-10-02 | Friday | 5 | A 12-year sequence of telescope images of a star and four planets orbiting | 283 | 56 | Technology | [link](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f) · [HN](https://news.ycombinator.com/item?id=49932147) |
+| 2026-10-02 | Friday | 6 | Zig v0.17.0 | 248 | 173 | Technology | [link](https://ziglang.org/download/0.17.0/release-notes.html) · [HN](https://news.ycombinator.com/item?id=49938521) |
+| 2026-10-02 | Friday | 7 | From the creator of Redis; run LLM locally with ds4 | 241 | 65 | Technology | [link](https://dwarfstar.sh/) · [HN](https://news.ycombinator.com/item?id=49936575) |
+| 2026-10-02 | Friday | 8 | Newgrounds.com – A community of games, music, and art | 222 | 62 | Technology | [link](https://www.newgrounds.com/) · [HN](https://news.ycombinator.com/item?id=49940394) |
+| 2026-10-02 | Friday | 9 | The Forgetful CPU (Linux on M4) | 217 | 142 | Technology | [link](https://yuka.dev/blog-2026-10-02-linux-m4.html) · [HN](https://news.ycombinator.com/item?id=49933869) |
+| 2026-10-02 | Friday | 10 | With most information hidden, the game Stratego had stumped AI until now | 216 | 109 | Technology | [link](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/) · [HN](https://news.ycombinator.com/item?id=49933740) |
 | 2026-10-01 | Thursday | 1 | Pi 1.0 | 1298 | 413 | Technology | [link](https://earendil.com/posts/pi-1-0/) · [HN](https://news.ycombinator.com/item?id=49926069) |
 | 2026-10-01 | Thursday | 2 | StreetComplete on iOS is now in public beta | 567 | 150 | Technology | [link](https://github.com/streetcomplete/StreetComplete/issues/5421) · [HN](https://news.ycombinator.com/item?id=49920160) |
 | 2026-10-01 | Thursday | 3 | Clef: Open-weight decision models, and new RL fine-tuning platform | 515 | 180 | Technology | [link](https://blog.cloudflare.com/clef-decision-models/) · [HN](https://news.ycombinator.com/item?id=49923692) |

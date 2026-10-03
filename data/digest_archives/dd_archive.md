@@ -1,9 +1,70 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-02 · 8400 items*
+*Last updated: 2026-10-03 · 8461 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-02 | Apple Pass Designer | HN | Technology | tech | 2026-10-02 | [link](https://developer.apple.com/pass-designer/) |
+| 2026-10-02 | Extra Big Ass Intelligence | HN | Technology | tech | 2026-10-02 | [link](https://www.extrabigassintelligence.com/) |
+| 2026-10-02 | Shimano Bicycle Museum Review | HN | Technology | tech | 2026-10-02 | [link](https://inrng.com/2026/10/shimano-bicycle-museum/) |
+| 2026-10-02 | The Legend of von Neumann (1973) [pdf] | HN | Technology | tech | 2026-10-02 | [link](https://gwern.net/doc/math/1973-halmos.pdf) |
+| 2026-10-02 | A 12-year sequence of telescope images of a star and four planets orbiting | HN | Technology | tech | 2026-10-02 | [link](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f) |
+| 2026-10-02 | Zig v0.17.0 | HN | Technology | tech | 2026-10-02 | [link](https://ziglang.org/download/0.17.0/release-notes.html) |
+| 2026-10-02 | From the creator of Redis; run LLM locally with ds4 | HN | Technology | tech | 2026-10-02 | [link](https://dwarfstar.sh/) |
+| 2026-10-02 | Newgrounds.com – A community of games, music, and art | HN | Technology | tech | 2026-10-02 | [link](https://www.newgrounds.com/) |
+| 2026-10-02 | The Forgetful CPU (Linux on M4) | HN | Technology | tech | 2026-10-02 | [link](https://yuka.dev/blog-2026-10-02-linux-m4.html) |
+| 2026-10-02 | With most information hidden, the game Stratego had stumped AI until now | HN | Technology | tech | 2026-10-02 | [link](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/) |
+| 2026-10-02 | Big Tech ruined the cloud, so we're renaming ours | HN | Technology | tech | 2026-10-02 | [link](https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/) |
+| 2026-10-02 | ICC judge on what U.S. sanctions mean for her and global courts | HN | Technology | tech | 2026-10-02 | [link](https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost) |
+| 2026-10-02 | Updates to Full Disk Access in macOS | HN | Technology | tech | 2026-10-02 | [link](https://developer.apple.com/news/?id=p6zjojqw) |
+| 2026-10-02 | Supabase is acquiring Turso | HN | Technology | tech | 2026-10-02 | [link](https://supabase.com/blog/supabase-is-acquiring-turso) |
+| 2026-10-02 | Muse Gadgets | HN | Technology | tech | 2026-10-02 | [link](https://gadgets.muse.ai) |
+| 2026-10-02 | On social reality in China | HN | Technology | tech | 2026-10-02 | [link](https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china) |
+| 2026-10-02 | The Powerful Yet Fragile Force Propping Up Stocks and the Economy | NYT · Business | Business | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html) |
+| 2026-10-02 | Who’s to Blame When A.I. Goes Rogue? | NYT · Technology | Technology | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html) |
+| 2026-10-02 | The Latest Challenge to Data Centers? Restive Investors. | NYT · Business | Business | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/business/dealbook/data-center-ai-bonds.html) |
+| 2026-10-02 | Russia’s Latest Propaganda? A.I.-Generated War Songs. | NYT · Technology | Technology | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/technology/russian-propaganda-ai-war-songs.html) |
+| 2026-10-02 | Trump to Name Jay Clayton to Serve as A.I. Czar | NYT · Politics | Politics | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/us/politics/trump-jay-clayton-ai-czar.html) |
+| 2026-10-02 | A.I. Agents: Cute, Cuddly and Maybe Catastrophically Dangerous? | NYT · Technology | Technology | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/podcasts/hardfork-regulation-agents-muse.html) |
+| 2026-10-02 | Six Charts That Show Just How Much We Need A.I. | NYT · Opinion | Opinion | opinion | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/opinion/ai-tech-innovation.html) |
+| 2026-10-02 | Trump, Putin, Ukraine and an Oil Deal: 5 Takeaways | NYT · Politics | Politics | news | 2026-10-03 | [link](https://www.nytimes.com/2026/10/03/us/politics/trump-putin-ukraine-oil-deal-5-takeaways.html) |
+| 2026-10-02 | The Rich People Democrats Aren’t Talking About | NYT · Business | Business | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/business/democrats-wealthy-taxes.html) |
+| 2026-10-02 | States Sue Over Trump’s Repeal of Climate Rules for Power Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/01/climate/states-sue-epa-power-plant-trump.html) |
+| 2026-10-02 | F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms | NYT · Technology | Technology | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html) |
+| 2026-10-02 | Trump Media’s Merger With Nuclear Fusion Company Moves Closer to Completion | NYT · Business | Business | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/business/trump-media-tae-technologies-merger.html) |
+| 2026-10-02 | National Science Foundation Diverted $1.4 Billion in Science Funds Mandated by Congress | NYT · Politics | Politics | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/us/politics/national-science-foundation-research-funds.html) |
+| 2026-10-02 | Federal Watchdog Investigates Adam Kinzinger for Kalshi Bets on His Pardon | NYT · Business | Business | news | 2026-10-03 | [link](https://www.nytimes.com/2026/10/01/us/politics/cftc-investigating-kinzinger-pardon-bet.html) |
+| 2026-10-02 | These Things Are Computers. Stop Talking About Them Like They’re Human. | NYT · Opinion | Opinion | opinion | 2026-10-02 | [link](https://www.nytimes.com/2026/10/01/opinion/ai-human.html) |
+| 2026-10-02 | Is a Trump Account the Best Way to Invest for Your Child? Try Our Calculator. | NYT · Business | Business | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/upshot/trump-account-kids-529-utma-calculator.html) |
+| 2026-10-02 | Behold the Paragons of Rank Incompetence | NYT · Opinion | Opinion | opinion | 2026-10-01 | [link](https://www.nytimes.com/2026/10/01/opinion/ai-huang-gates-superintelligence.html) |
+| 2026-10-02 | College Students Flex Their Power in A.I. Investment Frenzy | NYT · Technology | Technology | news | 2026-09-29 | [link](https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html) |
+| 2026-10-02 | Judge Dismisses Unusual Climate Suit Claiming Oil Giants Broke Antitrust Law | NYT · Energy & Environment | Energy & Environment | news | 2026-09-23 | [link](https://www.nytimes.com/2026/09/22/climate/michigan-antitrust-lawsuit-oil-companies.html) |
+| 2026-10-02 | A Spirited Battle Over Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/climate/a-spirited-battle-over-data-centers.html) |
+| 2026-10-02 | Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorp | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-10-02 | [link](https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE) |
+| 2026-10-02 | General Compute signs multi-year agreement with Cerebras | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-02 | [link](https://www.datacenterdynamics.com/en/news/general-compute-signs-multi-year-agreement-with-cerebras/) |
+| 2026-10-02 | NetworkOcean runs GPU on floating data center powered by solar panels in San Francisco Bay | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-02 | [link](https://www.datacenterdynamics.com/en/news/networkocean-runs-gpu-on-floating-data-center-powered-by-solar-panels-in-san-francisco-bay/) |
+| 2026-10-02 | Exclusive: Even ‘retained’ DOE projects are still waiting for funding | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-10-02 | [link](https://www.latitudemedia.com/news/exclusive-even-retained-doe-projects-are-still-waiting-for-funding/) |
+| 2026-10-02 | The permitting reform battle lines are being drawn | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-10-02 | [link](https://www.latitudemedia.com/news/the-permitting-reform-battle-lines-are-being-drawn/) |
+| 2026-10-02 | Cities, states sue EPA over power plant emissions rollback | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-02 | [link](https://www.utilitydive.com/news/cities-states-sue-epa-over-power-plant-emissions-rollback/832016/) |
+| 2026-10-02 | ★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic  | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-02 | [link](https://daringfireball.net/2026/10/apple_full_disk_access) |
+| 2026-10-02 | Gadget Review: Una Watch ★★★★☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-10-02 | [link](https://shkspr.mobi/blog/2026/10/gadget-review-una-watch/) |
+| 2026-10-02 | Yankees Sweep Boston in Two Games, by Combined Score of 18-2 | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-02 | [link](https://www.nytimes.com/athletic/7648172/2026/09/30/yankees-beat-red-sox-mlb-wild-card-series/) |
+| 2026-10-02 | hey opus 5.5 can you build me a 24/7 live streaming new network | Reddit | Business | social | 2026-10-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wvkhzo/hey_opus_55_can_you_build_me_a_247_live_streaming/) |
+| 2026-10-02 | Confirmed: Opus 5.5 has been nerded | Reddit | Business | social | 2026-10-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wvyagq/confirmed_opus_55_has_been_nerded/) |
+| 2026-10-02 | Open Machine CEO Allie K. Miller says she takes "Claude walks" while using 34 AI agents to run her w | Reddit | Business | social | 2026-10-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wvsiey/open_machine_ceo_allie_k_miller_says_she_takes/) |
+| 2026-10-02 | Evidence - Opus 5.5 today vs launch regression with same prompt (Godot Engine) | Reddit | Business | social | 2026-10-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wvwipe/evidence_opus_55_today_vs_launch_regression_with/) |
+| 2026-10-02 | Team recently started using Claude. Sprints get cleared in a few days | Reddit | Business | social | 2026-10-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ww0u3i/team_recently_started_using_claude_sprints_get/) |
+| 2026-10-02 | +50% usage if you start a doc? | Reddit | Business | social | 2026-10-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wvkhud/50_usage_if_you_start_a_doc/) |
+| 2026-10-02 | Whatever happened to "Security Nightmare" Mythos? | Reddit | Business | social | 2026-10-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wvmwys/whatever_happened_to_security_nightmare_mythos/) |
+| 2026-10-02 | I built Claude Fables, a Claude Code mod that turns what Claude is doing into a little animated cart | Reddit | Business | social | 2026-10-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ww2cn3/i_built_claude_fables_a_claude_code_mod_that/) |
+| 2026-10-02 | I've worked in video for 20+ years. Claude made us a launch video entirely in code, soundtrack inclu | Reddit | Business | social | 2026-10-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wvw1il/ive_worked_in_video_for_20_years_claude_made_us_a/) |
+| 2026-10-02 | Nothing gets nerfed | Reddit | Business | social | 2026-10-02 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wvm3wp/nothing_gets_nerfed/) |
+| 2026-10-02 | hey opus 5.5 can you build me a news network that streams live 24/7 | Reddit | Business | social | 2026-10-02 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wvkje5/hey_opus_55_can_you_build_me_a_news_network_that/) |
+| 2026-10-02 | had claude make a song about how it wont stop saying LOAD-BEARING | Reddit | Business | social | 2026-10-02 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wvylt8/had_claude_make_a_song_about_how_it_wont_stop/) |
+| 2026-10-02 | My workflow as product and process owner | Reddit | Business | social | 2026-10-02 | [link](https://www.reddit.com/r/ClaudeCode/comments/1ww2ss4/my_workflow_as_product_and_process_owner/) |
+| 2026-10-02 | The app I Dreamed of. Thank Opus 5.5 | Reddit | Business | social | 2026-10-02 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wvypbl/the_app_i_dreamed_of_thank_opus_55/) |
+| 2026-10-02 | are you still creating fresh sessions or work in the same thread? | Reddit | Business | social | 2026-10-02 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wvpffv/are_you_still_creating_fresh_sessions_or_work_in/) |
+| 2026-10-02 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-01 | Pi 1.0 | HN | Technology | tech | 2026-10-01 | [link](https://earendil.com/posts/pi-1-0/) |
 | 2026-10-01 | StreetComplete on iOS is now in public beta | HN | Technology | tech | 2026-10-01 | [link](https://github.com/streetcomplete/StreetComplete/issues/5421) |
 | 2026-10-01 | Clef: Open-weight decision models, and new RL fine-tuning platform | HN | Technology | tech | 2026-10-01 | [link](https://blog.cloudflare.com/clef-decision-models/) |
