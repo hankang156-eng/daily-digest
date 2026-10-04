@@ -1,9 +1,70 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-03 · 8461 items*
+*Last updated: 2026-10-04 · 8522 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-03 | Kolibri: A Sovereign Open-Weight Model | HN | Technology | tech | 2026-10-03 | [link](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) |
+| 2026-10-03 | Tell HN: Bob Cringely has died | HN | Technology | tech | 2026-10-03 | [link](https://news.ycombinator.com/item?id=49949438) |
+| 2026-10-03 | We're going to need default hard budget caps on pretty much everything | HN | Technology | tech | 2026-10-03 | [link](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) |
+| 2026-10-03 | Federal judge calls Flock 'indiscriminate mass surveillance' | HN | Technology | tech | 2026-10-03 | [link](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/) |
+| 2026-10-03 | Aleph Alpha Kolibri: How the sovereign German LLM works | HN | Technology | tech | 2026-10-03 | [link](https://tej.as/blog/aleph-alpha-kolibri) |
+| 2026-10-03 | Hole Punch: Sling your spaceship around gravitational fields | HN | Technology | tech | 2026-10-03 | [link](https://notoriousbfg.com/hole-punch/) |
+| 2026-10-03 | The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux | HN | Technology | tech | 2026-10-03 | [link](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) |
+| 2026-10-03 | OpenAI safety leader quits, warning AI company's culture is 'broken' | HN | Technology | tech | 2026-10-03 | [link](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken) |
+| 2026-10-03 | I quit OpenAI because its culture is broken | HN | Technology | tech | 2026-10-03 | [link](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA) |
+| 2026-10-03 | ADHD, autism or complex trauma? [pdf] | HN | Technology | tech | 2026-10-03 | [link](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf) |
+| 2026-10-03 | Getting the most out of Opus 5.5 in Claude and Claude Code | HN | Technology | tech | 2026-10-03 | [link](https://claude.dev/blog/getting-the-most-out-of-opus-5-5/) |
+| 2026-10-03 | Treachery in the Rodin Museum 3D scan verdict | HN | Technology | tech | 2026-10-03 | [link](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict) |
+| 2026-10-03 | An Update on Orion for Linux and Windows | HN | Technology | tech | 2026-10-03 | [link](https://blog.kagi.com/update-orion-linux-windows) |
+| 2026-10-03 | FTL: A new operating system for clouds | HN | Technology | tech | 2026-10-03 | [link](https://ftl-os.org/) |
+| 2026-10-03 | Agents don't need memory, they need documentation | HN | Technology | tech | 2026-10-03 | [link](https://liao.gg/blog/agents-dont-need-memory) |
+| 2026-10-03 | Reasons I didn't become an EMT, ranked | HN | Technology | tech | 2026-10-03 | [link](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/) |
+| 2026-10-03 | Who’s to Blame When A.I. Goes Rogue? | NYT · Technology | Technology | news | 2026-10-03 | [link](https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html) |
+| 2026-10-03 | The Powerful Yet Fragile Force Propping Up Stocks and the Economy | NYT · Business | Business | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html) |
+| 2026-10-03 | A Supreme Court Battle Over Climate Change Begins | NYT · Energy & Environment | Energy & Environment | news | 2026-10-04 | [link](https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html) |
+| 2026-10-03 | Trump, Putin, Ukraine and an Oil Deal: 5 Takeaways | NYT · Politics | Politics | news | 2026-10-03 | [link](https://www.nytimes.com/2026/10/03/us/politics/trump-putin-ukraine-oil-deal-5-takeaways.html) |
+| 2026-10-03 | Controlling Risks Posed by A.I. and Other Threats to Humanity | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-10-03 | [link](https://www.nytimes.com/2026/10/03/opinion/letters/ai-threats-risks.html) |
+| 2026-10-03 | The Latest Challenge to Data Centers? Restive Investors. | NYT · Business | Business | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/business/dealbook/data-center-ai-bonds.html) |
+| 2026-10-03 | Federal Watchdog Investigates Adam Kinzinger for Kalshi Bets on His Pardon | NYT · Business | Business | news | 2026-10-03 | [link](https://www.nytimes.com/2026/10/01/us/politics/cftc-investigating-kinzinger-pardon-bet.html) |
+| 2026-10-03 | A.I. Agents: Cute, Cuddly and Maybe Catastrophically Dangerous? | NYT · Technology | Technology | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/podcasts/hardfork-regulation-agents-muse.html) |
+| 2026-10-03 | P.&G.’s Chief on Whether Brand Loyalty Is Enough When Prices Keep Climbing | NYT · Business | Business | news | 2026-10-04 | [link](https://www.nytimes.com/2026/10/04/business/procter-gamble-shailesh-jejurikar.html) |
+| 2026-10-03 | F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms | NYT · Technology | Technology | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html) |
+| 2026-10-03 | Trump Media’s Merger With Nuclear Fusion Company Moves Closer to Completion | NYT · Business | Business | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/business/trump-media-tae-technologies-merger.html) |
+| 2026-10-03 | Six Charts That Show Just How Much We Need A.I. | NYT · Opinion | Opinion | opinion | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/opinion/ai-tech-innovation.html) |
+| 2026-10-03 | A Spirited Battle Over Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/climate/a-spirited-battle-over-data-centers.html) |
+| 2026-10-03 | As A.I. Agents Begin Shopping, Brands Are Changing Their Sales Pitch | NYT · Business | Business | news | 2026-10-03 | [link](https://www.nytimes.com/2026/10/03/business/dealbook/ai-agent-marketing.html) |
+| 2026-10-03 | Dario Amodei of Anthropic to Dine With Trump at White House | NYT · Technology | Technology | news | 2026-09-27 | [link](https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html) |
+| 2026-10-03 | Trump Promotes Data Centers at Rally With Republican Facing Heat on Them | NYT · Politics | Politics | news | 2026-10-04 | [link](https://www.nytimes.com/2026/10/03/us/politics/trump-data-centers-husted-ohio.html) |
+| 2026-10-03 | States Sue Over Trump’s Repeal of Climate Rules for Power Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/01/climate/states-sue-epa-power-plant-trump.html) |
+| 2026-10-03 | Behold the Paragons of Rank Incompetence | NYT · Opinion | Opinion | opinion | 2026-10-01 | [link](https://www.nytimes.com/2026/10/01/opinion/ai-huang-gates-superintelligence.html) |
+| 2026-10-03 | An A.I. Songwriting Experiment: Humans Against the Machine | NYT · Technology | Technology | news | 2026-10-03 | [link](https://www.nytimes.com/2026/10/03/arts/music/human-songwriting-ai-songwriting.html) |
+| 2026-10-03 | ‘No Tax on Tips’ May Fall Flat for G.O.P. in Fight for House and Senate | NYT · Politics | Politics | news | 2026-10-04 | [link](https://www.nytimes.com/2026/10/04/us/politics/tax-cuts-congress-arizona-republicans.html) |
+| 2026-10-03 | Sponsored: Overcoming five common direct liquid cooling specification challenges | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-03 | [link](https://www.datacenterdynamics.com/en/opinions/overcoming-five-common-direct-liquid-cooling-specification-challenges/) |
+| 2026-10-03 | September sponsors-only newsletter | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-03 | [link](https://simonwillison.net/2026/Oct/3/newsletter/) |
+| 2026-10-03 | WorkOS | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-03 | [link](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) |
+| 2026-10-03 | Apple Confirms iPhone 18 Pro Max AT&T Cellular Issues, Affected Devices Require Hardware Replacement | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-03 | [link](https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/) |
+| 2026-10-03 | I used Claude to make 106 almost all black OLED wallpapers, plotting the graphics from real scientif | Reddit | Business | social | 2026-10-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wwxsle/i_used_claude_to_make_106_almost_all_black_oled/) |
+| 2026-10-03 | Did they nerf Opus 5.5? LiveNerf baseline established: Day 10 | Reddit | Business | social | 2026-10-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wwsm61/did_they_nerf_opus_55_livenerf_baseline/) |
+| 2026-10-03 | Anthropic invests $100 million to train 10,000 engineers and close the enterprise AI talent gap | Reddit | Business | social | 2026-10-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wwq6p5/anthropic_invests_100_million_to_train_10000/) |
+| 2026-10-03 | Opus 5.5 can one-shot a video, so I pushed it a little bit further: a Skill that turns PDF into an a | Reddit | Business | social | 2026-10-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wwhlgb/opus_55_can_oneshot_a_video_so_i_pushed_it_a/) |
+| 2026-10-03 | I use Claude daily but I know I'm only using a fraction of what Claude can do. How do I actually max | Reddit | Business | social | 2026-10-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1ww9nq3/i_use_claude_daily_but_i_know_im_only_using_a/) |
+| 2026-10-03 | Monkey Business an AI Animated Short Film by Marcello Costa done with Claude + Magnific integration | Reddit | Business | social | 2026-10-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wwv8vm/monkey_business_an_ai_animated_short_film_by/) |
+| 2026-10-03 | “But babe, it’s like a free $200 gift card!” | Reddit | Business | social | 2026-10-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wwapbj/but_babe_its_like_a_free_200_gift_card/) |
+| 2026-10-03 | Fable vs Opus, which do you use? | Reddit | Business | social | 2026-10-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wwqypi/fable_vs_opus_which_do_you_use/) |
+| 2026-10-03 | Opus 5.5 burns subscription faster? | Reddit | Business | social | 2026-10-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wwaszm/opus_55_burns_subscription_faster/) |
+| 2026-10-03 | Jesus Christ, Opus has infinite more taste than Astra | Reddit | Business | social | 2026-10-03 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wwbag6/jesus_christ_opus_has_infinite_more_taste_than/) |
+| 2026-10-03 | I hate claude code | Reddit | Business | social | 2026-10-03 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wwo10h/i_hate_claude_code/) |
+| 2026-10-03 | Nothing beats a database for agent memory | Reddit | Business | social | 2026-10-03 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wwzw33/nothing_beats_a_database_for_agent_memory/) |
+| 2026-10-03 | Where to actually learn Claude code best practices | Reddit | Business | social | 2026-10-03 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wwdfvn/where_to_actually_learn_claude_code_best_practices/) |
+| 2026-10-03 | I'm liking the new Mods feature | Reddit | Business | social | 2026-10-03 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wwjman/im_liking_the_new_mods_feature/) |
+| 2026-10-03 | If it is humanly impossible to keep up with the sheer volume of code and architecture that AIs gener | Reddit | Business | social | 2026-10-03 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wwcgtp/if_it_is_humanly_impossible_to_keep_up_with_the/) |
+| 2026-10-03 | Word-Smith finally has a proper video, narrated by a fellow redditor who turned out to be a real act | Reddit | Business | social | 2026-10-03 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wwfkhz/wordsmith_finally_has_a_proper_video_narrated_by/) |
+| 2026-10-03 | [Theme WIP] LCARS interface refit modeled on Star Trek: Picard | Reddit | Business | social | 2026-10-03 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wwhd5g/theme_wip_lcars_interface_refit_modeled_on_star/) |
+| 2026-10-03 | RSS Dashboard 2.7.1 — import your starred articles from Inoreader/FreshRSS, image lightbox, safer st | Reddit | Business | social | 2026-10-03 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wwrleq/rss_dashboard_271_import_your_starred_articles/) |
+| 2026-10-03 | Harvesting the moon 🌙 - bit by bit and around and round | Reddit | Business | social | 2026-10-03 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wwpbj4/harvesting_the_moon_bit_by_bit_and_around_and/) |
+| 2026-10-03 | Concept behind groups | Reddit | Business | social | 2026-10-03 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wwcu2d/concept_behind_groups/) |
+| 2026-10-03 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-02 | Apple Pass Designer | HN | Technology | tech | 2026-10-02 | [link](https://developer.apple.com/pass-designer/) |
 | 2026-10-02 | Extra Big Ass Intelligence | HN | Technology | tech | 2026-10-02 | [link](https://www.extrabigassintelligence.com/) |
 | 2026-10-02 | Shimano Bicycle Museum Review | HN | Technology | tech | 2026-10-02 | [link](https://inrng.com/2026/10/shimano-bicycle-museum/) |

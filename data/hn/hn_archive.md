@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-03 · 506 days · 5060 stories*
+*Last updated: 2026-10-04 · 507 days · 5070 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-03 | Saturday | 1 | Kolibri: A Sovereign Open-Weight Model | 613 | 316 | Technology | [link](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) · [HN](https://news.ycombinator.com/item?id=49942706) |
+| 2026-10-03 | Saturday | 2 | Tell HN: Bob Cringely has died | 448 | 91 | Technology | [link](https://news.ycombinator.com/item?id=49949438) · [HN](https://news.ycombinator.com/item?id=49949438) |
+| 2026-10-03 | Saturday | 3 | We're going to need default hard budget caps on pretty much everything | 433 | 214 | Technology | [link](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) · [HN](https://news.ycombinator.com/item?id=49949235) |
+| 2026-10-03 | Saturday | 4 | Federal judge calls Flock 'indiscriminate mass surveillance' | 426 | 238 | Technology | [link](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/) · [HN](https://news.ycombinator.com/item?id=49948254) |
+| 2026-10-03 | Saturday | 5 | Aleph Alpha Kolibri: How the sovereign German LLM works | 413 | 12 | Technology | [link](https://tej.as/blog/aleph-alpha-kolibri) · [HN](https://news.ycombinator.com/item?id=49943034) |
+| 2026-10-03 | Saturday | 6 | Hole Punch: Sling your spaceship around gravitational fields | 292 | 66 | Technology | [link](https://notoriousbfg.com/hole-punch/) · [HN](https://news.ycombinator.com/item?id=49946393) |
+| 2026-10-03 | Saturday | 7 | The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux | 286 | 44 | Technology | [link](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) · [HN](https://news.ycombinator.com/item?id=49946895) |
+| 2026-10-03 | Saturday | 8 | OpenAI safety leader quits, warning AI company's culture is 'broken' | 262 | 3 | Technology | [link](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken) · [HN](https://news.ycombinator.com/item?id=49948332) |
+| 2026-10-03 | Saturday | 9 | I quit OpenAI because its culture is broken | 225 | 490 | Technology | [link](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA) · [HN](https://news.ycombinator.com/item?id=49944227) |
+| 2026-10-03 | Saturday | 10 | ADHD, autism or complex trauma? [pdf] | 213 | 246 | Technology | [link](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf) · [HN](https://news.ycombinator.com/item?id=49946403) |
 | 2026-10-02 | Friday | 1 | Apple Pass Designer | 425 | 262 | Technology | [link](https://developer.apple.com/pass-designer/) · [HN](https://news.ycombinator.com/item?id=49937276) |
 | 2026-10-02 | Friday | 2 | Extra Big Ass Intelligence | 298 | 61 | Technology | [link](https://www.extrabigassintelligence.com/) · [HN](https://news.ycombinator.com/item?id=49941114) |
 | 2026-10-02 | Friday | 3 | Shimano Bicycle Museum Review | 291 | 76 | Technology | [link](https://inrng.com/2026/10/shimano-bicycle-museum/) · [HN](https://news.ycombinator.com/item?id=49930047) |
