@@ -1,9 +1,70 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-04 · 8522 items*
+*Last updated: 2026-10-05 · 8583 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-04 | Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s | HN | Technology | tech | 2026-10-04 | [link](https://github.com/Niko1221/Strata) |
+| 2026-10-04 | Turn off Apple Intelligence on macOS 27 and get its disk space back | HN | Technology | tech | 2026-10-04 | [link](https://github.com/omlahore/RemoveMacAI) |
+| 2026-10-04 | Improper redaction reveals Google Data Center water and electricity usage | HN | Technology | tech | 2026-10-04 | [link](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/) |
+| 2026-10-04 | Why don't more developers “use the platform”? | HN | Technology | tech | 2026-10-04 | [link](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/) |
+| 2026-10-04 | A browser-native classic Visual Basic VB6 IDE | HN | Technology | tech | 2026-10-04 | [link](https://wieslawsoltes.github.io/VB6/) |
+| 2026-10-04 | Nearly 200 people under observation after Irkutsk lab worker dies from plague | HN | Technology | tech | 2026-10-04 | [link](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857) |
+| 2026-10-04 | Car is a smartphone on wheels. Here's who's listening | HN | Technology | tech | 2026-10-04 | [link](https://automatictransmission.khoury.northeastern.edu/) |
+| 2026-10-04 | Powerless F1 drivers frustrated by Bahrain F1 software glitch | HN | Technology | tech | 2026-10-04 | [link](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/) |
+| 2026-10-04 | In Ukraine, distributed renewables foil Russia's assaults | HN | Technology | tech | 2026-10-04 | [link](https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/) |
+| 2026-10-04 | Show HN: AI search for every photo and every frame of video on macOS | HN | Technology | tech | 2026-10-04 | [link](https://github.com/allenv0/SCM) |
+| 2026-10-04 | Self-hosted HTTP tunnels with SSH and Nginx | HN | Technology | tech | 2026-10-04 | [link](https://vincent.bernat.ch/en/blog/2026-http-over-ssh) |
+| 2026-10-04 | In the wake of Tippett Studios’ closure, a digital archive appears online | HN | Technology | tech | 2026-10-04 | [link](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/) |
+| 2026-10-04 | Emitting metadata early makes building/checking Rust up to twice as fast | HN | Technology | tech | 2026-10-04 | [link](https://github.com/PowderworksCode/headstart) |
+| 2026-10-04 | Bill Draper has died | HN | Technology | tech | 2026-10-04 | [link](https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html) |
+| 2026-10-04 | VGHF Digital Archive passes 5000 magazines. Here's what's next | HN | Technology | tech | 2026-10-04 | [link](https://gamehistory.org/5k-magazines/) |
+| 2026-10-04 | ArtCraft Apps – open-source Adobe compatible suite written in Rust | HN | Technology | tech | 2026-10-04 | [link](https://getartcraft.com/apps) |
+| 2026-10-04 | P.&G.’s Chief on Whether Brand Loyalty Is Enough When Prices Keep Climbing | NYT · Business | Business | news | 2026-10-04 | [link](https://www.nytimes.com/2026/10/04/business/procter-gamble-shailesh-jejurikar.html) |
+| 2026-10-04 | Supreme Court to Hear Major Environmental Lawsuit | NYT · Business | Business | news | 2026-10-05 | [link](https://www.nytimes.com/2026/10/05/us/politics/supreme-court-climate-change-oil.html) |
+| 2026-10-04 | A Supreme Court Battle Over Climate Change Begins | NYT · Energy & Environment | Energy & Environment | news | 2026-10-04 | [link](https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html) |
+| 2026-10-04 | Who’s to Blame When A.I. Goes Rogue? | NYT · Technology | Technology | news | 2026-10-03 | [link](https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html) |
+| 2026-10-04 | The Powerful Yet Fragile Force Propping Up Stocks and the Economy | NYT · Business | Business | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html) |
+| 2026-10-04 | Court Tosses ​​Sentence After A.I. Video of Victim ‘Forgiving’ His Killer Is Played | NYT · Technology | Technology | news | 2026-10-04 | [link](https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html) |
+| 2026-10-04 | US Solar Panel Makers Try to Catch China With a Big Leap in Technology | NYT · Energy & Environment | Energy & Environment | news | 2026-10-05 | [link](https://www.nytimes.com/2026/10/05/business/energy-environment/tandem-solar-panels-us-china.html) |
+| 2026-10-04 | The Latest Challenge to Data Centers? Restive Investors. | NYT · Business | Business | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/business/dealbook/data-center-ai-bonds.html) |
+| 2026-10-04 | A Spirited Battle Over Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/climate/a-spirited-battle-over-data-centers.html) |
+| 2026-10-04 | A.I. Agents: Cute, Cuddly and Maybe Catastrophically Dangerous? | NYT · Technology | Technology | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/podcasts/hardfork-regulation-agents-muse.html) |
+| 2026-10-04 | Controlling Risks Posed by A.I. and Other Threats to Humanity | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-10-03 | [link](https://www.nytimes.com/2026/10/03/opinion/letters/ai-threats-risks.html) |
+| 2026-10-04 | At Trump’s Rallies, a Familiar Mix of Rituals and a Plea to ‘Please Pretend’ | NYT · Politics | Politics | news | 2026-10-04 | [link](https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html) |
+| 2026-10-04 | F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms | NYT · Technology | Technology | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html) |
+| 2026-10-04 | Six Charts That Show Just How Much We Need A.I. | NYT · Opinion | Opinion | opinion | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/opinion/ai-tech-innovation.html) |
+| 2026-10-04 | College Students Flex Their Power in A.I. Investment Frenzy | NYT · Technology | Technology | news | 2026-09-29 | [link](https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html) |
+| 2026-10-04 | What’s In Anthropic’s I.P.O. Filing | NYT · DealBook | DealBook | news | 2026-09-29 | [link](https://www.nytimes.com/2026/09/29/business/dealbook/anthropic-ipo-filing-s1.html) |
+| 2026-10-04 | Paramount Settles States’ Lawsuit, Clearing Way for Warner Bros. Merger | NYT · DealBook | DealBook | news | 2026-09-22 | [link](https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html) |
+| 2026-10-04 | Anthropic Pursues IPO Despite Its A.I. Safety Warnings | NYT · DealBook | DealBook | news | 2026-09-21 | [link](https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html) |
+| 2026-10-04 | States Sue Over Trump’s Repeal of Climate Rules for Power Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/01/climate/states-sue-epa-power-plant-trump.html) |
+| 2026-10-04 | OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models | NYT · Technology | Technology | news | 2026-09-29 | [link](https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html) |
+| 2026-10-04 | Garlic Peel Sensor Powers Low-Cost Home Security Sensor | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-10-04 | [link](https://spectrum.ieee.org/garlic-peel-biowaste-sensor) |
+| 2026-10-04 | America’s AI race won’t be won by hitting pause on data centers | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-04 | [link](https://www.datacenterdynamics.com/en/opinions/americas-ai-race-wont-be-won-by-hitting-pause-on-cata-centers/) |
+| 2026-10-04 | Weekly Update 524: Live From Copenhagen | Troy Hunt · Security & Privacy | Security | tech | 2026-10-04 | [link](https://www.troyhunt.com/weekly-update-524/) |
+| 2026-10-04 | My Pitch for the New Season of Doctor Who | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-10-04 | [link](https://shkspr.mobi/blog/2026/10/my-pitch-for-the-new-season-of-doctor-who/) |
+| 2026-10-04 | Claude has enabled me to make apps for personal use and its kinda scary | Reddit | Business | social | 2026-10-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wx7nnw/claude_has_enabled_me_to_make_apps_for_personal/) |
+| 2026-10-04 | Claude just saved my ass from a gas leak! | Reddit | Business | social | 2026-10-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wxoqzr/claude_just_saved_my_ass_from_a_gas_leak/) |
+| 2026-10-04 | AI is a HelloFresh killer. Automated meal prep and grocery ordering workflow. | Reddit | Business | social | 2026-10-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wxlm01/ai_is_a_hellofresh_killer_automated_meal_prep_and/) |
+| 2026-10-04 | Updated Claude storage/memory map: what's local, what's cloud, and what changes Oct 6 | Reddit | Business | social | 2026-10-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wxiysh/updated_claude_storagememory_map_whats_local/) |
+| 2026-10-04 | Ask Fable to Optimize Everything you Do! | Reddit | Business | social | 2026-10-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wx3xrq/ask_fable_to_optimize_everything_you_do/) |
+| 2026-10-04 | Tip: How to automate "Hi Haiku" daily early morning | Reddit | Business | social | 2026-10-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wxon4e/tip_how_to_automate_hi_haiku_daily_early_morning/) |
+| 2026-10-04 | I made a quiz with Claude to test how much AI has gotten into your brain. It’s just a fun side proje | Reddit | Business | social | 2026-10-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wxi4nd/i_made_a_quiz_with_claude_to_test_how_much_ai_has/) |
+| 2026-10-04 | Opus 5.5 can translate pretty much any retro game in about 4 hours. | Reddit | Business | social | 2026-10-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wxlome/opus_55_can_translate_pretty_much_any_retro_game/) |
+| 2026-10-04 | I used Claude to build a dashboard that aggregates news articles, trending videos, livestreams and r | Reddit | Business | social | 2026-10-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wxnkuc/i_used_claude_to_build_a_dashboard_that/) |
+| 2026-10-04 | Anthropic needs an even cheaper model than Haiku | Reddit | Business | social | 2026-10-04 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wxsns4/anthropic_needs_an_even_cheaper_model_than_haiku/) |
+| 2026-10-04 | When did Claude stop being an assistant and start managing the user? | Reddit | Business | social | 2026-10-04 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wxex89/when_did_claude_stop_being_an_assistant_and_start/) |
+| 2026-10-04 | Claude Code when you ask it to push to main | Reddit | Business | social | 2026-10-04 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wxi3yd/claude_code_when_you_ask_it_to_push_to_main/) |
+| 2026-10-04 | Opus 5.5 and GPT-6.1 fills my brain context too quickly. | Reddit | Business | social | 2026-10-04 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wxqy2j/opus_55_and_gpt61_fills_my_brain_context_too/) |
+| 2026-10-04 | Built with Claude in 5 hours | Reddit | Business | social | 2026-10-04 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wx3cfl/built_with_claude_in_5_hours/) |
+| 2026-10-04 | so why use Fable 5.1? now that opus5.5 is better in everyway or am i missing a niche usecase? | Reddit | Business | social | 2026-10-04 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wxew8d/so_why_use_fable_51_now_that_opus55_is_better_in/) |
+| 2026-10-04 | my second brain | Reddit | Business | social | 2026-10-04 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wxmamj/my_second_brain/) |
+| 2026-10-04 | Advanced Multi Column: side-by-side columns you can edit, drag and resize right in Live Preview with | Reddit | Business | social | 2026-10-04 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wxo721/advanced_multi_column_sidebyside_columns_you_can/) |
+| 2026-10-04 | AutoDater: never date a note by hand again. Here is why it is different from what is already out the | Reddit | Business | social | 2026-10-04 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wxndq9/autodater_never_date_a_note_by_hand_again_here_is/) |
+| 2026-10-04 | Web Clipper keeps transcribing videos in English even though they're in a different language, is the | Reddit | Business | social | 2026-10-04 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wxgk1q/web_clipper_keeps_transcribing_videos_in_english/) |
+| 2026-10-04 | HELP: Has anybody managed to get the Notebook Navigator work with the Baseline Theme? | Reddit | Business | social | 2026-10-04 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wxd2fs/help_has_anybody_managed_to_get_the_notebook/) |
+| 2026-10-04 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-03 | Kolibri: A Sovereign Open-Weight Model | HN | Technology | tech | 2026-10-03 | [link](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) |
 | 2026-10-03 | Tell HN: Bob Cringely has died | HN | Technology | tech | 2026-10-03 | [link](https://news.ycombinator.com/item?id=49949438) |
 | 2026-10-03 | We're going to need default hard budget caps on pretty much everything | HN | Technology | tech | 2026-10-03 | [link](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) |

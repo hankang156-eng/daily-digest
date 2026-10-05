@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-04 · 507 days · 5070 stories*
+*Last updated: 2026-10-05 · 508 days · 5080 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-04 | Sunday | 1 | Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s | 806 | 356 | Technology | [link](https://github.com/Niko1221/Strata) · [HN](https://news.ycombinator.com/item?id=49953495) |
+| 2026-10-04 | Sunday | 2 | Turn off Apple Intelligence on macOS 27 and get its disk space back | 575 | 396 | Technology | [link](https://github.com/omlahore/RemoveMacAI) · [HN](https://news.ycombinator.com/item?id=49957116) |
+| 2026-10-04 | Sunday | 3 | Improper redaction reveals Google Data Center water and electricity usage | 395 | 516 | Technology | [link](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/) · [HN](https://news.ycombinator.com/item?id=49957068) |
+| 2026-10-04 | Sunday | 4 | Why don't more developers “use the platform”? | 301 | 316 | Technology | [link](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/) · [HN](https://news.ycombinator.com/item?id=49950554) |
+| 2026-10-04 | Sunday | 5 | A browser-native classic Visual Basic VB6 IDE | 241 | 78 | Technology | [link](https://wieslawsoltes.github.io/VB6/) · [HN](https://news.ycombinator.com/item?id=49956681) |
+| 2026-10-04 | Sunday | 6 | Nearly 200 people under observation after Irkutsk lab worker dies from plague | 224 | 204 | Technology | [link](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857) · [HN](https://news.ycombinator.com/item?id=49960084) |
+| 2026-10-04 | Sunday | 7 | Car is a smartphone on wheels. Here's who's listening | 210 | 142 | Technology | [link](https://automatictransmission.khoury.northeastern.edu/) · [HN](https://news.ycombinator.com/item?id=49954882) |
+| 2026-10-04 | Sunday | 8 | Powerless F1 drivers frustrated by Bahrain F1 software glitch | 201 | 169 | Technology | [link](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/) · [HN](https://news.ycombinator.com/item?id=49959869) |
+| 2026-10-04 | Sunday | 9 | In Ukraine, distributed renewables foil Russia's assaults | 169 | 195 | Technology | [link](https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/) · [HN](https://news.ycombinator.com/item?id=49951881) |
+| 2026-10-04 | Sunday | 10 | Show HN: AI search for every photo and every frame of video on macOS | 153 | 69 | Technology | [link](https://github.com/allenv0/SCM) · [HN](https://news.ycombinator.com/item?id=49952111) |
 | 2026-10-03 | Saturday | 1 | Kolibri: A Sovereign Open-Weight Model | 613 | 316 | Technology | [link](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) · [HN](https://news.ycombinator.com/item?id=49942706) |
 | 2026-10-03 | Saturday | 2 | Tell HN: Bob Cringely has died | 448 | 91 | Technology | [link](https://news.ycombinator.com/item?id=49949438) · [HN](https://news.ycombinator.com/item?id=49949438) |
 | 2026-10-03 | Saturday | 3 | We're going to need default hard budget caps on pretty much everything | 433 | 214 | Technology | [link](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) · [HN](https://news.ycombinator.com/item?id=49949235) |
