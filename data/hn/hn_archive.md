@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-05 · 508 days · 5080 stories*
+*Last updated: 2026-10-06 · 509 days · 5090 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-05 | Monday | 1 | Anthropic reported diary entry to police, woman faces felony charge | 732 | 565 | Technology | [link](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html) · [HN](https://news.ycombinator.com/item?id=49961057) |
+| 2026-10-05 | Monday | 2 | Web Search API | 548 | 248 | Technology | [link](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/) · [HN](https://news.ycombinator.com/item?id=49963171) |
+| 2026-10-05 | Monday | 3 | Denmark data breach exposes 8.8M people's personal data | 483 | 338 | Technology | [link](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger) · [HN](https://news.ycombinator.com/item?id=49962012) |
+| 2026-10-05 | Monday | 4 | Beam: Reflection's 501B open-weight model | 457 | 145 | Technology | [link](https://reflection.ai/blog/introducing-beam) · [HN](https://news.ycombinator.com/item?id=49969183) |
+| 2026-10-05 | Monday | 5 | ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons | 439 | 313 | Technology | [link](https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/) · [HN](https://news.ycombinator.com/item?id=49971846) |
+| 2026-10-05 | Monday | 6 | Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped | 417 | 295 | Technology | [link](https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped) · [HN](https://news.ycombinator.com/item?id=49964303) |
+| 2026-10-05 | Monday | 7 | Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates | 357 | 238 | Technology | [link](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors) · [HN](https://news.ycombinator.com/item?id=49970667) |
+| 2026-10-05 | Monday | 8 | Germany’s RobCo hits $1B valuation | 335 | 358 | Technology | [link](https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/) · [HN](https://news.ycombinator.com/item?id=49963366) |
+| 2026-10-05 | Monday | 9 | OpenAI "rogue" agent activities found on Wikimedia projects | 280 | 183 | Technology | [link](https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/) · [HN](https://news.ycombinator.com/item?id=49968105) |
+| 2026-10-05 | Monday | 10 | Apple and a hacker's future | 258 | 219 | Technology | [link](https://stratechery.com/2026/apple-and-a-hackers-future/) · [HN](https://news.ycombinator.com/item?id=49962857) |
 | 2026-10-04 | Sunday | 1 | Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s | 806 | 356 | Technology | [link](https://github.com/Niko1221/Strata) · [HN](https://news.ycombinator.com/item?id=49953495) |
 | 2026-10-04 | Sunday | 2 | Turn off Apple Intelligence on macOS 27 and get its disk space back | 575 | 396 | Technology | [link](https://github.com/omlahore/RemoveMacAI) · [HN](https://news.ycombinator.com/item?id=49957116) |
 | 2026-10-04 | Sunday | 3 | Improper redaction reveals Google Data Center water and electricity usage | 395 | 516 | Technology | [link](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/) · [HN](https://news.ycombinator.com/item?id=49957068) |

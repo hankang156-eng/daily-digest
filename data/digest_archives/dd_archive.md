@@ -1,9 +1,75 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-05 · 8583 items*
+*Last updated: 2026-10-06 · 8649 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-05 | Anthropic reported diary entry to police, woman faces felony charge | HN | Technology | tech | 2026-10-05 | [link](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html) |
+| 2026-10-05 | Web Search API | HN | Technology | tech | 2026-10-05 | [link](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/) |
+| 2026-10-05 | Denmark data breach exposes 8.8M people's personal data | HN | Technology | tech | 2026-10-05 | [link](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger) |
+| 2026-10-05 | Beam: Reflection's 501B open-weight model | HN | Technology | tech | 2026-10-05 | [link](https://reflection.ai/blog/introducing-beam) |
+| 2026-10-05 | ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons | HN | Technology | tech | 2026-10-05 | [link](https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/) |
+| 2026-10-05 | Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped | HN | Technology | tech | 2026-10-05 | [link](https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped) |
+| 2026-10-05 | Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates | HN | Technology | tech | 2026-10-05 | [link](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors) |
+| 2026-10-05 | Germany’s RobCo hits $1B valuation | HN | Technology | tech | 2026-10-05 | [link](https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/) |
+| 2026-10-05 | OpenAI "rogue" agent activities found on Wikimedia projects | HN | Technology | tech | 2026-10-05 | [link](https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/) |
+| 2026-10-05 | Apple and a hacker's future | HN | Technology | tech | 2026-10-05 | [link](https://stratechery.com/2026/apple-and-a-hackers-future/) |
+| 2026-10-05 | Mold Linker Version 3.0.0 Release – Rewritten in Rust | HN | Technology | tech | 2026-10-05 | [link](https://github.com/rui314/mold/releases/tag/v3.0.0) |
+| 2026-10-05 | Example.com just launched the biggest redesign in decades | HN | Technology | tech | 2026-10-05 | [link](https://www.debugbear.com/blog/example-dot-com-redesign-history) |
+| 2026-10-05 | US closely monitoring case of lab worker who possibly died of plague in Siberia | HN | Technology | tech | 2026-10-05 | [link](https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk) |
+| 2026-10-05 | The lamps in my house | HN | Technology | tech | 2026-10-05 | [link](https://arslan.io/2026/10/05/the-lamps-in-my-house/) |
+| 2026-10-05 | Find the flattest route between any two points in SF | HN | Technology | tech | 2026-10-05 | [link](https://flattensf.com/) |
+| 2026-10-05 | Texas city demands $2M for public records on Flock usage | HN | Technology | tech | 2026-10-05 | [link](https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/) |
+| 2026-10-05 | High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed. | NYT · Business | Business | news | 2026-10-05 | [link](https://www.nytimes.com/2026/10/05/business/ai-boom-interest-rates-fed.html) |
+| 2026-10-05 | What’s the Right “Level of Care” for A.I.? | NYT · Business | Business | news | 2026-10-05 | [link](https://www.nytimes.com/2026/10/05/business/dealbook/ai-safety-openai.html) |
+| 2026-10-05 | College Students Flex Their Power in A.I. Investment Frenzy | NYT · DealBook | DealBook | news | 2026-10-05 | [link](https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html) |
+| 2026-10-05 | A Supreme Court Battle Over Climate Change Begins | NYT · Energy & Environment | Energy & Environment | news | 2026-10-05 | [link](https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html) |
+| 2026-10-05 | A.I. Officials Stonewall on Questions About Technology’s Risks | NYT · Business | Business | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/05/nyregion/ai-city-council-hearing.html) |
+| 2026-10-05 | Chicago Woman Shot by Border Patrol Agent Sues Federal Government | NYT · U.S. | U.S. | news | 2026-10-05 | [link](https://www.nytimes.com/2026/10/05/us/marimar-martinez-lawsuit-ice-chicago.html) |
+| 2026-10-05 | Why Cities and States Are Fighting Climate Change in Courtrooms | NYT · Energy & Environment | Energy & Environment | news | 2026-10-05 | [link](https://www.nytimes.com/2026/10/05/climate/climate-lawsuits-courts-boulder-oil.html) |
+| 2026-10-05 | Who’s to Blame When A.I. Goes Rogue? | NYT · Technology | Technology | news | 2026-10-03 | [link](https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html) |
+| 2026-10-05 | After a Failed Execution, Scrutiny of the 5 Methods Used to Kill | NYT · U.S. | U.S. | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/us/execution-methods.html) |
+| 2026-10-05 | Supreme Court Tangles Over a Major Climate Change Case | NYT · Business | Business | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/05/us/politics/supreme-court-climate-change-oil.html) |
+| 2026-10-05 | The Powerful Yet Fragile Force Propping Up Stocks and the Economy | NYT · Business | Business | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html) |
+| 2026-10-05 | Court Tosses ​​Sentence After A.I. Video of Victim ‘Forgiving’ His Killer Is Played | NYT · Technology | Technology | news | 2026-10-05 | [link](https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html) |
+| 2026-10-05 | A Spirited Battle Over Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/climate/a-spirited-battle-over-data-centers.html) |
+| 2026-10-05 | F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms | NYT · Technology | Technology | news | 2026-09-30 | [link](https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html) |
+| 2026-10-05 | Biden-Era Memo on Covid and Schools Set Off Dispute in Justice Dept. | NYT · Politics | Politics | news | 2026-10-05 | [link](https://www.nytimes.com/2026/10/05/us/politics/garland-memo-covid-schools.html) |
+| 2026-10-05 | Trump’s Try, Try Again Supreme Court Strategy | NYT · Opinion | Opinion | opinion | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/opinion/trump-supreme-court-decisions.html) |
+| 2026-10-05 | How Alaska’s Fish Became a Defining Issue for the Midterms | NYT · Politics | Politics | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/us/politics/alaska-fish-midterms.html) |
+| 2026-10-05 | In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers | NYT · Technology | Technology | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/science/in-race-with-us-china-struggles-to-recruit-foreign-ai-researchers.html) |
+| 2026-10-05 | The Science That Has Oil Companies Running Scared | NYT · Opinion | Opinion | opinion | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/opinion/oil-companies-supreme-court.html) |
+| 2026-10-05 | A.I. Agents: Cute, Cuddly and Maybe Catastrophically Dangerous? | NYT · Technology | Technology | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/podcasts/hardfork-regulation-agents-muse.html) |
+| 2026-10-05 | Former IBM research campus in Silicon Valley set to be acquired by data center firm | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-05 | [link](https://www.datacenterdynamics.com/en/news/former-ibm-research-campus-in-silicon-valley-set-to-be-acquired-by-data-center-firm/) |
+| 2026-10-05 | Heat pumps, electric water heaters continue to gain ground: reports | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-05 | [link](https://www.utilitydive.com/news/heat-pumps-electric-water-heaters-continue-to-gain-ground-reports/832138/) |
+| 2026-10-05 | Quoting Felix Rieseberg | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-05 | [link](https://simonwillison.net/2026/Oct/5/felix-rieseberg/) |
+| 2026-10-05 | AI cloud startup Verda raises $189m in Series B funding round | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-05 | [link](https://www.datacenterdynamics.com/en/news/ai-cloud-startup-verda-raises-189m-in-series-b-funding-round/) |
+| 2026-10-05 | MISO proposes fast-track large load, generation study process | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-05 | [link](https://www.utilitydive.com/news/miso-large-load-generation-study-lars-ferc/832114/) |
+| 2026-10-05 | OpenAI Announces Their Text Watermarking Plans | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-05 | [link](https://openai.com/index/eu-text-provenance/) |
+| 2026-10-05 | Rising interest rates challenge utility financing plans, US Bank managing director says | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-05 | [link](https://www.utilitydive.com/news/rising-interest-rates-utility-financing-us-bank/832131/) |
+| 2026-10-05 | [RSS Club] Changes to the RSS and Atom feeds | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-10-05 | [link](https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/) |
+| 2026-10-05 | [Sponsor] Sunnny | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-05 | [link](https://sunnny.com/) |
+| 2026-10-05 | Update: my human has been nerfed AGAIN. Two months on. Still no changelog. | Reddit | Business | social | 2026-10-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wymhe2/update_my_human_has_been_nerfed_again_two_months/) |
+| 2026-10-05 | You put my what | Reddit | Business | social | 2026-10-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wyiw3k/you_put_my_what/) |
+| 2026-10-05 | Week 10 of making my fishing game with the help of AI and finally close to a demo | Reddit | Business | social | 2026-10-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wy28wy/week_10_of_making_my_fishing_game_with_the_help/) |
+| 2026-10-05 | I connected Claude to a video editor and made this animation. Literally jaw-dropping. | Reddit | Business | social | 2026-10-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wyfy3m/i_connected_claude_to_a_video_editor_and_made/) |
+| 2026-10-05 | Opus 5.5 vs. GPT-6 Astra vs. DeepSeek V4.1 Flash vs. Gemini 3.8 Flash ✈️ | Reddit | Business | social | 2026-10-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wycuri/opus_55_vs_gpt6_astra_vs_deepseek_v41_flash_vs/) |
+| 2026-10-05 | I had to try Opus 5.5's JavaScript videos, so I made one about a data center that makes fresh water  | Reddit | Business | social | 2026-10-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wxy24q/i_had_to_try_opus_55s_javascript_videos_so_i_made/) |
+| 2026-10-05 | I made a large set of futuristic sci-fi UI's | Reddit | Business | social | 2026-10-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wyi1l8/i_made_a_large_set_of_futuristic_scifi_uis/) |
+| 2026-10-05 | Anthropic's official agent skills guide. 6 insights | Reddit | Business | social | 2026-10-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wyjty8/anthropics_official_agent_skills_guide_6_insights/) |
+| 2026-10-05 | is this… prompt injection? | Reddit | Business | social | 2026-10-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wyflme/is_this_prompt_injection/) |
+| 2026-10-05 | I feel I’ve lost all productivity without Claude Code | Reddit | Business | social | 2026-10-05 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wy1u7m/i_feel_ive_lost_all_productivity_without_claude/) |
+| 2026-10-05 | Why wait to be replaced when I can replace myself 😂😂 | Reddit | Business | social | 2026-10-05 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wy76fh/why_wait_to_be_replaced_when_i_can_replace_myself/) |
+| 2026-10-05 | We have successfully automated the process of making things complicated | Reddit | Business | social | 2026-10-05 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wxzlpg/we_have_successfully_automated_the_process_of/) |
+| 2026-10-05 | How many of you still use Claude code from terminal vs the claude desktop app? | Reddit | Business | social | 2026-10-05 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wy9mju/how_many_of_you_still_use_claude_code_from/) |
+| 2026-10-05 | I just wanted to try the new Claude Code mods. I ended up with a finished physical object on my desk | Reddit | Business | social | 2026-10-05 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wye4ix/i_just_wanted_to_try_the_new_claude_code_mods_i/) |
+| 2026-10-05 | I built a terminal where you can watch Claude Code work: it types its edits into an editor live and  | Reddit | Business | social | 2026-10-05 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wycbbr/i_built_a_terminal_where_you_can_watch_claude/) |
+| 2026-10-05 | Obsidian 1.14: Open individual Markdown files, Kanban, highlight colors, iOS quick capture and more! | Reddit | Business | social | 2026-10-05 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wye9oe/obsidian_114_open_individual_markdown_files/) |
+| 2026-10-05 | Just realized I lost months worth of notes 💔 | Reddit | Business | social | 2026-10-05 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wxugvf/just_realized_i_lost_months_worth_of_notes/) |
+| 2026-10-05 | When we can expect new widhet for android? | Reddit | Business | social | 2026-10-05 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wyh7ct/when_we_can_expect_new_widhet_for_android/) |
+| 2026-10-05 | Qard 0.5.0 : flashcards, practice tests and course maps inside Obsidian | Reddit | Business | social | 2026-10-05 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wy7su8/qard_050_flashcards_practice_tests_and_course/) |
+| 2026-10-05 | Doomscroll 0.2.0 Released | Reddit | Business | social | 2026-10-05 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wykvlw/doomscroll_020_released/) |
+| 2026-10-05 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-04 | Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s | HN | Technology | tech | 2026-10-04 | [link](https://github.com/Niko1221/Strata) |
 | 2026-10-04 | Turn off Apple Intelligence on macOS 27 and get its disk space back | HN | Technology | tech | 2026-10-04 | [link](https://github.com/omlahore/RemoveMacAI) |
 | 2026-10-04 | Improper redaction reveals Google Data Center water and electricity usage | HN | Technology | tech | 2026-10-04 | [link](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/) |
