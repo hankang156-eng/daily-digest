@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-06 · 509 days · 5090 stories*
+*Last updated: 2026-10-07 · 510 days · 5100 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-06 | Tuesday | 1 | Mistral Large 4 | 1812 | 1080 | Technology | [link](https://mistral.ai/news/mistral-large-4/\) · [HN](https://news.ycombinator.com/item?id=49977979) |
+| 2026-10-06 | Tuesday | 2 | Sharing AI progress in mathematics | 919 | 850 | Technology | [link](https://openai.com/index/sharing-ai-progress-in-mathematics/) · [HN](https://news.ycombinator.com/item?id=49984923) |
+| 2026-10-06 | Tuesday | 3 | JetBrains reports revenue growth, net financial loss for 2025 | 582 | 544 | Technology | [link](https://www.helgilibrary.com/companies/jetbrains) · [HN](https://news.ycombinator.com/item?id=49977072) |
+| 2026-10-06 | Tuesday | 4 | Nobel Prize in Physics 2026: Francis Halzen | 554 | 197 | Technology | [link](https://www.nobelprize.org/prizes/physics/2026/) · [HN](https://news.ycombinator.com/item?id=49976265) |
+| 2026-10-06 | Tuesday | 5 | Mistral Large 4: "Le Chonk" | 519 | 5 | Technology | [link](https://mistral.ai/news/mistral-large-4/) · [HN](https://news.ycombinator.com/item?id=49978116) |
+| 2026-10-06 | Tuesday | 6 | Polars 2.0 | 439 | 99 | Technology | [link](https://pola.rs/posts/release-polars-2/) · [HN](https://news.ycombinator.com/item?id=49977177) |
+| 2026-10-06 | Tuesday | 7 | Meta’s Muse is an adorable privacy and security dumpster fire | 376 | 265 | Technology | [link](https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/) · [HN](https://news.ycombinator.com/item?id=49977588) |
+| 2026-10-06 | Tuesday | 8 | Nature's capacity to 'bounce back' when species are lost is overestimated: study | 333 | 161 | Technology | [link](https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html) · [HN](https://news.ycombinator.com/item?id=49976823) |
+| 2026-10-06 | Tuesday | 9 | EmbeddingGemma 2: An open, lightweight multimodal embedding model | 327 | 35 | Technology | [link](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/) · [HN](https://news.ycombinator.com/item?id=49980487) |
+| 2026-10-06 | Tuesday | 10 | Gleam doesn't compile to Erlang source anymore | 308 | 132 | Technology | [link](https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/) · [HN](https://news.ycombinator.com/item?id=49975619) |
 | 2026-10-05 | Monday | 1 | Anthropic reported diary entry to police, woman faces felony charge | 732 | 565 | Technology | [link](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html) · [HN](https://news.ycombinator.com/item?id=49961057) |
 | 2026-10-05 | Monday | 2 | Web Search API | 548 | 248 | Technology | [link](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/) · [HN](https://news.ycombinator.com/item?id=49963171) |
 | 2026-10-05 | Monday | 3 | Denmark data breach exposes 8.8M people's personal data | 483 | 338 | Technology | [link](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger) · [HN](https://news.ycombinator.com/item?id=49962012) |
