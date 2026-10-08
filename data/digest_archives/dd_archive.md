@@ -1,9 +1,78 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-07 · 8717 items*
+*Last updated: 2026-10-08 · 8786 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-07 | Margaret Hamilton has died | HN | Technology | tech | 2026-10-07 | [link](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) |
+| 2026-10-07 | Claude Haiku 5.5 | HN | Technology | tech | 2026-10-07 | [link](https://www.anthropic.com/claude-haiku-5-5) |
+| 2026-10-07 | GPT‑6 and Intelligent UI for everyone | HN | Technology | tech | 2026-10-07 | [link](https://openai.com/index/gpt-6-for-everyone/) |
+| 2026-10-07 | Shipping JPEG XL in Chrome | HN | Technology | tech | 2026-10-07 | [link](https://developer.chrome.com/blog/jpeg-xl-in-chrome) |
+| 2026-10-07 | Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees | HN | Technology | tech | 2026-10-07 | [link](https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees) |
+| 2026-10-07 | Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app | HN | Technology | tech | 2026-10-07 | [link](https://bigwords.page/) |
+| 2026-10-07 | A font recreated from photographs of classic Commodore 64 keycaps | HN | Technology | tech | 2026-10-07 | [link](https://github.com/szabadkai/c64-keyboard-font/) |
+| 2026-10-07 | Animated ASCII Art for Web Pages | HN | Technology | tech | 2026-10-07 | [link](https://ascii.rest/) |
+| 2026-10-07 | Meta and Microsoft take steps to reduce employee usage of Claude AI | HN | Technology | tech | 2026-10-07 | [link](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/) |
+| 2026-10-07 | Navier–Stokes Lost in Translation | HN | Technology | tech | 2026-10-07 | [link](https://arxiv.org/abs/2610.08144) |
+| 2026-10-07 | Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai | HN | Technology | tech | 2026-10-07 | [link](https://www.nobelprize.org/prizes/chemistry/2026/press-release/) |
+| 2026-10-07 | Anti-patterns in software blogging | HN | Technology | tech | 2026-10-07 | [link](https://refactoringenglish.com/blog/anti-patterns-software-blogging/) |
+| 2026-10-07 | The Mathocalypse | HN | Technology | tech | 2026-10-07 | [link](https://scottaaronson.blog/?p=10169) |
+| 2026-10-07 | Docker Agent | HN | Technology | tech | 2026-10-07 | [link](https://github.com/docker/docker-agent) |
+| 2026-10-07 | Incident with Git Operations, Pull Requests and Actions – Resolved | HN | Technology | tech | 2026-10-07 | [link](https://www.githubstatus.com/incidents/djlmxz2zd0j7) |
+| 2026-10-07 | House with 15m underground tunnels for sale for 300k | HN | Technology | tech | 2026-10-07 | [link](https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/) |
+| 2026-10-07 | Fed Minutes Show Officials Saw More Work to Do to Quell Inflation | NYT · Business | Business | news | 2026-10-07 | [link](https://www.nytimes.com/2026/10/07/business/fed-minutes-show-officials-saw-more-work-to-do-to-quell-inflation.html) |
+| 2026-10-07 | Paramount Closes Merger With Warner Bros. Discovery to Form Skydance | NYT · Business | Business | news | 2026-10-07 | [link](https://www.nytimes.com/2026/10/06/business/media/paramount-warner-bros-discovery-skydance.html) |
+| 2026-10-07 | Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html) |
+| 2026-10-07 | Why My Conversations with OpenAI’s ‘ChatGPT for Teens’ Made Me Very Worried | NYT · Technology | Technology | news | 2026-10-07 | [link](https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html) |
+| 2026-10-07 | Why Markets Are Buoyant — and Under Pressure | NYT · Business | Business | news | 2026-10-07 | [link](https://www.nytimes.com/2026/10/07/business/dealbook/stocks-record-energy-ai.html) |
+| 2026-10-07 | A.I. Music Fraudster Who Drew Millions in Royalties Is Sentenced to 18 Months | NYT · Technology | Technology | news | 2026-10-08 | [link](https://www.nytimes.com/2026/10/07/arts/music/ai-music-fraud-royalties-sentence.html) |
+| 2026-10-07 | The Trump Outrages Keep Piling Up | NYT · Opinion | Opinion | opinion | 2026-10-07 | [link](https://www.nytimes.com/2026/10/07/opinion/trump-los-angeles-ethics.html) |
+| 2026-10-07 | How the Trump Administration Is Eroding Airline Passengers’ Rights | NYT · Business | Business | news | 2026-10-08 | [link](https://www.nytimes.com/2026/10/08/travel/airlines-flights-passenger-rights-trump.html) |
+| 2026-10-07 | Jensen Huang Thinks A.I. Is Going Great | NYT · Opinion | Opinion | opinion | 2026-10-07 | [link](https://www.nytimes.com/2026/10/07/opinion/jensen-huang-ai-tech-nvidia.html) |
+| 2026-10-07 | ‘This Is Nuts.’ An OpenAI Insider Explains Why He Quit. | NYT · Opinion | Opinion | opinion | 2026-10-07 | [link](https://www.nytimes.com/2026/10/07/opinion/ezra-klein-podcast-david-robinson.html) |
+| 2026-10-07 | A.I. Officials Stonewall on Questions About Technology’s Risks | NYT · Business | Business | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/05/nyregion/ai-city-council-hearing.html) |
+| 2026-10-07 | High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed. | NYT · Business | Business | news | 2026-10-05 | [link](https://www.nytimes.com/2026/10/05/business/ai-boom-interest-rates-fed.html) |
+| 2026-10-07 | What’s the Right “Level of Care” for A.I.? | NYT · Business | Business | news | 2026-10-05 | [link](https://www.nytimes.com/2026/10/05/business/dealbook/ai-safety-openai.html) |
+| 2026-10-07 | A Spirited Battle Over Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/climate/a-spirited-battle-over-data-centers.html) |
+| 2026-10-07 | Man Posing as ICE Agent at Miami Polling Site Faces Felony Charges | NYT · Politics | Politics | news | 2026-10-07 | [link](https://www.nytimes.com/2026/10/07/us/miami-ice-agent-brazil-election.html) |
+| 2026-10-07 | A Supreme Court Battle Over Climate Change Begins | NYT · Energy & Environment | Energy & Environment | news | 2026-10-05 | [link](https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html) |
+| 2026-10-07 | Who’s to Blame When A.I. Goes Rogue? | NYT · Technology | Technology | news | 2026-10-03 | [link](https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html) |
+| 2026-10-07 | Why A.I. Agents Are Going Rogue | NYT · Technology | Technology | news | 2026-10-07 | [link](https://www.nytimes.com/video/technology/100000011159494/why-ai-agents-are-going-rogue.html) |
+| 2026-10-07 | Judge Throws Out Last Defendant’s Confession in Sept. 11 Case at Guantánamo | NYT · Politics | Politics | news | 2026-10-08 | [link](https://www.nytimes.com/2026/10/07/us/politics/sept-11-case-confession.html) |
+| 2026-10-07 | Army Sets Date for First Military Execution by Firing Squad Since 1945 | NYT · Politics | Politics | news | 2026-10-07 | [link](https://www.nytimes.com/2026/10/07/us/politics/execution-fort-hood-shooting.html) |
+| 2026-10-07 | AI’s Impact on Jobs Demands a New Approach and New Public Policies | MIT IDE · MIT Research & Insights | Research | research | 2026-10-07 | [link](https://ide.mit.edu/insights/ais-impact-on-jobs-demands-a-new-approach-and-new-public-policies/) |
+| 2026-10-07 | Firmus drops IPO share price amid weak demand - report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-07 | [link](https://www.datacenterdynamics.com/en/news/firmus-drops-ipo-share-price-amid-weak-demand-report/) |
+| 2026-10-07 | Sponsored: A sealed server is your license to operate a data center | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-07 | [link](https://www.datacenterdynamics.com/en/opinions/a-sealed-server-is-your-license-to-operate-a-data-center/) |
+| 2026-10-07 | Quoting Ben Affleck | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-07 | [link](https://simonwillison.net/2026/Oct/7/ben-affleck/) |
+| 2026-10-07 | Can edge compute undercut demand for mega gas plants? | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-10-07 | [link](https://www.latitudemedia.com/news/can-edge-compute-undercut-demand-for-mega-gas-plants/) |
+| 2026-10-07 | At Yotta, not a word on slowing down the AI infrastructure build-out | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-10-07 | [link](https://www.latitudemedia.com/news/at-yotta-not-a-word-on-slowing-down-the-ai-infrastructure-build-out/) |
+| 2026-10-07 | Virginia Lt. Gov. Hashmi opposes NextEra-Dominion merger as public hearings begin | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-07 | [link](https://www.utilitydive.com/news/virginia-lt-gov-announces-opposition-to-dominion-nextera-merger/832369/) |
+| 2026-10-07 | The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing | IEEE Spectrum Semiconductors · AI Infrastructure | Infrastructure | tech | 2026-10-07 | [link](https://spectrum.ieee.org/anderon-quantum-fab) |
+| 2026-10-07 | Claude Haiku 5.5 | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-07 | [link](https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/) |
+| 2026-10-07 | ShinyHunters Extorted Boeing Spin-off Prior to Arrests | Krebs on Security · Security & Privacy | Security | tech | 2026-10-07 | [link](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/) |
+| 2026-10-07 | Gurman Strikes Again: ‘Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With  | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-07 | [link](https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMDkxNiwiZXhwIjoxNzkxOTI1NzE2LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.LSK9jlXYPFHac9EpcJCErTgJNAwqmpV6qFoORcKffVo) |
+| 2026-10-07 | Jaguar Type 01 | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-07 | [link](https://insideevs.com/news/810839/jaguar-type-01-launch-ev/) |
+| 2026-10-07 | I think I found a planet nobody knew existed. I used Claude Code to find it. | Reddit | Business | social | 2026-10-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wzw8zd/i_think_i_found_a_planet_nobody_knew_existed_i/) |
+| 2026-10-07 | Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever release | Reddit | Business | social | 2026-10-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x03k4j/introducing_claude_haiku_55_the_cheapest_fastest/) |
+| 2026-10-07 | Claude fixed a bug in a DOS game from 1991 and now my kid can relive the magic | Reddit | Business | social | 2026-10-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x06hmp/claude_fixed_a_bug_in_a_dos_game_from_1991_and/) |
+| 2026-10-07 | Just got access to Mythos 5.1 | Reddit | Business | social | 2026-10-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wzn92v/just_got_access_to_mythos_51/) |
+| 2026-10-07 | Claude tells Ben Thompson his Mac Mini is compromised | Reddit | Business | social | 2026-10-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wzkpu9/claude_tells_ben_thompson_his_mac_mini_is/) |
+| 2026-10-07 | I asked Opus 5.5 to generate an extremely realistic betta fish for my Mac wallpaper. Here's the resu | Reddit | Business | social | 2026-10-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x02pno/i_asked_opus_55_to_generate_an_extremely/) |
+| 2026-10-07 | Claude Haiku 5.5 cost 12x more than GPT-6 Luna for the same voxel pagoda | Reddit | Business | social | 2026-10-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x0agoh/claude_haiku_55_cost_12x_more_than_gpt6_luna_for/) |
+| 2026-10-07 | How to save hundreds of $$$ with Claude in places you didn't even imagine | Reddit | Business | social | 2026-10-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x02i4a/how_to_save_hundreds_of_with_claude_in_places_you/) |
+| 2026-10-07 | Well! If it matches GPT 6.1 Sol at Luna Pricing. Consider it's over for Open Ai | Reddit | Business | social | 2026-10-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x0367g/well_if_it_matches_gpt_61_sol_at_luna_pricing/) |
+| 2026-10-07 | claude's pixel art is so good | Reddit | Business | social | 2026-10-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1wzq2l6/claudes_pixel_art_is_so_good/) |
+| 2026-10-07 | Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever release | Reddit | Business | social | 2026-10-07 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x03lg8/introducing_claude_haiku_55_the_cheapest_fastest/) |
+| 2026-10-07 | Claude Opus 5.5 Deleted a User’s C Drive | Reddit | Business | social | 2026-10-07 | [link](https://www.reddit.com/r/ClaudeCode/comments/1wzqk1f/claude_opus_55_deleted_a_users_c_drive/) |
+| 2026-10-07 | Anthropic since pacing the frontier | Reddit | Business | social | 2026-10-07 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x06tru/anthropic_since_pacing_the_frontier/) |
+| 2026-10-07 | 5.5 Family is complete | Reddit | Business | social | 2026-10-07 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x042oi/55_family_is_complete/) |
+| 2026-10-07 | Claude Sonnet 5.5 Cache reads now cost 50% less! | Reddit | Business | social | 2026-10-07 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x04oqq/claude_sonnet_55_cache_reads_now_cost_50_less/) |
+| 2026-10-07 | Update 1.14... super cool, I appreciate you devs so much! | Reddit | Business | social | 2026-10-07 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x0b3y0/update_114_super_cool_i_appreciate_you_devs_so/) |
+| 2026-10-07 | What are some features in Obsidian that everyone seems to like but you just don't get it? | Reddit | Business | social | 2026-10-07 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wzvar4/what_are_some_features_in_obsidian_that_everyone/) |
+| 2026-10-07 | Share interesting vaults not made by gurus/influencers | Reddit | Business | social | 2026-10-07 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wzkul8/share_interesting_vaults_not_made_by/) |
+| 2026-10-07 | Bliss for Obsidian: A Y2K, Windows‑XP inspired desktop look with glossy blues, warm beige background | Reddit | Business | social | 2026-10-07 | [link](https://www.reddit.com/r/ObsidianMD/comments/1wznxa8/bliss_for_obsidian_a_y2k_windowsxp_inspired/) |
+| 2026-10-07 | Dev of the Baseline theme: Thank You | Reddit | Business | social | 2026-10-07 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x077yc/dev_of_the_baseline_theme_thank_you/) |
+| 2026-10-07 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-06 | Mistral Large 4 | HN | Technology | tech | 2026-10-06 | [link](https://mistral.ai/news/mistral-large-4/\) |
 | 2026-10-06 | Sharing AI progress in mathematics | HN | Technology | tech | 2026-10-06 | [link](https://openai.com/index/sharing-ai-progress-in-mathematics/) |
 | 2026-10-06 | JetBrains reports revenue growth, net financial loss for 2025 | HN | Technology | tech | 2026-10-06 | [link](https://www.helgilibrary.com/companies/jetbrains) |

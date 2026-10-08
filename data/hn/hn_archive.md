@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-07 · 510 days · 5100 stories*
+*Last updated: 2026-10-08 · 511 days · 5110 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-07 | Wednesday | 1 | Margaret Hamilton has died | 1526 | 164 | Technology | [link](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) · [HN](https://news.ycombinator.com/item?id=49998895) |
+| 2026-10-07 | Wednesday | 2 | Claude Haiku 5.5 | 880 | 424 | Technology | [link](https://www.anthropic.com/claude-haiku-5-5) · [HN](https://news.ycombinator.com/item?id=49996437) |
+| 2026-10-07 | Wednesday | 3 | GPT‑6 and Intelligent UI for everyone | 636 | 348 | Technology | [link](https://openai.com/index/gpt-6-for-everyone/) · [HN](https://news.ycombinator.com/item?id=49996425) |
+| 2026-10-07 | Wednesday | 4 | Shipping JPEG XL in Chrome | 550 | 368 | Technology | [link](https://developer.chrome.com/blog/jpeg-xl-in-chrome) · [HN](https://news.ycombinator.com/item?id=49991227) |
+| 2026-10-07 | Wednesday | 5 | Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees | 546 | 395 | Technology | [link](https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees) · [HN](https://news.ycombinator.com/item?id=49993914) |
+| 2026-10-07 | Wednesday | 6 | Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app | 507 | 142 | Technology | [link](https://bigwords.page/) · [HN](https://news.ycombinator.com/item?id=49994443) |
+| 2026-10-07 | Wednesday | 7 | A font recreated from photographs of classic Commodore 64 keycaps | 392 | 64 | Technology | [link](https://github.com/szabadkai/c64-keyboard-font/) · [HN](https://news.ycombinator.com/item?id=49990224) |
+| 2026-10-07 | Wednesday | 8 | Animated ASCII Art for Web Pages | 359 | 61 | Technology | [link](https://ascii.rest/) · [HN](https://news.ycombinator.com/item?id=49993857) |
+| 2026-10-07 | Wednesday | 9 | Meta and Microsoft take steps to reduce employee usage of Claude AI | 342 | 339 | Technology | [link](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/) · [HN](https://news.ycombinator.com/item?id=49997161) |
+| 2026-10-07 | Wednesday | 10 | Navier–Stokes Lost in Translation | 310 | 186 | Technology | [link](https://arxiv.org/abs/2610.08144) · [HN](https://news.ycombinator.com/item?id=49994145) |
 | 2026-10-06 | Tuesday | 1 | Mistral Large 4 | 1812 | 1080 | Technology | [link](https://mistral.ai/news/mistral-large-4/\) · [HN](https://news.ycombinator.com/item?id=49977979) |
 | 2026-10-06 | Tuesday | 2 | Sharing AI progress in mathematics | 919 | 850 | Technology | [link](https://openai.com/index/sharing-ai-progress-in-mathematics/) · [HN](https://news.ycombinator.com/item?id=49984923) |
 | 2026-10-06 | Tuesday | 3 | JetBrains reports revenue growth, net financial loss for 2025 | 582 | 544 | Technology | [link](https://www.helgilibrary.com/companies/jetbrains) · [HN](https://news.ycombinator.com/item?id=49977072) |
