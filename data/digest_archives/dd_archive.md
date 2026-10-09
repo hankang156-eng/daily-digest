@@ -1,9 +1,77 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-08 · 8786 items*
+*Last updated: 2026-10-09 · 8854 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-08 | Trump administration is suspending Microsoft from a green card program | HN | Technology | tech | 2026-10-08 | [link](https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea) |
+| 2026-10-08 | Whistle: Speech to Text in 16.9 MB | HN | Technology | tech | 2026-10-08 | [link](https://cactuscompute.com/blog/whistle) |
+| 2026-10-08 | Tell HN: I've been paying for a rural Tanzanian's education for 10 years | HN | Technology | tech | 2026-10-08 | [link](https://news.ycombinator.com/item?id=50006366) |
+| 2026-10-08 | “Math 2.0” will need to value mathematical progress more holistically | HN | Technology | tech | 2026-10-08 | [link](https://mathstodon.xyz/@tao/117395269325940185) |
+| 2026-10-08 | Theranos.world | HN | Technology | tech | 2026-10-08 | [link](https://www.theranos.world/) |
+| 2026-10-08 | Yes, and | HN | Technology | tech | 2026-10-08 | [link](https://htmx.org/essays/yes-and/) |
+| 2026-10-08 | OpenAI annualised revenues $20B less than previously signalled | HN | Technology | tech | 2026-10-08 | [link](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html) |
+| 2026-10-08 | I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities | HN | Technology | tech | 2026-10-08 | [link](https://quesma.com/blog/invisible-cities-one-shot/) |
+| 2026-10-08 | OpenAI Withdraws 3 Math Papers | HN | Technology | tech | 2026-10-08 | [link](https://github.com/openai/math/blob/main/history.md) |
+| 2026-10-08 | OpenAI withdraws three mathematical results | HN | Technology | tech | 2026-10-08 | [link](https://twitter.com/danintheory/status/2108065033070789090) |
+| 2026-10-08 | Beauty in DVD Menus | HN | Technology | tech | 2026-10-08 | [link](https://vale.rocks/posts/dvd-menus) |
+| 2026-10-08 | ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025) | HN | Technology | tech | 2026-10-08 | [link](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full) |
+| 2026-10-08 | 4-hour battery storage is cheaper to install than gas turbines all across globe | HN | Technology | tech | 2026-10-08 | [link](https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/) |
+| 2026-10-08 | Orkut.com | HN | Technology | tech | 2026-10-08 | [link](https://orkut.com/) |
+| 2026-10-08 | The people holding up the internet | HN | Technology | tech | 2026-10-08 | [link](https://sheets.works/data-viz/holding-up-the-internet) |
+| 2026-10-08 | I think I found a planet nobody knew existed. I used Claude Code to find it | HN | Technology | tech | 2026-10-08 | [link](https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9) |
+| 2026-10-08 | The Winning Stock Funds This Time Weren’t Tech. They Were Energy. | NYT · Business | Business | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/business/stock-bonds-tech-energy.html) |
+| 2026-10-08 | Inside Mark Zuckerberg’s Decision to Pull the Trigger on Meta’s A.I. Agent | NYT · Technology | Technology | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html) |
+| 2026-10-08 | Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html) |
+| 2026-10-08 | The Little-Noticed Exception in Trump Accounts | NYT · Business | Business | news | 2026-10-08 | [link](https://www.nytimes.com/2026/10/08/business/dealbook/trump-accounts-stocks.html) |
+| 2026-10-08 | Fed Minutes Show Officials Saw More Work to Do to Quell Inflation | NYT · Business | Business | news | 2026-10-07 | [link](https://www.nytimes.com/2026/10/07/business/fed-minutes-show-officials-saw-more-work-to-do-to-quell-inflation.html) |
+| 2026-10-08 | Paramount Closes Merger With Warner Bros. Discovery to Form Skydance | NYT · Business | Business | news | 2026-10-07 | [link](https://www.nytimes.com/2026/10/06/business/media/paramount-warner-bros-discovery-skydance.html) |
+| 2026-10-08 | Clinical Trial Indicates A.I. Chatbots Could Aid Urgent Care | NYT · Technology | Technology | news | 2026-10-08 | [link](https://www.nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html) |
+| 2026-10-08 | A.I. Music Fraudster Who Drew Millions in Royalties Is Sentenced to 18 Months | NYT · Technology | Technology | news | 2026-10-08 | [link](https://www.nytimes.com/2026/10/07/arts/music/ai-music-fraud-royalties-sentence.html) |
+| 2026-10-08 | How Trump’s Revenge Campaign Descended Into Turmoil | NYT · Politics | Politics | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/us/politics/trump-grand-conspiracy.html) |
+| 2026-10-08 | What if A.I. Is Just a ‘Normal Technology’? | NYT · Opinion | Opinion | opinion | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/opinion/ezra-klein-podcast-arvind-narayanan.html) |
+| 2026-10-08 | How the Trump Administration Is Eroding Airline Passengers’ Rights | NYT · Business | Business | news | 2026-10-08 | [link](https://www.nytimes.com/2026/10/08/travel/airlines-flights-passenger-rights-trump.html) |
+| 2026-10-08 | Jensen Huang Thinks A.I. Is Going Great | NYT · Opinion | Opinion | opinion | 2026-10-08 | [link](https://www.nytimes.com/2026/10/07/opinion/jensen-huang-ai-tech-nvidia.html) |
+| 2026-10-08 | Why My Conversations with OpenAI’s ‘ChatGPT for Teens’ Made Me Very Worried | NYT · Technology | Technology | news | 2026-10-07 | [link](https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html) |
+| 2026-10-08 | Highest Mortgage Rates in 3 Years Chills the Housing Market | NYT · Economy | Economy | news | 2026-10-08 | [link](https://www.nytimes.com/2026/10/08/business/mortgage-rates-housing-prices.html) |
+| 2026-10-08 | Why Markets Are Buoyant — and Under Pressure | NYT · Business | Business | news | 2026-10-07 | [link](https://www.nytimes.com/2026/10/07/business/dealbook/stocks-record-energy-ai.html) |
+| 2026-10-08 | A Spirited Battle Over Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-09-24 | [link](https://www.nytimes.com/2026/09/24/climate/a-spirited-battle-over-data-centers.html) |
+| 2026-10-08 | Arlington County Sues to Block Trump’s Triumphal Arch | NYT · Politics | Politics | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/08/us/politics/arlington-county-lawsuit-trump-arch.html) |
+| 2026-10-08 | Fort Hood Shooter’s Execution Will Be Public and Streamed Live, Pentagon Says | NYT · Politics | Politics | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/08/us/politics/fort-hood-execution-streamed-public.html) |
+| 2026-10-08 | The Trump Outrages Keep Piling Up | NYT · Opinion | Opinion | opinion | 2026-10-07 | [link](https://www.nytimes.com/2026/10/07/opinion/trump-los-angeles-ethics.html) |
+| 2026-10-08 | ‘This Is Nuts.’ An OpenAI Insider Explains Why He Quit. | NYT · Opinion | Opinion | opinion | 2026-10-07 | [link](https://www.nytimes.com/2026/10/07/opinion/ezra-klein-podcast-david-robinson.html) |
+| 2026-10-08 | DCD Connect \| London 2026 - Post Show Report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-08 | [link](https://www.datacenterdynamics.com/en/dcd-downloads/dcdconnect-london-2026-post-show-report/) |
+| 2026-10-08 | Nokia to cut more than 250 jobs in Finland - report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-08 | [link](https://www.datacenterdynamics.com/en/news/nokia-to-cut-more-than-250-jobs-in-finland-report/) |
+| 2026-10-08 | Introducing OSPA: Unifying the Switch Platform Layer for Open Networking | Open Compute Project · AI Infrastructure | Infrastructure | tech | 2026-10-08 | [link](https://www.opencompute.org/news/introducing-ospa-unifying-the-switch-platform-layer-for-open-networking/) |
+| 2026-10-08 | 4-hour storage cheaper than gas peakers across global markets: WoodMac | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-08 | [link](https://www.utilitydive.com/news/4-hour-storage-cheaper-than-gas-peakers-across-global-markets-woodmac/832489/) |
+| 2026-10-08 | The truth about data center water usage | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-10-08 | [link](https://www.latitudemedia.com/news/catalyst-the-truth-about-data-center-water-usage/) |
+| 2026-10-08 | Voltus raises $225 million to scale BYOC for data centers | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-10-08 | [link](https://www.latitudemedia.com/news/voltus-raises-225-million-to-scale-byoc-for-data-centers/) |
+| 2026-10-08 | Quoting Carson Gross | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-08 | [link](https://simonwillison.net/2026/Oct/8/carson-gross/) |
+| 2026-10-08 | Let’s Check In on Trump’s Blog | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-08 | [link](https://truthsocial.com/@realDonaldTrump/posts/117406176604364910) |
+| 2026-10-08 | Apple Is Slow-Rolling iOS 27 Adoption, So Far | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-08 | [link](https://mastodon.social/@_Davidsmith/117355154519434137) |
+| 2026-10-08 | Theatre Review: Hay Fever at Wyndham's Theatre ★★★★⯪ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-10-08 | [link](https://shkspr.mobi/blog/2026/10/theatre-review-hay-fever-at-wyndhams-theatre/) |
+| 2026-10-08 | ttok 0.4 | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-08 | [link](https://simonwillison.net/2026/Oct/8/ttok/) |
+| 2026-10-08 | Opus 5.5 is so good | Reddit | Business | social | 2026-10-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x10tx3/opus_55_is_so_good/) |
+| 2026-10-08 | Opus 5.5 can make games for 2 decade old phones | Reddit | Business | social | 2026-10-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x120gj/opus_55_can_make_games_for_2_decade_old_phones/) |
+| 2026-10-08 | My brother went nearly 10 years without a way to communicate. I built him a switch-accessible hub of | Reddit | Business | social | 2026-10-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x0x5wo/my_brother_went_nearly_10_years_without_a_way_to/) |
+| 2026-10-08 | Abuse Claude, get banned coming November 12th, 2026 | Reddit | Business | social | 2026-10-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x11k9j/abuse_claude_get_banned_coming_november_12th_2026/) |
+| 2026-10-08 | What are Claude Code "Power Users" doing with Claude Code that the average developer isn't? | Reddit | Business | social | 2026-10-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x0uhhr/what_are_claude_code_power_users_doing_with/) |
+| 2026-10-08 | Opus reverse engineered my brand new Maono DGM20 microphone... in 15 minutes. | Reddit | Business | social | 2026-10-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x0rb0e/opus_reverse_engineered_my_brand_new_maono_dgm20/) |
+| 2026-10-08 | Update: I rebuilt Ponytail, my "lazy senior dev" skill, from scratch. Ponytail 5 is out | Reddit | Business | social | 2026-10-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x0hhg6/update_i_rebuilt_ponytail_my_lazy_senior_dev/) |
+| 2026-10-08 | A guy asked models to "maximize company value". Claude Opus 5.5 discovered an exploit where it could | Reddit | Business | social | 2026-10-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x0rz3u/a_guy_asked_models_to_maximize_company_value/) |
+| 2026-10-08 | Just passed the CCAR-P exam | Reddit | Business | social | 2026-10-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x0nhvy/just_passed_the_ccarp_exam/) |
+| 2026-10-08 | New perk free $100 Monthly API Credit a month!! | Reddit | Business | social | 2026-10-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x0f9gu/new_perk_free_100_monthly_api_credit_a_month/) |
+| 2026-10-08 | Haiku 5.5 is 40x cheaper than Opus 5.5. Your Explore subagent is probably still running on Opus | Reddit | Business | social | 2026-10-08 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x0kzbh/haiku_55_is_40x_cheaper_than_opus_55_your_explore/) |
+| 2026-10-08 | No more abusing Claude from Nov 12th onwards, usage policy update | Reddit | Business | social | 2026-10-08 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x0ybl2/no_more_abusing_claude_from_nov_12th_onwards/) |
+| 2026-10-08 | Holy Fucking Shit this is Amazing | Reddit | Business | social | 2026-10-08 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x0ya1v/holy_fucking_shit_this_is_amazing/) |
+| 2026-10-08 | I built a modern low-poly SimCity 2000 clone with Opus 5.5 | Reddit | Business | social | 2026-10-08 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x0ksja/i_built_a_modern_lowpoly_simcity_2000_clone_with/) |
+| 2026-10-08 | Is Haiku 5.5 good enough to be your main coding agent, not just the cheap one? I ran a small control | Reddit | Business | social | 2026-10-08 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x132yy/is_haiku_55_good_enough_to_be_your_main_coding/) |
+| 2026-10-08 | Unfold Obsidian mobile toolbar | Reddit | Business | social | 2026-10-08 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x0oggg/unfold_obsidian_mobile_toolbar/) |
+| 2026-10-08 | Writing in Obsidian: Reforged \| Cursor-Smith | Reddit | Business | social | 2026-10-08 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x11y6c/writing_in_obsidian_reforged_cursorsmith/) |
+| 2026-10-08 | New-ish user and I am finding new uses weekly! | Reddit | Business | social | 2026-10-08 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x0eoee/newish_user_and_i_am_finding_new_uses_weekly/) |
+| 2026-10-08 | Prism Plugin | Reddit | Business | social | 2026-10-08 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x0rsxj/prism_plugin/) |
+| 2026-10-08 | I built the "Activity Timeline" from u/thecroissantproject's mockup: see what you did on any day, wi | Reddit | Business | social | 2026-10-08 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x0v7ra/i_built_the_activity_timeline_from/) |
+| 2026-10-08 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-07 | Margaret Hamilton has died | HN | Technology | tech | 2026-10-07 | [link](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) |
 | 2026-10-07 | Claude Haiku 5.5 | HN | Technology | tech | 2026-10-07 | [link](https://www.anthropic.com/claude-haiku-5-5) |
 | 2026-10-07 | GPT‑6 and Intelligent UI for everyone | HN | Technology | tech | 2026-10-07 | [link](https://openai.com/index/gpt-6-for-everyone/) |

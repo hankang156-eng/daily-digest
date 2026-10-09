@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-08 · 511 days · 5110 stories*
+*Last updated: 2026-10-09 · 512 days · 5120 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-08 | Thursday | 1 | Trump administration is suspending Microsoft from a green card program | 875 | 1488 | Technology | [link](https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea) · [HN](https://news.ycombinator.com/item?id=50006832) |
+| 2026-10-08 | Thursday | 2 | Whistle: Speech to Text in 16.9 MB | 768 | 153 | Technology | [link](https://cactuscompute.com/blog/whistle) · [HN](https://news.ycombinator.com/item?id=50008427) |
+| 2026-10-08 | Thursday | 3 | Tell HN: I've been paying for a rural Tanzanian's education for 10 years | 701 | 217 | Technology | [link](https://news.ycombinator.com/item?id=50006366) · [HN](https://news.ycombinator.com/item?id=50006366) |
+| 2026-10-08 | Thursday | 4 | “Math 2.0” will need to value mathematical progress more holistically | 598 | 636 | Technology | [link](https://mathstodon.xyz/@tao/117395269325940185) · [HN](https://news.ycombinator.com/item?id=50002008) |
+| 2026-10-08 | Thursday | 5 | Theranos.world | 451 | 156 | Technology | [link](https://www.theranos.world/) · [HN](https://news.ycombinator.com/item?id=50009295) |
+| 2026-10-08 | Thursday | 6 | Yes, and | 444 | 145 | Technology | [link](https://htmx.org/essays/yes-and/) · [HN](https://news.ycombinator.com/item?id=50003796) |
+| 2026-10-08 | Thursday | 7 | OpenAI annualised revenues $20B less than previously signalled | 391 | 261 | Technology | [link](https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html) · [HN](https://news.ycombinator.com/item?id=50008187) |
+| 2026-10-08 | Thursday | 8 | I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities | 391 | 191 | Technology | [link](https://quesma.com/blog/invisible-cities-one-shot/) · [HN](https://news.ycombinator.com/item?id=50004790) |
+| 2026-10-08 | Thursday | 9 | OpenAI Withdraws 3 Math Papers | 340 | 3 | Technology | [link](https://github.com/openai/math/blob/main/history.md) · [HN](https://news.ycombinator.com/item?id=50003107) |
+| 2026-10-08 | Thursday | 10 | OpenAI withdraws three mathematical results | 315 | 575 | Technology | [link](https://twitter.com/danintheory/status/2108065033070789090) · [HN](https://news.ycombinator.com/item?id=50002650) |
 | 2026-10-07 | Wednesday | 1 | Margaret Hamilton has died | 1526 | 164 | Technology | [link](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) · [HN](https://news.ycombinator.com/item?id=49998895) |
 | 2026-10-07 | Wednesday | 2 | Claude Haiku 5.5 | 880 | 424 | Technology | [link](https://www.anthropic.com/claude-haiku-5-5) · [HN](https://news.ycombinator.com/item?id=49996437) |
 | 2026-10-07 | Wednesday | 3 | GPT‑6 and Intelligent UI for everyone | 636 | 348 | Technology | [link](https://openai.com/index/gpt-6-for-everyone/) · [HN](https://news.ycombinator.com/item?id=49996425) |
