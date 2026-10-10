@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-09 · 512 days · 5120 stories*
+*Last updated: 2026-10-10 · 513 days · 5130 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-09 | Friday | 1 | Cloudflare acquires Deno | 1239 | 626 | Technology | [link](https://deno.com/blog/cloudflare) · [HN](https://news.ycombinator.com/item?id=50019911) |
+| 2026-10-09 | Friday | 2 | Triple-A Minesweeper | 982 | 192 | Technology | [link](https://minesweeper.mikelacher.com/) · [HN](https://news.ycombinator.com/item?id=50022292) |
+| 2026-10-09 | Friday | 3 | Sorry, I'm in a meeting | 905 | 255 | Technology | [link](https://iminafleeting.com/) · [HN](https://news.ycombinator.com/item?id=50018088) |
+| 2026-10-09 | Friday | 4 | Our $445M Series D | 660 | 296 | Technology | [link](https://oxide.computer/blog/our-445m-series-d) · [HN](https://news.ycombinator.com/item?id=50020014) |
+| 2026-10-09 | Friday | 5 | YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops | 576 | 311 | Technology | [link](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306) · [HN](https://news.ycombinator.com/item?id=50026555) |
+| 2026-10-09 | Friday | 6 | US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize | 486 | 483 | Technology | [link](https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/) · [HN](https://news.ycombinator.com/item?id=50021066) |
+| 2026-10-09 | Friday | 7 | Nobel Peace Prize for 2026 to Navanethem Pillay | 462 | 245 | Technology | [link](https://www.nobelprize.org/prizes/peace/2026/press-release/) · [HN](https://news.ycombinator.com/item?id=50018420) |
+| 2026-10-09 | Friday | 8 | REA Reverse – Engineer Anything | 438 | 166 | Technology | [link](https://rea.tools/) · [HN](https://news.ycombinator.com/item?id=50028275) |
+| 2026-10-09 | Friday | 9 | Show HN: Let your AI agents paint big arrows, boxes and text on your screen | 398 | 175 | Technology | [link](https://github.com/franzenzenhofer/big-arrow-on-the-screen) · [HN](https://news.ycombinator.com/item?id=50018817) |
+| 2026-10-09 | Friday | 10 | Typesafe AI raises $870M at $7.5B | 376 | 277 | Technology | [link](https://typesafe.ai/blog/series-ai) · [HN](https://news.ycombinator.com/item?id=50023450) |
 | 2026-10-08 | Thursday | 1 | Trump administration is suspending Microsoft from a green card program | 875 | 1488 | Technology | [link](https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea) · [HN](https://news.ycombinator.com/item?id=50006832) |
 | 2026-10-08 | Thursday | 2 | Whistle: Speech to Text in 16.9 MB | 768 | 153 | Technology | [link](https://cactuscompute.com/blog/whistle) · [HN](https://news.ycombinator.com/item?id=50008427) |
 | 2026-10-08 | Thursday | 3 | Tell HN: I've been paying for a rural Tanzanian's education for 10 years | 701 | 217 | Technology | [link](https://news.ycombinator.com/item?id=50006366) · [HN](https://news.ycombinator.com/item?id=50006366) |

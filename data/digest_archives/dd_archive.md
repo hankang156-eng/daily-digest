@@ -1,9 +1,74 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-09 · 8854 items*
+*Last updated: 2026-10-10 · 8919 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-09 | Cloudflare acquires Deno | HN | Technology | tech | 2026-10-09 | [link](https://deno.com/blog/cloudflare) |
+| 2026-10-09 | Triple-A Minesweeper | HN | Technology | tech | 2026-10-09 | [link](https://minesweeper.mikelacher.com/) |
+| 2026-10-09 | Sorry, I'm in a meeting | HN | Technology | tech | 2026-10-09 | [link](https://iminafleeting.com/) |
+| 2026-10-09 | Our $445M Series D | HN | Technology | tech | 2026-10-09 | [link](https://oxide.computer/blog/our-445m-series-d) |
+| 2026-10-09 | YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops | HN | Technology | tech | 2026-10-09 | [link](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306) |
+| 2026-10-09 | US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize | HN | Technology | tech | 2026-10-09 | [link](https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/) |
+| 2026-10-09 | Nobel Peace Prize for 2026 to Navanethem Pillay | HN | Technology | tech | 2026-10-09 | [link](https://www.nobelprize.org/prizes/peace/2026/press-release/) |
+| 2026-10-09 | REA Reverse – Engineer Anything | HN | Technology | tech | 2026-10-09 | [link](https://rea.tools/) |
+| 2026-10-09 | Show HN: Let your AI agents paint big arrows, boxes and text on your screen | HN | Technology | tech | 2026-10-09 | [link](https://github.com/franzenzenhofer/big-arrow-on-the-screen) |
+| 2026-10-09 | Typesafe AI raises $870M at $7.5B | HN | Technology | tech | 2026-10-09 | [link](https://typesafe.ai/blog/series-ai) |
+| 2026-10-09 | OpenAI fires three safety researchers for "mishandling research information" | HN | Technology | tech | 2026-10-09 | [link](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/) |
+| 2026-10-09 | Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded | HN | Technology | tech | 2026-10-09 | [link](https://carrierexplode.com/) |
+| 2026-10-09 | Python 3.15 | HN | Technology | tech | 2026-10-09 | [link](https://www.python.org/downloads/release/python-3150/) |
+| 2026-10-09 | No Man Is an Island | HN | Technology | tech | 2026-10-09 | [link](https://borretti.me/article/no-man-is-an-island) |
+| 2026-10-09 | Show HN: Quake ported to safe Rust, playable in browser | HN | Technology | tech | 2026-10-09 | [link](https://quake-srp.pages.dev/) |
+| 2026-10-09 | Programming Isn't Special | HN | Technology | tech | 2026-10-09 | [link](https://blog.glyph.im/2026/10/programming-isnt-special.html) |
+| 2026-10-09 | Economic Pain and an Unpopular Trump Put G.O.P. on its Heels With Three Weeks to Go | NYT · Politics | Politics | news | 2026-10-10 | [link](https://www.nytimes.com/2026/10/10/us/politics/trump-inflation-midterms-republicans.html) |
+| 2026-10-09 | The Winning Stock Funds This Time Weren’t Tech. They Were Energy. | NYT · Business | Business | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/business/stock-bonds-tech-energy.html) |
+| 2026-10-09 | Trump Announces White House Inquiry Into Fed Governor Lisa Cook | NYT · Business | Business | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/business/trump-lisa-cook-fed.html) |
+| 2026-10-09 | Inside Mark Zuckerberg’s Decision to Pull the Trigger on Meta’s A.I. Agent | NYT · Technology | Technology | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html) |
+| 2026-10-09 | Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html) |
+| 2026-10-09 | Fort Hood Shooter’s Execution Could Face Challenge in Federal Courts | NYT · Politics | Politics | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/us/politics/fort-hood-execution-legal-challenges.html) |
+| 2026-10-09 | Donor Says Kimberly Guilfoyle Sought Money From Him to Cover Debt | NYT · Politics | Politics | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/us/politics/kimberly-guilfoyle-donor-texts.html) |
+| 2026-10-09 | Some G.O.P. Lawmakers Pan Hegseth’s Plan to Stream Execution of Fort Hood Shooter | NYT · Politics | Politics | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/us/politics/democrats-republicans-hegseth-execution.html) |
+| 2026-10-09 | Big Controversy Upends a Contest About Microscopic Videos | NYT · Business | Business | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/science/nikon-microscopic-videos-ai.html) |
+| 2026-10-09 | Fed Minutes Show Officials Saw More Work to Do to Quell Inflation | NYT · Business | Business | news | 2026-10-07 | [link](https://www.nytimes.com/2026/10/07/business/fed-minutes-show-officials-saw-more-work-to-do-to-quell-inflation.html) |
+| 2026-10-09 | Paramount Closes Merger With Warner Bros. Discovery to Form Skydance | NYT · Business | Business | news | 2026-10-07 | [link](https://www.nytimes.com/2026/10/06/business/media/paramount-warner-bros-discovery-skydance.html) |
+| 2026-10-09 | Intelligence Isn’t Power | NYT · Opinion | Opinion | opinion | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/opinion/ezra-klein-podcast-arvind-narayanan.html) |
+| 2026-10-09 | Jensen Huang Thinks A.I. Is Going Great | NYT · Opinion | Opinion | opinion | 2026-10-09 | [link](https://www.nytimes.com/2026/10/07/opinion/jensen-huang-ai-tech-nvidia.html) |
+| 2026-10-09 | Highest Mortgage Rates in 3 Years Chills the Housing Market | NYT · Economy | Economy | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/08/business/mortgage-rates-housing-prices.html) |
+| 2026-10-09 | Clinical Trial Indicates A.I. Chatbots Could Aid Urgent Care | NYT · Technology | Technology | news | 2026-10-08 | [link](https://www.nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html) |
+| 2026-10-09 | Why My Conversations with OpenAI’s ‘ChatGPT for Teens’ Made Me Very Worried | NYT · Technology | Technology | news | 2026-10-07 | [link](https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html) |
+| 2026-10-09 | Anthropic’s Quest to Give A.I. Morals | NYT · Technology | Technology | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/podcasts/hardfork-anthropic-ai-morals.html) |
+| 2026-10-09 | America Is Risking Its Biggest Asset | NYT · Opinion | Opinion | opinion | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/opinion/foreign-policy-diplomacy-choke-point.html) |
+| 2026-10-09 | Trump’s Try, Try Again Supreme Court Strategy | NYT · Opinion | Opinion | opinion | 2026-10-09 | [link](https://www.nytimes.com/2026/10/06/opinion/trump-supreme-court-decisions.html) |
+| 2026-10-09 | The Powerful Yet Fragile Force Propping Up Stocks and the Economy | NYT · Your Money | Your Money | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html) |
+| 2026-10-09 | Report: Nvidia plans to invest in inference chip startup d-Matrix | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-09 | [link](https://www.datacenterdynamics.com/en/news/report-nvidia-plans-to-invest-in-inference-chip-startup-d-matrix/) |
+| 2026-10-09 | ThisWay Global plans 73MW AI and HPC data center in Bryan, Texas | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-09 | [link](https://www.datacenterdynamics.com/en/news/thisway-global-plans-73mw-ai-and-hpc-data-center-in-bryan-texas/) |
+| 2026-10-09 | Quoting Matthew Green | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-09 | [link](https://simonwillison.net/2026/Oct/9/matthew-green/) |
+| 2026-10-09 | US electric, gas utility rate requests spike to $4.5B in Q3: PowerLines | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-09 | [link](https://www.utilitydive.com/news/q3-electric-gas-rate-requests-powerlines-analysis/832609/) |
+| 2026-10-09 | What happened to Duke’s clean transition tariff? | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-10-09 | [link](https://www.latitudemedia.com/news/what-happened-to-dukes-clean-transition-tariff/) |
+| 2026-10-09 | ttok 1.0 | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-09 | [link](https://simonwillison.net/2026/Oct/9/ttok/) |
+| 2026-10-09 | Engie, LS Power land 2.1 GW in fast-track interconnection approval from PJM | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-09 | [link](https://www.utilitydive.com/news/engie-ls-power-pjm-expedited-interconnection-eit/832613/) |
+| 2026-10-09 | Concert Review: London Voices - Video Games Go Choral ★★★★☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-10-09 | [link](https://shkspr.mobi/blog/2026/10/concert-review-london-voices-video-games-go-choral/) |
+| 2026-10-09 | Why does Claude need to see my ovulation cycle? 🥺 | Reddit | Business | social | 2026-10-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x1grtv/why_does_claude_need_to_see_my_ovulation_cycle/) |
+| 2026-10-09 | I Pointed Claude at 400 Years of Historical Archives. It Found a Forgotten Meteorite, Lost Rhinos, a | Reddit | Business | social | 2026-10-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x1lo40/i_pointed_claude_at_400_years_of_historical/) |
+| 2026-10-09 | We know this is disappointing and we’re very sorry | Reddit | Business | social | 2026-10-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x1cgpo/we_know_this_is_disappointing_and_were_very_sorry/) |
+| 2026-10-09 | i gave claude a batch job overnight, woke up to 96 clips and $2,500 in spends | Reddit | Business | social | 2026-10-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x1oxol/i_gave_claude_a_batch_job_overnight_woke_up_to_96/) |
+| 2026-10-09 | Is it just me, or did everyone quietly stop being a "developer" and become an "operator"? | Reddit | Business | social | 2026-10-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x1xcus/is_it_just_me_or_did_everyone_quietly_stop_being/) |
+| 2026-10-09 | I made a claude code mod that uses Haiku 5.5 (or Jev) to pick the best model and effort for your tas | Reddit | Business | social | 2026-10-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x1nnkn/i_made_a_claude_code_mod_that_uses_haiku_55_or/) |
+| 2026-10-09 | How to bypass the "I cannot reverse engineer or bypass proprietary software" | Reddit | Business | social | 2026-10-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x1q7jx/how_to_bypass_the_i_cannot_reverse_engineer_or/) |
+| 2026-10-09 | Sonnet 5.5 - GPT 6 instant | Reddit | Business | social | 2026-10-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x1gz16/sonnet_55_gpt_6_instant/) |
+| 2026-10-09 | Claude Code Compacts Automatically Before Cache Expires, THANK YOU! | Reddit | Business | social | 2026-10-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x1a6ym/claude_code_compacts_automatically_before_cache/) |
+| 2026-10-09 | Claude Startup Program no longer offering a year of Claude Team and $1K in API Credits | Reddit | Business | social | 2026-10-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x1af87/claude_startup_program_no_longer_offering_a_year/) |
+| 2026-10-09 | What is happening??? | Reddit | Business | social | 2026-10-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x1o1ev/what_is_happening/) |
+| 2026-10-09 | ATTENTION HEAVY AI USERS | Reddit | Business | social | 2026-10-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x1esxn/attention_heavy_ai_users/) |
+| 2026-10-09 | Introduction Claude Dashboards and Claude Motion | Reddit | Business | social | 2026-10-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x1iwa4/introduction_claude_dashboards_and_claude_motion/) |
+| 2026-10-09 | Anyone else not using Fable AT ALL recently? | Reddit | Business | social | 2026-10-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x1poui/anyone_else_not_using_fable_at_all_recently/) |
+| 2026-10-09 | I tested Haiku 5.5, Sonnet 5.5 and Opus 5.5 as subagents on 6 real tasks | Reddit | Business | social | 2026-10-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x1e7ts/i_tested_haiku_55_sonnet_55_and_opus_55_as/) |
+| 2026-10-09 | Prism is now live as community plugin! | Reddit | Business | social | 2026-10-09 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x17xfj/prism_is_now_live_as_community_plugin/) |
+| 2026-10-09 | Anyone else using Obsidian in pretty much vanilla mode? | Reddit | Business | social | 2026-10-09 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x1jdz2/anyone_else_using_obsidian_in_pretty_much_vanilla/) |
+| 2026-10-09 | Made a theme that's easy to read and easy to scan - contrast-audited on 346 screens | Reddit | Business | social | 2026-10-09 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x20dix/made_a_theme_thats_easy_to_read_and_easy_to_scan/) |
+| 2026-10-09 | I used Obsidian for research notes for over 3 years, but it just didn't work for final draft | Reddit | Business | social | 2026-10-09 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x1oeum/i_used_obsidian_for_research_notes_for_over_3/) |
+| 2026-10-09 | PSA: Footnote Shortcut plugin has changed ownership | Reddit | Business | social | 2026-10-09 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x1r0vi/psa_footnote_shortcut_plugin_has_changed_ownership/) |
+| 2026-10-09 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-08 | Trump administration is suspending Microsoft from a green card program | HN | Technology | tech | 2026-10-08 | [link](https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea) |
 | 2026-10-08 | Whistle: Speech to Text in 16.9 MB | HN | Technology | tech | 2026-10-08 | [link](https://cactuscompute.com/blog/whistle) |
 | 2026-10-08 | Tell HN: I've been paying for a rural Tanzanian's education for 10 years | HN | Technology | tech | 2026-10-08 | [link](https://news.ycombinator.com/item?id=50006366) |
