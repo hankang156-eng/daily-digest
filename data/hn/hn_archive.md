@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-10 · 513 days · 5130 stories*
+*Last updated: 2026-10-11 · 514 days · 5140 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-10 | Saturday | 1 | Lobbying is corruption | 489 | 272 | Technology | [link](https://carette.xyz/posts/lobbying_and_corruption/) · [HN](https://news.ycombinator.com/item?id=50032556) |
+| 2026-10-10 | Saturday | 2 | The Lightbulb Computer | 419 | 65 | Technology | [link](https://lightbulbcomputer.com/) · [HN](https://news.ycombinator.com/item?id=50029487) |
+| 2026-10-10 | Saturday | 3 | `123456' password used in Danish CPR data breach | 389 | 203 | Technology | [link](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/) · [HN](https://news.ycombinator.com/item?id=50031269) |
+| 2026-10-10 | Saturday | 4 | Bitwarden Dual License Model | 381 | 274 | Technology | [link](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750) · [HN](https://news.ycombinator.com/item?id=50033407) |
+| 2026-10-10 | Saturday | 5 | A city-building game in which the city would prefer you didn't | 344 | 116 | Technology | [link](https://housing.over.pizza/) · [HN](https://news.ycombinator.com/item?id=50036864) |
+| 2026-10-10 | Saturday | 6 | Build your own decision model | 302 | 71 | Technology | [link](https://nishtahir.com/build-your-own-decision-model/) · [HN](https://news.ycombinator.com/item?id=50037949) |
+| 2026-10-10 | Saturday | 7 | Talorys – A self-hosted personal AI agent on Cloudflare's free tier | 294 | 134 | Technology | [link](https://github.com/rociiu/talorys) · [HN](https://news.ycombinator.com/item?id=50031614) |
+| 2026-10-10 | Saturday | 8 | Apple/macOS removed from official Unix registry | 275 | 228 | Technology | [link](https://www.opengroup.org//openbrand/register/) · [HN](https://news.ycombinator.com/item?id=50031653) |
+| 2026-10-10 | Saturday | 9 | I would like the value of my home to rise, while my property taxes fall | 252 | 566 | Technology | [link](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/) · [HN](https://news.ycombinator.com/item?id=50032758) |
+| 2026-10-10 | Saturday | 10 | Show HN: WallHop – 12ft.io is gone, so I built a replacement | 247 | 102 | Technology | [link](https://wallhop.io/) · [HN](https://news.ycombinator.com/item?id=50038634) |
 | 2026-10-09 | Friday | 1 | Cloudflare acquires Deno | 1239 | 626 | Technology | [link](https://deno.com/blog/cloudflare) · [HN](https://news.ycombinator.com/item?id=50019911) |
 | 2026-10-09 | Friday | 2 | Triple-A Minesweeper | 982 | 192 | Technology | [link](https://minesweeper.mikelacher.com/) · [HN](https://news.ycombinator.com/item?id=50022292) |
 | 2026-10-09 | Friday | 3 | Sorry, I'm in a meeting | 905 | 255 | Technology | [link](https://iminafleeting.com/) · [HN](https://news.ycombinator.com/item?id=50018088) |

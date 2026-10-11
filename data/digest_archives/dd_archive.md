@@ -1,9 +1,70 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-10 · 8919 items*
+*Last updated: 2026-10-11 · 8980 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-10 | Lobbying is corruption | HN | Technology | tech | 2026-10-10 | [link](https://carette.xyz/posts/lobbying_and_corruption/) |
+| 2026-10-10 | The Lightbulb Computer | HN | Technology | tech | 2026-10-10 | [link](https://lightbulbcomputer.com/) |
+| 2026-10-10 | `123456' password used in Danish CPR data breach | HN | Technology | tech | 2026-10-10 | [link](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/) |
+| 2026-10-10 | Bitwarden Dual License Model | HN | Technology | tech | 2026-10-10 | [link](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750) |
+| 2026-10-10 | A city-building game in which the city would prefer you didn't | HN | Technology | tech | 2026-10-10 | [link](https://housing.over.pizza/) |
+| 2026-10-10 | Build your own decision model | HN | Technology | tech | 2026-10-10 | [link](https://nishtahir.com/build-your-own-decision-model/) |
+| 2026-10-10 | Talorys – A self-hosted personal AI agent on Cloudflare's free tier | HN | Technology | tech | 2026-10-10 | [link](https://github.com/rociiu/talorys) |
+| 2026-10-10 | Apple/macOS removed from official Unix registry | HN | Technology | tech | 2026-10-10 | [link](https://www.opengroup.org//openbrand/register/) |
+| 2026-10-10 | I would like the value of my home to rise, while my property taxes fall | HN | Technology | tech | 2026-10-10 | [link](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/) |
+| 2026-10-10 | Show HN: WallHop – 12ft.io is gone, so I built a replacement | HN | Technology | tech | 2026-10-10 | [link](https://wallhop.io/) |
+| 2026-10-10 | Computers Cannot Make Decisions | HN | Technology | tech | 2026-10-10 | [link](https://wiki.cateat.fish/art:computers_cannot_make_decisions) |
+| 2026-10-10 | Why DuckDB 2.0 is faster | HN | Technology | tech | 2026-10-10 | [link](https://motherduck.com/blog/why-duckdb-20-is-faster/) |
+| 2026-10-10 | Knuth reward check | HN | Technology | tech | 2026-10-10 | [link](https://www.thomas-huehn.com/knuth-reward-check/) |
+| 2026-10-10 | FDA may allow some toxic chemicals to be added to food without safety review | HN | Technology | tech | 2026-10-10 | [link](https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis) |
+| 2026-10-10 | Lobbying | HN | Technology | tech | 2026-10-10 | [link](https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html) |
+| 2026-10-10 | Unikernels were hard. key word: were | HN | Technology | tech | 2026-10-10 | [link](https://ghuntley.com/unikernels/) |
+| 2026-10-10 | Economic Pain and an Unpopular Trump Put G.O.P. on its Heels With Three Weeks to Go | NYT · Politics | Politics | news | 2026-10-10 | [link](https://www.nytimes.com/2026/10/10/us/politics/trump-inflation-midterms-republicans.html) |
+| 2026-10-10 | Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website | NYT · Technology | Technology | news | 2026-10-10 | [link](https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html) |
+| 2026-10-10 | Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage | NYT · Technology | Technology | news | 2026-10-11 | [link](https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html) |
+| 2026-10-10 | What’s Dragging Down A.I. Efficiency? The ‘Verification Tax.’ | NYT · Business | Business | news | 2026-10-10 | [link](https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html) |
+| 2026-10-10 | A.I. Companies Say They Aren’t Responsible for Their Unpredictable Products. Don’t Believe Them. | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-10-10 | [link](https://www.nytimes.com/2026/10/10/opinion/ai-companies-liability-laws.html) |
+| 2026-10-10 | The Winning Stock Funds This Time Weren’t Tech. They Were Energy. | NYT · Business | Business | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/business/stock-bonds-tech-energy.html) |
+| 2026-10-10 | Trump Announces White House Inquiry Into Fed Governor Lisa Cook | NYT · Business | Business | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/business/trump-lisa-cook-fed.html) |
+| 2026-10-10 | How Democrats Beat the Republican Money Machine | NYT · Opinion | Opinion | opinion | 2026-10-10 | [link](https://www.nytimes.com/2026/10/10/opinion/republicans-money-democrats-midterms.html) |
+| 2026-10-10 | We Had Questions About A.I. Joseph Gordon-Levitt Had Answers. | NYT · Opinion | Opinion | opinion | 2026-10-10 | [link](https://www.nytimes.com/2026/10/10/opinion/joseph-gordon-levitt-united-nations-ai.html) |
+| 2026-10-10 | Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html) |
+| 2026-10-10 | Fed Minutes Show Officials Saw More Work to Do to Quell Inflation | NYT · Business | Business | news | 2026-10-07 | [link](https://www.nytimes.com/2026/10/07/business/fed-minutes-show-officials-saw-more-work-to-do-to-quell-inflation.html) |
+| 2026-10-10 | Paramount Closes Merger With Warner Bros. Discovery to Form Skydance | NYT · Business | Business | news | 2026-10-07 | [link](https://www.nytimes.com/2026/10/06/business/media/paramount-warner-bros-discovery-skydance.html) |
+| 2026-10-10 | Jensen Huang Thinks A.I. Is Going Great | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-10-09 | [link](https://www.nytimes.com/2026/10/07/opinion/jensen-huang-ai-tech-nvidia.html) |
+| 2026-10-10 | Inside Mark Zuckerberg’s Decision to Pull the Trigger on Meta’s A.I. Agent | NYT · Technology | Technology | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html) |
+| 2026-10-10 | The Little-Noticed Exception in Trump Accounts | NYT · Business | Business | news | 2026-10-08 | [link](https://www.nytimes.com/2026/10/08/business/dealbook/trump-accounts-stocks.html) |
+| 2026-10-10 | ‘Not Pleasant’ but ‘Necessary’: Support at Trump Rally for Public Execution | NYT · Politics | Politics | news | 2026-10-11 | [link](https://www.nytimes.com/2026/10/10/us/politics/trump-rally-tennessee-public-execution.html) |
+| 2026-10-10 | Christa Pike Discharged From Hospital After Surviving Execution Attempt | NYT · Politics | Politics | news | 2026-10-10 | [link](https://www.nytimes.com/2026/10/10/us/politics/christa-pike-discharged-hospital-survive-execution.html) |
+| 2026-10-10 | Clinical Trial Indicates A.I. Chatbots Could Aid Urgent Care | NYT · Technology | Technology | news | 2026-10-08 | [link](https://www.nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html) |
+| 2026-10-10 | Why My Conversations with OpenAI’s ‘ChatGPT for Teens’ Made Me Very Worried | NYT · Technology | Technology | news | 2026-10-07 | [link](https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html) |
+| 2026-10-10 | The Powerful Yet Fragile Force Propping Up Stocks and the Economy | NYT · Your Money | Your Money | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html) |
+| 2026-10-10 | Sponsored: Why do liquid-cooled AI data centers require different backup power strategy? | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-10 | [link](https://www.datacenterdynamics.com/en/opinions/why-do-liquid-cooled-ai-data-centers-require-different-backup-power-strategy/) |
+| 2026-10-10 | Sponsored: Wärtsilä, Schneider Electric, and Stanley Consultants launch coordinated approach for fas | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-10 | [link](https://www.datacenterdynamics.com/en/product-news/w%C3%A4rtsil%C3%A4-schneider-electric-and-stanley-consultants-launch-coordinated-approach-for-faster-us-data-center-power-delivery/) |
+| 2026-10-10 | Modular Data Center Company Harnesses Excess Solar Power | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-10-10 | [link](https://spectrum.ieee.org/data-center-excess-solar) |
+| 2026-10-10 | FBI Arrests Executive at Ransomware Negotiation Firm | Krebs on Security · Security & Privacy | Security | tech | 2026-10-10 | [link](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/) |
+| 2026-10-10 | Quoting The New York Times | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-10 | [link](https://simonwillison.net/2026/Oct/10/the-new-york-times/) |
+| 2026-10-10 | Sunnny | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-10 | [link](https://sunnny.com/) |
+| 2026-10-10 | ‘Proof-of-Human’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-10 | [link](https://x.com/bzamayo/status/2108498107184934914) |
+| 2026-10-10 | Some quick thoughts on Unit Testing ActivityPub | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-10-10 | [link](https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/) |
+| 2026-10-10 | Python 3.15.0 added to actions/python-versions | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-10 | [link](https://simonwillison.net/2026/Oct/10/python-actions/) |
+| 2026-10-10 | I'm a 9th grader and I used Claude to prove a geometry conjecture: the rhombicosidodecahedron can't  | Reddit | Business | social | 2026-10-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x2eybb/im_a_9th_grader_and_i_used_claude_to_prove_a/) |
+| 2026-10-10 | Can we please start building apps and systems to save humanity from scarcity and corruption, instead | Reddit | Business | social | 2026-10-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x2srd4/can_we_please_start_building_apps_and_systems_to/) |
+| 2026-10-10 | Vibe coded this skit with Claude. My wife doesn’t get it, but I know you guys will | Reddit | Business | social | 2026-10-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x2k2t5/vibe_coded_this_skit_with_claude_my_wife_doesnt/) |
+| 2026-10-10 | I made my Claude Code sub-agents a video call. Weirdly, it’s the best way I’ve found to follow what  | Reddit | Business | social | 2026-10-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x2f59x/i_made_my_claude_code_subagents_a_video_call/) |
+| 2026-10-10 | While everyone is building AI SAAS B2B services to get rich, I'm just happy to solve small computer  | Reddit | Business | social | 2026-10-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x296ob/while_everyone_is_building_ai_saas_b2b_services/) |
+| 2026-10-10 | i f$cking love Claude | Reddit | Business | social | 2026-10-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x27cev/i_fcking_love_claude/) |
+| 2026-10-10 | I built 20 free, open-source HTML pages you can use to reskin existing projects with Claude. No logi | Reddit | Business | social | 2026-10-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x22sap/i_built_20_free_opensource_html_pages_you_can_use/) |
+| 2026-10-10 | I used Claude to create 3D Asset Creation pipeline. | Reddit | Business | social | 2026-10-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x2p4is/i_used_claude_to_create_3d_asset_creation_pipeline/) |
+| 2026-10-10 | Question for those using the new Projects Beta | Reddit | Business | social | 2026-10-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x2rbcb/question_for_those_using_the_new_projects_beta/) |
+| 2026-10-10 | Please add a setting to make Enter insert a new line in the Claude chat input | Reddit | Business | social | 2026-10-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x2en0e/please_add_a_setting_to_make_enter_insert_a_new/) |
+| 2026-10-10 | Apparently, Claude is reacting like a dad now 👍 | Reddit | Business | social | 2026-10-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x29hc9/apparently_claude_is_reacting_like_a_dad_now/) |
+| 2026-10-10 | Claude code timeline | Reddit | Business | social | 2026-10-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x2cqzb/claude_code_timeline/) |
+| 2026-10-10 | I'm a versatile developer : "go", "let's go", "do it", "continue", "okay". | Reddit | Business | social | 2026-10-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x23nhx/im_a_versatile_developer_go_lets_go_do_it/) |
+| 2026-10-10 | What is the most ambitious thing you've built with Claude Code? | Reddit | Business | social | 2026-10-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x229rr/what_is_the_most_ambitious_thing_youve_built_with/) |
+| 2026-10-10 | What an emotional rollercoaster... Thank you, Anthropic! 😂 | Reddit | Business | social | 2026-10-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x28at1/what_an_emotional_rollercoaster_thank_you/) |
+| 2026-10-10 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-09 | Cloudflare acquires Deno | HN | Technology | tech | 2026-10-09 | [link](https://deno.com/blog/cloudflare) |
 | 2026-10-09 | Triple-A Minesweeper | HN | Technology | tech | 2026-10-09 | [link](https://minesweeper.mikelacher.com/) |
 | 2026-10-09 | Sorry, I'm in a meeting | HN | Technology | tech | 2026-10-09 | [link](https://iminafleeting.com/) |
