@@ -1,9 +1,71 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-11 · 8980 items*
+*Last updated: 2026-10-12 · 9042 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-11 | Passkeys are a trap | HN | Technology | tech | 2026-10-11 | [link](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them) |
+| 2026-10-11 | Bot traffic from Yandex | HN | Technology | tech | 2026-10-11 | [link](https://radar.cloudflare.com/bots/as13238?dateRange=7d) |
+| 2026-10-11 | 3rd Yandex Cloud Data Center Was Hit | HN | Technology | tech | 2026-10-11 | [link](https://status.yandex.cloud/en/incidents/2136) |
+| 2026-10-11 | Total Annihilation, rebuilt for modern computers | HN | Technology | tech | 2026-10-11 | [link](https://nanolathe.gg) |
+| 2026-10-11 | NYC's "Click to Cancel" rule is now in effect | HN | Technology | tech | 2026-10-11 | [link](https://www.nyc.gov/main/click-to-cancel) |
+| 2026-10-11 | The gap in shared understanding of LLM capability is widening | HN | Technology | tech | 2026-10-11 | [link](https://twitter.com/karpathy/status/2109361546505966046) |
+| 2026-10-11 | Nitter: Update Oct 10th seeking funding and legal help | HN | Technology | tech | 2026-10-11 | [link](https://nitter.net) |
+| 2026-10-11 | LineageOS 24 | HN | Technology | tech | 2026-10-11 | [link](https://lineageos.org/Changelog-32/) |
+| 2026-10-11 | Google told to halt work on datacentres in Finland over environmental concerns | HN | Technology | tech | 2026-10-11 | [link](https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment) |
+| 2026-10-11 | Terence Tao: Math 2.0 [pdf] | HN | Technology | tech | 2026-10-11 | [link](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf) |
+| 2026-10-11 | Documents add to evidence in climate deception case against ExxonMobil | HN | Technology | tech | 2026-10-11 | [link](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/) |
+| 2026-10-11 | I paid people to try and follow my README | HN | Technology | tech | 2026-10-11 | [link](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/) |
+| 2026-10-11 | IRCv3 | HN | Technology | tech | 2026-10-11 | [link](https://ircv3.net/) |
+| 2026-10-11 | I'm sorry, but you still have to think | HN | Technology | tech | 2026-10-11 | [link](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/) |
+| 2026-10-11 | Fingerprints are the new cookies | HN | Technology | tech | 2026-10-11 | [link](https://royfish.dev/fingerprints-are-the-new-cookies) |
+| 2026-10-11 | So, you’d like to sell your print issues of The Onion? | HN | Technology | tech | 2026-10-11 | [link](https://theonion.com/archivehunt/) |
+| 2026-10-11 | Why My Conversations with OpenAI’s ‘ChatGPT for Teens’ Made Me Very Worried | NYT · Technology | Technology | news | 2026-10-12 | [link](https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html) |
+| 2026-10-11 | Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage | NYT · Technology | Technology | news | 2026-10-11 | [link](https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html) |
+| 2026-10-11 | Supply Shocks Are Here to Stay. Is the Fed Ready to Face That Fact? | NYT · Opinion | Opinion | opinion | 2026-10-11 | [link](https://www.nytimes.com/2026/10/11/opinion/economy-supply-shocks-groceries-gas.html) |
+| 2026-10-11 | The Winning Stock Funds This Time Weren’t Tech. They Were Energy. | NYT · Business | Business | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/business/stock-bonds-tech-energy.html) |
+| 2026-10-11 | Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website | NYT · Technology | Technology | news | 2026-10-10 | [link](https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html) |
+| 2026-10-11 | Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html) |
+| 2026-10-11 | Trump Announces White House Inquiry Into Fed Governor Lisa Cook | NYT · Business | Business | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/business/trump-lisa-cook-fed.html) |
+| 2026-10-11 | What’s Dragging Down A.I. Efficiency? The ‘Verification Tax.’ | NYT · Business | Business | news | 2026-10-10 | [link](https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html) |
+| 2026-10-11 | A.I. Companies Say They Aren’t Responsible for Their Unpredictable Products. Don’t Believe Them. | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-10-10 | [link](https://www.nytimes.com/2026/10/10/opinion/ai-companies-liability-laws.html) |
+| 2026-10-11 | Fed Minutes Show Officials Saw More Work to Do to Quell Inflation | NYT · Business | Business | news | 2026-10-07 | [link](https://www.nytimes.com/2026/10/07/business/fed-minutes-show-officials-saw-more-work-to-do-to-quell-inflation.html) |
+| 2026-10-11 | We Need an Operation Warp Speed for New Biological Threats | NYT · Opinion | Opinion | opinion | 2026-10-12 | [link](https://www.nytimes.com/2026/10/12/opinion/ai-biosecurity.html) |
+| 2026-10-11 | Is Universal Basic Income the Answer to A.I.-Fueled Job Losses? | NYT · Technology | Technology | news | 2026-10-12 | [link](https://www.nytimes.com/2026/10/12/technology/universal-basic-income-silicon-valley.html) |
+| 2026-10-11 | What’s In Anthropic’s I.P.O. Filing | NYT · DealBook | DealBook | news | 2026-09-29 | [link](https://www.nytimes.com/2026/09/29/business/dealbook/anthropic-ipo-filing-s1.html) |
+| 2026-10-11 | Inside Mark Zuckerberg’s Decision to Pull the Trigger on Meta’s A.I. Agent | NYT · Technology | Technology | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html) |
+| 2026-10-11 | Examining the Doctor-A.I. Relationship | NYT · Opinion | Opinion | opinion | 2026-10-11 | [link](https://www.nytimes.com/2026/10/11/opinion/doctor-ai.html) |
+| 2026-10-11 | Who’s Winning the Race for Congress? | NYT · Politics | Politics | news | 2026-10-12 | [link](https://www.nytimes.com/2026/10/12/us/politics/whos-winning-the-race-for-congress.html) |
+| 2026-10-11 | Democrats Press Pentagon on Iran Civilian Deaths | NYT · Politics | Politics | news | 2026-10-11 | [link](https://www.nytimes.com/2026/10/11/us/politics/democrats-press-pentagon-on-iran-civilian-deaths.html) |
+| 2026-10-11 | How the White House Manufactured a Narrative About a Trump Aide’s Call Logs | NYT · Politics | Politics | news | 2026-10-11 | [link](https://www.nytimes.com/2026/10/11/us/politics/white-house-manufactured-narrative-solomon.html) |
+| 2026-10-11 | Tech Titans Mingle With Trump and Xi at State Dinner | NYT · Economy | Economy | news | 2026-09-25 | [link](https://www.nytimes.com/2026/09/24/business/economy/tech-executives-state-dinner-xi-trump.html) |
+| 2026-10-11 | The Powerful Yet Fragile Force Propping Up Stocks and the Economy | NYT · Your Money | Your Money | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html) |
+| 2026-10-11 | Sponsored: Legacy data center efficiency now has a compliance deadline | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-11 | [link](https://www.datacenterdynamics.com/en/opinions/legacy-data-center-efficiency-now-has-a-compliance-deadline/) |
+| 2026-10-11 | Hyperscale Data plans Patriot BTC subsidiary for Bitcoin mining business | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-11 | [link](https://www.datacenterdynamics.com/en/news/hyperscale-data-plans-patriot-btc-subsidiary-for-bitcoin-mining-business/) |
+| 2026-10-11 | ★ X Once Again Marks the Spot | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-11 | [link](https://daringfireball.net/2026/10/x_once_again_marks_the_spot) |
+| 2026-10-11 | Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-11 | [link](https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/) |
+| 2026-10-11 | Dwarf Fortress uses version control now | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-11 | [link](https://simonwillison.net/2026/Oct/11/dwarf-fortress/) |
+| 2026-10-11 | The day we can run Sonnet-level AI locally on a regular PC will be insane | Reddit | Business | social | 2026-10-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x35dqe/the_day_we_can_run_sonnetlevel_ai_locally_on_a/) |
+| 2026-10-11 | State of the AI wars right now | Reddit | Business | social | 2026-10-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x2wqf4/state_of_the_ai_wars_right_now/) |
+| 2026-10-11 | Claude saved my marriage. 😂💀 | Reddit | Business | social | 2026-10-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x395p7/claude_saved_my_marriage/) |
+| 2026-10-11 | New Projects rolling out for Chat and Cowork, oh God Anthropic please don't | Reddit | Business | social | 2026-10-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x33na4/new_projects_rolling_out_for_chat_and_cowork_oh/) |
+| 2026-10-11 | I built a fake live cable TV network out of the Internet Archive's ephemeral media | Reddit | Business | social | 2026-10-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x3cqlv/i_built_a_fake_live_cable_tv_network_out_of_the/) |
+| 2026-10-11 | Claude and I built a 'video' format so Claude (and other LLMs) could 'watch' videos! | Reddit | Business | social | 2026-10-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x39bpi/claude_and_i_built_a_video_format_so_claude_and/) |
+| 2026-10-11 | Does anyone still use Fable 5.1 these days? | Reddit | Business | social | 2026-10-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x3lzc0/does_anyone_still_use_fable_51_these_days/) |
+| 2026-10-11 | Anthropic needs a way to change your email | Reddit | Business | social | 2026-10-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x2ud6t/anthropic_needs_a_way_to_change_your_email/) |
+| 2026-10-11 | HD-2D RPG in Three.js built with Claude Code | Reddit | Business | social | 2026-10-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x3f29z/hd2d_rpg_in_threejs_built_with_claude_code/) |
+| 2026-10-11 | Just calculated: A $20 subscription buys you ~$1300 in API costs (methodology below) | Reddit | Business | social | 2026-10-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x34x3d/just_calculated_a_20_subscription_buys_you_1300/) |
+| 2026-10-11 | Claude Code now shows images and videos in the terminal | Reddit | Business | social | 2026-10-11 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x34qj4/claude_code_now_shows_images_and_videos_in_the/) |
+| 2026-10-11 | Claude Max 20x now get $200 in free API credits every month | Reddit | Business | social | 2026-10-11 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x31yts/claude_max_20x_now_get_200_in_free_api_credits/) |
+| 2026-10-11 | Rebuilding a PDF editor with Claude Code made me question my engineering skills | Reddit | Business | social | 2026-10-11 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x37jfk/rebuilding_a_pdf_editor_with_claude_code_made_me/) |
+| 2026-10-11 | Any tips on making a UI/UX frontend not look like it was obviously coded by Claude? | Reddit | Business | social | 2026-10-11 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x3go5l/any_tips_on_making_a_uiux_frontend_not_look_like/) |
+| 2026-10-11 | Just noticed this wonderful gem in my CLI window(s) today, “Compacted while idle, before the prompt  | Reddit | Business | social | 2026-10-11 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x2vc7g/just_noticed_this_wonderful_gem_in_my_cli_windows/) |
+| 2026-10-11 | How to make historical timeline like this in obsidian? | Reddit | Business | social | 2026-10-11 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x2wtos/how_to_make_historical_timeline_like_this_in/) |
+| 2026-10-11 | Graphkasten | Reddit | Business | social | 2026-10-11 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x331k9/graphkasten/) |
+| 2026-10-11 | Created a Dishonored inspired dark theme with the cool menu effects | Reddit | Business | social | 2026-10-11 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x39zfi/created_a_dishonored_inspired_dark_theme_with_the/) |
+| 2026-10-11 | Here's my system around Obsidian to ingest info, sync, and backup notes. | Reddit | Business | social | 2026-10-11 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x2ug1v/heres_my_system_around_obsidian_to_ingest_info/) |
+| 2026-10-11 | How does kepano "zoom" through his fractal journal? | Reddit | Business | social | 2026-10-11 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x2wzuh/how_does_kepano_zoom_through_his_fractal_journal/) |
+| 2026-10-11 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-10 | Lobbying is corruption | HN | Technology | tech | 2026-10-10 | [link](https://carette.xyz/posts/lobbying_and_corruption/) |
 | 2026-10-10 | The Lightbulb Computer | HN | Technology | tech | 2026-10-10 | [link](https://lightbulbcomputer.com/) |
 | 2026-10-10 | `123456' password used in Danish CPR data breach | HN | Technology | tech | 2026-10-10 | [link](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/) |

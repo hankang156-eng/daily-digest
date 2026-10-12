@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-11 · 514 days · 5140 stories*
+*Last updated: 2026-10-12 · 515 days · 5150 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-11 | Sunday | 1 | Passkeys are a trap | 636 | 376 | Technology | [link](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them) · [HN](https://news.ycombinator.com/item?id=50048312) |
+| 2026-10-11 | Sunday | 2 | Bot traffic from Yandex | 628 | 249 | Technology | [link](https://radar.cloudflare.com/bots/as13238?dateRange=7d) · [HN](https://news.ycombinator.com/item?id=50041619) |
+| 2026-10-11 | Sunday | 3 | 3rd Yandex Cloud Data Center Was Hit | 591 | 720 | Technology | [link](https://status.yandex.cloud/en/incidents/2136) · [HN](https://news.ycombinator.com/item?id=50040547) |
+| 2026-10-11 | Sunday | 4 | Total Annihilation, rebuilt for modern computers | 516 | 204 | Technology | [link](https://nanolathe.gg) · [HN](https://news.ycombinator.com/item?id=50045984) |
+| 2026-10-11 | Sunday | 5 | NYC's "Click to Cancel" rule is now in effect | 477 | 229 | Technology | [link](https://www.nyc.gov/main/click-to-cancel) · [HN](https://news.ycombinator.com/item?id=50045946) |
+| 2026-10-11 | Sunday | 6 | The gap in shared understanding of LLM capability is widening | 465 | 677 | Technology | [link](https://twitter.com/karpathy/status/2109361546505966046) · [HN](https://news.ycombinator.com/item?id=50047422) |
+| 2026-10-11 | Sunday | 7 | Nitter: Update Oct 10th seeking funding and legal help | 455 | 235 | Technology | [link](https://nitter.net) · [HN](https://news.ycombinator.com/item?id=50041682) |
+| 2026-10-11 | Sunday | 8 | LineageOS 24 | 432 | 176 | Technology | [link](https://lineageos.org/Changelog-32/) · [HN](https://news.ycombinator.com/item?id=50040276) |
+| 2026-10-11 | Sunday | 9 | Google told to halt work on datacentres in Finland over environmental concerns | 426 | 137 | Technology | [link](https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment) · [HN](https://news.ycombinator.com/item?id=50048638) |
+| 2026-10-11 | Sunday | 10 | Terence Tao: Math 2.0 [pdf] | 402 | 426 | Technology | [link](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf) · [HN](https://news.ycombinator.com/item?id=50043026) |
 | 2026-10-10 | Saturday | 1 | Lobbying is corruption | 489 | 272 | Technology | [link](https://carette.xyz/posts/lobbying_and_corruption/) · [HN](https://news.ycombinator.com/item?id=50032556) |
 | 2026-10-10 | Saturday | 2 | The Lightbulb Computer | 419 | 65 | Technology | [link](https://lightbulbcomputer.com/) · [HN](https://news.ycombinator.com/item?id=50029487) |
 | 2026-10-10 | Saturday | 3 | `123456' password used in Danish CPR data breach | 389 | 203 | Technology | [link](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/) · [HN](https://news.ycombinator.com/item?id=50031269) |
