@@ -1,9 +1,75 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-12 · 9042 items*
+*Last updated: 2026-10-13 · 9108 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-12 | Hackers activate automatic defrosting in supermarket fridges across Europe | HN | Technology | tech | 2026-10-12 | [link](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) |
+| 2026-10-12 | Muse Wonder | HN | Technology | tech | 2026-10-12 | [link](https://research.meta.ai/blog/muse-wonder) |
+| 2026-10-12 | Deloitte falsified documents to evade tax on Abramovich's wealth | HN | Technology | tech | 2026-10-12 | [link](https://www.bbc.com/news/articles/c64g1l5389kvo) |
+| 2026-10-12 | Codex CLI installs a persistent, self-updating background daemon by default | HN | Technology | tech | 2026-10-12 | [link](https://github.com/openai/codex/issues/48195) |
+| 2026-10-12 | A Modern Web App in C | HN | Technology | tech | 2026-10-12 | [link](https://prophitt.me/writing/a-modern-web-app-in-c) |
+| 2026-10-12 | GLM-Legal | HN | Technology | tech | 2026-10-12 | [link](https://z.ai/blog/glm-legal) |
+| 2026-10-12 | AI is a tool and using it well takes skill | HN | Technology | tech | 2026-10-12 | [link](https://yyhh.org/blog/2026/10/ai-is-a-tool/) |
+| 2026-10-12 | QGIS enacts moratorium on AI contributions | HN | Technology | tech | 2026-10-12 | [link](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387) |
+| 2026-10-12 | Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver | HN | Technology | tech | 2026-10-12 | [link](https://github.com/h0m3us3r/w1700k-sdr) |
+| 2026-10-12 | Citroen revives the 2CV for an electric age | HN | Technology | tech | 2026-10-12 | [link](https://www.bbc.com/news/articles/c620r33plgppo) |
+| 2026-10-12 | AI coding agents generate more code, but not more software | HN | Technology | tech | 2026-10-12 | [link](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/) |
+| 2026-10-12 | Why aren't AI companies being charged for hacking? | HN | Technology | tech | 2026-10-12 | [link](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/) |
+| 2026-10-12 | Thinking will become a hobby | HN | Technology | tech | 2026-10-12 | [link](https://www.spinellis.gr/blog/20261008/?li261008) |
+| 2026-10-12 | Show HN: PS2 games statically recompiled to WebAssembly | HN | Technology | tech | 2026-10-12 | [link](https://github.com/snuri00/ps2-web-recomp) |
+| 2026-10-12 | 'AI' Is Not a Tool by Rich Hickey | HN | Technology | tech | 2026-10-12 | [link](https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e) |
+| 2026-10-12 | Will Linux phones become a viable alternative to the Android/iOS duopoly? | HN | Technology | tech | 2026-10-12 | [link](https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/) |
+| 2026-10-12 | Why My Conversations with OpenAI’s ‘ChatGPT for Teens’ Made Me Very Worried | NYT · Technology | Technology | news | 2026-10-12 | [link](https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html) |
+| 2026-10-12 | Federal Agents Search Home of Rep. Ilhan Omar | NYT · Politics | Politics | news | 2026-10-13 | [link](https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html) |
+| 2026-10-12 | Meta Unveils New Series of Advanced A.I. Models | NYT · Technology | Technology | news | 2026-10-12 | [link](https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html) |
+| 2026-10-12 | Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html) |
+| 2026-10-12 | Europeans Have a Love-Hate Relationship With Chinese Cars | NYT · Business | Business | news | 2026-10-12 | [link](https://www.nytimes.com/2026/10/12/business/europe-china-evs-hybrids.html) |
+| 2026-10-12 | Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage | NYT · Technology | Technology | news | 2026-10-11 | [link](https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html) |
+| 2026-10-12 | The Winning Stock Funds This Time Weren’t Tech. They Were Energy. | NYT · Business | Business | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/business/stock-bonds-tech-energy.html) |
+| 2026-10-12 | Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website | NYT · Technology | Technology | news | 2026-10-10 | [link](https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html) |
+| 2026-10-12 | Trump Announces White House Inquiry Into Fed Governor Lisa Cook | NYT · Business | Business | news | 2026-10-09 | [link](https://www.nytimes.com/2026/10/09/business/trump-lisa-cook-fed.html) |
+| 2026-10-12 | Fed Minutes Show Officials Saw More Work to Do to Quell Inflation | NYT · Business | Business | news | 2026-10-07 | [link](https://www.nytimes.com/2026/10/07/business/fed-minutes-show-officials-saw-more-work-to-do-to-quell-inflation.html) |
+| 2026-10-12 | We Need an Operation Warp Speed for New Biological Threats | NYT · Opinion | Opinion | opinion | 2026-10-12 | [link](https://www.nytimes.com/2026/10/12/opinion/ai-biosecurity.html) |
+| 2026-10-12 | What’s Dragging Down A.I. Efficiency? The ‘Verification Tax.’ | NYT · Business | Business | news | 2026-10-10 | [link](https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html) |
+| 2026-10-12 | Is Universal Basic Income the Answer to A.I.-Fueled Job Losses? | NYT · Technology | Technology | news | 2026-10-12 | [link](https://www.nytimes.com/2026/10/12/technology/universal-basic-income-silicon-valley.html) |
+| 2026-10-12 | Calls Show How Confusion Delayed Emergency Response for Christa Pike | NYT · Politics | Politics | news | 2026-10-13 | [link](https://www.nytimes.com/2026/10/12/us/christa-pike-medical-care-delay.html) |
+| 2026-10-12 | Supply Shocks Are Here to Stay. Is the Fed Ready to Face That Fact? | NYT · Opinion | Opinion | opinion | 2026-10-11 | [link](https://www.nytimes.com/2026/10/11/opinion/economy-supply-shocks-groceries-gas.html) |
+| 2026-10-12 | A.I. Companies Say They Aren’t Responsible for Their Unpredictable Products. Don’t Believe Them. | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-10-10 | [link](https://www.nytimes.com/2026/10/10/opinion/ai-companies-liability-laws.html) |
+| 2026-10-12 | Judge Orders Trump Administration to Answer for Tree Removals at D.C. Golf Course | NYT · Politics | Politics | news | 2026-10-12 | [link](https://www.nytimes.com/2026/10/12/us/politics/judge-trees-golf-trump.html) |
+| 2026-10-12 | Who’s Winning the Race for Congress? | NYT · Politics | Politics | news | 2026-10-12 | [link](https://www.nytimes.com/2026/10/12/us/politics/whos-winning-the-race-for-congress.html) |
+| 2026-10-12 | The Flawed Search for a Chatbot’s Soul | NYT · Opinion | Opinion | opinion | 2026-10-12 | [link](https://www.nytimes.com/2026/10/12/opinion/letters/anthropic-chatbot-soul.html) |
+| 2026-10-12 | The Powerful Yet Fragile Force Propping Up Stocks and the Economy | NYT · Your Money | Your Money | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html) |
+| 2026-10-12 | Nvidia opens up Vera Rubin rack and tray designs to OCP | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-12 | [link](https://www.datacenterdynamics.com/en/news/nvidia-opens-up-vera-rubin-rack-and-tray-designs-to-ocp/) |
+| 2026-10-12 | Nvidia gears up to smash CPU hegemony as Vera starts shipping | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-12 | [link](https://www.datacenterdynamics.com/en/news/nvidia-gears-up-to-smash-cpu-hegemony-as-vera-starts-shipping/) |
+| 2026-10-12 | Open Compute Project Foundation Launches OCP Nexus to Make 15 Years of Open Hardware Knowledge Easie | Open Compute Project · AI Infrastructure | Infrastructure | tech | 2026-10-12 | [link](https://www.opencompute.org/news/open-compute-project-foundation-launches-ocp-nexus-to-make-15-years-of-open-hardware-knowledge-easier-to-explore/) |
+| 2026-10-12 | Realizing the OCP Open Data Center Ecosystem Vision | Open Compute Project · AI Infrastructure | Infrastructure | tech | 2026-10-12 | [link](https://www.opencompute.org/news/realizing-the-ocp-open-data-center-ecosystem-vision/) |
+| 2026-10-12 | First Utility-Scale Enhanced Geothermal Plant Goes Live | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-10-12 | [link](https://spectrum.ieee.org/fervo-cape-station-geothermal) |
+| 2026-10-12 | Battery storage is scaling fast. Here’s how utilities can trust it to perform. | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-12 | [link](https://www.utilitydive.com/spons/battery-storage-is-scaling-fast-heres-how-utilities-can-trust-it-to-perfo/831960/) |
+| 2026-10-12 | web-edit 0.1a0 | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-12 | [link](https://simonwillison.net/2026/Oct/12/web-edit/) |
+| 2026-10-12 | Hello Python 3.15, goodbye 3.10, and now I can use 3.11 | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-12 | [link](https://simonwillison.net/2026/Oct/12/python-3-15/) |
+| 2026-10-12 | Mark Stephens, a.k.a. Robert X. Cringely, Died at 73 | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-12 | [link](https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&id=536506060&_rdr) |
+| 2026-10-12 | Damage control (by @CaptainInsightX) | Reddit | Business | social | 2026-10-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x4662c/damage_control_by_captaininsightx/) |
+| 2026-10-12 | Opus 5.5 is INSANE at decompilation / ports | Reddit | Business | social | 2026-10-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x3nkty/opus_55_is_insane_at_decompilation_ports/) |
+| 2026-10-12 | I made a free Minecraft mod where Claude builds whatever you describe | Reddit | Business | social | 2026-10-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x3olix/i_made_a_free_minecraft_mod_where_claude_builds/) |
+| 2026-10-12 | Meta says its new Muse Wonder scores at 85.6% against 81.5% for Claude Opus 5.5 and 81.4% for GPT-6  | Reddit | Business | social | 2026-10-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x48ecy/meta_says_its_new_muse_wonder_scores_at_856/) |
+| 2026-10-12 | 5hr limit now bumped to 24hr? | Reddit | Business | social | 2026-10-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x4bv39/5hr_limit_now_bumped_to_24hr/) |
+| 2026-10-12 | While I was vibe-coding with Opus 5.5 this morning... | Reddit | Business | social | 2026-10-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x3y0ot/while_i_was_vibecoding_with_opus_55_this_morning/) |
+| 2026-10-12 | Week 11 of making my fishing game with the help of AI | Reddit | Business | social | 2026-10-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x3ttzl/week_11_of_making_my_fishing_game_with_the_help/) |
+| 2026-10-12 | Using Claude Code for the first time, it feels like discovering LLMs for the first time again. | Reddit | Business | social | 2026-10-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x3ovg1/using_claude_code_for_the_first_time_it_feels/) |
+| 2026-10-12 | Claude Code made a great Terminator 2 reference. | Reddit | Business | social | 2026-10-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x46pwd/claude_code_made_a_great_terminator_2_reference/) |
+| 2026-10-12 | the kindness strategy might ACTUALLY be the play | Reddit | Business | social | 2026-10-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x3zdk8/the_kindness_strategy_might_actually_be_the_play/) |
+| 2026-10-12 | AI models may be capable of self-replicating without access to a datacenter | Reddit | Business | social | 2026-10-12 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x4esbb/ai_models_may_be_capable_of_selfreplicating/) |
+| 2026-10-12 | Claude Code in 2025: "can I run this command?" Claude Code now: "I made 8 threads, 5 PRs are ready,  | Reddit | Business | social | 2026-10-12 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x43kfx/claude_code_in_2025_can_i_run_this_command_claude/) |
+| 2026-10-12 | I made my Claude Code logs print a store receipt. $8.3k of tokens at API prices on a $200/mo plan | Reddit | Business | social | 2026-10-12 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x4aqyi/i_made_my_claude_code_logs_print_a_store_receipt/) |
+| 2026-10-12 | Had an idea for air-gapped file transfer, got 32+ Mbps | Reddit | Business | social | 2026-10-12 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x419b5/had_an_idea_for_airgapped_file_transfer_got_32/) |
+| 2026-10-12 | Thanks to Haiku 5.5, I can do hundreds of agents without blowing through my 20X sub instantly. | Reddit | Business | social | 2026-10-12 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x4bb56/thanks_to_haiku_55_i_can_do_hundreds_of_agents/) |
+| 2026-10-12 | I made a Notion-style home page for my Obsidian vault | Reddit | Business | social | 2026-10-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x41iv9/i_made_a_notionstyle_home_page_for_my_obsidian/) |
+| 2026-10-12 | Advanced Multi Column 2.5.0: real columns in Obsidian that stay rendered while you edit (+ full vide | Reddit | Business | social | 2026-10-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x4gbcr/advanced_multi_column_250_real_columns_in/) |
+| 2026-10-12 | Small Android widget for Markdown notes, now on Google Play | Reddit | Business | social | 2026-10-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x3xhan/small_android_widget_for_markdown_notes_now_on/) |
+| 2026-10-12 | ZettelFlow Reader to manage your epubs, pdfs and Web Clipper articles | Reddit | Business | social | 2026-10-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x4ekl1/zettelflow_reader_to_manage_your_epubs_pdfs_and/) |
+| 2026-10-12 | Brand new to Obsidian as a former Notion user. ( help ) | Reddit | Business | social | 2026-10-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x3qtkd/brand_new_to_obsidian_as_a_former_notion_user_help/) |
+| 2026-10-12 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-11 | Passkeys are a trap | HN | Technology | tech | 2026-10-11 | [link](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them) |
 | 2026-10-11 | Bot traffic from Yandex | HN | Technology | tech | 2026-10-11 | [link](https://radar.cloudflare.com/bots/as13238?dateRange=7d) |
 | 2026-10-11 | 3rd Yandex Cloud Data Center Was Hit | HN | Technology | tech | 2026-10-11 | [link](https://status.yandex.cloud/en/incidents/2136) |

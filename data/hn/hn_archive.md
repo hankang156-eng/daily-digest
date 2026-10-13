@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-12 · 515 days · 5150 stories*
+*Last updated: 2026-10-13 · 516 days · 5160 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-12 | Monday | 1 | Hackers activate automatic defrosting in supermarket fridges across Europe | 698 | 818 | Technology | [link](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) · [HN](https://news.ycombinator.com/item?id=50055304) |
+| 2026-10-12 | Monday | 2 | Muse Wonder | 635 | 338 | Technology | [link](https://research.meta.ai/blog/muse-wonder) · [HN](https://news.ycombinator.com/item?id=50059115) |
+| 2026-10-12 | Monday | 3 | Deloitte falsified documents to evade tax on Abramovich's wealth | 603 | 198 | Technology | [link](https://www.bbc.com/news/articles/c64g1l5389kvo) · [HN](https://news.ycombinator.com/item?id=50054207) |
+| 2026-10-12 | Monday | 4 | Codex CLI installs a persistent, self-updating background daemon by default | 565 | 274 | Technology | [link](https://github.com/openai/codex/issues/48195) · [HN](https://news.ycombinator.com/item?id=50060694) |
+| 2026-10-12 | Monday | 5 | A Modern Web App in C | 564 | 238 | Technology | [link](https://prophitt.me/writing/a-modern-web-app-in-c) · [HN](https://news.ycombinator.com/item?id=50058528) |
+| 2026-10-12 | Monday | 6 | GLM-Legal | 562 | 316 | Technology | [link](https://z.ai/blog/glm-legal) · [HN](https://news.ycombinator.com/item?id=50058507) |
+| 2026-10-12 | Monday | 7 | AI is a tool and using it well takes skill | 416 | 335 | Technology | [link](https://yyhh.org/blog/2026/10/ai-is-a-tool/) · [HN](https://news.ycombinator.com/item?id=50063427) |
+| 2026-10-12 | Monday | 8 | QGIS enacts moratorium on AI contributions | 375 | 402 | Technology | [link](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387) · [HN](https://news.ycombinator.com/item?id=50054751) |
+| 2026-10-12 | Monday | 9 | Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver | 349 | 91 | Technology | [link](https://github.com/h0m3us3r/w1700k-sdr) · [HN](https://news.ycombinator.com/item?id=50055593) |
+| 2026-10-12 | Monday | 10 | Citroen revives the 2CV for an electric age | 340 | 379 | Technology | [link](https://www.bbc.com/news/articles/c620r33plgppo) · [HN](https://news.ycombinator.com/item?id=50055220) |
 | 2026-10-11 | Sunday | 1 | Passkeys are a trap | 636 | 376 | Technology | [link](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them) · [HN](https://news.ycombinator.com/item?id=50048312) |
 | 2026-10-11 | Sunday | 2 | Bot traffic from Yandex | 628 | 249 | Technology | [link](https://radar.cloudflare.com/bots/as13238?dateRange=7d) · [HN](https://news.ycombinator.com/item?id=50041619) |
 | 2026-10-11 | Sunday | 3 | 3rd Yandex Cloud Data Center Was Hit | 591 | 720 | Technology | [link](https://status.yandex.cloud/en/incidents/2136) · [HN](https://news.ycombinator.com/item?id=50040547) |
