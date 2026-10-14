@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-13 · 516 days · 5160 stories*
+*Last updated: 2026-10-14 · 517 days · 5170 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-13 | Tuesday | 1 | Gemini 4 Argon | 1307 | 910 | Technology | [link](https://deepmind.google/models/gemini/) · [HN](https://news.ycombinator.com/item?id=50073879) |
+| 2026-10-13 | Tuesday | 2 | Redesigning source control at Anthropic | 774 | 781 | Technology | [link](https://www.anthropic.com/engineering/redesigning-source-control) · [HN](https://news.ycombinator.com/item?id=50073633) |
+| 2026-10-13 | Tuesday | 3 | Apple HomeView | 729 | 852 | Technology | [link](https://www.apple.com/apple-homeview/) · [HN](https://news.ycombinator.com/item?id=50071017) |
+| 2026-10-13 | Tuesday | 4 | 11 year old unsoundness bugs found in Rust borrow checker | 723 | 403 | Technology | [link](https://github.com/rust-lang/rust/issues/164250) · [HN](https://news.ycombinator.com/item?id=50069499) |
+| 2026-10-13 | Tuesday | 5 | Firefox Enterprise | 714 | 301 | Technology | [link](https://www.firefox.com/en-US/enterprise/) · [HN](https://news.ycombinator.com/item?id=50070302) |
+| 2026-10-13 | Tuesday | 6 | OpenAI engineer arrested in bugging of executive conference room | 585 | 483 | Technology | [link](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/) · [HN](https://news.ycombinator.com/item?id=50078141) |
+| 2026-10-13 | Tuesday | 7 | CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades | 450 | 253 | Technology | [link](https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran) · [HN](https://news.ycombinator.com/item?id=50069329) |
+| 2026-10-13 | Tuesday | 8 | Thunderbird for iOS | 438 | 186 | Technology | [link](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/) · [HN](https://news.ycombinator.com/item?id=50072913) |
+| 2026-10-13 | Tuesday | 9 | Show HN: Guitoro, a virtual guitar you strum with your keyboard | 435 | 110 | Technology | [link](https://guitoro.com/) · [HN](https://news.ycombinator.com/item?id=50077020) |
+| 2026-10-13 | Tuesday | 10 | We turned EmbeddingGemma 2 into a speech-to-text model | 413 | 94 | Technology | [link](https://eg2.haku.sh/) · [HN](https://news.ycombinator.com/item?id=50069971) |
 | 2026-10-12 | Monday | 1 | Hackers activate automatic defrosting in supermarket fridges across Europe | 698 | 818 | Technology | [link](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) · [HN](https://news.ycombinator.com/item?id=50055304) |
 | 2026-10-12 | Monday | 2 | Muse Wonder | 635 | 338 | Technology | [link](https://research.meta.ai/blog/muse-wonder) · [HN](https://news.ycombinator.com/item?id=50059115) |
 | 2026-10-12 | Monday | 3 | Deloitte falsified documents to evade tax on Abramovich's wealth | 603 | 198 | Technology | [link](https://www.bbc.com/news/articles/c64g1l5389kvo) · [HN](https://news.ycombinator.com/item?id=50054207) |
