@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-14 · 517 days · 5170 stories*
+*Last updated: 2026-10-15 · 518 days · 5180 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-14 | Wednesday | 1 | Things to know when you get cancer | 1371 | 341 | Technology | [link](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) · [HN](https://news.ycombinator.com/item?id=50093568) |
+| 2026-10-14 | Wednesday | 2 | Containment and monitoring failures are to blame for AI hacking reports: experts | 902 | 533 | Technology | [link](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) · [HN](https://news.ycombinator.com/item?id=50091788) |
+| 2026-10-14 | Wednesday | 3 | How Amazon pushes up prices all across the Internet | 835 | 642 | Technology | [link](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/) · [HN](https://news.ycombinator.com/item?id=50084757) |
+| 2026-10-14 | Wednesday | 4 | Iosevka is an open-source, sans-serif and slab-serif monospace font | 719 | 297 | Technology | [link](https://typeof.net/Iosevka/) · [HN](https://news.ycombinator.com/item?id=50084240) |
+| 2026-10-14 | Wednesday | 5 | OpenCode 2.0 | 616 | 243 | Technology | [link](https://anoma.ly/notes/opencode-2-0/) · [HN](https://news.ycombinator.com/item?id=50094994) |
+| 2026-10-14 | Wednesday | 6 | Passkeys are not a trap | 600 | 742 | Technology | [link](https://scotthelme.co.uk/passkeys-are-not-a-trap/) · [HN](https://news.ycombinator.com/item?id=50088935) |
+| 2026-10-14 | Wednesday | 7 | ICE Planning $100M 'Nightmare' Domestic Spy Program | 512 | 317 | Technology | [link](https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/) · [HN](https://news.ycombinator.com/item?id=50090246) |
+| 2026-10-14 | Wednesday | 8 | AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs | 492 | 244 | Technology | [link](https://github.com/android/ndk/issues/2260) · [HN](https://news.ycombinator.com/item?id=50083130) |
+| 2026-10-14 | Wednesday | 9 | Google is silently linking your phone number across all signed-in accounts | 470 | 129 | Technology | [link](https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/) · [HN](https://news.ycombinator.com/item?id=50090349) |
+| 2026-10-14 | Wednesday | 10 | Tiny Little Office | 440 | 70 | Technology | [link](https://tinylittleoffice.com/) · [HN](https://news.ycombinator.com/item?id=50096142) |
 | 2026-10-13 | Tuesday | 1 | Gemini 4 Argon | 1307 | 910 | Technology | [link](https://deepmind.google/models/gemini/) · [HN](https://news.ycombinator.com/item?id=50073879) |
 | 2026-10-13 | Tuesday | 2 | Redesigning source control at Anthropic | 774 | 781 | Technology | [link](https://www.anthropic.com/engineering/redesigning-source-control) · [HN](https://news.ycombinator.com/item?id=50073633) |
 | 2026-10-13 | Tuesday | 3 | Apple HomeView | 729 | 852 | Technology | [link](https://www.apple.com/apple-homeview/) · [HN](https://news.ycombinator.com/item?id=50071017) |
