@@ -1,9 +1,65 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-15 · 9246 items*
+*Last updated: 2026-10-16 · 9302 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-15 | Muse Spark Open | HN | Technology | tech | 2026-10-15 | [link](https://research.meta.ai/blog/muse-spark-open) |
+| 2026-10-15 | Neural networks are clean | HN | Technology | tech | 2026-10-15 | [link](https://already-clean.goodfire.com/) |
+| 2026-10-15 | Wayland desktop for Linux with skeuomorphic design | HN | Technology | tech | 2026-10-15 | [link](https://github.com/fyzugx/DEsk) |
+| 2026-10-15 | Online ads weaponised to deliver ‘zero-click’ spyware, researchers say | HN | Technology | tech | 2026-10-15 | [link](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say) |
+| 2026-10-15 | What I self-host | HN | Technology | tech | 2026-10-15 | [link](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/) |
+| 2026-10-15 | Jev meets the Trolley Problem | HN | Technology | tech | 2026-10-15 | [link](https://zachlandes.com/trolley-problem/) |
+| 2026-10-15 | AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware | HN | Technology | tech | 2026-10-15 | [link](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/) |
+| 2026-10-15 | Tesla Roadster | HN | Technology | tech | 2026-10-15 | [link](https://www.tesla.com/roadster) |
+| 2026-10-15 | I know why the mathematicians weep | HN | Technology | tech | 2026-10-15 | [link](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep) |
+| 2026-10-15 | Someone on Torrent Sites Kept Fucking with My Sonarr | HN | Technology | tech | 2026-10-15 | [link](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup) |
+| 2026-10-15 | Steam Client is now faster than Epic's new vibe coded launcher | HN | Technology | tech | 2026-10-15 | [link](https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/) |
+| 2026-10-15 | Krea 3 – An image model built for editing at scale | HN | Technology | tech | 2026-10-15 | [link](https://www.krea.ai/krea-3) |
+| 2026-10-15 | Meta’s new commercial terms will allow the scraping of news sites: experts | HN | Technology | tech | 2026-10-15 | [link](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/) |
+| 2026-10-15 | Show HN: Unfenced – Land for sale that borders public land | HN | Technology | tech | 2026-10-15 | [link](https://unfenced.land/) |
+| 2026-10-15 | New Withings Users Must Pay $99/Year for Apple Health Syncing | HN | Technology | tech | 2026-10-15 | [link](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts) |
+| 2026-10-15 | Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support | HN | Technology | tech | 2026-10-15 | [link](https://libreboot.org/news/libreboot2610.html) |
+| 2026-10-15 | Feel Like You’re Overpaying for Hotels? Blame Expedia, a New Lawsuit Says. | NYT · Business | Business | news | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/travel/expedia-lawsuit-hotel-prices.html) |
+| 2026-10-15 | The Fallout From the ‘Neocloud’ Wipeout | NYT · Business | Business | news | 2026-10-15 | [link](https://www.nytimes.com/2026/10/15/business/dealbook/ai-neoclouds-coreweave-stocks.html) |
+| 2026-10-15 | Warsh Vows Price Stability as A.I. Delivers ‘Shock’ to Economy | NYT · Business | Business | news | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html) |
+| 2026-10-15 | OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis | NYT · Technology | Technology | news | 2026-10-15 | [link](https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html) |
+| 2026-10-15 | Tech Stocks Drop Further Amid Doubts Over AI Spending | NYT · Business | Business | news | 2026-10-15 | [link](https://www.nytimes.com/2026/10/15/business/chip-stocks-technology.html) |
+| 2026-10-15 | Fired FBI Agents Who Worked on Trump Investigation Sue Patel and Others | NYT · Politics | Politics | news | 2026-10-15 | [link](https://www.nytimes.com/2026/10/15/us/politics/fired-fbi-agents-lawsuit-kash-patel-trump.html) |
+| 2026-10-15 | Mortgage Rates Hover at 7.4%, Highest Since 2023 | NYT · Economy | Economy | news | 2026-10-15 | [link](https://www.nytimes.com/2026/10/15/business/economy/mortgage-rates-home-buying.html) |
+| 2026-10-15 | Why Is No One Doing Anything About Affordability? | NYT · Opinion | Opinion | opinion | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/opinion/affordability-republicans-democrats.html) |
+| 2026-10-15 | Homeownership Drifts Further Out of Reach as Mortgage Rates Rise | NYT · Economy | Economy | news | 2026-10-15 | [link](https://www.nytimes.com/2026/10/15/business/economy/housing-market-mortgage-rates.html) |
+| 2026-10-15 | Democratic Senators Move to Block U.S.-Saudi Nuclear Deal | NYT · Politics | Politics | news | 2026-10-15 | [link](https://www.nytimes.com/2026/10/15/us/politics/senators-saudi-nuclear-deal.html) |
+| 2026-10-15 | $137 Million in A.I.-Generated Ads Flood the Midterms | NYT · Politics | Politics | news | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html) |
+| 2026-10-15 | Senators Question Meta’s Data Center Tax Strategy | NYT · Technology | Technology | news | 2026-10-14 | [link](https://www.nytimes.com/2026/10/14/technology/meta-senators-tax-avoidance.html) |
+| 2026-10-15 | Is There an A.I. Bubble? A Debate. | NYT · Opinion | Opinion | opinion | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/opinion/ezra-klein-podcast-azeem-azhar-paul-kedrosky.html) |
+| 2026-10-15 | Exhausted Parents Are Turning to A.I. Apps Despite the Risks | NYT · Technology | Technology | news | 2026-10-15 | [link](https://www.nytimes.com/2026/10/15/style/ai-parenting-motherhood-ollie-fambot.html) |
+| 2026-10-15 | Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html) |
+| 2026-10-15 | Trump Administration Sues California Over Voter Rolls | NYT · Politics | Politics | news | 2026-10-15 | [link](https://www.nytimes.com/2026/10/15/us/politics/trump-administration-california-voter-rolls.html) |
+| 2026-10-15 | An A.I. Manifesto to End All A.I. Manifestoes | NYT · Opinion | Opinion | opinion | 2026-10-14 | [link](https://www.nytimes.com/2026/10/14/opinion/artificial-intelligence-ai-manifesto.html) |
+| 2026-10-15 | 22 People Got Together For a Dinner Party. So Did Their A.I. Agents. | NYT · Technology | Technology | news | 2026-10-14 | [link](https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html) |
+| 2026-10-15 | A.I. Is Making Us Antisocial | NYT · Opinion | Opinion | opinion | 2026-10-15 | [link](https://www.nytimes.com/video/opinion/100000011206645/ai-is-making-us-antisocial.html) |
+| 2026-10-15 | Bleached Coral Rebounded After Touching Healthy Coral, Study Finds | NYT · Energy & Environment | Energy & Environment | news | 2026-10-15 | [link](https://www.nytimes.com/2026/10/14/climate/coral-bleaching-healing-touch.html) |
+| 2026-10-15 | IonQ opens quantum innovation center at University of Cambridge | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-15 | [link](https://www.datacenterdynamics.com/en/news/ionq-opens-quantum-innovation-center-at-university-of-cambridge/) |
+| 2026-10-15 | DCD Studio: A year of data center development with Matthew Baynes, Schneider Electric | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-15 | [link](https://www.datacenterdynamics.com/en/videos/dcd-studio-a-year-of-data-center-development-with-matthew-baynes-schneider-electric/) |
+| 2026-10-15 | Chirp Pong | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-15 | [link](https://simonwillison.net/2026/Oct/15/chirp-pong/) |
+| 2026-10-15 | New Study Finds Open Compute Project Delivers Up to 150x ROI and Accelerates Data Center Deployment  | Open Compute Project · AI Infrastructure | Infrastructure | tech | 2026-10-15 | [link](https://www.opencompute.org/news/new-study-finds-open-compute-project-delivers-up-to-150x-roi-and-accelerates-data-center-deployment-by-15/) |
+| 2026-10-15 | Can a Radioactive Ore Break China’s Grip on Rare Earths? | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-10-15 | [link](https://spectrum.ieee.org/monazite-rare-earth) |
+| 2026-10-15 | Can the fossil gas supply handle the AI boom? | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-10-15 | [link](https://www.latitudemedia.com/news/catalyst-can-the-fossil-gas-supply-handle-the-ai-boom/) |
+| 2026-10-15 | Chasing China’s Monazite Monopoly | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-10-15 | [link](https://spectrum.ieee.org/china-rare-earth-minerals) |
+| 2026-10-15 | Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-15 | [link](https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/) |
+| 2026-10-15 | Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the L | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-15 | [link](https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/) |
+| 2026-10-15 | Turning a crazy idea from 1967 into a Claude Code mod: I now read 83% fewer words from replies | Reddit | Business | social | 2026-10-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x688sx/turning_a_crazy_idea_from_1967_into_a_claude_code/) |
+| 2026-10-15 | We've reached the point where people with practically zero coding experience are shipping password m | Reddit | Business | social | 2026-10-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x68om1/weve_reached_the_point_where_people_with/) |
+| 2026-10-15 | How do you guys fill an entire workweek these days? Opus 5.5 crushes the tickets assigned to me. | Reddit | Business | social | 2026-10-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x70zze/how_do_you_guys_fill_an_entire_workweek_these/) |
+| 2026-10-15 | Anyone else feel like their session limits are decreasing faster | Reddit | Business | social | 2026-10-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x6p448/anyone_else_feel_like_their_session_limits_are/) |
+| 2026-10-15 | AGI is here, no doubt. | Reddit | Business | social | 2026-10-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x6e1ls/agi_is_here_no_doubt/) |
+| 2026-10-15 | Home Cards: give your Obsidian vault a front door | Reddit | Business | social | 2026-10-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x6ecnu/home_cards_give_your_obsidian_vault_a_front_door/) |
+| 2026-10-15 | Hello question about the graphs views | Reddit | Business | social | 2026-10-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x6jpsn/hello_question_about_the_graphs_views/) |
+| 2026-10-15 | S-Color-Inline: see CSS colors in inline code as a swatch or a fully colored badge | Reddit | Business | social | 2026-10-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x6e2ma/scolorinline_see_css_colors_in_inline_code_as_a/) |
+| 2026-10-15 | QuickAdd Suggestion - Thank You! | Reddit | Business | social | 2026-10-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x6onwr/quickadd_suggestion_thank_you/) |
+| 2026-10-15 | ImageMagick plugin: optimize images from inside your notes, in bulk, and keep your links updated | Reddit | Business | social | 2026-10-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x6j7it/imagemagick_plugin_optimize_images_from_inside/) |
+| 2026-10-15 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-14 | Things to know when you get cancer | HN | Technology | tech | 2026-10-14 | [link](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) |
 | 2026-10-14 | Containment and monitoring failures are to blame for AI hacking reports: experts | HN | Technology | tech | 2026-10-14 | [link](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) |
 | 2026-10-14 | How Amazon pushes up prices all across the Internet | HN | Technology | tech | 2026-10-14 | [link](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/) |

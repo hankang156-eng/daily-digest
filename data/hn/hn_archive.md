@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-15 · 518 days · 5180 stories*
+*Last updated: 2026-10-16 · 519 days · 5190 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-15 | Thursday | 1 | Muse Spark Open | 818 | 408 | Technology | [link](https://research.meta.ai/blog/muse-spark-open) · [HN](https://news.ycombinator.com/item?id=50107379) |
+| 2026-10-15 | Thursday | 2 | Neural networks are clean | 694 | 259 | Technology | [link](https://already-clean.goodfire.com/) · [HN](https://news.ycombinator.com/item?id=50105647) |
+| 2026-10-15 | Thursday | 3 | Wayland desktop for Linux with skeuomorphic design | 614 | 239 | Technology | [link](https://github.com/fyzugx/DEsk) · [HN](https://news.ycombinator.com/item?id=50103338) |
+| 2026-10-15 | Thursday | 4 | Online ads weaponised to deliver ‘zero-click’ spyware, researchers say | 505 | 1 | Technology | [link](https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say) · [HN](https://news.ycombinator.com/item?id=50103000) |
+| 2026-10-15 | Thursday | 5 | What I self-host | 487 | 302 | Technology | [link](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/) · [HN](https://news.ycombinator.com/item?id=50109715) |
+| 2026-10-15 | Thursday | 6 | Jev meets the Trolley Problem | 465 | 201 | Technology | [link](https://zachlandes.com/trolley-problem/) · [HN](https://news.ycombinator.com/item?id=50106023) |
+| 2026-10-15 | Thursday | 7 | AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware | 464 | 611 | Technology | [link](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/) · [HN](https://news.ycombinator.com/item?id=50101813) |
+| 2026-10-15 | Thursday | 8 | Tesla Roadster | 396 | 571 | Technology | [link](https://www.tesla.com/roadster) · [HN](https://news.ycombinator.com/item?id=50112657) |
+| 2026-10-15 | Thursday | 9 | I know why the mathematicians weep | 369 | 610 | Technology | [link](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep) · [HN](https://news.ycombinator.com/item?id=50103630) |
+| 2026-10-15 | Thursday | 10 | Someone on Torrent Sites Kept Fucking with My Sonarr | 348 | 157 | Technology | [link](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup) · [HN](https://news.ycombinator.com/item?id=50108872) |
 | 2026-10-14 | Wednesday | 1 | Things to know when you get cancer | 1371 | 341 | Technology | [link](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) · [HN](https://news.ycombinator.com/item?id=50093568) |
 | 2026-10-14 | Wednesday | 2 | Containment and monitoring failures are to blame for AI hacking reports: experts | 902 | 533 | Technology | [link](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) · [HN](https://news.ycombinator.com/item?id=50091788) |
 | 2026-10-14 | Wednesday | 3 | How Amazon pushes up prices all across the Internet | 835 | 642 | Technology | [link](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/) · [HN](https://news.ycombinator.com/item?id=50084757) |
