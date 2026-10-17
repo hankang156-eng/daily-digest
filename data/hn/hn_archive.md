@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-16 · 519 days · 5190 stories*
+*Last updated: 2026-10-17 · 520 days · 5200 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-16 | Friday | 1 | Claude reveals ECDSA curve origins | 875 | 325 | Technology | [link](https://www.anthropic.com/research/ecdsa-curve-origins) · [HN](https://news.ycombinator.com/item?id=50122800) |
+| 2026-10-16 | Friday | 2 | 90% of US working hours are spent on tasks not covered well by AI benchmarks | 503 | 426 | Technology | [link](https://www.mercor.com/research/labor-index/benchmark-map/) · [HN](https://news.ycombinator.com/item?id=50121179) |
+| 2026-10-16 | Friday | 3 | How the Claude Code team does code review | 349 | 329 | Technology | [link](https://claude.dev/blog/solving-code-review-at-anthropic/) · [HN](https://news.ycombinator.com/item?id=50122951) |
+| 2026-10-16 | Friday | 4 | I love software rendering | 323 | 204 | Technology | [link](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/) · [HN](https://news.ycombinator.com/item?id=50117746) |
+| 2026-10-16 | Friday | 5 | Apple ML Research: Muse Spark Open with MLX on Mac Studio | 320 | 161 | Technology | [link](https://machinelearning.apple.com/research/mlx-distributed-inference) · [HN](https://news.ycombinator.com/item?id=50118320) |
+| 2026-10-16 | Friday | 6 | Waymo in Toronto | 310 | 411 | Technology | [link](https://waymo.com/blog/2026/10/waymo-in-toronto/) · [HN](https://news.ycombinator.com/item?id=50118981) |
+| 2026-10-16 | Friday | 7 | You could have invented transformers from memory | 308 | 72 | Technology | [link](https://alexwang.ai/posts/associative-memory/) · [HN](https://news.ycombinator.com/item?id=50122878) |
+| 2026-10-16 | Friday | 8 | Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console | 290 | 72 | Technology | [link](https://github.com/cobanov/PS5LM) · [HN](https://news.ycombinator.com/item?id=50122431) |
+| 2026-10-16 | Friday | 9 | JPEG XL vs. AVIF for web use-cases | 262 | 182 | Technology | [link](https://jakearchibald.com/2026/jpeg-xl-vs-avif/) · [HN](https://news.ycombinator.com/item?id=50120224) |
+| 2026-10-16 | Friday | 10 | Anthropic assigned highest junk credit rating in June | 255 | 77 | Technology | [link](https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d) · [HN](https://news.ycombinator.com/item?id=50122112) |
 | 2026-10-15 | Thursday | 1 | Muse Spark Open | 818 | 408 | Technology | [link](https://research.meta.ai/blog/muse-spark-open) · [HN](https://news.ycombinator.com/item?id=50107379) |
 | 2026-10-15 | Thursday | 2 | Neural networks are clean | 694 | 259 | Technology | [link](https://already-clean.goodfire.com/) · [HN](https://news.ycombinator.com/item?id=50105647) |
 | 2026-10-15 | Thursday | 3 | Wayland desktop for Linux with skeuomorphic design | 614 | 239 | Technology | [link](https://github.com/fyzugx/DEsk) · [HN](https://news.ycombinator.com/item?id=50103338) |

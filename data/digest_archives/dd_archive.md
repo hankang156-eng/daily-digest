@@ -1,9 +1,76 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-16 · 9302 items*
+*Last updated: 2026-10-17 · 9369 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-16 | Claude reveals ECDSA curve origins | HN | Technology | tech | 2026-10-16 | [link](https://www.anthropic.com/research/ecdsa-curve-origins) |
+| 2026-10-16 | 90% of US working hours are spent on tasks not covered well by AI benchmarks | HN | Technology | tech | 2026-10-16 | [link](https://www.mercor.com/research/labor-index/benchmark-map/) |
+| 2026-10-16 | How the Claude Code team does code review | HN | Technology | tech | 2026-10-16 | [link](https://claude.dev/blog/solving-code-review-at-anthropic/) |
+| 2026-10-16 | I love software rendering | HN | Technology | tech | 2026-10-16 | [link](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/) |
+| 2026-10-16 | Apple ML Research: Muse Spark Open with MLX on Mac Studio | HN | Technology | tech | 2026-10-16 | [link](https://machinelearning.apple.com/research/mlx-distributed-inference) |
+| 2026-10-16 | Waymo in Toronto | HN | Technology | tech | 2026-10-16 | [link](https://waymo.com/blog/2026/10/waymo-in-toronto/) |
+| 2026-10-16 | You could have invented transformers from memory | HN | Technology | tech | 2026-10-16 | [link](https://alexwang.ai/posts/associative-memory/) |
+| 2026-10-16 | Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console | HN | Technology | tech | 2026-10-16 | [link](https://github.com/cobanov/PS5LM) |
+| 2026-10-16 | JPEG XL vs. AVIF for web use-cases | HN | Technology | tech | 2026-10-16 | [link](https://jakearchibald.com/2026/jpeg-xl-vs-avif/) |
+| 2026-10-16 | Anthropic assigned highest junk credit rating in June | HN | Technology | tech | 2026-10-16 | [link](https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d) |
+| 2026-10-16 | Butlerian Jihad | HN | Technology | tech | 2026-10-16 | [link](https://dune.fandom.com/wiki/Butlerian_Jihad) |
+| 2026-10-16 | eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear | HN | Technology | tech | 2026-10-16 | [link](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear) |
+| 2026-10-16 | Show HN: Gemini 4 Argon plays StarCraft | HN | Technology | tech | 2026-10-16 | [link](https://starskirmish.com/bench/v0-2/) |
+| 2026-10-16 | I never authorized an integration that scans my secrets | HN | Technology | tech | 2026-10-16 | [link](https://github.com/home-assistant/home-assistant.io/issues/49314) |
+| 2026-10-16 | The Folders Programming Language | HN | Technology | tech | 2026-10-16 | [link](https://danieltemkin.com/esolangs/folders) |
+| 2026-10-16 | US Rep Announces Congressional Legislation to Protect Video Game Ownership | HN | Technology | tech | 2026-10-16 | [link](https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games) |
+| 2026-10-16 | Feel Like You’re Overpaying for Hotels? Blame Expedia, a New Lawsuit Says. | NYT · Business | Business | news | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/travel/expedia-lawsuit-hotel-prices.html) |
+| 2026-10-16 | Warsh Vows to Tame Inflation as A.I. Delivers ‘Shock’ to Economy | NYT · Business | Business | news | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html) |
+| 2026-10-16 | The Fallout From the ‘Neocloud’ Wipeout | NYT · Business | Business | news | 2026-10-15 | [link](https://www.nytimes.com/2026/10/15/business/dealbook/ai-neoclouds-coreweave-stocks.html) |
+| 2026-10-16 | Corporate Tax Revenue Falls Even as Profits Soar Under Trump | NYT · Business | Business | news | 2026-10-17 | [link](https://www.nytimes.com/2026/10/17/business/trump-corporate-tax-revenue.html) |
+| 2026-10-16 | U.S. Budget Deficit Nears $2 Trillion, a Reality Check for Trump’s Cost Cutting | NYT · Business | Business | news | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/business/us-budget-deficit.html) |
+| 2026-10-16 | What if the A.I. Economy Crashes? | NYT · Opinion | Opinion | opinion | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/opinion/ezra-klein-podcast-azeem-azhar-paul-kedrosky.html) |
+| 2026-10-16 | Is There an A.I. Bubble? A Debate. | NYT · Opinion | Opinion | opinion | 2026-10-16 | [link](https://www.nytimes.com/video/opinion/100000011216196/is-there-an-ai-bubble-a-debate.html) |
+| 2026-10-16 | When Will the Fed Move on Rates? | NYT · Business | Business | news | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/business/dealbook/fed-rates-warsh-inflation.html) |
+| 2026-10-16 | OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis | NYT · Technology | Technology | news | 2026-10-15 | [link](https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html) |
+| 2026-10-16 | Why Is No One Doing Anything About Affordability? | NYT · Opinion | Opinion | opinion | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/opinion/affordability-republicans-democrats.html) |
+| 2026-10-16 | Why the Anthropic and OpenAI I.P.O.s Are Unusual | NYT · Opinion | Opinion | opinion | 2026-10-16 | [link](https://www.nytimes.com/video/opinion/100000011216277/why-the-anthropic-and-openai-ipos-are-unusual.html) |
+| 2026-10-16 | RFK Jr. Pledged to Advance Anti-Vaccine Group’s Goals. Here’s What He’s Doing. | NYT · Politics | Politics | news | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/us/politics/rfk-jr-vaccines.html) |
+| 2026-10-16 | $137 Million in A.I.-Generated Ads Flood the Midterms | NYT · Politics | Politics | news | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html) |
+| 2026-10-16 | Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html) |
+| 2026-10-16 | Senators Question Meta’s Data Center Tax Strategy | NYT · Technology | Technology | news | 2026-10-14 | [link](https://www.nytimes.com/2026/10/14/technology/meta-senators-tax-avoidance.html) |
+| 2026-10-16 | Justice Department Seeks to Disqualify Judge Overseeing Golf Course Lawsuit | NYT · Politics | Politics | news | 2026-10-17 | [link](https://www.nytimes.com/2026/10/16/us/politics/justice-department-disqualify-judge-golf-lawsuit.html) |
+| 2026-10-16 | Meta Withdraws $25 Million from Its Midterms Push | NYT · Technology | Technology | news | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html) |
+| 2026-10-16 | How Pennsylvania Explains the Forces Shaping the Midterms | NYT · Politics | Politics | news | 2026-10-17 | [link](https://www.nytimes.com/2026/10/17/us/politics/how-pennsylvania-explains-the-forces-shaping-the-midterms.html) |
+| 2026-10-16 | Exhausted Parents Are Turning to A.I. Apps Despite the Risks | NYT · Technology | Technology | news | 2026-10-15 | [link](https://www.nytimes.com/2026/10/15/style/ai-parenting-motherhood-ollie-fambot.html) |
+| 2026-10-16 | The Powerful Yet Fragile Force Propping Up Stocks and the Economy | NYT · Your Money | Your Money | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html) |
+| 2026-10-16 | Optical switching startup Salience Labs raises $125m with AMD and Intel participating in round | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-16 | [link](https://www.datacenterdynamics.com/en/news/optical-switching-startup-salience-labs-raises-125m-with-amd-and-intel-participating-in-round/) |
+| 2026-10-16 | SpaceX’s Starlink encourages every satellite operator to share data with Stargaze platform, for safe | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-16 | [link](https://www.datacenterdynamics.com/en/news/spacexs-starlink-encourages-every-satellite-operator-to-share-data-with-stargaze-platform-for-safety/) |
+| 2026-10-16 | FERC proposes easing regulatory pathway for gas pipeline, LNG projects | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-16 | [link](https://www.utilitydive.com/news/ferc-gas-pipeline-lng-blanket-authorization-permitting-reform/833234/) |
+| 2026-10-16 | Have we reached a distributed energy turning point? | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-10-16 | [link](https://www.latitudemedia.com/news/have-we-reached-a-distributed-energy-turning-point/) |
+| 2026-10-16 | How permitting reform could boost VPPs | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-10-16 | [link](https://www.latitudemedia.com/news/how-permitting-reform-could-boost-vpps/) |
+| 2026-10-16 | Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-16 | [link](https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/) |
+| 2026-10-16 | Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-16 | [link](https://simonwillison.net/2026/Oct/16/code-review/) |
+| 2026-10-16 | Strange Times Make for Strange Bedfellows | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-16 | [link](https://x.com/finkd/status/2110778025629347999) |
+| 2026-10-16 | Sunrun: Residential VPPs for data centers are nearing reality | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-10-16 | [link](https://www.latitudemedia.com/news/sunrun-residential-vpps-for-data-centers-are-nearing-reality/) |
+| 2026-10-16 | Book Review: Africa Is Not A Country - Breaking Stereotypes of Modern Africa by Dipo Faloyin ★★★★⯪ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-10-16 | [link](https://shkspr.mobi/blog/2026/10/book-review-africa-is-not-a-country-breaking-stereotypes-of-modern-africa-by-dipo-faloyin/) |
+| 2026-10-16 | This is 61 KB HTML file 🤯 | Reddit | Business | social | 2026-10-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x7v7gj/this_is_61_kb_html_file/) |
+| 2026-10-16 | Anthropic employee says resistance is futile | Reddit | Business | social | 2026-10-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x7hsp6/anthropic_employee_says_resistance_is_futile/) |
+| 2026-10-16 | I've spent the last ten months building a project with Claude, and tonight I asked it to show me a b | Reddit | Business | social | 2026-10-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x73jfn/ive_spent_the_last_ten_months_building_a_project/) |
+| 2026-10-16 | I built a free Windows widget for Claude usage limits with Claude Code — pixel Clawd reacts to your  | Reddit | Business | social | 2026-10-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x7o895/i_built_a_free_windows_widget_for_claude_usage/) |
+| 2026-10-16 | Vibe coded a 16 KB FPS game as an experiment | Reddit | Business | social | 2026-10-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x78955/vibe_coded_a_16_kb_fps_game_as_an_experiment/) |
+| 2026-10-16 | Week 6 update! Using AI to build a game with no dev experience | Reddit | Business | social | 2026-10-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x721px/week_6_update_using_ai_to_build_a_game_with_no/) |
+| 2026-10-16 | Opus 5.5 is so good at orchestrating other models and agents, it feels like another level of unlock | Reddit | Business | social | 2026-10-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x781g6/opus_55_is_so_good_at_orchestrating_other_models/) |
+| 2026-10-16 | That didn't take long - Claude Haiku 4.5 is leaving the model selector October 29th | Reddit | Business | social | 2026-10-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x7rzpe/that_didnt_take_long_claude_haiku_45_is_leaving/) |
+| 2026-10-16 | I made a Minecraft mod to prompt agents who build in the world using the existing terrain as specs | Reddit | Business | social | 2026-10-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x76saz/i_made_a_minecraft_mod_to_prompt_agents_who_build/) |
+| 2026-10-16 | What have you built with AI that actually made your job easier? | Reddit | Business | social | 2026-10-16 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x7jf72/what_have_you_built_with_ai_that_actually_made/) |
+| 2026-10-16 | AGI is here 💀 | Reddit | Business | social | 2026-10-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x7oijt/agi_is_here/) |
+| 2026-10-16 | i heard someone call vibe coding "cuck coding" because you just sit there and watch | Reddit | Business | social | 2026-10-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x7qinx/i_heard_someone_call_vibe_coding_cuck_coding/) |
+| 2026-10-16 | Is Anybody Else Exhausted? | Reddit | Business | social | 2026-10-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x7lfoz/is_anybody_else_exhausted/) |
+| 2026-10-16 | Claude writes about 90% of Claude Code's own code. Here's how the team reviews it | Reddit | Business | social | 2026-10-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x7palj/claude_writes_about_90_of_claude_codes_own_code/) |
+| 2026-10-16 | I went from exhausting Claude Code’s weekly limits in 2 days to making them last the entire week. He | Reddit | Business | social | 2026-10-16 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x7ifnd/i_went_from_exhausting_claude_codes_weekly_limits/) |
+| 2026-10-16 | I know it's not Perfect but ı made it and am proud of it. | Reddit | Business | social | 2026-10-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x7rjjb/i_know_its_not_perfect_but_ı_made_it_and_am_proud/) |
+| 2026-10-16 | Let's talk about the "File over App" Philosophy | Reddit | Business | social | 2026-10-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x7i7l2/lets_talk_about_the_file_over_app_philosophy/) |
+| 2026-10-16 | I made a 5e character sheet plugin for Obsidian (D&D 5e, 2014 rules) | Reddit | Business | social | 2026-10-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x7tk76/i_made_a_5e_character_sheet_plugin_for_obsidian/) |
+| 2026-10-16 | I built an Obsidian plugin to sync browser bookmarks with a vault | Reddit | Business | social | 2026-10-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x7rh9r/i_built_an_obsidian_plugin_to_sync_browser/) |
+| 2026-10-16 | Looking at interest for testing and publisbing | Reddit | Business | social | 2026-10-16 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x7f19p/looking_at_interest_for_testing_and_publisbing/) |
+| 2026-10-16 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-15 | Muse Spark Open | HN | Technology | tech | 2026-10-15 | [link](https://research.meta.ai/blog/muse-spark-open) |
 | 2026-10-15 | Neural networks are clean | HN | Technology | tech | 2026-10-15 | [link](https://already-clean.goodfire.com/) |
 | 2026-10-15 | Wayland desktop for Linux with skeuomorphic design | HN | Technology | tech | 2026-10-15 | [link](https://github.com/fyzugx/DEsk) |
