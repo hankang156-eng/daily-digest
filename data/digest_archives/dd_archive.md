@@ -1,9 +1,69 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-17 · 9369 items*
+*Last updated: 2026-10-18 · 9429 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-17 | OpenCode Hacked: User credentials leaked | HN | Technology | tech | 2026-10-17 | [link](https://twitter.com/opencode/status/2111516673953935833) |
+| 2026-10-17 | DeepSeek-v4.1-Flash-1017 | HN | Technology | tech | 2026-10-17 | [link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
+| 2026-10-17 | Solar surpasses nuclear power globally for first time | HN | Technology | tech | 2026-10-17 | [link](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/) |
+| 2026-10-17 | DeepSeek: DeepSeek v4.1 Flash 1017 | HN | Technology | tech | 2026-10-17 | [link](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017) |
+| 2026-10-17 | Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day | HN | Technology | tech | 2026-10-17 | [link](https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day) |
+| 2026-10-17 | Pele – Mermaid diagrams as themeable SVG | HN | Technology | tech | 2026-10-17 | [link](https://pele.run/) |
+| 2026-10-17 | Gold is now the top U.S. export | HN | Technology | tech | 2026-10-17 | [link](https://www.numismaticnews.net/gold-now-top-u-s-export) |
+| 2026-10-17 | MapQuest will now show you where Flock cameras are in your neighborhood | HN | Technology | tech | 2026-10-17 | [link](https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/) |
+| 2026-10-17 | Making chicken transparent using Dorito dust | HN | Technology | tech | 2026-10-17 | [link](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using) |
+| 2026-10-17 | Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware | HN | Technology | tech | 2026-10-17 | [link](https://llmspeed.dev/) |
+| 2026-10-17 | NY announces game ownership bill requiring ownership rather than licensing | HN | Technology | tech | 2026-10-17 | [link](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends) |
+| 2026-10-17 | I Became a Citizen of Japan | HN | Technology | tech | 2026-10-17 | [link](https://www.derekwessman.com/blog-1/natural) |
+| 2026-10-17 | US federal budget deficit jumps 12% in one year to nearly $2 Trillion | HN | Technology | tech | 2026-10-17 | [link](https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html) |
+| 2026-10-17 | GLP-1 may slow biological aging | HN | Technology | tech | 2026-10-17 | [link](https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging) |
+| 2026-10-17 | Show HN: Esp32sim – Run ESP32 firmware in the browser | HN | Technology | tech | 2026-10-17 | [link](https://github.com/mikroverk/esp32sim) |
+| 2026-10-17 | Amazon uses AI to monitor union risk in UK warehouses | HN | Technology | tech | 2026-10-17 | [link](https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/) |
+| 2026-10-17 | 3 Charts That Explain the Economy as Voters Head to the Polls | NYT · Economy | Economy | news | 2026-10-18 | [link](https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html) |
+| 2026-10-17 | States Are Stepping Up as the New Antitrust Enforcers | NYT · Business | Business | news | 2026-10-17 | [link](https://www.nytimes.com/2026/10/17/business/dealbook/state-antitrust-enforcement.html) |
+| 2026-10-17 | Feel Like You’re Overpaying for Hotels? Blame Expedia, a New Lawsuit Says. | NYT · Business | Business | news | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/travel/expedia-lawsuit-hotel-prices.html) |
+| 2026-10-17 | Corporate Tax Revenue Falls Even as Profits Soar Under Trump | NYT · Business | Business | news | 2026-10-17 | [link](https://www.nytimes.com/2026/10/17/business/trump-corporate-tax-revenue.html) |
+| 2026-10-17 | The Fallout From the ‘Neocloud’ Wipeout | NYT · Business | Business | news | 2026-10-15 | [link](https://www.nytimes.com/2026/10/15/business/dealbook/ai-neoclouds-coreweave-stocks.html) |
+| 2026-10-17 | Can Cereal Be Healthy? Big Companies Are Trying. | NYT · Business | Business | news | 2026-10-17 | [link](https://www.nytimes.com/2026/10/17/dining/breakfast-cereal-healthy.html) |
+| 2026-10-17 | Oklahoma Families Faced the Hottest Summer Ever and an Electricity Crisis | NYT · Business | Business | news | 2026-10-18 | [link](https://www.nytimes.com/2026/10/18/us/oklahoma-extreme-heat-electricity-crisis.html) |
+| 2026-10-17 | OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis | NYT · Technology | Technology | news | 2026-10-15 | [link](https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html) |
+| 2026-10-17 | What if the A.I. Economy Crashes? | NYT · Opinion | Opinion | opinion | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/opinion/ezra-klein-podcast-azeem-azhar-paul-kedrosky.html) |
+| 2026-10-17 | Why Is No One Doing Anything About Affordability? | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/opinion/affordability-republicans-democrats.html) |
+| 2026-10-17 | Is There an A.I. Bubble? A Debate. | NYT · Opinion | Opinion | opinion | 2026-10-16 | [link](https://www.nytimes.com/video/opinion/100000011216196/is-there-an-ai-bubble-a-debate.html) |
+| 2026-10-17 | Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html) |
+| 2026-10-17 | Are ICE Officers Really Targeting the ‘Worst of the Worst’? | NYT · Politics | Politics | news | 2026-10-18 | [link](https://www.nytimes.com/video/us/politics/100000011205812/are-ice-officers-really-targeting-the-worst-of-the-worst.html) |
+| 2026-10-17 | Justice Department Seeks to Disqualify Judge Overseeing Golf Course Lawsuit | NYT · Politics | Politics | news | 2026-10-17 | [link](https://www.nytimes.com/2026/10/16/us/politics/justice-department-disqualify-judge-golf-lawsuit.html) |
+| 2026-10-17 | Why the Anthropic and OpenAI I.P.O.s Are Unusual | NYT · Opinion | Opinion | opinion | 2026-10-16 | [link](https://www.nytimes.com/video/opinion/100000011216277/why-the-anthropic-and-openai-ipos-are-unusual.html) |
+| 2026-10-17 | Across Farm Country, Economic Discontent Strains Republican Coalition | NYT · Politics | Politics | news | 2026-10-18 | [link](https://www.nytimes.com/2026/10/18/us/politics/farmers-ranchers-trump-economic-stress.html) |
+| 2026-10-17 | Senators Question Meta’s Data Center Tax Strategy | NYT · Technology | Technology | news | 2026-10-14 | [link](https://www.nytimes.com/2026/10/14/technology/meta-senators-tax-avoidance.html) |
+| 2026-10-17 | Meta Withdraws $25 Million from Its Midterms Push | NYT · Technology | Technology | news | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html) |
+| 2026-10-17 | The Powerful Yet Fragile Force Propping Up Stocks and the Economy | NYT · Your Money | Your Money | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html) |
+| 2026-10-17 | Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website | NYT · Technology | Technology | news | 2026-10-10 | [link](https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html) |
+| 2026-10-17 | Why data sovereignty is about control, not geography | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-17 | [link](https://www.datacenterdynamics.com/en/opinions/why-data-sovereignty-is-about-control-not-geography/) |
+| 2026-10-17 | Google's EMEA energy team hiring for range of new positions | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-17 | [link](https://www.datacenterdynamics.com/en/news/googles-emea-energy-team-hiring-for-range-of-new-positions/) |
+| 2026-10-17 | This Hidden Device Could Free Up Gigawatts of Grid Power | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-10-17 | [link](https://spectrum.ieee.org/variable-frequency-drives) |
+| 2026-10-17 | Inline rendering with document​.currentScript | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-17 | [link](https://simonwillison.net/2026/Oct/17/document-currentscript/) |
+| 2026-10-17 | Apple: ‘Strengthening App Review Guidelines Against Nonconsensual Intimate Imagery and Bait-And-Swit | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-17 | [link](https://developer.apple.com/news/?id=vvzx6cul) |
+| 2026-10-17 | Apple TV Started at $69 in 2015 | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-17 | [link](https://www.macrumors.com/2015/03/09/tim-cook-apple-tv-now-costs-69/) |
+| 2026-10-17 | Book Review: Are You *Really* The Doctor? by Matthew Hutchinson ★★★⯪☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-10-17 | [link](https://shkspr.mobi/blog/2026/10/book-review-are-you-really-the-doctor-by-matthew-hutchinson/) |
+| 2026-10-17 | web-edit 0.1a2 | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-17 | [link](https://simonwillison.net/2026/Oct/17/web-edit/) |
+| 2026-10-17 | Procedural generation with Opus is insane. This entire game is 20MB. | Reddit | Business | social | 2026-10-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x8602z/procedural_generation_with_opus_is_insane_this/) |
+| 2026-10-17 | Friday mode | Reddit | Business | social | 2026-10-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x7w5dv/friday_mode/) |
+| 2026-10-17 | This week's Claude Reset - Anyone else noticing unusually high usage all of a sudden? | Reddit | Business | social | 2026-10-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x8bmku/this_weeks_claude_reset_anyone_else_noticing/) |
+| 2026-10-17 | the situation around.. :p | Reddit | Business | social | 2026-10-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x86kos/the_situation_around_p/) |
+| 2026-10-17 | They gave 120 handwritten pages and turned it into a font with Opus 5.5 | Reddit | Business | social | 2026-10-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x8cksm/they_gave_120_handwritten_pages_and_turned_it/) |
+| 2026-10-17 | I made a browser FPS with Claude Code, every 3D model in it is code | Reddit | Business | social | 2026-10-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x8dg94/i_made_a_browser_fps_with_claude_code_every_3d/) |
+| 2026-10-17 | Does Anthropic obscure employee names because they believe mass unrest is coming soon and employees  | Reddit | Business | social | 2026-10-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x8gp1w/does_anthropic_obscure_employee_names_because/) |
+| 2026-10-17 | Does anyone just use Claude Code (desktop) for ... everything? Why chat? | Reddit | Business | social | 2026-10-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x87zdg/does_anyone_just_use_claude_code_desktop_for/) |
+| 2026-10-17 | I thought my 90s Amiga was lost forever. 30 years later, it’s back due to ClaudeAI | Reddit | Business | social | 2026-10-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x8f5gl/i_thought_my_90s_amiga_was_lost_forever_30_years/) |
+| 2026-10-17 | 100% of my 5-hour limit equals 14% of my weekly limit | Reddit | Business | social | 2026-10-17 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x7w46m/100_of_my_5hour_limit_equals_14_of_my_weekly_limit/) |
+| 2026-10-17 | Linus Torvalds shares his thoughts on Anti-AI coding rules | Reddit | Business | social | 2026-10-17 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x8a8e5/linus_torvalds_shares_his_thoughts_on_antiai/) |
+| 2026-10-17 | Do you agree? | Reddit | Business | social | 2026-10-17 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x8no04/do_you_agree/) |
+| 2026-10-17 | Used Claude to fix Oblivion Remastered performance | Reddit | Business | social | 2026-10-17 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x8jcmq/used_claude_to_fix_oblivion_remastered_performance/) |
+| 2026-10-17 | Burnout risk for developers. Is it just me? | Reddit | Business | social | 2026-10-17 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x8ckey/burnout_risk_for_developers_is_it_just_me/) |
+| 2026-10-17 | I liberated my company's websites from Wordpress in two weeks with Claude | Reddit | Business | social | 2026-10-17 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x84gbu/i_liberated_my_companys_websites_from_wordpress/) |
+| 2026-10-17 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-16 | Claude reveals ECDSA curve origins | HN | Technology | tech | 2026-10-16 | [link](https://www.anthropic.com/research/ecdsa-curve-origins) |
 | 2026-10-16 | 90% of US working hours are spent on tasks not covered well by AI benchmarks | HN | Technology | tech | 2026-10-16 | [link](https://www.mercor.com/research/labor-index/benchmark-map/) |
 | 2026-10-16 | How the Claude Code team does code review | HN | Technology | tech | 2026-10-16 | [link](https://claude.dev/blog/solving-code-review-at-anthropic/) |

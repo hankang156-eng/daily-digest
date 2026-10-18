@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-17 · 520 days · 5200 stories*
+*Last updated: 2026-10-18 · 521 days · 5210 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-17 | Saturday | 1 | OpenCode Hacked: User credentials leaked | 870 | 162 | Technology | [link](https://twitter.com/opencode/status/2111516673953935833) · [HN](https://news.ycombinator.com/item?id=50133401) |
+| 2026-10-17 | Saturday | 2 | DeepSeek-v4.1-Flash-1017 | 861 | 656 | Technology | [link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) · [HN](https://news.ycombinator.com/item?id=50129045) |
+| 2026-10-17 | Saturday | 3 | Solar surpasses nuclear power globally for first time | 612 | 380 | Technology | [link](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/) · [HN](https://news.ycombinator.com/item?id=50131256) |
+| 2026-10-17 | Saturday | 4 | DeepSeek: DeepSeek v4.1 Flash 1017 | 514 | 5 | Technology | [link](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017) · [HN](https://news.ycombinator.com/item?id=50129121) |
+| 2026-10-17 | Saturday | 5 | Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day | 491 | 292 | Technology | [link](https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day) · [HN](https://news.ycombinator.com/item?id=50136881) |
+| 2026-10-17 | Saturday | 6 | Pele – Mermaid diagrams as themeable SVG | 439 | 39 | Technology | [link](https://pele.run/) · [HN](https://news.ycombinator.com/item?id=50132193) |
+| 2026-10-17 | Saturday | 7 | Gold is now the top U.S. export | 334 | 183 | Technology | [link](https://www.numismaticnews.net/gold-now-top-u-s-export) · [HN](https://news.ycombinator.com/item?id=50132870) |
+| 2026-10-17 | Saturday | 8 | MapQuest will now show you where Flock cameras are in your neighborhood | 305 | 54 | Technology | [link](https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/) · [HN](https://news.ycombinator.com/item?id=50129947) |
+| 2026-10-17 | Saturday | 9 | Making chicken transparent using Dorito dust | 304 | 81 | Technology | [link](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using) · [HN](https://news.ycombinator.com/item?id=50131213) |
+| 2026-10-17 | Saturday | 10 | Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware | 296 | 82 | Technology | [link](https://llmspeed.dev/) · [HN](https://news.ycombinator.com/item?id=50127979) |
 | 2026-10-16 | Friday | 1 | Claude reveals ECDSA curve origins | 875 | 325 | Technology | [link](https://www.anthropic.com/research/ecdsa-curve-origins) · [HN](https://news.ycombinator.com/item?id=50122800) |
 | 2026-10-16 | Friday | 2 | 90% of US working hours are spent on tasks not covered well by AI benchmarks | 503 | 426 | Technology | [link](https://www.mercor.com/research/labor-index/benchmark-map/) · [HN](https://news.ycombinator.com/item?id=50121179) |
 | 2026-10-16 | Friday | 3 | How the Claude Code team does code review | 349 | 329 | Technology | [link](https://claude.dev/blog/solving-code-review-at-anthropic/) · [HN](https://news.ycombinator.com/item?id=50122951) |
