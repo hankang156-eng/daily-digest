@@ -1,9 +1,73 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-18 · 9429 items*
+*Last updated: 2026-10-19 · 9493 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-18 | Namecheap just seized and disabled all my domains | HN | Technology | tech | 2026-10-18 | [link](https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/) |
+| 2026-10-18 | DeepSeek search and fetch – $0.75 per 1000 successful requests | HN | Technology | tech | 2026-10-18 | [link](https://api-docs.deepseek.com/guides/search/) |
+| 2026-10-18 | Someone behind the software | HN | Technology | tech | 2026-10-18 | [link](https://karrisaarinen.com/posts/someone-behind-the-software/) |
+| 2026-10-18 | Hybrid Reasoning Agents: LLM agents that think in latent space, act through text | HN | Technology | tech | 2026-10-18 | [link](https://arxiv.org/abs/2610.18861) |
+| 2026-10-18 | RepRapMicron | HN | Technology | tech | 2026-10-18 | [link](https://github.com/VikOlliver/RepRapMicron/wiki) |
+| 2026-10-18 | macOS 15.8.2 Breaks OpenGL | HN | Technology | tech | 2026-10-18 | [link](https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550) |
+| 2026-10-18 | Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping | HN | Technology | tech | 2026-10-18 | [link](https://sphinx-six-theta.vercel.app/) |
+| 2026-10-18 | Parser Combinators | HN | Technology | tech | 2026-10-18 | [link](https://t3.at/blog/2026-10-17-parser-combinators/) |
+| 2026-10-18 | Legal experts warn Meta's new terms still grant broad scraping permissions | HN | Technology | tech | 2026-10-18 | [link](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/) |
+| 2026-10-18 | Open MicroManipulator – A sub-micrometer 3D motion control plattform | HN | Technology | tech | 2026-10-18 | [link](https://github.com/0x23/MicroManipulatorStepper) |
+| 2026-10-18 | William Gibson and the trademarking of cyberspace | HN | Technology | tech | 2026-10-18 | [link](https://colo.to/cyberspace.html) |
+| 2026-10-18 | Florida's HOAs and condo associations are making the housing crisis worse | HN | Technology | tech | 2026-10-18 | [link](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html) |
+| 2026-10-18 | Show HN: The Zelda timeline to catch up before the Ocarina of Time remake | HN | Technology | tech | 2026-10-18 | [link](https://legendofhyrule.com/) |
+| 2026-10-18 | Java sealed classes and exhaustive pattern matching | HN | Technology | tech | 2026-10-18 | [link](https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/) |
+| 2026-10-18 | If you don't run your own LLM proxy, how do you know whats going on? | HN | Technology | tech | 2026-10-18 | [link](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/) |
+| 2026-10-18 | Free Pascal compiler now supports dynamic packages | HN | Technology | tech | 2026-10-18 | [link](https://www.getlazarus.org/dynamic/) |
+| 2026-10-18 | 3 Charts That Explain the Economy as Voters Head to the Polls | NYT · Economy | Economy | news | 2026-10-18 | [link](https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html) |
+| 2026-10-18 | States Are Stepping Up as the New Antitrust Enforcers | NYT · Business | Business | news | 2026-10-17 | [link](https://www.nytimes.com/2026/10/17/business/dealbook/state-antitrust-enforcement.html) |
+| 2026-10-18 | Feel Like You’re Overpaying for Hotels? Blame Expedia, a New Lawsuit Says. | NYT · Business | Business | news | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/travel/expedia-lawsuit-hotel-prices.html) |
+| 2026-10-18 | The Fallout From the ‘Neocloud’ Wipeout | NYT · Business | Business | news | 2026-10-15 | [link](https://www.nytimes.com/2026/10/15/business/dealbook/ai-neoclouds-coreweave-stocks.html) |
+| 2026-10-18 | Oklahoma Families Faced the Hottest Summer Ever and an Electricity Crisis | NYT · Business | Business | news | 2026-10-18 | [link](https://www.nytimes.com/2026/10/18/us/oklahoma-extreme-heat-electricity-crisis.html) |
+| 2026-10-18 | Corporate Tax Revenue Falls Even as Profits Soar Under Trump | NYT · Business | Business | news | 2026-10-17 | [link](https://www.nytimes.com/2026/10/17/business/trump-corporate-tax-revenue.html) |
+| 2026-10-18 | OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis | NYT · Technology | Technology | news | 2026-10-15 | [link](https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html) |
+| 2026-10-18 | Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html) |
+| 2026-10-18 | Obama Defends Rep. Ilhan Omar Amid Trump Administration Inquiry | NYT · Politics | Politics | news | 2026-10-18 | [link](https://www.nytimes.com/2026/10/18/us/politics/obama-ilhan-omar-trump-investigation-immigration.html) |
+| 2026-10-18 | Trump Outlines Rapid Plan to Close and Overhaul D.C. Golf Course | NYT · Politics | Politics | news | 2026-10-19 | [link](https://www.nytimes.com/2026/10/18/us/politics/trump-golf-course-east-potomac-washington.html) |
+| 2026-10-18 | What if the A.I. Economy Crashes? | NYT · Opinion | Opinion | opinion | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/opinion/ezra-klein-podcast-azeem-azhar-paul-kedrosky.html) |
+| 2026-10-18 | Why Is No One Doing Anything About Affordability? | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/opinion/affordability-republicans-democrats.html) |
+| 2026-10-18 | Is There an A.I. Bubble? A Debate. | NYT · Opinion | Opinion | opinion | 2026-10-16 | [link](https://www.nytimes.com/video/opinion/100000011216196/is-there-an-ai-bubble-a-debate.html) |
+| 2026-10-18 | Are ICE Officers Really Targeting the ‘Worst of the Worst’? | NYT · Politics | Politics | news | 2026-10-18 | [link](https://www.nytimes.com/video/us/politics/100000011205812/are-ice-officers-really-targeting-the-worst-of-the-worst.html) |
+| 2026-10-18 | That Huge Republican Cash Edge? It’s in Senate Races, Not House Races. | NYT · Politics | Politics | news | 2026-10-19 | [link](https://www.nytimes.com/2026/10/19/us/politics/midterms-republican-spending-edge.html) |
+| 2026-10-18 | I Teach at a Business School. It’s Time to Shut Them Down. | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-10-18 | [link](https://www.nytimes.com/2026/10/18/opinion/business-school-mba-harvard-cornell-cambridge.html) |
+| 2026-10-18 | The Powerful Yet Fragile Force Propping Up Stocks and the Economy | NYT · Your Money | Your Money | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html) |
+| 2026-10-18 | Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website | NYT · Technology | Technology | news | 2026-10-10 | [link](https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html) |
+| 2026-10-18 | Senators Question Meta’s Data Center Tax Strategy | NYT · Technology | Technology | news | 2026-10-14 | [link](https://www.nytimes.com/2026/10/14/technology/meta-senators-tax-avoidance.html) |
+| 2026-10-18 | A Supreme Court Battle Over Climate Change Begins | NYT · Energy & Environment | Energy & Environment | news | 2026-10-05 | [link](https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html) |
+| 2026-10-18 | The end of independent infrastructure roadmaps: how AI is forcing data center co-design | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-18 | [link](https://www.datacenterdynamics.com/en/opinions/the-end-of-independent-infrastructure-roadmaps-how-ai-is-forcing-data-center-co-design/) |
+| 2026-10-18 | Cloud-first served its purpose. Now it's time for workload-first | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-18 | [link](https://www.datacenterdynamics.com/en/opinions/cloud-first-served-its-purpose-now-its-time-for-workload-first/) |
+| 2026-10-18 | Claim Chowder: The Information on HomeView Having a ‘Robotic Swiveling Base’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-18 | [link](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin) |
+| 2026-10-18 | WorkOS AuthKit | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-18 | [link](https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026) |
+| 2026-10-18 | Una Watch TOTP - MFA on your wrist! | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-10-18 | [link](https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/) |
+| 2026-10-18 | llm-echo 0.5 | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-18 | [link](https://simonwillison.net/2026/Oct/18/llm-echo/) |
+| 2026-10-18 | llm-tools-datasette 0.1.1 | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-18 | [link](https://simonwillison.net/2026/Oct/18/llm-tools-datasette/) |
+| 2026-10-18 | Claude solved a 25 year old NSA cryptography mystery in 30 minutes. Its first reaction was to throw  | Reddit | Business | social | 2026-10-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x8v3sn/claude_solved_a_25_year_old_nsa_cryptography/) |
+| 2026-10-18 | Adobe, Office, Outlook, ElevenLabs: AI is cloning all of it in Rust | Reddit | Business | social | 2026-10-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x9dl1f/adobe_office_outlook_elevenlabs_ai_is_cloning_all/) |
+| 2026-10-18 | Anthropic at $2 Trillion vs. 35 SaaS Companies at $948 Billion — Are AI Valuations Getting Out of Co | Reddit | Business | social | 2026-10-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x9ain3/anthropic_at_2_trillion_vs_35_saas_companies_at/) |
+| 2026-10-18 | Anthropic is on track to stop hiring technical juniors next year | Reddit | Business | social | 2026-10-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x90vwp/anthropic_is_on_track_to_stop_hiring_technical/) |
+| 2026-10-18 | My side project made $130 in its first month. A few thoughts | Reddit | Business | social | 2026-10-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x9668n/my_side_project_made_130_in_its_first_month_a_few/) |
+| 2026-10-18 | Claude designed quantum circuits up to 39x cheaper than the best published ones | Reddit | Business | social | 2026-10-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x956d5/claude_designed_quantum_circuits_up_to_39x/) |
+| 2026-10-18 | A Super Mario 64 demake for the GBA built with Claude. Mario’s physics are bit-identical to the orig | Reddit | Business | social | 2026-10-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x99sel/a_super_mario_64_demake_for_the_gba_built_with/) |
+| 2026-10-18 | Rebuilt a 2000 RTS from scratch with Claude Code, working from the original's disassembly | Reddit | Business | social | 2026-10-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x91lor/rebuilt_a_2000_rts_from_scratch_with_claude_code/) |
+| 2026-10-18 | I run everything on Max Effort because I have anxiety that medium or high won’t be as good. | Reddit | Business | social | 2026-10-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x8zjox/i_run_everything_on_max_effort_because_i_have/) |
+| 2026-10-18 | So this is who Claude talks like | Reddit | Business | social | 2026-10-18 | [link](https://www.reddit.com/r/ClaudeAI/comments/1x9htl4/so_this_is_who_claude_talks_like/) |
+| 2026-10-18 | Why does everyone disregard Anthropic's best practices? | Reddit | Business | social | 2026-10-18 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x966ii/why_does_everyone_disregard_anthropics_best/) |
+| 2026-10-18 | The world has changed | Reddit | Business | social | 2026-10-18 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x9fwk4/the_world_has_changed/) |
+| 2026-10-18 | Made this app with Claude in 10 days | Reddit | Business | social | 2026-10-18 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x8t4pe/made_this_app_with_claude_in_10_days/) |
+| 2026-10-18 | I'm a software engineer with a decade of experience. I vibe code pretty much all of my side projects | Reddit | Business | social | 2026-10-18 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x9h6tb/im_a_software_engineer_with_a_decade_of/) |
+| 2026-10-18 | AI took my job, and it's okay. | Reddit | Business | social | 2026-10-18 | [link](https://www.reddit.com/r/ClaudeCode/comments/1x8zvy2/ai_took_my_job_and_its_okay/) |
+| 2026-10-18 | Cool Bases - I made an Obsidian Plugin to customize card views on bases | Reddit | Business | social | 2026-10-18 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x94jld/cool_bases_i_made_an_obsidian_plugin_to_customize/) |
+| 2026-10-18 | I built Just Simple Slides: a minimalist visual editor for Markdown presentations in Obsidian | Reddit | Business | social | 2026-10-18 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x8vi6i/i_built_just_simple_slides_a_minimalist_visual/) |
+| 2026-10-18 | my first plugin published successfully 🎉🥳 | Reddit | Business | social | 2026-10-18 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x8yugy/my_first_plugin_published_successfully/) |
+| 2026-10-18 | How do you write your Properties? Is there a proper way | Reddit | Business | social | 2026-10-18 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x8xryb/how_do_you_write_your_properties_is_there_a/) |
+| 2026-10-18 | Okay, I think my Obsidian theme and plugin setup is actually pretty cool | Reddit | Business | social | 2026-10-18 | [link](https://www.reddit.com/r/ObsidianMD/comments/1x93511/okay_i_think_my_obsidian_theme_and_plugin_setup/) |
+| 2026-10-18 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-17 | OpenCode Hacked: User credentials leaked | HN | Technology | tech | 2026-10-17 | [link](https://twitter.com/opencode/status/2111516673953935833) |
 | 2026-10-17 | DeepSeek-v4.1-Flash-1017 | HN | Technology | tech | 2026-10-17 | [link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
 | 2026-10-17 | Solar surpasses nuclear power globally for first time | HN | Technology | tech | 2026-10-17 | [link](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/) |

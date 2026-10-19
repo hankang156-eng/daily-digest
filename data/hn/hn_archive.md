@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-18 · 521 days · 5210 stories*
+*Last updated: 2026-10-19 · 522 days · 5220 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-18 | Sunday | 1 | Namecheap just seized and disabled all my domains | 577 | 301 | Technology | [link](https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/) · [HN](https://news.ycombinator.com/item?id=50142866) |
+| 2026-10-18 | Sunday | 2 | DeepSeek search and fetch – $0.75 per 1000 successful requests | 573 | 269 | Technology | [link](https://api-docs.deepseek.com/guides/search/) · [HN](https://news.ycombinator.com/item?id=50138531) |
+| 2026-10-18 | Sunday | 3 | Someone behind the software | 443 | 166 | Technology | [link](https://karrisaarinen.com/posts/someone-behind-the-software/) · [HN](https://news.ycombinator.com/item?id=50142573) |
+| 2026-10-18 | Sunday | 4 | Hybrid Reasoning Agents: LLM agents that think in latent space, act through text | 397 | 192 | Technology | [link](https://arxiv.org/abs/2610.18861) · [HN](https://news.ycombinator.com/item?id=50145337) |
+| 2026-10-18 | Sunday | 5 | RepRapMicron | 394 | 64 | Technology | [link](https://github.com/VikOlliver/RepRapMicron/wiki) · [HN](https://news.ycombinator.com/item?id=50141076) |
+| 2026-10-18 | Sunday | 6 | macOS 15.8.2 Breaks OpenGL | 263 | 297 | Technology | [link](https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550) · [HN](https://news.ycombinator.com/item?id=50141909) |
+| 2026-10-18 | Sunday | 7 | Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping | 246 | 86 | Technology | [link](https://sphinx-six-theta.vercel.app/) · [HN](https://news.ycombinator.com/item?id=50137950) |
+| 2026-10-18 | Sunday | 8 | Parser Combinators | 236 | 84 | Technology | [link](https://t3.at/blog/2026-10-17-parser-combinators/) · [HN](https://news.ycombinator.com/item?id=50139067) |
+| 2026-10-18 | Sunday | 9 | Legal experts warn Meta's new terms still grant broad scraping permissions | 224 | 62 | Technology | [link](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/) · [HN](https://news.ycombinator.com/item?id=50139692) |
+| 2026-10-18 | Sunday | 10 | Open MicroManipulator – A sub-micrometer 3D motion control plattform | 202 | 16 | Technology | [link](https://github.com/0x23/MicroManipulatorStepper) · [HN](https://news.ycombinator.com/item?id=50140001) |
 | 2026-10-17 | Saturday | 1 | OpenCode Hacked: User credentials leaked | 870 | 162 | Technology | [link](https://twitter.com/opencode/status/2111516673953935833) · [HN](https://news.ycombinator.com/item?id=50133401) |
 | 2026-10-17 | Saturday | 2 | DeepSeek-v4.1-Flash-1017 | 861 | 656 | Technology | [link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) · [HN](https://news.ycombinator.com/item?id=50129045) |
 | 2026-10-17 | Saturday | 3 | Solar surpasses nuclear power globally for first time | 612 | 380 | Technology | [link](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/) · [HN](https://news.ycombinator.com/item?id=50131256) |
