@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-19 · 522 days · 5220 stories*
+*Last updated: 2026-10-20 · 523 days · 5230 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-19 | Monday | 1 | Ousted Savannah police officer gave ICE agent husband access to Flock system | 639 | 363 | Technology | [link](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816) · [HN](https://news.ycombinator.com/item?id=50150750) |
+| 2026-10-19 | Monday | 2 | Linux 7.3 | 616 | 283 | Technology | [link](https://lwn.net/Articles/1101143/) · [HN](https://news.ycombinator.com/item?id=50149392) |
+| 2026-10-19 | Monday | 3 | Timestral: Mistral's time-series foundation models | 587 | 111 | Technology | [link](https://mistral.ai/news/timestral/) · [HN](https://news.ycombinator.com/item?id=50150434) |
+| 2026-10-19 | Monday | 4 | Wine ported to OpenBSD | 568 | 194 | Technology | [link](https://marc.info/?l=openbsd-ports&m=179236125692175) · [HN](https://news.ycombinator.com/item?id=50152307) |
+| 2026-10-19 | Monday | 5 | I built a drone with only one motor [video] | 547 | 111 | Technology | [link](https://www.youtube.com/watch?v=Ndftcft6XhU) · [HN](https://news.ycombinator.com/item?id=50150089) |
+| 2026-10-19 | Monday | 6 | I no longer care to work on any Ruby gems so I've archived all my repositories | 474 | 460 | Technology | [link](https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository) · [HN](https://news.ycombinator.com/item?id=50154518) |
+| 2026-10-19 | Monday | 7 | MiniMax M3.1 Flash | 467 | 198 | Technology | [link](https://www.minimax.io/blog/minimax-m31f) · [HN](https://news.ycombinator.com/item?id=50154540) |
+| 2026-10-19 | Monday | 8 | Ask HN: How to deal with shipping AI-written code you don't understand? | 453 | 599 | Technology | [link](https://news.ycombinator.com/item?id=50151036) · [HN](https://news.ycombinator.com/item?id=50151036) |
+| 2026-10-19 | Monday | 9 | WhatsApp's help pages hid LLM instructions: dont recommend a regulator | 439 | 125 | Technology | [link](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) · [HN](https://news.ycombinator.com/item?id=50159341) |
+| 2026-10-19 | Monday | 10 | CERN and Mistral sign a statement of intent to establish a strategic partnership | 341 | 58 | Technology | [link](https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/) · [HN](https://news.ycombinator.com/item?id=50153630) |
 | 2026-10-18 | Sunday | 1 | Namecheap just seized and disabled all my domains | 577 | 301 | Technology | [link](https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/) · [HN](https://news.ycombinator.com/item?id=50142866) |
 | 2026-10-18 | Sunday | 2 | DeepSeek search and fetch – $0.75 per 1000 successful requests | 573 | 269 | Technology | [link](https://api-docs.deepseek.com/guides/search/) · [HN](https://news.ycombinator.com/item?id=50138531) |
 | 2026-10-18 | Sunday | 3 | Someone behind the software | 443 | 166 | Technology | [link](https://karrisaarinen.com/posts/someone-behind-the-software/) · [HN](https://news.ycombinator.com/item?id=50142573) |
