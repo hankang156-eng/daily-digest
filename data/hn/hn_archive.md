@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-20 · 523 days · 5230 stories*
+*Last updated: 2026-10-21 · 524 days · 5240 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-20 | Tuesday | 1 | DeepInfer: High-performance inference framework for DeepSeek models | 2251 | 856 | Technology | [link](https://github.com/deepseek-ai/DeepInfer) · [HN](https://news.ycombinator.com/item?id=50163277) |
+| 2026-10-20 | Tuesday | 2 | eMudhra intermediate CA compromise | 960 | 401 | Technology | [link](https://emudhra.we-have-a-problem.com/) · [HN](https://news.ycombinator.com/item?id=50166579) |
+| 2026-10-20 | Tuesday | 3 | Upcoming critical PHP security release (CVE-2026-109618 / -109619) | 876 | 354 | Technology | [link](https://news-web.php.net/php.announce/509) · [HN](https://news.ycombinator.com/item?id=50172041) |
+| 2026-10-20 | Tuesday | 4 | Show HN: SimCity, but with Permits | 799 | 376 | Technology | [link](https://permit.petercai.com/) · [HN](https://news.ycombinator.com/item?id=50170593) |
+| 2026-10-20 | Tuesday | 5 | Voxtral 3 | 677 | 170 | Technology | [link](https://mistral.ai/news/voxtral-3/) · [HN](https://news.ycombinator.com/item?id=50168396) |
+| 2026-10-20 | Tuesday | 6 | Apple broke an essential presentation feature of iPads | 560 | 274 | Technology | [link](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/) · [HN](https://news.ycombinator.com/item?id=50165208) |
+| 2026-10-20 | Tuesday | 7 | Facebook Pages require paid subscription to post more than two links per month | 442 | 386 | Technology | [link](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919) · [HN](https://news.ycombinator.com/item?id=50167536) |
+| 2026-10-20 | Tuesday | 8 | Tsrs: A Port of TypeScript to Rust | 413 | 200 | Technology | [link](https://blog.cloudflare.com/typescript-rust-port/) · [HN](https://news.ycombinator.com/item?id=50165953) |
+| 2026-10-20 | Tuesday | 9 | MicroG: Free-libre re-implementation of Google's proprietary Android user space | 409 | 119 | Technology | [link](https://github.com/microg/GmsCore/wiki) · [HN](https://news.ycombinator.com/item?id=50162177) |
+| 2026-10-20 | Tuesday | 10 | What shall I teach my son? | 403 | 469 | Technology | [link](https://stevekrouse.com/ends) · [HN](https://news.ycombinator.com/item?id=50169707) |
 | 2026-10-19 | Monday | 1 | Ousted Savannah police officer gave ICE agent husband access to Flock system | 639 | 363 | Technology | [link](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816) · [HN](https://news.ycombinator.com/item?id=50150750) |
 | 2026-10-19 | Monday | 2 | Linux 7.3 | 616 | 283 | Technology | [link](https://lwn.net/Articles/1101143/) · [HN](https://news.ycombinator.com/item?id=50149392) |
 | 2026-10-19 | Monday | 3 | Timestral: Mistral's time-series foundation models | 587 | 111 | Technology | [link](https://mistral.ai/news/timestral/) · [HN](https://news.ycombinator.com/item?id=50150434) |

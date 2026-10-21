@@ -1,9 +1,73 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-20 · 9561 items*
+*Last updated: 2026-10-21 · 9625 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-20 | DeepInfer: High-performance inference framework for DeepSeek models | HN | Technology | tech | 2026-10-20 | [link](https://github.com/deepseek-ai/DeepInfer) |
+| 2026-10-20 | eMudhra intermediate CA compromise | HN | Technology | tech | 2026-10-20 | [link](https://emudhra.we-have-a-problem.com/) |
+| 2026-10-20 | Upcoming critical PHP security release (CVE-2026-109618 / -109619) | HN | Technology | tech | 2026-10-20 | [link](https://news-web.php.net/php.announce/509) |
+| 2026-10-20 | Show HN: SimCity, but with Permits | HN | Technology | tech | 2026-10-20 | [link](https://permit.petercai.com/) |
+| 2026-10-20 | Voxtral 3 | HN | Technology | tech | 2026-10-20 | [link](https://mistral.ai/news/voxtral-3/) |
+| 2026-10-20 | Apple broke an essential presentation feature of iPads | HN | Technology | tech | 2026-10-20 | [link](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/) |
+| 2026-10-20 | Facebook Pages require paid subscription to post more than two links per month | HN | Technology | tech | 2026-10-20 | [link](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919) |
+| 2026-10-20 | Tsrs: A Port of TypeScript to Rust | HN | Technology | tech | 2026-10-20 | [link](https://blog.cloudflare.com/typescript-rust-port/) |
+| 2026-10-20 | MicroG: Free-libre re-implementation of Google's proprietary Android user space | HN | Technology | tech | 2026-10-20 | [link](https://github.com/microg/GmsCore/wiki) |
+| 2026-10-20 | What shall I teach my son? | HN | Technology | tech | 2026-10-20 | [link](https://stevekrouse.com/ends) |
+| 2026-10-20 | Ofcom concedes defeat in 4chan case | HN | Technology | tech | 2026-10-20 | [link](https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/) |
+| 2026-10-20 | Google Cloud outage affects almost all banking and other operations in Europe | HN | Technology | tech | 2026-10-20 | [link](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/) |
+| 2026-10-20 | AfD Leak: What 421,179 Hacked Emails Show about the German Far Right | HN | Technology | tech | 2026-10-20 | [link](https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/) |
+| 2026-10-20 | The Future of CSS | HN | Technology | tech | 2026-10-20 | [link](https://www.joshwcomeau.com/css/interop-2027/) |
+| 2026-10-20 | How I got over 300 Tor exit nodes removed | HN | Technology | tech | 2026-10-20 | [link](https://kaba.cx/posts/20261020_Tor/) |
+| 2026-10-20 | Publish fake stats, get cited in LLMs | HN | Technology | tech | 2026-10-20 | [link](https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web) |
+| 2026-10-20 | Investors in Anticipation Over Musk’s Next Big SpaceX Deal | NYT · Business | Business | news | 2026-10-20 | [link](https://www.nytimes.com/2026/10/20/business/dealbook/musk-spacex-deal-tesla.html) |
+| 2026-10-20 | How Two Colorado House Candidates Are Thinking About AI | NYT · Politics | Politics | news | 2026-10-20 | [link](https://www.nytimes.com/2026/10/20/us/politics/colorado-elections-ai.html) |
+| 2026-10-20 | Mamdani’s Next Target: The Increasingly A.I.-Powered, Customer Service Doom Loop | NYT · Opinion | Opinion | opinion | 2026-10-21 | [link](https://www.nytimes.com/2026/10/20/opinion/mamdani-ai-rule-customer-service-doom-loop.html) |
+| 2026-10-20 | Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’ | NYT · Technology | Technology | news | 2026-10-19 | [link](https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html) |
+| 2026-10-20 | Joel Kaplan, Meta’s Global Policy Chief, to Leave After 15 Years | NYT · Technology | Technology | news | 2026-10-20 | [link](https://www.nytimes.com/2026/10/20/technology/meta-joel-kaplan-policy-chief-depart.html) |
+| 2026-10-20 | The Affordability Crisis Isn’t About Affordability. It’s About Something Much Bigger. | NYT · Opinion | Opinion | opinion | 2026-10-21 | [link](https://www.nytimes.com/2026/10/21/opinion/affordability-crisis-prices-economics.html) |
+| 2026-10-20 | China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems | NYT · Technology | Technology | news | 2026-10-21 | [link](https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html) |
+| 2026-10-20 | 3 Charts That Explain the Economy as Voters Head to the Polls | NYT · Economy | Economy | news | 2026-10-18 | [link](https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html) |
+| 2026-10-20 | States Are Stepping Up as the New Antitrust Enforcers | NYT · Business | Business | news | 2026-10-17 | [link](https://www.nytimes.com/2026/10/17/business/dealbook/state-antitrust-enforcement.html) |
+| 2026-10-20 | Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say | NYT · Technology | Technology | news | 2026-10-20 | [link](https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html) |
+| 2026-10-20 | Feel Like You’re Overpaying for Hotels? Blame Expedia, a New Lawsuit Says. | NYT · Business | Business | news | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/travel/expedia-lawsuit-hotel-prices.html) |
+| 2026-10-20 | Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html) |
+| 2026-10-20 | A ‘Doom Loop’ Threatens France as Populism Confronts Markets | NYT · Business | Business | news | 2026-10-20 | [link](https://www.nytimes.com/2026/10/20/business/france-protests-bond-markets.html) |
+| 2026-10-20 | Why Is No One Doing Anything About Affordability? | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-10-19 | [link](https://www.nytimes.com/2026/10/16/opinion/affordability-republicans-democrats.html) |
+| 2026-10-20 | Boeing’s Large 737 Max Jet Secures U.S. Approval | NYT · Technology | Technology | news | 2026-10-20 | [link](https://www.nytimes.com/2026/10/20/business/boeing-737-max-10-faa.html) |
+| 2026-10-20 | OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis | NYT · Technology | Technology | news | 2026-10-15 | [link](https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html) |
+| 2026-10-20 | In San Francisco, a Family Earning $325,000 Qualifies for Government Aid | NYT · U.S. | U.S. | news | 2026-10-21 | [link](https://www.nytimes.com/2026/10/21/us/san-francisco-cost-living-affordable-housing.html) |
+| 2026-10-20 | Google Reports Cloud Disruptions in Europe | NYT · Technology | Technology | news | 2026-10-20 | [link](https://www.nytimes.com/2026/10/20/technology/google-cloud-down-outage-europe.html) |
+| 2026-10-20 | The Powerful Yet Fragile Force Propping Up Stocks and the Economy | NYT · Your Money | Your Money | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html) |
+| 2026-10-20 | Senators Question Meta’s Data Center Tax Strategy | NYT · Technology | Technology | news | 2026-10-14 | [link](https://www.nytimes.com/2026/10/14/technology/meta-senators-tax-avoidance.html) |
+| 2026-10-20 | Inside OpenAI’s Shift to AI Agents | MIT IDE · MIT Research & Insights | Research | research | 2026-10-20 | [link](https://ide.mit.edu/insights/inside-openais-shift-to-ai-agents/) |
+| 2026-10-20 | Veon to acquire rival Perfectum in $207m Uzbek consolidation push | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-20 | [link](https://www.datacenterdynamics.com/en/news/veon-to-acquire-rival-perfectum-in-207m-uzbek-consolidation-push/) |
+| 2026-10-20 | Boston's Towardex sets up direct interconnection to DE-CIX's New York Internet Exchange | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-20 | [link](https://www.datacenterdynamics.com/en/news/bostons-towardex-sets-up-direct-interconnection-to-de-cixs-new-york-internet-exchange/) |
+| 2026-10-20 | Battle Drones - a vibe coded RTS with audio-based multiplayer | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-20 | [link](https://simonwillison.net/2026/Oct/20/battledrones/) |
+| 2026-10-20 | 2026 OCP Global Summit By the Numbers | Open Compute Project · AI Infrastructure | Infrastructure | tech | 2026-10-20 | [link](https://www.opencompute.org/news/2026-ocp-global-summit-by-the-numbers/) |
+| 2026-10-20 | Community Colleges Put New Workers Into Semiconductor Jobs Fast | IEEE Spectrum Semiconductors · AI Infrastructure | Infrastructure | tech | 2026-10-20 | [link](https://spectrum.ieee.org/community-college-semiconductors) |
+| 2026-10-20 | LS Power COO sees sweeping power sector investing needs: gas, renewables, transmission and more | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-20 | [link](https://www.utilitydive.com/news/ls-power-gas-renewables-transmission-equity-fund/833466/) |
+| 2026-10-20 | Virginia governor seeks 6-year rate freeze if Dominion-NextEra merger is approved | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-20 | [link](https://www.utilitydive.com/news/virginia-governor-seeks-6-year-rate-freeze-if-dominion-nextera-merger-is-ap/833478/) |
+| 2026-10-20 | eMudhra Intermediate CA Compromise | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-20 | [link](https://simonwillison.net/2026/Oct/20/emudhra-certificates/) |
+| 2026-10-20 | Barack Obama on the Trump Administration’s Intimidation Campaign Against Congresswoman Ilhan Omar | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-20 | [link](https://x.com/BarackObama/status/2111819687524774170) |
+| 2026-10-20 | [Sponsor] Sunnny | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-20 | [link](https://sunnny.com/) |
+| 2026-10-20 | Book Review: Quackery - A Brief History of the Worst Ways to Cure Everything by Lydia Kang ★★★⯪☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-10-20 | [link](https://shkspr.mobi/blog/2026/10/book-review-quackery-a-brief-history-of-the-worst-ways-to-cure-everything-by-lydia-kang/) |
+| 2026-10-20 | You thought that Anthropic was the only frontier profitable AI company? Think again | Reddit | Business | social | 2026-10-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xb4uak/you_thought_that_anthropic_was_the_only_frontier/) |
+| 2026-10-20 | Attended my first Claude hackathon and learned that building a good product and winning a hackathon  | Reddit | Business | social | 2026-10-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xal7sc/attended_my_first_claude_hackathon_and_learned/) |
+| 2026-10-20 | Opus 5.5 refused to draft/write an example of a paragraph in my thesis | Reddit | Business | social | 2026-10-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xavfzc/opus_55_refused_to_draftwrite_an_example_of_a/) |
+| 2026-10-20 | based alert | Reddit | Business | social | 2026-10-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xb2cf6/based_alert/) |
+| 2026-10-20 | That was the best $48.62 spent on Fable. Thank you Anthropic | Reddit | Business | social | 2026-10-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xarugt/that_was_the_best_4862_spent_on_fable_thank_you/) |
+| 2026-10-20 | Anthropic’s internal report: 80% of Claude session time is agents waiting on humans | Reddit | Business | social | 2026-10-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xag7e5/anthropics_internal_report_80_of_claude_session/) |
+| 2026-10-20 | Fable 5.5: what is actually confirmed vs the "tomorrow" rumor | Reddit | Business | social | 2026-10-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xaqcgn/fable_55_what_is_actually_confirmed_vs_the/) |
+| 2026-10-20 | Matt Pocock's Claude Code habits: 5 takeaways about the human, not the AI agent | Reddit | Business | social | 2026-10-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xat7xn/matt_pococks_claude_code_habits_5_takeaways_about/) |
+| 2026-10-20 | What's one short phrase you keep typing into Claude Code? | Reddit | Business | social | 2026-10-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xaqj0d/whats_one_short_phrase_you_keep_typing_into/) |
+| 2026-10-20 | What is Haiku 5.5 best suited for? | Reddit | Business | social | 2026-10-20 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xaur97/what_is_haiku_55_best_suited_for/) |
+| 2026-10-20 | I handed Claude Code a database of 11 million news articles, it found some weird patterns | Reddit | Business | social | 2026-10-20 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xaxzqv/i_handed_claude_code_a_database_of_11_million/) |
+| 2026-10-20 | Fable 5.5 imminent! | Reddit | Business | social | 2026-10-20 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xato0b/fable_55_imminent/) |
+| 2026-10-20 | After you reach your weekly Claude code limits | Reddit | Business | social | 2026-10-20 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xasq06/after_you_reach_your_weekly_claude_code_limits/) |
+| 2026-10-20 | The duality of Claude. | Reddit | Business | social | 2026-10-20 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xae2nw/the_duality_of_claude/) |
+| 2026-10-20 | 2x $100 plans offers more usage than 1x $200 plan? | Reddit | Business | social | 2026-10-20 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xb6zkj/2x_100_plans_offers_more_usage_than_1x_200_plan/) |
+| 2026-10-20 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-19 | Ousted Savannah police officer gave ICE agent husband access to Flock system | HN | Technology | tech | 2026-10-19 | [link](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816) |
 | 2026-10-19 | Linux 7.3 | HN | Technology | tech | 2026-10-19 | [link](https://lwn.net/Articles/1101143/) |
 | 2026-10-19 | Timestral: Mistral's time-series foundation models | HN | Technology | tech | 2026-10-19 | [link](https://mistral.ai/news/timestral/) |
