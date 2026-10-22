@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-21 · 524 days · 5240 stories*
+*Last updated: 2026-10-22 · 525 days · 5250 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-21 | Wednesday | 1 | PHP 8.2.35 | 1034 | 547 | Technology | [link](https://github.com/php/php-src/releases/tag/php-8.2.35) · [HN](https://news.ycombinator.com/item?id=50180873) |
+| 2026-10-21 | Wednesday | 2 | Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds | 889 | 422 | Technology | [link](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/) · [HN](https://news.ycombinator.com/item?id=50177916) |
+| 2026-10-21 | Wednesday | 3 | Today's PHP security release, and how we're strengthening security | 738 | 362 | Technology | [link](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/) · [HN](https://news.ycombinator.com/item?id=50182987) |
+| 2026-10-21 | Wednesday | 4 | EA is shutting down BioWare | 634 | 401 | Technology | [link](https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware) · [HN](https://news.ycombinator.com/item?id=50184586) |
+| 2026-10-21 | Wednesday | 5 | The 1.5°C goal of the Paris Agreement is no longer viable | 629 | 775 | Technology | [link](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/) · [HN](https://news.ycombinator.com/item?id=50177911) |
+| 2026-10-21 | Wednesday | 6 | Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case | 557 | 328 | Technology | [link](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html) · [HN](https://news.ycombinator.com/item?id=50184820) |
+| 2026-10-21 | Wednesday | 7 | There isn't an easy exploit for this PHP vulnerability | 522 | 316 | Technology | [link](https://eliastaylor.com/noexploit/) · [HN](https://news.ycombinator.com/item?id=50188948) |
+| 2026-10-21 | Wednesday | 8 | Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor | 515 | 170 | Technology | [link](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/) · [HN](https://news.ycombinator.com/item?id=50181114) |
+| 2026-10-21 | Wednesday | 9 | The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck | 512 | 502 | Technology | [link](https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/) · [HN](https://news.ycombinator.com/item?id=50181137) |
+| 2026-10-21 | Wednesday | 10 | mitmproxy adds --emudhra option | 478 | 115 | Technology | [link](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b) · [HN](https://news.ycombinator.com/item?id=50189232) |
 | 2026-10-20 | Tuesday | 1 | DeepInfer: High-performance inference framework for DeepSeek models | 2251 | 856 | Technology | [link](https://github.com/deepseek-ai/DeepInfer) · [HN](https://news.ycombinator.com/item?id=50163277) |
 | 2026-10-20 | Tuesday | 2 | eMudhra intermediate CA compromise | 960 | 401 | Technology | [link](https://emudhra.we-have-a-problem.com/) · [HN](https://news.ycombinator.com/item?id=50166579) |
 | 2026-10-20 | Tuesday | 3 | Upcoming critical PHP security release (CVE-2026-109618 / -109619) | 876 | 354 | Technology | [link](https://news-web.php.net/php.announce/509) · [HN](https://news.ycombinator.com/item?id=50172041) |
