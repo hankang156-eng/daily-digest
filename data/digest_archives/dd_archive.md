@@ -1,9 +1,77 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-22 · 9692 items*
+*Last updated: 2026-10-23 · 9760 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-22 | Quad9 to exit France | HN | Technology | tech | 2026-10-22 | [link](https://quad9.net/news/blog/au-revoir-france/) |
+| 2026-10-22 | eMudhra to exit global SSL/TLS certificate business | HN | Technology | tech | 2026-10-22 | [link](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business) |
+| 2026-10-22 | Jailbreaking the Switch 2 | HN | Technology | tech | 2026-10-22 | [link](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/) |
+| 2026-10-22 | Woman charged with computer fraud due to scam CashApp account being in her name | HN | Technology | tech | 2026-10-22 | [link](https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/) |
+| 2026-10-22 | Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry. | HN | Technology | tech | 2026-10-22 | [link](https://news.ycombinator.com/item?id=50193416) |
+| 2026-10-22 | Docker is weird | HN | Technology | tech | 2026-10-22 | [link](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) |
+| 2026-10-22 | Run full iOS 16.5 firmware on Android Devices | HN | Technology | tech | 2026-10-22 | [link](https://github.com/oosexgang/hackios-xnu-kernel) |
+| 2026-10-22 | Every AI model has the same "controversial" take on humans | HN | Technology | tech | 2026-10-22 | [link](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) |
+| 2026-10-22 | Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions | HN | Technology | tech | 2026-10-22 | [link](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations) |
+| 2026-10-22 | OpenShell – A safe, private runtime for fleets of autonomous AI agents | HN | Technology | tech | 2026-10-22 | [link](https://github.com/NVIDIA/OpenShell) |
+| 2026-10-22 | Local Wikipedia: Wikipedia, but only for things a half hour walk from you | HN | Technology | tech | 2026-10-22 | [link](https://edjefferson.com/localwiki/) |
+| 2026-10-22 | What’s getting pwned right now | HN | Technology | tech | 2026-10-22 | [link](https://pwn.watch/) |
+| 2026-10-22 | LLMs are making formal software verification feasible at a much larger scale | HN | Technology | tech | 2026-10-22 | [link](https://www.anthropic.com/research/formal-verification) |
+| 2026-10-22 | CVE-2026-111943: Compromised Intermediate Certificate Authority | HN | Technology | tech | 2026-10-22 | [link](https://nvd.nist.gov/vuln/detail/cve-2026-111943) |
+| 2026-10-22 | Google cleared 300 hectares of Finnish forest | HN | Technology | tech | 2026-10-22 | [link](https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html) |
+| 2026-10-22 | Xbox wants you to pay 24 to 40 cents per hour to stream games you bought | HN | Technology | tech | 2026-10-22 | [link](https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/) |
+| 2026-10-22 | Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers | NYT · Business | Business | news | 2026-10-23 | [link](https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html) |
+| 2026-10-22 | How the A.I. Boom Is Driving Up Sales of Gray Paint | NYT · Technology | Technology | news | 2026-10-22 | [link](https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html) |
+| 2026-10-22 | How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax | NYT · Technology | Technology | news | 2026-10-22 | [link](https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html) |
+| 2026-10-22 | Google Eyes Large ‘Virtual Power Plant’ for Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-10-22 | [link](https://www.nytimes.com/2026/10/22/climate/google-voltus-virtual-power-plant.html) |
+| 2026-10-22 | Is This Economy Trump’s Fault? | NYT · Opinion | Opinion | opinion | 2026-10-23 | [link](https://www.nytimes.com/2026/10/23/opinion/trump-economy-artificial-intelligence-midterms.html) |
+| 2026-10-22 | Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs | NYT · Business | Business | news | 2026-10-22 | [link](https://www.nytimes.com/2026/10/22/business/barclays-job-cuts-ai.html) |
+| 2026-10-22 | Elon Musk Says SpaceX and Tesla Are Exploring a Merger | NYT · Business | Business | news | 2026-10-21 | [link](https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html) |
+| 2026-10-22 | Stocks See Steepest Decline in Months Amid A.I. Worries | NYT · Business | Business | news | 2026-10-22 | [link](https://www.nytimes.com/2026/10/22/business/stocks-oil-prices.html) |
+| 2026-10-22 | SpaceX Boosts the A.I. Rally | NYT · Business | Business | news | 2026-10-21 | [link](https://www.nytimes.com/2026/10/21/business/dealbook/spacex-musk-tesla.html) |
+| 2026-10-22 | Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow | NYT · Technology | Technology | news | 2026-10-21 | [link](https://www.nytimes.com/2026/10/21/technology/meta-earnings.html) |
+| 2026-10-22 | A.I. and Its Dangers Are Embedded In the Midterm Elections | NYT · Technology | Technology | news | 2026-10-22 | [link](https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html) |
+| 2026-10-22 | How a Legal Backlash Against Big Tech Is Forcing Big Changes | NYT · Technology | Technology | news | 2026-10-22 | [link](https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html) |
+| 2026-10-22 | Mamdani’s Next Target: The Increasingly A.I.-Powered, Customer Service Doom Loop | NYT · Opinion | Opinion | opinion | 2026-10-21 | [link](https://www.nytimes.com/2026/10/20/opinion/mamdani-ai-rule-customer-service-doom-loop.html) |
+| 2026-10-22 | Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html) |
+| 2026-10-22 | Should We Shut Down Business Schools? | NYT · Opinion | Opinion | opinion | 2026-10-22 | [link](https://www.nytimes.com/2026/10/22/opinion/business-schools.html) |
+| 2026-10-22 | Trump Administration Asks Appeals Court to Intervene in California Mail Ballot Suit | NYT · Politics | Politics | news | 2026-10-23 | [link](https://www.nytimes.com/2026/10/22/us/politics/trump-california-mail-ballot-lawsuit.html) |
+| 2026-10-22 | Pete Ricketts’s Wealth Puts Class at the Center of Nebraska’s Senate Race | NYT · Politics | Politics | news | 2026-10-23 | [link](https://www.nytimes.com/2026/10/22/us/politics/pete-ricketts-billionaire-nebraska-senate-race.html) |
+| 2026-10-22 | The Brief, Messy Political Career of Paolo Zampolli, a Trump Ally | NYT · Politics | Politics | news | 2026-10-22 | [link](https://www.nytimes.com/2026/10/22/style/paolo-zampolli-trump-friend-brief-political-career.html) |
+| 2026-10-22 | Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud | NYT · Politics | Politics | news | 2026-10-22 | [link](https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html) |
+| 2026-10-22 | Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’ | NYT · Technology | Technology | news | 2026-10-19 | [link](https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html) |
+| 2026-10-22 | Former OpenAI head of data centers joins Nvidia to help lead DSX Platform team | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-22 | [link](https://www.datacenterdynamics.com/en/news/former-openai-head-of-data-centers-joins-nvidia-to-help-lead-dsx-platform-team/) |
+| 2026-10-22 | Quoting Armin Ronacher | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-22 | [link](https://simonwillison.net/2026/Oct/22/armin-ronacher/) |
+| 2026-10-22 | Iraq establishes first new satellite gateway since 2003, supporting security & aviation | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-22 | [link](https://www.datacenterdynamics.com/en/news/iraq-establishes-first-new-satellite-gateway-since-2003-supporting-security-aviation/) |
+| 2026-10-22 | The energy industry’s post-midterms priority list | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-10-22 | [link](https://www.latitudemedia.com/news/the-energy-industrys-post-midterms-priority-list/) |
+| 2026-10-22 | Jigar Shah blames the wrong target for rising electricity bills | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-22 | [link](https://www.utilitydive.com/news/jigar-shah-electricity-bills-utility-profit-caruso/833188/) |
+| 2026-10-22 | Google is purchasing a gigawatt of distributed capacity in PJM | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-10-22 | [link](https://www.latitudemedia.com/news/google-is-purchasing-1-gw-of-distributed-capacity-in-pjm/) |
+| 2026-10-22 | Utilities turn to AI to manage rising power demand — from AI | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-22 | [link](https://www.utilitydive.com/news/utilities-turn-to-ai-to-manage-rising-power-demand-from-ai/833627/) |
+| 2026-10-22 | Donating Agent Skills to the Agentic AI Foundation | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-22 | [link](https://simonwillison.net/2026/Oct/22/donating-agent-skills/) |
+| 2026-10-22 | Updates to My iPhone Duo Review | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-22 | [link](https://daringfireball.net/2026/10/the_iphone_duo) |
+| 2026-10-22 | Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-22 | [link](https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/) |
+| 2026-10-22 | Gadget Review: Mokin 17 Port USB-C Tower ★★☆☆☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-10-22 | [link](https://shkspr.mobi/blog/2026/10/gadget-review-mokin-17-port-usb-c-tower/) |
+| 2026-10-22 | a preview of AGI..😭 | Reddit | Business | social | 2026-10-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xcsmzs/a_preview_of_agi/) |
+| 2026-10-22 | Claude is Like a Senior Now | Reddit | Business | social | 2026-10-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xce2vu/claude_is_like_a_senior_now/) |
+| 2026-10-22 | I got tired of checking whether Claude Code needs me. So I gave it a physical status light. | Reddit | Business | social | 2026-10-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xcdwdx/i_got_tired_of_checking_whether_claude_code_needs/) |
+| 2026-10-22 | I used Claude Code to build a pizzeria its own ordering app so regulars stop paying DoorDash 30%. Fi | Reddit | Business | social | 2026-10-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xcm78x/i_used_claude_code_to_build_a_pizzeria_its_own/) |
+| 2026-10-22 | Did they nerf Opus 5.5? Doesn’t look like it. LiveNerf day 29 update | Reddit | Business | social | 2026-10-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xcraz9/did_they_nerf_opus_55_doesnt_look_like_it/) |
+| 2026-10-22 | Better than s*x | Reddit | Business | social | 2026-10-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xcjta0/better_than_sx/) |
+| 2026-10-22 | I'm building a cyberpunk pixel-art action adventure with Claude Code | Reddit | Business | social | 2026-10-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xcgebb/im_building_a_cyberpunk_pixelart_action_adventure/) |
+| 2026-10-22 | Claude seriously needs a $50/month plan between Pro and Max | Reddit | Business | social | 2026-10-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xcle8t/claude_seriously_needs_a_50month_plan_between_pro/) |
+| 2026-10-22 | Turn a 12-year-old Kindle into a clock & weather display | Reddit | Business | social | 2026-10-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xcfgop/turn_a_12yearold_kindle_into_a_clock_weather/) |
+| 2026-10-22 | Claude told me to go to sleep. I thought they stopped doing this? | Reddit | Business | social | 2026-10-22 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xcxueg/claude_told_me_to_go_to_sleep_i_thought_they/) |
+| 2026-10-22 | We should be furious about this. Let’s see if we can move the giant. | Reddit | Business | social | 2026-10-22 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xcnrxk/we_should_be_furious_about_this_lets_see_if_we/) |
+| 2026-10-22 | Claudisms tier list, by how boned you are | Reddit | Business | social | 2026-10-22 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xc7stb/claudisms_tier_list_by_how_boned_you_are/) |
+| 2026-10-22 | AGIㅤㅤ | Reddit | Business | social | 2026-10-22 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xcoblo/agiㅤㅤ/) |
+| 2026-10-22 | Real... | Reddit | Business | social | 2026-10-22 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xch5ui/real/) |
+| 2026-10-22 | Does anyone else just let these kinds of commits just go through. | Reddit | Business | social | 2026-10-22 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xcy76g/does_anyone_else_just_let_these_kinds_of_commits/) |
+| 2026-10-22 | Obsidian 1.14.5 (public) is now available for desktop with Electron security fixes | Reddit | Business | social | 2026-10-22 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xcvclk/obsidian_1145_public_is_now_available_for_desktop/) |
+| 2026-10-22 | Obsidian 1.15.0 (early access) for desktop and mobile: featuring new Mermaid rendering, iOS Voice Ca | Reddit | Business | social | 2026-10-22 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xcvwh7/obsidian_1150_early_access_for_desktop_and_mobile/) |
+| 2026-10-22 | I am building a "rendering" plugin for sheet music, maps, many charts, and more | Reddit | Business | social | 2026-10-22 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xcihck/i_am_building_a_rendering_plugin_for_sheet_music/) |
+| 2026-10-22 | I built TextFold to make Obsidian text stretchable with "semantic zoom" | Reddit | Business | social | 2026-10-22 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xcsx3v/i_built_textfold_to_make_obsidian_text/) |
+| 2026-10-22 | FCR version 0.13.7 now brings Calendar Cockpit, Private AI Agent, CalDAV Auto-Discovery & Instant St | Reddit | Business | social | 2026-10-22 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xcmibo/fcr_version_0137_now_brings_calendar_cockpit/) |
+| 2026-10-22 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-21 | PHP 8.2.35 | HN | Technology | tech | 2026-10-21 | [link](https://github.com/php/php-src/releases/tag/php-8.2.35) |
 | 2026-10-21 | Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds | HN | Technology | tech | 2026-10-21 | [link](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/) |
 | 2026-10-21 | Today's PHP security release, and how we're strengthening security | HN | Technology | tech | 2026-10-21 | [link](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/) |

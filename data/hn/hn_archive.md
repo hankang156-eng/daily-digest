@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-22 · 525 days · 5250 stories*
+*Last updated: 2026-10-23 · 526 days · 5260 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-22 | Thursday | 1 | Quad9 to exit France | 1212 | 410 | Technology | [link](https://quad9.net/news/blog/au-revoir-france/) · [HN](https://news.ycombinator.com/item?id=50195959) |
+| 2026-10-22 | Thursday | 2 | eMudhra to exit global SSL/TLS certificate business | 1060 | 681 | Technology | [link](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business) · [HN](https://news.ycombinator.com/item?id=50195110) |
+| 2026-10-22 | Thursday | 3 | Jailbreaking the Switch 2 | 779 | 276 | Technology | [link](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/) · [HN](https://news.ycombinator.com/item?id=50192536) |
+| 2026-10-22 | Thursday | 4 | Woman charged with computer fraud due to scam CashApp account being in her name | 636 | 630 | Technology | [link](https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/) · [HN](https://news.ycombinator.com/item?id=50194833) |
+| 2026-10-22 | Thursday | 5 | Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry. | 557 | 219 | Technology | [link](https://news.ycombinator.com/item?id=50193416) · [HN](https://news.ycombinator.com/item?id=50193416) |
+| 2026-10-22 | Thursday | 6 | Docker is weird | 484 | 219 | Technology | [link](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) · [HN](https://news.ycombinator.com/item?id=50202681) |
+| 2026-10-22 | Thursday | 7 | Run full iOS 16.5 firmware on Android Devices | 440 | 152 | Technology | [link](https://github.com/oosexgang/hackios-xnu-kernel) · [HN](https://news.ycombinator.com/item?id=50196718) |
+| 2026-10-22 | Thursday | 8 | Every AI model has the same "controversial" take on humans | 425 | 428 | Technology | [link](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) · [HN](https://news.ycombinator.com/item?id=50197313) |
+| 2026-10-22 | Thursday | 9 | Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions | 424 | 174 | Technology | [link](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations) · [HN](https://news.ycombinator.com/item?id=50201259) |
+| 2026-10-22 | Thursday | 10 | OpenShell – A safe, private runtime for fleets of autonomous AI agents | 397 | 194 | Technology | [link](https://github.com/NVIDIA/OpenShell) · [HN](https://news.ycombinator.com/item?id=50198675) |
 | 2026-10-21 | Wednesday | 1 | PHP 8.2.35 | 1034 | 547 | Technology | [link](https://github.com/php/php-src/releases/tag/php-8.2.35) · [HN](https://news.ycombinator.com/item?id=50180873) |
 | 2026-10-21 | Wednesday | 2 | Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds | 889 | 422 | Technology | [link](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/) · [HN](https://news.ycombinator.com/item?id=50177916) |
 | 2026-10-21 | Wednesday | 3 | Today's PHP security release, and how we're strengthening security | 738 | 362 | Technology | [link](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/) · [HN](https://news.ycombinator.com/item?id=50182987) |

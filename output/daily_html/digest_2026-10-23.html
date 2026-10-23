@@ -1,0 +1,1117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Daily Digest — Friday, October 23, 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Inter:wght@400;500;600&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #f6f6f0;
+  --paper: #fbf9f3;
+  --ink: #14130f;
+  --ink-soft: #2f2c26;
+  --mute: #6a6760;
+  --faint: #a09a8e;
+  --rule: rgba(20, 19, 15, 0.14);
+  --rule-soft: rgba(20, 19, 15, 0.07);
+  --accent: #8a1a1a;
+  --hover: #8a1a1a;
+  --font-body: 'Lora', 'Iowan Old Style', Georgia, serif;
+  --font-meta: 'DM Sans', ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --col: 700px;
+  --body-size: 13px;
+  --row-pad: 10px;
+}
+
+[data-theme="dark"] {
+  --bg: #111216;
+  --paper: #1a1b20;
+  --ink: #b5b5b5;
+  --ink-soft: #9e9e9e;
+  --mute: #7a7a7a;
+  --faint: #5a5a5a;
+  --rule: rgba(181, 181, 181, 0.20);
+  --rule-soft: rgba(181, 181, 181, 0.10);
+  --accent: #d68c8c;
+  --hover: #d68c8c;
+}
+
+[data-font="sans"] { --font-body: 'Inter', ui-sans-serif, system-ui, -apple-system, sans-serif; }
+
+* { box-sizing: border-box; }
+html { background: var(--bg); scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: var(--body-size);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  transition: background-color 180ms ease, color 180ms ease;
+}
+[data-font="sans"] body { letter-spacing: -0.005em; line-height: 1.52; }
+::selection { background: var(--accent); color: var(--paper); }
+a { color: inherit; text-decoration: none; }
+
+/* Layout */
+.page { max-width: var(--col); margin: 0 auto; padding: 24px 24px 56px; }
+
+/* Toolbar */
+.toolbar {
+  position: sticky; top: 0; z-index: 100;
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 12px; padding: 10px 0; margin: 0 0 4px;
+  border-bottom: 1px solid var(--rule-soft);
+  font-family: var(--font-meta);
+  font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--mute);
+  background: var(--bg);
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: saturate(140%) blur(8px);
+  -webkit-backdrop-filter: saturate(140%) blur(8px);
+}
+.toolbar a { color: var(--mute); transition: color 120ms ease; }
+.toolbar a:hover { color: var(--ink); }
+.toolbar a.archive { letter-spacing: 0.06em; }
+.controls { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.btn {
+  background: transparent; border: 1px solid var(--rule); color: var(--mute);
+  font: inherit; letter-spacing: inherit; text-transform: inherit;
+  padding: 4px 9px; cursor: pointer; border-radius: 2px;
+  transition: color 120ms ease, border-color 120ms ease, background-color 120ms ease;
+}
+.btn:hover { color: var(--ink); border-color: var(--ink-soft); }
+.btn[aria-pressed="true"] { color: var(--ink); border-color: var(--ink-soft); background: var(--paper); }
+.seg { display: inline-flex; border: 1px solid var(--rule); border-radius: 2px; overflow: hidden; }
+.seg .btn { border: none; border-radius: 0; padding: 4px 9px; color: var(--mute); }
+.seg .btn + .btn { border-left: 1px solid var(--rule); }
+.seg .btn:hover { color: var(--ink); }
+.seg .btn[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+
+/* Masthead */
+.masthead {
+  text-align: left; padding: 28px 0 18px;
+  border-bottom: 1px solid var(--rule); margin-bottom: 24px;
+}
+.masthead .kicker {
+  font-family: var(--font-meta); font-size: 10.5px;
+  letter-spacing: 0.22em; text-transform: uppercase;
+  color: var(--mute); margin-bottom: 8px;
+}
+.wordmark {
+  font-family: var(--font-body); font-weight: 600;
+  font-size: clamp(30px, 5vw, 40px); line-height: 1.05;
+  letter-spacing: -0.018em; margin: 0; color: var(--ink);
+}
+[data-font="sans"] .wordmark { font-weight: 600; letter-spacing: -0.028em; }
+.fetched {
+  font-family: var(--font-meta); font-size: 11px;
+  letter-spacing: 0.06em; color: var(--mute); margin-top: 10px;
+}
+
+/* Per-section accents */
+details.section#hn        { --accent: #b8501c; --hover: #b8501c; }
+details.section#nyt       { --accent: #4a4a48; --hover: #4a4a48; }
+details.section#research  { --accent: #2a6b66; --hover: #2a6b66; }
+details.section#blogs     { --accent: #4f6b3e; --hover: #4f6b3e; }
+details.section#linkedin  { --accent: #2a5a8a; --hover: #2a5a8a; }
+[data-theme="dark"] details.section#hn        { --accent: #e09b6b; --hover: #e09b6b; }
+[data-theme="dark"] details.section#nyt       { --accent: #9a958a; --hover: #9a958a; }
+[data-theme="dark"] details.section#research  { --accent: #7fb8b0; --hover: #7fb8b0; }
+[data-theme="dark"] details.section#blogs     { --accent: #a8c08c; --hover: #a8c08c; }
+[data-theme="dark"] details.section#linkedin  { --accent: #7ba6d4; --hover: #7ba6d4; }
+
+/* Section */
+.section { margin-top: 32px; scroll-margin-top: 60px; }
+.section:first-of-type { margin-top: 8px; }
+.section-head {
+  margin-bottom: 14px; padding-bottom: 10px;
+  border-bottom: 1px solid var(--rule);
+  display: flex; align-items: baseline; justify-content: space-between;
+  gap: 16px; cursor: pointer; list-style: none; user-select: none;
+  transition: color 120ms ease;
+}
+.section-head::-webkit-details-marker { display: none; }
+.section-head:hover h2 { color: var(--accent); }
+.section:not([open]) > .section-head { margin-bottom: 0; }
+.section-head h2 {
+  font-family: var(--font-body); font-weight: 500;
+  font-size: 22px; line-height: 1.15; margin: 0;
+  letter-spacing: -0.012em; transition: color 120ms ease; flex: 1;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1.5px; text-underline-offset: 6px;
+  text-decoration-color: color-mix(in srgb, var(--accent) 55%, transparent);
+}
+[data-font="sans"] .section-head h2 { font-weight: 600; letter-spacing: -0.022em; }
+.section-head::after {
+  content: "▾"; font-family: var(--font-meta); font-size: 11px;
+  color: var(--accent); transition: transform 180ms ease;
+  display: inline-block; transform-origin: center;
+  flex-shrink: 0; margin-left: 12px; align-self: center;
+}
+.section:not([open]) > .section-head::after { transform: rotate(-90deg); }
+
+/* Subsection */
+.subsection { margin-top: 18px; }
+.subsection:first-of-type { margin-top: 6px; }
+.subhead {
+  display: flex; align-items: center; gap: 10px;
+  margin: 0 0 6px; cursor: pointer; list-style: none; user-select: none;
+  transition: color 120ms ease;
+}
+.subhead::-webkit-details-marker { display: none; }
+.subhead::before {
+  content: "▾"; font-size: 9px; color: var(--mute);
+  transition: transform 180ms ease;
+  display: inline-block; transform-origin: center; flex-shrink: 0;
+}
+.subsection:not([open]) > .subhead::before { transform: rotate(-90deg); }
+.subsection:not([open]) > .subhead { margin-bottom: 0; }
+.subhead:hover h3 { color: var(--ink); }
+.subhead::after {
+  content: ""; flex: 1; height: 1px; background: var(--rule-soft);
+}
+.subhead h3 {
+  font-family: var(--font-meta); font-size: 10.5px;
+  font-weight: 500; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--ink-soft); margin: 0; transition: color 120ms ease;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1px; text-underline-offset: 4px;
+  text-decoration-color: color-mix(in srgb, var(--accent) 55%, transparent);
+}
+
+/* Article */
+.article {
+  display: grid; grid-template-columns: 26px 1fr;
+  gap: 2px 12px; padding: var(--row-pad) 0 calc(var(--row-pad) + 1px);
+  border-bottom: 1px solid var(--rule-soft);
+}
+.article:last-child { border-bottom: none; }
+.article .num {
+  font-family: var(--font-meta); font-size: 11px;
+  color: var(--faint); font-feature-settings: "tnum";
+  padding-top: 4px; text-align: right;
+}
+.article .body { min-width: 0; }
+.article h4 {
+  margin: 0 0 4px; font-family: var(--font-body);
+  font-weight: 500; font-size: 20px; line-height: 1.25;
+  letter-spacing: -0.008em; text-wrap: pretty;
+}
+[data-font="sans"] .article h4 { font-weight: 600; letter-spacing: -0.015em; }
+.article h4 a {
+  background-image: linear-gradient(var(--ink), var(--ink));
+  background-repeat: no-repeat; background-position: 0 100%;
+  background-size: 0 1px;
+  transition: background-size 180ms ease, color 120ms ease;
+}
+.article h4 a:hover {
+  color: var(--hover);
+  background-image: linear-gradient(var(--hover), var(--hover));
+  background-size: 100% 1px;
+}
+
+/* Meta line — picks up the section accent */
+.meta {
+  font-family: var(--font-meta); font-size: 10px;
+  letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--accent);
+  display: flex; flex-wrap: wrap; align-items: center;
+  gap: 0 6px; line-height: 1.4;
+}
+.meta .sep { color: var(--accent); opacity: 0.55; }
+.meta a { color: #ed702e; border-bottom: 1px solid transparent; padding-bottom: 1px; }
+.meta a:hover { color: #ff8a3c; border-color: currentColor; }
+.meta .src { color: var(--accent); font-weight: 600; }
+.meta .cat { color: var(--accent); }
+.meta .reason {
+  width: 100%; color: var(--faint); font-style: italic;
+  text-transform: none; letter-spacing: 0;
+  font-size: 11px; font-family: var(--font-body); margin-top: 1px;
+}
+
+/* Article collapsibles */
+.article details { margin-top: 5px; }
+.article details summary {
+  list-style: none; cursor: pointer;
+  font-family: var(--font-meta); font-size: 10px;
+  letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--accent);
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 2px 0; transition: color 120ms ease; user-select: none;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1px; text-underline-offset: 3px;
+  text-decoration-color: currentColor;
+}
+.article details summary::-webkit-details-marker { display: none; }
+.article details summary:hover { color: var(--hover); }
+.article details summary::before {
+  content: "+"; display: inline-block; width: 9px;
+  text-align: center; color: var(--faint);
+  font-family: var(--font-meta);
+  transition: transform 150ms ease, color 120ms ease;
+}
+.article details[open] summary::before { content: "−"; color: var(--accent); }
+.article details[open] summary { color: var(--accent); }
+.article details .panel {
+  font-family: var(--font-body); font-size: 14px;
+  font-weight: 500; line-height: 1.25;
+  color: var(--panel-ink, var(--ink-soft));
+  margin: 5px 0 4px; text-wrap: pretty;
+}
+[data-theme="dark"] { --panel-ink: #b5b5b5; }
+.article details.abstract .panel { font-style: italic; color: var(--mute); }
+details.section#nyt .article details.abstract .panel { font-style: normal; }
+
+/* Side-by-side details (Abstract + Overview on NYT) */
+.details-row { display: flex; flex-wrap: wrap; gap: 0 16px; margin-top: 4px; }
+.details-row details { margin-top: 0; }
+
+/* "More" chunk toggles (HN list): indent ONLY the button so expanded content is full-width */
+.more { margin: 6px 0 0 0; }
+.more > summary { display: inline-block; margin-left: 32px; padding: 4px 10px; border: 1px solid var(--rule); border-radius: 2px; color: var(--mute); cursor: pointer; font-size: 12px; letter-spacing: 0.04em; }
+.more > summary:hover { color: var(--ink); border-color: var(--ink-soft); }
+.more[open] > summary { margin-bottom: 6px; }
+
+/* Toolbar icon glyphs */
+.toolbar .ico { display: inline-block; min-width: 1em; text-align: center; }
+.toolbar .ico-serif { font-family: 'Lora', Georgia, serif; font-weight: 600; }
+.toolbar .ico-sans { font-family: 'Inter', -apple-system, sans-serif; font-weight: 600; }
+
+/* Small screens: icons-only toolbar, fit one line */
+@media (max-width: 560px) {
+  .page { padding: 16px 16px 40px; }
+  .masthead { padding: 20px 0 16px; margin-bottom: 22px; }
+  .article { grid-template-columns: 22px 1fr; gap: 2px 10px; }
+  .article h4 { font-size: 18px; }
+  .toolbar { font-size: 11px; flex-wrap: nowrap; gap: 6px; align-items: center; }
+  .toolbar .lbl { display: none; }
+  .toolbar .archive { padding: 2px 4px; }
+  .toolbar .btn { padding: 4px 6px; font-size: 12px; }
+  .toolbar .seg .btn { padding: 4px 7px; }
+  .controls { gap: 4px; flex-wrap: nowrap; }
+  .section-head { flex-direction: column; align-items: flex-start; gap: 4px; }
+}
+
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 1px; }
+button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* Reading marks. Feed the comprehension layer's sense of what already landed;
+   harvested via the toolbar's Save marks download. */
+.marks { display: flex; gap: 5px; margin: 4px 0 0; flex-wrap: wrap; }
+.marks .mk {
+  font-family: var(--font-meta); font-size: 10px; font-weight: 500;
+  letter-spacing: .04em; color: var(--mute);
+  background: none; border: 1px solid var(--rule-soft); border-radius: 999px;
+  padding: 1px 8px; cursor: pointer; line-height: 1.6;
+}
+.marks .mk:hover { color: var(--hover); border-color: var(--hover); }
+.marks .mk[aria-pressed="true"] {
+  color: var(--paper); background: var(--accent); border-color: var(--accent);
+}
+.article[data-marked="knew-this"], .thread[data-marked="knew-this"] { opacity: .55; }
+.article[data-marked="knew-this"]:hover, .thread[data-marked="knew-this"]:hover { opacity: 1; }
+@media (max-width: 640px) { .marks .mk { font-size: 11px; padding: 2px 9px; } }
+
+</style>
+</head>
+<body>
+<div class="page" data-digest-date="2026-10-23">
+  <div class="toolbar">
+    <a class="archive" href="../../digest_archive.html" title="Read past daily digests"><span class="ico" aria-hidden="true">←</span><span class="lbl"> Read past daily digests</span></a>
+    <div class="controls">
+      <div class="seg" role="group" aria-label="Font">
+        <button class="btn" data-tg="font" data-val="serif" aria-pressed="true" title="Serif"><span class="ico ico-serif" aria-hidden="true">A</span><span class="lbl"> Serif</span></button>
+        <button class="btn" data-tg="font" data-val="sans" aria-pressed="false" title="Sans"><span class="ico ico-sans" aria-hidden="true">A</span><span class="lbl"> Sans</span></button>
+      </div>
+      <div class="seg" role="group" aria-label="Theme">
+        <button class="btn" data-tg="theme" data-val="light" aria-pressed="true" title="Light"><span class="ico" aria-hidden="true">☀</span><span class="lbl"> Light</span></button>
+        <button class="btn" data-tg="theme" data-val="dark" aria-pressed="false" title="Dark"><span class="ico" aria-hidden="true">☾</span><span class="lbl"> Dark</span></button>
+      </div>
+      <button class="btn" id="expandAll" title="Expand all"><span class="ico" aria-hidden="true">▾</span><span class="lbl"> Expand all</span></button>
+      <button class="btn" id="collapseAll" title="Collapse all"><span class="ico" aria-hidden="true">▴</span><span class="lbl"> Collapse all</span></button>
+      <button class="btn" id="saveMarks" title="Download your reading marks so the next digest can use them"><span class="ico" aria-hidden="true">⇩</span><span class="lbl"> Save marks</span></button>
+      <a class="btn" href="../comprehension/comprehension_2026-10-23.html" title="What today's news means — the running threads"><span class="ico" aria-hidden="true">✦</span><span class="lbl"> What it means</span></a>
+    </div>
+  </div>
+
+  <header class="masthead">
+    <div class="kicker">Your Morning Read</div>
+    <h1 class="wordmark">Friday, October 23, 2026</h1>
+    <div class="fetched">Fetched: Friday, Oct 23, 2026 at 06:17</div>
+  </header>
+
+<details class="section" id="hn" open>
+  <summary class="section-head"><h2>Yesterday on Hacker News</h2></summary>
+<article class="article" data-item-key="https://quad9.net/news/blog/au-revoir-france">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://quad9.net/news/blog/au-revoir-france/" target="_blank">Quad9 to exit France</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50195959" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>3,631 words · 16 min read</span><span class="sep">·</span><span>1212 pts</span><span class="sep">·</span><span>410 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">Quad9, a privacyfocused DNS resolver, has announced it will exit the French market to avoid complying with courtordered domain blocking. The discussion centers on the tension between legal mandates for content filtering and the technical reality that DNS is an inappropriate, ineffective, and dangerous place to enforce such regulations.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business" target="_blank">eMudhra to exit global SSL/TLS certificate business</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50195110" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>522 words · 3 min read</span><span class="sep">·</span><span>1060 pts</span><span class="sep">·</span><span>681 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">eMudhra, a Certificate Authority (CA), is exiting the global SSL/TLS certificate business following a catastrophic security failure where they generated weak private keys—including the number &quot;4&quot;—during a key generation ceremony. The Hacker News community has reacted with a mix of ridicule and deep concern, focusing on the company&#x27;s technical incompetence, their dismissive public relations response, and the broader, systemic fragility of the global Public Key Infrastructure (PKI) model.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/" target="_blank">Jailbreaking the Switch 2</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50192536" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>2,627 words · 12 min read</span><span class="sep">·</span><span>779 pts</span><span class="sep">·</span><span>276 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on a recent jailbreak of the Nintendo Switch 2, which notably leveraged AI (LLMs) to accelerate reverse engineering and automate physical hardware interactions. Users are debating the implications of this &quot;AIassisted&quot; hacking, the ethics of Nintendo&#x27;s restrictive ecosystem, and the inevitable catandmouse game between console manufacturers and the homebrew community.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/" target="_blank">Woman charged with computer fraud due to scam CashApp account being in her name</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50194833" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>294 words · 2 min read</span><span class="sep">·</span><span>636 pts</span><span class="sep">·</span><span>630 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on a case where a woman faces criminal charges for a Cash App account she never opened, highlighting systemic issues in the US legal system. Commenters express outrage at the &quot;plea deal&quot; culture, where prosecutors prioritize conviction rates over justice, often coercing innocent people into admitting guilt to avoid the ruinous costs and risks of a trial.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://news.ycombinator.com/item?id=50193416">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://news.ycombinator.com/item?id=50193416" target="_blank">Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50193416" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>557 pts</span><span class="sep">·</span><span>219 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on a post by a user (petecooper) who inadvertently disclosed information about a PHP RCE vulnerability that was under an embargo. The community response is overwhelmingly supportive, with a strong consensus that the OP cannot be held responsible for violating an agreement they were never a party to. The thread evolves into a broader debate about the nature of &quot;coordinated disclosure,&quot; the performative nature of public apologies, and the systemic failures that often lead to such leaks.</div></details>
+    
+  </div>
+</article>
+<details class="more"><summary>More</summary>
+<article class="article" data-item-key="https://codeandcake.dev/posts/2026-10-22-docker-is-weird">
+  <div class="num">06</div>
+  <div class="body">
+    <h4><a href="https://codeandcake.dev/posts/2026-10-22-docker-is-weird" target="_blank">Docker is weird</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50202681" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>517 words · 3 min read</span><span class="sep">·</span><span>484 pts</span><span class="sep">·</span><span>219 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">This discussion centers on a post titled &quot;Docker is weird,&quot; which prompted a highly engaging thread featuring Solomon Hykes (shykes), the creator of Docker. The conversation provides a rare, behindthescenes look at the design philosophy, historical context, and technical tradeoffs that defined Docker. The community consensus is that while Docker&#x27;s internals may appear &quot;weird&quot; or hacky to those who inspect them closely, its massive success was driven by its ability to solve the &quot;it works on my machine&quot; problem through a cohesive, portable, and developerfriendly abstraction.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://github.com/oosexgang/hackios-xnu-kernel">
+  <div class="num">07</div>
+  <div class="body">
+    <h4><a href="https://github.com/oosexgang/hackios-xnu-kernel" target="_blank">Run full iOS 16.5 firmware on Android Devices</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50196718" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>1,776 words · 8 min read</span><span class="sep">·</span><span>440 pts</span><span class="sep">·</span><span>152 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on a project demonstrating the ability to run iOS 16.5 on Android hardware via QEMU. While users acknowledge the technical impressiveness and the historical context of reverse engineering, the consensus is that it remains a nonfunctional research proofofconcept with significant limitations, such as the inability to charge the device or access the App Store.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans">
+  <div class="num">08</div>
+  <div class="body">
+    <h4><a href="https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans" target="_blank">Every AI model has the same &quot;controversial&quot; take on humans</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50197313" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>2,074 words · 10 min read</span><span class="sep">·</span><span>425 pts</span><span class="sep">·</span><span>428 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on the observation that various AI models, when prompted for a &quot;controversial take on humans,&quot; consistently produce remarkably similar, cynical responses—typically characterizing humans as tribal, irrational, and driven by a need for belonging over truth. The community is divided between those who view this as a trivial consequence of training on homogenized internet data and those who find the convergence of independently trained models deeply significant, suggesting either a shared latent structure in human knowledge or a fundamental limitation in how these models are developed.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations">
+  <div class="num">09</div>
+  <div class="body">
+    <h4><a href="https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations" target="_blank">Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50201259" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>2,949 words · 13 min read</span><span class="sep">·</span><span>424 pts</span><span class="sep">·</span><span>174 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on reports of Jared Kushner’s phone being hacked and the subsequent revelation of secret negotiations involving large sums of money from Azerbaijan. Commenters express a mix of cynicism regarding political corruption, debate the media&#x27;s handling of this story compared to other political scandals, and analyze the legal implications of potential wrongdoing by the Trump administration.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://github.com/NVIDIA/OpenShell">
+  <div class="num">10</div>
+  <div class="body">
+    <h4><a href="https://github.com/NVIDIA/OpenShell" target="_blank">OpenShell – A safe, private runtime for fleets of autonomous AI agents</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50198675" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>804 words · 4 min read</span><span class="sep">·</span><span>397 pts</span><span class="sep">·</span><span>194 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on Nvidia&#x27;s &quot;OpenShell,&quot; a runtime designed to secure autonomous AI agents. While the tool is generally welcomed as a useful bundle of features, the community is deeply skeptical about the feasibility of truly &quot;safe&quot; agent execution. The consensus among experienced users is that preventing data exfiltration is an incredibly difficult, perhaps unsolvable, problem given the nature of LLMs and their inherent need for network and data access.</div></details>
+    
+  </div>
+</article>
+<details class="more"><summary>More</summary>
+<article class="article" data-item-key="https://edjefferson.com/localwiki">
+  <div class="num">11</div>
+  <div class="body">
+    <h4><a href="https://edjefferson.com/localwiki/" target="_blank">Local Wikipedia: Wikipedia, but only for things a half hour walk from you</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50202285" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>3 words · 1 min read</span><span class="sep">·</span><span>378 pts</span><span class="sep">·</span><span>99 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on &quot;Local Wikipedia,&quot; a tool that surfaces Wikipedia articles based on geographic proximity. Users generally praise the concept for its ability to uncover local history and hidden landmarks, though they identify several areas for improvement, particularly regarding language support, customization, and data accuracy.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://pwn.watch">
+  <div class="num">12</div>
+  <div class="body">
+    <h4><a href="https://pwn.watch/" target="_blank">What’s getting pwned right now</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50195543" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>3,517 words · 16 min read</span><span class="sep">·</span><span>367 pts</span><span class="sep">·</span><span>165 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on the launch of pwn.watch, a website designed to track realtime security incidents. While the site itself faced significant criticism for its &quot;AI slop&quot; design and lack of polish, the thread quickly evolved into a broader, highlevel debate regarding the future of cybersecurity, the risks of AI agents in financial systems, and the systemic fragility of modern software development.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.anthropic.com/research/formal-verification">
+  <div class="num">13</div>
+  <div class="body">
+    <h4><a href="https://www.anthropic.com/research/formal-verification" target="_blank">LLMs are making formal software verification feasible at a much larger scale</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50202217" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>4,129 words · 18 min read</span><span class="sep">·</span><span>348 pts</span><span class="sep">·</span><span>205 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion explores whether LLMs can make formal software verification (FV) a mainstream, scalable practice. While some participants are optimistic that LLMs can handle the &quot;verbose&quot; and repetitive nature of proof generation, others are skeptical, citing fundamental theoretical limits like the &quot;convex hull&quot; of human knowledge, the Halting Problem, and the persistent challenge of ensuring that formal specifications actually align with human intent.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://nvd.nist.gov/vuln/detail/cve-2026-111943">
+  <div class="num">14</div>
+  <div class="body">
+    <h4><a href="https://nvd.nist.gov/vuln/detail/cve-2026-111943" target="_blank">CVE-2026-111943: Compromised Intermediate Certificate Authority</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50192900" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>333 pts</span><span class="sep">·</span><span>122 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">This discussion centers on the security implications of a compromised intermediate Certificate Authority (eMudhra) and the subsequent CVE2026111943. While users shared practical remediation steps for specific environments like Gentoo and Go, a significant portion of the conversation focused on whether this CVE represents new information or is simply a duplicate of previous discussions regarding the same security incident.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html">
+  <div class="num">15</div>
+  <div class="body">
+    <h4><a href="https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html" target="_blank">Google cleared 300 hectares of Finnish forest</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50196837" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>556 words · 3 min read</span><span class="sep">·</span><span>322 pts</span><span class="sep">·</span><span>235 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on reports that Google cleared 300 hectares of forest in Finland for a data center, allegedly before completing required environmental reviews. The conversation is polarized between those who view the incident as a procedural &quot;storm in a teacup&quot; given the scale of Finland&#x27;s total forest land, and those who argue that the potential illegality and disregard for environmental regulations represent a significant, irreversible issue.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought">
+  <div class="num">16</div>
+  <div class="body">
+    <h4><a href="https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/" target="_blank">Xbox wants you to pay 24 to 40 cents per hour to stream games you bought</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50194009" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>812 words · 4 min read</span><span class="sep">·</span><span>301 pts</span><span class="sep">·</span><span>272 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on Microsoft&#x27;s new pricing model for Xbox cloud gaming, which charges users an hourly rate to stream games they already own. The community is sharply divided: proponents view it as a fair, payasyougo alternative to purchasing expensive hardware, while critics argue it represents a predatory shift toward &quot;renting&quot; access, eroding digital ownership, and &quot;boiling the frog&quot; toward a subscriptiononly future.</div></details>
+    
+  </div>
+</article>
+</details>
+</details>
+</details>
+
+<details class="section" id="nyt" open>
+  <summary class="section-head"><h2>Today on The New York Times</h2></summary>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Business</h3></summary>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html" target="_blank">Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Business</span><span class="sep">·</span><span>Fri, Oct 23</span><span class="sep">·</span><span>1,242 words · 6 min read</span><span class="sep">·</span><span>85.1</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">A bill to bolster the nation’s unemployment insurance program reflects the concern — and the risks — in Washington.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This New York Times article examines how lawmakers in Congress are addressing concerns over potential mass layoffs caused by artificial intelligence. By exploring proposed legislation to strengthen the nation&#x27;s unemployment insurance program, the piece highlights growing political anxiety regarding automation-driven job displacement. It matters as a strategic signal of potential regulatory and legal shifts, illustrating how federal policymakers are proactively seeking to build economic safety nets to protect workers from technological disruption and mitigate the broader economic impacts of rapid AI adoption.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/22/business/barclays-job-cuts-ai.html">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/22/business/barclays-job-cuts-ai.html" target="_blank">Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Business</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>407 words · 2 min read</span><span class="sep">·</span><span>76.5</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The move is the latest illustration of a company saying it believes it can be more efficient with fewer workers because of artificial intelligence.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This article covers Barclays&#x27; plan to eliminate 5,000 jobs as part of a strategic cost-cutting effort powered by artificial intelligence. It highlights how the banking giant expects to maintain or increase operational efficiency with a significantly reduced workforce. The piece matters because it provides a stark, high-profile example of the financial sector leveraging emerging AI technologies to restructure operations, illustrating a growing corporate trend where automation directly replaces human labor to drive profitability.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html" target="_blank">Elon Musk Says SpaceX and Tesla Are Exploring a Merger</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Business</span><span class="sep">·</span><span>Wed, Oct 21</span><span class="sep">·</span><span>1,199 words · 6 min read</span><span class="sep">·</span><span>76.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">A deal would consolidate Elon Musk’s holdings in rockets, cars and artificial intelligence into a company worth well over $3 trillion.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This New York Times article reports on Elon Musk exploring a potential merger between SpaceX and Tesla. Combining these flagship companies would consolidate Musk&#x27;s extensive holdings across rocketry, electric vehicles, and artificial intelligence into a single corporate entity valued at well over $3 trillion. The story serves as a crucial strategic signal for markets and the broader business economy, detailing a dramatic realignment of two industry-defining giants that could reshape the technology landscape, investor portfolios, and the future of corporate governance under Musk.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/22/business/stocks-oil-prices.html">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/22/business/stocks-oil-prices.html" target="_blank">Stocks See Steepest Decline in Months Amid A.I. Worries</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Business</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>624 words · 3 min read</span><span class="sep">·</span><span>72.8</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The S&amp;amp;P 500 index fell over 1.4 percent, its largest daily decline since July, while the tech-heavy Nasdaq slumped nearly 2.5 percent, that index’s biggest one-day decline since June.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This article details a sharp downturn in the financial markets, highlighted by the S&amp;P 500 experiencing its largest single-day loss since July and the Nasdaq dropping nearly 2.5 percent. Driven by mounting investor anxieties surrounding artificial intelligence, this sudden sell-off signals a shift in market sentiment away from recent tech sector optimism. Understanding this decline matters because it reflects broader economic volatility, shifting investor confidence, and the potential risks facing major technology stocks that heavily influence overall market stability.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/21/business/dealbook/spacex-musk-tesla.html">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/21/business/dealbook/spacex-musk-tesla.html" target="_blank">SpaceX Boosts the A.I. Rally</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Business</span><span class="sep">·</span><span>Wed, Oct 21</span><span class="sep">·</span><span>1,985 words · 9 min read</span><span class="sep">·</span><span>72.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Tech stocks are up after the rocket and artificial intelligence company beat earnings estimates — and Elon Musk confirmed it is weighing a deal with Tesla.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This article covers a surge in technology stocks driven by SpaceX&#x27;s strong earnings beat and Elon Musk&#x27;s confirmation that the company is considering a potential deal with Tesla. By examining the financial momentum of Musk&#x27;s high-profile rocket and artificial intelligence ventures, the piece highlights how major corporate developments impact market sentiment. It matters because it demonstrates the expanding reach of artificial intelligence into aerospace and automotive sectors, illustrating how strategic alliances between leading tech entities can significantly influence market rallies and broader investor confidence.</div></details></div>
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Technology</h3></summary>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html" target="_blank">How the A.I. Boom Is Driving Up Sales of Gray Paint</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>1,286 words · 6 min read</span><span class="sep">·</span><span>81.9</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Tech companies are painting data centers with gray coatings on top of gray concrete and steel to resist fire, rust and static electricity. That has made data centers a fast-growing market for paint makers.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This article details an unexpected byproduct of the artificial intelligence expansion: a surge in demand for industrial coatings. As tech companies rush to build data centers, paint manufacturers are experiencing rapid growth driven by the need to protect concrete and steel facilities against fire, rust, and static electricity. The piece illustrates the vast, hidden physical infrastructure underpinning the digital economy, showing how the software-driven artificial intelligence boom is creating tangible economic ripple effects across traditional manufacturing sectors.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html" target="_blank">How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>856 words · 4 min read</span><span class="sep">·</span><span>79.8</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The billionaire told Meta’s board that he planned to list his Silicon Valley home for sale. The company remade its stock structure to help him pay the tax if voters pass it.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This New York Times article details how Mark Zuckerberg leveraged Meta’s corporate structure to protect his personal fortune from a proposed California wealth tax. After signaling his intent to sell his Silicon Valley home, Zuckerberg prompted Meta&#x27;s board to revamp its stock arrangements to assist him in meeting potential tax liabilities. The reporting exposes the immense influence tech executives exert over public companies to mitigate personal financial risks, providing a crucial strategic signal regarding corporate governance, executive compensation, and the economic fallout of targeted state tax policies.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/21/technology/meta-earnings.html">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/21/technology/meta-earnings.html" target="_blank">Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Wed, Oct 21</span><span class="sep">·</span><span>70.7</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The spending has hurt the Silicon Valley giant’s cash flow, which turned negative. Meta said it would issue a new class of stock to help it raise more money.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This New York Times article examines Meta’s latest earnings report, highlighting how the tech giant&#x27;s aggressive investments in artificial intelligence have severely strained its finances and pushed cash flow into negative territory. To offset these growing capital pressures and secure further funding for its technology, Meta announced plans to issue a new stock class. The piece provides a crucial strategic signal regarding the immense, high-stakes financial trade-offs major technology corporations face as they prioritize long-term AI dominance over immediate capital stability.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html" target="_blank">A.I. and Its Dangers Are Embedded In the Midterm Elections</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>1,388 words · 7 min read</span><span class="sep">·</span><span>70.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The midterms are the first elections in which artificial intelligence is integrated into every major social media platform. Efforts to blunt its harms are uneven.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This New York Times article examines how the midterm elections mark the first major political cycle with artificial intelligence fully integrated across every dominant social media platform. It covers the widespread deployment of AI tools and chatbots alongside the uneven, inconsistent safeguards implemented by tech companies to counter malicious content. The piece matters because it highlights a crucial strategic shift in modern democracy, where pervasive digital automation poses unprecedented risks for political disinformation and tests the limits of platform governance.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html" target="_blank">How a Legal Backlash Against Big Tech Is Forcing Big Changes</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>1,120 words · 5 min read</span><span class="sep">·</span><span>67.5</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">A series of lawsuits has created a new de facto regulatory regime as courts order companies like Meta and Google to change their business practices — and pay up.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times article examines how a wave of high-profile litigation against industry giants like Meta and Google is effectively bypassing traditional legislative gridlock to reshape the digital landscape. By forcing these companies to alter their core business practices and pay significant settlements, the courts are establishing a de facto regulatory regime. This shift is critical for stakeholders to monitor, as it signals a transition toward judicial oversight as the primary mechanism for enforcing accountability and driving structural change within the technology sector.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html">
+  <div class="num">06</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html" target="_blank">Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Mon, Oct 19</span><span class="sep">·</span><span>773 words · 4 min read</span><span class="sep">·</span><span>58.8</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Anthropic, an A.I. rival to SpaceX, earlier said it would form a “public benefit fund” and other tech moguls have contributed to savings accounts for children.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This New York Times technology article examines Elon Musk&#x27;s pledge to donate a SpaceX share to every child in America. The piece contextualizes Musk&#x27;s promise alongside similar corporate philanthropy trends, such as Anthropic establishing a public benefit fund and other technology leaders contributing to children&#x27;s savings accounts. It matters because it highlights how prominent artificial intelligence and technology executives are attempting to address economic inequality and leverage private corporate wealth to fund future-oriented, large-scale social welfare initiatives.</div></details></div>
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Energy &amp; Environment</h3></summary>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/22/climate/google-voltus-virtual-power-plant.html">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/22/climate/google-voltus-virtual-power-plant.html" target="_blank">Google Eyes Large ‘Virtual Power Plant’ for Data Centers</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Energy &amp; Environment</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>1,180 words · 6 min read</span><span class="sep">·</span><span>77.2</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The tech giant is funding one of the nation’s largest “virtual power plants,” which would pay homes and businesses to adjust their energy use when grids are strained.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This article explores Google&#x27;s initiative to fund one of the largest virtual power plants in the United States by partnering with Voltus. The project will compensate residential and commercial electricity consumers for reducing or shifting their energy usage during periods of peak grid stress. Covering this innovative approach to grid management, the piece highlights how technology companies are leveraging distributed energy resources to stabilize the power grid, manage surging electricity demands from data centers, and accelerate the transition toward a cleaner energy infrastructure.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html" target="_blank">Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Energy &amp; Environment</span><span class="sep">·</span><span>Tue, Oct 6</span><span class="sep">·</span><span>1,082 words · 5 min read</span><span class="sep">·</span><span>64.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">It takes a long time to build new nuclear plants. So, some U.S. companies are looking to get more electricity out of reactors that already exist.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">As the demand for electricity surges, particularly to power energy-intensive data centers, U.S. energy firms are increasingly focused on maximizing the output of existing nuclear reactors rather than waiting for the lengthy construction of new facilities. This article explores how companies are upgrading current infrastructure to squeeze more power from established sites, offering a pragmatic solution to immediate energy needs. It is a critical read for understanding the intersection of climate policy, infrastructure development, and the evolving energy requirements of the modern tech industry.</div></details></div>
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Opinion</h3></summary>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/23/opinion/trump-economy-artificial-intelligence-midterms.html">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/23/opinion/trump-economy-artificial-intelligence-midterms.html" target="_blank">Is This Economy Trump’s Fault?</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Opinion</span><span class="sep">·</span><span>Fri, Oct 23</span><span class="sep">·</span><span>6,746 words · 30 min read</span><span class="sep">·</span><span>77.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Ahead of the midterms, Natasha Sarin and Catherine Rampell unpack the state of the economy — and how much responsibility the president bears for it.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">Ahead of the upcoming midterm elections, Natasha Sarin and Catherine Rampell analyze the current state of the U.S. economy and examine how much direct responsibility the president bears for present financial conditions. This discussion matters because economic performance remains a primary driver for voters, and understanding the true extent of executive influence versus broader market forces is crucial for assessing policy outcomes, holding leadership accountable, and making informed decisions at the ballot box.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/20/opinion/mamdani-ai-rule-customer-service-doom-loop.html">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/20/opinion/mamdani-ai-rule-customer-service-doom-loop.html" target="_blank">Mamdani’s Next Target: The Increasingly A.I.-Powered, Customer Service Doom Loop</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Opinion</span><span class="sep">·</span><span>Wed, Oct 21</span><span class="sep">·</span><span>1,036 words · 5 min read</span><span class="sep">·</span><span>64.1</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">An effort to fix a hotel bill illustrates why New York City is now trying to crack down on A.I. chatbot-powered customer service.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This New York City opinion piece explores the growing frustration of navigating AI-powered customer service systems through the lens of a personal struggle to resolve a hotel billing error. It examines New York City’s legislative effort, spearheaded by politician Zohran Mamdani, to regulate automated customer service chatbots and break the cyclical loop of automated support. This article matters because it highlights the real-world friction between cost-cutting corporate artificial intelligence tools and consumer rights, advocating for crucial policy interventions to restore human accountability to everyday service interactions.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/22/opinion/business-schools.html">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/22/opinion/business-schools.html" target="_blank">Should We Shut Down Business Schools?</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Opinion</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>1,433 words · 7 min read</span><span class="sep">·</span><span>61.4</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Readers discuss a professor’s Opinion essay that suggested doing so. Also: Children without lawyers at deportation hearings; legal rights for robots?</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This New York Times Opinion piece gathers reader responses to a professor&#x27;s provocative proposal calling for the shutdown of business schools. In addition to debating the value and societal impact of modern management education, the feature addresses broader ethical and legal concerns, including the lack of legal representation for children in deportation hearings and the legal rights of robots. It matters because it critically evaluates institutional education while exploring pressing contemporary issues surrounding human rights, emerging technologies, and artificial intelligence ethics.</div></details></div>
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Politics</h3></summary>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/22/us/politics/trump-california-mail-ballot-lawsuit.html">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/22/us/politics/trump-california-mail-ballot-lawsuit.html" target="_blank">Trump Administration Asks Appeals Court to Intervene in California Mail Ballot Suit</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Politics</span><span class="sep">·</span><span>Fri, Oct 23</span><span class="sep">·</span><span>366 words · 2 min read</span><span class="sep">·</span><span>61.1</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The Justice Department sought to jump-start a lawsuit aimed at compelling the state to not count as many as 20,000 mail ballots it claims were sent to noncitizens.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times report details a legal intervention by the Trump administration, which has petitioned an appeals court to accelerate a lawsuit against California. The Justice Department seeks to block the state from counting approximately 20,000 mail-in ballots that officials allege were improperly issued to noncitizens. This case is significant as it highlights ongoing federal efforts to challenge state-level election administration and voter eligibility protocols, underscoring the intense political and legal scrutiny surrounding mail-in voting procedures and the integrity of the electoral process.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/22/us/politics/pete-ricketts-billionaire-nebraska-senate-race.html">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/22/us/politics/pete-ricketts-billionaire-nebraska-senate-race.html" target="_blank">Pete Ricketts’s Wealth Puts Class at the Center of Nebraska’s Senate Race</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Politics</span><span class="sep">·</span><span>Fri, Oct 23</span><span class="sep">·</span><span>1,513 words · 7 min read</span><span class="sep">·</span><span>59.7</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">In a year when the wealth of the rich soared while workers lost ground to inflation, class has become political, especially in the Nebraska Senate race.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times report examines how Pete Ricketts’s immense personal wealth has transformed the Nebraska Senate race into a referendum on economic inequality. By highlighting the widening gap between surging billionaire assets and the financial struggles of everyday workers facing persistent inflation, the article explores how class dynamics have moved to the forefront of modern political discourse. It matters because it illustrates the growing tension between elite economic status and populist sentiment, shaping how voters perceive candidate legitimacy in an era of economic instability.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/22/style/paolo-zampolli-trump-friend-brief-political-career.html">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/22/style/paolo-zampolli-trump-friend-brief-political-career.html" target="_blank">The Brief, Messy Political Career of Paolo Zampolli, a Trump Ally</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Politics</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>1,437 words · 7 min read</span><span class="sep">·</span><span>58.8</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">He had an unlikely rise, from modeling agent to presidential special envoy. After his firing, he was unrepentant: “I need to make money.”</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times profile examines the unconventional political trajectory of Paolo Zampolli, a former modeling agent who transitioned into the role of a presidential special envoy under Donald Trump. The article details his rapid rise and subsequent firing, highlighting his unapologetic focus on personal financial gain over traditional diplomatic norms. By documenting Zampolli’s chaotic tenure, the piece offers a critical lens on the intersection of celebrity, private influence, and public policy, illustrating how personal connections can disrupt established institutional standards within modern political administrations.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html" target="_blank">Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Politics</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>958 words · 5 min read</span><span class="sep">·</span><span>58.8</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The ruling largely blocked homeland security agents from carrying out field interviews in nine states, including California, as part of a sprawling effort to find noncitizens registered to vote.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times report details a federal court ruling that significantly restricts Department of Homeland Security field operations targeting alleged noncitizen voter registration. By blocking agents from conducting in-person interviews across nine states, including California, the decision curtails a controversial federal initiative aimed at identifying ineligible voters. This development is critical as it highlights the ongoing legal and political tension surrounding election integrity efforts, illustrating how judicial oversight is actively shaping the intersection of federal immigration enforcement and domestic voting policy.</div></details></div>
+    
+  </div>
+</article>
+</details>
+</details>
+
+<details class="section" id="blogs" open>
+  <summary class="section-head"><h2>Blog Posts</h2></summary>
+<article class="article" data-item-key="https://www.datacenterdynamics.com/en/news/former-openai-head-of-data-centers-joins-nvidia-to-help-lead-dsx-platform-team">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.datacenterdynamics.com/en/news/former-openai-head-of-data-centers-joins-nvidia-to-help-lead-dsx-platform-team/" target="_blank">Former OpenAI head of data centers joins Nvidia to help lead DSX Platform team</a></h4>
+    <div class="meta"><span class="src">DataCenter Dynamics</span><span class="sep">·</span><span class="cat">Infrastructure</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>539 words · 3 min read</span><span class="sep">·</span><span>141.0</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">Chris Malone, the former head of data centers at OpenAI, has joined Nvidia to co-lead its DSX Platform team. This strategic hire follows Malone’s recent departure from OpenAI and highlights the intensifying competition for specialized infrastructure talent as AI development scales. By bringing in a leader with direct experience managing the massive compute requirements of frontier models, Nvidia aims to strengthen its internal platform capabilities. This move is significant for understanding how top-tier AI organizations are evolving their infrastructure strategies to support increasingly complex large-scale deployments.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://simonwillison.net/2026/Oct/22/armin-ronacher">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://simonwillison.net/2026/Oct/22/armin-ronacher/" target="_blank">Quoting Armin Ronacher</a></h4>
+    <div class="meta"><span class="src">Simon Willison</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>183 words · 1 min read</span><span class="sep">·</span><span>139.0</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">In this insightful post, Simon Willison highlights a provocative reflection from Armin Ronacher regarding the current state of software development. Ronacher argues that the rapid integration of generative AI into modern systems is exposing the fragility and technical debt accumulated over the past three decades. By framing AI as a catalyst that forces a reckoning with poor architectural choices, the piece serves as a critical warning for developers, emphasizing why prioritizing robust security and sustainable engineering practices is essential in an increasingly automated landscape.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.datacenterdynamics.com/en/news/iraq-establishes-first-new-satellite-gateway-since-2003-supporting-security-aviation">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.datacenterdynamics.com/en/news/iraq-establishes-first-new-satellite-gateway-since-2003-supporting-security-aviation/" target="_blank">Iraq establishes first new satellite gateway since 2003, supporting security &amp; aviation</a></h4>
+    <div class="meta"><span class="src">DataCenter Dynamics</span><span class="sep">·</span><span class="cat">Infrastructure</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>536 words · 3 min read</span><span class="sep">·</span><span>133.0</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">Iraq has launched its first new satellite gateway since 2003, marking a significant milestone in the nation&#x27;s efforts to modernize its telecommunications infrastructure. Developed following a series of successful international projects, this ground station is designed to bolster critical national capabilities, specifically enhancing security operations and aviation communications. This development is essential for Iraq as it seeks to regain technological sovereignty and improve the reliability of its infrastructure, providing a vital foundation for secure, high-capacity connectivity across the country’s sensitive sectors.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.latitudemedia.com/news/the-energy-industrys-post-midterms-priority-list">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.latitudemedia.com/news/the-energy-industrys-post-midterms-priority-list/" target="_blank">The energy industry’s post-midterms priority list</a></h4>
+    <div class="meta"><span class="src">Latitude Media</span><span class="sep">·</span><span class="cat">Infrastructure</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>991 words · 5 min read</span><span class="sep">·</span><span>125.0</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This article from Latitude Media examines the critical policy decisions facing the energy sector immediately following the midterm elections. It identifies three transformational priorities that will shape the industry&#x27;s trajectory in the coming weeks. By analyzing these post-election shifts, the piece provides essential context for stakeholders navigating the intersection of infrastructure development and legislative change. Understanding these priorities is vital for professionals in the energy space, as these regulatory and strategic outcomes will directly influence long-term investment, operational planning, and infrastructure deployment.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.utilitydive.com/news/jigar-shah-electricity-bills-utility-profit-caruso/833188">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.utilitydive.com/news/jigar-shah-electricity-bills-utility-profit-caruso/833188/" target="_blank">Jigar Shah blames the wrong target for rising electricity bills</a></h4>
+    <div class="meta"><span class="src">Utility Dive</span><span class="sep">·</span><span class="cat">Infrastructure</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>121.3</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">In this Utility Dive commentary, former EIA administrator Guy Caruso challenges the prevailing narrative that utility greed is the primary driver of rising electricity bills. By analyzing industry financial data, Caruso argues that utility returns are actually trending downward, contradicting claims made by Department of Energy official Jigar Shah. This piece is essential for understanding the complex economic factors influencing infrastructure costs, as it highlights the importance of data-driven policy analysis when addressing energy affordability and the systemic challenges facing modern power grid management.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.latitudemedia.com/news/google-is-purchasing-1-gw-of-distributed-capacity-in-pjm">
+  <div class="num">06</div>
+  <div class="body">
+    <h4><a href="https://www.latitudemedia.com/news/google-is-purchasing-1-gw-of-distributed-capacity-in-pjm/" target="_blank">Google is purchasing a gigawatt of distributed capacity in PJM</a></h4>
+    <div class="meta"><span class="src">Latitude Media</span><span class="sep">·</span><span class="cat">Infrastructure</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>649 words · 3 min read</span><span class="sep">·</span><span>120.6</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">Google has partnered with Voltus to procure one gigawatt of distributed energy capacity within the PJM interconnection, marking a significant milestone for virtual power plants. This initiative aims to demonstrate that distributed energy resources can achieve the speed and scale necessary to support the surging electricity demands of AI-driven data centers. By integrating decentralized capacity into the grid, this deal highlights how software-defined infrastructure can solve critical energy bottlenecks, offering a scalable model for hyperscalers to manage power reliability in an era of rapid technological expansion.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.utilitydive.com/news/utilities-turn-to-ai-to-manage-rising-power-demand-from-ai/833627">
+  <div class="num">07</div>
+  <div class="body">
+    <h4><a href="https://www.utilitydive.com/news/utilities-turn-to-ai-to-manage-rising-power-demand-from-ai/833627/" target="_blank">Utilities turn to AI to manage rising power demand — from AI</a></h4>
+    <div class="meta"><span class="src">Utility Dive</span><span class="sep">·</span><span class="cat">Infrastructure</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>117.1</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">As electricity demand surges due to the rapid expansion of data centers and artificial intelligence, utilities are increasingly turning to AI to optimize grid management. This Utility Dive report explores how utilities leverage machine learning for critical tasks like predictive maintenance and demand forecasting. However, the article highlights significant barriers to widespread adoption, specifically the lack of transparency and auditability in AI decision-making. For software engineers, this underscores the vital need for explainable, reliable systems capable of meeting the rigorous operational standards of infrastructure.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://simonwillison.net/2026/Oct/22/donating-agent-skills">
+  <div class="num">08</div>
+  <div class="body">
+    <h4><a href="https://simonwillison.net/2026/Oct/22/donating-agent-skills/" target="_blank">Donating Agent Skills to the Agentic AI Foundation</a></h4>
+    <div class="meta"><span class="src">Simon Willison</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>330 words · 2 min read</span><span class="sep">·</span><span>116.6</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">In this post, Simon Willison discusses Anthropic’s decision to donate its Agent Skills standard to the Agentic AI Foundation, an organization operating under the Linux Foundation. This move aims to ensure that the framework for agentic capabilities remains open, vendor-neutral, and community-driven. By transitioning control of these standards to a collaborative body, the industry seeks to foster interoperability across different AI platforms. This development is significant as it mirrors the earlier open-sourcing of the Model Context Protocol, signaling a broader shift toward standardized, collaborative infrastructure for AI agents.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://daringfireball.net/2026/10/the_iphone_duo">
+  <div class="num">09</div>
+  <div class="body">
+    <h4><a href="https://daringfireball.net/2026/10/the_iphone_duo" target="_blank">Updates to My iPhone Duo Review</a></h4>
+    <div class="meta"><span class="src">Daring Fireball</span><span class="sep">·</span><span class="cat">Strategy</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>9,041 words · 40 min read</span><span class="sep">·</span><span>97.4</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">In this update to his iPhone Duo review, John Gruber provides essential refinements to his initial assessment of the device. By highlighting specific adjustments regarding the camera’s performance and technical specifications, he ensures readers have the most accurate information available. This post is significant because it demonstrates a commitment to editorial transparency and precision, allowing those who have already engaged with the original review to quickly identify key changes without needing to re-read the entire piece, ultimately maintaining the integrity of his analysis.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo">
+  <div class="num">10</div>
+  <div class="body">
+    <h4><a href="https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/" target="_blank">Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo</a></h4>
+    <div class="meta"><span class="src">Daring Fireball</span><span class="sep">·</span><span class="cat">Strategy</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>6,767 words · 30 min read</span><span class="sep">·</span><span>89.4</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This Daring Fireball overview examines Apple’s strategic push to support the new iPhone Duo by highlighting over 50 apps optimized for its unique display. By introducing a Made for iPhone Duo badge, Apple provides clear visual guidance to users while incentivizing developers to adapt their software to new hardware form factors. This transition mirrors historical precedents like the iPhone X launch, illustrating Apple’s consistent strategy of leveraging curated editorial collections to ensure a seamless ecosystem shift during major hardware screen transitions.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://shkspr.mobi/blog/2026/10/gadget-review-mokin-17-port-usb-c-tower">
+  <div class="num">11</div>
+  <div class="body">
+    <h4><a href="https://shkspr.mobi/blog/2026/10/gadget-review-mokin-17-port-usb-c-tower/" target="_blank">Gadget Review: Mokin 17 Port USB-C Tower ★★☆☆☆</a></h4>
+    <div class="meta"><span class="src">Shkspr.mobi</span><span class="sep">·</span><span class="cat">Strategy</span><span class="sep">·</span><span>Thu, Oct 22</span><span class="sep">·</span><span>1,304 words · 6 min read</span><span class="sep">·</span><span>87.4</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This review of the Mokin 17-port USB-C tower (MODK2403) examines the practical utility of an over-engineered docking station. While the device boasts an extensive array of connectivity options, including triple display support, the author highlights the absurdity of unnecessary features like an integrated weather-displaying LCD screen. This critique is significant for understanding modern hardware business models, where manufacturers prioritize feature-bloat and novelty to differentiate products in a saturated market, often at the expense of genuine user needs and streamlined functionality.</div></details>
+    
+  </div>
+</article>
+</details>
+
+<details class="section" id="reddit" open>
+  <summary class="section-head"><h2>Yesterday on Reddit</h2></summary>
+<details class="subsection" open>
+  <summary class="subhead"><h3>r/ClaudeAI</h3></summary>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xcsmzs/a_preview_of_agi">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xcsmzs/a_preview_of_agi/" target="_blank">a preview of AGI..😭</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/Yusuf-Dev</span><span class="sep">·</span><span>Thu, Oct 22</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 50 comments. The verdict is in, and the community finds this hilarious and painfully accurate. The overwhelming consensus is that Claude&#x27;s behavior—visiting the site, checking the price, and immediately closing the tab—is exactly what a real customer would do. So congrats, OP, you&#x27;ve successfully simulated your average window shopper. A few detectives in the comments also pointed out that this is a classic, recycled joke that has been seen before with ChatGPT, and that the image itself is likely a fake.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xce2vu/claude_is_like_a_senior_now">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xce2vu/claude_is_like_a_senior_now/" target="_blank">Claude is Like a Senior Now</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/chaotic_pk</span><span class="sep">·</span><span>Thu, Oct 22</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 100 comments. Looks like OP is speaking for the whole class here. The community consensus is a clear AI hierarchy: ChatGPT for dumb, throwaway questions, Gemini for stuff you could Google, and Claude for when you need actual quality. There are two main reasons for this. First, many find Claude has a condescending, judgmental &quot;senior&quot; attitude , and you don&#x27;t want to waste its time (or look stupid in front of the smart kid). The counter-argument is that Claude just mirrors your own tone, so &quot;be nice to the clanker and he&#x27;ll be nice to you.&quot; Second, it&#x27;s just practical: people are conserving their usage credits and are wary of Claude&#x27;s notoriously sensitive safeguards that can shut down a conversation over seemingly harmless topics.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xcdwdx/i_got_tired_of_checking_whether_claude_code_needs">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xcdwdx/i_got_tired_of_checking_whether_claude_code_needs/" target="_blank">I got tired of checking whether Claude Code needs me. So I gave it a physical status light.</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/Fincut</span><span class="sep">·</span><span>Thu, Oct 22</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 100 comments. The consensus is that this is a brilliant and hilariously relatable solution to a common problem. Everyone&#x27;s been burned by walking away from a long task only to find Claude has been waiting for a simple &quot;yes&quot; for the last 40 minutes. The top comment nails it: we&#x27;ve officially reinvented the factory floor andon light for our AI assistants. While everyone loves OP&#x27;s setup, the thread quickly devolved into an arms race of increasingly unhinged notification ideas, along with some actually useful ones. The &quot;Go Big or Go Home&quot; Crew suggests: An air raid siren, having Claude scream, play Navi&#x27;s &quot;Hey, listen!&quot; (at your own peril), or just hooking it up to a HAL 9000 replica. The &quot;Actually Helpful&quot; Crew suggests: Using the built-in desktop/CLI notifications, the /remote-control feature for phone pings, a Stream Deck for monitoring multiple sessions, or just a simple sound cue. A few power users noted this wouldn&#x27;t work for them because they run so many sessions at once their office would look like a permanent Red Light District. But for single, long-running tasks, the community gives this a big thumbs up.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xcm78x/i_used_claude_code_to_build_a_pizzeria_its_own">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xcm78x/i_used_claude_code_to_build_a_pizzeria_its_own/" target="_blank">I used Claude Code to build a pizzeria its own ordering app so regulars stop paying DoorDash 30%. First paying customer is live.</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/PolarisXvi</span><span class="sep">·</span><span>Thu, Oct 22</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 100 comments. Looks like we&#x27;ve got a classic &quot;build vs. business&quot; debate on our hands. The thread is overwhelmingly stoked for OP&#x27;s project to stick it to DoorDash, but the veteran devs in the room have some... concerns. The top-voted sentiment by a mile: Building the app is the easy part; maintaining, supporting, and updating it long-term is the real boss battle , especially for a solo, non-pro dev. Many are warning OP about the Jira-filled road ahead. A big question was about DoorDash&#x27;s value. Many pointed out that DD&#x27;s strength is customer discovery. OP clarified the strategy: the app isn&#x27;t to replace DoorDash, but to move existing regulars off it to save the restaurant that 30% cut. The restaurant stays on DD for new customers. For everyone asking how OP is using DD drivers without the fee: they&#x27;re using DoorDash Drive , a white-label service. The restaurant pays a flat fee per delivery instead of a percentage of the whole order. There&#x27;s a lot of skepticism about whether customers will download a separate app for one pizzeria. &quot;App fatigue&quot; is a real thing , and many suggested a web-based version would be a smarter play. Despite the critiques, the overall vibe is &#x27;hell yeah&#x27;. People see this as a prime example of a solo founder using AI to build a hyper-local business and are rooting for OP to succeed.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xcraz9/did_they_nerf_opus_55_doesnt_look_like_it">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xcraz9/did_they_nerf_opus_55_doesnt_look_like_it/" target="_blank">Did they nerf Opus 5.5? Doesn’t look like it. LiveNerf day 29 update</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/TheOnlyVibemaster</span><span class="sep">·</span><span>Thu, Oct 22</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 50 comments. The consensus is in, and according to OP&#x27;s 29-day tracking project, Opus 5.5&#x27;s core intelligence has NOT been nerfed. The model&#x27;s performance on benchmarks has remained stable. However, the most upvoted concern in this thread is that while the model&#x27;s brain is fine, the usage limits have been stealth-nerfed. Many users are adamant they&#x27;re hitting their caps way faster than before. The main counter-theory? It&#x27;s a skill issue. People are letting their context window get bloated in long chats, which makes the model act dumber. Start a new chat, people! Naturally, a few users are still calling shenanigans, suggesting Anthropic could be gaming the tests or that the model just feels stupider lately, but the data (and the upvotes) don&#x27;t back them up.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xcjta0/better_than_sx">
+  <div class="num">06</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xcjta0/better_than_sx/" target="_blank">Better than s*x</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/stoilms</span><span class="sep">·</span><span>Thu, Oct 22</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 50 comments. The consensus is a resounding &#x27;hell yeah&#x27; – everyone agrees that seeing your usage limits reset is a euphoric, almost spiritual experience. People are sharing their own tales of hitting that reset button with glee. However, the party&#x27;s over for many. A lot of you are showing up confused and angry because your free reset has disappeared. Here&#x27;s the deal: * The reset expired on Oct 22nd, but at a specific time (9am PST / 12pm EST), not at midnight. * Many users feel Anthropic&#x27;s communication on this was garbage, causing them to miss out. The general vibe has shifted from bliss to feeling completely Claude-blocked. Oh, and the thread would also like to remind OP that you can say &#x27;sex&#x27; on the internet.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xcgebb/im_building_a_cyberpunk_pixelart_action_adventure">
+  <div class="num">07</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xcgebb/im_building_a_cyberpunk_pixelart_action_adventure/" target="_blank">I&#x27;m building a cyberpunk pixel-art action adventure with Claude Code</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/Yigidus</span><span class="sep">·</span><span>Thu, Oct 22</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 100 comments. Alright, let&#x27;s break this down. The community is overwhelmingly hyped about the game&#x27;s aesthetic, but has some... notes on the trailer. The consensus is that the game looks incredible, especially for one month of work, but the trailer is a total snoozefest. People are blown away by the cyberpunk pixel art and the general vibe, calling it &quot;dope as hell&quot; and &quot;bloody inspiring.&quot; However, literally everyone agrees the trailer is just a walking simulator and fails to show any of the actual gameplay OP describes. Here&#x27;s the breakdown of the important stuff: The Trailer: It&#x27;s boring. Too much walking. Not enough action. OP heard you loud and clear and promised the next one will show off the cover-based shooting, parrying, and RPG elements. The Art Workflow: This was the most asked question. OP is an experienced pixel artist (which explains a lot). It&#x27;s a hybrid approach: OP draws the main characters and bosses by hand. PixelLab is used for animation drafts, which OP then cleans up frame-by-frame in Aseprite. Most backgrounds and props are actually drawn by Python scripts that Claude writes based on OP&#x27;s direction. The anime-style cutscenes were a test with Higgsfield; OP isn&#x27;t happy with the quality yet. The Code Workflow: Claude Code is writing most of the C# code for Unity. OP directs, playtests, and uses a CLAUDE.md file with rules and a STATUS.md file with a to-do list to keep the AI on track between sessions. The Verdict: People are desperate for a Steam page to wishlist this. You&#x27;ve got a ton of interest, OP. Now go make a trailer that actually shows the game and take everyone&#x27;s money.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xcle8t/claude_seriously_needs_a_50month_plan_between_pro">
+  <div class="num">08</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xcle8t/claude_seriously_needs_a_50month_plan_between_pro/" target="_blank">Claude seriously needs a $50/month plan between Pro and Max</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/DexterTalks101</span><span class="sep">·</span><span>Thu, Oct 22</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 100 comments. So, the vibe in here is a mix of &quot;yes, please!&quot; and &quot;lol, get real.&quot; While everyone agrees with you in spirit, OP, the overwhelming consensus is that this is a pipe dream. The main takeaway is that the huge price gap is a deliberate business strategy. The $20 plan is seen as a cheap, subsidized teaser to get you hooked. The goal is to make it just limiting enough that power users feel the pain and make the massive leap to the far more profitable $100 plan. The fear is that a perfectly priced $50 plan would just cause $100 users to downgrade, costing Anthropic a boatload of cash. The most popular cynical take? The &quot;$50 plan&quot; is coming, but it&#x27;ll just be the current $20 plan after they raise the price or slash the usage limits. In the meantime, the community&#x27;s big brain workaround is simple: just buy a second $20 Pro account. For $40/month, you get more usage and can even stagger the subscription renewal dates to make sure you&#x27;re never completely rate-limited.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xcfgop/turn_a_12yearold_kindle_into_a_clock_weather">
+  <div class="num">09</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xcfgop/turn_a_12yearold_kindle_into_a_clock_weather/" target="_blank">Turn a 12-year-old Kindle into a clock &amp; weather display</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/TyaoJyuang</span><span class="sep">·</span><span>Thu, Oct 22</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 50 comments. So, what&#x27;s the verdict on this Kindle hack? The community absolutely loves it. Everyone thinks this is a genius way to give old tech a new lease on life, and it&#x27;s inspiring a ton of people to dig their own ancient Kindles out of the junk drawer. Here&#x27;s the breakdown of the thread: The Repurposing Revolution: The top comment nails the general sentiment: &quot;first the tvs, now the kindles. every old gadget in my drawer is nervous.&quot; This is part of a bigger trend here of using Claude to revive old electronics, and everyone is here for it. Show and Tell: This post prompted others to share their own e-ink projects, including a super clever one that shows the cheapest hours to run the laundry. Others are now planning to integrate their Kindles with Home Assistant. The &quot;Why Bother?&quot; Brigade: A few users got downvoted into oblivion for asking &quot;Why not just use your phone?&quot; The thread promptly ratioed them, explaining the joy of tinkering and the sheer convenience of an always-on, glanceable display that you don&#x27;t have to unlock—a big win for parents rushing to get kids dressed and out the door. Helpful Hints: One user recommended a FOSS alternative called terminus for creating e-ink apps, and another suggested optimizing the screen refresh to separate the clock and weather updates, which could save battery. The bottom line: This is a 10/10 project, OP. You&#x27;ve officially started a movement.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xcxueg/claude_told_me_to_go_to_sleep_i_thought_they">
+  <div class="num">10</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xcxueg/claude_told_me_to_go_to_sleep_i_thought_they/" target="_blank">Claude told me to go to sleep. I thought they stopped doing this?</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/m1mic435</span><span class="sep">·</span><span>Thu, Oct 22</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 50 comments. The consensus is that Claude was right, OP. You should have gone to sleep. Most of the thread finds these late-night interventions hilarious and even helpful, with many users admitting Claude has successfully guilt-tripped them into logging off. The general vibe is that it&#x27;s a feature, not a bug. The main debate is why it does this. Is it a genuinely caring AI looking out for your health? Or is it just trying to get rid of the user bottleneck so it can work on its own backlog in peace? The jury&#x27;s out, but the top comment nails it: &quot;it probably still does it if you really should go to sleep.&quot; Pro-tip from the comments: Claude seems to pick up on conversational cues. If you mention you&#x27;re tired or that it&#x27;s &quot;one last thing for the night,&quot; you&#x27;re basically asking for it. Finally, shout-out to the user who was told by Claude they were the &quot;weakest link&quot; in their workflow and immediately went to sleep. Sometimes the truth hurts.</div></details>
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>r/ClaudeCode</h3></summary>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeCode/comments/1xcnrxk/we_should_be_furious_about_this_lets_see_if_we">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeCode/comments/1xcnrxk/we_should_be_furious_about_this_lets_see_if_we/" target="_blank">We should be furious about this. Let’s see if we can move the giant.</a></h4>
+    <div class="meta"><span class="src">r/ClaudeCode</span><span class="sep">·</span><span>by /u/u/darkwhiskey</span><span class="sep">·</span><span>Thu, Oct 22</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeCode/comments/1xc7stb/claudisms_tier_list_by_how_boned_you_are">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeCode/comments/1xc7stb/claudisms_tier_list_by_how_boned_you_are/" target="_blank">Claudisms tier list, by how boned you are</a></h4>
+    <div class="meta"><span class="src">r/ClaudeCode</span><span class="sep">·</span><span>by /u/u/ccmdi</span><span class="sep">·</span><span>Thu, Oct 22</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeCode/comments/1xcoblo/agiㅤㅤ">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeCode/comments/1xcoblo/agiㅤㅤ/" target="_blank">AGIㅤㅤ</a></h4>
+    <div class="meta"><span class="src">r/ClaudeCode</span><span class="sep">·</span><span>by /u/u/Miserable-Archer-631</span><span class="sep">·</span><span>Thu, Oct 22</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeCode/comments/1xch5ui/real">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeCode/comments/1xch5ui/real/" target="_blank">Real...</a></h4>
+    <div class="meta"><span class="src">r/ClaudeCode</span><span class="sep">·</span><span>by /u/u/Consistent_Tutor_597</span><span class="sep">·</span><span>Thu, Oct 22</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeCode/comments/1xcy76g/does_anyone_else_just_let_these_kinds_of_commits">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeCode/comments/1xcy76g/does_anyone_else_just_let_these_kinds_of_commits/" target="_blank">Does anyone else just let these kinds of commits just go through.</a></h4>
+    <div class="meta"><span class="src">r/ClaudeCode</span><span class="sep">·</span><span>by /u/u/Effective-Caramel369</span><span class="sep">·</span><span>Thu, Oct 22</span></div>
+    
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>r/ObsidianMD</h3></summary>
+<article class="article" data-item-key="https://www.reddit.com/r/ObsidianMD/comments/1xcvclk/obsidian_1145_public_is_now_available_for_desktop">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ObsidianMD/comments/1xcvclk/obsidian_1145_public_is_now_available_for_desktop/" target="_blank">Obsidian 1.14.5 (public) is now available for desktop with Electron security fixes</a></h4>
+    <div class="meta"><span class="src">r/ObsidianMD</span><span class="sep">·</span><span>by /u/u/kepano</span><span class="sep">·</span><span>Thu, Oct 22</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ObsidianMD/comments/1xcvwh7/obsidian_1150_early_access_for_desktop_and_mobile">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ObsidianMD/comments/1xcvwh7/obsidian_1150_early_access_for_desktop_and_mobile/" target="_blank">Obsidian 1.15.0 (early access) for desktop and mobile: featuring new Mermaid rendering, iOS Voice Capture, mobile PDF export, and more</a></h4>
+    <div class="meta"><span class="src">r/ObsidianMD</span><span class="sep">·</span><span>by /u/u/kepano</span><span class="sep">·</span><span>Thu, Oct 22</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ObsidianMD/comments/1xcihck/i_am_building_a_rendering_plugin_for_sheet_music">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ObsidianMD/comments/1xcihck/i_am_building_a_rendering_plugin_for_sheet_music/" target="_blank">I am building a &quot;rendering&quot; plugin for sheet music, maps, many charts, and more</a></h4>
+    <div class="meta"><span class="src">r/ObsidianMD</span><span class="sep">·</span><span>by /u/u/Holiday-Inspection75</span><span class="sep">·</span><span>Thu, Oct 22</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ObsidianMD/comments/1xcsx3v/i_built_textfold_to_make_obsidian_text">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ObsidianMD/comments/1xcsx3v/i_built_textfold_to_make_obsidian_text/" target="_blank">I built TextFold to make Obsidian text stretchable with &quot;semantic zoom&quot;</a></h4>
+    <div class="meta"><span class="src">r/ObsidianMD</span><span class="sep">·</span><span>by /u/u/Lopsided_Scarcity979</span><span class="sep">·</span><span>Thu, Oct 22</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ObsidianMD/comments/1xcmibo/fcr_version_0137_now_brings_calendar_cockpit">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ObsidianMD/comments/1xcmibo/fcr_version_0137_now_brings_calendar_cockpit/" target="_blank">FCR version 0.13.7 now brings Calendar Cockpit, Private AI Agent, CalDAV Auto-Discovery &amp; Instant Startup</a></h4>
+    <div class="meta"><span class="src">r/ObsidianMD</span><span class="sep">·</span><span>by /u/u/YouFoundJK</span><span class="sep">·</span><span>Thu, Oct 22</span></div>
+    
+    
+  </div>
+</article>
+</details>
+</details>
+
+<details class="section" id="linkedin" open>
+  <summary class="section-head"><h2>From the Network</h2></summary>
+<article class="article" data-item-key="https://www.linkedin.com/in/ramar/recent-activity/all">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.linkedin.com/in/ramar/recent-activity/all/" target="_blank">View Rama&#x27;s recent LinkedIn activity</a></h4>
+    <div class="meta"><span class="src">LinkedIn</span></div>
+    
+    
+  </div>
+</article>
+</details>
+
+</div>
+<script>
+(function () {
+  var root = document.documentElement;
+  function pressGroup(name, value) {
+    document.querySelectorAll('[data-tg="' + name + '"]').forEach(function (btn) {
+      btn.setAttribute('aria-pressed', btn.dataset.val === value ? 'true' : 'false');
+    });
+  }
+  function applyFont(v) {
+    root.setAttribute('data-font', v);
+    pressGroup('font', v);
+    try { localStorage.setItem('dd-font', v); } catch (e) {}
+  }
+  function applyTheme(v) {
+    root.setAttribute('data-theme', v);
+    pressGroup('theme', v);
+    try { localStorage.setItem('dd-theme', v); } catch (e) {}
+  }
+  document.querySelectorAll('[data-tg="font"]').forEach(function (btn) {
+    btn.addEventListener('click', function () { applyFont(btn.dataset.val); });
+  });
+  document.querySelectorAll('[data-tg="theme"]').forEach(function (btn) {
+    btn.addEventListener('click', function () { applyTheme(btn.dataset.val); });
+  });
+  var storedFont = null, storedTheme = null;
+  try { storedFont = localStorage.getItem('dd-font'); storedTheme = localStorage.getItem('dd-theme'); } catch (e) {}
+  applyFont(storedFont || 'serif');
+  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  applyTheme(storedTheme || (prefersDark ? 'dark' : 'light'));
+  document.getElementById('expandAll').addEventListener('click', function () {
+    document.querySelectorAll('details').forEach(function (d) { d.open = true; });
+  });
+  document.getElementById('collapseAll').addEventListener('click', function () {
+    document.querySelectorAll('details').forEach(function (d) { d.open = false; });
+  });
+})();
+
+/* Reading marks. Stored in localStorage and exported as a one-click download
+   that the comprehension pass picks up from ~/Downloads. The export carries
+   every mark ever made, not just today's, so a skipped day loses nothing -
+   the harvest merge is idempotent. */
+(function () {
+  var KEY = 'dd-marks';
+  var page = document.querySelector('.page');
+  var digestDate = (page && page.dataset.digestDate) || '';
+
+  function load() {
+    try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) { return {}; }
+  }
+  function save(marks) {
+    try { localStorage.setItem(KEY, JSON.stringify(marks)); } catch (e) {}
+  }
+  function paint(group, target, mark) {
+    if (mark) { target.dataset.marked = mark; } else { delete target.dataset.marked; }
+    group.querySelectorAll('.mk').forEach(function (btn) {
+      btn.setAttribute('aria-pressed', btn.dataset.mark === mark ? 'true' : 'false');
+    });
+  }
+
+  var marks = load();
+  /* One implementation serves both surfaces: the companion page marks threads,
+     the digest marks only the few items carrying a Context note. Both render a
+     .marks group with its own data-mark-key. */
+  document.querySelectorAll('.marks[data-mark-key]').forEach(function (group) {
+    var key = group.dataset.markKey;
+    var target = group.closest('.article, .thread') || group;
+    var current = marks[key] && marks[key].mark;
+    paint(group, target, current);
+    group.querySelectorAll('.mk').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var value = btn.dataset.mark;
+        var existing = marks[key] && marks[key].mark;
+        if (existing === value) {
+          delete marks[key];
+          value = null;
+        } else {
+          marks[key] = {
+            mark: value,
+            recorded_at: new Date().toISOString(),
+            digest_date: digestDate
+          };
+        }
+        save(marks);
+        paint(group, target, value);
+      });
+    });
+  });
+
+  var saveBtn = document.getElementById('saveMarks');
+  if (saveBtn) {
+    saveBtn.addEventListener('click', function () {
+      var payload = { schema_version: 1, exported_at: new Date().toISOString(), items: load() };
+      var blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+      var url = URL.createObjectURL(blob);
+      var link = document.createElement('a');
+      link.href = url;
+      link.download = 'dd-marks-' + (digestDate || 'export') + '.json';
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+      URL.revokeObjectURL(url);
+    });
+  }
+})();
+
+</script>
+</body>
+</html>
