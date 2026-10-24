@@ -1,9 +1,77 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-23 · 9760 items*
+*Last updated: 2026-10-24 · 9828 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-23 | Kimi K3.1 Pro and K3.1 Pro Highspeed | HN | Technology | tech | 2026-10-23 | [link](https://www.kimi.ai/blog/kimi-k3-1-pro) |
+| 2026-10-23 | Today, we hacked what we'd set out to hack: the iPhone | HN | Technology | tech | 2026-10-23 | [link](https://blog.calif.io/p/iphone) |
+| 2026-10-23 | Apple Music 404 Not Found | HN | Technology | tech | 2026-10-23 | [link](https://music.apple.com/this-url-doesnt-exist) |
+| 2026-10-23 | Investor-owned utilities charge 23% more for electricity than public providers | HN | Technology | tech | 2026-10-23 | [link](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities) |
+| 2026-10-23 | Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown | HN | Technology | tech | 2026-10-23 | [link](https://keepandroidopen.org/?) |
+| 2026-10-23 | Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier | HN | Technology | tech | 2026-10-23 | [link](https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/) |
+| 2026-10-23 | Dessa: Conversation Model trained only on speech | HN | Technology | tech | 2026-10-23 | [link](https://block.xyz/dessa) |
+| 2026-10-23 | Now Google says it might use your Gmail and Google Photos data to target ads | HN | Technology | tech | 2026-10-23 | [link](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update) |
+| 2026-10-23 | Swedish government offices to ban ChatGPT and Claude | HN | Technology | tech | 2026-10-23 | [link](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet) |
+| 2026-10-23 | Dutch government had hacked into Jared Kushner's phone | HN | Technology | tech | 2026-10-23 | [link](https://twitter.com/jaredkushner/status/2113376217415958767) |
+| 2026-10-23 | eMudhra ignored Mozilla Root investigation deadline; blames social media | HN | Technology | tech | 2026-10-23 | [link](https://bugzilla.mozilla.org/show_bug.cgi?id=2083449) |
+| 2026-10-23 | Twelve years of distributed SQLite | HN | Technology | tech | 2026-10-23 | [link](https://philipotoole.com/twelve-years-of-distributed-sqlite/) |
+| 2026-10-23 | Remove pgrust: the entry is cheating (per-query kernels and result caching) | HN | Technology | tech | 2026-10-23 | [link](https://github.com/ClickHouse/ClickBench/pull/2165) |
+| 2026-10-23 | OpenSSL 4.1.0 | HN | Technology | tech | 2026-10-23 | [link](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0) |
+| 2026-10-23 | Job loss and cortisone mania | HN | Technology | tech | 2026-10-23 | [link](https://tilschuenemann.de/job-loss-cortisone-mania) |
+| 2026-10-23 | Is this the new cyber normal? | HN | Technology | tech | 2026-10-23 | [link](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/) |
+| 2026-10-23 | Why Anger About Data Centers and Energy Prices May Not Swing Votes | NYT · Energy & Environment | Energy & Environment | news | 2026-10-23 | [link](https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html) |
+| 2026-10-23 | Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers | NYT · Business | Business | news | 2026-10-24 | [link](https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html) |
+| 2026-10-23 | How Worried Should We Be About the Economy? Let’s Look at 2008. | NYT · Business | Business | news | 2026-10-23 | [link](https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html) |
+| 2026-10-23 | There Are Solutions to This Crazy Economy. Voters Will Hate Them. | NYT · Opinion | Opinion | opinion | 2026-10-23 | [link](https://www.nytimes.com/2026/10/23/opinion/trump-economy-artificial-intelligence-midterms.html) |
+| 2026-10-23 | A Tech Rotation Roils the Markets, Again | NYT · Business | Business | news | 2026-10-23 | [link](https://www.nytimes.com/2026/10/23/business/dealbook/tech-rotation-nasdaq-ai.html) |
+| 2026-10-23 | Elon Musk Says SpaceX and Tesla Are Exploring a Merger | NYT · Business | Business | news | 2026-10-21 | [link](https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html) |
+| 2026-10-23 | How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax | NYT · Technology | Technology | news | 2026-10-22 | [link](https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html) |
+| 2026-10-23 | A Simple Way to Benefit From Rising Rates: Buy Money Market Funds | NYT · Business | Business | news | 2026-10-23 | [link](https://www.nytimes.com/2026/10/23/business/interest-rates-money-market-funds-stocks-bonds.html) |
+| 2026-10-23 | Stocks See Steepest Decline in Months Amid A.I. Worries | NYT · Business | Business | news | 2026-10-22 | [link](https://www.nytimes.com/2026/10/22/business/stocks-oil-prices.html) |
+| 2026-10-23 | Google Eyes Large ‘Virtual Power Plant’ for Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-10-22 | [link](https://www.nytimes.com/2026/10/22/climate/google-voltus-virtual-power-plant.html) |
+| 2026-10-23 | Global Oil Price Hits $116 a Barrel, Highest Since April | NYT · Energy & Environment | Energy & Environment | news | 2026-10-23 | [link](https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html) |
+| 2026-10-23 | Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow | NYT · Technology | Technology | news | 2026-10-21 | [link](https://www.nytimes.com/2026/10/21/technology/meta-earnings.html) |
+| 2026-10-23 | How the A.I. Boom Is Driving Up Sales of Gray Paint | NYT · Technology | Technology | news | 2026-10-22 | [link](https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html) |
+| 2026-10-23 | Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html) |
+| 2026-10-23 | Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses | NYT · Politics | Politics | news | 2026-10-24 | [link](https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html) |
+| 2026-10-23 | Gina Hinojosa Believes She’s the One Who Can Finally Flip Texas | NYT · Politics | Politics | news | 2026-10-24 | [link](https://www.nytimes.com/2026/10/24/magazine/gina-hinojosa-interview.html) |
+| 2026-10-23 | How a Legal Backlash Against Big Tech Is Forcing Big Changes | NYT · Technology | Technology | news | 2026-10-22 | [link](https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html) |
+| 2026-10-23 | Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’ | NYT · Technology | Technology | news | 2026-10-19 | [link](https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html) |
+| 2026-10-23 | Feel Like You’re Overpaying for Hotels? Blame Expedia, a New Lawsuit Says. | NYT · Your Money | Your Money | news | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/travel/expedia-lawsuit-hotel-prices.html) |
+| 2026-10-23 | The Powerful Yet Fragile Force Propping Up Stocks and the Economy | NYT · Your Money | Your Money | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html) |
+| 2026-10-23 | Actyus, Adequita, and Nethits launch fund for Edge data centers - report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-23 | [link](https://www.datacenterdynamics.com/en/news/actyus-adequita-and-nethits-launch-fund-for-edge-data-centers-report/) |
+| 2026-10-23 | ZTE unveils data center module designed for AI workloads | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-23 | [link](https://www.datacenterdynamics.com/en/news/zte-unveils-data-center-module-designed-for-ai-workloads/) |
+| 2026-10-23 | Introducing Kimi K3.1 Pro | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-23 | [link](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/) |
+| 2026-10-23 | Quick Study | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-23 | [link](https://simonwillison.net/2026/Oct/23/quick-study-painter/) |
+| 2026-10-23 | From Chip Lab to Center Stage | IEEE Spectrum Semiconductors · AI Infrastructure | Infrastructure | tech | 2026-10-23 | [link](https://spectrum.ieee.org/preethi-ashwath-chip-designer) |
+| 2026-10-23 | NextEra Energy secures $5.7B to support federal energy ‘hub’ projects | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-23 | [link](https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/) |
+| 2026-10-23 | Why green groups won’t endorse the Senate permitting deal | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-10-23 | [link](https://www.latitudemedia.com/news/why-green-groups-wont-endorse-the-senate-permitting-deal/) |
+| 2026-10-23 | PG&E needs wildfire policy reform to manage tail risk, CEO says | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-23 | [link](https://www.utilitydive.com/news/pge-needs-wildfire-policy-reform-to-manage-tail-risk-ceo-says/833845/) |
+| 2026-10-23 | More phishing messages via Booking.com and Novotel | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-10-23 | [link](https://shkspr.mobi/blog/2026/10/more-phishing-messages-via-booking-com-and-novotel/) |
+| 2026-10-23 | The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-23 | [link](https://www.theverge.com/tech/1015028/iphone-duo-review) |
+| 2026-10-23 | Joanna Stern Reviews the Duo: ‘The Good, the Bad, and the Buggy’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-23 | [link](https://www.youtube.com/watch?v=bxDTWuL9GxY) |
+| 2026-10-23 | Claude Fable 5.1 can hide secret messages in benign images | Reddit | Business | social | 2026-10-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xdgtas/claude_fable_51_can_hide_secret_messages_in/) |
+| 2026-10-23 | Sweden’s government is blocking ChatGPT and Claude on staff computers from Monday | Reddit | Business | social | 2026-10-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xdcmm4/swedens_government_is_blocking_chatgpt_and_claude/) |
+| 2026-10-23 | No coding or gamedev background, 6 weeks with Opus 5.5 + Godot — from drawings to a playable game | Reddit | Business | social | 2026-10-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xdhkzb/no_coding_or_gamedev_background_6_weeks_with_opus/) |
+| 2026-10-23 | Choose your projects well…the gravy train will end. | Reddit | Business | social | 2026-10-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xd1g18/choose_your_projects_wellthe_gravy_train_will_end/) |
+| 2026-10-23 | This is addictive. | Reddit | Business | social | 2026-10-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xd41oa/this_is_addictive/) |
+| 2026-10-23 | Anthropic appears to sneak in a legal loophole in Claude Code to train on "feedback" even with train | Reddit | Business | social | 2026-10-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xd5ruf/anthropic_appears_to_sneak_in_a_legal_loophole_in/) |
+| 2026-10-23 | The “Tv hack” to change UI got me thinking… do you think that claude could replace a ring doorbell s | Reddit | Business | social | 2026-10-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xdq96i/the_tv_hack_to_change_ui_got_me_thinking_do_you/) |
+| 2026-10-23 | I couldn't understand my own jaw problems, so I had Claude Code turn my CBCT and MRI scans into a 3D | Reddit | Business | social | 2026-10-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xdliv3/i_couldnt_understand_my_own_jaw_problems_so_i_had/) |
+| 2026-10-23 | Claude made a documentary about life after the singularity | Reddit | Business | social | 2026-10-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xd5u9j/claude_made_a_documentary_about_life_after_the/) |
+| 2026-10-23 | This Proves That Claude Is The Best Ai. | Reddit | Business | social | 2026-10-23 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xdj05q/this_proves_that_claude_is_the_best_ai/) |
+| 2026-10-23 | Your agent could be leaking your email online at this very moment!! | Reddit | Business | social | 2026-10-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xd5bv6/your_agent_could_be_leaking_your_email_online_at/) |
+| 2026-10-23 | Claude refuses anything to do with Reverse Engineer Anything | Reddit | Business | social | 2026-10-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xdfxg6/claude_refuses_anything_to_do_with_reverse/) |
+| 2026-10-23 | I built a web browser from scratch in Rust with Claude Code — 90%+ WPT compliance, 97.8% ECMAScript, | Reddit | Business | social | 2026-10-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xd2oxt/i_built_a_web_browser_from_scratch_in_rust_with/) |
+| 2026-10-23 | this is insane | Reddit | Business | social | 2026-10-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xd9nsc/this_is_insane/) |
+| 2026-10-23 | After 750 hours and 6 months of non-stop work, I'm finally ready to reveal my Pathfinder 2e Tactics  | Reddit | Business | social | 2026-10-23 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xd0fxy/after_750_hours_and_6_months_of_nonstop_work_im/) |
+| 2026-10-23 | Over 5 years of notes in medical school. Thank you Obsidian community! | Reddit | Business | social | 2026-10-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xd4rq7/over_5_years_of_notes_in_medical_school_thank_you/) |
+| 2026-10-23 | Obsidian gets more useful when you stop trying to turn it into an app for everything | Reddit | Business | social | 2026-10-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xcyyk2/obsidian_gets_more_useful_when_you_stop_trying_to/) |
+| 2026-10-23 | 3D anatomy inside your notes: Anatomed | Reddit | Business | social | 2026-10-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xd9izo/3d_anatomy_inside_your_notes_anatomed/) |
+| 2026-10-23 | My Medschool vault!! | Reddit | Business | social | 2026-10-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xdfer8/my_medschool_vault/) |
+| 2026-10-23 | I made a plugin that keeps your community themes up to date, with a backup and one-click rollback | Reddit | Business | social | 2026-10-23 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xdk2h6/i_made_a_plugin_that_keeps_your_community_themes/) |
+| 2026-10-23 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-22 | Quad9 to exit France | HN | Technology | tech | 2026-10-22 | [link](https://quad9.net/news/blog/au-revoir-france/) |
 | 2026-10-22 | eMudhra to exit global SSL/TLS certificate business | HN | Technology | tech | 2026-10-22 | [link](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business) |
 | 2026-10-22 | Jailbreaking the Switch 2 | HN | Technology | tech | 2026-10-22 | [link](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/) |

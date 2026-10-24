@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-23 · 526 days · 5260 stories*
+*Last updated: 2026-10-24 · 527 days · 5270 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-23 | Friday | 1 | Kimi K3.1 Pro and K3.1 Pro Highspeed | 915 | 532 | Technology | [link](https://www.kimi.ai/blog/kimi-k3-1-pro) · [HN](https://news.ycombinator.com/item?id=50212065) |
+| 2026-10-23 | Friday | 2 | Today, we hacked what we'd set out to hack: the iPhone | 883 | 576 | Technology | [link](https://blog.calif.io/p/iphone) · [HN](https://news.ycombinator.com/item?id=50211474) |
+| 2026-10-23 | Friday | 3 | Apple Music 404 Not Found | 763 | 231 | Technology | [link](https://music.apple.com/this-url-doesnt-exist) · [HN](https://news.ycombinator.com/item?id=50207910) |
+| 2026-10-23 | Friday | 4 | Investor-owned utilities charge 23% more for electricity than public providers | 540 | 386 | Technology | [link](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities) · [HN](https://news.ycombinator.com/item?id=50208837) |
+| 2026-10-23 | Friday | 5 | Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown | 505 | 347 | Technology | [link](https://keepandroidopen.org/?) · [HN](https://news.ycombinator.com/item?id=50208558) |
+| 2026-10-23 | Friday | 6 | Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier | 431 | 446 | Technology | [link](https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/) · [HN](https://news.ycombinator.com/item?id=50205934) |
+| 2026-10-23 | Friday | 7 | Dessa: Conversation Model trained only on speech | 389 | 139 | Technology | [link](https://block.xyz/dessa) · [HN](https://news.ycombinator.com/item?id=50213925) |
+| 2026-10-23 | Friday | 8 | Now Google says it might use your Gmail and Google Photos data to target ads | 352 | 177 | Technology | [link](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update) · [HN](https://news.ycombinator.com/item?id=50214218) |
+| 2026-10-23 | Friday | 9 | Swedish government offices to ban ChatGPT and Claude | 320 | 119 | Technology | [link](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet) · [HN](https://news.ycombinator.com/item?id=50207405) |
+| 2026-10-23 | Friday | 10 | Dutch government had hacked into Jared Kushner's phone | 298 | 192 | Technology | [link](https://twitter.com/jaredkushner/status/2113376217415958767) · [HN](https://news.ycombinator.com/item?id=50206914) |
 | 2026-10-22 | Thursday | 1 | Quad9 to exit France | 1212 | 410 | Technology | [link](https://quad9.net/news/blog/au-revoir-france/) · [HN](https://news.ycombinator.com/item?id=50195959) |
 | 2026-10-22 | Thursday | 2 | eMudhra to exit global SSL/TLS certificate business | 1060 | 681 | Technology | [link](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business) · [HN](https://news.ycombinator.com/item?id=50195110) |
 | 2026-10-22 | Thursday | 3 | Jailbreaking the Switch 2 | 779 | 276 | Technology | [link](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/) · [HN](https://news.ycombinator.com/item?id=50192536) |
