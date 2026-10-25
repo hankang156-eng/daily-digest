@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-24 · 9828 items*
+*Last updated: 2026-10-25 · 9891 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-24 | No signs of AI payoff outside the tech sector | HN | Technology | tech | 2026-10-24 | [link](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector) |
+| 2026-10-24 | Root shell on Samsung TV | HN | Technology | tech | 2026-10-24 | [link](https://twitter.com/log4j/status/2113014142600953868?s=46) |
+| 2026-10-24 | Show HN: Steal My Bitcoin | HN | Technology | tech | 2026-10-24 | [link](https://stealmybitcoin.com/) |
+| 2026-10-24 | OBS Studio 33 | HN | Technology | tech | 2026-10-24 | [link](https://github.com/obsproject/obs-studio/releases/tag/33.0.0) |
+| 2026-10-24 | Elon Musk Just Gave Europe a Reason to Replace American Technology | HN | Technology | tech | 2026-10-24 | [link](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/) |
+| 2026-10-24 | We should be more ambitious with the software we build | HN | Technology | tech | 2026-10-24 | [link](https://danluu.com/ambitious/) |
+| 2026-10-24 | The Goose Programming Language | HN | Technology | tech | 2026-10-24 | [link](https://aardappel.github.io/goose/) |
+| 2026-10-24 | America has lost 200k of jobs in media, film and the arts. How much is AI? | HN | Technology | tech | 2026-10-24 | [link](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class) |
+| 2026-10-24 | Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps | HN | Technology | tech | 2026-10-24 | [link](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497) |
+| 2026-10-24 | I don't understand quantum physics (2018) | HN | Technology | tech | 2026-10-24 | [link](https://www.southampton.ac.uk/~doug/quantum_physics/index.html) |
+| 2026-10-24 | FreeDNS | HN | Technology | tech | 2026-10-24 | [link](https://freedns.afraid.org/) |
+| 2026-10-24 | Roku developer repositories moved from GitHub to GitLab | HN | Technology | tech | 2026-10-24 | [link](https://blog.roku.com/developer/gitlab-move) |
+| 2026-10-24 | Google illegally cut down 250K trees in Finland for data center | HN | Technology | tech | 2026-10-24 | [link](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/) |
+| 2026-10-24 | GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards | HN | Technology | tech | 2026-10-24 | [link](https://github.com/Zagitta/gpu-unlock) |
+| 2026-10-24 | Danish Government silently drops plan to dump MS Office | HN | Technology | tech | 2026-10-24 | [link](https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft) |
+| 2026-10-24 | Why is AI generated language so hard to understand? | HN | Technology | tech | 2026-10-24 | [link](https://arxiv.org/abs/2610.29162) |
+| 2026-10-24 | Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers | NYT · Business | Business | news | 2026-10-24 | [link](https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html) |
+| 2026-10-24 | Why Anger About Data Centers and Energy Prices May Not Swing Votes | NYT · Energy & Environment | Energy & Environment | news | 2026-10-23 | [link](https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html) |
+| 2026-10-24 | C.E.O.s Say the A.I. Rollout Is Going Well. Employees Feel Differently. | NYT · Business | Business | news | 2026-10-24 | [link](https://www.nytimes.com/2026/10/24/business/dealbook/ceos-say-the-ai-rollout-is-going-well-employees-feel-differently.html) |
+| 2026-10-24 | How Worried Should We Be About the Economy? Let’s Look at 2008. | NYT · Business | Business | news | 2026-10-23 | [link](https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html) |
+| 2026-10-24 | A Tech Rotation Roils the Markets, Again | NYT · Business | Business | news | 2026-10-23 | [link](https://www.nytimes.com/2026/10/23/business/dealbook/tech-rotation-nasdaq-ai.html) |
+| 2026-10-24 | Put Your A.I. Agents to Work with These 4 Killer Tasks | NYT · Technology | Technology | news | 2026-10-25 | [link](https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-4-killer-tasks.html) |
+| 2026-10-24 | Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html) |
+| 2026-10-24 | How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax | NYT · Technology | Technology | news | 2026-10-22 | [link](https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html) |
+| 2026-10-24 | For Clues About How A.I. Will Change Work, Look to the Past | NYT · Economy | Economy | news | 2026-10-25 | [link](https://www.nytimes.com/2026/10/22/business/economy/ai-economy-jobs-history.html) |
+| 2026-10-24 | Google Eyes Large ‘Virtual Power Plant’ for Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-10-22 | [link](https://www.nytimes.com/2026/10/22/climate/google-voltus-virtual-power-plant.html) |
+| 2026-10-24 | Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow | NYT · Technology | Technology | news | 2026-10-21 | [link](https://www.nytimes.com/2026/10/21/technology/meta-earnings.html) |
+| 2026-10-24 | How the A.I. Boom Is Driving Up Sales of Gray Paint | NYT · Technology | Technology | news | 2026-10-22 | [link](https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html) |
+| 2026-10-24 | What This Democrat’s Surge in Texas Says About the Midterms | NYT · Politics | Politics | news | 2026-10-24 | [link](https://www.nytimes.com/2026/10/24/magazine/gina-hinojosa-interview.html) |
+| 2026-10-24 | There Are Solutions to This Crazy Economy. Voters Will Hate Them. | NYT · Opinion | Opinion | opinion | 2026-10-23 | [link](https://www.nytimes.com/2026/10/23/opinion/trump-economy-artificial-intelligence-midterms.html) |
+| 2026-10-24 | Audi to Build Factory in Georgia, Trump Says | NYT · Business | Business | news | 2026-10-25 | [link](https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html) |
+| 2026-10-24 | Alaska Election Gambit Shows Justice Dept. Has Bowed to Trump’s Demands | NYT · Politics | Politics | news | 2026-10-24 | [link](https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html) |
+| 2026-10-24 | Why Is the U.S. Accusing Canada of Election Interference? | NYT · Politics | Politics | news | 2026-10-24 | [link](https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html) |
+| 2026-10-24 | Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’ | NYT · Technology | Technology | news | 2026-10-19 | [link](https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html) |
+| 2026-10-24 | Feel Like You’re Overpaying for Hotels? Blame Expedia, a New Lawsuit Says. | NYT · Your Money | Your Money | news | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/travel/expedia-lawsuit-hotel-prices.html) |
+| 2026-10-24 | The Powerful Yet Fragile Force Propping Up Stocks and the Economy | NYT · Your Money | Your Money | news | 2026-10-02 | [link](https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html) |
+| 2026-10-24 | Georgia's Silk Cloud deploys Nvidia Blackwell Ultra GPUs | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-24 | [link](https://www.datacenterdynamics.com/en/news/georgias-silk-cloud-deploys-nvidia-blackwell-ultra-gpus/) |
+| 2026-10-24 | SpaceXAI facing $6.1m fine in Mississippi for building data centers without securing correct permits | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-24 | [link](https://www.datacenterdynamics.com/en/news/spacexai-data-center-mississippi-memphis-elon-musk/) |
+| 2026-10-24 | battledrones v14: Compass Rose, a four player map | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-24 | [link](https://simonwillison.net/2026/Oct/24/battledrones/) |
+| 2026-10-24 | Book Review: Get Ahead of Being Dead by Evie King ★★★★☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-10-24 | [link](https://shkspr.mobi/blog/2026/10/book-review-get-ahead-of-being-dead-by-evie-king/) |
+| 2026-10-24 | Nicole Nguyen’s Duo Review for the WSJ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-24 | [link](https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf) |
+| 2026-10-24 | Reuters and the WSJ on the Duo Launch | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-24 | [link](https://www.reuters.com/business/retail-consumer/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin-2026-10-22/) |
+| 2026-10-24 | Quite the statement from Anthropic's head of security | Reddit | Business | social | 2026-10-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xe7jz9/quite_the_statement_from_anthropics_head_of/) |
+| 2026-10-24 | Anthropic’s new guide (Oct 22) argues most agents should have fewer subagents: one main loop, skills | Reddit | Business | social | 2026-10-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xdwquj/anthropics_new_guide_oct_22_argues_most_agents/) |
+| 2026-10-24 | How are people making those insane graphic motions video that I keep seeing on instagram using claud | Reddit | Business | social | 2026-10-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xdwfec/how_are_people_making_those_insane_graphic/) |
+| 2026-10-24 | What to do with practically unlimited access to opus 5.5? | Reddit | Business | social | 2026-10-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xe9hz7/what_to_do_with_practically_unlimited_access_to/) |
+| 2026-10-24 | This is not a masterpiece, it's a Claudesterpiece. GANG WIZARD | Reddit | Business | social | 2026-10-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xe9sri/this_is_not_a_masterpiece_its_a_claudesterpiece/) |
+| 2026-10-24 | Samsung decided to cut my washing machine from the Internet, Claude decided otherwise | Reddit | Business | social | 2026-10-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xemw8i/samsung_decided_to_cut_my_washing_machine_from/) |
+| 2026-10-24 | Built a downhill skateboarding game with Claude Code | Reddit | Business | social | 2026-10-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xe7kwg/built_a_downhill_skateboarding_game_with_claude/) |
+| 2026-10-24 | Claude has told me "you're right, I was wrong" roughly 4,000 times and has zero shame about it | Reddit | Business | social | 2026-10-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xdyvba/claude_has_told_me_youre_right_i_was_wrong/) |
+| 2026-10-24 | I built Google for Memes using Claude | Reddit | Business | social | 2026-10-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xe6r25/i_built_google_for_memes_using_claude/) |
+| 2026-10-24 | Windswept Island: 20 days into a North Atlantic island in Unity with Claude Code (WIP, part 2) | Reddit | Business | social | 2026-10-24 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xeccp0/windswept_island_20_days_into_a_north_atlantic/) |
+| 2026-10-24 | I'm tired, boss. | Reddit | Business | social | 2026-10-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xebls8/im_tired_boss/) |
+| 2026-10-24 | Thariq left Anthropic! | Reddit | Business | social | 2026-10-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xdyz48/thariq_left_anthropic/) |
+| 2026-10-24 | What's the one line in your CLAUDE.md that made the biggest difference? | Reddit | Business | social | 2026-10-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xeautc/whats_the_one_line_in_your_claudemd_that_made_the/) |
+| 2026-10-24 | Max plan reset literally this morning and 53% of my limit is already wiped. What an absolute joke. | Reddit | Business | social | 2026-10-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xelhl0/max_plan_reset_literally_this_morning_and_53_of/) |
+| 2026-10-24 | Anyone else burning through their weekly usage much faster lately? | Reddit | Business | social | 2026-10-24 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xe2fxk/anyone_else_burning_through_their_weekly_usage/) |
+| 2026-10-24 | Note linked / Automated - DnD Character Sheets, BETA Testing Soon. Ideas and Improvements Welcome. | Reddit | Business | social | 2026-10-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xec9vs/note_linked_automated_dnd_character_sheets_beta/) |
+| 2026-10-24 | Nothing spectacular but I just wanted to share this little mind map that helped me pass final art hi | Reddit | Business | social | 2026-10-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xe3x59/nothing_spectacular_but_i_just_wanted_to_share/) |
+| 2026-10-24 | Used Obsidian for My Software Requirements and Specifications Documentation | Reddit | Business | social | 2026-10-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xe1wah/used_obsidian_for_my_software_requirements_and/) |
+| 2026-10-24 | Love for Canvas? | Reddit | Business | social | 2026-10-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xef1js/love_for_canvas/) |
+| 2026-10-24 | RPG Vault Showcase: Project Spacefuture | Reddit | Business | social | 2026-10-24 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xem787/rpg_vault_showcase_project_spacefuture/) |
+| 2026-10-24 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-23 | Kimi K3.1 Pro and K3.1 Pro Highspeed | HN | Technology | tech | 2026-10-23 | [link](https://www.kimi.ai/blog/kimi-k3-1-pro) |
 | 2026-10-23 | Today, we hacked what we'd set out to hack: the iPhone | HN | Technology | tech | 2026-10-23 | [link](https://blog.calif.io/p/iphone) |
 | 2026-10-23 | Apple Music 404 Not Found | HN | Technology | tech | 2026-10-23 | [link](https://music.apple.com/this-url-doesnt-exist) |

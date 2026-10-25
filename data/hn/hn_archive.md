@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-24 · 527 days · 5270 stories*
+*Last updated: 2026-10-25 · 528 days · 5280 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-24 | Saturday | 1 | No signs of AI payoff outside the tech sector | 554 | 577 | Technology | [link](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector) · [HN](https://news.ycombinator.com/item?id=50224463) |
+| 2026-10-24 | Saturday | 2 | Root shell on Samsung TV | 506 | 209 | Technology | [link](https://twitter.com/log4j/status/2113014142600953868?s=46) · [HN](https://news.ycombinator.com/item?id=50218633) |
+| 2026-10-24 | Saturday | 3 | Show HN: Steal My Bitcoin | 486 | 300 | Technology | [link](https://stealmybitcoin.com/) · [HN](https://news.ycombinator.com/item?id=50224916) |
+| 2026-10-24 | Saturday | 4 | OBS Studio 33 | 450 | 170 | Technology | [link](https://github.com/obsproject/obs-studio/releases/tag/33.0.0) · [HN](https://news.ycombinator.com/item?id=50218430) |
+| 2026-10-24 | Saturday | 5 | Elon Musk Just Gave Europe a Reason to Replace American Technology | 446 | 472 | Technology | [link](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/) · [HN](https://news.ycombinator.com/item?id=50220913) |
+| 2026-10-24 | Saturday | 6 | We should be more ambitious with the software we build | 434 | 370 | Technology | [link](https://danluu.com/ambitious/) · [HN](https://news.ycombinator.com/item?id=50225695) |
+| 2026-10-24 | Saturday | 7 | The Goose Programming Language | 399 | 249 | Technology | [link](https://aardappel.github.io/goose/) · [HN](https://news.ycombinator.com/item?id=50224100) |
+| 2026-10-24 | Saturday | 8 | America has lost 200k of jobs in media, film and the arts. How much is AI? | 366 | 363 | Technology | [link](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class) · [HN](https://news.ycombinator.com/item?id=50226419) |
+| 2026-10-24 | Saturday | 9 | Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps | 318 | 154 | Technology | [link](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497) · [HN](https://news.ycombinator.com/item?id=50219177) |
+| 2026-10-24 | Saturday | 10 | I don't understand quantum physics (2018) | 315 | 251 | Technology | [link](https://www.southampton.ac.uk/~doug/quantum_physics/index.html) · [HN](https://news.ycombinator.com/item?id=50219666) |
 | 2026-10-23 | Friday | 1 | Kimi K3.1 Pro and K3.1 Pro Highspeed | 915 | 532 | Technology | [link](https://www.kimi.ai/blog/kimi-k3-1-pro) · [HN](https://news.ycombinator.com/item?id=50212065) |
 | 2026-10-23 | Friday | 2 | Today, we hacked what we'd set out to hack: the iPhone | 883 | 576 | Technology | [link](https://blog.calif.io/p/iphone) · [HN](https://news.ycombinator.com/item?id=50211474) |
 | 2026-10-23 | Friday | 3 | Apple Music 404 Not Found | 763 | 231 | Technology | [link](https://music.apple.com/this-url-doesnt-exist) · [HN](https://news.ycombinator.com/item?id=50207910) |
