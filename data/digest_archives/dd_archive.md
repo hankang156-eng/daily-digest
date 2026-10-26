@@ -1,9 +1,71 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-25 · 9891 items*
+*Last updated: 2026-10-26 · 9953 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-25 | A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis | HN | Technology | tech | 2026-10-25 | [link](https://lynchlab.net/llm-skin-cancer) |
+| 2026-10-25 | Dolly Parton's Imagination Library | HN | Technology | tech | 2026-10-25 | [link](https://imaginationlibrary.com/) |
+| 2026-10-25 | Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism | HN | Technology | tech | 2026-10-25 | [link](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order) |
+| 2026-10-25 | I refuse to accept a censored Internet. Join Me at FOSDEM 27 | HN | Technology | tech | 2026-10-25 | [link](https://talkweb.eu/openweb/4558/) |
+| 2026-10-25 | Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop | HN | Technology | tech | 2026-10-25 | [link](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/) |
+| 2026-10-25 | Lula wins election after final votes tallied | HN | Technology | tech | 2026-10-25 | [link](https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/) |
+| 2026-10-25 | OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why? | HN | Technology | tech | 2026-10-25 | [link](https://minimaxir.com/2026/10/cheap-llms/) |
+| 2026-10-25 | Serbia's Vucic concedes election defeat in historic win for student movement | HN | Technology | tech | 2026-10-25 | [link](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/) |
+| 2026-10-25 | Samsung running a TensorFlow lite model on 960x540 image to track you | HN | Technology | tech | 2026-10-25 | [link](https://twitter.com/mike64_t/status/2114150399406202896) |
+| 2026-10-25 | IBM CEO says open weight models are now good and cheap on-prem | HN | Technology | tech | 2026-10-25 | [link](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640) |
+| 2026-10-25 | Show HN: TitleArt – Make text like it's 1997 | HN | Technology | tech | 2026-10-25 | [link](https://titleart.dvy.io/) |
+| 2026-10-25 | Why I Am a Programmer | HN | Technology | tech | 2026-10-25 | [link](https://www.alfie.wtf/programming/why-i-am-a-programmer.html) |
+| 2026-10-25 | AI use leads UC Berkeley math professor to see 'no point' in grading homework | HN | Technology | tech | 2026-10-25 | [link](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html) |
+| 2026-10-25 | JetBrains Thinkrail | HN | Technology | tech | 2026-10-25 | [link](https://github.com/JetBrains/thinkrail) |
+| 2026-10-25 | fheroes2: A recreation of Heroes of Might and Magic II game engine | HN | Technology | tech | 2026-10-25 | [link](https://github.com/ihhub/fheroes2) |
+| 2026-10-25 | Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42% | HN | Technology | tech | 2026-10-25 | [link](https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/) |
+| 2026-10-25 | What’s Riding on Anthropic Going Public? Nearly Everything. | NYT · Economy | Economy | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html) |
+| 2026-10-25 | C.E.O.s Say the A.I. Rollout Is Going Well. Employees Feel Differently. | NYT · Business | Business | news | 2026-10-25 | [link](https://www.nytimes.com/2026/10/24/business/dealbook/ceos-say-the-ai-rollout-is-going-well-employees-feel-differently.html) |
+| 2026-10-25 | Why Anger About Data Centers and Energy Prices May Not Swing Votes | NYT · Energy & Environment | Energy & Environment | news | 2026-10-23 | [link](https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html) |
+| 2026-10-25 | The A.I. Boom Looks a Lot Like the Housing Bubble | NYT · Opinion | Opinion | opinion | 2026-10-25 | [link](https://www.nytimes.com/2026/10/25/opinion/ai-bubble-financial-crisis-lehman.html) |
+| 2026-10-25 | Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers | NYT · Business | Business | news | 2026-10-24 | [link](https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html) |
+| 2026-10-25 | Darline Graham Gets Help From the Data Center Industry in South Carolina Senate Race | NYT · Technology | Technology | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/us/politics/darline-graham-data-centers-south-carolina.html) |
+| 2026-10-25 | How Worried Should We Be About the Economy? Let’s Look at 2008. | NYT · Business | Business | news | 2026-10-23 | [link](https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html) |
+| 2026-10-25 | Put Your A.I. Agents to Work with These 5 Killer Tasks | NYT · Technology | Technology | news | 2026-10-25 | [link](https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html) |
+| 2026-10-25 | Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html) |
+| 2026-10-25 | The Second Big Bang Is Here | NYT · Opinion | Opinion | opinion | 2026-10-25 | [link](https://www.nytimes.com/video/opinion/100000011223790/the-second-big-bang-is-here.html) |
+| 2026-10-25 | For Clues About How A.I. Will Change Work, Look to the Past | NYT · Economy | Economy | news | 2026-10-25 | [link](https://www.nytimes.com/2026/10/22/business/economy/ai-economy-jobs-history.html) |
+| 2026-10-25 | Trump’s Election Attacks Enter New Pre-emptive Phase | NYT · Politics | Politics | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html) |
+| 2026-10-25 | How Trump Unwittingly Boosted Green Energy | NYT · Opinion | Opinion | opinion | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/opinion/how-trump-unwittingly-boosted-green-energy.html) |
+| 2026-10-25 | How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax | NYT · Technology | Technology | news | 2026-10-22 | [link](https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html) |
+| 2026-10-25 | Who’s Winning the Race for Congress? | NYT · Politics | Politics | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/us/politics/whos-winning-the-race-for-congress.html) |
+| 2026-10-25 | Audi to Build Factory in Georgia, Trump Says | NYT · Business | Business | news | 2026-10-25 | [link](https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html) |
+| 2026-10-25 | Google Eyes Large ‘Virtual Power Plant’ for Data Centers | NYT · Energy & Environment | Energy & Environment | news | 2026-10-22 | [link](https://www.nytimes.com/2026/10/22/climate/google-voltus-virtual-power-plant.html) |
+| 2026-10-25 | Thomas L. Friedman: We Just Set Off the Second Big Bang | NYT · Opinion | Opinion | opinion | 2026-10-25 | [link](https://www.nytimes.com/2026/10/25/opinion/ai-second-big-bang.html) |
+| 2026-10-25 | Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow | NYT · Technology | Technology | news | 2026-10-21 | [link](https://www.nytimes.com/2026/10/21/technology/meta-earnings.html) |
+| 2026-10-25 | How the A.I. Boom Is Driving Up Sales of Gray Paint | NYT · Technology | Technology | news | 2026-10-22 | [link](https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html) |
+| 2026-10-25 | The power behind AI: Data centers drive the demand for qualified electricians | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-25 | [link](https://www.datacenterdynamics.com/en/opinions/the-power-behind-ai-data-centers-drive-the-demand-for-qualified-electricians/) |
+| 2026-10-25 | The Talk Show: ‘Lubricate the Inside of the Hinge’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-25 | [link](https://daringfireball.net/thetalkshow/2026/10/25/ep-456) |
+| 2026-10-25 | Sunnny | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-25 | [link](https://sunnny.com/) |
+| 2026-10-25 | Seam Cutter | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-25 | [link](https://simonwillison.net/2026/Oct/25/seam-cutter/) |
+| 2026-10-25 | Gadget Review: LiberNovo Omni - the USB-C powered office chair ★★★★⯪ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-10-25 | [link](https://shkspr.mobi/blog/2026/10/gadget-review-libernovo-omni-chair/) |
+| 2026-10-25 | Seems like Anthropic enabled safeguards around reverse-enginering a TV | Reddit | Business | social | 2026-10-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xetxga/seems_like_anthropic_enabled_safeguards_around/) |
+| 2026-10-25 | Claude saved me from septic shock. | Reddit | Business | social | 2026-10-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xenvvi/claude_saved_me_from_septic_shock/) |
+| 2026-10-25 | I built a laser dry-fire shooting game with Claude Code: a webcam watches your monitor and scores la | Reddit | Business | social | 2026-10-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xeqtp1/i_built_a_laser_dryfire_shooting_game_with_claude/) |
+| 2026-10-25 | TIL there’s Anthropic(India) before Anthropic (Claude) | Reddit | Business | social | 2026-10-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xet1uk/til_theres_anthropicindia_before_anthropic_claude/) |
+| 2026-10-25 | is Claude the least "yes-man" LLM? | Reddit | Business | social | 2026-10-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xfa39o/is_claude_the_least_yesman_llm/) |
+| 2026-10-25 | Flight Simulator 95/98 finally running on 64-bit Windows, patched by Claude Code | Reddit | Business | social | 2026-10-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xew9ma/flight_simulator_9598_finally_running_on_64bit/) |
+| 2026-10-25 | If Claude can build almost any app, what is the future of software development? | Reddit | Business | social | 2026-10-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xesfpc/if_claude_can_build_almost_any_app_what_is_the/) |
+| 2026-10-25 | Drop your best Claude skills in here! | Reddit | Business | social | 2026-10-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xevkyg/drop_your_best_claude_skills_in_here/) |
+| 2026-10-25 | Jiggle Peach, my WIP idle game where you can slap a jiggly 3D peach | Reddit | Business | social | 2026-10-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xf27kt/jiggle_peach_my_wip_idle_game_where_you_can_slap/) |
+| 2026-10-25 | Same game built twice: Opus alone vs Opus planning + local Qwen coding. 16 min vs 42 min, $2.52 vs $ | Reddit | Business | social | 2026-10-25 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xfgyl1/same_game_built_twice_opus_alone_vs_opus_planning/) |
+| 2026-10-25 | I pointed Claude Code at the cheap Chinese head unit in my Civic. What it found in the firmware was  | Reddit | Business | social | 2026-10-25 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xf2lur/i_pointed_claude_code_at_the_cheap_chinese_head/) |
+| 2026-10-25 | Is it Valid or Not ? | Reddit | Business | social | 2026-10-25 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xf9s8d/is_it_valid_or_not/) |
+| 2026-10-25 | My AI coding allowance ran out, and I had to become a software developer again | Reddit | Business | social | 2026-10-25 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xeo7vn/my_ai_coding_allowance_ran_out_and_i_had_to/) |
+| 2026-10-25 | Claude projects are unwelcomed on r/OpenSource since now | Reddit | Business | social | 2026-10-25 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xf64wq/claude_projects_are_unwelcomed_on_ropensource/) |
+| 2026-10-25 | I Asked Claude to Rewrite English in Rust | Reddit | Business | social | 2026-10-25 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xepv76/i_asked_claude_to_rewrite_english_in_rust/) |
+| 2026-10-25 | New User Home Page Feedback | Reddit | Business | social | 2026-10-25 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xfc150/new_user_home_page_feedback/) |
+| 2026-10-25 | Lifein v1.1.0: Customizable text selection and highlights, plus a few fixes | Reddit | Business | social | 2026-10-25 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xetqb2/lifein_v110_customizable_text_selection_and/) |
+| 2026-10-25 | Mermaid VS Excalidraw VS Canvas | Reddit | Business | social | 2026-10-25 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xfgp5b/mermaid_vs_excalidraw_vs_canvas/) |
+| 2026-10-25 | Calendar Blocks - a basic inline month overview | Reddit | Business | social | 2026-10-25 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xfbrq9/calendar_blocks_a_basic_inline_month_overview/) |
+| 2026-10-25 | Troublesome capitalization of the word "the" and linking notes | Reddit | Business | social | 2026-10-25 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xereby/troublesome_capitalization_of_the_word_the_and/) |
+| 2026-10-25 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-24 | No signs of AI payoff outside the tech sector | HN | Technology | tech | 2026-10-24 | [link](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector) |
 | 2026-10-24 | Root shell on Samsung TV | HN | Technology | tech | 2026-10-24 | [link](https://twitter.com/log4j/status/2113014142600953868?s=46) |
 | 2026-10-24 | Show HN: Steal My Bitcoin | HN | Technology | tech | 2026-10-24 | [link](https://stealmybitcoin.com/) |

@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-25 · 528 days · 5280 stories*
+*Last updated: 2026-10-26 · 529 days · 5290 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-25 | Sunday | 1 | A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis | 558 | 237 | Technology | [link](https://lynchlab.net/llm-skin-cancer) · [HN](https://news.ycombinator.com/item?id=50233779) |
+| 2026-10-25 | Sunday | 2 | Dolly Parton's Imagination Library | 542 | 94 | Technology | [link](https://imaginationlibrary.com/) · [HN](https://news.ycombinator.com/item?id=50234474) |
+| 2026-10-25 | Sunday | 3 | Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism | 485 | 331 | Technology | [link](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order) · [HN](https://news.ycombinator.com/item?id=50229587) |
+| 2026-10-25 | Sunday | 4 | I refuse to accept a censored Internet. Join Me at FOSDEM 27 | 469 | 228 | Technology | [link](https://talkweb.eu/openweb/4558/) · [HN](https://news.ycombinator.com/item?id=50233929) |
+| 2026-10-25 | Sunday | 5 | Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop | 459 | 124 | Technology | [link](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/) · [HN](https://news.ycombinator.com/item?id=50234232) |
+| 2026-10-25 | Sunday | 6 | Lula wins election after final votes tallied | 413 | 436 | Technology | [link](https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/) · [HN](https://news.ycombinator.com/item?id=50237485) |
+| 2026-10-25 | Sunday | 7 | OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why? | 312 | 309 | Technology | [link](https://minimaxir.com/2026/10/cheap-llms/) · [HN](https://news.ycombinator.com/item?id=50236102) |
+| 2026-10-25 | Sunday | 8 | Serbia's Vucic concedes election defeat in historic win for student movement | 293 | 158 | Technology | [link](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/) · [HN](https://news.ycombinator.com/item?id=50236081) |
+| 2026-10-25 | Sunday | 9 | Samsung running a TensorFlow lite model on 960x540 image to track you | 290 | 1 | Technology | [link](https://twitter.com/mike64_t/status/2114150399406202896) · [HN](https://news.ycombinator.com/item?id=50230181) |
+| 2026-10-25 | Sunday | 10 | IBM CEO says open weight models are now good and cheap on-prem | 251 | 144 | Technology | [link](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640) · [HN](https://news.ycombinator.com/item?id=50238088) |
 | 2026-10-24 | Saturday | 1 | No signs of AI payoff outside the tech sector | 554 | 577 | Technology | [link](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector) · [HN](https://news.ycombinator.com/item?id=50224463) |
 | 2026-10-24 | Saturday | 2 | Root shell on Samsung TV | 506 | 209 | Technology | [link](https://twitter.com/log4j/status/2113014142600953868?s=46) · [HN](https://news.ycombinator.com/item?id=50218633) |
 | 2026-10-24 | Saturday | 3 | Show HN: Steal My Bitcoin | 486 | 300 | Technology | [link](https://stealmybitcoin.com/) · [HN](https://news.ycombinator.com/item?id=50224916) |
