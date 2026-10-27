@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-26 · 529 days · 5290 stories*
+*Last updated: 2026-10-27 · 530 days · 5300 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-26 | Monday | 1 | Anthropic S-1 | 1613 | 1548 | Technology | [link](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) · [HN](https://news.ycombinator.com/item?id=50242939) |
+| 2026-10-26 | Monday | 2 | Microsoft offers mass buyouts for roughly a quarter of its workforce | 947 | 912 | Technology | [link](https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/) · [HN](https://news.ycombinator.com/item?id=50245524) |
+| 2026-10-26 | Monday | 3 | Three new discoveries in mathematics, computer science, and physics | 901 | 425 | Technology | [link](https://openai.com/index/building-scientific-understanding-with-academic-communities/) · [HN](https://news.ycombinator.com/item?id=50251344) |
+| 2026-10-26 | Monday | 4 | Sebastian Raschka's from-scratch video course on building reasoning models | 706 | 97 | Technology | [link](https://magazine.sebastianraschka.com/p/building-reasoning-models) · [HN](https://news.ycombinator.com/item?id=50245138) |
+| 2026-10-26 | Monday | 5 | The Exponential Time Hypothesis Is False [pdf] | 622 | 226 | Technology | [link](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) · [HN](https://news.ycombinator.com/item?id=50251661) |
+| 2026-10-26 | Monday | 6 | GPT-6.1 Terra | 588 | 377 | Technology | [link](https://openai.com/index/introducing-gpt-6-1-terra/) · [HN](https://news.ycombinator.com/item?id=50248124) |
+| 2026-10-26 | Monday | 7 | CSS-Tricks has a new owner | 479 | 105 | Technology | [link](https://css-tricks.com/css-tricks-has-a-new-owner/) · [HN](https://news.ycombinator.com/item?id=50245831) |
+| 2026-10-26 | Monday | 8 | Switzerland. Block by block. At 1:1 scale | 467 | 218 | Technology | [link](https://blocks.manifold3d.ch/) · [HN](https://news.ycombinator.com/item?id=50240922) |
+| 2026-10-26 | Monday | 9 | Oldest GUI application that still runs on Windows 11 | 424 | 240 | Technology | [link](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/) · [HN](https://news.ycombinator.com/item?id=50248055) |
+| 2026-10-26 | Monday | 10 | Websites Should Be Printable | 338 | 197 | Technology | [link](https://brennenputh.me/blog/printable-websites/) · [HN](https://news.ycombinator.com/item?id=50241664) |
 | 2026-10-25 | Sunday | 1 | A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis | 558 | 237 | Technology | [link](https://lynchlab.net/llm-skin-cancer) · [HN](https://news.ycombinator.com/item?id=50233779) |
 | 2026-10-25 | Sunday | 2 | Dolly Parton's Imagination Library | 542 | 94 | Technology | [link](https://imaginationlibrary.com/) · [HN](https://news.ycombinator.com/item?id=50234474) |
 | 2026-10-25 | Sunday | 3 | Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism | 485 | 331 | Technology | [link](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order) · [HN](https://news.ycombinator.com/item?id=50229587) |

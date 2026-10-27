@@ -1,9 +1,77 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-26 · 9953 items*
+*Last updated: 2026-10-27 · 10021 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-26 | Anthropic S-1 | HN | Technology | tech | 2026-10-26 | [link](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) |
+| 2026-10-26 | Microsoft offers mass buyouts for roughly a quarter of its workforce | HN | Technology | tech | 2026-10-26 | [link](https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/) |
+| 2026-10-26 | Three new discoveries in mathematics, computer science, and physics | HN | Technology | tech | 2026-10-26 | [link](https://openai.com/index/building-scientific-understanding-with-academic-communities/) |
+| 2026-10-26 | Sebastian Raschka's from-scratch video course on building reasoning models | HN | Technology | tech | 2026-10-26 | [link](https://magazine.sebastianraschka.com/p/building-reasoning-models) |
+| 2026-10-26 | The Exponential Time Hypothesis Is False [pdf] | HN | Technology | tech | 2026-10-26 | [link](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) |
+| 2026-10-26 | GPT-6.1 Terra | HN | Technology | tech | 2026-10-26 | [link](https://openai.com/index/introducing-gpt-6-1-terra/) |
+| 2026-10-26 | CSS-Tricks has a new owner | HN | Technology | tech | 2026-10-26 | [link](https://css-tricks.com/css-tricks-has-a-new-owner/) |
+| 2026-10-26 | Switzerland. Block by block. At 1:1 scale | HN | Technology | tech | 2026-10-26 | [link](https://blocks.manifold3d.ch/) |
+| 2026-10-26 | Oldest GUI application that still runs on Windows 11 | HN | Technology | tech | 2026-10-26 | [link](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/) |
+| 2026-10-26 | Websites Should Be Printable | HN | Technology | tech | 2026-10-26 | [link](https://brennenputh.me/blog/printable-websites/) |
+| 2026-10-26 | Meta Employees Denounce Interference in Brazilian Elections | HN | Technology | tech | 2026-10-26 | [link](https://www.panamericandispatch.org/p/meta-employees-denounce-interference) |
+| 2026-10-26 | Solar power is becoming bigger than nuclear | HN | Technology | tech | 2026-10-26 | [link](https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear) |
+| 2026-10-26 | Concerning behavior from a popular open-weight AI model | HN | Technology | tech | 2026-10-26 | [link](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model) |
+| 2026-10-26 | In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real | HN | Technology | tech | 2026-10-26 | [link](https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/) |
+| 2026-10-26 | The EPA Is Quietly Killing Its Web Archive | HN | Technology | tech | 2026-10-26 | [link](https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/) |
+| 2026-10-26 | Pharo 14 | HN | Technology | tech | 2026-10-26 | [link](https://pharo.org/news/2026-10-26-Pharo14Release.html) |
+| 2026-10-26 | What’s Riding on Anthropic Going Public? Nearly Everything. | NYT · Economy | Economy | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html) |
+| 2026-10-26 | The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why. | NYT · Business | Business | news | 2026-10-27 | [link](https://www.nytimes.com/2026/10/27/business/the-fed-is-expected-to-hold-rates-steady-warsh-will-have-to-explain-why.html) |
+| 2026-10-26 | Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO | NYT · Technology | Technology | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html) |
+| 2026-10-26 | Musk Is Predicting ‘Guppy-level Death’ for Scores of A.I. Companies | NYT · Business | Business | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html) |
+| 2026-10-26 | C.E.O.s Say the A.I. Rollout Is Going Well. Employees Feel Differently. | NYT · Business | Business | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/24/business/dealbook/ceos-say-the-ai-rollout-is-going-well-employees-feel-differently.html) |
+| 2026-10-26 | U.S. Pensions Are Riding the A.I. Wave. For Better or Worse. | NYT · Business | Business | news | 2026-10-27 | [link](https://www.nytimes.com/2026/10/27/business/pensions-ai.html) |
+| 2026-10-26 | Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions | NYT · Business | Business | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/business/meta-spacex-artificial-intelligence.html) |
+| 2026-10-26 | The Key Numbers From Anthropic’s IPO Filing | NYT · Technology | Technology | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html) |
+| 2026-10-26 | The A.I. Boom Looks a Lot Like the Housing Bubble | NYT · Opinion | Opinion | opinion | 2026-10-26 | [link](https://www.nytimes.com/2026/10/25/opinion/ai-bubble-financial-crisis-lehman.html) |
+| 2026-10-26 | Darline Graham Gets Help From the Data Center Industry in South Carolina Senate Race | NYT · Technology | Technology | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/us/politics/darline-graham-data-centers-south-carolina.html) |
+| 2026-10-26 | California’s Potential Quartz Ban Pushes Contractors and Retailers to Alternatives | NYT · Economy | Economy | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/business/economy/california-quartz-countertop-ban-alternatives.html) |
+| 2026-10-26 | Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html) |
+| 2026-10-26 | Appeals Court Declines to Intervene in California Ballot Lawsuit | NYT · Politics | Politics | news | 2026-10-27 | [link](https://www.nytimes.com/2026/10/26/us/politics/appeals-court-california-ballot-suit.html) |
+| 2026-10-26 | Meet Anthropic’s Seven Founders as the A.I. Firm Prepares for an IPO | NYT · Technology | Technology | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html) |
+| 2026-10-26 | Anthropic’s IPO S-1 Spells Out a Future of Promise and Peril | NYT · Technology | Technology | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-s1-dario-amodei.html) |
+| 2026-10-26 | Microsoft Offers Buyouts to 60,000 Employees as It Spends on A.I. | NYT · Technology | Technology | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/technology/microsoft-buyouts-ai-spending.html) |
+| 2026-10-26 | How Trump Unwittingly Boosted Green Energy | NYT · Opinion | Opinion | opinion | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/opinion/how-trump-unwittingly-boosted-green-energy.html) |
+| 2026-10-26 | Trump’s Election Attacks Enter New Pre-emptive Phase | NYT · Politics | Politics | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html) |
+| 2026-10-26 | Shiny Glass Skyscrapers Are a Hot Thing. Literally. | NYT · Energy & Environment | Energy & Environment | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/climate/glass-skyscrapers-heat-climate-change.html) |
+| 2026-10-26 | Feel Like You’re Overpaying for Hotels? Blame Expedia, a New Lawsuit Says. | NYT · Your Money | Your Money | news | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/travel/expedia-lawsuit-hotel-prices.html) |
+| 2026-10-26 | Theft of AI equipment hits $150m in 2026, with fraud responsible for 92% of incidents – report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-26 | [link](https://www.datacenterdynamics.com/en/news/theft-of-ai-equipment-hits-150m-in-2026-with-fraud-responsible-for-92-of-incidents-report/) |
+| 2026-10-26 | Cadence unveils Nvidia-powered AI data center in Munich, Germany | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-26 | [link](https://www.datacenterdynamics.com/en/news/cadence-unveils-nvidia-powered-ai-data-center-in-munich-germany/) |
+| 2026-10-26 | Inside the resilience gap | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-26 | [link](https://www.utilitydive.com/spons/inside-the-resilience-gap/832932/) |
+| 2026-10-26 | GPT-6.1 Terra | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-26 | [link](https://simonwillison.net/2026/Oct/26/gpt-61-terra/) |
+| 2026-10-26 | Wind turbine orders hit 2.8 GW in Q2 ahead of tax credit deadline: WoodMac | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-26 | [link](https://www.utilitydive.com/news/wind-turbine-orders-hit-28-gw-in-q2-ahead-of-tax-credit-deadline-woodmac/872757/) |
+| 2026-10-26 | The residential VPP playbook for crossing the ‘credibility gap’ | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-10-26 | [link](https://www.latitudemedia.com/news/the-residential-vpp-playbook-for-crossing-the-credibility-gap/) |
+| 2026-10-26 | webframe: evaluated as a scraper and a sandbox | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-26 | [link](https://simonwillison.net/2026/Oct/26/webframe-evaluation/) |
+| 2026-10-26 | Glenn Fleishman on Apple Notes and Markdown | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-26 | [link](https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/) |
+| 2026-10-26 | Clean energy groups, states oppose MISO’s large load-generation study plan | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-26 | [link](https://www.utilitydive.com/news/miso-large-load-lars-ferc-google-oms/849887/) |
+| 2026-10-26 | Apple Issues Statement on iPhone Duo’s Crack Problem | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-26 | [link](https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/) |
+| 2026-10-26 | Theatre Review: Opera UnTouched's "The Telephone" ★★★★★ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-10-26 | [link](https://shkspr.mobi/blog/2026/10/theatre-review-opera-untoucheds-the-telephone/) |
+| 2026-10-26 | Claude throwing punches out here | Reddit | Business | social | 2026-10-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xganwd/claude_throwing_punches_out_here/) |
+| 2026-10-26 | I built an open source sky camera that Claude Code can actually run. Saturday night it caught 17 met | Reddit | Business | social | 2026-10-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xfqc9x/i_built_an_open_source_sky_camera_that_claude/) |
+| 2026-10-26 | Hmm yes this is a very dangerous cybersecurity prompt | Reddit | Business | social | 2026-10-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xg18vv/hmm_yes_this_is_a_very_dangerous_cybersecurity/) |
+| 2026-10-26 | Is this the moment when AI bubble bursts? | Reddit | Business | social | 2026-10-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xfxww4/is_this_the_moment_when_ai_bubble_bursts/) |
+| 2026-10-26 | Limits got at least halved? | Reddit | Business | social | 2026-10-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xfs5q8/limits_got_at_least_halved/) |
+| 2026-10-26 | 15 years in software, ex-Google, and tired of the anti-AI rhetoric | Reddit | Business | social | 2026-10-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xfjhgh/15_years_in_software_exgoogle_and_tired_of_the/) |
+| 2026-10-26 | Senior devs are in their Kasparov era | Reddit | Business | social | 2026-10-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xfs6h7/senior_devs_are_in_their_kasparov_era/) |
+| 2026-10-26 | Anthropic Reveals It Will Pay SpaceX Up to $120.5B for AI Compute | Reddit | Business | social | 2026-10-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xg1q97/anthropic_reveals_it_will_pay_spacex_up_to_1205b/) |
+| 2026-10-26 | I built a mod with Claude that turns Valheim into a city builder. It hit #1 on r/valheim | Reddit | Business | social | 2026-10-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xg1mov/i_built_a_mod_with_claude_that_turns_valheim_into/) |
+| 2026-10-26 | Anthropic files S-1 with the SEC for proposed initial public offering | Reddit | Business | social | 2026-10-26 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xfwogl/anthropic_files_s1_with_the_sec_for_proposed/) |
+| 2026-10-26 | Engineers are coding by voice with Claude Code, some from their phones on dog walks | Reddit | Business | social | 2026-10-26 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xfra3e/engineers_are_coding_by_voice_with_claude_code/) |
+| 2026-10-26 | I built an open source sky camera that Claude Code can actually run. Last night it caught 17 meteors | Reddit | Business | social | 2026-10-26 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xfm8i7/i_built_an_open_source_sky_camera_that_claude/) |
+| 2026-10-26 | This tweet is a scary truth | Reddit | Business | social | 2026-10-26 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xg1zev/this_tweet_is_a_scary_truth/) |
+| 2026-10-26 | The Moonshot prompt | Reddit | Business | social | 2026-10-26 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xg9tqk/the_moonshot_prompt/) |
+| 2026-10-26 | me, this year | Reddit | Business | social | 2026-10-26 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xfqy87/me_this_year/) |
+| 2026-10-26 | My DashBoard🥹 | Reddit | Business | social | 2026-10-26 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xg9tud/my_dashboard/) |
+| 2026-10-26 | Obsidian Plugin Stats \| Weekly Plugin Updates (Oct 18 to Oct 24, 2026) | Reddit | Business | social | 2026-10-26 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xfxqp2/obsidian_plugin_stats_weekly_plugin_updates_oct/) |
+| 2026-10-26 | Momentum Life: My plugin to consolidate some other apps | Reddit | Business | social | 2026-10-26 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xfjadr/momentum_life_my_plugin_to_consolidate_some_other/) |
+| 2026-10-26 | Starlight PDF 2.0.0 | Reddit | Business | social | 2026-10-26 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xg54k5/starlight_pdf_200/) |
+| 2026-10-26 | Media Hub, A gallery for your images, videos ... | Reddit | Business | social | 2026-10-26 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xfrlm0/media_hub_a_gallery_for_your_images_videos/) |
+| 2026-10-26 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-25 | A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis | HN | Technology | tech | 2026-10-25 | [link](https://lynchlab.net/llm-skin-cancer) |
 | 2026-10-25 | Dolly Parton's Imagination Library | HN | Technology | tech | 2026-10-25 | [link](https://imaginationlibrary.com/) |
 | 2026-10-25 | Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism | HN | Technology | tech | 2026-10-25 | [link](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order) |
