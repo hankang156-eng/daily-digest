@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-27 · 530 days · 5300 stories*
+*Last updated: 2026-10-28 · 531 days · 5310 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-27 | Tuesday | 1 | Ghostty 1.4 | 1031 | 328 | Technology | [link](https://ghostty.org/docs/install/release-notes/1-4-0) · [HN](https://news.ycombinator.com/item?id=50261998) |
+| 2026-10-27 | Tuesday | 2 | US Government is hiding a secret court ruling about how it spies on Americans | 939 | 345 | Technology | [link](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/) · [HN](https://news.ycombinator.com/item?id=50259604) |
+| 2026-10-27 | Tuesday | 3 | Genie 4 | 899 | 514 | Technology | [link](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) · [HN](https://news.ycombinator.com/item?id=50261319) |
+| 2026-10-27 | Tuesday | 4 | AI promised less work. I've never worked more | 640 | 633 | Technology | [link](https://oioannou.com/blog/ai-promised-less-work/) · [HN](https://news.ycombinator.com/item?id=50257325) |
+| 2026-10-27 | Tuesday | 5 | Anthropic trained Claude on illegally obtained Stanford professors' books | 523 | 274 | Technology | [link](https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/) · [HN](https://news.ycombinator.com/item?id=50260814) |
+| 2026-10-27 | Tuesday | 6 | Python's experimental JIT to be removed | 508 | 277 | Technology | [link](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/) · [HN](https://news.ycombinator.com/item?id=50257419) |
+| 2026-10-27 | Tuesday | 7 | Wikipedia's Cleanup of AI-Generated Content | 479 | 218 | Technology | [link](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup) · [HN](https://news.ycombinator.com/item?id=50257326) |
+| 2026-10-27 | Tuesday | 8 | Roblox downloaded 145GB models from us (including adult content) without asking | 471 | 269 | Technology | [link](https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/) · [HN](https://news.ycombinator.com/item?id=50256985) |
+| 2026-10-27 | Tuesday | 9 | The Mythical Man-Month in the Age of AI | 456 | 330 | Technology | [link](https://j11g.com/the-mythical-man-month-in-the-age-of-ai) · [HN](https://news.ycombinator.com/item?id=50255298) |
+| 2026-10-27 | Tuesday | 10 | Police are using AI to pull over drivers for 'suspicious' behavior | 371 | 289 | Technology | [link](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220) · [HN](https://news.ycombinator.com/item?id=50261819) |
 | 2026-10-26 | Monday | 1 | Anthropic S-1 | 1613 | 1548 | Technology | [link](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) · [HN](https://news.ycombinator.com/item?id=50242939) |
 | 2026-10-26 | Monday | 2 | Microsoft offers mass buyouts for roughly a quarter of its workforce | 947 | 912 | Technology | [link](https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/) · [HN](https://news.ycombinator.com/item?id=50245524) |
 | 2026-10-26 | Monday | 3 | Three new discoveries in mathematics, computer science, and physics | 901 | 425 | Technology | [link](https://openai.com/index/building-scientific-understanding-with-academic-communities/) · [HN](https://news.ycombinator.com/item?id=50251344) |
