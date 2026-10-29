@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-28 · 531 days · 5310 stories*
+*Last updated: 2026-10-29 · 532 days · 5320 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-28 | Wednesday | 1 | Why is this fingerprinting script creating bioweapons? | 1227 | 232 | Technology | [link](https://nullpt.rs/fingerprinting-bioweapons) · [HN](https://news.ycombinator.com/item?id=50276998) |
+| 2026-10-28 | Wednesday | 2 | Evidence of a spying operation by ICE against left-wing social movements | 1138 | 941 | Technology | [link](https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/) · [HN](https://news.ycombinator.com/item?id=50272749) |
+| 2026-10-28 | Wednesday | 3 | Apple's git still trusts the compromised eMudhra certificates | 1135 | 396 | Technology | [link](https://emudhra.we-have-a-problem.com/apple.html) · [HN](https://news.ycombinator.com/item?id=50271640) |
+| 2026-10-28 | Wednesday | 4 | Gemini 4 Carbon | 935 | 751 | Technology | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) · [HN](https://news.ycombinator.com/item?id=50276792) |
+| 2026-10-28 | Wednesday | 5 | MacBook Pro with PROLED XDR Display and Touch | 578 | 977 | Technology | [link](https://www.apple.com/macbook-pro/proled-xdr-display/) · [HN](https://news.ycombinator.com/item?id=50276940) |
+| 2026-10-28 | Wednesday | 6 | Emacs Turns 50 | 484 | 207 | Technology | [link](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/) · [HN](https://news.ycombinator.com/item?id=50273171) |
+| 2026-10-28 | Wednesday | 7 | CNC Stone Carving | 471 | 130 | Technology | [link](https://carmelitegothic.com/cnc-stone-carving/) · [HN](https://news.ycombinator.com/item?id=50274409) |
+| 2026-10-28 | Wednesday | 8 | Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5 | 463 | 97 | Technology | [link](https://divagr.com/blog/qwenputer) · [HN](https://news.ycombinator.com/item?id=50282838) |
+| 2026-10-28 | Wednesday | 9 | Kentucky man becomes the first humanist granted religious exemption from AI | 460 | 503 | Technology | [link](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/) · [HN](https://news.ycombinator.com/item?id=50273396) |
+| 2026-10-28 | Wednesday | 10 | StackOverflow now gets fewer than 1000 questions a month | 450 | 374 | Technology | [link](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1) · [HN](https://news.ycombinator.com/item?id=50282454) |
 | 2026-10-27 | Tuesday | 1 | Ghostty 1.4 | 1031 | 328 | Technology | [link](https://ghostty.org/docs/install/release-notes/1-4-0) · [HN](https://news.ycombinator.com/item?id=50261998) |
 | 2026-10-27 | Tuesday | 2 | US Government is hiding a secret court ruling about how it spies on Americans | 939 | 345 | Technology | [link](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/) · [HN](https://news.ycombinator.com/item?id=50259604) |
 | 2026-10-27 | Tuesday | 3 | Genie 4 | 899 | 514 | Technology | [link](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) · [HN](https://news.ycombinator.com/item?id=50261319) |

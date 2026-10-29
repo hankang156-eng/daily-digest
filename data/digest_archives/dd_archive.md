@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-28 · 10084 items*
+*Last updated: 2026-10-29 · 10147 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-28 | Why is this fingerprinting script creating bioweapons? | HN | Technology | tech | 2026-10-28 | [link](https://nullpt.rs/fingerprinting-bioweapons) |
+| 2026-10-28 | Evidence of a spying operation by ICE against left-wing social movements | HN | Technology | tech | 2026-10-28 | [link](https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/) |
+| 2026-10-28 | Apple's git still trusts the compromised eMudhra certificates | HN | Technology | tech | 2026-10-28 | [link](https://emudhra.we-have-a-problem.com/apple.html) |
+| 2026-10-28 | Gemini 4 Carbon | HN | Technology | tech | 2026-10-28 | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) |
+| 2026-10-28 | MacBook Pro with PROLED XDR Display and Touch | HN | Technology | tech | 2026-10-28 | [link](https://www.apple.com/macbook-pro/proled-xdr-display/) |
+| 2026-10-28 | Emacs Turns 50 | HN | Technology | tech | 2026-10-28 | [link](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/) |
+| 2026-10-28 | CNC Stone Carving | HN | Technology | tech | 2026-10-28 | [link](https://carmelitegothic.com/cnc-stone-carving/) |
+| 2026-10-28 | Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5 | HN | Technology | tech | 2026-10-28 | [link](https://divagr.com/blog/qwenputer) |
+| 2026-10-28 | Kentucky man becomes the first humanist granted religious exemption from AI | HN | Technology | tech | 2026-10-28 | [link](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/) |
+| 2026-10-28 | StackOverflow now gets fewer than 1000 questions a month | HN | Technology | tech | 2026-10-28 | [link](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1) |
+| 2026-10-28 | Claude Code regularly sends each background agent’s transcript to its model | HN | Technology | tech | 2026-10-28 | [link](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce) |
+| 2026-10-28 | Wealth Inequality in America drawn to scale | HN | Technology | tech | 2026-10-28 | [link](https://dreamagainusa.org/) |
+| 2026-10-28 | Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents | HN | Technology | tech | 2026-10-28 | [link](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/) |
+| 2026-10-28 | Meta censored the No Kings Instagram account during a nationwide campaign | HN | Technology | tech | 2026-10-28 | [link](https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram) |
+| 2026-10-28 | A Health Update | HN | Technology | tech | 2026-10-28 | [link](https://furbo.org/2026/10/28/a-health-update/) |
+| 2026-10-28 | Dayjob: Tax – evaluating AI agents on 50 professional tax assignments | HN | Technology | tech | 2026-10-28 | [link](https://surgehq.ai/blog/dayjob-tax) |
+| 2026-10-28 | Biden’s Antitrust Enforcers Are Starting an A.I. Legal Company | NYT · Business | Business | news | 2026-10-28 | [link](https://www.nytimes.com/2026/10/28/business/dealbook/kanter-mekki-ai-startup-fluxcap.html) |
+| 2026-10-28 | Investors Brace for Big Tech’s A.I. Spending Bill | NYT · Business | Business | news | 2026-10-28 | [link](https://www.nytimes.com/2026/10/28/business/dealbook/ai-spending-quarterly-results-amazon-microsoft.html) |
+| 2026-10-28 | Who Stands to Gain From an Anthropic I.P.O. | NYT · Business | Business | news | 2026-10-28 | [link](https://www.nytimes.com/2026/10/27/business/dealbook/winners-losers-anthropic-ipo-ai.html) |
+| 2026-10-28 | New Batteries That Store Blistering Heat Are Taking Off | NYT · Energy & Environment | Energy & Environment | news | 2026-10-29 | [link](https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html) |
+| 2026-10-28 | In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation | NYT · Economy | Economy | news | 2026-10-29 | [link](https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html) |
+| 2026-10-28 | U.S. Pensions Are Riding the A.I. Wave. For Better or Worse. | NYT · Business | Business | news | 2026-10-28 | [link](https://www.nytimes.com/2026/10/27/business/pensions-ai.html) |
+| 2026-10-28 | Candidate Websites Are Filled With A.I.-Written Text, Analysis Shows | NYT · Politics | Politics | news | 2026-10-29 | [link](https://www.nytimes.com/2026/10/29/us/politics/campaign-websites-artificial-intelligence.html) |
+| 2026-10-28 | Fed Holds Rates Steady Despite Lack of Progress on Inflation | NYT · Economy | Economy | news | 2026-10-28 | [link](https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html) |
+| 2026-10-28 | The A.I. Boom Looks a Lot Like the Housing Bubble | NYT · Opinion | Opinion | opinion | 2026-10-28 | [link](https://www.nytimes.com/2026/10/25/opinion/ai-bubble-financial-crisis-lehman.html) |
+| 2026-10-28 | Microsoft’s Profit Jumps 32% Despite Big Increase in Spending | NYT · Technology | Technology | news | 2026-10-28 | [link](https://www.nytimes.com/2026/10/28/technology/microsoft-earnings-ai.html) |
+| 2026-10-28 | Michigan Voters Split on Candidate Solutions to Data Center Proposals | NYT · U.S. | U.S. | news | 2026-10-29 | [link](https://www.nytimes.com/2026/10/29/us/michigan-election-data-centers-voters.html) |
+| 2026-10-28 | E.P.A. Loosens Methane Rules for Oil Firms | NYT · Energy & Environment | Energy & Environment | news | 2026-10-28 | [link](https://www.nytimes.com/2026/10/27/climate/trump-methane-rules-epa-greenhouse-gas.html) |
+| 2026-10-28 | Officials Back Trump’s Claim That Triumphal Arch Is Needed for National Security | NYT · Politics | Politics | news | 2026-10-28 | [link](https://www.nytimes.com/2026/10/28/us/politics/trump-arch-national-security.html) |
+| 2026-10-28 | Justice Dept. Turns Civil Rights Group’s Informant Against It | NYT · Politics | Politics | news | 2026-10-28 | [link](https://www.nytimes.com/2026/10/28/us/politics/justice-dept-splc-informant.html) |
+| 2026-10-28 | Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO | NYT · Technology | Technology | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html) |
+| 2026-10-28 | Political Satire Is an American Tradition. Deceptive A.I. Ads Are Not. | NYT · Opinion | Opinion | opinion | 2026-10-28 | [link](https://www.nytimes.com/video/opinion/100000011237739/political-satire-is-an-american-tradition-deceptive-ai-ads-are-not.html) |
+| 2026-10-28 | Why Anger About Data Centers and Energy Prices May Not Swing Votes | NYT · Energy & Environment | Energy & Environment | news | 2026-10-23 | [link](https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html) |
+| 2026-10-28 | Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html) |
+| 2026-10-28 | The Key Numbers From Anthropic’s IPO Filing | NYT · Technology | Technology | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html) |
+| 2026-10-28 | Alphabet’s Revenue Rises 25% as Profit Falls | NYT · Technology | Technology | news | 2026-10-29 | [link](https://www.nytimes.com/2026/10/28/technology/alphabet-earnings-google-ai.html) |
+| 2026-10-28 | How the Biggest Names in Tech Test Product Changes | MIT IDE · MIT Research & Insights | Research | research | 2026-10-28 | [link](https://ide.mit.edu/insights/how-the-biggest-names-in-tech-test-product-changes/) |
+| 2026-10-28 | DCD Studio: Can Europe keep up in the AI infrastructure race? With Jeremie Eliahou Ontiveros, SemiAn | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-28 | [link](https://www.datacenterdynamics.com/en/videos/dcd-studio-can-europe-keep-up-in-the-ai-infrastructure-race-with-jeremie-eliahou-ontiveros-semianalysis/) |
+| 2026-10-28 | Vertiv shares jump 14 percent as data center earnings beat expectations | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-28 | [link](https://www.datacenterdynamics.com/en/news/vertiv-shares-jump-14-percent-as-data-center-earnings-beat-expectations/) |
+| 2026-10-28 | How Beta Technologies Is Clearing the Runway for Electric Flight | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-10-28 | [link](https://spectrum.ieee.org/beta-technologies-electric-aircraft) |
+| 2026-10-28 | FERC approves tougher MISO penalties for nonperforming demand-side resources | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-10-28 | [link](https://www.utilitydive.com/news/ferc-miso-penalties-demand-side-resource-lmr/873006/) |
+| 2026-10-28 | The cracks in the AI race for onsite gas power | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-10-28 | [link](https://www.latitudemedia.com/news/cracks-ai-race-for-onsite-gas-power/) |
+| 2026-10-28 | Has the industry been talking about distributed capacity all wrong? | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-10-28 | [link](https://www.latitudemedia.com/news/what-the-energy-sector-is-getting-wrong-about-distributed-capacity/) |
+| 2026-10-28 | Quoting Ted Sanders | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-28 | [link](https://simonwillison.net/2026/Oct/28/ted-sanders/) |
+| 2026-10-28 | Quoting Terk Terkowitz | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-28 | [link](https://simonwillison.net/2026/Oct/28/terk-terkowitz/) |
+| 2026-10-28 | Guessing the Name: MacBook Studio? | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-10-28 | [link](https://www.macrumors.com/2026/10/28/macbook-studio/) |
+| 2026-10-28 | Gadget Review: SoundPEATS CC3 Pro Bluetooth Headphones ★★★★⯪ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-10-28 | [link](https://shkspr.mobi/blog/2026/10/gadget-review-soundpeats-cc3-pro-bluetooth-headphones/) |
+| 2026-10-28 | Google introduced Gemini 4 Carbon, allegedly the most frontier model. | Reddit | Business | social | 2026-10-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xhu9ez/google_introduced_gemini_4_carbon_allegedly_the/) |
+| 2026-10-28 | It happened, my project manager just made a PR with Claude. | Reddit | Business | social | 2026-10-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xhl5cb/it_happened_my_project_manager_just_made_a_pr/) |
+| 2026-10-28 | Is Claude Pro actually worth it, or is the free plan enough? (As a student on a tight budget) | Reddit | Business | social | 2026-10-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xhp4o7/is_claude_pro_actually_worth_it_or_is_the_free/) |
+| 2026-10-28 | PSA for vibe coders: stop prompting tweaks, make Claude build you a remote control | Reddit | Business | social | 2026-10-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xha250/psa_for_vibe_coders_stop_prompting_tweaks_make/) |
+| 2026-10-28 | I got Claude Opus 5.5 to render photoreal Blender scenes — it took 3 failed attempts per scene, here | Reddit | Business | social | 2026-10-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xhi21l/i_got_claude_opus_55_to_render_photoreal_blender/) |
+| 2026-10-28 | PSA: REA taught Claude how to read binaries. Now let it touch the live process | Reddit | Business | social | 2026-10-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xi0lyr/psa_rea_taught_claude_how_to_read_binaries_now/) |
+| 2026-10-28 | Ex-OpenAI researcher: "anthropic is massively underplaying the recent security breach. i'm hearing c | Reddit | Business | social | 2026-10-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xhsy44/exopenai_researcher_anthropic_is_massively/) |
+| 2026-10-28 | Is Claude Desktop being redesigned by Claude without human supervision? | Reddit | Business | social | 2026-10-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xi08ho/is_claude_desktop_being_redesigned_by_claude/) |
+| 2026-10-28 | Anybody else see this bug? Claude not responding to me | Reddit | Business | social | 2026-10-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xhd34v/anybody_else_see_this_bug_claude_not_responding/) |
+| 2026-10-28 | The lack of transparency from Anthropic is Borderline concerning | Reddit | Business | social | 2026-10-28 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xhvgyp/the_lack_of_transparency_from_anthropic_is/) |
+| 2026-10-28 | This is why I love Obsidian! And nothing can beat it. | Reddit | Business | social | 2026-10-28 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xhkzuz/this_is_why_i_love_obsidian_and_nothing_can_beat/) |
+| 2026-10-28 | Search Plugin 'Fast Find 10K': Combination of Fzf, Telescope, OmniSearch & Smart Connections | Reddit | Business | social | 2026-10-28 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xhhjzp/search_plugin_fast_find_10k_combination_of_fzf/) |
+| 2026-10-28 | Swapped Mermaid for pele (the diagram lib Obsidian open sourced) on my blog, renders ~20x faster | Reddit | Business | social | 2026-10-28 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xhqnql/swapped_mermaid_for_pele_the_diagram_lib_obsidian/) |
+| 2026-10-28 | Kairos - a plugin to turn intentions into actions | Reddit | Business | social | 2026-10-28 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xha78t/kairos_a_plugin_to_turn_intentions_into_actions/) |
+| 2026-10-28 | Half a year of active note taking | Reddit | Business | social | 2026-10-28 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xi1izn/half_a_year_of_active_note_taking/) |
+| 2026-10-28 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-27 | Ghostty 1.4 | HN | Technology | tech | 2026-10-27 | [link](https://ghostty.org/docs/install/release-notes/1-4-0) |
 | 2026-10-27 | US Government is hiding a secret court ruling about how it spies on Americans | HN | Technology | tech | 2026-10-27 | [link](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/) |
 | 2026-10-27 | Genie 4 | HN | Technology | tech | 2026-10-27 | [link](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) |
