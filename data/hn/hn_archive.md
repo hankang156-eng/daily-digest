@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-29 · 532 days · 5320 stories*
+*Last updated: 2026-10-30 · 533 days · 5330 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-29 | Thursday | 1 | Patrick Stewart has died | 2984 | 628 | Technology | [link](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html) · [HN](https://news.ycombinator.com/item?id=50294702) |
+| 2026-10-29 | Thursday | 2 | We're releasing the weights of Mistral Large 4 | 1468 | 396 | Technology | [link](https://mistral.ai/news/mistral-large-4-oss/) · [HN](https://news.ycombinator.com/item?id=50289418) |
+| 2026-10-29 | Thursday | 3 | Binance-hacker-1029 – $5.6B stolen from Binance | 1355 | 835 | Technology | [link](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) · [HN](https://news.ycombinator.com/item?id=50296470) |
+| 2026-10-29 | Thursday | 4 | LLM Voice | 479 | 254 | Technology | [link](https://martinfowler.com/bliki/LLM-Voice.html) · [HN](https://news.ycombinator.com/item?id=50290177) |
+| 2026-10-29 | Thursday | 5 | DoorDash to acquire Instacart | 467 | 629 | Technology | [link](https://about.doordash.com/en-us/news/doordash-to-acquire-instacart) · [HN](https://news.ycombinator.com/item?id=50287919) |
+| 2026-10-29 | Thursday | 6 | H.264 Is Magic (2016) | 434 | 149 | Technology | [link](https://sidbala.com/h-264-is-magic/) · [HN](https://news.ycombinator.com/item?id=50291054) |
+| 2026-10-29 | Thursday | 7 | ‘You Are Done’: The letter sent to King by the F.B.I (2014) | 425 | 397 | Technology | [link](https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html) · [HN](https://news.ycombinator.com/item?id=50288867) |
+| 2026-10-29 | Thursday | 8 | Google Search is now less than half of Alphabet’s revenue | 414 | 344 | Technology | [link](https://www.kadoa.com/companies/insights/google-search-below-half) · [HN](https://news.ycombinator.com/item?id=50291945) |
+| 2026-10-29 | Thursday | 9 | Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5 | 336 | 242 | Technology | [link](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1) · [HN](https://news.ycombinator.com/item?id=50288019) |
+| 2026-10-29 | Thursday | 10 | Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang | 326 | 224 | Technology | [link](https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/) · [HN](https://news.ycombinator.com/item?id=50293047) |
 | 2026-10-28 | Wednesday | 1 | Why is this fingerprinting script creating bioweapons? | 1227 | 232 | Technology | [link](https://nullpt.rs/fingerprinting-bioweapons) · [HN](https://news.ycombinator.com/item?id=50276998) |
 | 2026-10-28 | Wednesday | 2 | Evidence of a spying operation by ICE against left-wing social movements | 1138 | 941 | Technology | [link](https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/) · [HN](https://news.ycombinator.com/item?id=50272749) |
 | 2026-10-28 | Wednesday | 3 | Apple's git still trusts the compromised eMudhra certificates | 1135 | 396 | Technology | [link](https://emudhra.we-have-a-problem.com/apple.html) · [HN](https://news.ycombinator.com/item?id=50271640) |
