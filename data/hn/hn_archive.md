@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-30 · 533 days · 5330 stories*
+*Last updated: 2026-10-31 · 534 days · 5340 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-30 | Friday | 1 | Backdoor in Claude Code for VS Code extension on the Cursor Marketplace | 893 | 529 | Technology | [link](https://phorion.io/blog/offical-claude-code-vsx-compromise/) · [HN](https://news.ycombinator.com/item?id=50300683) |
+| 2026-10-30 | Friday | 2 | Backdoors in official Claude Code extensions | 655 | 17 | Technology | [link](https://cyberplace.social/@GossiTheDog/117528831681803563) · [HN](https://news.ycombinator.com/item?id=50302334) |
+| 2026-10-30 | Friday | 3 | US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech | 640 | 501 | Technology | [link](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead) · [HN](https://news.ycombinator.com/item?id=50302814) |
+| 2026-10-30 | Friday | 4 | AI isn't replacing SREs, it's deskilling them | 598 | 448 | Technology | [link](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling) · [HN](https://news.ycombinator.com/item?id=50305693) |
+| 2026-10-30 | Friday | 5 | elect.horse | 547 | 152 | Technology | [link](https://elect.horse/) · [HN](https://news.ycombinator.com/item?id=50301462) |
+| 2026-10-30 | Friday | 6 | The $6.3B Binance hack was pulled off in just 20 minutes | 454 | 304 | Technology | [link](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/) · [HN](https://news.ycombinator.com/item?id=50303172) |
+| 2026-10-30 | Friday | 7 | Northflank Breached | 434 | 315 | Technology | [link](https://status.northflank.com) · [HN](https://news.ycombinator.com/item?id=50305025) |
+| 2026-10-30 | Friday | 8 | Claude Code VS Code extension with backdoor released on Cursor marketplace | 399 | 1 | Technology | [link](https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2) · [HN](https://news.ycombinator.com/item?id=50301983) |
+| 2026-10-30 | Friday | 9 | Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man | 315 | 177 | Technology | [link](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/) · [HN](https://news.ycombinator.com/item?id=50309647) |
+| 2026-10-30 | Friday | 10 | Anthropic may not secure investment-grade rating after IPO, Blackstone says | 310 | 254 | Technology | [link](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f) · [HN](https://news.ycombinator.com/item?id=50307219) |
 | 2026-10-29 | Thursday | 1 | Patrick Stewart has died | 2984 | 628 | Technology | [link](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html) · [HN](https://news.ycombinator.com/item?id=50294702) |
 | 2026-10-29 | Thursday | 2 | We're releasing the weights of Mistral Large 4 | 1468 | 396 | Technology | [link](https://mistral.ai/news/mistral-large-4-oss/) · [HN](https://news.ycombinator.com/item?id=50289418) |
 | 2026-10-29 | Thursday | 3 | Binance-hacker-1029 – $5.6B stolen from Binance | 1355 | 835 | Technology | [link](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) · [HN](https://news.ycombinator.com/item?id=50296470) |

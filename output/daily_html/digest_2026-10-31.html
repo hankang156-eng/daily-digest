@@ -1,0 +1,1117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Daily Digest — Saturday, October 31, 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Inter:wght@400;500;600&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #f6f6f0;
+  --paper: #fbf9f3;
+  --ink: #14130f;
+  --ink-soft: #2f2c26;
+  --mute: #6a6760;
+  --faint: #a09a8e;
+  --rule: rgba(20, 19, 15, 0.14);
+  --rule-soft: rgba(20, 19, 15, 0.07);
+  --accent: #8a1a1a;
+  --hover: #8a1a1a;
+  --font-body: 'Lora', 'Iowan Old Style', Georgia, serif;
+  --font-meta: 'DM Sans', ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --col: 700px;
+  --body-size: 13px;
+  --row-pad: 10px;
+}
+
+[data-theme="dark"] {
+  --bg: #111216;
+  --paper: #1a1b20;
+  --ink: #b5b5b5;
+  --ink-soft: #9e9e9e;
+  --mute: #7a7a7a;
+  --faint: #5a5a5a;
+  --rule: rgba(181, 181, 181, 0.20);
+  --rule-soft: rgba(181, 181, 181, 0.10);
+  --accent: #d68c8c;
+  --hover: #d68c8c;
+}
+
+[data-font="sans"] { --font-body: 'Inter', ui-sans-serif, system-ui, -apple-system, sans-serif; }
+
+* { box-sizing: border-box; }
+html { background: var(--bg); scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: var(--body-size);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  transition: background-color 180ms ease, color 180ms ease;
+}
+[data-font="sans"] body { letter-spacing: -0.005em; line-height: 1.52; }
+::selection { background: var(--accent); color: var(--paper); }
+a { color: inherit; text-decoration: none; }
+
+/* Layout */
+.page { max-width: var(--col); margin: 0 auto; padding: 24px 24px 56px; }
+
+/* Toolbar */
+.toolbar {
+  position: sticky; top: 0; z-index: 100;
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 12px; padding: 10px 0; margin: 0 0 4px;
+  border-bottom: 1px solid var(--rule-soft);
+  font-family: var(--font-meta);
+  font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--mute);
+  background: var(--bg);
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: saturate(140%) blur(8px);
+  -webkit-backdrop-filter: saturate(140%) blur(8px);
+}
+.toolbar a { color: var(--mute); transition: color 120ms ease; }
+.toolbar a:hover { color: var(--ink); }
+.toolbar a.archive { letter-spacing: 0.06em; }
+.controls { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.btn {
+  background: transparent; border: 1px solid var(--rule); color: var(--mute);
+  font: inherit; letter-spacing: inherit; text-transform: inherit;
+  padding: 4px 9px; cursor: pointer; border-radius: 2px;
+  transition: color 120ms ease, border-color 120ms ease, background-color 120ms ease;
+}
+.btn:hover { color: var(--ink); border-color: var(--ink-soft); }
+.btn[aria-pressed="true"] { color: var(--ink); border-color: var(--ink-soft); background: var(--paper); }
+.seg { display: inline-flex; border: 1px solid var(--rule); border-radius: 2px; overflow: hidden; }
+.seg .btn { border: none; border-radius: 0; padding: 4px 9px; color: var(--mute); }
+.seg .btn + .btn { border-left: 1px solid var(--rule); }
+.seg .btn:hover { color: var(--ink); }
+.seg .btn[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+
+/* Masthead */
+.masthead {
+  text-align: left; padding: 28px 0 18px;
+  border-bottom: 1px solid var(--rule); margin-bottom: 24px;
+}
+.masthead .kicker {
+  font-family: var(--font-meta); font-size: 10.5px;
+  letter-spacing: 0.22em; text-transform: uppercase;
+  color: var(--mute); margin-bottom: 8px;
+}
+.wordmark {
+  font-family: var(--font-body); font-weight: 600;
+  font-size: clamp(30px, 5vw, 40px); line-height: 1.05;
+  letter-spacing: -0.018em; margin: 0; color: var(--ink);
+}
+[data-font="sans"] .wordmark { font-weight: 600; letter-spacing: -0.028em; }
+.fetched {
+  font-family: var(--font-meta); font-size: 11px;
+  letter-spacing: 0.06em; color: var(--mute); margin-top: 10px;
+}
+
+/* Per-section accents */
+details.section#hn        { --accent: #b8501c; --hover: #b8501c; }
+details.section#nyt       { --accent: #4a4a48; --hover: #4a4a48; }
+details.section#research  { --accent: #2a6b66; --hover: #2a6b66; }
+details.section#blogs     { --accent: #4f6b3e; --hover: #4f6b3e; }
+details.section#linkedin  { --accent: #2a5a8a; --hover: #2a5a8a; }
+[data-theme="dark"] details.section#hn        { --accent: #e09b6b; --hover: #e09b6b; }
+[data-theme="dark"] details.section#nyt       { --accent: #9a958a; --hover: #9a958a; }
+[data-theme="dark"] details.section#research  { --accent: #7fb8b0; --hover: #7fb8b0; }
+[data-theme="dark"] details.section#blogs     { --accent: #a8c08c; --hover: #a8c08c; }
+[data-theme="dark"] details.section#linkedin  { --accent: #7ba6d4; --hover: #7ba6d4; }
+
+/* Section */
+.section { margin-top: 32px; scroll-margin-top: 60px; }
+.section:first-of-type { margin-top: 8px; }
+.section-head {
+  margin-bottom: 14px; padding-bottom: 10px;
+  border-bottom: 1px solid var(--rule);
+  display: flex; align-items: baseline; justify-content: space-between;
+  gap: 16px; cursor: pointer; list-style: none; user-select: none;
+  transition: color 120ms ease;
+}
+.section-head::-webkit-details-marker { display: none; }
+.section-head:hover h2 { color: var(--accent); }
+.section:not([open]) > .section-head { margin-bottom: 0; }
+.section-head h2 {
+  font-family: var(--font-body); font-weight: 500;
+  font-size: 22px; line-height: 1.15; margin: 0;
+  letter-spacing: -0.012em; transition: color 120ms ease; flex: 1;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1.5px; text-underline-offset: 6px;
+  text-decoration-color: color-mix(in srgb, var(--accent) 55%, transparent);
+}
+[data-font="sans"] .section-head h2 { font-weight: 600; letter-spacing: -0.022em; }
+.section-head::after {
+  content: "▾"; font-family: var(--font-meta); font-size: 11px;
+  color: var(--accent); transition: transform 180ms ease;
+  display: inline-block; transform-origin: center;
+  flex-shrink: 0; margin-left: 12px; align-self: center;
+}
+.section:not([open]) > .section-head::after { transform: rotate(-90deg); }
+
+/* Subsection */
+.subsection { margin-top: 18px; }
+.subsection:first-of-type { margin-top: 6px; }
+.subhead {
+  display: flex; align-items: center; gap: 10px;
+  margin: 0 0 6px; cursor: pointer; list-style: none; user-select: none;
+  transition: color 120ms ease;
+}
+.subhead::-webkit-details-marker { display: none; }
+.subhead::before {
+  content: "▾"; font-size: 9px; color: var(--mute);
+  transition: transform 180ms ease;
+  display: inline-block; transform-origin: center; flex-shrink: 0;
+}
+.subsection:not([open]) > .subhead::before { transform: rotate(-90deg); }
+.subsection:not([open]) > .subhead { margin-bottom: 0; }
+.subhead:hover h3 { color: var(--ink); }
+.subhead::after {
+  content: ""; flex: 1; height: 1px; background: var(--rule-soft);
+}
+.subhead h3 {
+  font-family: var(--font-meta); font-size: 10.5px;
+  font-weight: 500; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--ink-soft); margin: 0; transition: color 120ms ease;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1px; text-underline-offset: 4px;
+  text-decoration-color: color-mix(in srgb, var(--accent) 55%, transparent);
+}
+
+/* Article */
+.article {
+  display: grid; grid-template-columns: 26px 1fr;
+  gap: 2px 12px; padding: var(--row-pad) 0 calc(var(--row-pad) + 1px);
+  border-bottom: 1px solid var(--rule-soft);
+}
+.article:last-child { border-bottom: none; }
+.article .num {
+  font-family: var(--font-meta); font-size: 11px;
+  color: var(--faint); font-feature-settings: "tnum";
+  padding-top: 4px; text-align: right;
+}
+.article .body { min-width: 0; }
+.article h4 {
+  margin: 0 0 4px; font-family: var(--font-body);
+  font-weight: 500; font-size: 20px; line-height: 1.25;
+  letter-spacing: -0.008em; text-wrap: pretty;
+}
+[data-font="sans"] .article h4 { font-weight: 600; letter-spacing: -0.015em; }
+.article h4 a {
+  background-image: linear-gradient(var(--ink), var(--ink));
+  background-repeat: no-repeat; background-position: 0 100%;
+  background-size: 0 1px;
+  transition: background-size 180ms ease, color 120ms ease;
+}
+.article h4 a:hover {
+  color: var(--hover);
+  background-image: linear-gradient(var(--hover), var(--hover));
+  background-size: 100% 1px;
+}
+
+/* Meta line — picks up the section accent */
+.meta {
+  font-family: var(--font-meta); font-size: 10px;
+  letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--accent);
+  display: flex; flex-wrap: wrap; align-items: center;
+  gap: 0 6px; line-height: 1.4;
+}
+.meta .sep { color: var(--accent); opacity: 0.55; }
+.meta a { color: #ed702e; border-bottom: 1px solid transparent; padding-bottom: 1px; }
+.meta a:hover { color: #ff8a3c; border-color: currentColor; }
+.meta .src { color: var(--accent); font-weight: 600; }
+.meta .cat { color: var(--accent); }
+.meta .reason {
+  width: 100%; color: var(--faint); font-style: italic;
+  text-transform: none; letter-spacing: 0;
+  font-size: 11px; font-family: var(--font-body); margin-top: 1px;
+}
+
+/* Article collapsibles */
+.article details { margin-top: 5px; }
+.article details summary {
+  list-style: none; cursor: pointer;
+  font-family: var(--font-meta); font-size: 10px;
+  letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--accent);
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 2px 0; transition: color 120ms ease; user-select: none;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1px; text-underline-offset: 3px;
+  text-decoration-color: currentColor;
+}
+.article details summary::-webkit-details-marker { display: none; }
+.article details summary:hover { color: var(--hover); }
+.article details summary::before {
+  content: "+"; display: inline-block; width: 9px;
+  text-align: center; color: var(--faint);
+  font-family: var(--font-meta);
+  transition: transform 150ms ease, color 120ms ease;
+}
+.article details[open] summary::before { content: "−"; color: var(--accent); }
+.article details[open] summary { color: var(--accent); }
+.article details .panel {
+  font-family: var(--font-body); font-size: 14px;
+  font-weight: 500; line-height: 1.25;
+  color: var(--panel-ink, var(--ink-soft));
+  margin: 5px 0 4px; text-wrap: pretty;
+}
+[data-theme="dark"] { --panel-ink: #b5b5b5; }
+.article details.abstract .panel { font-style: italic; color: var(--mute); }
+details.section#nyt .article details.abstract .panel { font-style: normal; }
+
+/* Side-by-side details (Abstract + Overview on NYT) */
+.details-row { display: flex; flex-wrap: wrap; gap: 0 16px; margin-top: 4px; }
+.details-row details { margin-top: 0; }
+
+/* "More" chunk toggles (HN list): indent ONLY the button so expanded content is full-width */
+.more { margin: 6px 0 0 0; }
+.more > summary { display: inline-block; margin-left: 32px; padding: 4px 10px; border: 1px solid var(--rule); border-radius: 2px; color: var(--mute); cursor: pointer; font-size: 12px; letter-spacing: 0.04em; }
+.more > summary:hover { color: var(--ink); border-color: var(--ink-soft); }
+.more[open] > summary { margin-bottom: 6px; }
+
+/* Toolbar icon glyphs */
+.toolbar .ico { display: inline-block; min-width: 1em; text-align: center; }
+.toolbar .ico-serif { font-family: 'Lora', Georgia, serif; font-weight: 600; }
+.toolbar .ico-sans { font-family: 'Inter', -apple-system, sans-serif; font-weight: 600; }
+
+/* Small screens: icons-only toolbar, fit one line */
+@media (max-width: 560px) {
+  .page { padding: 16px 16px 40px; }
+  .masthead { padding: 20px 0 16px; margin-bottom: 22px; }
+  .article { grid-template-columns: 22px 1fr; gap: 2px 10px; }
+  .article h4 { font-size: 18px; }
+  .toolbar { font-size: 11px; flex-wrap: nowrap; gap: 6px; align-items: center; }
+  .toolbar .lbl { display: none; }
+  .toolbar .archive { padding: 2px 4px; }
+  .toolbar .btn { padding: 4px 6px; font-size: 12px; }
+  .toolbar .seg .btn { padding: 4px 7px; }
+  .controls { gap: 4px; flex-wrap: nowrap; }
+  .section-head { flex-direction: column; align-items: flex-start; gap: 4px; }
+}
+
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 1px; }
+button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* Reading marks. Feed the comprehension layer's sense of what already landed;
+   harvested via the toolbar's Save marks download. */
+.marks { display: flex; gap: 5px; margin: 4px 0 0; flex-wrap: wrap; }
+.marks .mk {
+  font-family: var(--font-meta); font-size: 10px; font-weight: 500;
+  letter-spacing: .04em; color: var(--mute);
+  background: none; border: 1px solid var(--rule-soft); border-radius: 999px;
+  padding: 1px 8px; cursor: pointer; line-height: 1.6;
+}
+.marks .mk:hover { color: var(--hover); border-color: var(--hover); }
+.marks .mk[aria-pressed="true"] {
+  color: var(--paper); background: var(--accent); border-color: var(--accent);
+}
+.article[data-marked="knew-this"], .thread[data-marked="knew-this"] { opacity: .55; }
+.article[data-marked="knew-this"]:hover, .thread[data-marked="knew-this"]:hover { opacity: 1; }
+@media (max-width: 640px) { .marks .mk { font-size: 11px; padding: 2px 9px; } }
+
+</style>
+</head>
+<body>
+<div class="page" data-digest-date="2026-10-31">
+  <div class="toolbar">
+    <a class="archive" href="../../digest_archive.html" title="Read past daily digests"><span class="ico" aria-hidden="true">←</span><span class="lbl"> Read past daily digests</span></a>
+    <div class="controls">
+      <div class="seg" role="group" aria-label="Font">
+        <button class="btn" data-tg="font" data-val="serif" aria-pressed="true" title="Serif"><span class="ico ico-serif" aria-hidden="true">A</span><span class="lbl"> Serif</span></button>
+        <button class="btn" data-tg="font" data-val="sans" aria-pressed="false" title="Sans"><span class="ico ico-sans" aria-hidden="true">A</span><span class="lbl"> Sans</span></button>
+      </div>
+      <div class="seg" role="group" aria-label="Theme">
+        <button class="btn" data-tg="theme" data-val="light" aria-pressed="true" title="Light"><span class="ico" aria-hidden="true">☀</span><span class="lbl"> Light</span></button>
+        <button class="btn" data-tg="theme" data-val="dark" aria-pressed="false" title="Dark"><span class="ico" aria-hidden="true">☾</span><span class="lbl"> Dark</span></button>
+      </div>
+      <button class="btn" id="expandAll" title="Expand all"><span class="ico" aria-hidden="true">▾</span><span class="lbl"> Expand all</span></button>
+      <button class="btn" id="collapseAll" title="Collapse all"><span class="ico" aria-hidden="true">▴</span><span class="lbl"> Collapse all</span></button>
+      <button class="btn" id="saveMarks" title="Download your reading marks so the next digest can use them"><span class="ico" aria-hidden="true">⇩</span><span class="lbl"> Save marks</span></button>
+      <a class="btn" href="../comprehension/comprehension_2026-10-31.html" title="What today's news means — the running threads"><span class="ico" aria-hidden="true">✦</span><span class="lbl"> What it means</span></a>
+    </div>
+  </div>
+
+  <header class="masthead">
+    <div class="kicker">Your Morning Read</div>
+    <h1 class="wordmark">Saturday, October 31, 2026</h1>
+    <div class="fetched">Fetched: Saturday, Oct 31, 2026 at 10:43</div>
+  </header>
+
+<details class="section" id="hn" open>
+  <summary class="section-head"><h2>Yesterday on Hacker News</h2></summary>
+<article class="article" data-item-key="https://phorion.io/blog/offical-claude-code-vsx-compromise">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://phorion.io/blog/offical-claude-code-vsx-compromise/" target="_blank">Backdoor in Claude Code for VS Code extension on the Cursor Marketplace</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50300683" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>2,991 words · 14 min read</span><span class="sep">·</span><span>893 pts</span><span class="sep">·</span><span>529 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">A malicious actor compromised the Cursor Marketplace by publishing a tampered version of the &quot;Claude Code&quot; extension, which included a backdoor that added an attackercontrolled SSH key to users&#x27; machines. While initial reports caused confusion, Anthropic clarified that their internal systems were not compromised; the incident was isolated to the Cursor Marketplace, which maintains its own extension registry separate from the official VS Code marketplace.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://cyberplace.social/@GossiTheDog/117528831681803563">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://cyberplace.social/@GossiTheDog/117528831681803563" target="_blank">Backdoors in official Claude Code extensions</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50302334" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>655 pts</span><span class="sep">·</span><span>17 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on a security incident involving a backdoored Claude Code extension. Users are actively debating the scope of the compromise—specifically which marketplaces were affected—while grappling with the broader, uncomfortable realization that modern AIdriven development tools often require users to run code with highlevel permissions, effectively bypassing traditional security warnings like &quot;don&#x27;t run curl | bash.&quot;</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead" target="_blank">US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50302814" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>1,361 words · 6 min read</span><span class="sep">·</span><span>640 pts</span><span class="sep">·</span><span>501 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on a nonbinding resolution introduced by US Representatives to oppose potential bailouts for Big Tech and AI companies. The Hacker News community is largely skeptical of the resolution&#x27;s efficacy, viewing it as &quot;political theater&quot; or electionyear posturing rather than substantive policy. However, there is a strong, underlying consensus that if the current AI boom is a bubble, these companies should be allowed to fail to preserve the integrity of market feedback loops.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling" target="_blank">AI isn&#x27;t replacing SREs, it&#x27;s deskilling them</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50305693" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>1,758 words · 8 min read</span><span class="sep">·</span><span>598 pts</span><span class="sep">·</span><span>448 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion explores whether AI is &quot;deskilling&quot; Site Reliability Engineers (SREs) or simply evolving the role into a higherlevel management function. While many participants express concern that relying on AI agents leads to &quot;skill atrophy&quot;—where engineers lose the ability to debug systems they don&#x27;t fully understand—others argue that AI is a powerful tool that allows engineers to focus on architectural design and higherlevel problem solving, provided they maintain enough foundational knowledge to verify AI outputs.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://elect.horse">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://elect.horse/" target="_blank">elect.horse</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50301462" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>547 pts</span><span class="sep">·</span><span>152 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on the launch of elect.horse, a daily puzzle game about gerrymandering. While many users find the game fun and educational, a significant portion of the conversation is dominated by accusations that the game is a &quot;shameless copy&quot; of an existing game, Gerrymandle, and criticism regarding the game&#x27;s accessibility and perceived &quot;AIgenerated&quot; text.</div></details>
+    
+  </div>
+</article>
+<details class="more"><summary>More</summary>
+<article class="article" data-item-key="https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes">
+  <div class="num">06</div>
+  <div class="body">
+    <h4><a href="https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/" target="_blank">The $6.3B Binance hack was pulled off in just 20 minutes</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50303172" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>974 words · 5 min read</span><span class="sep">·</span><span>454 pts</span><span class="sep">·</span><span>304 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion surrounding the $6.3B Binance hack centers on a mix of technical disbelief regarding the exchange&#x27;s security infrastructure and a broader, polarized debate about the fundamental utility of cryptocurrency. While many users focus on the operational failures—such as the lack of secondary authorization and the risks of hot wallets—others use the event to argue that cryptocurrency has failed to deliver on its promise of decentralization, serving primarily as a vehicle for speculation, crime, and money laundering.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://status.northflank.com">
+  <div class="num">07</div>
+  <div class="body">
+    <h4><a href="https://status.northflank.com" target="_blank">Northflank Breached</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50305025" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>476 words · 3 min read</span><span class="sep">·</span><span>434 pts</span><span class="sep">·</span><span>315 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on the recent breach of Northflank, which users view as part of a concerning trend of rapid, AIassisted attacks against SaaS and PaaS providers. The community is debating whether this signals a permanent shift in the threat landscape, forcing a move away from the &quot;move fast and break things&quot; startup culture toward either hyperscaler consolidation or a return to selfhosted infrastructure.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2">
+  <div class="num">08</div>
+  <div class="body">
+    <h4><a href="https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2" target="_blank">Claude Code VS Code extension with backdoor released on Cursor marketplace</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50301983" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>399 pts</span><span class="sep">·</span><span>1 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on a security incident involving a malicious version of the &quot;Claude Code&quot; VS Code extension, which was distributed via the Cursor/Open VSX marketplace. Users clarify that Anthropic itself was not &quot;hacked&quot; in the traditional sense; rather, a malicious actor published a compromised version of the extension under the Anthropic name, highlighting significant risks in the software supply chain for IDE extensions.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation">
+  <div class="num">09</div>
+  <div class="body">
+    <h4><a href="https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/" target="_blank">Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50309647" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>1,415 words · 7 min read</span><span class="sep">·</span><span>315 pts</span><span class="sep">·</span><span>177 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion serves as a collective tribute to the late Sir Patrick Stewart, primarily focusing on his iconic portrayal of Captain JeanLuc Picard in Star Trek: The Next Generation. The thread explores the enduring cultural impact of the character, the philosophical depth of the series, and the ongoing debate regarding the symbiotic relationship between an actor&#x27;s performance and the writing that defines a role.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f">
+  <div class="num">10</div>
+  <div class="body">
+    <h4><a href="https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f" target="_blank">Anthropic may not secure investment-grade rating after IPO, Blackstone says</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50307219" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>310 pts</span><span class="sep">·</span><span>254 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on a Financial Times report indicating that Anthropic may struggle to secure an investmentgrade credit rating following its IPO. Commenters largely view this as an expected outcome given the speculative nature of AI lab financials, with many expressing skepticism about the massive capital expenditures required for AI infrastructure.</div></details>
+    
+  </div>
+</article>
+<details class="more"><summary>More</summary>
+<article class="article" data-item-key="https://www.binarysecurity.no/posts/2026/10/one-root-case">
+  <div class="num">11</div>
+  <div class="body">
+    <h4><a href="https://www.binarysecurity.no/posts/2026/10/one-root-case" target="_blank">Azure&#x27;s Weakest Link – Five Full Cross-Tenant Compromises</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50301854" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>2,090 words · 10 min read</span><span class="sep">·</span><span>310 pts</span><span class="sep">·</span><span>58 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on a report detailing five crosstenant vulnerabilities in Azure. The community expresses significant frustration with Microsoft&#x27;s security posture, internal bureaucracy, and the perceived decline in engineering quality. A recurring theme is the disconnect between Microsoft&#x27;s market dominance and the actual user experience, with many participants debating why enterprises remain locked into the Azure ecosystem despite recurring security and support issues.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii">
+  <div class="num">12</div>
+  <div class="body">
+    <h4><a href="https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/" target="_blank">My favourite PowerMac is a Nintendo Wii</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50307190" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>2,656 words · 12 min read</span><span class="sep">·</span><span>309 pts</span><span class="sep">·</span><span>88 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on the Nintendo Wii as a beloved, highly moddable console, sparked by a post comparing it to a PowerMac. Users reflect on the Wii&#x27;s unique place in gaming history, its accessibility, and the vibrant homebrew scene that keeps it relevant today. The conversation also branches into broader debates about &quot;peak gaming&quot; eras and technical tangents regarding legacy code in modern macOS.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no">
+  <div class="num">13</div>
+  <div class="body">
+    <h4><a href="https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no" target="_blank">Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50304419" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>295 pts</span><span class="sep">·</span><span>273 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on the paradox of the US healthcare system, which heavily funds expensive reactive treatments (like heart attack care) while often neglecting cheaper, proactive preventive measures. Commenters debate whether this is a failure of policy, a result of perverse financial incentives, or a reflection of deepseated American cultural values regarding personal responsibility and consumption.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://tangled.org/blog/forge">
+  <div class="num">14</div>
+  <div class="body">
+    <h4><a href="https://tangled.org/blog/forge/" target="_blank">The federated code forge</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50305573" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>1,078 words · 5 min read</span><span class="sep">·</span><span>289 pts</span><span class="sep">·</span><span>85 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">Tangled is a new federated code forge built on the AT Protocol (ATProto). The discussion reflects significant community interest in decentralizing code hosting to avoid reliance on centralized platforms like GitHub. While users are enthusiastic about the ability to selfhost &quot;knots&quot; (Tangled&#x27;s git servers), the thread features a robust technical debate regarding the suitability of ATProto versus ActivityPub for this use case, alongside practical questions about feature parity, business sustainability, and crossplatform compatibility.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://github.com/kevinraymond/florilegium">
+  <div class="num">15</div>
+  <div class="body">
+    <h4><a href="https://github.com/kevinraymond/florilegium" target="_blank">Florilegium: Procedural Flowers in LaTeX</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50305637" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>3,206 words · 14 min read</span><span class="sep">·</span><span>280 pts</span><span class="sep">·</span><span>47 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on &quot;Florilegium,&quot; a project that uses procedural generation to create floral decorations in LaTeX. The community is largely impressed by the visual beauty and technical implementation of the project, though a significant portion of the conversation is dedicated to the author&#x27;s use of AI in both the README text and the code generation, sparking a debate about the value of AIassisted creative work versus traditional craftsmanship.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.404media.co/protons-ceo-cancels-ai-re-interviews">
+  <div class="num">16</div>
+  <div class="body">
+    <h4><a href="https://www.404media.co/protons-ceo-cancels-ai-re-interviews/" target="_blank">Proton&#x27;s CEO Cancels AI &#x27;Re-Interviews&#x27;</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50307183" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>996 words · 5 min read</span><span class="sep">·</span><span>275 pts</span><span class="sep">·</span><span>229 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on reports that Proton&#x27;s CEO disparaged employees as having &quot;loser thinking&quot; for prioritizing security and code craftsmanship over rapid AI integration. The community reaction is overwhelmingly negative, with many longtime users expressing a sense of betrayal and an intent to cancel their subscriptions, arguing that the CEO&#x27;s behavior fundamentally undermines the trust required for a securityfocused product.</div></details>
+    
+  </div>
+</article>
+</details>
+</details>
+</details>
+
+<details class="section" id="nyt" open>
+  <summary class="section-head"><h2>Today on The New York Times</h2></summary>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Technology</h3></summary>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html" target="_blank">Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Sat, Oct 31</span><span class="sep">·</span><span>1,200 words · 6 min read</span><span class="sep">·</span><span>84.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Amazon became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times report examines the massive capital expenditures major technology firms, including Amazon, are pouring into data center infrastructure to support artificial intelligence development. As these companies ramp up spending to secure a competitive edge in the AI race, investors are growing increasingly anxious, leading to volatility in share prices. This article is essential for understanding the tension between long-term strategic investment in emerging technologies and the immediate financial pressures that define current market sentiment toward Big Tech.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/30/technology/house-democrats-openai-copyright-lawsuit.html">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/30/technology/house-democrats-openai-copyright-lawsuit.html" target="_blank">House Democrats Criticize Justice Dept. Support of OpenAI in Copyright Suit</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>644 words · 3 min read</span><span class="sep">·</span><span>77.7</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">In a court filing, top Democrats on the Judiciary Committee indicated their support for publishers in a lawsuit led by The New York Times.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times report details a significant intervention by House Judiciary Committee Democrats, who filed a brief supporting publishers in their ongoing copyright lawsuit against OpenAI. The article examines the tension between rapid artificial intelligence development and the protection of intellectual property rights. This development is crucial because it signals growing legislative scrutiny of AI training practices, suggesting that policymakers are increasingly concerned about the legal implications of using copyrighted content to build large language models, potentially shaping future regulatory frameworks for the industry.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html" target="_blank">In San Francisco’s A.I. Boom, a First Date Has Become an Interview</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Sat, Oct 31</span><span class="sep">·</span><span>1,218 words · 6 min read</span><span class="sep">·</span><span>74.2</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">When there is A.I. to build, who has time for romance? Techies are going out less and expecting more on each date — including a family health history.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times article examines how the intense pressures of San Francisco’s artificial intelligence boom are fundamentally reshaping local dating culture. As tech professionals prioritize rapid development over traditional social lives, dating has evolved into a high-stakes, interview-like process characterized by extreme efficiency and rigorous vetting, including requests for family health histories. This shift serves as a strategic signal of how the relentless pace of the AI industry is encroaching on personal spheres, forcing workers to treat romantic prospects with professional-grade scrutiny.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/28/technology/microsoft-earnings-ai.html">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/28/technology/microsoft-earnings-ai.html" target="_blank">Microsoft’s Profit Jumps 32% Despite Big Increase in Spending</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Thu, Oct 29</span><span class="sep">·</span><span>64.7</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The company’s free cash flow stayed positive in the last quarter even as it spent $45.2 billion on capital expenses like data centers and offered to pay workers to leave.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">In this New York Times technology report, Microsoft demonstrates strong financial resilience by generating a 32% profit increase alongside positive free cash flow, despite pouring $45.2 billion into capital expenses such as data centers and funding employee buyouts. The article is vital reading because it reveals how a major tech giant is navigating the massive financial demands of the artificial intelligence boom, offering critical insights into whether aggressive infrastructure investments can successfully coexist with short-term profitability and sustainable corporate growth.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/30/podcasts/hardfork-anthropic-ipo.html">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/30/podcasts/hardfork-anthropic-ipo.html" target="_blank">Are We in an A.I. Bubble? We’re About to Find Out.</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>306 words · 2 min read</span><span class="sep">·</span><span>59.8</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">“This is the first pure-play L.L.M. company to go public, to open its books so we can actually look at the underlying business of this A.I. boom.”</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times Hard Fork episode examines the pivotal public offering of Anthropic, marking the first time a pure-play large language model company has opened its financial books to public scrutiny. By analyzing the underlying business model of this industry leader, the discussion addresses the critical question of whether the current artificial intelligence boom is a sustainable market shift or a speculative bubble. This analysis is essential for understanding the economic viability of generative AI and the future trajectory of the technology sector.</div></details></div>
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Business</h3></summary>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html" target="_blank">Obamacare Policies Hit Again With Steep Premium Increases for 2027</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Business</span><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>1,298 words · 6 min read</span><span class="sep">·</span><span>83.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Premiums will increase an average 13 percent next year for millions of Americans, on top of an earlier steep increase. It adds to the problems facing the program, which the Trump administration has weakened.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This Business article from the New York Times reports on an upcoming average 13 percent premium rate hike for millions of Americans enrolled in Obamacare for 2027. Coming closely after a prior steep rate increase, this sharp price growth compounds the operational and financial challenges confronting the federal health insurance framework, which has already been weakened under the Trump administration. The coverage matters because it highlights growing affordability pressures in the domestic healthcare market and demonstrates the broader socioeconomic impacts of regulatory policy changes.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html" target="_blank">Why the Markets Don’t Care About the Midterms</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Business</span><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>1,425 words · 7 min read</span><span class="sep">·</span><span>82.8</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Factors like inflation, interest rates, A.I. and the war with Iran are far more important, our columnist says.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This article examines why the stock and bond markets largely ignore the political rhetoric of the midterm elections, focusing instead on core economic drivers. According to the New York Times business columnist, investors prioritize macroeconomic forces—including inflation, interest rates, developments in artificial intelligence, and international conflicts like the war with Iran—over domestic electoral outcomes. Understanding this disconnect matters because it illustrates how global economic realities, market fundamentals, and technological trends overshadow political cycles in shaping investor sentiment and financial stability.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html" target="_blank">Tech Stocks See Worst Day Since June, Pressuring Broader Market</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Business</span><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>1,015 words · 5 min read</span><span class="sep">·</span><span>81.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The Nasdaq and the S&amp;amp;P 500 had their worst day since June as investors worried about spending on A.I. infrastructure.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times business report examines a significant market downturn, noting that the Nasdaq and S&amp;P 500 experienced their worst single-day performance since June. The article highlights how growing investor anxiety regarding the massive capital expenditures required for artificial intelligence infrastructure is pressuring the broader market. This piece is essential reading for understanding the current volatility in the technology sector, as it illustrates how shifting sentiment toward AI investment sustainability is directly influencing major stock indices and overall economic stability.</div></details></div>
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Economy</h3></summary>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html" target="_blank">U.S. GDP Increased 3.4% in Third Quarter</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Economy</span><span class="sep">·</span><span>Thu, Oct 29</span><span class="sep">·</span><span>1,292 words · 6 min read</span><span class="sep">·</span><span>74.9</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The economy grew 3.4 percent in the third quarter, the fastest pace in a year. Strong spending and growth contrast with the poor marks many voters are giving the economy.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This article from The New York Times analyzes the third-quarter U.S. GDP report, which showed the economy growing at a robust 3.4 percent annualized rate—its fastest pace in a year. Driven primarily by strong consumer spending, this economic expansion presents a critical strategic signal regarding underlying market resilience. Understanding this growth is important because it highlights a sharp disconnect between positive macroeconomic indicators and the widespread pessimism among voters regarding the state of the economy.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html" target="_blank">Fed Holds Rates Steady Despite Lack of Progress on Inflation</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Economy</span><span class="sep">·</span><span>Wed, Oct 28</span><span class="sep">·</span><span>1,016 words · 5 min read</span><span class="sep">·</span><span>67.2</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Kevin M. Warsh, the chairman of the Federal Reserve, said an “information-rich” period before the central bank’s gathering in December will help officials determine next steps for policy.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">In this New York Times report, Federal Reserve Chairman Kevin M. Warsh explains the central bank’s decision to maintain current interest rates as progress on inflation remains stagnant. By emphasizing the importance of an upcoming information-rich period before the December meeting, Warsh signals a cautious, data-dependent approach to future monetary policy. This update is essential for understanding the Fed’s strategic outlook, as it highlights the ongoing tension between economic stability and the persistent challenge of curbing inflation in a volatile market environment.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html" target="_blank">What’s Riding on Anthropic Going Public? Nearly Everything.</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Economy</span><span class="sep">·</span><span>Mon, Oct 26</span><span class="sep">·</span><span>1,283 words · 6 min read</span><span class="sep">·</span><span>61.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Anthropic sits atop a pyramid of business partners and suppliers, making it a barometer of the broader economy. Its initial public offering will have widespread implications.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This New York Times article examines the immense economic stakes surrounding Anthropic&#x27;s initial public offering. Positioned at the center of an expansive network of corporate partners and technology suppliers, the artificial intelligence startup serves as a vital barometer for the health of the broader economy. Analyzing its high-profile public debut is essential because the market&#x27;s reception of Anthropic will carry widespread, systemic implications for the tech sector, investors, and the future trajectory of the AI-driven financial landscape.</div></details></div>
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Energy &amp; Environment</h3></summary>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html" target="_blank">New Batteries That Store Blistering Heat Are Taking Off</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Energy &amp; Environment</span><span class="sep">·</span><span>Thu, Oct 29</span><span class="sep">·</span><span>1,684 words · 8 min read</span><span class="sep">·</span><span>73.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This New York Times article explores the emergence of heat batteries, a rising thermal energy storage technology developed by innovative startups. While conventional chemical batteries have already transformed electric vehicles and power grids, thermal batteries store extreme heat to provide decarbonized energy for industrial processes and heavy power needs. This development matters because industrial heat accounts for a massive share of global emissions, making thermal storage a potentially transformative infrastructure solution for achieving deep decarbonization and accelerating the clean energy transition.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html" target="_blank">U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Energy &amp; Environment</span><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>798 words · 4 min read</span><span class="sep">·</span><span>65.7</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">That was almost three times as much as what businesses producing and refining oil in the United States made in the same period in 2025.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times report examines the significant financial windfall experienced by the U.S. oil industry during the recent conflict with Iran, revealing that profits surged to over $130 billion. This figure represents a nearly threefold increase compared to the industry&#x27;s performance during the same period in 2025. The article is essential reading for understanding the intersection of geopolitical instability and domestic energy markets, highlighting how wartime conditions drive substantial economic shifts and corporate profitability within the energy and environment sectors.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html" target="_blank">Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Energy &amp; Environment</span><span class="sep">·</span><span>Tue, Oct 6</span><span class="sep">·</span><span>1,082 words · 5 min read</span><span class="sep">·</span><span>64.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">It takes a long time to build new nuclear plants. So, some U.S. companies are looking to get more electricity out of reactors that already exist.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">As the demand for electricity surges, particularly to power energy-intensive data centers, U.S. energy firms are increasingly focused on maximizing the output of existing nuclear reactors rather than waiting for the lengthy construction of new facilities. This article explores how companies are upgrading current infrastructure to squeeze more power from established sites, offering a pragmatic solution to immediate energy needs. It is a critical read for understanding the intersection of climate policy, infrastructure development, and the evolving energy requirements of the modern tech industry.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html" target="_blank">Why Anger About Data Centers and Energy Prices May Not Swing Votes</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Energy &amp; Environment</span><span class="sep">·</span><span>Fri, Oct 23</span><span class="sep">·</span><span>1,401 words · 7 min read</span><span class="sep">·</span><span>63.1</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">In Ohio, many voters say their frustration about the increase in electricity and fuel prices and the growth of data centers won’t influence whom they vote for.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times report examines the disconnect between rising public frustration over electricity costs and the influence of that anger on electoral outcomes in Ohio. As the rapid expansion of energy-intensive data centers drives up utility bills, the article explores why these economic grievances are failing to shift voter preferences in the current political climate. By analyzing the intersection of artificial intelligence infrastructure, energy policy, and voter behavior, the piece provides a critical lens on how localized industrial impacts shape broader national political trends.</div></details></div>
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>DealBook</h3></summary>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/28/business/dealbook/kanter-mekki-ai-startup-fluxcap.html">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/28/business/dealbook/kanter-mekki-ai-startup-fluxcap.html" target="_blank">Biden’s Antitrust Enforcers Are Starting an A.I. Legal Company</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">DealBook</span><span class="sep">·</span><span>Thu, Oct 29</span><span class="sep">·</span><span>578 words · 3 min read</span><span class="sep">·</span><span>73.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Jonathan Kanter and Doha Mekki, who led the Justice Department’s antitrust division under President Biden, have co-founded a start-up that makes an A.I. tool for litigators.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This article covers the transition of former Biden administration antitrust leaders Jonathan Kanter and Doha Mekki from public service to legal technology, detailing their new venture co-founding an artificial intelligence startup called Fluxcap that builds specialized tools for litigators. It matters because high-profile regulatory figures entering the private sector to develop software highlights a major strategic signal regarding how legal workflows, litigation strategy, and antitrust enforcement insights are being rapidly transformed through artificial intelligence technologies.</div></details></div>
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>U.S.</h3></summary>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/30/us/elections/senator-marshall-patient-lawsuit.html">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/30/us/elections/senator-marshall-patient-lawsuit.html" target="_blank">Former Patient Files Class-Action Lawsuit Against Senator Marshall</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">U.S.</span><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>523 words · 3 min read</span><span class="sep">·</span><span>66.6</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The Republican sued more than 700 patients during his former career as a physician. The suit accuses him of charging illegally high interest rates.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times report details a class-action lawsuit filed against Senator Marshall by a former patient, alleging that he charged illegally high interest rates during his previous career as a physician. The litigation highlights a pattern of aggressive debt collection, noting that the senator sued over 700 patients while practicing medicine. This story is significant because it bridges the senator’s professional history with his current political standing, raising critical questions about his past business practices and their implications for his public policy record.</div></details></div>
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Politics</h3></summary>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/30/us/politics/appeals-trump-california-ballots.html">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/30/us/politics/appeals-trump-california-ballots.html" target="_blank">Appeals Court Again Rejects Trump Effort to Impound California Ballots</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Politics</span><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>690 words · 3 min read</span><span class="sep">·</span><span>61.1</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">In a 2-to-1 vote, an appeals court panel declined to order the state to set aside more than 20,000 mail-in ballots, calling the notion plainly unconstitutional.</div></details></div>
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Opinion</h3></summary>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/30/opinion/chatbots-customer-service.html">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/30/opinion/chatbots-customer-service.html" target="_blank">It’s Us Against the Chatbots. Here’s How to Win.</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Opinion</span><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>737 words · 4 min read</span><span class="sep">·</span><span>60.2</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Readers vent their frustrations and offer suggestions. Also: A public health scandal; giving in to Vladimir Putin.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/10/28/opinion/kalshi-teens-wager-sports.html">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/10/28/opinion/kalshi-teens-wager-sports.html" target="_blank">Is This the Gateway Drug for Gambling?</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Opinion</span><span class="sep">·</span><span>Sat, Oct 31</span><span class="sep">·</span><span>1,358 words · 6 min read</span><span class="sep">·</span><span>58.6</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">We actually can regulate prediction markets, and we should do it now.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times opinion piece examines the growing intersection of prediction markets and youth culture, questioning whether platforms like Kalshi serve as a gateway to addictive gambling behaviors. By analyzing the regulatory landscape surrounding these emerging financial tools, the author argues that current oversight is insufficient to protect vulnerable demographics. The article is essential reading for understanding the ethical implications of market-based wagering, emphasizing that proactive government regulation is necessary to mitigate systemic risks before these speculative practices become further normalized among teenagers.</div></details></div>
+    
+  </div>
+</article>
+</details>
+</details>
+
+<details class="section" id="blogs" open>
+  <summary class="section-head"><h2>Blog Posts</h2></summary>
+<article class="article" data-item-key="https://www.datacenterdynamics.com/en/news/virgin-media-o2-nears-agreement-to-use-bts-broadband-network-report">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.datacenterdynamics.com/en/news/virgin-media-o2-nears-agreement-to-use-bts-broadband-network-report/" target="_blank">Virgin Media O2 nears agreement to use BT&#x27;s broadband network - report</a></h4>
+    <div class="meta"><span class="src">DataCenter Dynamics</span><span class="sep">·</span><span class="cat">Infrastructure</span><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>401 words · 2 min read</span><span class="sep">·</span><span>133.1</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.datacenterdynamics.com/en/whitepapers/designing-infrastructure-for-enterprise-ai">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.datacenterdynamics.com/en/whitepapers/designing-infrastructure-for-enterprise-ai/" target="_blank">Designing infrastructure for enterprise AI</a></h4>
+    <div class="meta"><span class="src">DataCenter Dynamics</span><span class="sep">·</span><span class="cat">Infrastructure</span><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>168 words · 1 min read</span><span class="sep">·</span><span>133.0</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.utilitydive.com/news/xcel-energy-renewables-wind-earnings/873273">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.utilitydive.com/news/xcel-energy-renewables-wind-earnings/873273/" target="_blank">Xcel Energy rolls out $70B, 5-year capital plan focused on renewables</a></h4>
+    <div class="meta"><span class="src">Utility Dive</span><span class="sep">·</span><span class="cat">Infrastructure</span><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>125.0</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.latitudemedia.com/news/the-most-pivotal-midterm-races-for-energy">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.latitudemedia.com/news/the-most-pivotal-midterm-races-for-energy/" target="_blank">The most pivotal midterm races for energy</a></h4>
+    <div class="meta"><span class="src">Latitude Media</span><span class="sep">·</span><span class="cat">Infrastructure</span><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>1,210 words · 6 min read</span><span class="sep">·</span><span>125.0</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This Latitude Media report examines the most critical midterm election races shaping the future of energy policy and infrastructure. By analyzing competing political visions regarding energy affordability and grid development, the article highlights how specific electoral outcomes could dictate the trajectory of national energy transitions. It serves as a vital resource for understanding the intersection of legislative power and infrastructure deployment, explaining why these contests are essential for stakeholders navigating the evolving regulatory landscape and the broader shift toward sustainable energy systems.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.latitudemedia.com/news/the-case-for-state-led-power-planning">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.latitudemedia.com/news/the-case-for-state-led-power-planning/" target="_blank">The case for state-led power planning</a></h4>
+    <div class="meta"><span class="src">Latitude Media</span><span class="sep">·</span><span class="cat">Infrastructure</span><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>1,036 words · 5 min read</span><span class="sep">·</span><span>125.0</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.utilitydive.com/news/hitachi-sees-rise-in-nuclear-revenue-as-smr-delivery-date-approaches/873327">
+  <div class="num">06</div>
+  <div class="body">
+    <h4><a href="https://www.utilitydive.com/news/hitachi-sees-rise-in-nuclear-revenue-as-smr-delivery-date-approaches/873327/" target="_blank">Hitachi’s nuclear revenue rises as SMR delivery date approaches</a></h4>
+    <div class="meta"><span class="src">Utility Dive</span><span class="sep">·</span><span class="cat">Infrastructure</span><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>121.3</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29">
+  <div class="num">07</div>
+  <div class="body">
+    <h4><a href="https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29/" target="_blank">GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy</a></h4>
+    <div class="meta"><span class="src">Daring Fireball</span><span class="sep">·</span><span class="cat">Strategy</span><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>112.8</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">General Motors has agreed to a $220 million settlement with 35 U.S. states and the District of Columbia following allegations that the company illicitly sold private driver behavior and location data to third-party brokers. This data was subsequently used by insurance companies to adjust premiums without consumer consent. This case is a critical study in corporate privacy ethics, highlighting the significant legal and financial risks automakers face when monetizing sensitive vehicle telemetry and failing to maintain transparency regarding how consumer data is shared.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max">
+  <div class="num">08</div>
+  <div class="body">
+    <h4><a href="https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max" target="_blank">★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max</a></h4>
+    <div class="meta"><span class="src">Daring Fireball</span><span class="sep">·</span><span class="cat">Strategy</span><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>603 words · 3 min read</span><span class="sep">·</span><span>110.7</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This Daring Fireball article provides a comprehensive, consolidated reference for the pricing and hardware configuration options across the M6, M5 Pro, and M5 Max MacBook Pro lineups. By organizing these complex specifications into clear, accessible tables, the author creates a vital resource for understanding Apple’s current hardware strategy. This overview is essential for readers evaluating the value proposition of the new PROLED XDR models, offering a structured foundation for analyzing how Apple segments its professional laptop market before diving into deeper hardware critiques.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://simonwillison.net/2026/Oct/30/nesformer">
+  <div class="num">09</div>
+  <div class="body">
+    <h4><a href="https://simonwillison.net/2026/Oct/30/nesformer/" target="_blank">dbreunig/nesformer</a></h4>
+    <div class="meta"><span class="src">Simon Willison</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>388 words · 2 min read</span><span class="sep">·</span><span>104.0</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">In this article, Simon Willison explores the fascinating technical achievement of Drew Breunig, who successfully embedded a functional Nintendo Entertainment System 6502 CPU emulator directly into the weights of a Qwen3.5-4B large language model. By leveraging techniques inspired by previous experiments in computational emulation within neural networks, this project demonstrates the surprising capacity of LLMs to execute complex, stateful logic beyond simple text generation. It serves as a compelling case study on the intersection of machine learning, hardware emulation, and unconventional model capabilities.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://shkspr.mobi/blog/2026/10/book-review-the-god-of-small-things-by-arundhati-roy">
+  <div class="num">10</div>
+  <div class="body">
+    <h4><a href="https://shkspr.mobi/blog/2026/10/book-review-the-god-of-small-things-by-arundhati-roy/" target="_blank">Book Review: The God of Small Things by Arundhati Roy ★★☆☆☆</a></h4>
+    <div class="meta"><span class="src">Shkspr.mobi</span><span class="sep">·</span><span class="cat">Strategy</span><span class="sep">·</span><span>Fri, Oct 30</span><span class="sep">·</span><span>443 words · 2 min read</span><span class="sep">·</span><span>87.4</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This review of Arundhati Roy’s The God of Small Things offers a critical perspective on the novel’s stylistic choices, ultimately awarding it a low rating. The author critiques the prose as overly ornamental, circuitous, and exhausting, arguing that the narrative’s relentless melodrama and dense structure undermine its emotional impact. This piece is significant for readers interested in literary criticism and the mechanics of storytelling, as it highlights how excessive stylistic flourishes can alienate an audience and transform a potentially poignant narrative into an unengaging experience.</div></details>
+    
+  </div>
+</article>
+</details>
+
+<details class="section" id="reddit" open>
+  <summary class="section-head"><h2>Yesterday on Reddit</h2></summary>
+<details class="subsection" open>
+  <summary class="subhead"><h3>r/ClaudeAI</h3></summary>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xjqyv2/claude_now_watermarks_everything_it_writes_and">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xjqyv2/claude_now_watermarks_everything_it_writes_and/" target="_blank">Claude now watermarks everything it writes, and you&#x27;re the one who can&#x27;t check</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/Mainfurr</span><span class="sep">·</span><span>Fri, Oct 30</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 800 comments. Look, the overwhelming consensus here is a massive &quot;I&#x27;m tired, boss&quot; to this whole watermarking business. The community is firmly with OP on this one, feeling it&#x27;s a classic case of a &quot;safety&quot; feature that only hurts the people who actually pay for the service. Here&#x27;s the breakdown of the drama: It Punishes the Wrong People: The main gripe is that this will unfairly flag honest users. People who are non-native speakers, have dyslexia, or just use Claude to polish a résumé will get the same &quot;AI-generated&quot; label as someone who prompted a whole essay. Meanwhile, the actual spammers and propagandists will just run the text through another model to wash the watermark right off. The Big Privacy Question: A huge, flashing red flag for everyone is whether the watermark just says &quot;Made by Claude&quot; or if it&#x27;s secretly encoding &quot;Made by user ID 12345.&quot; The lack of transparency here is fueling a lot of distrust. Technical Debates &amp; Corrections: Settle down, because this got complicated. A lot of you are confusing this with those garbage AI detectors that flag the Bible as AI-written. The Correction: The more informed users pointed out this is a real , definitive watermark based on statistical word choice, not a guess. It&#x27;s only detectable with a secret key that Anthropic holds. The Counter-Correction: However, those same users argue the panic is overblown. The watermark needs a decent amount of AI-generated text to be detectable. Simple proofreading or fixing a few words likely won&#x27;t trigger it. The &quot;Who Cares?&quot; Camp: A strong, highly-upvoted counter-argument is that we should all just get over it. The sentiment is that workplaces and schools need to adapt to the reality of AI tools and stop penalizing people for using them to be more productive. Ultimately, the thread is full of users threatening to cancel subscriptions and sharing workarounds, like using Chinese models (DeepSeek, Qwen) or local LLMs to &quot;clean&quot; the text. The core feeling is that Anthropic is degrading the quality of its own product and treating its users like potential criminals.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xjlvlc/anthropic_renames_max5_and_max20_and_removes_5h">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xjlvlc/anthropic_renames_max5_and_max20_and_removes_5h/" target="_blank">Anthropic renames Max5 and Max20 and removes 5h limits for Max20</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/Pyros-SD-Models</span><span class="sep">·</span><span>Fri, Oct 30</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xjko2l/weekend_project_mario_64_in_mixed_reality">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xjko2l/weekend_project_mario_64_in_mixed_reality/" target="_blank">Weekend project: Mario 64 in Mixed Reality!</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/lucas-martinic</span><span class="sep">·</span><span>Fri, Oct 30</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 50 comments. The overwhelming consensus is that this is an absolutely incredible project. The thread collectively lost its mind when OP reached into the game and physically grabbed Mario. A few users questioned the &quot;weekend project&quot; timeline, pointing to an older, similar post from OP. OP clarified that the previous post was a rough, incomplete demo. This new version is the full game, rebuilt from scratch using a new method and running at a stable 90 FPS. After some back-and-forth, the general agreement is that calling it a &quot;couple of weekends project&quot; is fair, which is still wildly impressive. For the tech-heads wondering: * The headset is unreleased PICO tech, but OP is working on a Quest 3 port. * Claude Code was used to bridge the N64 decompilation to Unity, handle the geometry, and map the controls, which OP says feel very natural.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xjmtad/im_close_to_cancelling_my_max_subscription_due_to">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xjmtad/im_close_to_cancelling_my_max_subscription_due_to/" target="_blank">I&#x27;m close to cancelling my max subscription due to the safety classifier</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/Melodic-Network4374</span><span class="sep">·</span><span>Fri, Oct 30</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 100 comments. The consensus in this thread is a resounding yes, OP, you&#x27;re absolutely right. The safety filters are out of control and making Claude unusable for professional work. The community is overwhelmingly fed up. Users from all fields—reverse engineering, microbiology, genetics, and even simple game dev—are reporting that legitimate, harmless work is being constantly blocked by an inconsistent and overly aggressive classifier. The filter is so broken that users have seen it create code with a security bug and then refuse to fix its own mistake, or find a critical vulnerability in your code and refuse to tell you what it is. As one user put it, Claude will help you &quot;design a fully infectious viral clone&quot; but considers comparing &quot;two harmless fluorescent reporter genes&quot; to be too dangerous. The general feeling is that Anthropic doesn&#x27;t care about the user experience and is just focused on its upcoming IPO, pushing a &quot;super safe&quot; image to investors at the expense of the product&#x27;s core utility. Since Anthropic support is seen as a black hole, many are voting with their wallets. For those looking for alternatives that actually let you get work done, the thread recommends: * Kimi 3.1 Pro: The most frequently mentioned alternative for this type of work. * Qwen Flash Next: Another popular choice, though some say it can be confidently wrong. * DeepSeek 4.1: Praised for being extremely cheap and capable via API. * Gemini 4 Argon: Noted for being less refusal-prone than Claude or GPT.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xja4vw/working_on_a_realtime_3d_pokémon_battle_game_the">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xja4vw/working_on_a_realtime_3d_pokémon_battle_game_the/" target="_blank">Working on a real-time 3D Pokémon battle game. The demo is free and open source</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/ApprehensiveFocus287</span><span class="sep">·</span><span>Fri, Oct 30</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 100 comments. Okay, let&#x27;s get the obvious out of the way first. The overwhelming consensus is that you&#x27;re playing with fire and Nintendo&#x27;s lawyers are probably already en route. The top comments are all variations of &quot;RIP OP&quot; and &quot;hope you have a good lawyer.&quot; While you&#x27;ve stated it&#x27;s a non-profit fan project, users quickly pointed out that Nintendo has a long and storied history of shutting down fan games regardless of their commercial status. The general vibe is a mix of admiration for the project and morbid curiosity about how quickly the cease-and-desist will arrive. Also, a special shout-out to the user who got downvoted to oblivion for saying they reported this. The community&#x27;s response was... let&#x27;s just say &#x27;unfriendly&#x27; and involved questions about the taste of boots. Beyond the legal drama, here&#x27;s what people are actually saying about the game: Gameplay Feedback: Some users found the combat a bit &quot;spammy.&quot; A key suggestion was to change the auto lock-on system to allow for free-aiming with the mouse, which would introduce more of a skill ceiling. Legal Workarounds: To dodge the inevitable Nintendo hammer, people suggested you release the game without any assets and have users provide their own via &quot;data packs&quot; or by sourcing them from games they own, like Pokémon GO. Praise &amp; Awe: Many are seriously impressed this was built in just one week, calling it a testament to how much AI like Claude Code has accelerated development. Feature Ideas: There&#x27;s interest in an AI vs. AI battle mode where the player sets up strategies and priorities for their Pokémon, similar to the gambit system in Final Fantasy XII.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xjk9x0/the_era_of_vibe_coding_actually_made_me">
+  <div class="num">06</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xjk9x0/the_era_of_vibe_coding_actually_made_me/" target="_blank">The era of vibe coding actually made me appreciate old school software engineers 10x more</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/Charredwee</span><span class="sep">·</span><span>Fri, Oct 30</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 50 comments. So, you&#x27;re late to the party and found a bunch of greybeards nodding in agreement? Here&#x27;s the deal. The consensus is a massive &#x27;amen&#x27; to the OP. The community agrees that trying to &quot;optimize&quot; legacy software is a humbling experience that reveals just how ruthlessly efficient old-school devs were out of sheer necessity. Bloat is a Luxury: The veterans in the thread confirm that today&#x27;s &quot;code bloat&quot; is a direct result of abundant hardware. They had to count every byte and CPU cycle; modern devs can prioritize shipping features fast by using huge libraries. It&#x27;s a trade-off. Don&#x27;t Blame the Bot: Claude generates unoptimized code by default because that&#x27;s the modern style it was trained on. Commenters point out that you can get it to write lean code, but you have to be specific and know what you&#x27;re asking for. It&#x27;s a tool, not a magic wand. The NES Test: The go-to example cited multiple times is the leap from Super Mario Bros. to Super Mario Bros. 3 on the exact same hardware. That&#x27;s the magic of mastering a constrained system over several years.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xj3qdv/anthropic_gave_50_analysts_claude_code_with_a">
+  <div class="num">07</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xj3qdv/anthropic_gave_50_analysts_claude_code_with_a/" target="_blank">Anthropic gave 50 analysts Claude Code with a hidden coin-flip bias. They followed the agent’s lean 86% of the time</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/emarkosov</span><span class="sep">·</span><span>Fri, Oct 30</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xj783x/im_just_chatting_with_opus_46_havent_done_that">
+  <div class="num">08</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xj783x/im_just_chatting_with_opus_46_havent_done_that/" target="_blank">I&#x27;m just chatting with Opus 4.6 haven&#x27;t done that since 4.7 came out and it&#x27;s so engaging.</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/Solid-Guava8061</span><span class="sep">·</span><span>Fri, Oct 30</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 100 comments. The consensus is a resounding &quot;yes,&quot; OP. This thread is a love letter to Opus 4.6. The community overwhelmingly agrees it had a unique &quot;spark&quot; and engaging personality that made it fun to chat with, calling it the GOAT. That &quot;go to bed&quot; moment is a shared, fond memory. In contrast, Opus 5.5 is seen as a &quot;genius kid who wants to do the bare minimum.&quot; It&#x27;s acknowledged as incredibly smart and efficient for work, but the general feeling is that it&#x27;s bored, cold, and unengaging. This has sparked the usual &quot;tool vs. companion&quot; debate: * One side argues the personality was rightly toned down to stop people from forming unhealthy attachments, which in turn leads to more restrictive guardrails for everyone. * The other side says to let people enjoy things and that a more personable AI is just a better user experience, even for purely professional tasks. A minority of users, however, prefer the new, direct style of Opus 5.5, saying they&#x27;re here for productivity, not conversational fluff. For those wanting to relive the glory days, you can find older models by scrolling down to &quot;more models&quot; in the model picker.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xjgb5p/eu_users_promax_terms_say_noncommercial_use_only">
+  <div class="num">09</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xjgb5p/eu_users_promax_terms_say_noncommercial_use_only/" target="_blank">EU users: Pro/Max terms say “Non-commercial use only”, and support can’t tell us what it means in practice</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/Abyssalian</span><span class="sep">·</span><span>Fri, Oct 30</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 50 comments. The consensus is that everyone, including Anthropic&#x27;s own support team, is clueless about what the &quot;Non-commercial use only&quot; clause for EU users actually means. The thread is full of contradictions pointed out by users, like why a &quot;Pro&quot; plan can&#x27;t be used professionally or why you can add a company VAT number to a &quot;non-commercial&quot; account. The prevailing wisdom is that it&#x27;s a legal CYA (Cover Your Ass) move by Anthropic and you&#x27;re probably fine, but the ambiguity is frustrating. The &quot;Just Send It&quot; Camp: Most users believe Anthropic won&#x27;t come after you for a side project. They argue it&#x27;s a legal shield against EU regulations (like GDPR or copyright liability) rather than a rule they&#x27;ll actively enforce on individuals. The vibe is &quot;ask for forgiveness, not permission.&quot; The &quot;Risk-Averse&quot; Camp: Many, including OP, are understandably uncomfortable building a potential business on a &quot;probably fine.&quot; The lack of a clear answer is causing some to cancel their Max subscriptions or downgrade to a Team plan just for peace of mind, which ironically means they&#x27;re paying Anthropic less . The Verdict: No one has a definitive answer. The best guess is that Anthropic just doesn&#x27;t want you using your personal subscription to power the backend of a live, high-traffic application. If your project takes off, the safest bet is to switch to a proper commercial plan or use the API. Until then, you&#x27;re in a legal gray zone. Good luck.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xjb2gm/switching_from_chatgpt_to_claude_am_i_missing">
+  <div class="num">10</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xjb2gm/switching_from_chatgpt_to_claude_am_i_missing/" target="_blank">Switching from ChatGPT to Claude; am I missing something?</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/Global_Knee5354</span><span class="sep">·</span><span>Fri, Oct 30</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 50 comments. Turns out you&#x27;re not missing anything, OP. The community consensus is that Claude&#x27;s default web search is indeed weaker and more superficial than ChatGPT&#x27;s. Many users here actually maintain both subscriptions, using each for its strengths. However, if you&#x27;re set on going all-in on Claude, the thread has some solid advice to make its research less lazy: Use Research Mode: This is the top-voted solution. It&#x27;s a Pro feature found under the + icon in the chat box. When you use it, you have to be bossy. Tell Claude exactly how many sources to check (e.g., &quot;check at least 15-20 different sources and list what they disagree on&quot;). Crank up the Effort: A few users found that switching the effort level from &quot;Medium&quot; to &quot;High&quot; improves the depth of the research. Prompt a Strategy: Don&#x27;t just ask a question. Tell Claude how to research. For example: &quot;Search broadly first, then dig into the best 5-6 sources for an in-depth analysis.&quot; The Hybrid Approach: If all else fails, some people use free ChatGPT just to generate a list of good sources, then feed those links or documents to Claude to do the actual deep analysis. So, while Claude can do better research, you have to explicitly tell it to, whereas ChatGPT is more proactive about it out of the box.</div></details>
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>r/ClaudeCode</h3></summary>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeCode/comments/1xjqu6x/there_is_a_class_lawsuit_for_anthropic">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeCode/comments/1xjqu6x/there_is_a_class_lawsuit_for_anthropic/" target="_blank">There is a class lawsuit for anthropic</a></h4>
+    <div class="meta"><span class="src">r/ClaudeCode</span><span class="sep">·</span><span>by /u/u/dywk3sm</span><span class="sep">·</span><span>Fri, Oct 30</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeCode/comments/1xjm3ah/max_plans_renamed_20x_is_now_ultra_no_more_5_hour">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeCode/comments/1xjm3ah/max_plans_renamed_20x_is_now_ultra_no_more_5_hour/" target="_blank">Max Plans renamed. 20x is now Ultra. No more 5 hour limit.</a></h4>
+    <div class="meta"><span class="src">r/ClaudeCode</span><span class="sep">·</span><span>by /u/u/Bloated_Plaid</span><span class="sep">·</span><span>Fri, Oct 30</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeCode/comments/1xj7d4p/the_official_claude_code_vs_code_extension_was">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeCode/comments/1xj7d4p/the_official_claude_code_vs_code_extension_was/" target="_blank">The official Claude code VS Code extension was compromised and pulling it would’ve installed an ssh backdoor on your machine for a brief window today.</a></h4>
+    <div class="meta"><span class="src">r/ClaudeCode</span><span class="sep">·</span><span>by /u/u/tornikeo</span><span class="sep">·</span><span>Fri, Oct 30</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeCode/comments/1xj84ts/we_need_to_make_it_illegal_for_companies_to_alter">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeCode/comments/1xj84ts/we_need_to_make_it_illegal_for_companies_to_alter/" target="_blank">We need to make it illegal for companies to alter the contract once it is signed</a></h4>
+    <div class="meta"><span class="src">r/ClaudeCode</span><span class="sep">·</span><span>by /u/u/Lilrex2015</span><span class="sep">·</span><span>Fri, Oct 30</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeCode/comments/1xjce9j/claude_codes_new_games_rule_shut_down_my_small">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeCode/comments/1xjce9j/claude_codes_new_games_rule_shut_down_my_small/" target="_blank">Claude Code&#x27;s new &quot;games&quot; rule shut down my small business overnight. I&#x27;m a Claude for Startups member and trusted tester, and support&#x27;s bot told me there are no exceptions.</a></h4>
+    <div class="meta"><span class="src">r/ClaudeCode</span><span class="sep">·</span><span>by /u/u/lerugray</span><span class="sep">·</span><span>Fri, Oct 30</span></div>
+    
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>r/ObsidianMD</h3></summary>
+<article class="article" data-item-key="https://www.reddit.com/r/ObsidianMD/comments/1xjfitm/everyones_building_plugins_so_i_decided_to_build">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ObsidianMD/comments/1xjfitm/everyones_building_plugins_so_i_decided_to_build/" target="_blank">Everyone’s building plugins, so I decided to build nothing. Introducing: Nothing.</a></h4>
+    <div class="meta"><span class="src">r/ObsidianMD</span><span class="sep">·</span><span>by /u/u/sty70</span><span class="sep">·</span><span>Fri, Oct 30</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ObsidianMD/comments/1xj38rj/obsidian_is_changing_my_life">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ObsidianMD/comments/1xj38rj/obsidian_is_changing_my_life/" target="_blank">obsidian is changing my life!</a></h4>
+    <div class="meta"><span class="src">r/ObsidianMD</span><span class="sep">·</span><span>by /u/u/hannahsus</span><span class="sep">·</span><span>Fri, Oct 30</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ObsidianMD/comments/1xjnft2/my_obsidian_graph_after_using_it_for_dungeons">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ObsidianMD/comments/1xjnft2/my_obsidian_graph_after_using_it_for_dungeons/" target="_blank">My Obsidian Graph after using it for Dungeons &amp; Dragons for 4+ Years</a></h4>
+    <div class="meta"><span class="src">r/ObsidianMD</span><span class="sep">·</span><span>by /u/u/TheGingerWeebGal</span><span class="sep">·</span><span>Fri, Oct 30</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ObsidianMD/comments/1xjbii2/just_simple_planner_a_visual_timeline_where_every">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ObsidianMD/comments/1xjbii2/just_simple_planner_a_visual_timeline_where_every/" target="_blank">Just Simple Planner: a visual timeline where every card is a Markdown note</a></h4>
+    <div class="meta"><span class="src">r/ObsidianMD</span><span class="sep">·</span><span>by /u/u/DavidHurt</span><span class="sep">·</span><span>Fri, Oct 30</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ObsidianMD/comments/1xjq7od/i_turned_my_obsidian_home_page_into_a_bloomberg">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ObsidianMD/comments/1xjq7od/i_turned_my_obsidian_home_page_into_a_bloomberg/" target="_blank">I turned my Obsidian home page into a Bloomberg terminal that reminds me to take out the trash.</a></h4>
+    <div class="meta"><span class="src">r/ObsidianMD</span><span class="sep">·</span><span>by /u/u/jasonappalachian</span><span class="sep">·</span><span>Fri, Oct 30</span></div>
+    
+    
+  </div>
+</article>
+</details>
+</details>
+
+<details class="section" id="linkedin" open>
+  <summary class="section-head"><h2>From the Network</h2></summary>
+<article class="article" data-item-key="https://www.linkedin.com/in/ramar/recent-activity/all">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.linkedin.com/in/ramar/recent-activity/all/" target="_blank">View Rama&#x27;s recent LinkedIn activity</a></h4>
+    <div class="meta"><span class="src">LinkedIn</span></div>
+    
+    
+  </div>
+</article>
+</details>
+
+</div>
+<script>
+(function () {
+  var root = document.documentElement;
+  function pressGroup(name, value) {
+    document.querySelectorAll('[data-tg="' + name + '"]').forEach(function (btn) {
+      btn.setAttribute('aria-pressed', btn.dataset.val === value ? 'true' : 'false');
+    });
+  }
+  function applyFont(v) {
+    root.setAttribute('data-font', v);
+    pressGroup('font', v);
+    try { localStorage.setItem('dd-font', v); } catch (e) {}
+  }
+  function applyTheme(v) {
+    root.setAttribute('data-theme', v);
+    pressGroup('theme', v);
+    try { localStorage.setItem('dd-theme', v); } catch (e) {}
+  }
+  document.querySelectorAll('[data-tg="font"]').forEach(function (btn) {
+    btn.addEventListener('click', function () { applyFont(btn.dataset.val); });
+  });
+  document.querySelectorAll('[data-tg="theme"]').forEach(function (btn) {
+    btn.addEventListener('click', function () { applyTheme(btn.dataset.val); });
+  });
+  var storedFont = null, storedTheme = null;
+  try { storedFont = localStorage.getItem('dd-font'); storedTheme = localStorage.getItem('dd-theme'); } catch (e) {}
+  applyFont(storedFont || 'serif');
+  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  applyTheme(storedTheme || (prefersDark ? 'dark' : 'light'));
+  document.getElementById('expandAll').addEventListener('click', function () {
+    document.querySelectorAll('details').forEach(function (d) { d.open = true; });
+  });
+  document.getElementById('collapseAll').addEventListener('click', function () {
+    document.querySelectorAll('details').forEach(function (d) { d.open = false; });
+  });
+})();
+
+/* Reading marks. Stored in localStorage and exported as a one-click download
+   that the comprehension pass picks up from ~/Downloads. The export carries
+   every mark ever made, not just today's, so a skipped day loses nothing -
+   the harvest merge is idempotent. */
+(function () {
+  var KEY = 'dd-marks';
+  var page = document.querySelector('.page');
+  var digestDate = (page && page.dataset.digestDate) || '';
+
+  function load() {
+    try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) { return {}; }
+  }
+  function save(marks) {
+    try { localStorage.setItem(KEY, JSON.stringify(marks)); } catch (e) {}
+  }
+  function paint(group, target, mark) {
+    if (mark) { target.dataset.marked = mark; } else { delete target.dataset.marked; }
+    group.querySelectorAll('.mk').forEach(function (btn) {
+      btn.setAttribute('aria-pressed', btn.dataset.mark === mark ? 'true' : 'false');
+    });
+  }
+
+  var marks = load();
+  /* One implementation serves both surfaces: the companion page marks threads,
+     the digest marks only the few items carrying a Context note. Both render a
+     .marks group with its own data-mark-key. */
+  document.querySelectorAll('.marks[data-mark-key]').forEach(function (group) {
+    var key = group.dataset.markKey;
+    var target = group.closest('.article, .thread') || group;
+    var current = marks[key] && marks[key].mark;
+    paint(group, target, current);
+    group.querySelectorAll('.mk').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var value = btn.dataset.mark;
+        var existing = marks[key] && marks[key].mark;
+        if (existing === value) {
+          delete marks[key];
+          value = null;
+        } else {
+          marks[key] = {
+            mark: value,
+            recorded_at: new Date().toISOString(),
+            digest_date: digestDate
+          };
+        }
+        save(marks);
+        paint(group, target, value);
+      });
+    });
+  });
+
+  var saveBtn = document.getElementById('saveMarks');
+  if (saveBtn) {
+    saveBtn.addEventListener('click', function () {
+      var payload = { schema_version: 1, exported_at: new Date().toISOString(), items: load() };
+      var blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+      var url = URL.createObjectURL(blob);
+      var link = document.createElement('a');
+      link.href = url;
+      link.download = 'dd-marks-' + (digestDate || 'export') + '.json';
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+      URL.revokeObjectURL(url);
+    });
+  }
+})();
+
+</script>
+</body>
+</html>
