@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-10-31 · 534 days · 5340 stories*
+*Last updated: 2026-11-01 · 535 days · 5350 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-10-31 | Saturday | 1 | HackerTube: YouTube built from videos recommended by HN | 1384 | 379 | Technology | [link](https://karpathy.bearblog.dev/hacker-tube/) · [HN](https://news.ycombinator.com/item?id=50319510) |
+| 2026-10-31 | Saturday | 2 | Serbia just elected the world's brainiest parliament | 861 | 484 | Technology | [link](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament) · [HN](https://news.ycombinator.com/item?id=50314654) |
+| 2026-10-31 | Saturday | 3 | TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8 | 519 | 240 | Technology | [link](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf) · [HN](https://news.ycombinator.com/item?id=50319143) |
+| 2026-10-31 | Saturday | 4 | An Italian farmer found some unknown seeds in his attic and planted them | 466 | 136 | Technology | [link](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/) · [HN](https://news.ycombinator.com/item?id=50320963) |
+| 2026-10-31 | Saturday | 5 | Anthropic blocks users for anything touching training larger models | 367 | 209 | Technology | [link](https://twitter.com/jiahaoshao1/status/2116475922190922088) · [HN](https://news.ycombinator.com/item?id=50319358) |
+| 2026-10-31 | Saturday | 6 | Do the math: How we took over ChatGPT accounts | 335 | 165 | Technology | [link](https://www.parameter.ai/labs/we-found-a-gap-at-openai) · [HN](https://news.ycombinator.com/item?id=50314699) |
+| 2026-10-31 | Saturday | 7 | Digital minimalism | 325 | 241 | Technology | [link](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html) · [HN](https://news.ycombinator.com/item?id=50313661) |
+| 2026-10-31 | Saturday | 8 | Molly (Signal fork) has not been updated since 3 months and is vulnerable | 321 | 184 | Technology | [link](https://piefed.world/post/1503394) · [HN](https://news.ycombinator.com/item?id=50314666) |
+| 2026-10-31 | Saturday | 9 | Jepsen: ParticleDB 1.1.4 | 267 | 155 | Technology | [link](https://jepsen.io/analyses/particledb-1.1.4) · [HN](https://news.ycombinator.com/item?id=50316100) |
+| 2026-10-31 | Saturday | 10 | Malware uses LLMs to rank victims by how much they're worth | 248 | 131 | Technology | [link](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/) · [HN](https://news.ycombinator.com/item?id=50316531) |
 | 2026-10-30 | Friday | 1 | Backdoor in Claude Code for VS Code extension on the Cursor Marketplace | 893 | 529 | Technology | [link](https://phorion.io/blog/offical-claude-code-vsx-compromise/) · [HN](https://news.ycombinator.com/item?id=50300683) |
 | 2026-10-30 | Friday | 2 | Backdoors in official Claude Code extensions | 655 | 17 | Technology | [link](https://cyberplace.social/@GossiTheDog/117528831681803563) · [HN](https://news.ycombinator.com/item?id=50302334) |
 | 2026-10-30 | Friday | 3 | US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech | 640 | 501 | Technology | [link](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead) · [HN](https://news.ycombinator.com/item?id=50302814) |

@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-10-31 · 10281 items*
+*Last updated: 2026-11-01 · 10344 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-10-31 | HackerTube: YouTube built from videos recommended by HN | HN | Technology | tech | 2026-10-31 | [link](https://karpathy.bearblog.dev/hacker-tube/) |
+| 2026-10-31 | Serbia just elected the world's brainiest parliament | HN | Technology | tech | 2026-10-31 | [link](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament) |
+| 2026-10-31 | TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8 | HN | Technology | tech | 2026-10-31 | [link](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf) |
+| 2026-10-31 | An Italian farmer found some unknown seeds in his attic and planted them | HN | Technology | tech | 2026-10-31 | [link](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/) |
+| 2026-10-31 | Anthropic blocks users for anything touching training larger models | HN | Technology | tech | 2026-10-31 | [link](https://twitter.com/jiahaoshao1/status/2116475922190922088) |
+| 2026-10-31 | Do the math: How we took over ChatGPT accounts | HN | Technology | tech | 2026-10-31 | [link](https://www.parameter.ai/labs/we-found-a-gap-at-openai) |
+| 2026-10-31 | Digital minimalism | HN | Technology | tech | 2026-10-31 | [link](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html) |
+| 2026-10-31 | Molly (Signal fork) has not been updated since 3 months and is vulnerable | HN | Technology | tech | 2026-10-31 | [link](https://piefed.world/post/1503394) |
+| 2026-10-31 | Jepsen: ParticleDB 1.1.4 | HN | Technology | tech | 2026-10-31 | [link](https://jepsen.io/analyses/particledb-1.1.4) |
+| 2026-10-31 | Malware uses LLMs to rank victims by how much they're worth | HN | Technology | tech | 2026-10-31 | [link](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/) |
+| 2026-10-31 | Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard | HN | Technology | tech | 2026-10-31 | [link](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve) |
+| 2026-10-31 | Casio Watches of the 1980s | HN | Technology | tech | 2026-10-31 | [link](https://www.casio.com/us/watches/50th/Heritage/1980s/) |
+| 2026-10-31 | UK Green party drops longstanding opposition to nuclear power | HN | Technology | tech | 2026-10-31 | [link](https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy) |
+| 2026-10-31 | Switch Lowering in GCC | HN | Technology | tech | 2026-10-31 | [link](https://xoranth.net/gcc-switch/) |
+| 2026-10-31 | It's the memory latency, stupid | HN | Technology | tech | 2026-10-31 | [link](https://pivotlake.io/blog/its-the-memory-latency-stupid/) |
+| 2026-10-31 | Prospero: A new coding harness for a more civilized age | HN | Technology | tech | 2026-10-31 | [link](https://nullprogram.com/blog/2026/10/31/) |
+| 2026-10-31 | Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St. | NYT · Technology | Technology | news | 2026-10-31 | [link](https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html) |
+| 2026-10-31 | ACLU’s Anthony Romero Says CEOs Are ‘Ducking the Hard Issues’ | NYT · Business | Business | news | 2026-11-01 | [link](https://www.nytimes.com/2026/11/01/business/anthony-romero-aclu.html) |
+| 2026-10-31 | In San Francisco’s A.I. Boom, a First Date Has Become an Interview | NYT · Technology | Technology | news | 2026-10-31 | [link](https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html) |
+| 2026-10-31 | Why the Markets Don’t Care About the Midterms | NYT · Business | Business | news | 2026-10-30 | [link](https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html) |
+| 2026-10-31 | House Democrats Criticize Justice Dept. Support of OpenAI in Copyright Suit | NYT · Technology | Technology | news | 2026-10-30 | [link](https://www.nytimes.com/2026/10/30/technology/house-democrats-openai-copyright-lawsuit.html) |
+| 2026-10-31 | Tech Stocks See Worst Day Since June, Pressuring Broader Market | NYT · Business | Business | news | 2026-10-30 | [link](https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html) |
+| 2026-10-31 | U.S. GDP Increased 3.4% in Third Quarter | NYT · Economy | Economy | news | 2026-10-29 | [link](https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html) |
+| 2026-10-31 | New Batteries That Store Blistering Heat Are Taking Off | NYT · Energy & Environment | Energy & Environment | news | 2026-10-29 | [link](https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html) |
+| 2026-10-31 | Biden’s Antitrust Enforcers Are Starting an A.I. Legal Company | NYT · DealBook | DealBook | news | 2026-10-29 | [link](https://www.nytimes.com/2026/10/28/business/dealbook/kanter-mekki-ai-startup-fluxcap.html) |
+| 2026-10-31 | Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html) |
+| 2026-10-31 | Why Anger About Data Centers and Energy Prices May Not Swing Votes | NYT · Energy & Environment | Energy & Environment | news | 2026-10-23 | [link](https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html) |
+| 2026-10-31 | What’s Riding on Anthropic Going Public? Nearly Everything. | NYT · Economy | Economy | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html) |
+| 2026-10-31 | A Midterm Campaign Dominated by Concerns Over High Prices Nears Its End | NYT · Politics | Politics | news | 2026-11-01 | [link](https://www.nytimes.com/2026/11/01/us/politics/election-mood-affordability.html) |
+| 2026-10-31 | Microsoft’s Profit Jumps 32% Despite Big Increase in Spending | NYT · Technology | Technology | news | 2026-10-29 | [link](https://www.nytimes.com/2026/10/28/technology/microsoft-earnings-ai.html) |
+| 2026-10-31 | Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO | NYT · Technology | Technology | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html) |
+| 2026-10-31 | Is This the Gateway Drug for Gambling? | NYT · Opinion | Opinion | opinion | 2026-10-31 | [link](https://www.nytimes.com/2026/10/28/opinion/kalshi-teens-wager-sports.html) |
+| 2026-10-31 | Ocasio-Cortez Has Evolved. She Wants the Left to Evolve, Too. | NYT · Politics | Politics | news | 2026-11-01 | [link](https://www.nytimes.com/2026/11/01/us/politics/ocasio-cortez-dsa.html) |
+| 2026-10-31 | Trump Calls Former Lawyer’s $50 Million Deal ‘Obnoxious and Outrageous’ | NYT · Politics | Politics | news | 2026-11-01 | [link](https://www.nytimes.com/2026/10/31/us/politics/trump-habba-mildon-lawyer.html) |
+| 2026-10-31 | Trump and GOP Close Midterms With Ugly Personal Attacks | NYT · Politics | Politics | news | 2026-11-01 | [link](https://www.nytimes.com/2026/10/31/us/politics/trump-republicans-personal-attacks-midterms.html) |
+| 2026-10-31 | Republicans Tried to Turn the Cheesecake Factory Against Democrats. It Flopped. | NYT · Opinion | Opinion | opinion | 2026-10-31 | [link](https://www.nytimes.com/2026/10/31/opinion/democrats-populist-working-class.html) |
+| 2026-10-31 | Sponsored: One security strategy. Four different data center realities. | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-31 | [link](https://www.datacenterdynamics.com/en/opinions/one-security-strategy-four-different-data-center-realities/) |
+| 2026-10-31 | How We Took Over ChatGPT Accounts | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-31 | [link](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/) |
+| 2026-10-31 | Europe’s AI ambitions are hitting a power bottleneck | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-10-31 | [link](https://www.datacenterdynamics.com/en/opinions/europes-ai-ambitions-are-hitting-a-power-bottleneck/) |
+| 2026-10-31 | When Electric Cars Were for Women | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-10-31 | [link](https://spectrum.ieee.org/early-electric-vehicles) |
+| 2026-10-31 | datasette-llm 0.1a9 | Simon Willison · Tech & Engineering | Technology | tech | 2026-10-31 | [link](https://simonwillison.net/2026/Oct/31/datasette-llm/) |
+| 2026-10-31 | Gig Review: The Witcher in Concert ★★★★☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-10-31 | [link](https://shkspr.mobi/blog/2026/10/gig-review-the-witcher-in-concert/) |
+| 2026-10-31 | Security engineer here. The anti-AI hate is getting ridiculous | Reddit | Business | social | 2026-10-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xkg97u/security_engineer_here_the_antiai_hate_is_getting/) |
+| 2026-10-31 | Claude Opus 5.5 can generate images even though it will initially say it can't. | Reddit | Business | social | 2026-10-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xjxl4s/claude_opus_55_can_generate_images_even_though_it/) |
+| 2026-10-31 | Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam  | Reddit | Business | social | 2026-10-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xkdcto/anthropic_updates_claude_to_steer_it_away_from/) |
+| 2026-10-31 | For over a year I've spent a full day writing a Markdown spec before prompting Claude. Google just o | Reddit | Business | social | 2026-10-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xkn61s/for_over_a_year_ive_spent_a_full_day_writing_a/) |
+| 2026-10-31 | If you’re letting Claude Code clean up your smart TV, do these things first | Reddit | Business | social | 2026-10-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xk8apo/if_youre_letting_claude_code_clean_up_your_smart/) |
+| 2026-10-31 | Has Opus 5.5 Been Nerfed? LiveNerf Update: Day 38 | Reddit | Business | social | 2026-10-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xkdxwo/has_opus_55_been_nerfed_livenerf_update_day_38/) |
+| 2026-10-31 | Spooky | Reddit | Business | social | 2026-10-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xkn3tc/spooky/) |
+| 2026-10-31 | So we've been getting scammed on 20x? It's only actually been 10x? | Reddit | Business | social | 2026-10-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xk2mk2/so_weve_been_getting_scammed_on_20x_its_only/) |
+| 2026-10-31 | Opus 5.5's safety guardrails are becoming unbearable for legitimate technical work | Reddit | Business | social | 2026-10-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xkhps9/opus_55s_safety_guardrails_are_becoming/) |
+| 2026-10-31 | Has anyone used Claude to build an all-in-one dashboard for utility bills, mortgage payments, and pe | Reddit | Business | social | 2026-10-31 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xkmzet/has_anyone_used_claude_to_build_an_allinone/) |
+| 2026-10-31 | Preached 20x, but sold 10x for a whole year | Reddit | Business | social | 2026-10-31 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xk4aoe/preached_20x_but_sold_10x_for_a_whole_year/) |
+| 2026-10-31 | Made typing in Claude Code a lot more fun with Ghostty shaders | Reddit | Business | social | 2026-10-31 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xkfvpr/made_typing_in_claude_code_a_lot_more_fun_with/) |
+| 2026-10-31 | Used Claude to Run Claude on a 38400 Baud Vintage Terminal | Reddit | Business | social | 2026-10-31 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xjyago/used_claude_to_run_claude_on_a_38400_baud_vintage/) |
+| 2026-10-31 | You can use however you want seriously ? 😏 | Reddit | Business | social | 2026-10-31 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xjyvbl/you_can_use_however_you_want_seriously/) |
+| 2026-10-31 | 2 out of 3 agents just went God mode on me... anyone else seeing this? | Reddit | Business | social | 2026-10-31 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xkn08q/2_out_of_3_agents_just_went_god_mode_on_me_anyone/) |
+| 2026-10-31 | My Dashboard! Obsidian Deserves all the love | Reddit | Business | social | 2026-10-31 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xkguqc/my_dashboard_obsidian_deserves_all_the_love/) |
+| 2026-10-31 | Skyrim: Legacy of the Dragonborn Vault | Reddit | Business | social | 2026-10-31 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xk09f9/skyrim_legacy_of_the_dragonborn_vault/) |
+| 2026-10-31 | Using Obsidian and AI as a "cognitive prosthetic" for severe cognitive impairment | Reddit | Business | social | 2026-10-31 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xkeww6/using_obsidian_and_ai_as_a_cognitive_prosthetic/) |
+| 2026-10-31 | Lifeline: back up your YouTube subscriptions, playlists, and Watch Later into your vault | Reddit | Business | social | 2026-10-31 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xk0tjw/lifeline_back_up_your_youtube_subscriptions/) |
+| 2026-10-31 | TaskNotes rating drop / 28 network calls - more transparency needed | Reddit | Business | social | 2026-10-31 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xk4xdz/tasknotes_rating_drop_28_network_calls_more/) |
+| 2026-10-31 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-30 | Backdoor in Claude Code for VS Code extension on the Cursor Marketplace | HN | Technology | tech | 2026-10-30 | [link](https://phorion.io/blog/offical-claude-code-vsx-compromise/) |
 | 2026-10-30 | Backdoors in official Claude Code extensions | HN | Technology | tech | 2026-10-30 | [link](https://cyberplace.social/@GossiTheDog/117528831681803563) |
 | 2026-10-30 | US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech | HN | Technology | tech | 2026-10-30 | [link](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead) |
