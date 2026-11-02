@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-01 · 10344 items*
+*Last updated: 2026-11-02 · 10407 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-11-01 | Show HN: HackerBooks – HackerTube, but for books mentioned on HN | HN | Technology | tech | 2026-11-01 | [link](https://hackerbooks.org) |
+| 2026-11-01 | Restrooms along the Norwegian Scenic Routes | HN | Technology | tech | 2026-11-01 | [link](https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/) |
+| 2026-11-01 | Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case | HN | Technology | tech | 2026-11-01 | [link](https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/) |
+| 2026-11-01 | Police chief unplugs cameras after Flock ignores contract cancellation | HN | Technology | tech | 2026-11-01 | [link](https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras) |
+| 2026-11-01 | Patrick Stewart taught us what good men do with power | HN | Technology | tech | 2026-11-01 | [link](https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism) |
+| 2026-11-01 | Ask HN: Which TV do you recommend for privacy? | HN | Technology | tech | 2026-11-01 | [link](https://news.ycombinator.com/item?id=50328896) |
+| 2026-11-01 | The AI cost of JavaScript frameworks | HN | Technology | tech | 2026-11-01 | [link](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/) |
+| 2026-11-01 | Mathematics has changed. Let's act like it | HN | Technology | tech | 2026-11-01 | [link](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/) |
+| 2026-11-01 | U.S. workers took home their smallest share of capital since at least 1947 | HN | Technology | tech | 2026-11-01 | [link](https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/) |
+| 2026-11-01 | OccupySaaS | HN | Technology | tech | 2026-11-01 | [link](https://occupysaas.com/) |
+| 2026-11-01 | Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust | HN | Technology | tech | 2026-11-01 | [link](https://github.com/ivankovic/omnidiff) |
+| 2026-11-01 | AI delivers 'zero financial payoff' to most companies, Apollo economist says | HN | Technology | tech | 2026-11-01 | [link](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/) |
+| 2026-11-01 | Frontier Airlines Likely Breached | HN | Technology | tech | 2026-11-01 | [link](https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/) |
+| 2026-11-01 | Seoul Viosys begins production of rare-earth-free white light emitter | HN | Technology | tech | 2026-11-01 | [link](https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml) |
+| 2026-11-01 | Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare | HN | Technology | tech | 2026-11-01 | [link](https://nurse.org/news/uber-for-nursing-gig-apps-report/) |
+| 2026-11-01 | AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy | HN | Technology | tech | 2026-11-01 | [link](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy) |
+| 2026-11-01 | ACLU’s Anthony Romero Says CEOs Are ‘Ducking the Hard Issues’ | NYT · Business | Business | news | 2026-11-01 | [link](https://www.nytimes.com/2026/11/01/business/anthony-romero-aclu.html) |
+| 2026-11-01 | After Tech Sell-Off, Investors Brace for More Market Volatility | NYT · Business | Business | news | 2026-11-02 | [link](https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html) |
+| 2026-11-01 | Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St. | NYT · Technology | Technology | news | 2026-10-31 | [link](https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html) |
+| 2026-11-01 | AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them | NYT · Technology | Technology | news | 2026-11-01 | [link](https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html) |
+| 2026-11-01 | Why the Markets Don’t Care About the Midterms | NYT · Business | Business | news | 2026-10-30 | [link](https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html) |
+| 2026-11-01 | House Democrats Criticize Justice Dept. Support of OpenAI in Copyright Suit | NYT · Technology | Technology | news | 2026-10-30 | [link](https://www.nytimes.com/2026/10/30/technology/house-democrats-openai-copyright-lawsuit.html) |
+| 2026-11-01 | Tech Stocks See Worst Day Since June, Pressuring Broader Market | NYT · Business | Business | news | 2026-10-30 | [link](https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html) |
+| 2026-11-01 | U.S. GDP Increased 3.4% in Third Quarter | NYT · Economy | Economy | news | 2026-10-29 | [link](https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html) |
+| 2026-11-01 | Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants | NYT · Energy & Environment | Energy & Environment | news | 2026-10-06 | [link](https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html) |
+| 2026-11-01 | In San Francisco’s A.I. Boom, a First Date Has Become an Interview | NYT · Technology | Technology | news | 2026-10-31 | [link](https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html) |
+| 2026-11-01 | Why Anger About Data Centers and Energy Prices May Not Swing Votes | NYT · Energy & Environment | Energy & Environment | news | 2026-10-23 | [link](https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html) |
+| 2026-11-01 | New Batteries That Store Blistering Heat Are Taking Off | NYT · Energy & Environment | Energy & Environment | news | 2026-10-29 | [link](https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html) |
+| 2026-11-01 | Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO | NYT · Technology | Technology | news | 2026-10-26 | [link](https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html) |
+| 2026-11-01 | Parties End the Midterm Election With Their Closing Arguments | NYT · Politics | Politics | news | 2026-11-02 | [link](https://www.nytimes.com/2026/11/02/us/politics/midterm-elections.html) |
+| 2026-11-01 | Midterm Elections: Who Is Winning the Race for Congress? | NYT · Politics | Politics | news | 2026-11-02 | [link](https://www.nytimes.com/2026/11/02/us/politics/congress-races-midterms.html) |
+| 2026-11-01 | A Midterm Campaign Dominated by Concerns Over High Prices Nears Its End | NYT · Politics | Politics | news | 2026-11-01 | [link](https://www.nytimes.com/2026/11/01/us/politics/election-mood-affordability.html) |
+| 2026-11-01 | Trump Skirts Court Commands as Distrust Between Branches Spirals | NYT · U.S. | U.S. | news | 2026-11-02 | [link](https://www.nytimes.com/2026/11/02/us/trump-courts-judges-orders.html) |
+| 2026-11-01 | Microsoft’s Profit Jumps 32% Despite Big Increase in Spending | NYT · Technology | Technology | news | 2026-10-29 | [link](https://www.nytimes.com/2026/10/28/technology/microsoft-earnings-ai.html) |
+| 2026-11-01 | Feel Like You’re Overpaying for Hotels? Blame Expedia, a New Lawsuit Says. | NYT · Your Money | Your Money | news | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/travel/expedia-lawsuit-hotel-prices.html) |
+| 2026-11-01 | Could A.I. Be Conscious? It’s Definitely Possible. | NYT · Opinion | Opinion | opinion | 2026-11-01 | [link](https://www.nytimes.com/2026/11/01/opinion/ai-consciousness-ethics.html) |
+| 2026-11-01 | Weekly Update 528: Reading AI-generated Code & the Economics of Solar | Troy Hunt · Security & Privacy | Security | tech | 2026-11-01 | [link](https://www.troyhunt.com/weekly-update-528/) |
+| 2026-11-01 | Beyond the grid: the maintenance challenges putting the data center boom at risk | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-01 | [link](https://www.datacenterdynamics.com/en/opinions/beyond-the-grid-the-maintenance-challenges-putting-the-data-center-boom-at-risk/) |
+| 2026-11-01 | What could 1,000x more reliable quantum computation unlock? | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-01 | [link](https://www.datacenterdynamics.com/en/opinions/what-could-1000x-more-reliable-quantum-computation-unlock/) |
+| 2026-11-01 | Quoting Kyle Kingsbury | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-01 | [link](https://simonwillison.net/2026/Nov/1/kyle-kingsbury/) |
+| 2026-11-01 | 10 Years on Mastodon | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-11-01 | [link](https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/) |
+| 2026-11-01 | WorkOS: Let Agents Sign Up for Your App Without a Browser | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-01 | [link](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026) |
+| 2026-11-01 | If in doubt, delete the uv.lock file | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-01 | [link](https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/) |
+| 2026-11-01 | Anthropic's Mythos-class model allegedly leaked on Hugging Face 💀 | Reddit | Business | social | 2026-11-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xl47f5/anthropics_mythosclass_model_allegedly_leaked_on/) |
+| 2026-11-01 | I gave Claude access to remote telescopes. Now she books the sky every night. | Reddit | Business | social | 2026-11-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xkxsca/i_gave_claude_access_to_remote_telescopes_now_she/) |
+| 2026-11-01 | we're actually going to get Fable 5.5 and GPT-6.2 Astra the same week | Reddit | Business | social | 2026-11-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xl7cyr/were_actually_going_to_get_fable_55_and_gpt62/) |
+| 2026-11-01 | Civil engineer here. Claude is incredibly powerful in my field, but using AI is practically taboo. I | Reddit | Business | social | 2026-11-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xlc0v6/civil_engineer_here_claude_is_incredibly_powerful/) |
+| 2026-11-01 | Thanks to Claude, I was able to give NordicTrack and their iFit subscription a big F U! | Reddit | Business | social | 2026-11-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xlg9nd/thanks_to_claude_i_was_able_to_give_nordictrack/) |
+| 2026-11-01 | The 20x ultra plan limits is utter insanity | Reddit | Business | social | 2026-11-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xl5wab/the_20x_ultra_plan_limits_is_utter_insanity/) |
+| 2026-11-01 | Claude + Obsidian | Reddit | Business | social | 2026-11-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xlby9y/claude_obsidian/) |
+| 2026-11-01 | PSA: ultracode isn't locked to max effort anymore | Reddit | Business | social | 2026-11-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xks0kb/psa_ultracode_isnt_locked_to_max_effort_anymore/) |
+| 2026-11-01 | Deepdumb - a benchmark to measure AI's response to persistent stupidity | Reddit | Business | social | 2026-11-01 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xl96h6/deepdumb_a_benchmark_to_measure_ais_response_to/) |
+| 2026-11-01 | Opus 5.6 imminently about to release | Reddit | Business | social | 2026-11-01 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xl72og/opus_56_imminently_about_to_release/) |
+| 2026-11-01 | he got a point tho | Reddit | Business | social | 2026-11-01 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xl8rlr/he_got_a_point_tho/) |
+| 2026-11-01 | Dear god... what have i done | Reddit | Business | social | 2026-11-01 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xlfrhe/dear_god_what_have_i_done/) |
+| 2026-11-01 | How it feels after the 5 hour limit was removed | Reddit | Business | social | 2026-11-01 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xl5d55/how_it_feels_after_the_5_hour_limit_was_removed/) |
+| 2026-11-01 | Are people still pretending coding agents aren't better than humans because they've only ever used M | Reddit | Business | social | 2026-11-01 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xl7lhz/are_people_still_pretending_coding_agents_arent/) |
+| 2026-11-01 | Ideaverse is one of the coolest plugins in obsidian | Reddit | Business | social | 2026-11-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xl9zoy/ideaverse_is_one_of_the_coolest_plugins_in/) |
+| 2026-11-01 | Minimalistic Homepage | Reddit | Business | social | 2026-11-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xlh2m3/minimalistic_homepage/) |
+| 2026-11-01 | How much time do you spend maintaining Obsidian vs actually being productive? | Reddit | Business | social | 2026-11-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xkungc/how_much_time_do_you_spend_maintaining_obsidian/) |
+| 2026-11-01 | Doomscroll 1.0 - now with multiple feeds | Reddit | Business | social | 2026-11-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xlf5vz/doomscroll_10_now_with_multiple_feeds/) |
+| 2026-11-01 | 1.5 Years using Obsidian for Personal and Work | Reddit | Business | social | 2026-11-01 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xlhdx1/15_years_using_obsidian_for_personal_and_work/) |
+| 2026-11-01 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-10-31 | HackerTube: YouTube built from videos recommended by HN | HN | Technology | tech | 2026-10-31 | [link](https://karpathy.bearblog.dev/hacker-tube/) |
 | 2026-10-31 | Serbia just elected the world's brainiest parliament | HN | Technology | tech | 2026-10-31 | [link](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament) |
 | 2026-10-31 | TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8 | HN | Technology | tech | 2026-10-31 | [link](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf) |

@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-01 · 535 days · 5350 stories*
+*Last updated: 2026-11-02 · 536 days · 5360 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-01 | Sunday | 1 | Show HN: HackerBooks – HackerTube, but for books mentioned on HN | 1404 | 234 | Technology | [link](https://hackerbooks.org) · [HN](https://news.ycombinator.com/item?id=50326821) |
+| 2026-11-01 | Sunday | 2 | Restrooms along the Norwegian Scenic Routes | 691 | 413 | Technology | [link](https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/) · [HN](https://news.ycombinator.com/item?id=50324388) |
+| 2026-11-01 | Sunday | 3 | Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case | 492 | 166 | Technology | [link](https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/) · [HN](https://news.ycombinator.com/item?id=50326099) |
+| 2026-11-01 | Sunday | 4 | Police chief unplugs cameras after Flock ignores contract cancellation | 450 | 150 | Technology | [link](https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras) · [HN](https://news.ycombinator.com/item?id=50326118) |
+| 2026-11-01 | Sunday | 5 | Patrick Stewart taught us what good men do with power | 426 | 304 | Technology | [link](https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism) · [HN](https://news.ycombinator.com/item?id=50327650) |
+| 2026-11-01 | Sunday | 6 | Ask HN: Which TV do you recommend for privacy? | 405 | 537 | Technology | [link](https://news.ycombinator.com/item?id=50328896) · [HN](https://news.ycombinator.com/item?id=50328896) |
+| 2026-11-01 | Sunday | 7 | The AI cost of JavaScript frameworks | 378 | 292 | Technology | [link](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/) · [HN](https://news.ycombinator.com/item?id=50323088) |
+| 2026-11-01 | Sunday | 8 | Mathematics has changed. Let's act like it | 318 | 353 | Technology | [link](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/) · [HN](https://news.ycombinator.com/item?id=50328251) |
+| 2026-11-01 | Sunday | 9 | U.S. workers took home their smallest share of capital since at least 1947 | 298 | 163 | Technology | [link](https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/) · [HN](https://news.ycombinator.com/item?id=50330939) |
+| 2026-11-01 | Sunday | 10 | OccupySaaS | 283 | 166 | Technology | [link](https://occupysaas.com/) · [HN](https://news.ycombinator.com/item?id=50331402) |
 | 2026-10-31 | Saturday | 1 | HackerTube: YouTube built from videos recommended by HN | 1384 | 379 | Technology | [link](https://karpathy.bearblog.dev/hacker-tube/) · [HN](https://news.ycombinator.com/item?id=50319510) |
 | 2026-10-31 | Saturday | 2 | Serbia just elected the world's brainiest parliament | 861 | 484 | Technology | [link](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament) · [HN](https://news.ycombinator.com/item?id=50314654) |
 | 2026-10-31 | Saturday | 3 | TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8 | 519 | 240 | Technology | [link](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf) · [HN](https://news.ycombinator.com/item?id=50319143) |
