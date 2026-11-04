@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-02 · 536 days · 5360 stories*
+*Last updated: 2026-11-04 · 537 days · 5370 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-03 | Tuesday | 1 | Postman silently auto-installs AI plugins and attempts to share all API data | 1307 | 444 | Technology | [link](https://github.com/postmanlabs/postman-app-support/issues/14370) · [HN](https://news.ycombinator.com/item?id=50354960) |
+| 2026-11-03 | Tuesday | 2 | The 'Astra can read and write weights to improve Qwen' post is misleading | 989 | 203 | Technology | [link](https://honnibal.dev/blog/astra-read-write-misleading) · [HN](https://news.ycombinator.com/item?id=50351111) |
+| 2026-11-03 | Tuesday | 3 | Qwen 3.8 27B on my laptop can interpret model weights, too | 636 | 187 | Technology | [link](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) · [HN](https://news.ycombinator.com/item?id=50355251) |
+| 2026-11-03 | Tuesday | 4 | Google will turn off search for schools that reject AI | 625 | 434 | Technology | [link](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html) · [HN](https://news.ycombinator.com/item?id=50353192) |
+| 2026-11-03 | Tuesday | 5 | Stringman, an $800 open-source room scale gripper robot | 615 | 201 | Technology | [link](https://neufangled.com/) · [HN](https://news.ycombinator.com/item?id=50354358) |
+| 2026-11-03 | Tuesday | 6 | OpenAI seems to be silently re-enabling model training on Codex chats | 486 | 144 | Technology | [link](https://news.ycombinator.com/item?id=50352757) · [HN](https://news.ycombinator.com/item?id=50352757) |
+| 2026-11-03 | Tuesday | 7 | Kalshi and its co-founders face felony charges for violating Utah gambling laws | 478 | 466 | Technology | [link](https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/) · [HN](https://news.ycombinator.com/item?id=50353229) |
+| 2026-11-03 | Tuesday | 8 | Could a modern chess engine on a Pentium have defeated Kasparov in 1996? | 470 | 232 | Technology | [link](https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html) · [HN](https://news.ycombinator.com/item?id=50349276) |
+| 2026-11-03 | Tuesday | 9 | Safari introduces Adaptive Dark Mode in 27.3 | 445 | 231 | Technology | [link](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/) · [HN](https://news.ycombinator.com/item?id=50358562) |
+| 2026-11-03 | Tuesday | 10 | Mac at any scale | 387 | 214 | Technology | [link](https://namespace.so/blog/mac-at-any-scale) · [HN](https://news.ycombinator.com/item?id=50352758) |
 | 2026-11-01 | Sunday | 1 | Show HN: HackerBooks – HackerTube, but for books mentioned on HN | 1404 | 234 | Technology | [link](https://hackerbooks.org) · [HN](https://news.ycombinator.com/item?id=50326821) |
 | 2026-11-01 | Sunday | 2 | Restrooms along the Norwegian Scenic Routes | 691 | 413 | Technology | [link](https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/) · [HN](https://news.ycombinator.com/item?id=50324388) |
 | 2026-11-01 | Sunday | 3 | Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case | 492 | 166 | Technology | [link](https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/) · [HN](https://news.ycombinator.com/item?id=50326099) |
