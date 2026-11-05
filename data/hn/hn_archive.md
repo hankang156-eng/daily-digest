@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-04 · 537 days · 5370 stories*
+*Last updated: 2026-11-05 · 538 days · 5380 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-04 | Wednesday | 1 | AI is forcing us to pay off 40 years of technical debt | 1198 | 699 | Technology | [link](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) · [HN](https://news.ycombinator.com/item?id=50364336) |
+| 2026-11-04 | Wednesday | 2 | Residential proxies detected on White House network | 1080 | 344 | Technology | [link](https://layer3intel.com/blog/residential-proxies-white-house-network) · [HN](https://news.ycombinator.com/item?id=50371246) |
+| 2026-11-04 | Wednesday | 3 | Tell HN: Gemini trains on chat history, even for subscribers (personal accounts) | 672 | 174 | Technology | [link](https://news.ycombinator.com/item?id=50363461) · [HN](https://news.ycombinator.com/item?id=50363461) |
+| 2026-11-04 | Wednesday | 4 | North Korean fake job interview led to $6.3B Binance heist | 610 | 375 | Technology | [link](https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398) · [HN](https://news.ycombinator.com/item?id=50365755) |
+| 2026-11-04 | Wednesday | 5 | Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux | 601 | 280 | Technology | [link](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop) · [HN](https://news.ycombinator.com/item?id=50362905) |
+| 2026-11-04 | Wednesday | 6 | AMD expects to outsell Intel in Q4 for the first time in history | 549 | 198 | Technology | [link](https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections) · [HN](https://news.ycombinator.com/item?id=50367125) |
+| 2026-11-04 | Wednesday | 7 | Kimi K3.1 Pro model weights are out | 543 | 149 | Technology | [link](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) · [HN](https://news.ycombinator.com/item?id=50366999) |
+| 2026-11-04 | Wednesday | 8 | Kitty 0.50 | 374 | 232 | Technology | [link](https://sw.kovidgoyal.net/kitty/changelog/#) · [HN](https://news.ycombinator.com/item?id=50362980) |
+| 2026-11-04 | Wednesday | 9 | A thousand fewer paths to root | 357 | 255 | Technology | [link](https://openai.com/index/a-thousand-fewer-paths-to-root/) · [HN](https://news.ycombinator.com/item?id=50372929) |
+| 2026-11-04 | Wednesday | 10 | Ask HN: What's your current AI agentic setup? | 341 | 389 | Technology | [link](https://news.ycombinator.com/item?id=50366117) · [HN](https://news.ycombinator.com/item?id=50366117) |
 | 2026-11-03 | Tuesday | 1 | Postman silently auto-installs AI plugins and attempts to share all API data | 1307 | 444 | Technology | [link](https://github.com/postmanlabs/postman-app-support/issues/14370) · [HN](https://news.ycombinator.com/item?id=50354960) |
 | 2026-11-03 | Tuesday | 2 | The 'Astra can read and write weights to improve Qwen' post is misleading | 989 | 203 | Technology | [link](https://honnibal.dev/blog/astra-read-write-misleading) · [HN](https://news.ycombinator.com/item?id=50351111) |
 | 2026-11-03 | Tuesday | 3 | Qwen 3.8 27B on my laptop can interpret model weights, too | 636 | 187 | Technology | [link](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) · [HN](https://news.ycombinator.com/item?id=50355251) |
