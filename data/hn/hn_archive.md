@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-05 · 538 days · 5380 stories*
+*Last updated: 2026-11-06 · 539 days · 5390 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-05 | Thursday | 1 | sshole | 2730 | 657 | Technology | [link](https://sshhole.com) · [HN](https://news.ycombinator.com/item?id=50378228) |
+| 2026-11-05 | Thursday | 2 | Claude Code sends your email address to websites | 1186 | 377 | Technology | [link](https://github.com/anthropics/claude-code/issues/107757) · [HN](https://news.ycombinator.com/item?id=50385272) |
+| 2026-11-05 | Thursday | 3 | Search for everyone | 682 | 356 | Technology | [link](https://kagi.com/changelog#11820) · [HN](https://news.ycombinator.com/item?id=50383740) |
+| 2026-11-05 | Thursday | 4 | Alpine Linux Security Advisory: OpenSSH-server password authentication bypass | 622 | 2 | Technology | [link](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/) · [HN](https://news.ycombinator.com/item?id=50379704) |
+| 2026-11-05 | Thursday | 5 | Goodbye from Salon | 587 | 235 | Technology | [link](https://www.salon.com/2026/11/05/goodbye-from-salon/) · [HN](https://news.ycombinator.com/item?id=50383739) |
+| 2026-11-05 | Thursday | 6 | MS Paint Remote Code Execution Vulnerability | 557 | 200 | Technology | [link](https://www.cve.org/CVERecord?id=CVE-2026-83844) · [HN](https://news.ycombinator.com/item?id=50384233) |
+| 2026-11-05 | Thursday | 7 | Motorola Signature 27 with GrapheneOS support | 490 | 346 | Technology | [link](https://motorolanews.com/motorola-signature-27-2/) · [HN](https://news.ycombinator.com/item?id=50380810) |
+| 2026-11-05 | Thursday | 8 | Discord is ditching Electron and its new app uses less RAM | 441 | 379 | Technology | [link](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app) · [HN](https://news.ycombinator.com/item?id=50378625) |
+| 2026-11-05 | Thursday | 9 | I wish tech companies knew more about me | 434 | 363 | Technology | [link](https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me) · [HN](https://news.ycombinator.com/item?id=50378942) |
+| 2026-11-05 | Thursday | 10 | Window Sweaters | 356 | 109 | Technology | [link](https://github.com/saragordic/window-sweaters) · [HN](https://news.ycombinator.com/item?id=50381383) |
 | 2026-11-04 | Wednesday | 1 | AI is forcing us to pay off 40 years of technical debt | 1198 | 699 | Technology | [link](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) · [HN](https://news.ycombinator.com/item?id=50364336) |
 | 2026-11-04 | Wednesday | 2 | Residential proxies detected on White House network | 1080 | 344 | Technology | [link](https://layer3intel.com/blog/residential-proxies-white-house-network) · [HN](https://news.ycombinator.com/item?id=50371246) |
 | 2026-11-04 | Wednesday | 3 | Tell HN: Gemini trains on chat history, even for subscribers (personal accounts) | 672 | 174 | Technology | [link](https://news.ycombinator.com/item?id=50363461) · [HN](https://news.ycombinator.com/item?id=50363461) |
