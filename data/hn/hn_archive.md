@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-06 · 539 days · 5390 stories*
+*Last updated: 2026-11-07 · 540 days · 5400 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-06 | Friday | 1 | Tesla to wind down Cybertruck production | 1023 | 1875 | Technology | [link](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) · [HN](https://news.ycombinator.com/item?id=50391456) |
+| 2026-11-06 | Friday | 2 | Blender's UI and Runtime: Much Faster Than GPUI | 697 | 283 | Technology | [link](https://github.com/ppmpreetham/BUI) · [HN](https://news.ycombinator.com/item?id=50389333) |
+| 2026-11-06 | Friday | 3 | Libghostty 1.0 | 679 | 111 | Technology | [link](https://mitchellh.com/writing/libghostty-1-0) · [HN](https://news.ycombinator.com/item?id=50399933) |
+| 2026-11-06 | Friday | 4 | Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS | 635 | 415 | Technology | [link](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105) · [HN](https://news.ycombinator.com/item?id=50390124) |
+| 2026-11-06 | Friday | 5 | Britain to make salary disclosure in job ads mandatory | 586 | 444 | Technology | [link](https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/) · [HN](https://news.ycombinator.com/item?id=50389222) |
+| 2026-11-06 | Friday | 6 | A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost | 488 | 113 | Technology | [link](https://hightouch.com/blog/llm-judges-identity-resolution) · [HN](https://news.ycombinator.com/item?id=50397429) |
+| 2026-11-06 | Friday | 7 | Deus Ex | 356 | 190 | Technology | [link](https://www.filfre.net/2026/11/deus-ex/) · [HN](https://news.ycombinator.com/item?id=50393758) |
+| 2026-11-06 | Friday | 8 | Gemini Omni 1.2 Flash | 339 | 231 | Technology | [link](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/) · [HN](https://news.ycombinator.com/item?id=50392118) |
+| 2026-11-06 | Friday | 9 | AI is dramatically accelerating AI research | 315 | 267 | Technology | [link](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai) · [HN](https://news.ycombinator.com/item?id=50397994) |
+| 2026-11-06 | Friday | 10 | RIP Cybertruck | 302 | 4 | Technology | [link](https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/) · [HN](https://news.ycombinator.com/item?id=50393154) |
 | 2026-11-05 | Thursday | 1 | sshole | 2730 | 657 | Technology | [link](https://sshhole.com) · [HN](https://news.ycombinator.com/item?id=50378228) |
 | 2026-11-05 | Thursday | 2 | Claude Code sends your email address to websites | 1186 | 377 | Technology | [link](https://github.com/anthropics/claude-code/issues/107757) · [HN](https://news.ycombinator.com/item?id=50385272) |
 | 2026-11-05 | Thursday | 3 | Search for everyone | 682 | 356 | Technology | [link](https://kagi.com/changelog#11820) · [HN](https://news.ycombinator.com/item?id=50383740) |

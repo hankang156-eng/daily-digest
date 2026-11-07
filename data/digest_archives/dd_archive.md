@@ -1,9 +1,71 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-06 · 10655 items*
+*Last updated: 2026-11-07 · 10717 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-11-06 | Tesla to wind down Cybertruck production | HN | Technology | tech | 2026-11-06 | [link](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) |
+| 2026-11-06 | Blender's UI and Runtime: Much Faster Than GPUI | HN | Technology | tech | 2026-11-06 | [link](https://github.com/ppmpreetham/BUI) |
+| 2026-11-06 | Libghostty 1.0 | HN | Technology | tech | 2026-11-06 | [link](https://mitchellh.com/writing/libghostty-1-0) |
+| 2026-11-06 | Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS | HN | Technology | tech | 2026-11-06 | [link](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105) |
+| 2026-11-06 | Britain to make salary disclosure in job ads mandatory | HN | Technology | tech | 2026-11-06 | [link](https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/) |
+| 2026-11-06 | A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost | HN | Technology | tech | 2026-11-06 | [link](https://hightouch.com/blog/llm-judges-identity-resolution) |
+| 2026-11-06 | Deus Ex | HN | Technology | tech | 2026-11-06 | [link](https://www.filfre.net/2026/11/deus-ex/) |
+| 2026-11-06 | Gemini Omni 1.2 Flash | HN | Technology | tech | 2026-11-06 | [link](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/) |
+| 2026-11-06 | AI is dramatically accelerating AI research | HN | Technology | tech | 2026-11-06 | [link](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai) |
+| 2026-11-06 | RIP Cybertruck | HN | Technology | tech | 2026-11-06 | [link](https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/) |
+| 2026-11-06 | Anthropic IPO buyers see valuation as low as $1.1T | HN | Technology | tech | 2026-11-06 | [link](https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout) |
+| 2026-11-06 | Kugelblitz – Mac-Native Google Earth Alternative | HN | Technology | tech | 2026-11-06 | [link](https://apps.metaebene.me/en/kugelblitz) |
+| 2026-11-06 | Firecracker VM Escape: PwnEscape Part 2 | HN | Technology | tech | 2026-11-06 | [link](https://pwn.ai/blog/firecracker-escape) |
+| 2026-11-06 | First steps in bare-metal programming using UEFI | HN | Technology | tech | 2026-11-06 | [link](https://kevinboone.me/efitest_index.html) |
+| 2026-11-06 | Ask HN: What in the world is taking Ubuntu so long? | HN | Technology | tech | 2026-11-06 | [link](https://news.ycombinator.com/item?id=50393105) |
+| 2026-11-06 | I struggle to believe that AI R&D is ingenious | HN | Technology | tech | 2026-11-06 | [link](https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL) |
+| 2026-11-06 | After a $2.5 Trillion Wipeout, Tech Investors Brace for More Pain | NYT · Business | Business | news | 2026-11-06 | [link](https://www.nytimes.com/2026/11/06/business/dealbook/tech-investors-ai-rout.html) |
+| 2026-11-06 | Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech | NYT · Business | Business | news | 2026-11-06 | [link](https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html) |
+| 2026-11-06 | U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties | NYT · Economy | Economy | news | 2026-11-07 | [link](https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html) |
+| 2026-11-06 | Stable Labor Market Keeps Fed on Track to Raise Rates Gradually | NYT · Economy | Economy | news | 2026-11-06 | [link](https://www.nytimes.com/2026/11/06/business/economy/stable-labor-market-to-keep-fed-on-track-to-raise-rates-gradually.html) |
+| 2026-11-06 | Strong Hiring Reinforces a Sturdy Job Market | NYT · Economy | Economy | news | 2026-11-06 | [link](https://www.nytimes.com/2026/11/06/business/economy/economy-jobs-unemployment.html) |
+| 2026-11-06 | Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep | NYT · Technology | Technology | news | 2026-11-06 | [link](https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html) |
+| 2026-11-06 | This Is How Democrats Can Make Life More Affordable | NYT · Opinion | Opinion | opinion | 2026-11-06 | [link](https://www.nytimes.com/2026/11/06/opinion/democrats-economy-affordability.html) |
+| 2026-11-06 | China Blocks SoftBank’s $5.4 Billion Robotics Takeover, Impeding Foreign Deals | NYT · Business | Business | news | 2026-11-05 | [link](https://www.nytimes.com/2026/11/05/business/softbank-robotics-china-block.html) |
+| 2026-11-06 | Parents Sue Google Over A.I. Safety Risks on School Chromebooks | NYT · Technology | Technology | news | 2026-11-05 | [link](https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html) |
+| 2026-11-06 | China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang | NYT · Politics | Politics | news | 2026-11-07 | [link](https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html) |
+| 2026-11-06 | Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny. | NYT · Technology | Technology | news | 2026-11-04 | [link](https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html) |
+| 2026-11-06 | Tech Stocks Got Hammered. Is the Economy Next? | NYT · Opinion | Opinion | opinion | 2026-11-06 | [link](https://www.nytimes.com/2026/11/06/opinion/nasdaq-tech-stocks-ai-bubble-dot-com-bust.html) |
+| 2026-11-06 | U.S. Global Health Strategy Jeopardizes Prevention of Pandemics, Experts Warn | NYT · Politics | Politics | news | 2026-11-06 | [link](https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html) |
+| 2026-11-06 | House G.O.P. Leaders Ask Nvidia’s Huang to Speak in Closed-Door Briefing | NYT · Technology | Technology | news | 2026-11-06 | [link](https://www.nytimes.com/2026/11/05/technology/house-republicans-nvidia-jensen-huang-china.html) |
+| 2026-11-06 | Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger | NYT · Technology | Technology | news | 2026-11-02 | [link](https://www.nytimes.com/2026/11/02/technology/marvell-lumentum-115-billion-merger-ai.html) |
+| 2026-11-06 | Why Anger About Data Centers and Energy Prices May Not Swing Votes | NYT · Energy & Environment | Energy & Environment | news | 2026-10-23 | [link](https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html) |
+| 2026-11-06 | OpenAI Pledges to Give Locals More Say in Data Center Projects | NYT · Technology | Technology | news | 2026-11-06 | [link](https://www.nytimes.com/2026/11/05/technology/openai-data-centers-midterms.html) |
+| 2026-11-06 | F.A.A. to Phase Out Floppy Disks in Air Traffic Control Towers | NYT · Technology | Technology | news | 2026-11-06 | [link](https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html) |
+| 2026-11-06 | Amazon Kindle Colorsoft Review: The Single-Task Gadget of Our Times | NYT · Technology | Technology | opinion | 2026-11-05 | [link](https://www.nytimes.com/2026/11/05/technology/personaltech/amazon-kindle-colorsoft-review.html) |
+| 2026-11-06 | The Stock Market Can Be Volatile. Here’s How to Stay Calm. | NYT · Your Money | Your Money | news | 2026-11-06 | [link](https://www.nytimes.com/2026/11/06/your-money/stock-market-volatility-investments.html) |
+| 2026-11-06 | Plans for Poland’s National Data Processing Center fleshed out by NASK | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-06 | [link](https://www.datacenterdynamics.com/en/news/plans-for-polands-national-data-processing-center-fleshed-out-by-nask/) |
+| 2026-11-06 | Ongoing labor dispute sees Micron pause construction at its $4.5bn memory fab in Taoyuan, Taiwan – r | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-06 | [link](https://www.datacenterdynamics.com/en/news/ongoing-labor-dispute-sees-micron-pause-construction-at-its-45bn-memory-fab-in-taoyuan-taiwan-report/) |
+| 2026-11-06 | What will it take to open California’s market to more VPPs? | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-06 | [link](https://www.latitudemedia.com/news/what-will-it-take-to-open-californias-market-to-vpps/) |
+| 2026-11-06 | Duke Energy to stay course on data center-fueled growth plan after ‘historic’ election | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-06 | [link](https://www.utilitydive.com/news/historic-election-night-wont-change-growth-focus-at-duke-energy-executi/873965/) |
+| 2026-11-06 | Eversource’s financial risk eases as Revolution Wind hits full commercial operations: CEO | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-06 | [link](https://www.utilitydive.com/news/eversources-revolution-wind-rate-case-earnings/873983/) |
+| 2026-11-06 | Quoting Nilay Patel | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-06 | [link](https://simonwillison.net/2026/Nov/6/nilay-patel/) |
+| 2026-11-06 | The President is Coping Well | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-06 | [link](https://www.wsj.com/politics/policy/trump-signs-proclamation-he-says-will-protect-oval-office-from-major-changes-93f3285b) |
+| 2026-11-06 | Sempra expects 20% increase to Oncor’s capex plan, driven by load growth | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-06 | [link](https://www.utilitydive.com/news/sempra-expects-20-increase-oncors-capex-plan-load-growth/874010/) |
+| 2026-11-06 | ★ Touch and Glow | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-06 | [link](https://daringfireball.net/2026/11/touch_and_glow) |
+| 2026-11-06 | A video game which caused real world violence | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-11-06 | [link](https://shkspr.mobi/blog/2026/11/a-video-game-which-caused-real-world-violence/) |
+| 2026-11-06 | I built a sailing sim with Claude Code and made the frontier models race each other in it | Reddit | Business | social | 2026-11-06 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xpij9t/i_built_a_sailing_sim_with_claude_code_and_made/) |
+| 2026-11-06 | Claude can now analyze your spending with its new Personal Finance tool | Reddit | Business | social | 2026-11-06 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xp0qxj/claude_can_now_analyze_your_spending_with_its_new/) |
+| 2026-11-06 | Open question to Anthropic: If you're making 30,000 merges a day, why are more than 98% of open GitH | Reddit | Business | social | 2026-11-06 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xozfcv/open_question_to_anthropic_if_youre_making_30000/) |
+| 2026-11-06 | I built a Netflix-style app for my media server with Claude. The whole thing is 15 MB 🤯 | Reddit | Business | social | 2026-11-06 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xp76q1/i_built_a_netflixstyle_app_for_my_media_server/) |
+| 2026-11-06 | Claude, make me these parts in Solidworks.... 7 minutes later.... | Reddit | Business | social | 2026-11-06 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xpeg2l/claude_make_me_these_parts_in_solidworks_7/) |
+| 2026-11-06 | Was there ever an explanation for that creepy Opus 5.0 glitch a few months ago? | Reddit | Business | social | 2026-11-06 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xp6g4g/was_there_ever_an_explanation_for_that_creepy/) |
+| 2026-11-06 | Atrocious READMEs in vibe coded projects. | Reddit | Business | social | 2026-11-06 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xpcvan/atrocious_readmes_in_vibe_coded_projects/) |
+| 2026-11-06 | I can’t code, but Claude built me a working Alien (1979) “MOTHER” dashboard for my smart home | Reddit | Business | social | 2026-11-06 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xp9pso/i_cant_code_but_claude_built_me_a_working_alien/) |
+| 2026-11-06 | Personal Finance in Claude (beta, Nov 5): what Claude can actually see, what it can’t do, and who ge | Reddit | Business | social | 2026-11-06 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xp28a6/personal_finance_in_claude_beta_nov_5_what_claude/) |
+| 2026-11-06 | Duet? | Reddit | Business | social | 2026-11-06 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xpnpn4/duet/) |
+| 2026-11-06 | Nothing 2.0 is here: now with AI and microservices | Reddit | Business | social | 2026-11-06 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xpiidq/nothing_20_is_here_now_with_ai_and_microservices/) |
+| 2026-11-06 | Newbies and people that are overwhelmed: PLEASE READ | Reddit | Business | social | 2026-11-06 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xplv02/newbies_and_people_that_are_overwhelmed_please/) |
+| 2026-11-06 | The most cleanest way to use Obsidian Across different Devices. | Reddit | Business | social | 2026-11-06 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xpkkyw/the_most_cleanest_way_to_use_obsidian_across/) |
+| 2026-11-06 | He conseguido pasar mi wiki a obsidian y al indexar parece estar vivo | Reddit | Business | social | 2026-11-06 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xprqnm/he_conseguido_pasar_mi_wiki_a_obsidian_y_al/) |
+| 2026-11-06 | Is there a way to read footnotes easily on editing mode? | Reddit | Business | social | 2026-11-06 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xozdum/is_there_a_way_to_read_footnotes_easily_on/) |
+| 2026-11-06 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-05 | sshole | HN | Technology | tech | 2026-11-05 | [link](https://sshhole.com) |
 | 2026-11-05 | Claude Code sends your email address to websites | HN | Technology | tech | 2026-11-05 | [link](https://github.com/anthropics/claude-code/issues/107757) |
 | 2026-11-05 | Search for everyone | HN | Technology | tech | 2026-11-05 | [link](https://kagi.com/changelog#11820) |
