@@ -1,6 +1,6 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-10 · 541 days · 5410 stories*
+*Last updated: 2026-11-10 · 542 days · 5420 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
@@ -14,6 +14,16 @@
 | 2026-11-09 | Monday | 8 | I saw your HN comment | 425 | 315 | Technology | [link](https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/) · [HN](https://news.ycombinator.com/item?id=50426582) |
 | 2026-11-09 | Monday | 9 | Fable 5.2 one-shotted my nephew's dream game | 406 | 325 | Technology | [link](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game) · [HN](https://news.ycombinator.com/item?id=50433659) |
 | 2026-11-09 | Monday | 10 | E-means: Outperforming k-means in one-tenth the epochs | 406 | 44 | Technology | [link](https://e-means.github.io/) · [HN](https://news.ycombinator.com/item?id=50429734) |
+| 2026-11-07 | Saturday | 1 | Need for Speed Underground 2 online in the browser | 1168 | 292 | Technology | [link](https://nfsu2.xyz/) · [HN](https://news.ycombinator.com/item?id=50403052) |
+| 2026-11-07 | Saturday | 2 | Every Mac comes with an (undocumented) family member classifier | 865 | 468 | Technology | [link](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph) · [HN](https://news.ycombinator.com/item?id=50403097) |
+| 2026-11-07 | Saturday | 3 | What I run on my $10 USD OpenStick homelab | 825 | 138 | Technology | [link](https://blog.bosscher.ch/posts/openstick/) · [HN](https://news.ycombinator.com/item?id=50406670) |
+| 2026-11-07 | Saturday | 4 | Goodbye Claude, hello Pi | 813 | 490 | Technology | [link](https://caleb.software/posts/claude-to-pi.html) · [HN](https://news.ycombinator.com/item?id=50410107) |
+| 2026-11-07 | Saturday | 5 | Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files | 624 | 426 | Technology | [link](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) · [HN](https://news.ycombinator.com/item?id=50407882) |
+| 2026-11-07 | Saturday | 6 | Apple’s grey list: Words and phrases your iPhone won’t help you spell | 555 | 367 | Technology | [link](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you) · [HN](https://news.ycombinator.com/item?id=50406111) |
+| 2026-11-07 | Saturday | 7 | The end of Microsoft Research's AI Frontiers group | 510 | 310 | Technology | [link](https://hunch.net/?p=13764006) · [HN](https://news.ycombinator.com/item?id=50406563) |
+| 2026-11-07 | Saturday | 8 | Every Windows 11 app should kill Electron, and Discord just showed why | 480 | 510 | Technology | [link](https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/) · [HN](https://news.ycombinator.com/item?id=50403507) |
+| 2026-11-07 | Saturday | 9 | Asahi Linux Progress Linux 7.3 | 433 | 419 | Technology | [link](https://asahilinux.org/2026/11/progress-report-7-3/) · [HN](https://news.ycombinator.com/item?id=50401867) |
+| 2026-11-07 | Saturday | 10 | MaxxBench – "Nice DeepSWE score. But is it true?" | 407 | 108 | Technology | [link](https://maxxbench.unlap.ai/research/why-maxxbench/) · [HN](https://news.ycombinator.com/item?id=50406222) |
 | 2026-11-06 | Friday | 1 | Tesla to wind down Cybertruck production | 1023 | 1875 | Technology | [link](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) · [HN](https://news.ycombinator.com/item?id=50391456) |
 | 2026-11-06 | Friday | 2 | Blender's UI and Runtime: Much Faster Than GPUI | 697 | 283 | Technology | [link](https://github.com/ppmpreetham/BUI) · [HN](https://news.ycombinator.com/item?id=50389333) |
 | 2026-11-06 | Friday | 3 | Libghostty 1.0 | 679 | 111 | Technology | [link](https://mitchellh.com/writing/libghostty-1-0) · [HN](https://news.ycombinator.com/item?id=50399933) |

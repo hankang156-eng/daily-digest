@@ -1,6 +1,6 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-10 · 10764 items*
+*Last updated: 2026-11-10 · 10806 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
@@ -51,6 +51,48 @@
 | 2026-11-09 | Rubio Warned Officials About Jensen Huang’s Affair With a Chinese Spy | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-09 | [link](https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html?unlocked_article_code=1.PFE.dLW7.D8C1YUYhNooj) |
 | 2026-11-09 | The Web Is More Than Enough, by Paul Ford | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-09 | [link](https://simonwillison.net/2026/Nov/9/hn-50421091/) |
 | 2026-11-09 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
+| 2026-11-07 | Need for Speed Underground 2 online in the browser | HN | Technology | tech | 2026-11-07 | [link](https://nfsu2.xyz/) |
+| 2026-11-07 | Every Mac comes with an (undocumented) family member classifier | HN | Technology | tech | 2026-11-07 | [link](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph) |
+| 2026-11-07 | What I run on my $10 USD OpenStick homelab | HN | Technology | tech | 2026-11-07 | [link](https://blog.bosscher.ch/posts/openstick/) |
+| 2026-11-07 | Goodbye Claude, hello Pi | HN | Technology | tech | 2026-11-07 | [link](https://caleb.software/posts/claude-to-pi.html) |
+| 2026-11-07 | Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files | HN | Technology | tech | 2026-11-07 | [link](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) |
+| 2026-11-07 | Apple’s grey list: Words and phrases your iPhone won’t help you spell | HN | Technology | tech | 2026-11-07 | [link](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you) |
+| 2026-11-07 | The end of Microsoft Research's AI Frontiers group | HN | Technology | tech | 2026-11-07 | [link](https://hunch.net/?p=13764006) |
+| 2026-11-07 | Every Windows 11 app should kill Electron, and Discord just showed why | HN | Technology | tech | 2026-11-07 | [link](https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/) |
+| 2026-11-07 | Asahi Linux Progress Linux 7.3 | HN | Technology | tech | 2026-11-07 | [link](https://asahilinux.org/2026/11/progress-report-7-3/) |
+| 2026-11-07 | MaxxBench – "Nice DeepSWE score. But is it true?" | HN | Technology | tech | 2026-11-07 | [link](https://maxxbench.unlap.ai/research/why-maxxbench/) |
+| 2026-11-07 | Running a law firm on Free software | HN | Technology | tech | 2026-11-07 | [link](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/) |
+| 2026-11-07 | Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller | HN | Technology | tech | 2026-11-07 | [link](https://github.com/hedgerow-dev/coldframe) |
+| 2026-11-07 | Upload Your RAM | HN | Technology | tech | 2026-11-07 | [link](https://uploadyourram.org) |
+| 2026-11-07 | The $8 Linux Computer (2022) | HN | Technology | tech | 2026-11-07 | [link](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html) |
+| 2026-11-07 | They don't make 'em like that any more: Borland Turbo Pascal 7 | HN | Technology | tech | 2026-11-07 | [link](https://kevinboone.me/tpwin.html) |
+| 2026-11-07 | Making any integer with four 2s (2025) | HN | Technology | tech | 2026-11-07 | [link](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/) |
+| 2026-11-07 | These Solar Panels Stay Cool in Hot Climates | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-11-07 | [link](https://spectrum.ieee.org/solar-panel-cooling) |
+| 2026-11-07 | Terry Pratchett's Study | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-07 | [link](https://simonwillison.net/2026/Nov/7/hn-50407316/) |
+| 2026-11-07 | Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-07 | [link](https://www.youtube.com/watch?v=f2GZtWuUPl0) |
+| 2026-11-07 | Book Review: When the Dust Settles - Stories of Love, Loss and Hope from an Expert in Disaster by Lu | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-11-07 | [link](https://shkspr.mobi/blog/2026/11/book-review-when-the-dust-settles-stories-of-love-loss-and-hope-from-an-expert-in-disaster-by-lucy-easthope/) |
+| 2026-11-07 | datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-07 | [link](https://simonwillison.net/2026/Nov/7/link-rel-next/) |
+| 2026-11-07 | A judge says Claude Max’s “20x more usage” promise could mislead paying subscribers | Reddit | Business | social | 2026-11-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xq12am/a_judge_says_claude_maxs_20x_more_usage_promise/) |
+| 2026-11-07 | As a GPT user, I used Opus 5.5 once and i feel incredibly lied to by benchmarks | Reddit | Business | social | 2026-11-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xqfqjl/as_a_gpt_user_i_used_opus_55_once_and_i_feel/) |
+| 2026-11-07 | Refusals to do work are going way too far. | Reddit | Business | social | 2026-11-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xq95sa/refusals_to_do_work_are_going_way_too_far/) |
+| 2026-11-07 | Multiple Emails Allowed Now! | Reddit | Business | social | 2026-11-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xq73lm/multiple_emails_allowed_now/) |
+| 2026-11-07 | Anyone else being driven by people who pretend this doesn't exist? | Reddit | Business | social | 2026-11-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xpshux/anyone_else_being_driven_by_people_who_pretend/) |
+| 2026-11-07 | Got a Unique Recruiting Email Today | Reddit | Business | social | 2026-11-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xqfvz2/got_a_unique_recruiting_email_today/) |
+| 2026-11-07 | Couldn’t even argue with that one | Reddit | Business | social | 2026-11-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xq0696/couldnt_even_argue_with_that_one/) |
+| 2026-11-07 | Did Anthropic get hacked? | Reddit | Business | social | 2026-11-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xq4d3u/did_anthropic_get_hacked/) |
+| 2026-11-07 | Stanford researchers develop a new AI memory system that recalls information from entire conversatio | Reddit | Business | social | 2026-11-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xpvvg3/stanford_researchers_develop_a_new_ai_memory/) |
+| 2026-11-07 | Current state of Prompt Engineering | Reddit | Business | social | 2026-11-07 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xq8lk3/current_state_of_prompt_engineering/) |
+| 2026-11-07 | A year after the 100% AI mandate nobody understands our code | Reddit | Business | social | 2026-11-07 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/) |
+| 2026-11-07 | opus 5.5 XHIGH just deleted all my apps data, passwords and macOS configs | Reddit | Business | social | 2026-11-07 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xqfp7m/opus_55_xhigh_just_deleted_all_my_apps_data/) |
+| 2026-11-07 | Anyone else running Claude Code mostly by voice? Mine has a "chief" agent that delegates to the othe | Reddit | Business | social | 2026-11-07 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xpxec0/anyone_else_running_claude_code_mostly_by_voice/) |
+| 2026-11-07 | Borrowed Anthropic's "dreaming" idea to stop re-explaining my projects to Claude Code | Reddit | Business | social | 2026-11-07 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xqdxdp/borrowed_anthropics_dreaming_idea_to_stop/) |
+| 2026-11-07 | Claude Code was sending your account email in User-Agent headers. Here is where the fix stands and w | Reddit | Business | social | 2026-11-07 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xpvehl/claude_code_was_sending_your_account_email_in/) |
+| 2026-11-07 | show a new retro style | Reddit | Business | social | 2026-11-07 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xqfkz2/show_a_new_retro_style/) |
+| 2026-11-07 | I dropped my automated daily note setup after a month and my notes got better | Reddit | Business | social | 2026-11-07 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xpt915/i_dropped_my_automated_daily_note_setup_after_a/) |
+| 2026-11-07 | tags vs links | Reddit | Business | social | 2026-11-07 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xqdwrk/tags_vs_links/) |
+| 2026-11-07 | Absolute noob to Obsidian here -- how do I use it best? | Reddit | Business | social | 2026-11-07 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xq4a4w/absolute_noob_to_obsidian_here_how_do_i_use_it/) |
+| 2026-11-07 | Flatcap, the theme I use for my own notes | Reddit | Business | social | 2026-11-07 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xq97f4/flatcap_the_theme_i_use_for_my_own_notes/) |
+| 2026-11-07 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-06 | Tesla to wind down Cybertruck production | HN | Technology | tech | 2026-11-06 | [link](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) |
 | 2026-11-06 | Blender's UI and Runtime: Much Faster Than GPUI | HN | Technology | tech | 2026-11-06 | [link](https://github.com/ppmpreetham/BUI) |
 | 2026-11-06 | Libghostty 1.0 | HN | Technology | tech | 2026-11-06 | [link](https://mitchellh.com/writing/libghostty-1-0) |
