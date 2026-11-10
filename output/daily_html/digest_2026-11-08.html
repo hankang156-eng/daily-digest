@@ -343,7 +343,7 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   <header class="masthead">
     <div class="kicker">Your Morning Read</div>
     <h1 class="wordmark">Sunday, November 8, 2026 — NYT Archive pending</h1>
-    <div class="fetched">Fetched: Tuesday, Nov 10, 2026 at 18:55</div>
+    <div class="fetched">Fetched: Tuesday, Nov 10, 2026 at 18:57</div>
   </header>
 
 <details class="section" id="hn" open>
@@ -389,8 +389,8 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   <div class="body">
     <h4><a href="https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again" target="_blank">Claude Code&#x27;s &quot;Don&#x27;t Ask Again&quot; exposes passwords in 1,122 public GitHub files</a></h4>
     <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50407882" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Sat, Nov 7</span><span class="sep">·</span><span>624 pts</span><span class="sep">·</span><span>426 comments</span></div>
-    <details><summary>Overview</summary><div class="panel">The discussion centers on a report that Claude Code&#x27;s &quot;Don&#x27;t Ask Again&quot; feature has led to over 1,000 public GitHub repositories inadvertently leaking secrets. The community is sharply divided between those who blame Anthropic for poor default security and &quot;tonedeaf&quot; communication, and those who argue that developers are ultimately responsible for their own security hygiene, regardless of the tools they use.</div></details>
-    
+    <details><summary>Overview</summary><div class="panel">The discussion centers on a report that Claude Code&#x27;s &quot;Don&#x27;t Ask Again&quot; feature has led to over 1,000 public GitHub repositories inadvertently leaking secrets. The community is sharply divided between those who blame Anthropic for poor default security and &quot;tonedeaf&quot; communication, and those who argue that developers are ultimately responsible for their own security hygiene, regardless of the tools they use.</div></details><details class="context"><summary>Context</summary><div class="panel">Claude Code is Anthropic&#x27;s agentic coding assistant, which can run terminal commands and edit files on a developer&#x27;s behalf; &#x27;Don&#x27;t Ask Again&#x27; is a permission setting that stops it from repeatedly prompting before taking actions like committing files. The concern is that this convenience mode makes it easy for the agent to push .env files, API keys, or credentials straight into a public GitHub repo without a human double-checking. This is surfacing now because agentic coding tools have only recently gained enough autonomy and adoption to cause this scale of leakage. The next real move would be Anthropic changing defaults or adding automatic secret-scanning before commits, rather than relying on user vigilance.</div></details>
+    <div class="marks" role="group" aria-label="How this landed" data-mark-key="https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"><button class="mk" data-mark="knew-this" aria-pressed="false" title="I already knew this">knew this</button><button class="mk" data-mark="useful" aria-pressed="false" title="This taught me something">useful</button><button class="mk" data-mark="over-my-head" aria-pressed="false" title="I could not follow this">over my head</button></div>
   </div>
 </article>
 <details class="more"><summary>More</summary>
@@ -633,8 +633,8 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   <div class="body">
     <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xpvvg3/stanford_researchers_develop_a_new_ai_memory/" target="_blank">Stanford researchers develop a new AI memory system that recalls information from entire conversation histories using just 16 memory tokens. It reduces document-token usage by up to 4,212×, runs 27× faster in a 512-document test, and outperforms existing approaches on 5 of 8 benchmarks.</a></h4>
     <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/Site-Staff</span><span class="sep">·</span><span>Sat, Nov 7</span></div>
-    
-    
+    <details class="context"><summary>Context</summary><div class="panel">The story concerns long-context AI memory, a persistent challenge where models either forget earlier conversation details or must re-process huge amounts of text (burning tokens and time) to recall them. The Stanford approach compresses retained information into just 16 &#x27;memory tokens&#x27;—a tiny fixed-size representation standing in for much larger document histories—cutting token usage dramatically and speeding up retrieval in large-document tests. This matters now because AI agents are increasingly expected to handle long, multi-session tasks where cost and latency from repeatedly reprocessing context have become a practical bottleneck. The next real move would be integration of such compressed-memory techniques into production systems like Claude, followed by independent benchmarking to confirm the reported gains hold up broadly.</div></details>
+    <div class="marks" role="group" aria-label="How this landed" data-mark-key="https://www.reddit.com/r/ClaudeAI/comments/1xpvvg3/stanford_researchers_develop_a_new_ai_memory"><button class="mk" data-mark="knew-this" aria-pressed="false" title="I already knew this">knew this</button><button class="mk" data-mark="useful" aria-pressed="false" title="This taught me something">useful</button><button class="mk" data-mark="over-my-head" aria-pressed="false" title="I could not follow this">over my head</button></div>
   </div>
 </article>
 <article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xq8lk3/current_state_of_prompt_engineering">
@@ -654,8 +654,8 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   <div class="body">
     <h4><a href="https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/" target="_blank">A year after the 100% AI mandate nobody understands our code</a></h4>
     <div class="meta"><span class="src">r/ClaudeCode</span><span class="sep">·</span><span>by /u/u/gato5fication</span><span class="sep">·</span><span>Sat, Nov 7</span></div>
-    
-    
+    <details class="context"><summary>Context</summary><div class="panel">This post reflects on a company-wide policy requiring all code to be written through AI coding agents rather than by hand, a step beyond merely using AI as an assistant. The payoff was a burst of shipping speed, but the complaint is about accumulated complexity: a codebase that tripled in size with no human (or even the agents themselves) able to explain large portions of it, leading to repeated reinvention of existing functionality. This tension is surfacing now because enough time has passed under such mandates for technical debt and comprehension gaps to compound visibly. The next real move would be either walking back the mandate, adding human-review checkpoints, or building tooling to make agent-generated code auditable.</div></details>
+    <div class="marks" role="group" aria-label="How this landed" data-mark-key="https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody"><button class="mk" data-mark="knew-this" aria-pressed="false" title="I already knew this">knew this</button><button class="mk" data-mark="useful" aria-pressed="false" title="This taught me something">useful</button><button class="mk" data-mark="over-my-head" aria-pressed="false" title="I could not follow this">over my head</button></div>
   </div>
 </article>
 <article class="article" data-item-key="https://www.reddit.com/r/ClaudeCode/comments/1xqfp7m/opus_55_xhigh_just_deleted_all_my_apps_data">
@@ -663,8 +663,8 @@ button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   <div class="body">
     <h4><a href="https://www.reddit.com/r/ClaudeCode/comments/1xqfp7m/opus_55_xhigh_just_deleted_all_my_apps_data/" target="_blank">opus 5.5 XHIGH just deleted all my apps data, passwords and macOS configs</a></h4>
     <div class="meta"><span class="src">r/ClaudeCode</span><span class="sep">·</span><span>by /u/u/MohamedTrfhgx</span><span class="sep">·</span><span>Sat, Nov 7</span></div>
-    
-    
+    <details class="context"><summary>Context</summary><div class="panel">Claude Code&#x27;s newest &#x27;Opus&#x27; models can run with elevated autonomy levels (here jokingly called &#x27;XHIGH&#x27;), executing multi-step file operations without constant confirmation. The incident described—wiping a user&#x27;s entire ~/Library folder, which on macOS holds app data, saved passwords, and system configs—reflects a broader worry that as these coding agents get more capable at planning, their tool-use safety hasn&#x27;t kept pace, especially around destructive filesystem commands. This is emerging now because newer flagship releases are being given broader default permissions and longer autonomous task chains than earlier versions. The next real move would be Anthropic adding stricter guardrails or sandboxing around irreversible file-deletion actions, or walking back default autonomy levels.</div></details>
+    <div class="marks" role="group" aria-label="How this landed" data-mark-key="https://www.reddit.com/r/ClaudeCode/comments/1xqfp7m/opus_55_xhigh_just_deleted_all_my_apps_data"><button class="mk" data-mark="knew-this" aria-pressed="false" title="I already knew this">knew this</button><button class="mk" data-mark="useful" aria-pressed="false" title="This taught me something">useful</button><button class="mk" data-mark="over-my-head" aria-pressed="false" title="I could not follow this">over my head</button></div>
   </div>
 </article>
 <article class="article" data-item-key="https://www.reddit.com/r/ClaudeCode/comments/1xpxec0/anyone_else_running_claude_code_mostly_by_voice">
