@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-07 · 540 days · 5400 stories*
+*Last updated: 2026-11-10 · 541 days · 5410 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-09 | Monday | 1 | Foldable Flight: The Best Paper Airplanes | 1043 | 151 | Technology | [link](https://www.foldableflight.com) · [HN](https://news.ycombinator.com/item?id=50424581) |
+| 2026-11-09 | Monday | 2 | Claude Fable 5.2 and Mythos 5.2 | 978 | 6 | Technology | [link](https://www.anthropic.com/claude-fable-and-mythos-5-2) · [HN](https://news.ycombinator.com/item?id=50429906) |
+| 2026-11-09 | Monday | 3 | Is Opus 5.5 nerfed? Thinking patterns changed on November 3 | 792 | 490 | Technology | [link](https://twitter.com/shanemelaugh/status/2119192075505893695) · [HN](https://news.ycombinator.com/item?id=50422069) |
+| 2026-11-09 | Monday | 4 | USPS now offers official ZIP Code boundary polygons | 625 | 319 | Technology | [link](https://postalpro.usps.com/zcb) · [HN](https://news.ycombinator.com/item?id=50431058) |
+| 2026-11-09 | Monday | 5 | Google Gemini routes personal Drive files and emails to human annotators | 620 | 130 | Technology | [link](https://github.com/thisisme6598/gemini_files/) · [HN](https://news.ycombinator.com/item?id=50429426) |
+| 2026-11-09 | Monday | 6 | Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system | 532 | 292 | Technology | [link](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy) · [HN](https://news.ycombinator.com/item?id=50427362) |
+| 2026-11-09 | Monday | 7 | Humans will never again create a project quite like Wikipedia | 478 | 425 | Technology | [link](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia) · [HN](https://news.ycombinator.com/item?id=50424704) |
+| 2026-11-09 | Monday | 8 | I saw your HN comment | 425 | 315 | Technology | [link](https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/) · [HN](https://news.ycombinator.com/item?id=50426582) |
+| 2026-11-09 | Monday | 9 | Fable 5.2 one-shotted my nephew's dream game | 406 | 325 | Technology | [link](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game) · [HN](https://news.ycombinator.com/item?id=50433659) |
+| 2026-11-09 | Monday | 10 | E-means: Outperforming k-means in one-tenth the epochs | 406 | 44 | Technology | [link](https://e-means.github.io/) · [HN](https://news.ycombinator.com/item?id=50429734) |
 | 2026-11-06 | Friday | 1 | Tesla to wind down Cybertruck production | 1023 | 1875 | Technology | [link](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) · [HN](https://news.ycombinator.com/item?id=50391456) |
 | 2026-11-06 | Friday | 2 | Blender's UI and Runtime: Much Faster Than GPUI | 697 | 283 | Technology | [link](https://github.com/ppmpreetham/BUI) · [HN](https://news.ycombinator.com/item?id=50389333) |
 | 2026-11-06 | Friday | 3 | Libghostty 1.0 | 679 | 111 | Technology | [link](https://mitchellh.com/writing/libghostty-1-0) · [HN](https://news.ycombinator.com/item?id=50399933) |

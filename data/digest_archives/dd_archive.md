@@ -1,9 +1,56 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-07 · 10717 items*
+*Last updated: 2026-11-10 · 10764 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-11-09 | Foldable Flight: The Best Paper Airplanes | HN | Technology | tech | 2026-11-09 | [link](https://www.foldableflight.com) |
+| 2026-11-09 | Claude Fable 5.2 and Mythos 5.2 | HN | Technology | tech | 2026-11-09 | [link](https://www.anthropic.com/claude-fable-and-mythos-5-2) |
+| 2026-11-09 | Is Opus 5.5 nerfed? Thinking patterns changed on November 3 | HN | Technology | tech | 2026-11-09 | [link](https://twitter.com/shanemelaugh/status/2119192075505893695) |
+| 2026-11-09 | USPS now offers official ZIP Code boundary polygons | HN | Technology | tech | 2026-11-09 | [link](https://postalpro.usps.com/zcb) |
+| 2026-11-09 | Google Gemini routes personal Drive files and emails to human annotators | HN | Technology | tech | 2026-11-09 | [link](https://github.com/thisisme6598/gemini_files/) |
+| 2026-11-09 | Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system | HN | Technology | tech | 2026-11-09 | [link](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy) |
+| 2026-11-09 | Humans will never again create a project quite like Wikipedia | HN | Technology | tech | 2026-11-09 | [link](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia) |
+| 2026-11-09 | I saw your HN comment | HN | Technology | tech | 2026-11-09 | [link](https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/) |
+| 2026-11-09 | Fable 5.2 one-shotted my nephew's dream game | HN | Technology | tech | 2026-11-09 | [link](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game) |
+| 2026-11-09 | E-means: Outperforming k-means in one-tenth the epochs | HN | Technology | tech | 2026-11-09 | [link](https://e-means.github.io/) |
+| 2026-11-09 | Show HN: Every satellite that passed over any place this week, and its photos | HN | Technology | tech | 2026-11-09 | [link](https://www.watched.earth) |
+| 2026-11-09 | Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far | HN | Technology | tech | 2026-11-09 | [link](https://artificialanalysis.ai/models/claude-fable-5-2) |
+| 2026-11-09 | Too many men suffering in silence, national health report finds | HN | Technology | tech | 2026-11-09 | [link](https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds) |
+| 2026-11-09 | Going back two years on Hacker News is like entering another, better universe | HN | Technology | tech | 2026-11-09 | [link](https://news.ycombinator.com/front?day=2024-11-08) |
+| 2026-11-09 | When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385 | HN | Technology | tech | 2026-11-09 | [link](https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/) |
+| 2026-11-09 | Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics | HN | Technology | tech | 2026-11-09 | [link](https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/) |
+| 2026-11-09 | Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills | NYT · Energy & Environment | Energy & Environment | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html) |
+| 2026-11-09 | What Is Congress’s Plan to Speed Up Energy Permits? | NYT · Energy & Environment | Energy & Environment | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html) |
+| 2026-11-09 | Democrats Demand Answers on Trump’s A.I. Policy Amid Spy Plot | NYT · Politics | Politics | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html) |
+| 2026-11-09 | U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention | NYT · Economy | Economy | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html) |
+| 2026-11-09 | A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed | NYT · Technology | Technology | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html) |
+| 2026-11-09 | Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang | NYT · Business | Business | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html) |
+| 2026-11-09 | Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy | NYT · Technology | Technology | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html) |
+| 2026-11-09 | We Just Had an Anti-Slop Election | NYT · Opinion | Opinion | opinion | 2026-11-09 | [link](https://www.nytimes.com/2026/11/07/opinion/midterms-tech-economy.html) |
+| 2026-11-09 | How Indispensable Is Jensen Huang? | NYT · Business | Business | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html) |
+| 2026-11-09 | Lawsuit Says Republican Strategist Alex Bruesewitz Took Money From Qatari Interests | NYT · Business | Business | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html) |
+| 2026-11-09 | What to Know About Nvidia’s Investigation of CEO Jensen Huang | NYT · Technology | Technology | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html) |
+| 2026-11-09 | Law Firms Have Malpractice Insurance. Should Their A.I. Agents? | NYT · Business | Business | news | 2026-11-07 | [link](https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html) |
+| 2026-11-09 | Is Jensen Huang Too Powerful to Be Punished by Nvidia? | NYT · Technology | Technology | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html) |
+| 2026-11-09 | The Jensen Huang Affair | NYT · Technology | Technology | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html) |
+| 2026-11-09 | U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties | NYT · Economy | Economy | news | 2026-11-08 | [link](https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html) |
+| 2026-11-09 | Could the Voter Backlash Against A.I. Actually Help the Economy? | NYT · Economy | Economy | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html) |
+| 2026-11-09 | After a $2.5 Trillion Wipeout, Tech Investors Brace for More Pain | NYT · Business | Business | news | 2026-11-06 | [link](https://www.nytimes.com/2026/11/06/business/dealbook/tech-investors-ai-rout.html) |
+| 2026-11-09 | Why Anger About Data Centers and Energy Prices May Not Swing Votes | NYT · Energy & Environment | Energy & Environment | news | 2026-10-23 | [link](https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html) |
+| 2026-11-09 | With Hopes Low and Temperatures High, Climate Summit Opens in Turkey | NYT · Energy & Environment | Energy & Environment | news | 2026-11-08 | [link](https://www.nytimes.com/2026/11/08/climate/with-hopes-low-and-temperatures-high-climate-summit-opens-in-turkey.html) |
+| 2026-11-09 | Feel Like You’re Overpaying for Hotels? Blame Expedia, a New Lawsuit Says. | NYT · Your Money | Your Money | news | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/travel/expedia-lawsuit-hotel-prices.html) |
+| 2026-11-09 | The Race to Build a “Find My” for AI Chips | IEEE Spectrum Semiconductors · AI Infrastructure | Infrastructure | tech | 2026-11-09 | [link](https://spectrum.ieee.org/find-my-ai-chip) |
+| 2026-11-09 | Mastering compliance | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-09 | [link](https://www.datacenterdynamics.com/en/whitepapers/mastering-compliance/) |
+| 2026-11-09 | Police charge two men with copper theft from cell tower in Liberty, North Carolina | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-09 | [link](https://www.datacenterdynamics.com/en/news/police-charge-two-men-with-copper-theft-from-cell-tower-in-liberty-north-carolina/) |
+| 2026-11-09 | Hide your slop PR descriptions behind | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-09 | [link](https://simonwillison.net/2026/Nov/9/details-summary/) |
+| 2026-11-09 | Arizona’s longest-tenured utility commissioner on large loads, affordability and Western markets | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-09 | [link](https://www.utilitydive.com/news/large-loads-affordability-western-markets-arizona-acc/874071/) |
+| 2026-11-09 | The next wave of energy storage capacity is already on the grid | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-09 | [link](https://www.utilitydive.com/spons/the-next-wave-of-energy-storage-capacity-is-already-on-the-grid/873140/) |
+| 2026-11-09 | Senate’s bipartisan permitting bill faces crucial test | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-09 | [link](https://www.latitudemedia.com/news/senates-bipartisan-permitting-bill-faces-crucial-test/) |
+| 2026-11-09 | Bloomberg Was Onto Megaspeed’s Game a Year Ago | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-09 | [link](https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us) |
+| 2026-11-09 | Rubio Warned Officials About Jensen Huang’s Affair With a Chinese Spy | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-09 | [link](https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html?unlocked_article_code=1.PFE.dLW7.D8C1YUYhNooj) |
+| 2026-11-09 | The Web Is More Than Enough, by Paul Ford | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-09 | [link](https://simonwillison.net/2026/Nov/9/hn-50421091/) |
+| 2026-11-09 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-06 | Tesla to wind down Cybertruck production | HN | Technology | tech | 2026-11-06 | [link](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) |
 | 2026-11-06 | Blender's UI and Runtime: Much Faster Than GPUI | HN | Technology | tech | 2026-11-06 | [link](https://github.com/ppmpreetham/BUI) |
 | 2026-11-06 | Libghostty 1.0 | HN | Technology | tech | 2026-11-06 | [link](https://mitchellh.com/writing/libghostty-1-0) |
