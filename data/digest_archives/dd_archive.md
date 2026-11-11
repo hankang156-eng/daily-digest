@@ -1,6 +1,6 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-10 · 10806 items*
+*Last updated: 2026-11-10 · 10847 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
@@ -51,6 +51,47 @@
 | 2026-11-09 | Rubio Warned Officials About Jensen Huang’s Affair With a Chinese Spy | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-09 | [link](https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html?unlocked_article_code=1.PFE.dLW7.D8C1YUYhNooj) |
 | 2026-11-09 | The Web Is More Than Enough, by Paul Ford | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-09 | [link](https://simonwillison.net/2026/Nov/9/hn-50421091/) |
 | 2026-11-09 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
+| 2026-11-08 | Nvidia CEO Jensen Huang's letter to staff about affair | HN | Technology | tech | 2026-11-08 | [link](https://nvidianews.nvidia.com/news/a-message-to-our-company) |
+| 2026-11-08 | Goldman Sachs is pulling Claude Code from its bankers and traders | HN | Technology | tech | 2026-11-08 | [link](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) |
+| 2026-11-08 | KetchUp – Open-source SketchUp alternative built with Rust and WebGPU | HN | Technology | tech | 2026-11-08 | [link](https://ketchup3d.github.io/app/) |
+| 2026-11-08 | Unlocking any car from X brand in most of the world | HN | Technology | tech | 2026-11-08 | [link](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/) |
+| 2026-11-08 | I'm not convinced the AI bubble exists | HN | Technology | tech | 2026-11-08 | [link](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists) |
+| 2026-11-08 | Outlook.com is rejecting email from domains without DMARC | HN | Technology | tech | 2026-11-08 | [link](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc) |
+| 2026-11-08 | Statement from Nvidia board of directors | HN | Technology | tech | 2026-11-08 | [link](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors) |
+| 2026-11-08 | Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU | HN | Technology | tech | 2026-11-08 | [link](https://github.com/synchopate/llama-modchip) |
+| 2026-11-08 | Writing as a thinking tool | HN | Technology | tech | 2026-11-08 | [link](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html) |
+| 2026-11-08 | RIP, Harvest | HN | Technology | tech | 2026-11-08 | [link](https://aphyr.com/posts/427-rip-harvest) |
+| 2026-11-08 | Chimera Vocal Synth | HN | Technology | tech | 2026-11-08 | [link](https://chimera-vocal-synth.vercel.app/) |
+| 2026-11-08 | Dux: Free, open-source Wayland desktop shell with file manager and theming | HN | Technology | tech | 2026-11-08 | [link](https://duxlabs.dev/) |
+| 2026-11-08 | Person of Interest | HN | Technology | tech | 2026-11-08 | [link](https://krthr.co/person-of-interest/) |
+| 2026-11-08 | How I'm fighting the AI brain fry | HN | Technology | tech | 2026-11-08 | [link](https://sergeykuhne.com/blog/fighting-ai-brain-fry) |
+| 2026-11-08 | Ask HN: What are you working on? (November 2026) | HN | Technology | tech | 2026-11-08 | [link](https://news.ycombinator.com/item?id=50417407) |
+| 2026-11-08 | RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC | HN | Technology | tech | 2026-11-08 | [link](https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/) |
+| 2026-11-08 | parse_number() as a SQLite extension: C vs Rust | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-08 | [link](https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/) |
+| 2026-11-08 | Jensen Huang Betrayed Nvidia, Not Just His Family | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-08 | [link](https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI) |
+| 2026-11-08 | Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-08 | [link](https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L) |
+| 2026-11-08 | Some thoughts on restaurant menu QR codes | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-11-08 | [link](https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/) |
+| 2026-11-08 | claudism | Reddit | Business | social | 2026-11-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xqtwu0/claudism/) |
+| 2026-11-08 | I built an infinite, self-evolving Backrooms with Opus 5.5. Even I don’t know what’s in it anymore | Reddit | Business | social | 2026-11-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xqp0p0/i_built_an_infinite_selfevolving_backrooms_with/) |
+| 2026-11-08 | Holy guardrails | Reddit | Business | social | 2026-11-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xr45rt/holy_guardrails/) |
+| 2026-11-08 | What's the one prompt you keep coming back to? | Reddit | Business | social | 2026-11-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xr0drc/whats_the_one_prompt_you_keep_coming_back_to/) |
+| 2026-11-08 | I built an MCP with Claude Code that lets Claude play PC games in the background. Here it is driving | Reddit | Business | social | 2026-11-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xr3gbs/i_built_an_mcp_with_claude_code_that_lets_claude/) |
+| 2026-11-08 | Are we not allowed to ask any sh*t about biology to Opus 5.5? | Reddit | Business | social | 2026-11-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xr2pir/are_we_not_allowed_to_ask_any_sht_about_biology/) |
+| 2026-11-08 | Opus 5.5 goes UP on Benchmaxxing Bench | Reddit | Business | social | 2026-11-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xqohti/opus_55_goes_up_on_benchmaxxing_bench/) |
+| 2026-11-08 | I built my restaurant’s whole ops platform with Claude Code instead of paying for five different app | Reddit | Business | social | 2026-11-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xqquzu/i_built_my_restaurants_whole_ops_platform_with/) |
+| 2026-11-08 | I used Claude Code to rebuild IDM as a free, open-source download manager, the ArtCraft way. Mister  | Reddit | Business | social | 2026-11-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xqy0s6/i_used_claude_code_to_rebuild_idm_as_a_free/) |
+| 2026-11-08 | Agents knowingly fail to complete tasks in order to create engagement bait, wasting significant amou | Reddit | Business | social | 2026-11-08 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xqlgno/agents_knowingly_fail_to_complete_tasks_in_order/) |
+| 2026-11-08 | Opus 5.5 in the past two weeks | Reddit | Business | social | 2026-11-08 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xr4urz/opus_55_in_the_past_two_weeks/) |
+| 2026-11-08 | The nerf is real. Thank you u/WuM1ha1nho!!!! | Reddit | Business | social | 2026-11-08 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xr9x5y/the_nerf_is_real_thank_you_uwum1ha1nho/) |
+| 2026-11-08 | Anthropic should offer a free Reset and restore Opus 5.5 | Reddit | Business | social | 2026-11-08 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xqvqip/anthropic_should_offer_a_free_reset_and_restore/) |
+| 2026-11-08 | HANK NOOOO! DO NOT SHORTEN "DEEP ANALYSIS" WHEN ASKING A QUESTION!!! | Reddit | Business | social | 2026-11-08 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xqtuc1/hank_noooo_do_not_shorten_deep_analysis_when/) |
+| 2026-11-08 | Rant: Anthropic, stop silently degrading models when you need compute. You will undermine trust. | Reddit | Business | social | 2026-11-08 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xqtslm/rant_anthropic_stop_silently_degrading_models/) |
+| 2026-11-08 | Obsidian just passed 10,000 community plugins | Reddit | Business | social | 2026-11-08 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xr9w1r/obsidian_just_passed_10000_community_plugins/) |
+| 2026-11-08 | To all the students who use obsidian to study and take notes... | Reddit | Business | social | 2026-11-08 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xr868f/to_all_the_students_who_use_obsidian_to_study_and/) |
+| 2026-11-08 | Obsidian spoiled me on... | Reddit | Business | social | 2026-11-08 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xqqgub/obsidian_spoiled_me_on/) |
+| 2026-11-08 | Press the Action Button, talk, done: voice notes transcribed straight into my Obsidian daily note (j | Reddit | Business | social | 2026-11-08 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xqxnlh/press_the_action_button_talk_done_voice_notes/) |
+| 2026-11-08 | Spent the last few weeks making my long notes actually readable like a physical book page [Showcase] | Reddit | Business | social | 2026-11-08 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xqyr76/spent_the_last_few_weeks_making_my_long_notes/) |
+| 2026-11-08 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-07 | Need for Speed Underground 2 online in the browser | HN | Technology | tech | 2026-11-07 | [link](https://nfsu2.xyz/) |
 | 2026-11-07 | Every Mac comes with an (undocumented) family member classifier | HN | Technology | tech | 2026-11-07 | [link](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph) |
 | 2026-11-07 | What I run on my $10 USD OpenStick homelab | HN | Technology | tech | 2026-11-07 | [link](https://blog.bosscher.ch/posts/openstick/) |

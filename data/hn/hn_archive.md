@@ -1,6 +1,6 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-10 · 542 days · 5420 stories*
+*Last updated: 2026-11-10 · 543 days · 5430 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
@@ -14,6 +14,16 @@
 | 2026-11-09 | Monday | 8 | I saw your HN comment | 425 | 315 | Technology | [link](https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/) · [HN](https://news.ycombinator.com/item?id=50426582) |
 | 2026-11-09 | Monday | 9 | Fable 5.2 one-shotted my nephew's dream game | 406 | 325 | Technology | [link](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game) · [HN](https://news.ycombinator.com/item?id=50433659) |
 | 2026-11-09 | Monday | 10 | E-means: Outperforming k-means in one-tenth the epochs | 406 | 44 | Technology | [link](https://e-means.github.io/) · [HN](https://news.ycombinator.com/item?id=50429734) |
+| 2026-11-08 | Sunday | 1 | Nvidia CEO Jensen Huang's letter to staff about affair | 975 | 1268 | Technology | [link](https://nvidianews.nvidia.com/news/a-message-to-our-company) · [HN](https://news.ycombinator.com/item?id=50418016) |
+| 2026-11-08 | Sunday | 2 | Goldman Sachs is pulling Claude Code from its bankers and traders | 897 | 488 | Technology | [link](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) · [HN](https://news.ycombinator.com/item?id=50415628) |
+| 2026-11-08 | Sunday | 3 | KetchUp – Open-source SketchUp alternative built with Rust and WebGPU | 759 | 228 | Technology | [link](https://ketchup3d.github.io/app/) · [HN](https://news.ycombinator.com/item?id=50418176) |
+| 2026-11-08 | Sunday | 4 | Unlocking any car from X brand in most of the world | 624 | 343 | Technology | [link](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/) · [HN](https://news.ycombinator.com/item?id=50419215) |
+| 2026-11-08 | Sunday | 5 | I'm not convinced the AI bubble exists | 563 | 957 | Technology | [link](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists) · [HN](https://news.ycombinator.com/item?id=50418975) |
+| 2026-11-08 | Sunday | 6 | Outlook.com is rejecting email from domains without DMARC | 544 | 365 | Technology | [link](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc) · [HN](https://news.ycombinator.com/item?id=50416158) |
+| 2026-11-08 | Sunday | 7 | Statement from Nvidia board of directors | 491 | 415 | Technology | [link](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors) · [HN](https://news.ycombinator.com/item?id=50416801) |
+| 2026-11-08 | Sunday | 8 | Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU | 482 | 207 | Technology | [link](https://github.com/synchopate/llama-modchip) · [HN](https://news.ycombinator.com/item?id=50411961) |
+| 2026-11-08 | Sunday | 9 | Writing as a thinking tool | 466 | 115 | Technology | [link](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html) · [HN](https://news.ycombinator.com/item?id=50412067) |
+| 2026-11-08 | Sunday | 10 | RIP, Harvest | 438 | 146 | Technology | [link](https://aphyr.com/posts/427-rip-harvest) · [HN](https://news.ycombinator.com/item?id=50420035) |
 | 2026-11-07 | Saturday | 1 | Need for Speed Underground 2 online in the browser | 1168 | 292 | Technology | [link](https://nfsu2.xyz/) · [HN](https://news.ycombinator.com/item?id=50403052) |
 | 2026-11-07 | Saturday | 2 | Every Mac comes with an (undocumented) family member classifier | 865 | 468 | Technology | [link](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph) · [HN](https://news.ycombinator.com/item?id=50403097) |
 | 2026-11-07 | Saturday | 3 | What I run on my $10 USD OpenStick homelab | 825 | 138 | Technology | [link](https://blog.bosscher.ch/posts/openstick/) · [HN](https://news.ycombinator.com/item?id=50406670) |
