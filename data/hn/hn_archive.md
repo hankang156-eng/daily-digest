@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-10 · 543 days · 5430 stories*
+*Last updated: 2026-11-11 · 544 days · 5440 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-10 | Tuesday | 1 | Smart home devices should work without the internet | 978 | 349 | Technology | [link](https://docodethatmatters.com/home-automation-overnight-success/) · [HN](https://news.ycombinator.com/item?id=50441707) |
+| 2026-11-10 | Tuesday | 2 | .name Grandfathered | 859 | 186 | Technology | [link](https://neil.fraser.name/news/2026/11/10/) · [HN](https://news.ycombinator.com/item?id=50442736) |
+| 2026-11-10 | Tuesday | 3 | Amazon saves millions by replacing Sonnet 4.6 with Strands Decider | 712 | 252 | Technology | [link](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/) · [HN](https://news.ycombinator.com/item?id=50436640) |
+| 2026-11-10 | Tuesday | 4 | AlphaProof Code | 643 | 185 | Technology | [link](https://deepmind.google/blog/introducing-alphaproof-code/) · [HN](https://news.ycombinator.com/item?id=50439193) |
+| 2026-11-10 | Tuesday | 5 | AI usage generates a fragile codebase | 568 | 536 | Technology | [link](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/) · [HN](https://news.ycombinator.com/item?id=50438318) |
+| 2026-11-10 | Tuesday | 6 | Scion is back and is going to sell a kei truck in America | 481 | 316 | Technology | [link](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/) · [HN](https://news.ycombinator.com/item?id=50445401) |
+| 2026-11-10 | Tuesday | 7 | Blender 5.3 released with Gaussian Splat support | 470 | 71 | Technology | [link](https://www.blender.org/download/releases/5-3/) · [HN](https://news.ycombinator.com/item?id=50442426) |
+| 2026-11-10 | Tuesday | 8 | Starlink Mini 2 | 428 | 443 | Technology | [link](https://starlink.com/mini-2) · [HN](https://news.ycombinator.com/item?id=50444129) |
+| 2026-11-10 | Tuesday | 9 | Synaptics patent claims stop work on DisplayLink drivers | 415 | 232 | Technology | [link](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/) · [HN](https://news.ycombinator.com/item?id=50443824) |
+| 2026-11-10 | Tuesday | 10 | Tracking Anthropic-discovered vulnerabilities | 407 | 193 | Technology | [link](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) · [HN](https://news.ycombinator.com/item?id=50447074) |
 | 2026-11-09 | Monday | 1 | Foldable Flight: The Best Paper Airplanes | 1043 | 151 | Technology | [link](https://www.foldableflight.com) · [HN](https://news.ycombinator.com/item?id=50424581) |
 | 2026-11-09 | Monday | 2 | Claude Fable 5.2 and Mythos 5.2 | 978 | 6 | Technology | [link](https://www.anthropic.com/claude-fable-and-mythos-5-2) · [HN](https://news.ycombinator.com/item?id=50429906) |
 | 2026-11-09 | Monday | 3 | Is Opus 5.5 nerfed? Thinking patterns changed on November 3 | 792 | 490 | Technology | [link](https://twitter.com/shanemelaugh/status/2119192075505893695) · [HN](https://news.ycombinator.com/item?id=50422069) |

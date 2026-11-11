@@ -1,9 +1,81 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-10 · 10863 items*
+*Last updated: 2026-11-11 · 10935 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-11-10 | Smart home devices should work without the internet | HN | Technology | tech | 2026-11-10 | [link](https://docodethatmatters.com/home-automation-overnight-success/) |
+| 2026-11-10 | .name Grandfathered | HN | Technology | tech | 2026-11-10 | [link](https://neil.fraser.name/news/2026/11/10/) |
+| 2026-11-10 | Amazon saves millions by replacing Sonnet 4.6 with Strands Decider | HN | Technology | tech | 2026-11-10 | [link](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/) |
+| 2026-11-10 | AlphaProof Code | HN | Technology | tech | 2026-11-10 | [link](https://deepmind.google/blog/introducing-alphaproof-code/) |
+| 2026-11-10 | AI usage generates a fragile codebase | HN | Technology | tech | 2026-11-10 | [link](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/) |
+| 2026-11-10 | Scion is back and is going to sell a kei truck in America | HN | Technology | tech | 2026-11-10 | [link](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/) |
+| 2026-11-10 | Blender 5.3 released with Gaussian Splat support | HN | Technology | tech | 2026-11-10 | [link](https://www.blender.org/download/releases/5-3/) |
+| 2026-11-10 | Starlink Mini 2 | HN | Technology | tech | 2026-11-10 | [link](https://starlink.com/mini-2) |
+| 2026-11-10 | Synaptics patent claims stop work on DisplayLink drivers | HN | Technology | tech | 2026-11-10 | [link](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/) |
+| 2026-11-10 | Tracking Anthropic-discovered vulnerabilities | HN | Technology | tech | 2026-11-10 | [link](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) |
+| 2026-11-10 | Val Town is winding down | HN | Technology | tech | 2026-11-10 | [link](https://blog.val.town/winding-down) |
+| 2026-11-10 | Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives | HN | Technology | tech | 2026-11-10 | [link](https://github.com/GoogleChrome/modern-web-guidance) |
+| 2026-11-10 | Ableton Live 13 | HN | Technology | tech | 2026-11-10 | [link](https://www.ableton.com/en/live/) |
+| 2026-11-10 | Gemini 4 Carbon is now available | HN | Technology | tech | 2026-11-10 | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/) |
+| 2026-11-10 | Apple has new Mac app coming to make running local AI models easy | HN | Technology | tech | 2026-11-10 | [link](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/) |
+| 2026-11-10 | Your TV can see through walls (2025) | HN | Technology | tech | 2026-11-10 | [link](https://maurycyz.com/projects/fading/) |
+| 2026-11-10 | Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O. | NYT · Technology | Technology | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html) |
+| 2026-11-10 | What Is Congress’s Plan to Speed Up Energy Permits? | NYT · Energy & Environment | Energy & Environment | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html) |
+| 2026-11-10 | Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills | NYT · Energy & Environment | Energy & Environment | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html) |
+| 2026-11-10 | This Law Firm Just Bought Malpractice Insurance for its A.I. Agents | NYT · DealBook | DealBook | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html) |
+| 2026-11-10 | The Post-Trump Battle Lines Are Drawn | NYT · Opinion | Opinion | opinion | 2026-11-11 | [link](https://www.nytimes.com/2026/11/11/opinion/post-trump-republicans.html) |
+| 2026-11-10 | The Jensen Huang Affair | NYT · Technology | Technology | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html) |
+| 2026-11-10 | What to Know About Nvidia’s Investigation of CEO Jensen Huang | NYT · Technology | Technology | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html) |
+| 2026-11-10 | Hospitals Brace for Medicaid Work Rules and Deep Funding Cuts | NYT · Business | Business | news | 2026-11-11 | [link](https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html) |
+| 2026-11-10 | U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention | NYT · Economy | Economy | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html) |
+| 2026-11-10 | Lawsuit Says Republican Strategist Alex Bruesewitz Took Money From Qatari Interests | NYT · Business | Business | news | 2026-11-11 | [link](https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html) |
+| 2026-11-10 | A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed | NYT · Technology | Technology | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html) |
+| 2026-11-10 | Elevated Inflation Keeps Pressure on Fed to Raise Rates | NYT · Economy | Economy | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/10/business/economy/inflation-economy-cpi.html) |
+| 2026-11-10 | Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy | NYT · Technology | Technology | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html) |
+| 2026-11-10 | We Just Had an Anti-Slop Election | NYT · Opinion | Opinion | opinion | 2026-11-09 | [link](https://www.nytimes.com/2026/11/07/opinion/midterms-tech-economy.html) |
+| 2026-11-10 | Toyota Plans to Sell a Kei Pickup Truck in the U.S. | NYT · Technology | Technology | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html) |
+| 2026-11-10 | Is Your Chatbot Conscious, or Just Code? | NYT · Opinion | Opinion | opinion | 2026-11-10 | [link](https://www.nytimes.com/2026/11/10/opinion/ai-consciousness.html) |
+| 2026-11-10 | Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny. | NYT · Technology | Technology | news | 2026-11-04 | [link](https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html) |
+| 2026-11-10 | Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia’s Jensen Huang | NYT · Politics | Politics | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html) |
+| 2026-11-10 | Satellite Imagery Is Being Restricted. The U.S. Government Is to Blame. | NYT · Opinion | Opinion | opinion | 2026-11-11 | [link](https://www.nytimes.com/2026/11/11/opinion/satellite-images-us-government.html) |
+| 2026-11-10 | New Batteries That Store Blistering Heat Are Taking Off | NYT · Energy & Environment | Energy & Environment | news | 2026-10-29 | [link](https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html) |
+| 2026-11-10 | AI Adoption in 2026: MIT Research on Enterprise AI | MIT IDE · MIT Research & Insights | Research | research | 2026-11-10 | [link](https://ide.mit.edu/insights/ai-adoption-2026/) |
+| 2026-11-10 | Introducing Our Smallest, Most Efficient Model: Muse Ember | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-10 | [link](https://simonwillison.net/2026/Nov/10/muse-ember/) |
+| 2026-11-10 | Finally, Payment by Bank Transfer Comes to Have I Been Pwned | Troy Hunt · Security & Privacy | Security | tech | 2026-11-10 | [link](https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/) |
+| 2026-11-10 | Weekly Update 529: Kids Social Media Bans (and Everything Else) | Troy Hunt · Security & Privacy | Security | tech | 2026-11-10 | [link](https://www.troyhunt.com/weekly-update-529/) |
+| 2026-11-10 | Vodafone progresses cost-savings strategy, but CEO warns German unit "not yet where it needs to be" | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-10 | [link](https://www.datacenterdynamics.com/en/news/vodafone-progresses-cost-savings-strategy-but-ceo-warns-german-unit-not-yet-where-it-needs-to-be/) |
+| 2026-11-10 | A new resource for utility scrutiny | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-10 | [link](https://www.latitudemedia.com/news/a-new-resource-for-utility-scrutiny/) |
+| 2026-11-10 | Introducing: Latitude Intelligence | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-10 | [link](https://www.latitudemedia.com/news/introducing-latitude-intelligence/) |
+| 2026-11-10 | AMD looks to tighten grip on CPU crown with Venice customer-centric core power | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-10 | [link](https://www.datacenterdynamics.com/en/news/amd-looks-to-tighten-grip-on-cpu-crown-with-venice-customer-centric-core-power/) |
+| 2026-11-10 | How CERN Built the Large Hadron Collider’s Next-Gen Magnets | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-11-10 | [link](https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets) |
+| 2026-11-10 | The AI boom could shift diesel generators from backup to everyday use | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-10 | [link](https://www.utilitydive.com/news/ai-boom-could-shift-diesel-generators-backup-everyday-use/873954/) |
+| 2026-11-10 | Yonkers Rises | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-10 | [link](https://simonwillison.net/2026/Nov/10/yonkers-rises/) |
+| 2026-11-10 | Gary Marcus: ‘Just Say No to Anthropic’s IPO’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-10 | [link](https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo?r=3k69a0) |
+| 2026-11-10 | U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Name-Dropped Trump Appointee | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-10 | [link](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PVE.GxBL.iBpBoc8Y4tnb) |
+| 2026-11-10 | Microsoft Fixes Nearly 1,100 Security Vulnerabilities | Krebs on Security · Security & Privacy | Security | tech | 2026-11-10 | [link](https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/) |
+| 2026-11-10 | Book Review: The Unfinished Harauld Hughes - Richard Ayoade ★★★⯪☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-11-10 | [link](https://shkspr.mobi/blog/2026/11/book-review-the-unfinished-harauld-hughes-richard-ayoade/) |
+| 2026-11-10 | it’s getting smarter frfr | Reddit | Business | social | 2026-11-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xsrfcl/its_getting_smarter_frfr/) |
+| 2026-11-10 | I built a webcam X-ray mirror with Claude Fable 5.2 | Reddit | Business | social | 2026-11-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xstews/i_built_a_webcam_xray_mirror_with_claude_fable_52/) |
+| 2026-11-10 | Instead of collecting dust, Claude makes your old Kindle useful again | Reddit | Business | social | 2026-11-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xsk5k9/instead_of_collecting_dust_claude_makes_your_old/) |
+| 2026-11-10 | Fable 51.8 is UNUSABLE on Pro. Hit my limit after ONE (1) prompt. Cancelled. | Reddit | Business | social | 2026-11-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xsjwqc/fable_518_is_unusable_on_pro_hit_my_limit_after/) |
+| 2026-11-10 | I made a Claude Code mod that draws a live map of what the agent is doing | Reddit | Business | social | 2026-11-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xst2qe/i_made_a_claude_code_mod_that_draws_a_live_map_of/) |
+| 2026-11-10 | HUGE Fable 5.2 Issue | Reddit | Business | social | 2026-11-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xscs0g/huge_fable_52_issue/) |
+| 2026-11-10 | Pretty insane video from Fable 5.2 with 1 single short prompt | Reddit | Business | social | 2026-11-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xsftbq/pretty_insane_video_from_fable_52_with_1_single/) |
+| 2026-11-10 | Fable 5.2 is a competent Electrical Engineer | Reddit | Business | social | 2026-11-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xt1dfp/fable_52_is_a_competent_electrical_engineer/) |
+| 2026-11-10 | Claude (Fable 5.2) can finally generate good pixel art animation | Reddit | Business | social | 2026-11-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xsnerm/claude_fable_52_can_finally_generate_good_pixel/) |
+| 2026-11-10 | My 15 MB Netflix-style media app got way more love here than I expected, so I shipped it. Built with | Reddit | Business | social | 2026-11-10 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xsg8bv/my_15_mb_netflixstyle_media_app_got_way_more_love/) |
+| 2026-11-10 | $69 ClaudeBerry Q10 | Reddit | Business | social | 2026-11-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xsx4ky/69_claudeberry_q10/) |
+| 2026-11-10 | 2.1.322: Anthropic's copyright paranoia is leaking into Claude Code through a botched system prompt | Reddit | Business | social | 2026-11-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xssfs1/21322_anthropics_copyright_paranoia_is_leaking/) |
+| 2026-11-10 | 'Reverse Engineer Anything': AI Companies Crack Down on the Coolest Thing People Were Doing With AI | Reddit | Business | social | 2026-11-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xswghb/reverse_engineer_anything_ai_companies_crack_down/) |
+| 2026-11-10 | Fable 5.2 Max Ultracode on $20 pro plan | Reddit | Business | social | 2026-11-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xshwm3/fable_52_max_ultracode_on_20_pro_plan/) |
+| 2026-11-10 | At 5:46 AM I get an'Urgent' message on my phone from Claude Code | Reddit | Business | social | 2026-11-10 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xsp90d/at_546_am_i_get_anurgent_message_on_my_phone_from/) |
+| 2026-11-10 | Drawing directly in Obsidian: Handwriting 1.5.0 | Reddit | Business | social | 2026-11-10 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xszbri/drawing_directly_in_obsidian_handwriting_150/) |
+| 2026-11-10 | I think I just figured out the power of backlinks | Reddit | Business | social | 2026-11-10 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xstexr/i_think_i_just_figured_out_the_power_of_backlinks/) |
+| 2026-11-10 | TTRPG Vault with DnD Basic rule CLI and FR WIKI built in. | Reddit | Business | social | 2026-11-10 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xt1e6x/ttrpg_vault_with_dnd_basic_rule_cli_and_fr_wiki/) |
+| 2026-11-10 | Made a Morning Pages plugin for Obsidian — basically the 750words stats page, but local | Reddit | Business | social | 2026-11-10 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xsy2o8/made_a_morning_pages_plugin_for_obsidian/) |
+| 2026-11-10 | Organisation for History Phd | Reddit | Business | social | 2026-11-10 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xsqlt7/organisation_for_history_phd/) |
+| 2026-11-10 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-09 | Foldable Flight: The Best Paper Airplanes | HN | Technology | tech | 2026-11-09 | [link](https://www.foldableflight.com) |
 | 2026-11-09 | Claude Fable 5.2 and Mythos 5.2 | HN | Technology | tech | 2026-11-09 | [link](https://www.anthropic.com/claude-fable-and-mythos-5-2) |
 | 2026-11-09 | Is Opus 5.5 nerfed? Thinking patterns changed on November 3 | HN | Technology | tech | 2026-11-09 | [link](https://twitter.com/shanemelaugh/status/2119192075505893695) |
