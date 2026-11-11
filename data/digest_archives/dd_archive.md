@@ -1,6 +1,6 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-10 · 10847 items*
+*Last updated: 2026-11-10 · 10863 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
@@ -10,19 +10,20 @@
 | 2026-11-09 | USPS now offers official ZIP Code boundary polygons | HN | Technology | tech | 2026-11-09 | [link](https://postalpro.usps.com/zcb) |
 | 2026-11-09 | Google Gemini routes personal Drive files and emails to human annotators | HN | Technology | tech | 2026-11-09 | [link](https://github.com/thisisme6598/gemini_files/) |
 | 2026-11-09 | Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system | HN | Technology | tech | 2026-11-09 | [link](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy) |
-| 2026-11-09 | Humans will never again create a project quite like Wikipedia | HN | Technology | tech | 2026-11-09 | [link](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia) |
-| 2026-11-09 | I saw your HN comment | HN | Technology | tech | 2026-11-09 | [link](https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/) |
-| 2026-11-09 | Fable 5.2 one-shotted my nephew's dream game | HN | Technology | tech | 2026-11-09 | [link](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game) |
 | 2026-11-09 | E-means: Outperforming k-means in one-tenth the epochs | HN | Technology | tech | 2026-11-09 | [link](https://e-means.github.io/) |
+| 2026-11-09 | Humans will never again create a project quite like Wikipedia | HN | Technology | tech | 2026-11-09 | [link](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia) |
+| 2026-11-09 | Fable 5.2 one-shotted my nephew's dream game | HN | Technology | tech | 2026-11-09 | [link](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game) |
 | 2026-11-09 | Show HN: Every satellite that passed over any place this week, and its photos | HN | Technology | tech | 2026-11-09 | [link](https://www.watched.earth) |
+| 2026-11-09 | I saw your HN comment | HN | Technology | tech | 2026-11-09 | [link](https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/) |
 | 2026-11-09 | Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far | HN | Technology | tech | 2026-11-09 | [link](https://artificialanalysis.ai/models/claude-fable-5-2) |
-| 2026-11-09 | Too many men suffering in silence, national health report finds | HN | Technology | tech | 2026-11-09 | [link](https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds) |
-| 2026-11-09 | Going back two years on Hacker News is like entering another, better universe | HN | Technology | tech | 2026-11-09 | [link](https://news.ycombinator.com/front?day=2024-11-08) |
-| 2026-11-09 | When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385 | HN | Technology | tech | 2026-11-09 | [link](https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/) |
 | 2026-11-09 | Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics | HN | Technology | tech | 2026-11-09 | [link](https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/) |
+| 2026-11-09 | Going back two years on Hacker News is like entering another, better universe | HN | Technology | tech | 2026-11-09 | [link](https://news.ycombinator.com/front?day=2024-11-08) |
+| 2026-11-09 | Too many men suffering in silence, national health report finds | HN | Technology | tech | 2026-11-09 | [link](https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds) |
+| 2026-11-09 | Muse Ember: Our smallest, most efficient model | HN | Technology | tech | 2026-11-09 | [link](https://research.meta.ai/blog/muse-ember) |
 | 2026-11-09 | Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills | NYT · Energy & Environment | Energy & Environment | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html) |
+| 2026-11-09 | Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O. | NYT · Technology | Technology | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html) |
 | 2026-11-09 | What Is Congress’s Plan to Speed Up Energy Permits? | NYT · Energy & Environment | Energy & Environment | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html) |
-| 2026-11-09 | Democrats Demand Answers on Trump’s A.I. Policy Amid Spy Plot | NYT · Politics | Politics | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html) |
+| 2026-11-09 | This Law Firm Just Bought Malpractice Insurance for its A.I. Agents | NYT · Business | Business | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html) |
 | 2026-11-09 | U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention | NYT · Economy | Economy | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html) |
 | 2026-11-09 | A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed | NYT · Technology | Technology | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html) |
 | 2026-11-09 | Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang | NYT · Business | Business | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html) |
@@ -30,26 +31,41 @@
 | 2026-11-09 | We Just Had an Anti-Slop Election | NYT · Opinion | Opinion | opinion | 2026-11-09 | [link](https://www.nytimes.com/2026/11/07/opinion/midterms-tech-economy.html) |
 | 2026-11-09 | How Indispensable Is Jensen Huang? | NYT · Business | Business | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html) |
 | 2026-11-09 | Lawsuit Says Republican Strategist Alex Bruesewitz Took Money From Qatari Interests | NYT · Business | Business | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html) |
-| 2026-11-09 | What to Know About Nvidia’s Investigation of CEO Jensen Huang | NYT · Technology | Technology | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html) |
-| 2026-11-09 | Law Firms Have Malpractice Insurance. Should Their A.I. Agents? | NYT · Business | Business | news | 2026-11-07 | [link](https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html) |
-| 2026-11-09 | Is Jensen Huang Too Powerful to Be Punished by Nvidia? | NYT · Technology | Technology | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html) |
 | 2026-11-09 | The Jensen Huang Affair | NYT · Technology | Technology | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html) |
-| 2026-11-09 | U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties | NYT · Economy | Economy | news | 2026-11-08 | [link](https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html) |
-| 2026-11-09 | Could the Voter Backlash Against A.I. Actually Help the Economy? | NYT · Economy | Economy | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html) |
-| 2026-11-09 | After a $2.5 Trillion Wipeout, Tech Investors Brace for More Pain | NYT · Business | Business | news | 2026-11-06 | [link](https://www.nytimes.com/2026/11/06/business/dealbook/tech-investors-ai-rout.html) |
-| 2026-11-09 | Why Anger About Data Centers and Energy Prices May Not Swing Votes | NYT · Energy & Environment | Energy & Environment | news | 2026-10-23 | [link](https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html) |
+| 2026-11-09 | What to Know About Nvidia’s Investigation of CEO Jensen Huang | NYT · Technology | Technology | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html) |
+| 2026-11-09 | Is Jensen Huang Too Powerful to Be Punished by Nvidia? | NYT · Technology | Technology | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html) |
+| 2026-11-09 | In Trump’s Washington, Prosecutors Can’t Count on Grand Juries to Take Their Side | NYT · Politics | Politics | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/09/us/politics/doj-trump-grand-jury-indictments.html) |
+| 2026-11-09 | Toyota Plans to Sell a Kei Pickup Truck in the U.S. | NYT · Technology | Technology | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html) |
+| 2026-11-09 | Justice Dept. Accuses Lyft of Disability Discrimination in Lawsuit | NYT · Business | Business | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/10/us/lyft-disability-lawsuit-doj.html) |
+| 2026-11-09 | Is Your Chatbot Conscious, or Just Code? | NYT · Opinion | Opinion | opinion | 2026-11-10 | [link](https://www.nytimes.com/2026/11/10/opinion/ai-consciousness.html) |
 | 2026-11-09 | With Hopes Low and Temperatures High, Climate Summit Opens in Turkey | NYT · Energy & Environment | Energy & Environment | news | 2026-11-08 | [link](https://www.nytimes.com/2026/11/08/climate/with-hopes-low-and-temperatures-high-climate-summit-opens-in-turkey.html) |
-| 2026-11-09 | Feel Like You’re Overpaying for Hotels? Blame Expedia, a New Lawsuit Says. | NYT · Your Money | Your Money | news | 2026-10-16 | [link](https://www.nytimes.com/2026/10/16/travel/expedia-lawsuit-hotel-prices.html) |
+| 2026-11-09 | New Batteries That Store Blistering Heat Are Taking Off | NYT · Energy & Environment | Energy & Environment | news | 2026-10-29 | [link](https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html) |
 | 2026-11-09 | The Race to Build a “Find My” for AI Chips | IEEE Spectrum Semiconductors · AI Infrastructure | Infrastructure | tech | 2026-11-09 | [link](https://spectrum.ieee.org/find-my-ai-chip) |
-| 2026-11-09 | Mastering compliance | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-09 | [link](https://www.datacenterdynamics.com/en/whitepapers/mastering-compliance/) |
-| 2026-11-09 | Police charge two men with copper theft from cell tower in Liberty, North Carolina | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-09 | [link](https://www.datacenterdynamics.com/en/news/police-charge-two-men-with-copper-theft-from-cell-tower-in-liberty-north-carolina/) |
 | 2026-11-09 | Hide your slop PR descriptions behind | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-09 | [link](https://simonwillison.net/2026/Nov/9/details-summary/) |
 | 2026-11-09 | Arizona’s longest-tenured utility commissioner on large loads, affordability and Western markets | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-09 | [link](https://www.utilitydive.com/news/large-loads-affordability-western-markets-arizona-acc/874071/) |
 | 2026-11-09 | The next wave of energy storage capacity is already on the grid | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-09 | [link](https://www.utilitydive.com/spons/the-next-wave-of-energy-storage-capacity-is-already-on-the-grid/873140/) |
-| 2026-11-09 | Senate’s bipartisan permitting bill faces crucial test | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-09 | [link](https://www.latitudemedia.com/news/senates-bipartisan-permitting-bill-faces-crucial-test/) |
+| 2026-11-09 | Senate’s bipartisan permitting bill passed a crucial test | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-09 | [link](https://www.latitudemedia.com/news/senates-bipartisan-permitting-bill-faces-crucial-test/) |
+| 2026-11-09 | A new political playbook for the green donor class | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-09 | [link](https://www.latitudemedia.com/news/a-new-political-playbook-for-the-green-donor-class/) |
 | 2026-11-09 | Bloomberg Was Onto Megaspeed’s Game a Year Ago | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-09 | [link](https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us) |
 | 2026-11-09 | Rubio Warned Officials About Jensen Huang’s Affair With a Chinese Spy | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-09 | [link](https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html?unlocked_article_code=1.PFE.dLW7.D8C1YUYhNooj) |
 | 2026-11-09 | The Web Is More Than Enough, by Paul Ford | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-09 | [link](https://simonwillison.net/2026/Nov/9/hn-50421091/) |
+| 2026-11-09 | Blunt Banhammer Blocks Basic Bots Ballistically | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-11-09 | [link](https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/) |
+| 2026-11-09 | PPL increases capital plan to $25B with proposed Kentucky gas plant | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-09 | [link](https://www.utilitydive.com/news/ppl-increases-capital-plan-to-25b-with-proposed-kentucky-gas-plant/874129/) |
+| 2026-11-09 | Fable 5.2 just landed. | Reddit | Business | social | 2026-11-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xs0dct/fable_52_just_landed/) |
+| 2026-11-09 | Claude saved my old iPhone from becoming ewaste | Reddit | Business | social | 2026-11-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xrevbv/claude_saved_my_old_iphone_from_becoming_ewaste/) |
+| 2026-11-09 | GUYS I DID IT | Reddit | Business | social | 2026-11-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xs3e2p/guys_i_did_it/) |
+| 2026-11-09 | WTF Fable 5.2 Cost per task is Insane It's not cheaper than Fable 5.1 as they are claiming. | Reddit | Business | social | 2026-11-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xs292a/wtf_fable_52_cost_per_task_is_insane_its_not/) |
+| 2026-11-09 | 15 weeks of making game with Claude Opus in Godot | Reddit | Business | social | 2026-11-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xrkks4/15_weeks_of_making_game_with_claude_opus_in_godot/) |
+| 2026-11-09 | Has Anthropic Nerfed Opus 5.5? LiveNerf Day 47 Update | Reddit | Business | social | 2026-11-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xriv9l/has_anthropic_nerfed_opus_55_livenerf_day_47/) |
+| 2026-11-09 | Fable 5.2 | Reddit | Business | social | 2026-11-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xs25gb/fable_52/) |
+| 2026-11-09 | If you're buying Claude Pro in India, subscribe through Apple instead of the website! | Reddit | Business | social | 2026-11-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xrop4r/if_youre_buying_claude_pro_in_india_subscribe/) |
+| 2026-11-09 | Pro users assemble: we got one week to max Fable 5.2 | Reddit | Business | social | 2026-11-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xs29of/pro_users_assemble_we_got_one_week_to_max_fable_52/) |
+| 2026-11-09 | Fable 5.2 REVIEW Here is what's actually different and what to try first (cheaper, faster, way fewer | Reddit | Business | social | 2026-11-09 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xs2wdl/fable_52_review_here_is_whats_actually_different/) |
+| 2026-11-09 | Introducing Claude Fable 5.2 and Claude Mythos 5.2 | Reddit | Business | social | 2026-11-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xs0i9s/introducing_claude_fable_52_and_claude_mythos_52/) |
+| 2026-11-09 | I love opus 5.5 I love opus 5.5 I love opus 5.5 | Reddit | Business | social | 2026-11-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xrsgh6/i_love_opus_55_i_love_opus_55_i_love_opus_55/) |
+| 2026-11-09 | The most useless reset ? | Reddit | Business | social | 2026-11-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xs0nn4/the_most_useless_reset/) |
+| 2026-11-09 | Fable 5.2 is here! 30% cheaper and much cheaper than Fable 5.1 | Reddit | Business | social | 2026-11-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xs0qxm/fable_52_is_here_30_cheaper_and_much_cheaper_than/) |
+| 2026-11-09 | Fable 5.2 Showing Up | Reddit | Business | social | 2026-11-09 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xs09d5/fable_52_showing_up/) |
 | 2026-11-09 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-08 | Nvidia CEO Jensen Huang's letter to staff about affair | HN | Technology | tech | 2026-11-08 | [link](https://nvidianews.nvidia.com/news/a-message-to-our-company) |
 | 2026-11-08 | Goldman Sachs is pulling Claude Code from its bankers and traders | HN | Technology | tech | 2026-11-08 | [link](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) |
