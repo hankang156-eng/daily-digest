@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-11 · 544 days · 5440 stories*
+*Last updated: 2026-11-12 · 545 days · 5450 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-11 | Wednesday | 1 | Tim Peters has died | 1230 | 135 | Technology | [link](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) · [HN](https://news.ycombinator.com/item?id=50450488) |
+| 2026-11-11 | Wednesday | 2 | Nvidia is preparing to oust Jensen Huang | 1051 | 1414 | Technology | [link](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) · [HN](https://news.ycombinator.com/item?id=50459703) |
+| 2026-11-11 | Wednesday | 3 | My AI agents found an unmapped Maya site? | 995 | 365 | Technology | [link](https://pietromiotti.com/latest/maya-site) · [HN](https://news.ycombinator.com/item?id=50452455) |
+| 2026-11-11 | Wednesday | 4 | AWS emulator | 861 | 237 | Technology | [link](https://github.com/aws/aws-emulator) · [HN](https://news.ycombinator.com/item?id=50456631) |
+| 2026-11-11 | Wednesday | 5 | United Airlines bans AI agents from booking flights on behalf of travelers | 562 | 563 | Technology | [link](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) · [HN](https://news.ycombinator.com/item?id=50458900) |
+| 2026-11-11 | Wednesday | 6 | A false smoke alarm almost drowned Jane Street's only NYC datacenter | 498 | 238 | Technology | [link](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/) · [HN](https://news.ycombinator.com/item?id=50455394) |
+| 2026-11-11 | Wednesday | 7 | 93% of paint splatters are valid Perl programs (2019) | 447 | 58 | Technology | [link](https://www.mcmillen.dev/sigbovik/) · [HN](https://news.ycombinator.com/item?id=50459745) |
+| 2026-11-11 | Wednesday | 8 | Gemini Decisions API | 442 | 133 | Technology | [link](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) · [HN](https://news.ycombinator.com/item?id=50456791) |
+| 2026-11-11 | Wednesday | 9 | Hyper-Realistic Sand with WebGL2 | 390 | 74 | Technology | [link](https://av.github.io/safe-sand/) · [HN](https://news.ycombinator.com/item?id=50453288) |
+| 2026-11-11 | Wednesday | 10 | Jensen Huang said to have had relationship with executive who reports to him | 370 | 458 | Technology | [link](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html) · [HN](https://news.ycombinator.com/item?id=50459321) |
 | 2026-11-10 | Tuesday | 1 | Smart home devices should work without the internet | 978 | 349 | Technology | [link](https://docodethatmatters.com/home-automation-overnight-success/) · [HN](https://news.ycombinator.com/item?id=50441707) |
 | 2026-11-10 | Tuesday | 2 | .name Grandfathered | 859 | 186 | Technology | [link](https://neil.fraser.name/news/2026/11/10/) · [HN](https://news.ycombinator.com/item?id=50442736) |
 | 2026-11-10 | Tuesday | 3 | Amazon saves millions by replacing Sonnet 4.6 with Strands Decider | 712 | 252 | Technology | [link](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/) · [HN](https://news.ycombinator.com/item?id=50436640) |

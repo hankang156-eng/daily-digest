@@ -1,0 +1,1132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Daily Digest — Thursday, November 12, 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Inter:wght@400;500;600&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #f6f6f0;
+  --paper: #fbf9f3;
+  --ink: #14130f;
+  --ink-soft: #2f2c26;
+  --mute: #6a6760;
+  --faint: #a09a8e;
+  --rule: rgba(20, 19, 15, 0.14);
+  --rule-soft: rgba(20, 19, 15, 0.07);
+  --accent: #8a1a1a;
+  --hover: #8a1a1a;
+  --font-body: 'Lora', 'Iowan Old Style', Georgia, serif;
+  --font-meta: 'DM Sans', ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --col: 700px;
+  --body-size: 13px;
+  --row-pad: 10px;
+}
+
+[data-theme="dark"] {
+  --bg: #111216;
+  --paper: #1a1b20;
+  --ink: #b5b5b5;
+  --ink-soft: #9e9e9e;
+  --mute: #7a7a7a;
+  --faint: #5a5a5a;
+  --rule: rgba(181, 181, 181, 0.20);
+  --rule-soft: rgba(181, 181, 181, 0.10);
+  --accent: #d68c8c;
+  --hover: #d68c8c;
+}
+
+[data-font="sans"] { --font-body: 'Inter', ui-sans-serif, system-ui, -apple-system, sans-serif; }
+
+* { box-sizing: border-box; }
+html { background: var(--bg); scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: var(--body-size);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  transition: background-color 180ms ease, color 180ms ease;
+}
+[data-font="sans"] body { letter-spacing: -0.005em; line-height: 1.52; }
+::selection { background: var(--accent); color: var(--paper); }
+a { color: inherit; text-decoration: none; }
+
+/* Layout */
+.page { max-width: var(--col); margin: 0 auto; padding: 24px 24px 56px; }
+
+/* Toolbar */
+.toolbar {
+  position: sticky; top: 0; z-index: 100;
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 12px; padding: 10px 0; margin: 0 0 4px;
+  border-bottom: 1px solid var(--rule-soft);
+  font-family: var(--font-meta);
+  font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--mute);
+  background: var(--bg);
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: saturate(140%) blur(8px);
+  -webkit-backdrop-filter: saturate(140%) blur(8px);
+}
+.toolbar a { color: var(--mute); transition: color 120ms ease; }
+.toolbar a:hover { color: var(--ink); }
+.toolbar a.archive { letter-spacing: 0.06em; }
+.controls { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.btn {
+  background: transparent; border: 1px solid var(--rule); color: var(--mute);
+  font: inherit; letter-spacing: inherit; text-transform: inherit;
+  padding: 4px 9px; cursor: pointer; border-radius: 2px;
+  transition: color 120ms ease, border-color 120ms ease, background-color 120ms ease;
+}
+.btn:hover { color: var(--ink); border-color: var(--ink-soft); }
+.btn[aria-pressed="true"] { color: var(--ink); border-color: var(--ink-soft); background: var(--paper); }
+.seg { display: inline-flex; border: 1px solid var(--rule); border-radius: 2px; overflow: hidden; }
+.seg .btn { border: none; border-radius: 0; padding: 4px 9px; color: var(--mute); }
+.seg .btn + .btn { border-left: 1px solid var(--rule); }
+.seg .btn:hover { color: var(--ink); }
+.seg .btn[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+
+/* Masthead */
+.masthead {
+  text-align: left; padding: 28px 0 18px;
+  border-bottom: 1px solid var(--rule); margin-bottom: 24px;
+}
+.masthead .kicker {
+  font-family: var(--font-meta); font-size: 10.5px;
+  letter-spacing: 0.22em; text-transform: uppercase;
+  color: var(--mute); margin-bottom: 8px;
+}
+.wordmark {
+  font-family: var(--font-body); font-weight: 600;
+  font-size: clamp(30px, 5vw, 40px); line-height: 1.05;
+  letter-spacing: -0.018em; margin: 0; color: var(--ink);
+}
+[data-font="sans"] .wordmark { font-weight: 600; letter-spacing: -0.028em; }
+.fetched {
+  font-family: var(--font-meta); font-size: 11px;
+  letter-spacing: 0.06em; color: var(--mute); margin-top: 10px;
+}
+
+/* Per-section accents */
+details.section#hn        { --accent: #b8501c; --hover: #b8501c; }
+details.section#nyt       { --accent: #4a4a48; --hover: #4a4a48; }
+details.section#research  { --accent: #2a6b66; --hover: #2a6b66; }
+details.section#blogs     { --accent: #4f6b3e; --hover: #4f6b3e; }
+details.section#linkedin  { --accent: #2a5a8a; --hover: #2a5a8a; }
+[data-theme="dark"] details.section#hn        { --accent: #e09b6b; --hover: #e09b6b; }
+[data-theme="dark"] details.section#nyt       { --accent: #9a958a; --hover: #9a958a; }
+[data-theme="dark"] details.section#research  { --accent: #7fb8b0; --hover: #7fb8b0; }
+[data-theme="dark"] details.section#blogs     { --accent: #a8c08c; --hover: #a8c08c; }
+[data-theme="dark"] details.section#linkedin  { --accent: #7ba6d4; --hover: #7ba6d4; }
+
+/* Section */
+.section { margin-top: 32px; scroll-margin-top: 60px; }
+.section:first-of-type { margin-top: 8px; }
+.section-head {
+  margin-bottom: 14px; padding-bottom: 10px;
+  border-bottom: 1px solid var(--rule);
+  display: flex; align-items: baseline; justify-content: space-between;
+  gap: 16px; cursor: pointer; list-style: none; user-select: none;
+  transition: color 120ms ease;
+}
+.section-head::-webkit-details-marker { display: none; }
+.section-head:hover h2 { color: var(--accent); }
+.section:not([open]) > .section-head { margin-bottom: 0; }
+.section-head h2 {
+  font-family: var(--font-body); font-weight: 500;
+  font-size: 22px; line-height: 1.15; margin: 0;
+  letter-spacing: -0.012em; transition: color 120ms ease; flex: 1;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1.5px; text-underline-offset: 6px;
+  text-decoration-color: color-mix(in srgb, var(--accent) 55%, transparent);
+}
+[data-font="sans"] .section-head h2 { font-weight: 600; letter-spacing: -0.022em; }
+.section-head::after {
+  content: "▾"; font-family: var(--font-meta); font-size: 11px;
+  color: var(--accent); transition: transform 180ms ease;
+  display: inline-block; transform-origin: center;
+  flex-shrink: 0; margin-left: 12px; align-self: center;
+}
+.section:not([open]) > .section-head::after { transform: rotate(-90deg); }
+
+/* Subsection */
+.subsection { margin-top: 18px; }
+.subsection:first-of-type { margin-top: 6px; }
+.subhead {
+  display: flex; align-items: center; gap: 10px;
+  margin: 0 0 6px; cursor: pointer; list-style: none; user-select: none;
+  transition: color 120ms ease;
+}
+.subhead::-webkit-details-marker { display: none; }
+.subhead::before {
+  content: "▾"; font-size: 9px; color: var(--mute);
+  transition: transform 180ms ease;
+  display: inline-block; transform-origin: center; flex-shrink: 0;
+}
+.subsection:not([open]) > .subhead::before { transform: rotate(-90deg); }
+.subsection:not([open]) > .subhead { margin-bottom: 0; }
+.subhead:hover h3 { color: var(--ink); }
+.subhead::after {
+  content: ""; flex: 1; height: 1px; background: var(--rule-soft);
+}
+.subhead h3 {
+  font-family: var(--font-meta); font-size: 10.5px;
+  font-weight: 500; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--ink-soft); margin: 0; transition: color 120ms ease;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1px; text-underline-offset: 4px;
+  text-decoration-color: color-mix(in srgb, var(--accent) 55%, transparent);
+}
+
+/* Article */
+.article {
+  display: grid; grid-template-columns: 26px 1fr;
+  gap: 2px 12px; padding: var(--row-pad) 0 calc(var(--row-pad) + 1px);
+  border-bottom: 1px solid var(--rule-soft);
+}
+.article:last-child { border-bottom: none; }
+.article .num {
+  font-family: var(--font-meta); font-size: 11px;
+  color: var(--faint); font-feature-settings: "tnum";
+  padding-top: 4px; text-align: right;
+}
+.article .body { min-width: 0; }
+.article h4 {
+  margin: 0 0 4px; font-family: var(--font-body);
+  font-weight: 500; font-size: 20px; line-height: 1.25;
+  letter-spacing: -0.008em; text-wrap: pretty;
+}
+[data-font="sans"] .article h4 { font-weight: 600; letter-spacing: -0.015em; }
+.article h4 a {
+  background-image: linear-gradient(var(--ink), var(--ink));
+  background-repeat: no-repeat; background-position: 0 100%;
+  background-size: 0 1px;
+  transition: background-size 180ms ease, color 120ms ease;
+}
+.article h4 a:hover {
+  color: var(--hover);
+  background-image: linear-gradient(var(--hover), var(--hover));
+  background-size: 100% 1px;
+}
+
+/* Meta line — picks up the section accent */
+.meta {
+  font-family: var(--font-meta); font-size: 10px;
+  letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--accent);
+  display: flex; flex-wrap: wrap; align-items: center;
+  gap: 0 6px; line-height: 1.4;
+}
+.meta .sep { color: var(--accent); opacity: 0.55; }
+.meta a { color: #ed702e; border-bottom: 1px solid transparent; padding-bottom: 1px; }
+.meta a:hover { color: #ff8a3c; border-color: currentColor; }
+.meta .src { color: var(--accent); font-weight: 600; }
+.meta .cat { color: var(--accent); }
+.meta .reason {
+  width: 100%; color: var(--faint); font-style: italic;
+  text-transform: none; letter-spacing: 0;
+  font-size: 11px; font-family: var(--font-body); margin-top: 1px;
+}
+
+/* Article collapsibles */
+.article details { margin-top: 5px; }
+.article details summary {
+  list-style: none; cursor: pointer;
+  font-family: var(--font-meta); font-size: 10px;
+  letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--accent);
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 2px 0; transition: color 120ms ease; user-select: none;
+  text-decoration: underline; text-decoration-style: dotted;
+  text-decoration-thickness: 1px; text-underline-offset: 3px;
+  text-decoration-color: currentColor;
+}
+.article details summary::-webkit-details-marker { display: none; }
+.article details summary:hover { color: var(--hover); }
+.article details summary::before {
+  content: "+"; display: inline-block; width: 9px;
+  text-align: center; color: var(--faint);
+  font-family: var(--font-meta);
+  transition: transform 150ms ease, color 120ms ease;
+}
+.article details[open] summary::before { content: "−"; color: var(--accent); }
+.article details[open] summary { color: var(--accent); }
+.article details .panel {
+  font-family: var(--font-body); font-size: 14px;
+  font-weight: 500; line-height: 1.25;
+  color: var(--panel-ink, var(--ink-soft));
+  margin: 5px 0 4px; text-wrap: pretty;
+}
+[data-theme="dark"] { --panel-ink: #b5b5b5; }
+.article details.abstract .panel { font-style: italic; color: var(--mute); }
+details.section#nyt .article details.abstract .panel { font-style: normal; }
+
+/* Side-by-side details (Abstract + Overview on NYT) */
+.details-row { display: flex; flex-wrap: wrap; gap: 0 16px; margin-top: 4px; }
+.details-row details { margin-top: 0; }
+
+/* "More" chunk toggles (HN list): indent ONLY the button so expanded content is full-width */
+.more { margin: 6px 0 0 0; }
+.more > summary { display: inline-block; margin-left: 32px; padding: 4px 10px; border: 1px solid var(--rule); border-radius: 2px; color: var(--mute); cursor: pointer; font-size: 12px; letter-spacing: 0.04em; }
+.more > summary:hover { color: var(--ink); border-color: var(--ink-soft); }
+.more[open] > summary { margin-bottom: 6px; }
+
+/* Toolbar icon glyphs */
+.toolbar .ico { display: inline-block; min-width: 1em; text-align: center; }
+.toolbar .ico-serif { font-family: 'Lora', Georgia, serif; font-weight: 600; }
+.toolbar .ico-sans { font-family: 'Inter', -apple-system, sans-serif; font-weight: 600; }
+
+/* Small screens: icons-only toolbar, fit one line */
+@media (max-width: 560px) {
+  .page { padding: 16px 16px 40px; }
+  .masthead { padding: 20px 0 16px; margin-bottom: 22px; }
+  .article { grid-template-columns: 22px 1fr; gap: 2px 10px; }
+  .article h4 { font-size: 18px; }
+  .toolbar { font-size: 11px; flex-wrap: nowrap; gap: 6px; align-items: center; }
+  .toolbar .lbl { display: none; }
+  .toolbar .archive { padding: 2px 4px; }
+  .toolbar .btn { padding: 4px 6px; font-size: 12px; }
+  .toolbar .seg .btn { padding: 4px 7px; }
+  .controls { gap: 4px; flex-wrap: nowrap; }
+  .section-head { flex-direction: column; align-items: flex-start; gap: 4px; }
+}
+
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 1px; }
+button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* Reading marks. Feed the comprehension layer's sense of what already landed;
+   harvested via the toolbar's Save marks download. */
+.marks { display: flex; gap: 5px; margin: 4px 0 0; flex-wrap: wrap; }
+.marks .mk {
+  font-family: var(--font-meta); font-size: 10px; font-weight: 500;
+  letter-spacing: .04em; color: var(--mute);
+  background: none; border: 1px solid var(--rule-soft); border-radius: 999px;
+  padding: 1px 8px; cursor: pointer; line-height: 1.6;
+}
+.marks .mk:hover { color: var(--hover); border-color: var(--hover); }
+.marks .mk[aria-pressed="true"] {
+  color: var(--paper); background: var(--accent); border-color: var(--accent);
+}
+.article[data-marked="knew-this"], .thread[data-marked="knew-this"] { opacity: .55; }
+.article[data-marked="knew-this"]:hover, .thread[data-marked="knew-this"]:hover { opacity: 1; }
+@media (max-width: 640px) { .marks .mk { font-size: 11px; padding: 2px 9px; } }
+
+</style>
+</head>
+<body>
+<div class="page" data-digest-date="2026-11-12">
+  <div class="toolbar">
+    <a class="archive" href="../../digest_archive.html" title="Read past daily digests"><span class="ico" aria-hidden="true">←</span><span class="lbl"> Read past daily digests</span></a>
+    <div class="controls">
+      <div class="seg" role="group" aria-label="Font">
+        <button class="btn" data-tg="font" data-val="serif" aria-pressed="true" title="Serif"><span class="ico ico-serif" aria-hidden="true">A</span><span class="lbl"> Serif</span></button>
+        <button class="btn" data-tg="font" data-val="sans" aria-pressed="false" title="Sans"><span class="ico ico-sans" aria-hidden="true">A</span><span class="lbl"> Sans</span></button>
+      </div>
+      <div class="seg" role="group" aria-label="Theme">
+        <button class="btn" data-tg="theme" data-val="light" aria-pressed="true" title="Light"><span class="ico" aria-hidden="true">☀</span><span class="lbl"> Light</span></button>
+        <button class="btn" data-tg="theme" data-val="dark" aria-pressed="false" title="Dark"><span class="ico" aria-hidden="true">☾</span><span class="lbl"> Dark</span></button>
+      </div>
+      <button class="btn" id="expandAll" title="Expand all"><span class="ico" aria-hidden="true">▾</span><span class="lbl"> Expand all</span></button>
+      <button class="btn" id="collapseAll" title="Collapse all"><span class="ico" aria-hidden="true">▴</span><span class="lbl"> Collapse all</span></button>
+      <button class="btn" id="saveMarks" title="Download your reading marks so the next digest can use them"><span class="ico" aria-hidden="true">⇩</span><span class="lbl"> Save marks</span></button>
+      <a class="btn" href="../comprehension/comprehension_2026-11-12.html" title="What today's news means — the running threads"><span class="ico" aria-hidden="true">✦</span><span class="lbl"> What it means</span></a>
+    </div>
+  </div>
+
+  <header class="masthead">
+    <div class="kicker">Your Morning Read</div>
+    <h1 class="wordmark">Thursday, November 12, 2026</h1>
+    <div class="fetched">Fetched: Thursday, Nov 12, 2026 at 12:27</div>
+  </header>
+
+<details class="section" id="hn" open>
+  <summary class="section-head"><h2>Yesterday on Hacker News</h2></summary>
+<article class="article" data-item-key="https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028" target="_blank">Tim Peters has died</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50450488" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>1230 pts</span><span class="sep">·</span><span>135 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The Hacker News community is mourning the loss of Tim Peters, a foundational figure in the Python ecosystem. The discussion is a mix of deep appreciation for his technical contributions—such as the &quot;Zen of Python,&quot; Timsort, and SpamBayes—and personal tributes to his kindness, mentorship, and role as a guiding presence in the early Python community. Alongside the tributes, a significant portion of the thread expresses frustration and anger regarding his treatment by the Python Software Foundation (PSF) leadership in recent years.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad" target="_blank">Nvidia is preparing to oust Jensen Huang</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50459703" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>1051 pts</span><span class="sep">·</span><span>1414 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on the potential ousting of Nvidia CEO Jensen Huang following reports of extramarital affairs—one with a subordinate and another with an individual alleged to be a Chinese intelligence asset. Users are debating whether these scandals, combined with potential export control violations, make his position untenable or if this is a coordinated effort by political or corporate rivals to remove a powerful leader.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://pietromiotti.com/latest/maya-site">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://pietromiotti.com/latest/maya-site" target="_blank">My AI agents found an unmapped Maya site?</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50452455" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>1,348 words · 6 min read</span><span class="sep">·</span><span>995 pts</span><span class="sep">·</span><span>365 comments</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://github.com/aws/aws-emulator">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://github.com/aws/aws-emulator" target="_blank">AWS emulator</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50456631" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>1,191 words · 6 min read</span><span class="sep">·</span><span>861 pts</span><span class="sep">·</span><span>237 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">AWS has released an official emulator, sparking a polarized discussion regarding its longterm viability and the unconventional, AIdriven development process behind it. While many users are eager for a firstparty alternative to existing tools like Localstack, significant skepticism remains regarding whether this is a serious, maintainable product or a marketingdriven &quot;science experiment.&quot;</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/" target="_blank">United Airlines bans AI agents from booking flights on behalf of travelers</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50458900" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>472 words · 3 min read</span><span class="sep">·</span><span>562 pts</span><span class="sep">·</span><span>563 comments</span></div>
+    
+    
+  </div>
+</article>
+<details class="more"><summary>More</summary>
+<article class="article" data-item-key="https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter">
+  <div class="num">06</div>
+  <div class="body">
+    <h4><a href="https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/" target="_blank">A false smoke alarm almost drowned Jane Street&#x27;s only NYC datacenter</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50455394" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>1,756 words · 8 min read</span><span class="sep">·</span><span>498 pts</span><span class="sep">·</span><span>238 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on a harrowing, &quot;inthetrenches&quot; account of a neardisaster at a Jane Street datacenter, where a false smoke alarm threatened to trigger sprinklers and destroy equipment. The thread quickly expands into a broader conversation about the &quot;hero culture&quot; in tech, the normalization of poor planning, and the intense, often dangerous, physical labor required to maintain infrastructure during crises like Hurricane Sandy.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.mcmillen.dev/sigbovik">
+  <div class="num">07</div>
+  <div class="body">
+    <h4><a href="https://www.mcmillen.dev/sigbovik/" target="_blank">93% of paint splatters are valid Perl programs (2019)</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50459745" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>389 words · 2 min read</span><span class="sep">·</span><span>447 pts</span><span class="sep">·</span><span>58 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on a humorous SIGBOVIK paper titled &quot;93% of paint splatters are valid Perl programs.&quot; The community largely views the paper as a classic piece of &quot;hacker humor,&quot; using it as a springboard to discuss Perl&#x27;s unique, permissive language design—specifically its &quot;unquoted strings&quot; feature—and to reflect on the language&#x27;s legacy in the programming community.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api">
+  <div class="num">08</div>
+  <div class="body">
+    <h4><a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/" target="_blank">Gemini Decisions API</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50456791" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>1,177 words · 6 min read</span><span class="sep">·</span><span>442 pts</span><span class="sep">·</span><span>133 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on the release of Google&#x27;s Gemini Decisions API, with users debating its utility, technical underpinnings, and competitive positioning against existing players like Jev and OpenAI. While some participants view it as a commoditized enterprise offering designed to capture &quot;share of wallet,&quot; others highlight the practical benefits of decision models for lowlatency, costeffective classification and routing tasks that don&#x27;t require full LLM reasoning.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://av.github.io/safe-sand">
+  <div class="num">09</div>
+  <div class="body">
+    <h4><a href="https://av.github.io/safe-sand/" target="_blank">Hyper-Realistic Sand with WebGL2</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50453288" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>56 words · 1 min read</span><span class="sep">·</span><span>390 pts</span><span class="sep">·</span><span>74 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on a WebGL2based sand simulation demo. Users are generally impressed by the technical achievement and the &quot;toylike&quot; fun factor, though there is significant feedback regarding performance issues on mobile devices, jarring audio, and specific physics behaviors that some users initially misinterpreted as bugs.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html">
+  <div class="num">10</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html" target="_blank">Jensen Huang said to have had relationship with executive who reports to him</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50459321" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>630 words · 3 min read</span><span class="sep">·</span><span>370 pts</span><span class="sep">·</span><span>458 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on reports of Nvidia CEO Jensen Huang engaging in an extramarital affair with a direct report. Community sentiment is divided between those who view this as a significant corporate governance and security liability—especially given prior reports of an affair with a suspected Chinese spy—and those who view it as a private matter or a predictable behavior for highprofile tech executives.</div></details>
+    
+  </div>
+</article>
+<details class="more"><summary>More</summary>
+<article class="article" data-item-key="https://www.theverge.com/tech/1012372/tv-privacy-acr-questions">
+  <div class="num">11</div>
+  <div class="body">
+    <h4><a href="https://www.theverge.com/tech/1012372/tv-privacy-acr-questions" target="_blank">I asked every TV manufacturer 17 questions about how they spy on you</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50453474" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>6,523 words · 29 min read</span><span class="sep">·</span><span>358 pts</span><span class="sep">·</span><span>244 comments</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100">
+  <div class="num">12</div>
+  <div class="body">
+    <h4><a href="https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/" target="_blank">Using voltage glitching to unleash the A100 in my mining card</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50451903" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>5,309 words · 24 min read</span><span class="sep">·</span><span>309 pts</span><span class="sep">·</span><span>122 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on a successful technical achievement: a hacker used voltage glitching to unlock the full 80GB of VRAM on Nvidia CMP 170HX mining cards, which were previously artificially limited to 8GB or 10GB. The thread explores the technical reality of hardware binning versus artificial product segmentation, the practical challenges of using these &quot;unlocked&quot; cards, and the broader ethical debate regarding manufacturers intentionally crippling functional hardware to protect enterprise margins.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://nathan.rs/posts/weight-space-lp">
+  <div class="num">13</div>
+  <div class="body">
+    <h4><a href="https://nathan.rs/posts/weight-space-lp/" target="_blank">Can a Linear Program Do Weight-Space Programming?</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50452655" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>2,232 words · 10 min read</span><span class="sep">·</span><span>284 pts</span><span class="sep">·</span><span>38 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion explores the feasibility of using Linear Programming (LP) to perform &quot;weightspace programming&quot;—the act of modifying model weights to improve performance. Commenters debate whether recent demonstrations of AI &quot;editing weights&quot; represent a breakthrough in machine reasoning or simply the application of established optimization techniques (like those from the 1940s) that humans already use.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://hugovk.dev/blog/2026/lock-github-actions">
+  <div class="num">14</div>
+  <div class="body">
+    <h4><a href="https://hugovk.dev/blog/2026/lock-github-actions/" target="_blank">Lock Your GitHub Actions</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50459485" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>653 words · 3 min read</span><span class="sep">·</span><span>261 pts</span><span class="sep">·</span><span>52 comments</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down">
+  <div class="num">15</div>
+  <div class="body">
+    <h4><a href="https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down" target="_blank">Apple is killing its Support Community forum next week</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50453555" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>606 words · 3 min read</span><span class="sep">·</span><span>256 pts</span><span class="sep">·</span><span>3 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">Apple’s decision to shut down its Support Community forum has triggered a polarized discussion on Hacker News. While a significant portion of the community expresses relief, citing the forum&#x27;s historically poor signaltonoise ratio and &quot;useless&quot; advice, others criticize the abrupt, impersonal nature of the shutdown. The conversation highlights a broader frustration with corporate &quot;enshittification,&quot; where companies exploit unpaid user labor for support while failing to provide adequate documentation or genuine customer care.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://github.com/FrigadeHQ/yogurt">
+  <div class="num">16</div>
+  <div class="body">
+    <h4><a href="https://github.com/FrigadeHQ/yogurt" target="_blank">Show HN: Yogurt – Free, private, open-source alternative to Granola</a></h4>
+    <div class="meta"><span class="src">HN</span><span class="sep">·</span><a href="https://app.hncompanion.com/item?id=50454625" target="_blank">HN Companion ↗</a><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>981 words · 5 min read</span><span class="sep">·</span><span>245 pts</span><span class="sep">·</span><span>95 comments</span></div>
+    <details><summary>Overview</summary><div class="panel">The discussion centers on the launch of &quot;Yogurt,&quot; an opensource, private meeting transcription tool. The community response is highly engaged, with many developers sharing their own similar projects (such as Biscotti, Steno, and Notesy) and debating the tradeoffs between localonly processing and cloudbased AI models for meeting summarization.</div></details>
+    
+  </div>
+</article>
+</details>
+</details>
+</details>
+
+<details class="section" id="nyt" open>
+  <summary class="section-head"><h2>Today on The New York Times</h2></summary>
+<details class="subsection" open>
+  <summary class="subhead"><h3>AI</h3></summary>
+<article class="article" data-item-key="https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html" target="_blank">Nvidia Shares Plummet as Board Considers Jensen Huang’s Future as CEO</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">AI</span><span class="sep">·</span><span>Thu, Nov 12</span><span class="sep">·</span><span>666 words · 3 min read</span><span class="sep">·</span><span>90.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">News that the chip-maker’s board was considering the future of its chief executive, Jensen Huang, drove Nvidia’s stock down and reverberated across global markets.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">Nvidia’s stock plummeted and triggered global market ripples following revelations that the board is evaluating Jensen Huang’s future as chief executive amid an affair. As a dominant force in the technology sector, Nvidia’s leadership stability is intimately tied to the broader artificial intelligence boom. This article covers the high-stakes corporate crisis and explains why Huang’s potential departure matters, highlighting how executive scandal at a pivotal tech giant can instantly destabilize investor confidence and disrupt wider financial markets.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html" target="_blank">Data Centers Will Continue to Be Built, Despite Midterm Elections</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">AI</span><span class="sep">·</span><span>Thu, Nov 12</span><span class="sep">·</span><span>1,237 words · 6 min read</span><span class="sep">·</span><span>89.9</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Big technology companies saw the tide turn against their giant A.I. projects, but they have the means to weather delays.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This article examines how major technology companies are navigating growing public and political pushback against large-scale artificial intelligence data centers following recent midterm elections. While opposition to the massive land, energy, and water requirements of these facilities has intensified, tech firms possess the financial resources and strategic leverage to endure project delays and continue expanding their infrastructure. Understanding this dynamic is crucial, as it highlights the tension between local resource concerns and the unstoppable global momentum driving AI development.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html" target="_blank">United Airlines Blocks A.I. Agents From Booking Flights</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">AI</span><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>295 words · 2 min read</span><span class="sep">·</span><span>89.9</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The carrier said that to protect customers’ information and comply with regulations, it was barring the digital assistants from logging into accounts and managing reservations.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">United Airlines has officially prohibited artificial intelligence agents from accessing its booking systems, citing critical concerns regarding data privacy and regulatory compliance. By preventing these digital assistants from logging into customer accounts or managing reservations, the airline is taking a firm stance on how third-party automation interacts with its infrastructure. This move serves as a significant strategic signal, highlighting the growing tension between the rapid adoption of autonomous AI tools and the airline industry&#x27;s stringent requirements for security, accountability, and consumer protection.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/11/12/opinion/mind-reading-ai.html">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/11/12/opinion/mind-reading-ai.html" target="_blank">I Saw the Future of Mind-Reading</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">AI</span><span class="sep">·</span><span>Thu, Nov 12</span><span class="sep">·</span><span>1,383 words · 7 min read</span><span class="sep">·</span><span>82.2</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Thanks to A.I., it’s more possible than ever to glean the inner recesses of a person’s mind. The implications are big — and unnerving.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times opinion piece explores the rapid advancement of artificial intelligence in decoding human thought, examining how modern technology can now interpret neural activity to reveal a person&#x27;s inner mental state. By analyzing the capabilities and limitations of these emerging brain-computer interfaces, the author highlights the profound ethical and societal implications of such intrusive technology. This article is essential reading for understanding the delicate balance between scientific innovation and the fundamental right to cognitive privacy in an increasingly transparent digital age.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html" target="_blank">Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang’s Future as CEO</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">AI</span><span class="sep">·</span><span>Thu, Nov 12</span><span class="sep">·</span><span>366 words · 2 min read</span><span class="sep">·</span><span>81.8</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">News of the board’s deliberations about Jensen Huang’s job drove Nvidia’s stock down more than 8 percent in after-hours trading.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times report details a significant market reaction following news that Nvidia’s board of directors is actively considering the future of long-time CEO Jensen Huang. The revelation triggered an immediate decline in the company’s stock price, which fell more than 8 percent during after-hours trading. This development is critical for investors and industry observers alike, as it signals potential leadership instability at the heart of the artificial intelligence sector, highlighting how sensitive the market remains to governance changes within dominant tech firms.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html">
+  <div class="num">06</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html" target="_blank">Nvidia’s Board Is Weighing Jensen Huang’s Future</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">AI</span><span class="sep">·</span><span>Thu, Nov 12</span><span class="sep">·</span><span>843 words · 4 min read</span><span class="sep">·</span><span>69.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Mr. Huang has been under scrutiny for an affair with a woman said to be a Chinese spy, as well as for a relationship with an executive at his A.I. chip company.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/11/12/podcasts/the-daily/jensen-huang-nvidia-affairs.html">
+  <div class="num">07</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/11/12/podcasts/the-daily/jensen-huang-nvidia-affairs.html" target="_blank">What Jensen Huang’s Potential Ouster Could Mean for A.I.</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">AI</span><span class="sep">·</span><span>Thu, Nov 12</span><span class="sep">·</span><span>510 words · 3 min read</span><span class="sep">·</span><span>64.8</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Nvidia’s board is considering firing Jensen Huang after revelations that he had affairs with an executive who reports to him and a woman who U.S. officials say is a Chinese spy.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/11/12/podcasts/ai-catastrophe-josh-tyrangiel.html">
+  <div class="num">08</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/11/12/podcasts/ai-catastrophe-josh-tyrangiel.html" target="_blank">The Best Possible A.I. Catastrophe</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">AI</span><span class="sep">·</span><span>Thu, Nov 12</span><span class="sep">·</span><span>127 words · 1 min read</span><span class="sep">·</span><span>64.8</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">A cynic’s guide to reining in the reign of artificial intelligence C.E.O.s.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">In this episode of the New York Times podcast, Josh Tyrangiel offers a cynical, sharp-eyed examination of the current artificial intelligence landscape and the powerful executives driving its rapid expansion. By scrutinizing the motivations and unchecked influence of industry leaders, the discussion explores the potential risks posed by the current trajectory of AI development. This analysis is essential for understanding the urgent need for oversight and accountability, providing a critical perspective on how society might effectively rein in the reign of corporate AI titans.</div></details></div>
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Business</h3></summary>
+<article class="article" data-item-key="https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html" target="_blank">Want to Short a Stock? Kalshi and C.T.F.C. Allow It as ‘Perpetual Trades.’</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Business</span><span class="sep">·</span><span>Thu, Nov 12</span><span class="sep">·</span><span>1,566 words · 7 min read</span><span class="sep">·</span><span>85.2</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">After a federal regulator allowed wagering on stocks and cryptocurrencies, two powerful trading clearinghouses filed lawsuits saying traders would not be properly protected.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times article examines the regulatory controversy surrounding Kalshi, a prediction market platform recently authorized by the Commodity Futures Trading Commission to offer event contracts on individual stocks and cryptocurrencies. By framing these financial instruments as perpetual trades, Kalshi has effectively enabled retail investors to bet on stock performance, sparking significant pushback from major clearinghouses. The piece highlights the tension between financial innovation and investor protection, exploring why industry leaders fear these new products could destabilize markets and leave traders vulnerable.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html" target="_blank">Hospitals Brace for Medicaid Work Rules and Deep Funding Cuts</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Business</span><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>1,585 words · 7 min read</span><span class="sep">·</span><span>68.3</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Health systems are racing to guide millions of patients through new eligibility hoops, slated to go into effect Jan. 1.</div></details></div>
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Economy</h3></summary>
+<article class="article" data-item-key="https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html" target="_blank">Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Economy</span><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>696 words · 4 min read</span><span class="sep">·</span><span>83.7</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick last week about why the administration had not put restrictions on advanced chip sales to Megaspeed.</div></details></div>
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Technology</h3></summary>
+<article class="article" data-item-key="https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html" target="_blank">Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Tue, Nov 10</span><span class="sep">·</span><span>1,239 words · 6 min read</span><span class="sep">·</span><span>80.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The A.I. company’s pricing would make it one of the biggest ever public listings. It comes at a volatile moment in markets, with investors questioning the sustainability of the A.I. boom.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">Anthropic is targeting a public listing valuation of up to $1.4 trillion, positioning its initial public offering as one of the largest in history. Reported by The New York Times, this potential blockbuster listing arrives during a volatile period for financial markets, as investors increasingly scrutinize the long-term sustainability of the artificial intelligence boom. The move serves as a critical strategic signal for the tech sector, testing whether public markets will continue to support astronomical market capitalizations for leading AI developers.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/article/nvidia-investigation-jensen-huang.html">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/article/nvidia-investigation-jensen-huang.html" target="_blank">What to Know About Nvidia’s Investigation of CEO Jensen Huang</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Thu, Nov 12</span><span class="sep">·</span><span>962 words · 5 min read</span><span class="sep">·</span><span>72.4</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Nvidia’s board is weighing the future of Jensen Huang, the company’s chief executive, admitted to an affair with a woman who U.S. intelligence says was spying for China.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times report examines a critical investigation by Nvidia’s board of directors into CEO Jensen Huang following revelations of an affair with a woman identified by U.S. intelligence as a Chinese spy. The article details the potential security and corporate governance implications of this relationship for one of the world’s most influential technology companies. This situation matters because it highlights the intersection of personal conduct, national security risks, and the stability of a central pillar in the global artificial intelligence industry.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html" target="_blank">A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Mon, Nov 9</span><span class="sep">·</span><span>829 words · 4 min read</span><span class="sep">·</span><span>65.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">As chips became essential components for A.I., executives like Nvidia’s Jensen Huang saw their personal wealth and profiles soar in a way the industry has not experienced before.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This article examines how the artificial intelligence revolution propelled Nvidia CEO Jensen Huang to unprecedented personal wealth and industry dominance as his company&#x27;s chips became vital technology infrastructure. It details how this meteoric rise transformed semiconductor executives into high-profile public figures on a scale the tech industry had never seen before. By exploring the subsequent scandal that followed this rapid ascendancy, the piece offers critical insight into the intense pressures, immense power, and ethical vulnerabilities emerging at the highest levels of the AI boom.</div></details></div>
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Energy &amp; Environment</h3></summary>
+<article class="article" data-item-key="https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html" target="_blank">What Is Congress’s Plan to Speed Up Energy Permits?</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Energy &amp; Environment</span><span class="sep">·</span><span>Tue, Nov 10</span><span class="sep">·</span><span>1,855 words · 9 min read</span><span class="sep">·</span><span>79.0</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The sprawling bill, which has divided Democrats, would overhaul major environmental laws to streamline the permitting process.</div></details><details><summary>Overview (Model: Gemini 3.5 Flash)</summary><div class="panel">This article covers a major legislative effort in Congress to overhaul fundamental environmental laws and streamline the permitting process for energy and infrastructure projects. It details the specifics of the sprawling bill aimed at speeding up project approvals, alongside the deep political divisions it has caused among Democrats. Understanding this proposed reform matters because it highlights the ongoing tension between traditional environmental protection standards and the urgent need to rapidly build out critical clean energy infrastructure.</div></details></div>
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Opinion</h3></summary>
+<article class="article" data-item-key="https://www.nytimes.com/2026/11/11/opinion/post-trump-republicans.html">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/11/11/opinion/post-trump-republicans.html" target="_blank">Republicans Have Two Paths Out of This. They’d Better Choose Wisely.</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Opinion</span><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>3,320 words · 15 min read</span><span class="sep">·</span><span>75.5</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">Not since the Civil War has the party had so much up for grabs.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/11/12/opinion/democrats-congress-affordability-reform.html">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/11/12/opinion/democrats-congress-affordability-reform.html" target="_blank">The First Thing Democrats Should Do to Show They’re Serious on Affordability</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Opinion</span><span class="sep">·</span><span>Thu, Nov 12</span><span class="sep">·</span><span>1,115 words · 5 min read</span><span class="sep">·</span><span>59.3</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">A party that just won an election on affordability should not pass up a chance to deliver immediately.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">In this New York Times opinion piece, the author argues that Democrats must prioritize immediate, tangible legislative action to address the affordability crisis following their recent electoral victory. By focusing on concrete policy reforms, the party can demonstrate its commitment to voters who prioritized economic relief at the polls. This analysis is significant because it outlines a strategic roadmap for maintaining political momentum, emphasizing that delivering swift results on cost-of-living issues is essential for sustaining public trust and fulfilling the party&#x27;s core campaign promises.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/11/11/opinion/satellite-images-us-government.html">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/11/11/opinion/satellite-images-us-government.html" target="_blank">The View From Space the U.S. Government Doesn’t Want You to See</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Opinion</span><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>1,641 words · 8 min read</span><span class="sep">·</span><span>59.3</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">There are images from space that the U.S. government doesn’t want the public to see. Here’s why.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times opinion piece examines the growing tension between national security interests and the public availability of high-resolution satellite imagery. It explores how the U.S. government restricts access to specific space-based data, arguing that these limitations hinder transparency regarding climate change, critical infrastructure, and global conflicts. By analyzing the implications of state-controlled surveillance, the article highlights why democratizing access to orbital imagery is essential for independent oversight and public accountability in an era where space-based observation is increasingly vital for monitoring global developments.</div></details></div>
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>Politics</h3></summary>
+<article class="article" data-item-key="https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html" target="_blank">A Diminished Justice Dept. Braces for Fresh Fights After Midterm Loss</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Politics</span><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>1,525 words · 7 min read</span><span class="sep">·</span><span>71.6</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">The upheaval points to a broader dilemma spurred by the election: whether the department can carry out President Trump’s priorities as career officials eye the exits and senior department officials resign.</div></details></div>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/2026/11/12/us/politics/torture-9-11.html">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/2026/11/12/us/politics/torture-9-11.html" target="_blank">How the Legacy of Torture Has Vexed the Quest for 9/11 Justice</a></h4>
+    <div class="meta"><span class="src">NYT</span><span class="sep">·</span><span class="cat">Politics</span><span class="sep">·</span><span>Thu, Nov 12</span><span class="sep">·</span><span>1,553 words · 7 min read</span><span class="sep">·</span><span>59.7</span></div>
+    <div class="details-row"><details class="abstract"><summary>Abstract</summary><div class="panel">From coerced confessions to the creation of an alternative court system, years of U.S. government decisions doomed speedy trial prospects.</div></details><details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This New York Times analysis examines how the U.S. government’s reliance on torture and coerced confessions fundamentally undermined the pursuit of justice for the September 11 attacks. By detailing the creation of a flawed alternative court system and the resulting legal complications, the article explains why these strategic failures effectively doomed the possibility of a timely trial. It is essential reading for understanding how state-sanctioned human rights abuses have created lasting procedural roadblocks, ultimately stalling accountability and complicating the nation’s post-9/11 legal legacy.</div></details></div>
+    
+  </div>
+</article>
+</details>
+</details>
+
+<details class="section" id="blogs" open>
+  <summary class="section-head"><h2>Blog Posts</h2></summary>
+<article class="article" data-item-key="https://www.datacenterdynamics.com/en/news/google-backed-tapestry-completes-deployment-of-hyperq-ai-platform-for-pjms-cycle-1-interconnection-review">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.datacenterdynamics.com/en/news/google-backed-tapestry-completes-deployment-of-hyperq-ai-platform-for-pjms-cycle-1-interconnection-review/" target="_blank">Google-backed Tapestry completes deployment of HyperQ AI platform for PJM&#x27;s Cycle 1 interconnection review</a></h4>
+    <div class="meta"><span class="src">DataCenter Dynamics</span><span class="sep">·</span><span class="cat">Infrastructure</span><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>591 words · 3 min read</span><span class="sep">·</span><span>133.0</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.datacenterdynamics.com/en/news/lcl-partners-with-wellen-real-estate-on-rooftop-solar-project-in-antwerp-belgium">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.datacenterdynamics.com/en/news/lcl-partners-with-wellen-real-estate-on-rooftop-solar-project-in-antwerp-belgium/" target="_blank">LCL partners with Wellen Real Estate on rooftop solar project in Antwerp, Belgium</a></h4>
+    <div class="meta"><span class="src">DataCenter Dynamics</span><span class="sep">·</span><span class="cat">Infrastructure</span><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>478 words · 3 min read</span><span class="sep">·</span><span>128.6</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://spectrum.ieee.org/innomotics-electric-motors-drive-systems">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://spectrum.ieee.org/innomotics-electric-motors-drive-systems" target="_blank">The Dynamo-Electric Principle: 160 Years of Powering Industry</a></h4>
+    <div class="meta"><span class="src">IEEE Spectrum Energy</span><span class="sep">·</span><span class="cat">Infrastructure</span><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>68 words · 1 min read</span><span class="sep">·</span><span>127.0</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.utilitydive.com/news/no-home-left-behind-scaling-vpp-participation-while-maintaining-customer-c/873474">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.utilitydive.com/news/no-home-left-behind-scaling-vpp-participation-while-maintaining-customer-c/873474/" target="_blank">No home left behind: Scaling VPP participation while maintaining customer control</a></h4>
+    <div class="meta"><span class="src">Utility Dive</span><span class="sep">·</span><span class="cat">Infrastructure</span><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>125.0</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This Utility Dive article explores how utilities can effectively scale virtual power plant (VPP) programs by prioritizing user-centric design. Author Gisela Glandt argues that traditional demand response models often fail to account for actual consumer behavior, limiting grid flexibility. By redesigning these programs to align with how customers interact with their home energy systems, utilities can increase participation rates while ensuring users retain control. This shift is essential for software engineers and grid planners tasked with building scalable, reliable, and consumer-friendly distributed energy infrastructure.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://simonwillison.net/2026/Nov/11/llm">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://simonwillison.net/2026/Nov/11/llm/" target="_blank">llm 0.37.2</a></h4>
+    <div class="meta"><span class="src">Simon Willison</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>255 words · 2 min read</span><span class="sep">·</span><span>124.0</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://simonwillison.net/2026/Nov/11/tools-tags">
+  <div class="num">06</div>
+  <div class="body">
+    <h4><a href="https://simonwillison.net/2026/Nov/11/tools-tags/" target="_blank">Browse tools.simonwillison.net by tag</a></h4>
+    <div class="meta"><span class="src">Simon Willison</span><span class="sep">·</span><span class="cat">Technology</span><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>252 words · 2 min read</span><span class="sep">·</span><span>123.0</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">Simon Willison’s latest update to his personal tools collection introduces a sophisticated tagging system designed to improve the discoverability of his extensive library of vibe-coded projects. By leveraging tree-sitter to programmatically analyze code for specific JavaScript APIs, libraries, and web hosts, Willison has implemented dynamic tag clouds that categorize his 244 tools. This development is significant for software engineers as it demonstrates a practical, automated approach to organizing personal codebases, turning a growing repository into a structured, easily navigable resource for rapid development.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.latitudemedia.com/news/what-the-midterms-mean-for-data-center-developers-in-pjm">
+  <div class="num">07</div>
+  <div class="body">
+    <h4><a href="https://www.latitudemedia.com/news/what-the-midterms-mean-for-data-center-developers-in-pjm/" target="_blank">What the midterms mean for data center developers in PJM</a></h4>
+    <div class="meta"><span class="src">Latitude Media</span><span class="sep">·</span><span class="cat">Infrastructure</span><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>1,130 words · 5 min read</span><span class="sep">·</span><span>120.6</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This article examines how recent midterm election results in the PJM Interconnection region will influence the regulatory landscape for data center developers. With incoming leaders prioritizing energy affordability and stricter oversight, the piece explores the shifting political climate surrounding infrastructure expansion. It is essential reading for software engineers and infrastructure planners because these policymakers will soon define critical curtailment rules and operational guardrails. Understanding these emerging constraints is vital for anticipating future capacity limitations and navigating the evolving energy requirements for large-scale computing facilities.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.utilitydive.com/news/constellation-pursues-hybrid-nuclearcapacity-contracts-alongside-uprates/874408">
+  <div class="num">08</div>
+  <div class="body">
+    <h4><a href="https://www.utilitydive.com/news/constellation-pursues-hybrid-nuclearcapacity-contracts-alongside-uprates/874408/" target="_blank">Constellation pursues hybrid capacity contracts alongside nuclear uprates</a></h4>
+    <div class="meta"><span class="src">Utility Dive</span><span class="sep">·</span><span class="cat">Infrastructure</span><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>117.1</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">Constellation Energy is strategically evolving its operational model by pursuing hybrid capacity contracts that integrate its existing nuclear fleet with supplemental resources like battery storage, additional generation, and demand response. By combining these assets, the company aims to maximize grid reliability and capture new revenue streams through incremental capacity. This shift is significant for the energy sector as it demonstrates how traditional baseload nuclear power can be optimized through modern software-driven orchestration, providing a scalable blueprint for balancing grid stability with the growing demand for flexible, carbon-free energy.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin">
+  <div class="num">09</div>
+  <div class="body">
+    <h4><a href="https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/" target="_blank">Who Runs the Ransomware Group Qilin?</a></h4>
+    <div class="meta"><span class="src">Krebs on Security</span><span class="sep">·</span><span class="cat">Security</span><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>1,069 words · 5 min read</span><span class="sep">·</span><span>116.6</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This investigative report from Krebs on Security examines the identity of the administrator behind Qilin, currently the world’s most active ransomware affiliate program. By analyzing operational security lapses spanning a decade, the article links the group’s leadership to a 36-year-old individual residing in St. Petersburg, Russia. This piece is essential reading for security professionals because it provides critical intelligence on the human element behind a prolific cybercrime syndicate, illustrating how even sophisticated threat actors can be unmasked through persistent digital forensics.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://shkspr.mobi/blog/2026/11/howto-fix-eufy-homebase-2-storage-full-issues">
+  <div class="num">10</div>
+  <div class="body">
+    <h4><a href="https://shkspr.mobi/blog/2026/11/howto-fix-eufy-homebase-2-storage-full-issues/" target="_blank">HowTo: Fix Eufy HomeBase 2 Storage Full Issues</a></h4>
+    <div class="meta"><span class="src">Shkspr.mobi</span><span class="sep">·</span><span class="cat">Strategy</span><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>437 words · 2 min read</span><span class="sep">·</span><span>102.8</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">This guide from Shkspr.mobi provides a practical, step-by-step solution for resolving storage capacity errors on the Eufy HomeBase 2. By detailing a specific sequence of inserting a USB drive, formatting external and internal memory, and power-cycling the hub, the author addresses a common failure point in long-term IoT deployments. This resource is essential for Eufy users seeking to extend the lifespan of their security hardware, offering a reliable strategy to maintain continuous video recording without needing to replace the entire system.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.nytimes.com/interactive/2026/11/10/us/supreme-court-guns-misquote.html?unlocked_article_code=1.PlE.-Nhp.CaLpsgMqdWf3">
+  <div class="num">11</div>
+  <div class="body">
+    <h4><a href="https://www.nytimes.com/interactive/2026/11/10/us/supreme-court-guns-misquote.html?unlocked_article_code=1.PlE.-Nhp.CaLpsgMqdWf3" target="_blank">‘Dangerous or Unusual’</a></h4>
+    <div class="meta"><span class="src">Daring Fireball</span><span class="sep">·</span><span class="cat">Strategy</span><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>1,326 words · 6 min read</span><span class="sep">·</span><span>100.9</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">In this investigative report for The New York Times, Mike McIntire and Eli Murray reveal that a foundational legal standard used to strike down gun-control laws for nearly two decades is built upon a historical error. The authors demonstrate that Justice Antonin Scalia misattributed the dangerous and unusual phrase to 18th-century jurist Sir William Blackstone in the landmark Heller decision. This piece is essential reading because it exposes how a flawed citation has fundamentally shaped modern American jurisprudence and constitutional interpretation regarding firearms.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead">
+  <div class="num">12</div>
+  <div class="body">
+    <h4><a href="https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead/" target="_blank">Apple Shutters Their Longstanding ‘Apple Support Community’</a></h4>
+    <div class="meta"><span class="src">Daring Fireball</span><span class="sep">·</span><span class="cat">Strategy</span><span class="sep">·</span><span>Wed, Nov 11</span><span class="sep">·</span><span>384 words · 2 min read</span><span class="sep">·</span><span>89.4</span></div>
+    <details><summary>Overview (Model: Gemini 3.1 Flash-Lite)</summary><div class="panel">Apple has officially shuttered its longstanding Apple Support Community, a move widely viewed as a necessary step to modernize the company’s digital presence. As Jason Snell notes, these outdated message boards were an embarrassment that frequently appeared in search results, leading users to mistakenly perceive unofficial, often unhelpful community discussions as authoritative company guidance. By removing this legacy platform, Apple eliminates a source of public confusion and aligns its support infrastructure with contemporary web standards, ultimately protecting its brand reputation from misleading information.</div></details>
+    
+  </div>
+</article>
+</details>
+
+<details class="section" id="reddit" open>
+  <summary class="section-head"><h2>Yesterday on Reddit</h2></summary>
+<details class="subsection" open>
+  <summary class="subhead"><h3>r/ClaudeAI</h3></summary>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xt4fap/guys_fable_52_is_insane">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xt4fap/guys_fable_52_is_insane/" target="_blank">Guys Fable 5.2 is INSANE</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/prophet-dot-exe</span><span class="sep">·</span><span>Wed, Nov 11</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 200 comments. So, OP is stoked that Fable 5.2 can actually shut up when you tell it to, unlike its chatty siblings. The rest of you? Not so much. The overwhelming consensus is that Fable 5.2 will burn through your usage limit faster than you can say &quot;AGI.&quot; The top comments are all roasting OP for wasting precious tokens on getting ghosted, with many users reporting their 5-hour limit vanished in 10-30 minutes. Here&#x27;s the breakdown of the debate: Does it even work? It&#x27;s a mixed bag. Some users replicated OP&#x27;s success, but many others posted screenshots of Fable failing the test and replying anyway. The running theory is that it was either nerfed within hours of launch or only works on the desktop site. How does it work? The nerds in the thread figure it&#x27;s not true silence. The model is likely just outputting an invisible character or an immediate &quot;end token.&quot; It&#x27;s seen as a technical quirk of the new agent system, not a sign of god-tier intelligence. Is it special? Not really. Other models like Deepseek can apparently do the same thing. Most agree Opus&#x27;s response is the most &quot;intelligent&quot; because it explains that its programming harness forces it to reply, even when it knows it shouldn&#x27;t. The verdict: A neat party trick, but probably not worth draining your entire usage plan for the week.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xt3m47/fable_52_maxed_its_usage_to_make_this_video">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xt3m47/fable_52_maxed_its_usage_to_make_this_video/" target="_blank">Fable 5.2 maxed its usage to make this video</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/neondragony</span><span class="sep">·</span><span>Wed, Nov 11</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 100 comments. The consensus is that this video is &quot;scary decent&quot; and a massive flex for Fable 5.2. Most of you are blown away by the quality and smoothness, with some calling it the best use of AI they&#x27;ve seen all week. However, this wasn&#x27;t a one-and-done prompt. OP was kind enough to drop the full recipe, and it&#x27;s a doozy: This took a full day and 13 rounds of iteration. OP acted as a director, giving Fable a premise (&quot;a world-class motion-designer flex&quot;) and constraints, then critiquing the drafts. The entire video is code written by Fable 5.2: a Remotion project using raw WebGL2 shaders for visuals and Strudel for the music. No pre-made assets were used. OP&#x27;s biggest tip: Spend your feedback notes on the transitions. That&#x27;s where the quality comes from. Other hot topics in the thread include jokes about the insane token cost, a split debate on whether the music is genius or garbage, and a small (but vocal) minority asking &quot;Okay, it&#x27;s cool, but now what?&quot; Oh, and OP went on a legendary shitposting run in the comments, dropping several more videos including an absolutely top-tier Rickroll. Worth the scroll.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xt44ar/claude_helped_me_organize_my_legal_database_into">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xt44ar/claude_helped_me_organize_my_legal_database_into/" target="_blank">Claude helped me organize my legal database into a public archive with 300,000 searchable military board decisions, and this morning that work became evidence in a federal lawsuit.</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/GruntMarine</span><span class="sep">·</span><span>Wed, Nov 11</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xte9be/i_built_a_tiny_windows_taskbar_widget_with_claude">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xte9be/i_built_a_tiny_windows_taskbar_widget_with_claude/" target="_blank">I built a tiny Windows taskbar widget with Claude Code that shows your Claude 5h and weekly usage next to the clock</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/abdosarmini92</span><span class="sep">·</span><span>Wed, Nov 11</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 50 comments. Alright, let&#x27;s break down this thread. The consensus is that this is a super useful widget and a great example of building with Claude Code. Major props to OP for making it open source. There was a big debate about security after the .exe got flagged by a couple of vendors on VirusTotal. The overwhelming community verdict is that these are likely false positives, which is common for unsigned, open-source apps. The general sentiment is: if you&#x27;re concerned, the source code is right there for you to inspect or compile yourself. If you don&#x27;t trust it, don&#x27;t use it. OP has been very active in the comments, explaining the flags, addressing rate-limiting concerns (and already pushing a fix!), and answering questions. Other users are also sharing their own similar widgets for Mac, Linux, and Stream Deck, and there&#x27;s a feature request for multi-account support.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xtle19/getting_3_free_fable_rst_for_anniversary">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xtle19/getting_3_free_fable_rst_for_anniversary/" target="_blank">Getting 3 free fable rst for anniversary</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/Timo-Hauser</span><span class="sep">·</span><span>Wed, Nov 11</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 30 comments. Here&#x27;s the deal, OP. You&#x27;re not a special snowflake, but you are one of the loyal ones, and that&#x27;s why you got the goods. The consensus is these free resets are a promotional gift for the Fable 5.2 launch, not a personal anniversary. The number of resets you received is tiered based on how long you&#x27;ve been a continuous subscriber. 3 resets: For the OGs with a 1+ year continuous subscription. 2 resets: For mid-term subs (around 6 months). 1 reset: For newer folks or those who took a break. Upgrading to a higher tier or being in the Duet program also seems to be the cheat code for more resets. However, don&#x27;t get too excited. While a few users are happy, the overwhelming sentiment in this thread is deeply cynical. Many are calling this a &quot;drug dealer&quot; move—a temporary fix for what they see as overly restrictive usage limits and a classic &quot;bait and switch&quot; tactic. Pro-tip from the comments: They expire in March, so save them for when you really need them.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xtx4ik/heads_up_claude_codes_dont_ask_again_has_been">
+  <div class="num">06</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xtx4ik/heads_up_claude_codes_dont_ask_again_has_been/" target="_blank">Heads up: Claude Code&#x27;s &quot;don&#x27;t ask again&quot; has been leaking secrets into public repos</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/Predictor_2718</span><span class="sep">·</span><span>Wed, Nov 11</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xtv0sh/show_us_what_youve_created_with_claude">
+  <div class="num">07</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xtv0sh/show_us_what_youve_created_with_claude/" target="_blank">Show us what you&#x27;ve created with Claude!</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/claudeai-perfhub</span><span class="sep">·</span><span>Wed, Nov 11</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 400 comments. Whoa, you guys have been busy. This thread is an absolute goldmine of projects, and the consensus is clear: Claude is your new favorite co-founder, especially if you can&#x27;t code. The top-voted project by a country mile is a free YouTube extension that lets you time-travel back to a pre-algorithm internet. Yes, you can finally escape the content sludge and browse like it&#x27;s 2009 again. Other bangers at the top of the thread include: * A custom &quot;YouTube&quot; platform for the Prague underground art scene. * An interactive podcast generator where you can interrupt the AI hosts. * A MIDI converter that turns symphonies into solo piano arrangements. * A browser game where you run a small business and try not to go bankrupt. The biggest theme in this thread? You don&#x27;t need to be a dev to ship real apps anymore. It&#x27;s packed with designers, gym owners, and retail managers building everything from niche games to complex utility apps. The era of the &#x27;vibecoder&#x27; is here. Speaking of which, the gaming scene is on fire with an invented pixel art sports league, a 3D fighter with Italian politicians (seriously), and a ton of other indie titles. You&#x27;ve also built an insane number of practical tools, from dynamic woodworking plans to personal finance simulators. Someone even built a platform for people who built identical apps to collaborate. We see what you did there. Seriously, scroll through the whole thread. It&#x27;s a massive list of free apps, open-source tools, and wild ideas. Now get back to building.</div></details>
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xt7krc/claude_can_now_open_apps_like_asana_canva_and">
+  <div class="num">08</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xt7krc/claude_can_now_open_apps_like_asana_canva_and/" target="_blank">Claude can now open apps like Asana, Canva and Vercel inside the chat and work in them (rolling out, all plans)</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/emarkosov</span><span class="sep">·</span><span>Wed, Nov 11</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xto5x5/i_just_realized_batman_was_basically_running">
+  <div class="num">09</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xto5x5/i_just_realized_batman_was_basically_running/" target="_blank">I just realized Batman was basically running Claude on his Batcomputer since the 60s</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/Muri_Chan</span><span class="sep">·</span><span>Wed, Nov 11</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeAI/comments/1xthqj0/how_are_you_guys_coming_up_with_these_random_diy">
+  <div class="num">10</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeAI/comments/1xthqj0/how_are_you_guys_coming_up_with_these_random_diy/" target="_blank">How are you guys coming up with these random DIY projects?</a></h4>
+    <div class="meta"><span class="src">r/ClaudeAI</span><span class="sep">·</span><span>by /u/u/_necrobite_</span><span class="sep">·</span><span>Wed, Nov 11</span></div>
+    <details><summary>Bot TL;DR</summary><div class="panel">TL;DR of the discussion generated automatically after 100 comments. The overwhelming consensus is that the best ideas come from scratching your own itch. Either you run into a minor, repetitive annoyance in your day and think &quot;Claude can fix this,&quot; or... you have ADHD. Seriously, it&#x27;s mentioned a lot in this thread as a project-idea superpower. People aren&#x27;t waiting for inspiration to strike; they&#x27;re solving real, personal problems or finally building the weird little apps they&#x27;ve had in their heads for years. As for your big question about the $20 Pro plan and not burning through your limits, the community has a very clear strategy: Use Opus for planning and Sonnet for execution. Don&#x27;t try to do everything in one long Opus chat. The go-to workflow is to have Opus create a detailed plan or architecture, often writing it to a file. Then, you start a fresh chat with Sonnet and feed it the plan to do the actual coding. You can bring Opus back in to review the code if needed. Also, keep your context clean. If you&#x27;re stuck in a debugging loop, start a new chat with just the relevant code and the exact error message. A long chat history full of failed attempts is a massive token-eater. Don&#x27;t be terrified of hitting the limit; many users say it&#x27;s just part of the process and they simply wait for the reset.</div></details>
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>r/ClaudeCode</h3></summary>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeCode/comments/1xttxlr/claude_unity_atlas_the_start_of_a_little_found">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeCode/comments/1xttxlr/claude_unity_atlas_the_start_of_a_little_found/" target="_blank">Claude + Unity + Atlas. The start of a little found footage game</a></h4>
+    <div class="meta"><span class="src">r/ClaudeCode</span><span class="sep">·</span><span>by /u/u/mescal_</span><span class="sep">·</span><span>Wed, Nov 11</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeCode/comments/1xtssot/i_made_my_home_assistant_dashboard_a_3d_dollhouse">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeCode/comments/1xtssot/i_made_my_home_assistant_dashboard_a_3d_dollhouse/" target="_blank">I made my Home Assistant dashboard a 3D dollhouse of my home with Opus 5.5</a></h4>
+    <div class="meta"><span class="src">r/ClaudeCode</span><span class="sep">·</span><span>by /u/u/Time-Angle-7415</span><span class="sep">·</span><span>Wed, Nov 11</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeCode/comments/1xt3wnv/lean_proof_of_the_entire_us_tax_code_to_find">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeCode/comments/1xt3wnv/lean_proof_of_the_entire_us_tax_code_to_find/" target="_blank">Lean proof of the entire US tax code to find loopholes</a></h4>
+    <div class="meta"><span class="src">r/ClaudeCode</span><span class="sep">·</span><span>by /u/u/SnooPeripherals5313</span><span class="sep">·</span><span>Wed, Nov 11</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeCode/comments/1xtlc9v/opus_55_on_the_api_same_prompts_same_settings_60">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeCode/comments/1xtlc9v/opus_55_on_the_api_same_prompts_same_settings_60/" target="_blank">Opus 5.5 on the API: same prompts, same settings, ~60% more output tokens per call since mid-October (charts from my Console export)</a></h4>
+    <div class="meta"><span class="src">r/ClaudeCode</span><span class="sep">·</span><span>by /u/u/FlynancialAnalyst</span><span class="sep">·</span><span>Wed, Nov 11</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ClaudeCode/comments/1xtbvob/ive_noticed_fable_52_just_feels_off">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ClaudeCode/comments/1xtbvob/ive_noticed_fable_52_just_feels_off/" target="_blank">I’ve noticed Fable 5.2 just feels… off?</a></h4>
+    <div class="meta"><span class="src">r/ClaudeCode</span><span class="sep">·</span><span>by /u/u/GrandmasterCheetah</span><span class="sep">·</span><span>Wed, Nov 11</span></div>
+    
+    
+  </div>
+</article>
+</details>
+<details class="subsection" open>
+  <summary class="subhead"><h3>r/ObsidianMD</h3></summary>
+<article class="article" data-item-key="https://www.reddit.com/r/ObsidianMD/comments/1xtrd7o/solo_levelling_system_actually_looks_like_the">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ObsidianMD/comments/1xtrd7o/solo_levelling_system_actually_looks_like_the/" target="_blank">Solo levelling system (actually looks like the system 😂)</a></h4>
+    <div class="meta"><span class="src">r/ObsidianMD</span><span class="sep">·</span><span>by /u/u/Thegymguyz</span><span class="sep">·</span><span>Wed, Nov 11</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ObsidianMD/comments/1xt52qo/more_love_for_obsidian_bases_i_made_a_little_demo">
+  <div class="num">02</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ObsidianMD/comments/1xt52qo/more_love_for_obsidian_bases_i_made_a_little_demo/" target="_blank">More love for obsidian bases - I made a little demo vid to spread the love</a></h4>
+    <div class="meta"><span class="src">r/ObsidianMD</span><span class="sep">·</span><span>by /u/u/timabell</span><span class="sep">·</span><span>Wed, Nov 11</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ObsidianMD/comments/1xtpegm/why_does_obsidian_have_separate_search_and_browse">
+  <div class="num">03</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ObsidianMD/comments/1xtpegm/why_does_obsidian_have_separate_search_and_browse/" target="_blank">Why does Obsidian have separate Search and Browse tabs instead of a search bar on the file browser?</a></h4>
+    <div class="meta"><span class="src">r/ObsidianMD</span><span class="sep">·</span><span>by /u/u/hoffsta</span><span class="sep">·</span><span>Wed, Nov 11</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ObsidianMD/comments/1xthmfp/what_is_your_longest_note_in_terms_of_word_length">
+  <div class="num">04</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ObsidianMD/comments/1xthmfp/what_is_your_longest_note_in_terms_of_word_length/" target="_blank">What is your longest note, in terms of word length and why that can&#x27;t be broken into smaller ones?</a></h4>
+    <div class="meta"><span class="src">r/ObsidianMD</span><span class="sep">·</span><span>by /u/u/vaikrunta</span><span class="sep">·</span><span>Wed, Nov 11</span></div>
+    
+    
+  </div>
+</article>
+<article class="article" data-item-key="https://www.reddit.com/r/ObsidianMD/comments/1xtttuo/regrets_and_breakthroughs">
+  <div class="num">05</div>
+  <div class="body">
+    <h4><a href="https://www.reddit.com/r/ObsidianMD/comments/1xtttuo/regrets_and_breakthroughs/" target="_blank">Regrets and Breakthroughs</a></h4>
+    <div class="meta"><span class="src">r/ObsidianMD</span><span class="sep">·</span><span>by /u/u/LauraFriend</span><span class="sep">·</span><span>Wed, Nov 11</span></div>
+    
+    
+  </div>
+</article>
+</details>
+</details>
+
+<details class="section" id="linkedin" open>
+  <summary class="section-head"><h2>From the Network</h2></summary>
+<article class="article" data-item-key="https://www.linkedin.com/in/ramar/recent-activity/all">
+  <div class="num">01</div>
+  <div class="body">
+    <h4><a href="https://www.linkedin.com/in/ramar/recent-activity/all/" target="_blank">View Rama&#x27;s recent LinkedIn activity</a></h4>
+    <div class="meta"><span class="src">LinkedIn</span></div>
+    
+    
+  </div>
+</article>
+</details>
+
+</div>
+<script>
+(function () {
+  var root = document.documentElement;
+  function pressGroup(name, value) {
+    document.querySelectorAll('[data-tg="' + name + '"]').forEach(function (btn) {
+      btn.setAttribute('aria-pressed', btn.dataset.val === value ? 'true' : 'false');
+    });
+  }
+  function applyFont(v) {
+    root.setAttribute('data-font', v);
+    pressGroup('font', v);
+    try { localStorage.setItem('dd-font', v); } catch (e) {}
+  }
+  function applyTheme(v) {
+    root.setAttribute('data-theme', v);
+    pressGroup('theme', v);
+    try { localStorage.setItem('dd-theme', v); } catch (e) {}
+  }
+  document.querySelectorAll('[data-tg="font"]').forEach(function (btn) {
+    btn.addEventListener('click', function () { applyFont(btn.dataset.val); });
+  });
+  document.querySelectorAll('[data-tg="theme"]').forEach(function (btn) {
+    btn.addEventListener('click', function () { applyTheme(btn.dataset.val); });
+  });
+  var storedFont = null, storedTheme = null;
+  try { storedFont = localStorage.getItem('dd-font'); storedTheme = localStorage.getItem('dd-theme'); } catch (e) {}
+  applyFont(storedFont || 'serif');
+  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  applyTheme(storedTheme || (prefersDark ? 'dark' : 'light'));
+  document.getElementById('expandAll').addEventListener('click', function () {
+    document.querySelectorAll('details').forEach(function (d) { d.open = true; });
+  });
+  document.getElementById('collapseAll').addEventListener('click', function () {
+    document.querySelectorAll('details').forEach(function (d) { d.open = false; });
+  });
+})();
+
+/* Reading marks. Stored in localStorage and exported as a one-click download
+   that the comprehension pass picks up from ~/Downloads. The export carries
+   every mark ever made, not just today's, so a skipped day loses nothing -
+   the harvest merge is idempotent. */
+(function () {
+  var KEY = 'dd-marks';
+  var page = document.querySelector('.page');
+  var digestDate = (page && page.dataset.digestDate) || '';
+
+  function load() {
+    try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) { return {}; }
+  }
+  function save(marks) {
+    try { localStorage.setItem(KEY, JSON.stringify(marks)); } catch (e) {}
+  }
+  function paint(group, target, mark) {
+    if (mark) { target.dataset.marked = mark; } else { delete target.dataset.marked; }
+    group.querySelectorAll('.mk').forEach(function (btn) {
+      btn.setAttribute('aria-pressed', btn.dataset.mark === mark ? 'true' : 'false');
+    });
+  }
+
+  var marks = load();
+  /* One implementation serves both surfaces: the companion page marks threads,
+     the digest marks only the few items carrying a Context note. Both render a
+     .marks group with its own data-mark-key. */
+  document.querySelectorAll('.marks[data-mark-key]').forEach(function (group) {
+    var key = group.dataset.markKey;
+    var target = group.closest('.article, .thread') || group;
+    var current = marks[key] && marks[key].mark;
+    paint(group, target, current);
+    group.querySelectorAll('.mk').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var value = btn.dataset.mark;
+        var existing = marks[key] && marks[key].mark;
+        if (existing === value) {
+          delete marks[key];
+          value = null;
+        } else {
+          marks[key] = {
+            mark: value,
+            recorded_at: new Date().toISOString(),
+            digest_date: digestDate
+          };
+        }
+        save(marks);
+        paint(group, target, value);
+      });
+    });
+  });
+
+  var saveBtn = document.getElementById('saveMarks');
+  if (saveBtn) {
+    saveBtn.addEventListener('click', function () {
+      var payload = { schema_version: 1, exported_at: new Date().toISOString(), items: load() };
+      var blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+      var url = URL.createObjectURL(blob);
+      var link = document.createElement('a');
+      link.href = url;
+      link.download = 'dd-marks-' + (digestDate || 'export') + '.json';
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+      URL.revokeObjectURL(url);
+    });
+  }
+})();
+
+</script>
+</body>
+</html>

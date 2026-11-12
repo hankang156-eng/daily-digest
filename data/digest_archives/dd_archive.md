@@ -1,9 +1,78 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-11 · 10935 items*
+*Last updated: 2026-11-12 · 11004 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-11-11 | Tim Peters has died | HN | Technology | tech | 2026-11-11 | [link](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) |
+| 2026-11-11 | Nvidia is preparing to oust Jensen Huang | HN | Technology | tech | 2026-11-11 | [link](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) |
+| 2026-11-11 | My AI agents found an unmapped Maya site? | HN | Technology | tech | 2026-11-11 | [link](https://pietromiotti.com/latest/maya-site) |
+| 2026-11-11 | AWS emulator | HN | Technology | tech | 2026-11-11 | [link](https://github.com/aws/aws-emulator) |
+| 2026-11-11 | United Airlines bans AI agents from booking flights on behalf of travelers | HN | Technology | tech | 2026-11-11 | [link](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) |
+| 2026-11-11 | A false smoke alarm almost drowned Jane Street's only NYC datacenter | HN | Technology | tech | 2026-11-11 | [link](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/) |
+| 2026-11-11 | 93% of paint splatters are valid Perl programs (2019) | HN | Technology | tech | 2026-11-11 | [link](https://www.mcmillen.dev/sigbovik/) |
+| 2026-11-11 | Gemini Decisions API | HN | Technology | tech | 2026-11-11 | [link](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) |
+| 2026-11-11 | Hyper-Realistic Sand with WebGL2 | HN | Technology | tech | 2026-11-11 | [link](https://av.github.io/safe-sand/) |
+| 2026-11-11 | Jensen Huang said to have had relationship with executive who reports to him | HN | Technology | tech | 2026-11-11 | [link](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html) |
+| 2026-11-11 | I asked every TV manufacturer 17 questions about how they spy on you | HN | Technology | tech | 2026-11-11 | [link](https://www.theverge.com/tech/1012372/tv-privacy-acr-questions) |
+| 2026-11-11 | Using voltage glitching to unleash the A100 in my mining card | HN | Technology | tech | 2026-11-11 | [link](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/) |
+| 2026-11-11 | Can a Linear Program Do Weight-Space Programming? | HN | Technology | tech | 2026-11-11 | [link](https://nathan.rs/posts/weight-space-lp/) |
+| 2026-11-11 | Lock Your GitHub Actions | HN | Technology | tech | 2026-11-11 | [link](https://hugovk.dev/blog/2026/lock-github-actions/) |
+| 2026-11-11 | Apple is killing its Support Community forum next week | HN | Technology | tech | 2026-11-11 | [link](https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down) |
+| 2026-11-11 | Show HN: Yogurt – Free, private, open-source alternative to Granola | HN | Technology | tech | 2026-11-11 | [link](https://github.com/FrigadeHQ/yogurt) |
+| 2026-11-11 | Nvidia Shares Plummet as Board Considers Jensen Huang’s Future as CEO | NYT · AI | AI | news | 2026-11-12 | [link](https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html) |
+| 2026-11-11 | Data Centers Will Continue to Be Built, Despite Midterm Elections | NYT · AI | AI | news | 2026-11-12 | [link](https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html) |
+| 2026-11-11 | United Airlines Blocks A.I. Agents From Booking Flights | NYT · AI | AI | news | 2026-11-11 | [link](https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html) |
+| 2026-11-11 | Want to Short a Stock? Kalshi and C.T.F.C. Allow It as ‘Perpetual Trades.’ | NYT · Business | Business | news | 2026-11-12 | [link](https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html) |
+| 2026-11-11 | Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair | NYT · Economy | Economy | news | 2026-11-11 | [link](https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html) |
+| 2026-11-11 | I Saw the Future of Mind-Reading | NYT · AI | AI | opinion | 2026-11-12 | [link](https://www.nytimes.com/2026/11/12/opinion/mind-reading-ai.html) |
+| 2026-11-11 | Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang’s Future as CEO | NYT · AI | AI | news | 2026-11-12 | [link](https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html) |
+| 2026-11-11 | Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O. | NYT · Technology | Technology | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html) |
+| 2026-11-11 | What Is Congress’s Plan to Speed Up Energy Permits? | NYT · Energy & Environment | Energy & Environment | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html) |
+| 2026-11-11 | Republicans Have Two Paths Out of This. They’d Better Choose Wisely. | NYT · Opinion | Opinion | opinion | 2026-11-11 | [link](https://www.nytimes.com/2026/11/11/opinion/post-trump-republicans.html) |
+| 2026-11-11 | What to Know About Nvidia’s Investigation of CEO Jensen Huang | NYT · Technology | Technology | news | 2026-11-12 | [link](https://www.nytimes.com/article/nvidia-investigation-jensen-huang.html) |
+| 2026-11-11 | A Diminished Justice Dept. Braces for Fresh Fights After Midterm Loss | NYT · Politics | Politics | news | 2026-11-11 | [link](https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html) |
+| 2026-11-11 | Nvidia’s Board Is Weighing Jensen Huang’s Future | NYT · AI | AI | news | 2026-11-12 | [link](https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html) |
+| 2026-11-11 | Hospitals Brace for Medicaid Work Rules and Deep Funding Cuts | NYT · Business | Business | news | 2026-11-11 | [link](https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html) |
+| 2026-11-11 | A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed | NYT · Technology | Technology | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html) |
+| 2026-11-11 | What Jensen Huang’s Potential Ouster Could Mean for A.I. | NYT · AI | AI | news | 2026-11-12 | [link](https://www.nytimes.com/2026/11/12/podcasts/the-daily/jensen-huang-nvidia-affairs.html) |
+| 2026-11-11 | The Best Possible A.I. Catastrophe | NYT · AI | AI | news | 2026-11-12 | [link](https://www.nytimes.com/2026/11/12/podcasts/ai-catastrophe-josh-tyrangiel.html) |
+| 2026-11-11 | How the Legacy of Torture Has Vexed the Quest for 9/11 Justice | NYT · Politics | Politics | news | 2026-11-12 | [link](https://www.nytimes.com/2026/11/12/us/politics/torture-9-11.html) |
+| 2026-11-11 | The First Thing Democrats Should Do to Show They’re Serious on Affordability | NYT · Opinion | Opinion | opinion | 2026-11-12 | [link](https://www.nytimes.com/2026/11/12/opinion/democrats-congress-affordability-reform.html) |
+| 2026-11-11 | The View From Space the U.S. Government Doesn’t Want You to See | NYT · Opinion | Opinion | opinion | 2026-11-11 | [link](https://www.nytimes.com/2026/11/11/opinion/satellite-images-us-government.html) |
+| 2026-11-11 | Google-backed Tapestry completes deployment of HyperQ AI platform for PJM's Cycle 1 interconnection  | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-11 | [link](https://www.datacenterdynamics.com/en/news/google-backed-tapestry-completes-deployment-of-hyperq-ai-platform-for-pjms-cycle-1-interconnection-review/) |
+| 2026-11-11 | LCL partners with Wellen Real Estate on rooftop solar project in Antwerp, Belgium | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-11 | [link](https://www.datacenterdynamics.com/en/news/lcl-partners-with-wellen-real-estate-on-rooftop-solar-project-in-antwerp-belgium/) |
+| 2026-11-11 | The Dynamo-Electric Principle: 160 Years of Powering Industry | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-11-11 | [link](https://spectrum.ieee.org/innomotics-electric-motors-drive-systems) |
+| 2026-11-11 | No home left behind: Scaling VPP participation while maintaining customer control | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-11 | [link](https://www.utilitydive.com/news/no-home-left-behind-scaling-vpp-participation-while-maintaining-customer-c/873474/) |
+| 2026-11-11 | llm 0.37.2 | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-11 | [link](https://simonwillison.net/2026/Nov/11/llm/) |
+| 2026-11-11 | Browse tools.simonwillison.net by tag | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-11 | [link](https://simonwillison.net/2026/Nov/11/tools-tags/) |
+| 2026-11-11 | What the midterms mean for data center developers in PJM | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-11 | [link](https://www.latitudemedia.com/news/what-the-midterms-mean-for-data-center-developers-in-pjm/) |
+| 2026-11-11 | Constellation pursues hybrid capacity contracts alongside nuclear uprates | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-11 | [link](https://www.utilitydive.com/news/constellation-pursues-hybrid-nuclearcapacity-contracts-alongside-uprates/874408/) |
+| 2026-11-11 | Who Runs the Ransomware Group Qilin? | Krebs on Security · Security & Privacy | Security | tech | 2026-11-11 | [link](https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/) |
+| 2026-11-11 | HowTo: Fix Eufy HomeBase 2 Storage Full Issues | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-11-11 | [link](https://shkspr.mobi/blog/2026/11/howto-fix-eufy-homebase-2-storage-full-issues/) |
+| 2026-11-11 | ‘Dangerous or Unusual’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-11 | [link](https://www.nytimes.com/interactive/2026/11/10/us/supreme-court-guns-misquote.html?unlocked_article_code=1.PlE.-Nhp.CaLpsgMqdWf3) |
+| 2026-11-11 | Apple Shutters Their Longstanding ‘Apple Support Community’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-11 | [link](https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead/) |
+| 2026-11-11 | Guys Fable 5.2 is INSANE | Reddit | Business | social | 2026-11-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xt4fap/guys_fable_52_is_insane/) |
+| 2026-11-11 | Fable 5.2 maxed its usage to make this video | Reddit | Business | social | 2026-11-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xt3m47/fable_52_maxed_its_usage_to_make_this_video/) |
+| 2026-11-11 | Claude helped me organize my legal database into a public archive with 300,000 searchable military b | Reddit | Business | social | 2026-11-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xt44ar/claude_helped_me_organize_my_legal_database_into/) |
+| 2026-11-11 | I built a tiny Windows taskbar widget with Claude Code that shows your Claude 5h and weekly usage ne | Reddit | Business | social | 2026-11-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xte9be/i_built_a_tiny_windows_taskbar_widget_with_claude/) |
+| 2026-11-11 | Getting 3 free fable rst for anniversary | Reddit | Business | social | 2026-11-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xtle19/getting_3_free_fable_rst_for_anniversary/) |
+| 2026-11-11 | Heads up: Claude Code's "don't ask again" has been leaking secrets into public repos | Reddit | Business | social | 2026-11-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xtx4ik/heads_up_claude_codes_dont_ask_again_has_been/) |
+| 2026-11-11 | Show us what you've created with Claude! | Reddit | Business | social | 2026-11-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xtv0sh/show_us_what_youve_created_with_claude/) |
+| 2026-11-11 | Claude can now open apps like Asana, Canva and Vercel inside the chat and work in them (rolling out, | Reddit | Business | social | 2026-11-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xt7krc/claude_can_now_open_apps_like_asana_canva_and/) |
+| 2026-11-11 | I just realized Batman was basically running Claude on his Batcomputer since the 60s | Reddit | Business | social | 2026-11-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xto5x5/i_just_realized_batman_was_basically_running/) |
+| 2026-11-11 | How are you guys coming up with these random DIY projects? | Reddit | Business | social | 2026-11-11 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xthqj0/how_are_you_guys_coming_up_with_these_random_diy/) |
+| 2026-11-11 | Claude + Unity + Atlas. The start of a little found footage game | Reddit | Business | social | 2026-11-11 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xttxlr/claude_unity_atlas_the_start_of_a_little_found/) |
+| 2026-11-11 | I made my Home Assistant dashboard a 3D dollhouse of my home with Opus 5.5 | Reddit | Business | social | 2026-11-11 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xtssot/i_made_my_home_assistant_dashboard_a_3d_dollhouse/) |
+| 2026-11-11 | Lean proof of the entire US tax code to find loopholes | Reddit | Business | social | 2026-11-11 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xt3wnv/lean_proof_of_the_entire_us_tax_code_to_find/) |
+| 2026-11-11 | Opus 5.5 on the API: same prompts, same settings, ~60% more output tokens per call since mid-October | Reddit | Business | social | 2026-11-11 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xtlc9v/opus_55_on_the_api_same_prompts_same_settings_60/) |
+| 2026-11-11 | I’ve noticed Fable 5.2 just feels… off? | Reddit | Business | social | 2026-11-11 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xtbvob/ive_noticed_fable_52_just_feels_off/) |
+| 2026-11-11 | Solo levelling system (actually looks like the system 😂) | Reddit | Business | social | 2026-11-11 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xtrd7o/solo_levelling_system_actually_looks_like_the/) |
+| 2026-11-11 | More love for obsidian bases - I made a little demo vid to spread the love | Reddit | Business | social | 2026-11-11 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xt52qo/more_love_for_obsidian_bases_i_made_a_little_demo/) |
+| 2026-11-11 | Why does Obsidian have separate Search and Browse tabs instead of a search bar on the file browser? | Reddit | Business | social | 2026-11-11 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xtpegm/why_does_obsidian_have_separate_search_and_browse/) |
+| 2026-11-11 | What is your longest note, in terms of word length and why that can't be broken into smaller ones? | Reddit | Business | social | 2026-11-11 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xthmfp/what_is_your_longest_note_in_terms_of_word_length/) |
+| 2026-11-11 | Regrets and Breakthroughs | Reddit | Business | social | 2026-11-11 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xtttuo/regrets_and_breakthroughs/) |
+| 2026-11-11 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-10 | Smart home devices should work without the internet | HN | Technology | tech | 2026-11-10 | [link](https://docodethatmatters.com/home-automation-overnight-success/) |
 | 2026-11-10 | .name Grandfathered | HN | Technology | tech | 2026-11-10 | [link](https://neil.fraser.name/news/2026/11/10/) |
 | 2026-11-10 | Amazon saves millions by replacing Sonnet 4.6 with Strands Decider | HN | Technology | tech | 2026-11-10 | [link](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/) |
