@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-12 · 545 days · 5450 stories*
+*Last updated: 2026-11-13 · 546 days · 5460 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-12 | Thursday | 1 | Jensen Huang resigns | 3599 | 3168 | Technology | [link](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) · [HN](https://news.ycombinator.com/item?id=50467087) |
+| 2026-11-12 | Thursday | 2 | Anthropic IPO | 941 | 869 | Technology | [link](https://ipo.anthropic.com/us/) · [HN](https://news.ycombinator.com/item?id=50465829) |
+| 2026-11-12 | Thursday | 3 | Service degradation on Microsoft 365 | 925 | 803 | Technology | [link](https://status.cloud.microsoft/) · [HN](https://news.ycombinator.com/item?id=50471731) |
+| 2026-11-12 | Thursday | 4 | Rust 1.100 | 701 | 262 | Technology | [link](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) · [HN](https://news.ycombinator.com/item?id=50472038) |
+| 2026-11-12 | Thursday | 5 | Nvidia employees petition to bring back Jensen Huang | 616 | 456 | Technology | [link](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/) · [HN](https://news.ycombinator.com/item?id=50477231) |
+| 2026-11-12 | Thursday | 6 | Show HN: My $300 embroidery machine needed a subscription, so I built my own app | 539 | 185 | Technology | [link](https://github.com/simpsoka/zigzag) · [HN](https://news.ycombinator.com/item?id=50470488) |
+| 2026-11-12 | Thursday | 7 | Gemini 4 Hydrogen | 532 | 334 | Technology | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) · [HN](https://news.ycombinator.com/item?id=50471431) |
+| 2026-11-12 | Thursday | 8 | Gemini 4 Hydrogen and Orchestrator | 422 | 117 | Technology | [link](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/) · [HN](https://news.ycombinator.com/item?id=50472260) |
+| 2026-11-12 | Thursday | 9 | Ask HN: Microsoft/Azure Outage? | 402 | 1 | Technology | [link](https://news.ycombinator.com/item?id=50471668) · [HN](https://news.ycombinator.com/item?id=50471668) |
+| 2026-11-12 | Thursday | 10 | "Humble Bundle just killed most of their security through vibecoding" | 384 | 228 | Technology | [link](https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/) · [HN](https://news.ycombinator.com/item?id=50463899) |
 | 2026-11-11 | Wednesday | 1 | Tim Peters has died | 1230 | 135 | Technology | [link](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) · [HN](https://news.ycombinator.com/item?id=50450488) |
 | 2026-11-11 | Wednesday | 2 | Nvidia is preparing to oust Jensen Huang | 1051 | 1414 | Technology | [link](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) · [HN](https://news.ycombinator.com/item?id=50459703) |
 | 2026-11-11 | Wednesday | 3 | My AI agents found an unmapped Maya site? | 995 | 365 | Technology | [link](https://pietromiotti.com/latest/maya-site) · [HN](https://news.ycombinator.com/item?id=50452455) |

@@ -1,9 +1,69 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-12 · 11004 items*
+*Last updated: 2026-11-13 · 11064 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-11-12 | Jensen Huang resigns | HN | Technology | tech | 2026-11-12 | [link](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) |
+| 2026-11-12 | Anthropic IPO | HN | Technology | tech | 2026-11-12 | [link](https://ipo.anthropic.com/us/) |
+| 2026-11-12 | Service degradation on Microsoft 365 | HN | Technology | tech | 2026-11-12 | [link](https://status.cloud.microsoft/) |
+| 2026-11-12 | Rust 1.100 | HN | Technology | tech | 2026-11-12 | [link](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) |
+| 2026-11-12 | Nvidia employees petition to bring back Jensen Huang | HN | Technology | tech | 2026-11-12 | [link](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/) |
+| 2026-11-12 | Show HN: My $300 embroidery machine needed a subscription, so I built my own app | HN | Technology | tech | 2026-11-12 | [link](https://github.com/simpsoka/zigzag) |
+| 2026-11-12 | Gemini 4 Hydrogen | HN | Technology | tech | 2026-11-12 | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) |
+| 2026-11-12 | Gemini 4 Hydrogen and Orchestrator | HN | Technology | tech | 2026-11-12 | [link](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/) |
+| 2026-11-12 | Ask HN: Microsoft/Azure Outage? | HN | Technology | tech | 2026-11-12 | [link](https://news.ycombinator.com/item?id=50471668) |
+| 2026-11-12 | "Humble Bundle just killed most of their security through vibecoding" | HN | Technology | tech | 2026-11-12 | [link](https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/) |
+| 2026-11-12 | I'm making LLMs work on small and old devices | HN | Technology | tech | 2026-11-12 | [link](https://github.com/hyperionaidev/smolmaxxing/) |
+| 2026-11-12 | Jensen Huang resigns as Nvidia CEO immediately | HN | Technology | tech | 2026-11-12 | [link](https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/) |
+| 2026-11-12 | Writing correct software is hard and math alone won’t help us (2016) | HN | Technology | tech | 2026-11-12 | [link](https://pron.github.io/posts/correctness-and-complexity) |
+| 2026-11-12 | Dwarf planet candidate appears which takes roughly 280 years to orbit our sun | HN | Technology | tech | 2026-11-12 | [link](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/) |
+| 2026-11-12 | Rust 1.100 | HN | Technology | tech | 2026-11-12 | [link](https://github.com/rust-lang/rust/releases/tag/1.100.0) |
+| 2026-11-12 | Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep | HN | Technology | tech | 2026-11-12 | [link](https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep) |
+| 2026-11-12 | Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew | NYT · AI | AI | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html) |
+| 2026-11-12 | With Jensen Huang Gone, the A.I. Industry Loses Its Most Powerful Backer in Washington | NYT · AI | AI | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/12/technology/huang-ai-policy-washington.html) |
+| 2026-11-12 | Fed Will Not Hold Policy Vote at October 2027 Meeting | NYT · Economy | Economy | news | 2026-11-12 | [link](https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html) |
+| 2026-11-12 | Looking Past Nvidia Turmoil, Stocks Log Best Week in Months | NYT · AI | AI | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html) |
+| 2026-11-12 | Nvidia Stock Tumbles After Jensen Huang Resigns as CEO | NYT · Technology | Technology | news | 2026-11-12 | [link](https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html) |
+| 2026-11-12 | Want to Short a Stock? Kalshi and C.T.F.C. Allow It as ‘Perpetual Trades.’ | NYT · Business | Business | news | 2026-11-12 | [link](https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html) |
+| 2026-11-12 | Data Centers Will Continue to Be Built, Despite Midterm Elections | NYT · Technology | Technology | news | 2026-11-12 | [link](https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html) |
+| 2026-11-12 | The Worst Thing Democrats Could Do Right Now | NYT · AI | AI | opinion | 2026-11-13 | [link](https://www.nytimes.com/2026/11/13/opinion/democrats-trump-congress.html) |
+| 2026-11-12 | Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang’s Future as CEO | NYT · Business | Business | news | 2026-11-12 | [link](https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html) |
+| 2026-11-12 | Republicans Have Two Paths Out of This. They’d Better Choose Wisely. | NYT · Opinion | Opinion | opinion | 2026-11-12 | [link](https://www.nytimes.com/2026/11/11/opinion/post-trump-republicans.html) |
+| 2026-11-12 | Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him | NYT · Technology | Technology | news | 2026-11-12 | [link](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html) |
+| 2026-11-12 | Jensen Huang’s Fall Is Bad for Nvidia but Good for America | NYT · AI | AI | opinion | 2026-11-13 | [link](https://www.nytimes.com/2026/11/13/opinion/jensen-huang-nvidia.html) |
+| 2026-11-12 | What Is Congress’s Plan to Speed Up Energy Permits? | NYT · Energy & Environment | Energy & Environment | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html) |
+| 2026-11-12 | Jensen Huang Resigns From Nvidia After Affairs | NYT · Technology | Technology | news | 2026-11-12 | [link](https://www.nytimes.com/2026/11/12/technology/nvidia-jensen-huang.html) |
+| 2026-11-12 | What to Know About the Turmoil at Nvidia as Jensen Huang Resigns as C.E.O. | NYT · Technology | Technology | news | 2026-11-12 | [link](https://www.nytimes.com/article/nvidia-investigation-jensen-huang.html) |
+| 2026-11-12 | Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O. | NYT · Technology | Technology | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html) |
+| 2026-11-12 | Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills | NYT · Energy & Environment | Energy & Environment | news | 2026-11-09 | [link](https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html) |
+| 2026-11-12 | Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job | NYT · AI | AI | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html) |
+| 2026-11-12 | House Passes Competing Veterans Bills in a Fight Over Funding | NYT · Politics | Politics | news | 2026-11-12 | [link](https://www.nytimes.com/2026/11/12/us/politics/house-veterans-benefits-bill-funding.html) |
+| 2026-11-12 | I Saw the Future of Mind-Reading | NYT · Opinion | Opinion | opinion | 2026-11-12 | [link](https://www.nytimes.com/2026/11/12/opinion/mind-reading-ai.html) |
+| 2026-11-12 | Ousted Nvidia CEO Jensen Huang accused of third affair, with another staffer | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-12 | [link](https://www.datacenterdynamics.com/en/news/ousted-nvidia-ceo-jensen-huang-accused-of-third-affair-with-another-staffer/) |
+| 2026-11-12 | The energy fallout of Nvidia’s CEO shakeup | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-12 | [link](https://www.latitudemedia.com/news/the-energy-fall-out-of-nvidias-ceo-shakeup/) |
+| 2026-11-12 | Is nuclear finally moving faster? | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-12 | [link](https://www.latitudemedia.com/news/is-nuclear-finally-moving-faster/) |
+| 2026-11-12 | Data centers could lower your electricity bill. Will utilities let them? | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-12 | [link](https://www.utilitydive.com/news/data-centers-could-lower-your-electricity-bill-but-will-utilities-let-them/873144/) |
+| 2026-11-12 | As coal burn declines, rising power demand will be primarily met by renewables: EIA | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-12 | [link](https://www.utilitydive.com/news/as-coal-burn-declines-rising-power-demand-will-be-primarily-met-by-renewab/874315/) |
+| 2026-11-12 | CHILLS teaches data centers to keep their flexibility private | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-12 | [link](https://www.latitudemedia.com/news/chills-teaches-data-centers-to-keep-their-flexibility-private/) |
+| 2026-11-12 | llm-gemini 0.37 | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-12 | [link](https://simonwillison.net/2026/Nov/12/llm-gemini/) |
+| 2026-11-12 | Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-11-12 | [link](https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/) |
+| 2026-11-12 | My game got removed from gamedev subs for using AI, so here’s exactly how I made it with Claude | Reddit | Business | social | 2026-11-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xul18m/my_game_got_removed_from_gamedev_subs_for_using/) |
+| 2026-11-12 | Are we not allowed to even ask basic biology questions? | Reddit | Business | social | 2026-11-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xuhanm/are_we_not_allowed_to_even_ask_basic_biology/) |
+| 2026-11-12 | I disclosed every AI-made part of my solo game on Steam. The disclaimer is one of the main things pe | Reddit | Business | social | 2026-11-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xus0wz/i_disclosed_every_aimade_part_of_my_solo_game_on/) |
+| 2026-11-12 | Introducing Claude Meetings | Reddit | Business | social | 2026-11-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xunrsl/introducing_claude_meetings/) |
+| 2026-11-12 | Opus 5.5 / Fable 5.2: An animated toy town you can fall into: every train, bus and tram in this film | Reddit | Business | social | 2026-11-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xuaulq/opus_55_fable_52_an_animated_toy_town_you_can/) |
+| 2026-11-12 | Fable 5.2 built this scene in Blender | Reddit | Business | social | 2026-11-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xu4r5m/fable_52_built_this_scene_in_blender/) |
+| 2026-11-12 | Claude refuses to touch copywritten works | Reddit | Business | social | 2026-11-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xuho9b/claude_refuses_to_touch_copywritten_works/) |
+| 2026-11-12 | I hate how Claude formulates responses, they are very hard to read | Reddit | Business | social | 2026-11-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xusj0t/i_hate_how_claude_formulates_responses_they_are/) |
+| 2026-11-12 | I built "Lump," a quirky desk creature who shows me what Claude is doing, so I don't miss anything | Reddit | Business | social | 2026-11-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xumt47/i_built_lump_a_quirky_desk_creature_who_shows_me/) |
+| 2026-11-12 | Will They Nerf Fable 5.2? LiveNerf Day 3 Update for Fable 5.2 | Reddit | Business | social | 2026-11-12 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xu01lm/will_they_nerf_fable_52_livenerf_day_3_update_for/) |
+| 2026-11-12 | Obsidian 1.15.1 (public): Relevance search, Android widgets, Web viewer for mobile, and more | Reddit | Business | social | 2026-11-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xug865/obsidian_1151_public_relevance_search_android/) |
+| 2026-11-12 | Magazine Rack: a magazine-style front page for your feeds, inside a note | Reddit | Business | social | 2026-11-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xus1yr/magazine_rack_a_magazinestyle_front_page_for_your/) |
+| 2026-11-12 | Paper DOI - Save metadata + PDF directly within Obsidian | Reddit | Business | social | 2026-11-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xuh67f/paper_doi_save_metadata_pdf_directly_within/) |
+| 2026-11-12 | Made a plugin for Obsidian that syncs Kindle clippings with Calibre and opens the book side-by-side  | Reddit | Business | social | 2026-11-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xuk645/made_a_plugin_for_obsidian_that_syncs_kindle/) |
+| 2026-11-12 | My vault studying Patton's 3rd Army in Aug-Sep 1944, and Patton's not even half of the references! | Reddit | Business | social | 2026-11-12 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xtz7yj/my_vault_studying_pattons_3rd_army_in_augsep_1944/) |
+| 2026-11-12 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-11 | Tim Peters has died | HN | Technology | tech | 2026-11-11 | [link](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) |
 | 2026-11-11 | Nvidia is preparing to oust Jensen Huang | HN | Technology | tech | 2026-11-11 | [link](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) |
 | 2026-11-11 | My AI agents found an unmapped Maya site? | HN | Technology | tech | 2026-11-11 | [link](https://pietromiotti.com/latest/maya-site) |
