@@ -1,9 +1,77 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-13 · 11064 items*
+*Last updated: 2026-11-14 · 11132 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-11-13 | FAA issues national ground stop – lifted 4.5 hours later | HN | Technology | tech | 2026-11-13 | [link](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247) |
+| 2026-11-13 | LibreOffice actually works 365 days a year | HN | Technology | tech | 2026-11-13 | [link](https://twitter.com/LibreOffice/status/2121205272479998268) |
+| 2026-11-13 | Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs | HN | Technology | tech | 2026-11-13 | [link](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) |
+| 2026-11-13 | Elevated errors on claude.ai, Claude Code, and platform.claude.com | HN | Technology | tech | 2026-11-13 | [link](https://status.claude.com/incidents/nn11wk485zfn) |
+| 2026-11-13 | Doomsday: Friday, 13 November, A.D. 2026 (1960) | HN | Technology | tech | 2026-11-13 | [link](https://www.science.org/doi/10.1126/science.132.3436.1291) |
+| 2026-11-13 | Microsoft Outlook/365 still down after 12 hours | HN | Technology | tech | 2026-11-13 | [link](https://twitter.com/MSFT365Status/status/2121079061774491735) |
+| 2026-11-13 | AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems | HN | Technology | tech | 2026-11-13 | [link](https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths) |
+| 2026-11-13 | Jonathan Blow – If AI solved coding, why is my software still the same? [video] | HN | Technology | tech | 2026-11-13 | [link](https://www.youtube.com/watch?v=IRK8h67ol7Q) |
+| 2026-11-13 | $11.4M in Nvidia hardware vanishes during shipment from CA to TX | HN | Technology | tech | 2026-11-13 | [link](https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas) |
+| 2026-11-13 | It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad | HN | Technology | tech | 2026-11-13 | [link](https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/) |
+| 2026-11-13 | AI is destroying the trust between writers and readers | HN | Technology | tech | 2026-11-13 | [link](https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/) |
+| 2026-11-13 | Terminal borders that don't cost a cell | HN | Technology | tech | 2026-11-13 | [link](https://www.joshka.net/cell-borders/) |
+| 2026-11-13 | Ggml v1.0.0 | HN | Technology | tech | 2026-11-13 | [link](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) |
+| 2026-11-13 | Global Microsoft Outage | HN | Technology | tech | 2026-11-13 | [link](https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk) |
+| 2026-11-13 | Live airband on all frequencies from KORS. Victoria, CA also ground stopped | HN | Technology | tech | 2026-11-13 | [link](https://orcasairband.com/) |
+| 2026-11-13 | Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks | HN | Technology | tech | 2026-11-13 | [link](https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html) |
+| 2026-11-13 | Jensen Huang’s Fall Is a Dark Consequence of What’s Happening in Silicon Valley | NYT · AI | AI | opinion | 2026-11-14 | [link](https://www.nytimes.com/2026/11/14/opinion/jensen-huang-donald-trump-silicon-valley.html) |
+| 2026-11-13 | Howard Lutnick Has Got to Go | NYT · AI | AI | opinion | 2026-11-14 | [link](https://www.nytimes.com/2026/11/13/opinion/jensen-huang-nvidia-howard-lutnick-commerce.html) |
+| 2026-11-13 | Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers | NYT · Technology | Technology | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html) |
+| 2026-11-13 | With Jensen Huang Gone, the A.I. Industry Loses Its Most Powerful Backer in Washington | NYT · Technology | Technology | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/12/technology/huang-ai-policy-washington.html) |
+| 2026-11-13 | Wall Street Makes Its Pitch for Anthropic’s I.P.O. | NYT · AI | AI | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html) |
+| 2026-11-13 | Jensen Huang’s Resignation From Nvidia Worries the A.I. Start-Up World | NYT · Technology | Technology | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html) |
+| 2026-11-13 | Microsoft Says Outage Disrupting Outlook Is Improving | NYT · Technology | Technology | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html) |
+| 2026-11-13 | Inside Microsoft’s Rush to Get Back Online After a Global Outage | NYT · AI | AI | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/13/business/microsoft-outage.html) |
+| 2026-11-13 | Nvidia Scandal Prompts Questions of What It Means to Be a Spy | NYT · AI | AI | news | 2026-11-14 | [link](https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html) |
+| 2026-11-13 | Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew | NYT · Technology | Technology | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html) |
+| 2026-11-13 | Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted | NYT · Business | Business | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html) |
+| 2026-11-13 | Wall Street Braces for Anthropic’s Spending | NYT · Technology | Technology | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html) |
+| 2026-11-13 | Republicans Have Two Paths Out of This. They’d Better Choose Wisely. | NYT · Opinion | Opinion | opinion | 2026-11-13 | [link](https://www.nytimes.com/2026/11/11/opinion/post-trump-republicans.html) |
+| 2026-11-13 | Trump Signals New Strategy on Iran: A Waiting Game | NYT · Politics | Politics | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html) |
+| 2026-11-13 | Nvidia Lost Its Founding C.E.O. Can It Keep Its Momentum? | NYT · Technology | Technology | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/13/technology/nvidia-ceo-jen-huang-loss.html) |
+| 2026-11-13 | Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed | NYT · Economy | Economy | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html) |
+| 2026-11-13 | What Is Congress’s Plan to Speed Up Energy Permits? | NYT · Energy & Environment | Energy & Environment | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html) |
+| 2026-11-13 | Goodbye, Mr. Chips | NYT · AI | AI | opinion | 2026-11-14 | [link](https://www.nytimes.com/2026/11/14/opinion/huang-trump-lutnick-bessent.html) |
+| 2026-11-13 | Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O. | NYT · Technology | Technology | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html) |
+| 2026-11-13 | As Congress Plans Investigations, White House Prepares Ferocious Response | NYT · Politics | Politics | news | 2026-11-14 | [link](https://www.nytimes.com/2026/11/14/us/politics/congress-trump-investigations.html) |
+| 2026-11-13 | Engineer Overhead Lines to Withstand Ice, Wind and FreezingRain | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-11-13 | [link](https://content.knowledgehub.wiley.com/engineering-overhead-electric-lines-for-ice-wind-and-freezing-rain/) |
+| 2026-11-13 | Integrated data center infrastructure | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-13 | [link](https://www.datacenterdynamics.com/en/whitepapers/integrated-data-center-infrastructure/) |
+| 2026-11-13 | ASIC ambition | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-13 | [link](https://www.datacenterdynamics.com/en/analysis/asic-custom-silicon-amazon-arm-meta/) |
+| 2026-11-13 | Quantifying the state of AI power development post-midterms | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-13 | [link](https://www.latitudemedia.com/news/quantifying-the-state-of-ai-power-development-post-midterms/) |
+| 2026-11-13 | What’s next for California’s climate laws following an appeals court split decision | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-13 | [link](https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/) |
+| 2026-11-13 | Utility, tech officials see opportunities to increase grid utilization | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-13 | [link](https://www.utilitydive.com/news/utility-tech-officials-see-opportunities-to-increase-grid-utilization/874644/) |
+| 2026-11-13 | Inside Jensen Huang’s Final Hours as the CEO of Nvidia | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-13 | [link](https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0NzgxNSwiZXhwIjoxNzk1MTUyNjE1LCJhcnRpY2xlSWQiOiJUT0YxQVBOM04wOUIwMCIsImJjb25uZWN0SWQiOiI1RkQyNjU1NTA2QTI0NjM2QjM1NzBEQkQ5MTY1RkI1NCJ9.8RulazBTaUuCgwysfQ4dlu-dhQIe3yvK-2UHLcm3hWc&leadSource=article-gifting) |
+| 2026-11-13 | Microsoft, and Its Customers, Are Suffering a Global Cloud Outage | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-13 | [link](https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/) |
+| 2026-11-13 | Gadget Review: Thermal Master P3 Lite - and Linux Instructions ★★★★⯪ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-11-13 | [link](https://shkspr.mobi/blog/2026/11/gadget-review-thermal-master-p3-lite-p2-max-and-linux-instructions/) |
+| 2026-11-13 | datasette-cluster-map 0.19 | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-13 | [link](https://simonwillison.net/2026/Nov/13/datasette-cluster-map/) |
+| 2026-11-13 | datasette-leaflet 0.3 | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-13 | [link](https://simonwillison.net/2026/Nov/13/datasette-leaflet/) |
+| 2026-11-13 | Fable 5.2 painting in MS Paint | Reddit | Business | social | 2026-11-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xvghd1/fable_52_painting_in_ms_paint/) |
+| 2026-11-13 | hopital | Reddit | Business | social | 2026-11-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xv3qfi/hopital/) |
+| 2026-11-13 | Dumbest way to burn credits | Reddit | Business | social | 2026-11-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xv0vte/dumbest_way_to_burn_credits/) |
+| 2026-11-13 | PSA: Using Fable as an advisor doesn’t touch your Fable weekly limit | Reddit | Business | social | 2026-11-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xvnq0t/psa_using_fable_as_an_advisor_doesnt_touch_your/) |
+| 2026-11-13 | Anthropic are discouraging using Fable as a coordinator for Projects | Reddit | Business | social | 2026-11-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xuuabz/anthropic_are_discouraging_using_fable_as_a/) |
+| 2026-11-13 | Is it just me or is Claude really bad at researching online? | Reddit | Business | social | 2026-11-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xvnjsb/is_it_just_me_or_is_claude_really_bad_at/) |
+| 2026-11-13 | Anthropic’s IPO is reportedly 6x oversubscribed... the biggest AI market test yet | Reddit | Business | social | 2026-11-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xutknf/anthropics_ipo_is_reportedly_6x_oversubscribed/) |
+| 2026-11-13 | Claude Code limits in a desktop pet | Reddit | Business | social | 2026-11-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xveugv/claude_code_limits_in_a_desktop_pet/) |
+| 2026-11-13 | What would you do if there's a Claude outage? | Reddit | Business | social | 2026-11-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xuzlpu/what_would_you_do_if_theres_a_claude_outage/) |
+| 2026-11-13 | Isn’t it funny how quickly people who were extremely anti AI changed their mind the second it create | Reddit | Business | social | 2026-11-13 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xut32q/isnt_it_funny_how_quickly_people_who_were/) |
+| 2026-11-13 | 10 years of Postgres expertise and the agent knows it better now | Reddit | Business | social | 2026-11-13 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xv6v7h/10_years_of_postgres_expertise_and_the_agent/) |
+| 2026-11-13 | you are not running out faster , the weekly usage limit is shirking ~[ 20% drop ] | Reddit | Business | social | 2026-11-13 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xvb26p/you_are_not_running_out_faster_the_weekly_usage/) |
+| 2026-11-13 | It's about time for Claude to have passwords and 2fa rather than email verification. | Reddit | Business | social | 2026-11-13 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xv04uo/its_about_time_for_claude_to_have_passwords_and/) |
+| 2026-11-13 | Astra is dogshit compared to Opus | Reddit | Business | social | 2026-11-13 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xvjr1b/astra_is_dogshit_compared_to_opus/) |
+| 2026-11-13 | 10 minutes of work, 60 minutes of testing | Reddit | Business | social | 2026-11-13 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xvdm7w/10_minutes_of_work_60_minutes_of_testing/) |
+| 2026-11-13 | Are you paying for Obsidian sync? | Reddit | Business | social | 2026-11-13 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xuylrc/are_you_paying_for_obsidian_sync/) |
+| 2026-11-13 | Lorebase 4.0.0 is coming | Reddit | Business | social | 2026-11-13 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xvjg0y/lorebase_400_is_coming/) |
+| 2026-11-13 | MuseScore integration for Obsidian | Reddit | Business | social | 2026-11-13 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xv8v1i/musescore_integration_for_obsidian/) |
+| 2026-11-13 | Professional typesetting and rendering with Obsidian? | Reddit | Business | social | 2026-11-13 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xv349i/professional_typesetting_and_rendering_with/) |
+| 2026-11-13 | does anyone know if obsidian support epub extension natively? | Reddit | Business | social | 2026-11-13 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xve250/does_anyone_know_if_obsidian_support_epub/) |
+| 2026-11-13 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-12 | Jensen Huang resigns | HN | Technology | tech | 2026-11-12 | [link](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) |
 | 2026-11-12 | Anthropic IPO | HN | Technology | tech | 2026-11-12 | [link](https://ipo.anthropic.com/us/) |
 | 2026-11-12 | Service degradation on Microsoft 365 | HN | Technology | tech | 2026-11-12 | [link](https://status.cloud.microsoft/) |

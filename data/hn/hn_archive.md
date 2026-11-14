@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-13 · 546 days · 5460 stories*
+*Last updated: 2026-11-14 · 547 days · 5470 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-13 | Friday | 1 | FAA issues national ground stop – lifted 4.5 hours later | 1585 | 1205 | Technology | [link](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247) · [HN](https://news.ycombinator.com/item?id=50489641) |
+| 2026-11-13 | Friday | 2 | LibreOffice actually works 365 days a year | 901 | 277 | Technology | [link](https://twitter.com/LibreOffice/status/2121205272479998268) · [HN](https://news.ycombinator.com/item?id=50486482) |
+| 2026-11-13 | Friday | 3 | Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs | 784 | 465 | Technology | [link](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) · [HN](https://news.ycombinator.com/item?id=50493251) |
+| 2026-11-13 | Friday | 4 | Elevated errors on claude.ai, Claude Code, and platform.claude.com | 489 | 387 | Technology | [link](https://status.claude.com/incidents/nn11wk485zfn) · [HN](https://news.ycombinator.com/item?id=50481187) |
+| 2026-11-13 | Friday | 5 | Doomsday: Friday, 13 November, A.D. 2026 (1960) | 480 | 331 | Technology | [link](https://www.science.org/doi/10.1126/science.132.3436.1291) · [HN](https://news.ycombinator.com/item?id=50482379) |
+| 2026-11-13 | Friday | 6 | Microsoft Outlook/365 still down after 12 hours | 467 | 308 | Technology | [link](https://twitter.com/MSFT365Status/status/2121079061774491735) · [HN](https://news.ycombinator.com/item?id=50478609) |
+| 2026-11-13 | Friday | 7 | AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems | 403 | 101 | Technology | [link](https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths) · [HN](https://news.ycombinator.com/item?id=50486748) |
+| 2026-11-13 | Friday | 8 | Jonathan Blow – If AI solved coding, why is my software still the same? [video] | 366 | 495 | Technology | [link](https://www.youtube.com/watch?v=IRK8h67ol7Q) · [HN](https://news.ycombinator.com/item?id=50484658) |
+| 2026-11-13 | Friday | 9 | $11.4M in Nvidia hardware vanishes during shipment from CA to TX | 363 | 197 | Technology | [link](https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas) · [HN](https://news.ycombinator.com/item?id=50487864) |
+| 2026-11-13 | Friday | 10 | It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad | 357 | 198 | Technology | [link](https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/) · [HN](https://news.ycombinator.com/item?id=50487522) |
 | 2026-11-12 | Thursday | 1 | Jensen Huang resigns | 3599 | 3168 | Technology | [link](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) · [HN](https://news.ycombinator.com/item?id=50467087) |
 | 2026-11-12 | Thursday | 2 | Anthropic IPO | 941 | 869 | Technology | [link](https://ipo.anthropic.com/us/) · [HN](https://news.ycombinator.com/item?id=50465829) |
 | 2026-11-12 | Thursday | 3 | Service degradation on Microsoft 365 | 925 | 803 | Technology | [link](https://status.cloud.microsoft/) · [HN](https://news.ycombinator.com/item?id=50471731) |
