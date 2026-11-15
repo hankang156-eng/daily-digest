@@ -1,9 +1,73 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-14 · 11132 items*
+*Last updated: 2026-11-15 · 11196 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-11-14 | SpaceX catches the Starship to end Flight 15 | HN | Technology | tech | 2026-11-14 | [link](https://www.spacex.com/launches/starship-flight-15) |
+| 2026-11-14 | Lovable apps expose passport details and more than 200K private messages | HN | Technology | tech | 2026-11-14 | [link](https://www.crissyfield.de/research/lovable-en/) |
+| 2026-11-14 | Tech companies are trying to shift the concept of privacy again | HN | Technology | tech | 2026-11-14 | [link](https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again) |
+| 2026-11-14 | KDE: The documentary [video] | HN | Technology | tech | 2026-11-14 | [link](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c) |
+| 2026-11-14 | Nvidia deliberately kept GPU prices high through circular financing deals | HN | Technology | tech | 2026-11-14 | [link](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html) |
+| 2026-11-14 | Italy fines Meta $887M over Android users' data access | HN | Technology | tech | 2026-11-14 | [link](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/) |
+| 2026-11-14 | A family tree of software job titles | HN | Technology | tech | 2026-11-14 | [link](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/) |
+| 2026-11-14 | Project Zero will disclose vulnerabilities 90 days after reporting | HN | Technology | tech | 2026-11-14 | [link](https://projectzero.google/2026/11/disclosure-policy.html) |
+| 2026-11-14 | LinkedIn, Monster take down over 1000 fake job postings after CBC investigation | HN | Technology | tech | 2026-11-14 | [link](https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379) |
+| 2026-11-14 | PyPI's redesigned project pages with clearer security signals are now live | HN | Technology | tech | 2026-11-14 | [link](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) |
+| 2026-11-14 | Show HN: DeepSeek V3 in ~200 lines of pure Jax | HN | Technology | tech | 2026-11-14 | [link](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax) |
+| 2026-11-14 | We're Asking an Appeals Court to Require a Warrant for ALPR Searches | HN | Technology | tech | 2026-11-14 | [link](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches) |
+| 2026-11-14 | How did Woz write the Apple 1 BASIC before building the computer? | HN | Technology | tech | 2026-11-14 | [link](https://retrocomputing.stackexchange.com/questions/17957) |
+| 2026-11-14 | Advancing science and engineering with Antigravity's /teamwork | HN | Technology | tech | 2026-11-14 | [link](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/) |
+| 2026-11-14 | Court denies motion to dismiss DRAM price fixing case | HN | Technology | tech | 2026-11-14 | [link](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal) |
+| 2026-11-14 | US IRS free online tax filing open source repo (2025) | HN | Technology | tech | 2026-11-14 | [link](https://github.com/IRS-Public/direct-file) |
+| 2026-11-14 | Jensen Huang’s Fall Is a Dark Consequence of What’s Happening in Silicon Valley | NYT · AI | AI | opinion | 2026-11-14 | [link](https://www.nytimes.com/2026/11/14/opinion/jensen-huang-donald-trump-silicon-valley.html) |
+| 2026-11-14 | Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business | NYT · AI | AI | news | 2026-11-15 | [link](https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html) |
+| 2026-11-14 | Despite Nvidia’s Drop, Stocks Push Ahead | NYT · Business | Business | news | 2026-11-14 | [link](https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html) |
+| 2026-11-14 | When Tech ‘Upgrades’ Go Awry | NYT · AI | AI | news | 2026-11-15 | [link](https://www.nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html) |
+| 2026-11-14 | Wall Street Makes Its Pitch for Anthropic’s I.P.O. | NYT · Business | Business | news | 2026-11-14 | [link](https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html) |
+| 2026-11-14 | Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers | NYT · Technology | Technology | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html) |
+| 2026-11-14 | With Jensen Huang Gone, the A.I. Industry Loses Its Most Powerful Backer in Washington | NYT · Technology | Technology | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/12/technology/huang-ai-policy-washington.html) |
+| 2026-11-14 | Howard Lutnick Has Got to Go | NYT · Opinion | Opinion | opinion | 2026-11-14 | [link](https://www.nytimes.com/2026/11/13/opinion/jensen-huang-nvidia-howard-lutnick-commerce.html) |
+| 2026-11-14 | 5 Big Questions as C.E.O.s Meet in China | NYT · AI | AI | news | 2026-11-14 | [link](https://www.nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html) |
+| 2026-11-14 | Jensen Huang’s Resignation From Nvidia Worries the A.I. Start-Up World | NYT · Technology | Technology | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html) |
+| 2026-11-14 | Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System | NYT · Business | Business | news | 2026-11-14 | [link](https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html) |
+| 2026-11-14 | Fed Will Not Hold Policy Vote at October 2027 Meeting | NYT · Economy | Economy | news | 2026-11-12 | [link](https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html) |
+| 2026-11-14 | The Flaw at the Heart of Anthropic’s I.P.O. | NYT · AI | AI | opinion | 2026-11-15 | [link](https://www.nytimes.com/video/opinion/100000011276375/the-flaw-at-the-heart-of-anthropics-ipo.html) |
+| 2026-11-14 | A Campus Sexual Assault Lawsuit Tests an Unusual Legal Strategy | NYT · U.S. | U.S. | news | 2026-11-15 | [link](https://www.nytimes.com/2026/11/15/us/sexual-assault-lawsuit-texas-christian-university-consumer-protection.html) |
+| 2026-11-14 | Republicans Have Two Paths Out of This. They’d Better Choose Wisely. | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-11-13 | [link](https://www.nytimes.com/2026/11/11/opinion/post-trump-republicans.html) |
+| 2026-11-14 | Nvidia Stock Tumbles After Jensen Huang Resigns as CEO | NYT · Technology | Technology | news | 2026-11-12 | [link](https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html) |
+| 2026-11-14 | Wall Street Braces for Anthropic’s Spending | NYT · Technology | Technology | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html) |
+| 2026-11-14 | Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall. | NYT · AI | AI | news | 2026-11-14 | [link](https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html) |
+| 2026-11-14 | Nvidia Scandal Prompts Questions of What It Means to Be a Spy | NYT · Politics | Politics | news | 2026-11-14 | [link](https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html) |
+| 2026-11-14 | What Is Congress’s Plan to Speed Up Energy Permits? | NYT · Energy & Environment | Energy & Environment | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html) |
+| 2026-11-14 | Sponsored: When the pressure heats up, what really cools servers down? | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-14 | [link](https://www.datacenterdynamics.com/en/marketwatch/when-the-pressure-heats-up-what-really-cools-servers-down/) |
+| 2026-11-14 | Developer Westend Real Assets buys two data centers in Hamburg | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-14 | [link](https://www.datacenterdynamics.com/en/news/developer-westend-real-assets-buys-two-data-centers-in-hamburg/) |
+| 2026-11-14 | Microsoft Says Cloud Outage Was ‘Not Related to Cyber or AI / Agents’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-14 | [link](https://x.com/microsoft/status/2121282013600907325) |
+| 2026-11-14 | Patrick McGee on Johny Srouji and Nvidia | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-14 | [link](https://x.com/patrickmcgee_/status/2120799867140550999) |
+| 2026-11-14 | datasette-llm 0.1a11 | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-14 | [link](https://simonwillison.net/2026/Nov/14/datasette-llm/) |
+| 2026-11-14 | Theatre Review: FrankenTacit ★★☆☆☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-11-14 | [link](https://shkspr.mobi/blog/2026/11/theatre-review-frankentacit/) |
+| 2026-11-14 | datasette-vega 0.7 | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-14 | [link](https://simonwillison.net/2026/Nov/14/datasette-vega/) |
+| 2026-11-14 | I built a swimmable underwater world in one 97 KB HTML file with Fable 5.2 | Reddit | Business | social | 2026-11-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xw376f/i_built_a_swimmable_underwater_world_in_one_97_kb/) |
+| 2026-11-14 | Ppl keep asking for local Opus 5.5. This is local Opus 5.5 | Reddit | Business | social | 2026-11-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xwcmj3/ppl_keep_asking_for_local_opus_55_this_is_local/) |
+| 2026-11-14 | Imagine | Reddit | Business | social | 2026-11-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xw0pbo/imagine/) |
+| 2026-11-14 | Anthropic has opened up Claude Mythos access to the public. | Reddit | Business | social | 2026-11-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xwguid/anthropic_has_opened_up_claude_mythos_access_to/) |
+| 2026-11-14 | Another Claude Painting | Reddit | Business | social | 2026-11-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xvzair/another_claude_painting/) |
+| 2026-11-14 | Outside of coding and such, is Claude always a narc / loser? | Reddit | Business | social | 2026-11-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xwftge/outside_of_coding_and_such_is_claude_always_a/) |
+| 2026-11-14 | I made a Minecraft mod with Claude: press B and the whole world turns into toy bricks | Reddit | Business | social | 2026-11-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xwgbxr/i_made_a_minecraft_mod_with_claude_press_b_and/) |
+| 2026-11-14 | Claude Fable 5.2 is included with Pro until November 16 | Reddit | Business | social | 2026-11-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xw1u7g/claude_fable_52_is_included_with_pro_until/) |
+| 2026-11-14 | I gave 5 models the same one-paragraph prompt every day for 3 weeks and published whatever came back | Reddit | Business | social | 2026-11-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xwfxy6/i_gave_5_models_the_same_oneparagraph_prompt/) |
+| 2026-11-14 | Thanks Anthropic | Reddit | Business | social | 2026-11-14 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xvo89j/thanks_anthropic/) |
+| 2026-11-14 | Meetings in 2027: | Reddit | Business | social | 2026-11-14 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xwac8j/meetings_in_2027/) |
+| 2026-11-14 | I just got scolded by Claude | Reddit | Business | social | 2026-11-14 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xw2a1l/i_just_got_scolded_by_claude/) |
+| 2026-11-14 | We just need Opus 5.5, but 5x faster. Then I am set for life. Nothing else is needed | Reddit | Business | social | 2026-11-14 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xw0pwm/we_just_need_opus_55_but_5x_faster_then_i_am_set/) |
+| 2026-11-14 | I spent 4,500+ hours coding with AI. This is the Claude Code setup I ended up with. | Reddit | Business | social | 2026-11-14 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xw7ylh/i_spent_4500_hours_coding_with_ai_this_is_the/) |
+| 2026-11-14 | Pleading with the non-engineers (or less experienced ones) using Claude Code and complaining about t | Reddit | Business | social | 2026-11-14 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xvz27v/pleading_with_the_nonengineers_or_less/) |
+| 2026-11-14 | Obsidian 1.15.1 loads very fast | Reddit | Business | social | 2026-11-14 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xwc2r3/obsidian_1151_loads_very_fast/) |
+| 2026-11-14 | So happy with my first ever dashboard! | Reddit | Business | social | 2026-11-14 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xvojlf/so_happy_with_my_first_ever_dashboard/) |
+| 2026-11-14 | My obsidian graph after using it for around a year | Reddit | Business | social | 2026-11-14 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xwa3jl/my_obsidian_graph_after_using_it_for_around_a_year/) |
+| 2026-11-14 | New to Obsidian — how do you decide which community plugins to trust? | Reddit | Business | social | 2026-11-14 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xwetc1/new_to_obsidian_how_do_you_decide_which_community/) |
+| 2026-11-14 | Is there a plugin or app that does dictation cleanup properly? | Reddit | Business | social | 2026-11-14 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xw26yc/is_there_a_plugin_or_app_that_does_dictation/) |
+| 2026-11-14 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-13 | FAA issues national ground stop – lifted 4.5 hours later | HN | Technology | tech | 2026-11-13 | [link](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247) |
 | 2026-11-13 | LibreOffice actually works 365 days a year | HN | Technology | tech | 2026-11-13 | [link](https://twitter.com/LibreOffice/status/2121205272479998268) |
 | 2026-11-13 | Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs | HN | Technology | tech | 2026-11-13 | [link](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) |

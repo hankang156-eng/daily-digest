@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-14 · 547 days · 5470 stories*
+*Last updated: 2026-11-15 · 548 days · 5480 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-14 | Saturday | 1 | SpaceX catches the Starship to end Flight 15 | 1253 | 850 | Technology | [link](https://www.spacex.com/launches/starship-flight-15) · [HN](https://news.ycombinator.com/item?id=50500963) |
+| 2026-11-14 | Saturday | 2 | Lovable apps expose passport details and more than 200K private messages | 843 | 319 | Technology | [link](https://www.crissyfield.de/research/lovable-en/) · [HN](https://news.ycombinator.com/item?id=50499017) |
+| 2026-11-14 | Saturday | 3 | Tech companies are trying to shift the concept of privacy again | 553 | 190 | Technology | [link](https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again) · [HN](https://news.ycombinator.com/item?id=50496602) |
+| 2026-11-14 | Saturday | 4 | KDE: The documentary [video] | 487 | 107 | Technology | [link](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c) · [HN](https://news.ycombinator.com/item?id=50496976) |
+| 2026-11-14 | Saturday | 5 | Nvidia deliberately kept GPU prices high through circular financing deals | 425 | 216 | Technology | [link](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html) · [HN](https://news.ycombinator.com/item?id=50501631) |
+| 2026-11-14 | Saturday | 6 | Italy fines Meta $887M over Android users' data access | 381 | 285 | Technology | [link](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/) · [HN](https://news.ycombinator.com/item?id=50497009) |
+| 2026-11-14 | Saturday | 7 | A family tree of software job titles | 321 | 157 | Technology | [link](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/) · [HN](https://news.ycombinator.com/item?id=50499038) |
+| 2026-11-14 | Saturday | 8 | Project Zero will disclose vulnerabilities 90 days after reporting | 259 | 129 | Technology | [link](https://projectzero.google/2026/11/disclosure-policy.html) · [HN](https://news.ycombinator.com/item?id=50496051) |
+| 2026-11-14 | Saturday | 9 | LinkedIn, Monster take down over 1000 fake job postings after CBC investigation | 253 | 150 | Technology | [link](https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379) · [HN](https://news.ycombinator.com/item?id=50499723) |
+| 2026-11-14 | Saturday | 10 | PyPI's redesigned project pages with clearer security signals are now live | 246 | 103 | Technology | [link](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) · [HN](https://news.ycombinator.com/item?id=50497892) |
 | 2026-11-13 | Friday | 1 | FAA issues national ground stop – lifted 4.5 hours later | 1585 | 1205 | Technology | [link](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247) · [HN](https://news.ycombinator.com/item?id=50489641) |
 | 2026-11-13 | Friday | 2 | LibreOffice actually works 365 days a year | 901 | 277 | Technology | [link](https://twitter.com/LibreOffice/status/2121205272479998268) · [HN](https://news.ycombinator.com/item?id=50486482) |
 | 2026-11-13 | Friday | 3 | Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs | 784 | 465 | Technology | [link](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) · [HN](https://news.ycombinator.com/item?id=50493251) |
