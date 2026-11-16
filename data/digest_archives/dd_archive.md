@@ -1,9 +1,72 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-15 · 11196 items*
+*Last updated: 2026-11-16 · 11259 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-11-15 | All AI-generated code should be Open Source | HN | Technology | tech | 2026-11-15 | [link](https://jakub.jankiewicz.org/blog/ai-code-open-source/) |
+| 2026-11-15 | Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests | HN | Technology | tech | 2026-11-15 | [link](https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html) |
+| 2026-11-15 | Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business | HN | Technology | tech | 2026-11-15 | [link](https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html) |
+| 2026-11-15 | The MacBook Pro's OLED PWM problem | HN | Technology | tech | 2026-11-15 | [link](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) |
+| 2026-11-15 | Qwen4-Max | HN | Technology | tech | 2026-11-15 | [link](https://qwen.ai/blog?id=qwen4-max) |
+| 2026-11-15 | Universal XSS in uBlock Origin from website-driven element picker | HN | Technology | tech | 2026-11-15 | [link](https://iter.ca/post/ubo-uxss/) |
+| 2026-11-15 | Protomaps: Self-hosting map tiles has gotten cheap and easy | HN | Technology | tech | 2026-11-15 | [link](https://bruceroettgers.eu/blog/protomaps/) |
+| 2026-11-15 | Handwriting, as a Font | HN | Technology | tech | 2026-11-15 | [link](https://ductus.sorenblank.com) |
+| 2026-11-15 | Old Bitly links are being hijacked | HN | Technology | tech | 2026-11-15 | [link](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) |
+| 2026-11-15 | What's Next for Nvidia? | HN | Technology | tech | 2026-11-15 | [link](https://steveblank.com/2026/11/15/whats-next-for-nvidia/) |
+| 2026-11-15 | Why did some Apollo missions carry a grenade launcher? (2019) | HN | Technology | tech | 2026-11-15 | [link](https://space.stackexchange.com/questions/37775) |
+| 2026-11-15 | Things That Turbo Pascal Is Smaller Than (2011) | HN | Technology | tech | 2026-11-15 | [link](https://prog21.dadgum.com/116.html) |
+| 2026-11-15 | Crows make decisions faster than we can | HN | Technology | tech | 2026-11-15 | [link](https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html) |
+| 2026-11-15 | A short explainer on how El Niño works [video] | HN | Technology | tech | 2026-11-15 | [link](https://www.youtube.com/watch?v=7_JF3etiAv8) |
+| 2026-11-15 | Understanding Positional Embeddings in Modern LLMs | HN | Technology | tech | 2026-11-15 | [link](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings) |
+| 2026-11-15 | Emacs Is My Browser | HN | Technology | tech | 2026-11-15 | [link](https://joshblais.com/blog/emacs-as-my-browser/) |
+| 2026-11-15 | Permitting Bill Would Charge Data Centers Billions for Power | NYT · AI | AI | news | 2026-11-16 | [link](https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html) |
+| 2026-11-15 | The Financial Bubble Cycles Are Getting Worse | NYT · AI | AI | opinion | 2026-11-16 | [link](https://www.nytimes.com/2026/11/16/opinion/ai-bubble-finance-crisis-deregulation.html) |
+| 2026-11-15 | The Flaw at the Heart of Anthropic’s I.P.O. | NYT · AI | AI | opinion | 2026-11-15 | [link](https://www.nytimes.com/2026/11/15/opinion/anthropic-ipo-ai-investors.html) |
+| 2026-11-15 | Billions in Insurance Money Is Being Bet on AI Debt, and Analyst Are Nervous | NYT · AI | AI | news | 2026-11-16 | [link](https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html) |
+| 2026-11-15 | Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business | NYT · Economy | Economy | news | 2026-11-15 | [link](https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-nvidia-cantor-fitzgerald.html) |
+| 2026-11-15 | Wall Street Braces for Anthropic’s Spending | NYT · Technology | Technology | news | 2026-11-16 | [link](https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html) |
+| 2026-11-15 | Wall Street Moved Into Insurance. Can State Regulators Keep Up? | NYT · Business | Business | news | 2026-11-16 | [link](https://www.nytimes.com/2026/11/16/business/insurance-regulators-wall-street.html) |
+| 2026-11-15 | A Human Reads the Anthropic I.P.O. Filing | NYT · Business | Business | news | 2026-11-15 | [link](https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html) |
+| 2026-11-15 | What to Know About Trump’s Trip to Asia | NYT · AI | AI | news | 2026-11-16 | [link](https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html) |
+| 2026-11-15 | A Campus Sexual Assault Lawsuit Tests an Unusual Legal Strategy | NYT · U.S. | U.S. | news | 2026-11-15 | [link](https://www.nytimes.com/2026/11/15/us/sexual-assault-lawsuit-texas-christian-university-consumer-protection.html) |
+| 2026-11-15 | Jensen Huang’s Downfall Brings Disbelief in Taiwan | NYT · Business | Business | news | 2026-11-15 | [link](https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html) |
+| 2026-11-15 | Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers | NYT · Technology | Technology | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html) |
+| 2026-11-15 | With Jensen Huang Gone, the A.I. Industry Loses Its Most Powerful Backer in Washington | NYT · Technology | Technology | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/12/technology/huang-ai-policy-washington.html) |
+| 2026-11-15 | Democrats Will Wield Enormous Power in Statehouses. What Will They Do? | NYT · Politics | Politics | news | 2026-11-16 | [link](https://www.nytimes.com/2026/11/16/us/politics/democrats-state-government-control-priorities.html) |
+| 2026-11-15 | Jensen Huang’s Resignation From Nvidia Worries the A.I. Start-Up World | NYT · Technology | Technology | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html) |
+| 2026-11-15 | How Sam Bankman-Fried Lost Out on a $35 Billion Jackpot From Anthropic | NYT · AI | AI | news | 2026-11-16 | [link](https://www.nytimes.com/2026/11/16/technology/sam-bankman-fried-anthropic.html) |
+| 2026-11-15 | Too Many Chips in One Basket? | NYT · AI | AI | news | 2026-11-16 | [link](https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html) |
+| 2026-11-15 | The Eat-What-You-Kill System That Rules Big Law | NYT · Opinion | Opinion | opinion | 2026-11-16 | [link](https://www.nytimes.com/2026/11/16/opinion/big-law-firms-competition.html) |
+| 2026-11-15 | Jensen Huang’s Fall Is a Dark Consequence of What’s Happening in Silicon Valley | NYT · Opinion | Opinion | opinion | 2026-11-14 | [link](https://www.nytimes.com/2026/11/14/opinion/jensen-huang-donald-trump-silicon-valley.html) |
+| 2026-11-15 | What Is Congress’s Plan to Speed Up Energy Permits? | NYT · Energy & Environment | Energy & Environment | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html) |
+| 2026-11-15 | Airsys invests in digital boiler startup ThermAI | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-15 | [link](https://www.datacenterdynamics.com/en/news/airsys-invests-in-digital-boiler-startup-thermai/) |
+| 2026-11-15 | datasette 1.0a43 | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-15 | [link](https://simonwillison.net/2026/Nov/15/datasette/) |
+| 2026-11-15 | datasette-apps 0.4a0 | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-15 | [link](https://simonwillison.net/2026/Nov/15/datasette-apps/) |
+| 2026-11-15 | Variable Electricity Pricing - the Highs and the Lows | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-11-15 | [link](https://shkspr.mobi/blog/2026/11/variable-electricity-pricing-the-highs-and-the-lows/) |
+| 2026-11-15 | The Legion of PCAST | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-15 | [link](https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/) |
+| 2026-11-15 | WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-15 | [link](https://www.workos.com/airlock?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026) |
+| 2026-11-15 | Claude wrote and trained a language model for DOS that fits on a floppy disk | Reddit | Business | social | 2026-11-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xwpenj/claude_wrote_and_trained_a_language_model_for_dos/) |
+| 2026-11-15 | The latest Claude Desktop update in one picture | Reddit | Business | social | 2026-11-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xx5iam/the_latest_claude_desktop_update_in_one_picture/) |
+| 2026-11-15 | This new benchmark is crazy | Reddit | Business | social | 2026-11-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xwz9yf/this_new_benchmark_is_crazy/) |
+| 2026-11-15 | Claude refused to cancel his work even tho he (probably) knew it was illegal | Reddit | Business | social | 2026-11-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xx70to/claude_refused_to_cancel_his_work_even_tho_he/) |
+| 2026-11-15 | For those who asked | Reddit | Business | social | 2026-11-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xwlfsn/for_those_who_asked/) |
+| 2026-11-15 | I couldn’t even grow parsley. So I asked Claude for help… and things got a little out of hand ! | Reddit | Business | social | 2026-11-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xwvzv1/i_couldnt_even_grow_parsley_so_i_asked_claude_for/) |
+| 2026-11-15 | I built a web racing game for my vinyl business in 1 week without Fable | Reddit | Business | social | 2026-11-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xwkoz4/i_built_a_web_racing_game_for_my_vinyl_business/) |
+| 2026-11-15 | Have mercy on a blind person | Reddit | Business | social | 2026-11-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xws6tg/have_mercy_on_a_blind_person/) |
+| 2026-11-15 | Huge follow-up to my LEGO Minecraft mod made with Claude: it now plays like the LEGO games and has a | Reddit | Business | social | 2026-11-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xwuj21/huge_followup_to_my_lego_minecraft_mod_made_with/) |
+| 2026-11-15 | I used Claude to fix Dead Space (2023) and got featured on Wccftech and Digital Foundry | Reddit | Business | social | 2026-11-15 | [link](https://www.reddit.com/r/ClaudeAI/comments/1xwla0c/i_used_claude_to_fix_dead_space_2023_and_got/) |
+| 2026-11-15 | Exactly 2,5 years ago... big advancements since then | Reddit | Business | social | 2026-11-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xx08wz/exactly_25_years_ago_big_advancements_since_then/) |
+| 2026-11-15 | I stopped babysitting Claude Code. A lamp does it now. | Reddit | Business | social | 2026-11-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xwk66v/i_stopped_babysitting_claude_code_a_lamp_does_it/) |
+| 2026-11-15 | No, YOU check the ui. | Reddit | Business | social | 2026-11-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xwmtbx/no_you_check_the_ui/) |
+| 2026-11-15 | ok F*** It, I finally bought the Ultra plan | Reddit | Business | social | 2026-11-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xwzos6/ok_f_it_i_finally_bought_the_ultra_plan/) |
+| 2026-11-15 | PSA: Superpowers skill with opus ruined my codebase | Reddit | Business | social | 2026-11-15 | [link](https://www.reddit.com/r/ClaudeCode/comments/1xwmeln/psa_superpowers_skill_with_opus_ruined_my_codebase/) |
+| 2026-11-15 | Ardoise, a calm theme that's easy on the eyes | Reddit | Business | social | 2026-11-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xx3t24/ardoise_a_calm_theme_thats_easy_on_the_eyes/) |
+| 2026-11-15 | What is this part of the app called? | Reddit | Business | social | 2026-11-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xwygim/what_is_this_part_of_the_app_called/) |
+| 2026-11-15 | Made Acid Xerox, a high-contrast theme for Obsidian | Reddit | Business | social | 2026-11-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xx4rb1/made_acid_xerox_a_highcontrast_theme_for_obsidian/) |
+| 2026-11-15 | What does your academic setup look like? | Reddit | Business | social | 2026-11-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xx1qzm/what_does_your_academic_setup_look_like/) |
+| 2026-11-15 | How does this help you with productivity? | Reddit | Business | social | 2026-11-15 | [link](https://www.reddit.com/r/ObsidianMD/comments/1xwzehl/how_does_this_help_you_with_productivity/) |
+| 2026-11-15 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-14 | SpaceX catches the Starship to end Flight 15 | HN | Technology | tech | 2026-11-14 | [link](https://www.spacex.com/launches/starship-flight-15) |
 | 2026-11-14 | Lovable apps expose passport details and more than 200K private messages | HN | Technology | tech | 2026-11-14 | [link](https://www.crissyfield.de/research/lovable-en/) |
 | 2026-11-14 | Tech companies are trying to shift the concept of privacy again | HN | Technology | tech | 2026-11-14 | [link](https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again) |

@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-15 · 548 days · 5480 stories*
+*Last updated: 2026-11-16 · 549 days · 5490 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-15 | Sunday | 1 | All AI-generated code should be Open Source | 1166 | 616 | Technology | [link](https://jakub.jankiewicz.org/blog/ai-code-open-source/) · [HN](https://news.ycombinator.com/item?id=50507303) |
+| 2026-11-15 | Sunday | 2 | Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests | 532 | 231 | Technology | [link](https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html) · [HN](https://news.ycombinator.com/item?id=50509411) |
+| 2026-11-15 | Sunday | 3 | Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business | 496 | 229 | Technology | [link](https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html) · [HN](https://news.ycombinator.com/item?id=50506180) |
+| 2026-11-15 | Sunday | 4 | The MacBook Pro's OLED PWM problem | 483 | 260 | Technology | [link](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) · [HN](https://news.ycombinator.com/item?id=50506719) |
+| 2026-11-15 | Sunday | 5 | Qwen4-Max | 483 | 197 | Technology | [link](https://qwen.ai/blog?id=qwen4-max) · [HN](https://news.ycombinator.com/item?id=50513215) |
+| 2026-11-15 | Sunday | 6 | Universal XSS in uBlock Origin from website-driven element picker | 347 | 95 | Technology | [link](https://iter.ca/post/ubo-uxss/) · [HN](https://news.ycombinator.com/item?id=50513160) |
+| 2026-11-15 | Sunday | 7 | Protomaps: Self-hosting map tiles has gotten cheap and easy | 329 | 56 | Technology | [link](https://bruceroettgers.eu/blog/protomaps/) · [HN](https://news.ycombinator.com/item?id=50509837) |
+| 2026-11-15 | Sunday | 8 | Handwriting, as a Font | 281 | 51 | Technology | [link](https://ductus.sorenblank.com) · [HN](https://news.ycombinator.com/item?id=50509972) |
+| 2026-11-15 | Sunday | 9 | Old Bitly links are being hijacked | 279 | 144 | Technology | [link](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) · [HN](https://news.ycombinator.com/item?id=50511395) |
+| 2026-11-15 | Sunday | 10 | What's Next for Nvidia? | 254 | 323 | Technology | [link](https://steveblank.com/2026/11/15/whats-next-for-nvidia/) · [HN](https://news.ycombinator.com/item?id=50512235) |
 | 2026-11-14 | Saturday | 1 | SpaceX catches the Starship to end Flight 15 | 1253 | 850 | Technology | [link](https://www.spacex.com/launches/starship-flight-15) · [HN](https://news.ycombinator.com/item?id=50500963) |
 | 2026-11-14 | Saturday | 2 | Lovable apps expose passport details and more than 200K private messages | 843 | 319 | Technology | [link](https://www.crissyfield.de/research/lovable-en/) · [HN](https://news.ycombinator.com/item?id=50499017) |
 | 2026-11-14 | Saturday | 3 | Tech companies are trying to shift the concept of privacy again | 553 | 190 | Technology | [link](https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again) · [HN](https://news.ycombinator.com/item?id=50496602) |
