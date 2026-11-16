@@ -382,7 +382,9 @@ def _load_archive_month(year: int, month: int, api_key: str) -> list[dict[str, A
         response.raise_for_status()
         docs = (response.json().get("response") or {}).get("docs") or []
     except Exception as exc:
-        logging.warning("[Archive] %04d-%02d fetch failed: %s", year, month, exc)
+        # NYT takes the key only as ?api-key=, and requests echoes URLs in errors.
+        message = re.sub(r"(api-key=)[^&\s'\"()]+", r"\1REDACTED", str(exc))
+        logging.warning("[Archive] %04d-%02d fetch failed: %s", year, month, message)
         return None
     today = dt.date.today()
     if (year, month) != (today.year, today.month):  # cache only complete past months

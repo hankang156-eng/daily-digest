@@ -486,6 +486,15 @@ def _nyt_search_word_count(url, api_key):
     return None
 
 
+_SECRET_QUERY_PARAM = re.compile(r"(?i)\b((?:api[-_]?)?key=)[^&\s'\"()]+")
+
+
+def _redact_secrets(text):
+    """Mask ?key= / ?api-key= values in error text before it is logged. NYT only
+    accepts its key as a query parameter, and requests echoes URLs in errors."""
+    return _SECRET_QUERY_PARAM.sub(r"\1REDACTED", str(text))
+
+
 def fetch_nyt_word_counts(urls):
     api_key = os.environ.get("NYT_API_KEY")
     urls = list(dict.fromkeys(url for url in urls if url))
@@ -496,7 +505,7 @@ def fetch_nyt_word_counts(urls):
         try:
             count = _nyt_search_word_count(url, api_key)
         except Exception as e:
-            print(f"  [Reading stats] NYT API error: {e}")
+            print(f"  [Reading stats] NYT API error: {_redact_secrets(e)}")
             break
         if count:
             counts[_normalize_url(url)] = count
@@ -733,10 +742,11 @@ def _gemini_generate(prompt, model, api_key, max_attempts=GEMINI_FALLBACK_ATTEMP
     last_error = None
     for attempt in range(max_attempts):
         _throttle_gemini()
+        # Key in a header, not ?key=: requests puts the URL into its exception
+        # messages, which land in the digest log.
         response = requests.post(
             f"{GEMINI_API_BASE}/{model}:generateContent",
-            params={"key": api_key},
-            headers={"Content-Type": "application/json"},
+            headers={"Content-Type": "application/json", "x-goog-api-key": api_key},
             json={
                 "contents": [{"role": "user", "parts": [{"text": prompt}]}],
                 "generationConfig": {
@@ -2523,6 +2533,27 @@ def _run_git(args):
     return True, result
 
 
+def _git_quiet(args):
+    """Run git without printing: for probes whose non-zero exit is the answer."""
+    return subprocess.run(
+        ["git", "-C", str(REPO_ROOT)] + args,
+        capture_output=True,
+        text=True,
+        timeout=45,
+    )
+
+
+def _unpushed_commit_count():
+    """Commits on HEAD not yet on origin/main, or None when that cannot be told."""
+    result = _git_quiet(["rev-list", "--count", "origin/main..HEAD"])
+    if result.returncode != 0:
+        return None
+    try:
+        return int((result.stdout or "0").strip() or 0)
+    except ValueError:
+        return None
+
+
 def _json_safe(value):
     if isinstance(value, (datetime.date, datetime.datetime)):
         return value.isoformat()
@@ -2670,15 +2701,24 @@ def push_to_github(date, config):
         return
     settings = config.get("settings", {})
     try:
-        files = github_pages_publish_files(date, settings)
+        # A file this run never wrote (a day with no content) would fail the whole
+        # `git add`, and with it the push of any commit still waiting to go out.
+        files = [
+            path for path in github_pages_publish_files(date, settings)
+            if (REPO_ROOT / path).exists()
+        ]
         ok, _ = _run_git(["add"] + files)
         if not ok:
             return
-        ok, result = _run_git(["commit", "-m", f"digest: {date.isoformat()}"])
-        if not ok:
-            text = f"{result.stdout}\n{result.stderr}".lower()
-            if "nothing to commit" in text:
-                print("  [GitHub] Nothing new to commit.")
+        if _git_quiet(["diff", "--cached", "--quiet"]).returncode != 0:
+            ok, _ = _run_git(["commit", "-m", f"digest: {date.isoformat()}"])
+            if not ok:
+                return
+        # Push even with nothing new to commit: an earlier run may have committed
+        # and then lost the network (a Mac waking from sleep), leaving the site
+        # behind until something else pushes.
+        if _unpushed_commit_count() == 0:
+            print("  [GitHub] Nothing new to publish.")
             return
         ok, _ = _run_git(["push", "origin", "main"])
         if ok:

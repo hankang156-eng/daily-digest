@@ -3,6 +3,11 @@
 # Daily Digest — runner script
 # Run manually from Terminal or by an automation.
 # Uses the virtual environment python if present, else system python3.
+#
+# The LaunchAgent passes --scheduled (consumed here, never forwarded). A
+# scheduled run exits early when today's digest is already built and published,
+# and gives up without touching anything when the network never comes up, so
+# the hourly slots in the plist act as retries.
 # ─────────────────────────────────────────────────────────────────────────────
 
 set -o pipefail
@@ -11,6 +16,62 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
 VENV_PYTHON="$REPO_ROOT/.venv/bin/python3"
 LOG_FILE="$REPO_ROOT/data/digest_archives/digest.log"
+
+# Exit code for "no network, try again at the next slot" (EX_TEMPFAIL).
+EXIT_RETRY_LATER=75
+
+# Keep the Mac awake for the whole run. When the Mac is asleep at 6:00, launchd
+# fires the job during a ~45s background maintenance wake; without a power
+# assertion the Mac drops back to sleep mid-run and the process freezes for
+# hours, resuming into a network that is not up yet. -w ties the assertion to
+# this shell, so it is released when the run exits.
+if command -v caffeinate >/dev/null 2>&1; then
+    caffeinate -i -s -w $$ &
+fi
+
+SCHEDULED=0
+FORWARD_ARGS=()
+for arg in "$@"; do
+    if [ "$arg" = "--scheduled" ]; then
+        SCHEDULED=1
+    else
+        FORWARD_ARGS+=("$arg")
+    fi
+done
+set -- "${FORWARD_ARGS[@]}"
+
+# The digest date is the user-facing --date if given, else today. The
+# comprehension pass keys off the same date so both halves describe one day.
+DIGEST_DATE=""
+PREV_ARG=""
+for arg in "$@"; do
+    case "$arg" in
+        --date=*) DIGEST_DATE="${arg#--date=}" ;;
+    esac
+    if [ "$PREV_ARG" = "--date" ]; then
+        DIGEST_DATE="$arg"
+    fi
+    PREV_ARG="$arg"
+done
+if [ -z "$DIGEST_DATE" ]; then
+    DIGEST_DATE="$(date +%Y-%m-%d)"
+fi
+
+# Built, companion page written, and nothing left unpushed.
+digest_is_complete() {
+    local day="$1" ahead
+    [ -f "$REPO_ROOT/output/daily_html/digest_$day.html" ] || return 1
+    [ -f "$REPO_ROOT/output/comprehension/comprehension_$day.html" ] || return 1
+    ahead="$(git -C "$REPO_ROOT" rev-list --count origin/main..HEAD 2>/dev/null)" || return 1
+    [ "$ahead" = "0" ]
+}
+
+# Later hourly slots are no-ops once the day is done. Stdout only (the
+# LaunchAgent's /tmp log), so the digest log is not padded with skips.
+if [ "$SCHEDULED" -eq 1 ] && digest_is_complete "$DIGEST_DATE"; then
+    echo "  [Schedule] $(date): $DIGEST_DATE is already built and published; nothing to do."
+    exit 0
+fi
 
 # Load API keys from a gitignored .env at the repo root, if present.
 # Covers manual and scheduled (LaunchAgent) runs since both invoke this script.
@@ -36,6 +97,9 @@ log "========================================"
 log "  Daily Digest run started: $(date)"
 log "  Workspace: $REPO_ROOT"
 log "  Log file:  $LOG_FILE"
+if [ "$SCHEDULED" -eq 1 ]; then
+    log "  Trigger:   scheduled (LaunchAgent)"
+fi
 log "========================================"
 
 # Pick python
@@ -46,33 +110,33 @@ else
 fi
 log "  Python: $PYTHON"
 
-# Wait for network/DNS to be ready. LaunchAgent fires on system wake before
-# WiFi/DNS settles -> all fetches fail with "nodename nor servname provided"
-# and the run silently preserves stale files. Probe HN as a canary; up to 60s.
-for i in 1 2 3 4 5 6 7 8 9 10 11 12; do
+# Wait for network/DNS. Wi-Fi and DNS often lag a wake, and without them every
+# fetch fails with "nodename nor servname provided" and the run produces
+# nothing. Probe HN as a canary. A scheduled run waits longer and, if the
+# network never comes up, stops so the next hourly slot can retry; a manual
+# run proceeds anyway, as before.
+NETWORK_WAIT=60
+if [ "$SCHEDULED" -eq 1 ]; then
+    NETWORK_WAIT=300
+fi
+NETWORK_READY=0
+SECONDS=0
+while :; do
     if curl -fsS --max-time 4 -o /dev/null https://news.ycombinator.com 2>/dev/null; then
-        log "  [Network] ready after $((i*5))s"
+        NETWORK_READY=1
+        log "  [Network] ready after ${SECONDS}s"
         break
     fi
-    [ "$i" -eq 12 ] && log "  [Network] still not ready after 60s; proceeding anyway"
+    [ "$SECONDS" -ge "$NETWORK_WAIT" ] && break
     sleep 5
 done
-
-# The digest date is the user-facing --date if given, else today. The
-# comprehension pass keys off the same date so both halves describe one day.
-DIGEST_DATE=""
-PREV_ARG=""
-for arg in "$@"; do
-    case "$arg" in
-        --date=*) DIGEST_DATE="${arg#--date=}" ;;
-    esac
-    if [ "$PREV_ARG" = "--date" ]; then
-        DIGEST_DATE="$arg"
+if [ "$NETWORK_READY" -eq 0 ]; then
+    if [ "$SCHEDULED" -eq 1 ]; then
+        log "  [Network] not ready after ${SECONDS}s; skipping this slot. The next hourly slot will retry."
+        log "  Run finished: $(date)"
+        exit "$EXIT_RETRY_LATER"
     fi
-    PREV_ARG="$arg"
-done
-if [ -z "$DIGEST_DATE" ]; then
-    DIGEST_DATE="$(date +%Y-%m-%d)"
+    log "  [Network] still not ready after ${SECONDS}s; proceeding anyway"
 fi
 
 # Ensure dependencies are installed (fast no-op if already present)
@@ -132,6 +196,9 @@ if [ "$DIGEST_STATUS" -eq 0 ]; then
     log "  [4/4] Daily digest completed successfully."
 else
     log "  [4/4] Daily digest failed with exit code $DIGEST_STATUS."
+fi
+if [ "$SCHEDULED" -eq 1 ] && ! digest_is_complete "$DIGEST_DATE"; then
+    log "  [Schedule] $DIGEST_DATE is not fully built and published yet; the next hourly slot will retry."
 fi
 log "  Run finished: $(date)"
 exit "$DIGEST_STATUS"

@@ -8,16 +8,23 @@
     <key>ProgramArguments</key>
     <array>
         <string>__RUNNER__</string>
+        <string>--scheduled</string>
     </array>
 
-    <!-- Run every day at 6:00 AM -->
+    <!-- Run at 6:00 AM, with hourly retry slots through 11:00 AM. With
+         scheduled set, run_digest.sh exits at once when the day's digest is
+         already built and published, so the later slots only matter when an
+         earlier one had no network or did not finish. A slot missed while
+         the Mac sleeps fires once at the next wake. -->
     <key>StartCalendarInterval</key>
-    <dict>
-        <key>Hour</key>
-        <integer>6</integer>
-        <key>Minute</key>
-        <integer>0</integer>
-    </dict>
+    <array>
+        <dict><key>Hour</key><integer>6</integer><key>Minute</key><integer>0</integer></dict>
+        <dict><key>Hour</key><integer>7</integer><key>Minute</key><integer>0</integer></dict>
+        <dict><key>Hour</key><integer>8</integer><key>Minute</key><integer>0</integer></dict>
+        <dict><key>Hour</key><integer>9</integer><key>Minute</key><integer>0</integer></dict>
+        <dict><key>Hour</key><integer>10</integer><key>Minute</key><integer>0</integer></dict>
+        <dict><key>Hour</key><integer>11</integer><key>Minute</key><integer>0</integer></dict>
+    </array>
 
     <key>StandardOutPath</key>
     <string>/tmp/com.michelle.dailydigest.out.log</string>

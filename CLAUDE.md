@@ -164,6 +164,16 @@ Do not hardcode the checkout path. Python modules should derive paths from `Path
 
 `scripts/com.michelle.dailydigest.plist` is a template. `scripts/setup_launchagent.sh` fills in the current repo path when installing it to `~/Library/LaunchAgents/`.
 
+## Scheduling on a Sleeping Mac
+
+The Mac is usually asleep at 6:00, so launchd fires the job during a ~45s background maintenance wake (DarkWake), when Wi-Fi/DNS is often down. Unhandled, that cost whole days: every fetch failed with `nodename nor servname provided`, the run logged "completed successfully" with nothing written, or the Mac slept mid-run and the process resumed hours later into a dead network, leaving a commit unpushed. The defenses, all in `run_digest.sh` and the plist:
+
+- `caffeinate -i -s -w $$` holds the Mac awake for the life of the run.
+- The plist passes `--scheduled` (consumed by the script, never forwarded) and fires hourly 6:00–11:00. A scheduled run exits at once when `digest_is_complete` holds — digest HTML and companion page exist for the day and `origin/main..HEAD` is empty — so later slots are retries, not reruns. When the network never comes up (5 min probe) it exits 75 without touching anything.
+- `push_to_github` pushes whenever the branch is ahead of `origin/main`, even with nothing new to commit, and drops not-yet-written files from `git add` so one missing file cannot fail the publish.
+
+A real scheduled wake (`sudo pmset repeat wake MTWRFSU 05:58:00`) is the user's call; it is a system setting.
+
 ## Safety Notes
 
 The main digest should preserve existing digest/index/archive files when network fetches fail or no real content is available.
