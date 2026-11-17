@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-16 · 549 days · 5490 stories*
+*Last updated: 2026-11-17 · 550 days · 5500 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-16 | Monday | 1 | Carnegie Mellon is putting computer science courses on YouTube for free | 1584 | 214 | Technology | [link](https://www.cs.cmu.edu/learn/) · [HN](https://news.ycombinator.com/item?id=50522980) |
+| 2026-11-16 | Monday | 2 | Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings | 898 | 534 | Technology | [link](http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/) · [HN](https://news.ycombinator.com/item?id=50517488) |
+| 2026-11-16 | Monday | 3 | How to make almost anything | 884 | 144 | Technology | [link](https://pub.cba.mit.edu/863.26/site/) · [HN](https://news.ycombinator.com/item?id=50514470) |
+| 2026-11-16 | Monday | 4 | Technical issue at JPMorgan Chase triggers online banking delays for US banks | 780 | 651 | Technology | [link](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda) · [HN](https://news.ycombinator.com/item?id=50521045) |
+| 2026-11-16 | Monday | 5 | Windows 11 is collecting data on which coding agents and developer tools you use | 620 | 474 | Technology | [link](https://xusheng.dev/posts/windows-coding-agent-telemetry/) · [HN](https://news.ycombinator.com/item?id=50524736) |
+| 2026-11-16 | Monday | 6 | BugMeNot has closed | 562 | 256 | Technology | [link](https://www.bugmenot.com/) · [HN](https://news.ycombinator.com/item?id=50523601) |
+| 2026-11-16 | Monday | 7 | Frame – 31.5" color ePaper display | 430 | 302 | Technology | [link](https://trmnl.com/blog/introducing-frame) · [HN](https://news.ycombinator.com/item?id=50519354) |
+| 2026-11-16 | Monday | 8 | Jiff 1.0: A datetime library for Rust | 388 | 87 | Technology | [link](https://burntsushi.net/jiff/) · [HN](https://news.ycombinator.com/item?id=50519744) |
+| 2026-11-16 | Monday | 9 | Optimizely compromised, served malware on Zoom, GitLab | 374 | 157 | Technology | [link](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/) · [HN](https://news.ycombinator.com/item?id=50524767) |
+| 2026-11-16 | Monday | 10 | Software is breaking down at a systemic level | 372 | 230 | Technology | [link](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/) · [HN](https://news.ycombinator.com/item?id=50520866) |
 | 2026-11-15 | Sunday | 1 | All AI-generated code should be Open Source | 1166 | 616 | Technology | [link](https://jakub.jankiewicz.org/blog/ai-code-open-source/) · [HN](https://news.ycombinator.com/item?id=50507303) |
 | 2026-11-15 | Sunday | 2 | Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests | 532 | 231 | Technology | [link](https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html) · [HN](https://news.ycombinator.com/item?id=50509411) |
 | 2026-11-15 | Sunday | 3 | Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business | 496 | 229 | Technology | [link](https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html) · [HN](https://news.ycombinator.com/item?id=50506180) |
