@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-17 · 550 days · 5500 stories*
+*Last updated: 2026-11-18 · 551 days · 5510 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-17 | Tuesday | 1 | GPT‑6.2 Astra and Sol | 1283 | 798 | Technology | [link](https://openai.com/index/introducing-gpt-6-2-astra-sol/) · [HN](https://news.ycombinator.com/item?id=50535230) |
+| 2026-11-17 | Tuesday | 2 | New Evidence Shows School Phone Bans Are Gradually Improving Test Scores | 1241 | 622 | Technology | [link](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html) · [HN](https://news.ycombinator.com/item?id=50530163) |
+| 2026-11-17 | Tuesday | 3 | Java4Shell: RCE in OpenJDK when processing Base64 | 964 | 246 | Technology | [link](https://calif.io/java4shell/) · [HN](https://news.ycombinator.com/item?id=50538240) |
+| 2026-11-17 | Tuesday | 4 | Apple Services Down | 692 | 391 | Technology | [link](https://developer.apple.com/system-status/) · [HN](https://news.ycombinator.com/item?id=50535238) |
+| 2026-11-17 | Tuesday | 5 | Quad9's withdrawal from France: A canary in the coal mine | 634 | 221 | Technology | [link](https://blog.cloudflare.com/quad9-withdrawal-from-france/) · [HN](https://news.ycombinator.com/item?id=50538994) |
+| 2026-11-17 | Tuesday | 6 | Highly classified US national security communications network goes down | 593 | 679 | Technology | [link](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down) · [HN](https://news.ycombinator.com/item?id=50532849) |
+| 2026-11-17 | Tuesday | 7 | Nvidia stopped disclosing Singapore sales as revenues hit $104B | 558 | 249 | Technology | [link](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf) · [HN](https://news.ycombinator.com/item?id=50534631) |
+| 2026-11-17 | Tuesday | 8 | Google's AI answers reducing search traffic by 40% | 425 | 311 | Technology | [link](https://revscope.co/blog/search-seo-geo-2026/) · [HN](https://news.ycombinator.com/item?id=50540178) |
+| 2026-11-17 | Tuesday | 9 | Phrack 73 | 390 | 53 | Technology | [link](https://phrack.org/issues/73/introduction_md) · [HN](https://news.ycombinator.com/item?id=50535992) |
+| 2026-11-17 | Tuesday | 10 | What is the best harness for each model? | 379 | 128 | Technology | [link](https://runta.com/blog/introducing-frontierharness-eval-v1-1/) · [HN](https://news.ycombinator.com/item?id=50532191) |
 | 2026-11-16 | Monday | 1 | Carnegie Mellon is putting computer science courses on YouTube for free | 1584 | 214 | Technology | [link](https://www.cs.cmu.edu/learn/) · [HN](https://news.ycombinator.com/item?id=50522980) |
 | 2026-11-16 | Monday | 2 | Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings | 898 | 534 | Technology | [link](http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/) · [HN](https://news.ycombinator.com/item?id=50517488) |
 | 2026-11-16 | Monday | 3 | How to make almost anything | 884 | 144 | Technology | [link](https://pub.cba.mit.edu/863.26/site/) · [HN](https://news.ycombinator.com/item?id=50514470) |

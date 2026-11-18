@@ -1,9 +1,57 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-17 · 11327 items*
+*Last updated: 2026-11-18 · 11375 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-11-17 | GPT‑6.2 Astra and Sol | HN | Technology | tech | 2026-11-17 | [link](https://openai.com/index/introducing-gpt-6-2-astra-sol/) |
+| 2026-11-17 | New Evidence Shows School Phone Bans Are Gradually Improving Test Scores | HN | Technology | tech | 2026-11-17 | [link](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html) |
+| 2026-11-17 | Java4Shell: RCE in OpenJDK when processing Base64 | HN | Technology | tech | 2026-11-17 | [link](https://calif.io/java4shell/) |
+| 2026-11-17 | Apple Services Down | HN | Technology | tech | 2026-11-17 | [link](https://developer.apple.com/system-status/) |
+| 2026-11-17 | Quad9's withdrawal from France: A canary in the coal mine | HN | Technology | tech | 2026-11-17 | [link](https://blog.cloudflare.com/quad9-withdrawal-from-france/) |
+| 2026-11-17 | Highly classified US national security communications network goes down | HN | Technology | tech | 2026-11-17 | [link](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down) |
+| 2026-11-17 | Nvidia stopped disclosing Singapore sales as revenues hit $104B | HN | Technology | tech | 2026-11-17 | [link](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf) |
+| 2026-11-17 | Google's AI answers reducing search traffic by 40% | HN | Technology | tech | 2026-11-17 | [link](https://revscope.co/blog/search-seo-geo-2026/) |
+| 2026-11-17 | Phrack 73 | HN | Technology | tech | 2026-11-17 | [link](https://phrack.org/issues/73/introduction_md) |
+| 2026-11-17 | What is the best harness for each model? | HN | Technology | tech | 2026-11-17 | [link](https://runta.com/blog/introducing-frontierharness-eval-v1-1/) |
+| 2026-11-17 | ID.me terms required for IRS sign-in | HN | Technology | tech | 2026-11-17 | [link](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in) |
+| 2026-11-17 | MAI Code 2 and Code 2 Flash | HN | Technology | tech | 2026-11-17 | [link](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/) |
+| 2026-11-17 | We don't need more apps, we need better open source | HN | Technology | tech | 2026-11-17 | [link](https://jordankrueger.com/blog/better-open-source-not-more-apps/) |
+| 2026-11-17 | Microsoft's ONNX Runtime has disappeared from GitHub | HN | Technology | tech | 2026-11-17 | [link](https://github.com/microsoft/onnxruntime) |
+| 2026-11-17 | 350 years ago, Ole Rømer discovered that light has a finite speed | HN | Technology | tech | 2026-11-17 | [link](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969) |
+| 2026-11-17 | NSA Internal Network Down | HN | Technology | tech | 2026-11-17 | [link](https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/) |
+| 2026-11-17 | American A.I. Models Have Potential to Be Turned Against U.S., Study Finds | NYT · Politics | Politics | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/18/us/politics/audit-ai-terrorist-attack-plans.html) |
+| 2026-11-17 | Permitting Bill Would Charge Data Centers Billions for Power | NYT · Energy & Environment | Energy & Environment | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html) |
+| 2026-11-17 | Stocks Down Just Ahead of Nvidia’s Earnings Report | NYT · Economy | Economy | news | 2026-11-17 | [link](https://www.nytimes.com/2026/11/17/business/economy/stock-market-nvidia-earnings.html) |
+| 2026-11-17 | House Democrats Cast Wide Net as They Prepare Trump Investigations | NYT · Politics | Politics | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/18/us/politics/democrats-cast-investigative-net.html) |
+| 2026-11-17 | Nvidia’s Earnings Call Is a High-Stakes Moment | NYT · Business | Business | news | 2026-11-17 | [link](https://www.nytimes.com/2026/11/17/business/dealbook/nvidia-ai-earnings-huang.html) |
+| 2026-11-17 | Facing Criticism, Trump Administration Says It’s Investigating Megaspeed | NYT · Economy | Economy | news | 2026-11-17 | [link](https://www.nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html) |
+| 2026-11-17 | Fed Chairman Highlights Economic Uncertainty of A.I. Boom | NYT · Economy | Economy | news | 2026-11-16 | [link](https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html) |
+| 2026-11-17 | Trump’s New A.I. Chip Rules Rattle Southeast Asia | NYT · Business | Business | news | 2026-11-17 | [link](https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html) |
+| 2026-11-17 | California Sues OpenAI Over A.I. Safety Issues | NYT · Technology | Technology | news | 2026-11-16 | [link](https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html) |
+| 2026-11-17 | Bessent Takes Hawkish Turn in White House Debate on China | NYT · Business | Business | news | 2026-11-16 | [link](https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html) |
+| 2026-11-17 | A.I. Mistook a Bag of Chips for a Gun, Teenagers’ Lawsuit Says | NYT · U.S. | U.S. | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/17/us/baltimore-school-chips-gun-alert.html) |
+| 2026-11-17 | Pipeline Executive Worked for Alan Armstrong During Permitting Push | NYT · Energy & Environment | Energy & Environment | news | 2026-11-17 | [link](https://www.nytimes.com/2026/11/16/climate/alan-armstrong-oklahoma.html) |
+| 2026-11-17 | Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip | NYT · Economy | Economy | news | 2026-11-16 | [link](https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html) |
+| 2026-11-17 | A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet | NYT · Politics | Politics | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html) |
+| 2026-11-17 | Wall Street Braces for Anthropic’s Spending | NYT · Technology | Technology | news | 2026-11-16 | [link](https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html) |
+| 2026-11-17 | The Enraging Hypocrisy at the Heart of the Nvidia Scandal | NYT · Opinion | Opinion | opinion | 2026-11-17 | [link](https://www.nytimes.com/2026/11/16/opinion/nvidia-trump-jensen-huang-lutnick.html) |
+| 2026-11-17 | The Financial Bubble Cycles Are Getting Worse | NYT · Opinion | Opinion | opinion | 2026-11-16 | [link](https://www.nytimes.com/2026/11/16/opinion/ai-bubble-finance-crisis-deregulation.html) |
+| 2026-11-17 | What Is Congress’s Plan to Speed Up Energy Permits? | NYT · Energy & Environment | Energy & Environment | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html) |
+| 2026-11-17 | Goodbye, Mr. Chips | NYT · Sunday Opinion | Sunday Opinion | opinion | 2026-11-16 | [link](https://www.nytimes.com/2026/11/14/opinion/huang-trump-lutnick-bessent.html) |
+| 2026-11-17 | Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers | NYT · Technology | Technology | news | 2026-11-13 | [link](https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html) |
+| 2026-11-17 | The Hidden Costs of AI Coding, Revisited | MIT IDE · MIT Research & Insights | Research | research | 2026-11-17 | [link](https://ide.mit.edu/insights/the-hidden-costs-of-ai-coding-revisited/) |
+| 2026-11-17 | University of Osaka launches SEAFOOD platform to link Octopus supercomputer with quantum processors | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-17 | [link](https://www.datacenterdynamics.com/en/news/university-of-osaka-launches-seafood-platform-to-link-octopus-supercomputer-with-quantum-processors/) |
+| 2026-11-17 | External sandboxes for coding agents | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-17 | [link](https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/) |
+| 2026-11-17 | Millicom to acquire Entel Peru for $1.7bn | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-17 | [link](https://www.datacenterdynamics.com/en/news/millicom-agrees-to-buy-entel-peru-for-1714-million/) |
+| 2026-11-17 | GPT‑6.2 Astra and GPT‑6.2 Sol | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-17 | [link](https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/) |
+| 2026-11-17 | Data center slowdown would raise risks for utility investments | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-17 | [link](https://www.utilitydive.com/news/data-center-slowdown-raises-risks-for-utility-investments/874924/) |
+| 2026-11-17 | Grid operators file closely watched large load interconnection reforms at FERC | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-17 | [link](https://www.utilitydive.com/news/pjm-rto-large-load-interconnection-ferc-show-cause/874872/) |
+| 2026-11-17 | Inside Moment Energy’s new battery system for C&I customers | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-17 | [link](https://www.latitudemedia.com/news/inside-moment-energys-new-battery-system-for-ci-customers/) |
+| 2026-11-17 | Michigan is a test bed for Democrats’ energy affordability promises | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-17 | [link](https://www.latitudemedia.com/news/michigan-is-a-test-bed-for-democrats-energy-affordability-promises/) |
+| 2026-11-17 | SetShot 1.0 (and a Personal Tale of Defaults System Spelunking) | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-17 | [link](https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/) |
+| 2026-11-17 | Apple’s Cloud Services Are Having a Bad Day, Including Their Status Page | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-17 | [link](https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/) |
+| 2026-11-17 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-16 | Carnegie Mellon is putting computer science courses on YouTube for free | HN | Technology | tech | 2026-11-16 | [link](https://www.cs.cmu.edu/learn/) |
 | 2026-11-16 | Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings | HN | Technology | tech | 2026-11-16 | [link](http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/) |
 | 2026-11-16 | How to make almost anything | HN | Technology | tech | 2026-11-16 | [link](https://pub.cba.mit.edu/863.26/site/) |
