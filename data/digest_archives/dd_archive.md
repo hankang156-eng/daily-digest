@@ -1,9 +1,58 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-18 · 11375 items*
+*Last updated: 2026-11-19 · 11424 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-11-18 | Unauthenticated remote code execution in Nginx | HN | Technology | tech | 2026-11-18 | [link](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) |
+| 2026-11-18 | Gemini 4 Neon | HN | Technology | tech | 2026-11-18 | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) |
+| 2026-11-18 | AI is killing All About Berlin | HN | Technology | tech | 2026-11-18 | [link](https://nicolasbouliane.com/blog/death-by-ai) |
+| 2026-11-18 | Inside Deutsche Bank | HN | Technology | tech | 2026-11-18 | [link](https://www.inside-db.com/) |
+| 2026-11-18 | DNS resolvers are the wrong place to fight piracy | HN | Technology | tech | 2026-11-18 | [link](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/) |
+| 2026-11-18 | We need smart people who give a shit | HN | Technology | tech | 2026-11-18 | [link](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/) |
+| 2026-11-18 | Seven new models at scalable price-performance | HN | Technology | tech | 2026-11-18 | [link](https://microsoft.ai/news/microsoft-ignite-2026/) |
+| 2026-11-18 | Interviewed at a YC startup, found out they used my LinkedIn without permission | HN | Technology | tech | 2026-11-18 | [link](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/) |
+| 2026-11-18 | AI agents ask better questions than KPMG accountants in audit trial | HN | Technology | tech | 2026-11-18 | [link](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/) |
+| 2026-11-18 | Russia reportedly planned mass-casualty attack in Poland to be blamed on Ukraine | HN | Technology | tech | 2026-11-18 | [link](https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html) |
+| 2026-11-18 | Energy-Based Reasoners: 385x more efficient inference | HN | Technology | tech | 2026-11-18 | [link](https://energy-based-reasoners.github.io/) |
+| 2026-11-18 | Codeberg.org Not Reachable | HN | Technology | tech | 2026-11-18 | [link](https://social.anoxinon.de/@codebergstatus/117636437840688845) |
+| 2026-11-18 | The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026 | HN | Technology | tech | 2026-11-18 | [link](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026) |
+| 2026-11-18 | Multiple vulnerabilities in Regexp and String case conversion | HN | Technology | tech | 2026-11-18 | [link](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/) |
+| 2026-11-18 | Genie 4 is now available | HN | Technology | tech | 2026-11-18 | [link](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/) |
+| 2026-11-18 | Scottish HTTP Codes | HN | Technology | tech | 2026-11-18 | [link](https://underwood.network/http/scots.html) |
+| 2026-11-18 | Permitting Bill Would Charge Data Centers Billions for Power | NYT · Energy & Environment | Energy & Environment | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html) |
+| 2026-11-18 | Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards | NYT · Technology | Technology | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html) |
+| 2026-11-18 | Watch: Satya Nadella on A.I.’s Threat to Global Infrastructure | NYT · Business | Business | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/18/business/dealbook/watch-satya-nadella-dealbook-summit.html) |
+| 2026-11-18 | Anthropic Sells $81.3 Billion in Shares for a Record IPO | NYT · Technology | Technology | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html) |
+| 2026-11-18 | How Nvidia Chips Ended Up Within Reach of China’s Military | NYT · Technology | Technology | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html) |
+| 2026-11-18 | Anthropic’s Public Debut Sets Up ‘Experiment’ in Corporate Power | NYT · Business | Business | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/18/business/anthropic-ipo-corporate-governance.html) |
+| 2026-11-18 | A.I. Bubble Talk Enters the Conversation at DealBook Summit | NYT · DealBook | DealBook | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/18/business/dealbook/ai-bubble-dealbook-summit.html) |
+| 2026-11-18 | Polymarket CEO Says Donald Trump Jr.’s Involvement Is ‘Overblown’ | NYT · Business | Business | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/18/business/dealbook/polymarket-donald-trump-jr-shayne-coplan.html) |
+| 2026-11-18 | The Permitting Bill Is Splitting the Environmental Movement | NYT · Energy & Environment | Energy & Environment | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/18/climate/permitting-bill-baaja-environmentalists-energy.html) |
+| 2026-11-18 | Widespread Tech Outages Put Focus on Trump’s National Security Cuts | NYT · Politics | Politics | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/18/us/politics/tech-outages-trump-national-security.html) |
+| 2026-11-18 | Palmer Luckey Warns the U.S. Faces an A.I. ‘Mismatch’ | NYT · Business | Business | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/18/business/dealbook/palmer-luckey-anduril-ai.html) |
+| 2026-11-18 | Senator Bill Cassidy Blocks Trump Pick to Head Science Agency | NYT · Politics | Politics | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/18/us/politics/bill-cassidy-jim-oneill-science.html) |
+| 2026-11-18 | California Sues OpenAI Over A.I. Safety Issues | NYT · Technology | Technology | news | 2026-11-16 | [link](https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html) |
+| 2026-11-18 | Google Buys Worker Data From Spirit Airlines in a New Market to Feed A.I. | NYT · Economy | Economy | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html) |
+| 2026-11-18 | Don’t Play Anthropic’s Game | NYT · Opinion | Opinion | opinion | 2026-11-19 | [link](https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-ai-regulation.html) |
+| 2026-11-18 | Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip | NYT · Economy | Economy | news | 2026-11-16 | [link](https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html) |
+| 2026-11-18 | OpenAI Executives Say They Have to Strike a Balance Between A.I. Safety and Progress | NYT · Technology | Technology | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/18/business/dealbook/openai-sam-altman-greg-brockman.html) |
+| 2026-11-18 | What Is Congress’s Plan to Speed Up Energy Permits? | NYT · Energy & Environment | Energy & Environment | news | 2026-11-10 | [link](https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html) |
+| 2026-11-18 | Wall Street Braces for Anthropic’s Spending | NYT · Technology | Technology | news | 2026-11-16 | [link](https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html) |
+| 2026-11-18 | The Financial Bubble Cycles Are Getting Worse | NYT · Opinion | Opinion | opinion | 2026-11-16 | [link](https://www.nytimes.com/2026/11/16/opinion/ai-bubble-finance-crisis-deregulation.html) |
+| 2026-11-18 | Attackers Used Optimizely to A/B Test Malware on Top Websites | Krebs on Security · Security & Privacy | Security | tech | 2026-11-18 | [link](https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/) |
+| 2026-11-18 | How Internet Exchanges stood up to the pressure of the Grand Theft Auto VI launch | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-18 | [link](https://www.datacenterdynamics.com/en/analysis/gta-vi-grand-theft-auto-download-internet-exchanges/) |
+| 2026-11-18 | Navigating CEQA: what data center developers need to know before investing in California | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-18 | [link](https://www.datacenterdynamics.com/en/opinions/navigating-ceqa-what-data-center-developers-need-to-know-before-investing-in-california/) |
+| 2026-11-18 | Anthropic debuts in an uneasy energy week | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-18 | [link](https://www.latitudemedia.com/news/anthropic-debuts-in-an-uneasy-energy-week/) |
+| 2026-11-18 | Why utilities should design VPPs around households, not devices | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-18 | [link](https://www.latitudemedia.com/news/why-utilities-should-design-vpps-around-households-not-devices/) |
+| 2026-11-18 | The grid will fall short of AI’s power needs. These 6 resources can close the gap. | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-18 | [link](https://www.utilitydive.com/news/the-grid-will-fall-short-of-ais-power-needs-6-resources-close-the-gap/874125/) |
+| 2026-11-18 | How National Grid, Eversource are using VPPs to solve local-level constraints | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-18 | [link](https://www.utilitydive.com/news/national-grid-eversource-vpp-demand-response/875039/) |
+| 2026-11-18 | Quoting Daniel Stenberg | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-18 | [link](https://simonwillison.net/2026/Nov/18/daniel-stenberg/) |
+| 2026-11-18 | Once More Unto The Breach - Another Year In Review | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-11-18 | [link](https://shkspr.mobi/blog/2026/11/once-more-unto-the-breach-another-year-in-review/) |
+| 2026-11-18 | Jensen Huang Tweets | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-18 | [link](https://x.com/JensenHuang/status/2122726005219737649) |
+| 2026-11-18 | llm-gemini 0.38 | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-18 | [link](https://simonwillison.net/2026/Nov/18/llm-gemini/) |
+| 2026-11-18 | ★ The 50-Yard Line | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-18 | [link](https://daringfireball.net/2026/11/the_50-yard_line) |
+| 2026-11-18 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-17 | GPT‑6.2 Astra and Sol | HN | Technology | tech | 2026-11-17 | [link](https://openai.com/index/introducing-gpt-6-2-astra-sol/) |
 | 2026-11-17 | New Evidence Shows School Phone Bans Are Gradually Improving Test Scores | HN | Technology | tech | 2026-11-17 | [link](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html) |
 | 2026-11-17 | Java4Shell: RCE in OpenJDK when processing Base64 | HN | Technology | tech | 2026-11-17 | [link](https://calif.io/java4shell/) |

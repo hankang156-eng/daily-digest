@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-18 · 551 days · 5510 stories*
+*Last updated: 2026-11-19 · 552 days · 5520 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-18 | Wednesday | 1 | Unauthenticated remote code execution in Nginx | 1394 | 600 | Technology | [link](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) · [HN](https://news.ycombinator.com/item?id=50547374) |
+| 2026-11-18 | Wednesday | 2 | Gemini 4 Neon | 846 | 677 | Technology | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) · [HN](https://news.ycombinator.com/item?id=50552424) |
+| 2026-11-18 | Wednesday | 3 | AI is killing All About Berlin | 783 | 699 | Technology | [link](https://nicolasbouliane.com/blog/death-by-ai) · [HN](https://news.ycombinator.com/item?id=50542705) |
+| 2026-11-18 | Wednesday | 4 | Inside Deutsche Bank | 704 | 240 | Technology | [link](https://www.inside-db.com/) · [HN](https://news.ycombinator.com/item?id=50547620) |
+| 2026-11-18 | Wednesday | 5 | DNS resolvers are the wrong place to fight piracy | 664 | 269 | Technology | [link](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/) · [HN](https://news.ycombinator.com/item?id=50545958) |
+| 2026-11-18 | Wednesday | 6 | We need smart people who give a shit | 629 | 312 | Technology | [link](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/) · [HN](https://news.ycombinator.com/item?id=50554045) |
+| 2026-11-18 | Wednesday | 7 | Seven new models at scalable price-performance | 542 | 354 | Technology | [link](https://microsoft.ai/news/microsoft-ignite-2026/) · [HN](https://news.ycombinator.com/item?id=50548021) |
+| 2026-11-18 | Wednesday | 8 | Interviewed at a YC startup, found out they used my LinkedIn without permission | 500 | 125 | Technology | [link](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/) · [HN](https://news.ycombinator.com/item?id=50542135) |
+| 2026-11-18 | Wednesday | 9 | AI agents ask better questions than KPMG accountants in audit trial | 465 | 217 | Technology | [link](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/) · [HN](https://news.ycombinator.com/item?id=50547777) |
+| 2026-11-18 | Wednesday | 10 | Russia reportedly planned mass-casualty attack in Poland to be blamed on Ukraine | 367 | 177 | Technology | [link](https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html) · [HN](https://news.ycombinator.com/item?id=50547344) |
 | 2026-11-17 | Tuesday | 1 | GPT‑6.2 Astra and Sol | 1283 | 798 | Technology | [link](https://openai.com/index/introducing-gpt-6-2-astra-sol/) · [HN](https://news.ycombinator.com/item?id=50535230) |
 | 2026-11-17 | Tuesday | 2 | New Evidence Shows School Phone Bans Are Gradually Improving Test Scores | 1241 | 622 | Technology | [link](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html) · [HN](https://news.ycombinator.com/item?id=50530163) |
 | 2026-11-17 | Tuesday | 3 | Java4Shell: RCE in OpenJDK when processing Base64 | 964 | 246 | Technology | [link](https://calif.io/java4shell/) · [HN](https://news.ycombinator.com/item?id=50538240) |
