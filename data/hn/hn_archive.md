@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-19 · 552 days · 5520 stories*
+*Last updated: 2026-11-20 · 553 days · 5530 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-19 | Thursday | 1 | Anthropic’s Nasdaq debut | 1088 | 2156 | Technology | [link](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) · [HN](https://news.ycombinator.com/item?id=50562754) |
+| 2026-11-19 | Thursday | 2 | Pancreatic cancer halted by virus injection in three patients | 786 | 136 | Technology | [link](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/) · [HN](https://news.ycombinator.com/item?id=50563066) |
+| 2026-11-19 | Thursday | 3 | How the European Commission rolled out Matrix to more than 40k staff | 703 | 354 | Technology | [link](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/) · [HN](https://news.ycombinator.com/item?id=50558533) |
+| 2026-11-19 | Thursday | 4 | UK government forced to admit it issued Apple a secret encryption order | 656 | 308 | Technology | [link](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/) · [HN](https://news.ycombinator.com/item?id=50562113) |
+| 2026-11-19 | Thursday | 5 | Fuck Your AI Safeguards | 559 | 224 | Technology | [link](https://ounapuu.ee/posts/2026/11/19/unsafeguards/) · [HN](https://news.ycombinator.com/item?id=50562262) |
+| 2026-11-19 | Thursday | 6 | Claude solves two open problems in the physics of black holes | 507 | 237 | Technology | [link](https://www.anthropic.com/research/claude-black-hole-physics) · [HN](https://news.ycombinator.com/item?id=50563148) |
+| 2026-11-19 | Thursday | 7 | Someone reported java4shell bug in September 2026 | 430 | 120 | Technology | [link](https://github.com/openjdk/jdk/pull/32781) · [HN](https://news.ycombinator.com/item?id=50558906) |
+| 2026-11-19 | Thursday | 8 | Everything you need to survive and rebuild society | 403 | 204 | Technology | [link](https://lastbook.org/) · [HN](https://news.ycombinator.com/item?id=50560822) |
+| 2026-11-19 | Thursday | 9 | 15M web servers on one VM – smoltcp, DPDK, AF_XDP | 402 | 42 | Technology | [link](https://kapteko.com/15-million-webservers/) · [HN](https://news.ycombinator.com/item?id=50556533) |
+| 2026-11-19 | Thursday | 10 | Ruby2ßhell: Pre-authentication RCE on stock Rails | 399 | 180 | Technology | [link](https://verialabs.com/ruby2shell/) · [HN](https://news.ycombinator.com/item?id=50556287) |
 | 2026-11-18 | Wednesday | 1 | Unauthenticated remote code execution in Nginx | 1394 | 600 | Technology | [link](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) · [HN](https://news.ycombinator.com/item?id=50547374) |
 | 2026-11-18 | Wednesday | 2 | Gemini 4 Neon | 846 | 677 | Technology | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) · [HN](https://news.ycombinator.com/item?id=50552424) |
 | 2026-11-18 | Wednesday | 3 | AI is killing All About Berlin | 783 | 699 | Technology | [link](https://nicolasbouliane.com/blog/death-by-ai) · [HN](https://news.ycombinator.com/item?id=50542705) |

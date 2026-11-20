@@ -1,9 +1,56 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-19 · 11424 items*
+*Last updated: 2026-11-20 · 11471 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-11-19 | Anthropic’s Nasdaq debut | HN | Technology | tech | 2026-11-19 | [link](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) |
+| 2026-11-19 | Pancreatic cancer halted by virus injection in three patients | HN | Technology | tech | 2026-11-19 | [link](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/) |
+| 2026-11-19 | How the European Commission rolled out Matrix to more than 40k staff | HN | Technology | tech | 2026-11-19 | [link](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/) |
+| 2026-11-19 | UK government forced to admit it issued Apple a secret encryption order | HN | Technology | tech | 2026-11-19 | [link](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/) |
+| 2026-11-19 | Fuck Your AI Safeguards | HN | Technology | tech | 2026-11-19 | [link](https://ounapuu.ee/posts/2026/11/19/unsafeguards/) |
+| 2026-11-19 | Claude solves two open problems in the physics of black holes | HN | Technology | tech | 2026-11-19 | [link](https://www.anthropic.com/research/claude-black-hole-physics) |
+| 2026-11-19 | Someone reported java4shell bug in September 2026 | HN | Technology | tech | 2026-11-19 | [link](https://github.com/openjdk/jdk/pull/32781) |
+| 2026-11-19 | Everything you need to survive and rebuild society | HN | Technology | tech | 2026-11-19 | [link](https://lastbook.org/) |
+| 2026-11-19 | 15M web servers on one VM – smoltcp, DPDK, AF_XDP | HN | Technology | tech | 2026-11-19 | [link](https://kapteko.com/15-million-webservers/) |
+| 2026-11-19 | Ruby2ßhell: Pre-authentication RCE on stock Rails | HN | Technology | tech | 2026-11-19 | [link](https://verialabs.com/ruby2shell/) |
+| 2026-11-19 | Gemini 4 Neon is the new #1 on the Models Engineering Index | HN | Technology | tech | 2026-11-19 | [link](https://git-aarvin.github.io/mei/) |
+| 2026-11-19 | SSD prices may begin to decline in the latter half of 2027 | HN | Technology | tech | 2026-11-19 | [link](https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html) |
+| 2026-11-19 | Making 8-page foldable zines from a single A4 sheet in the browser | HN | Technology | tech | 2026-11-19 | [link](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/) |
+| 2026-11-19 | Do not buy RAM, compress | HN | Technology | tech | 2026-11-19 | [link](https://curiousbits.nl/blog/do-not-buy-ram-compress/) |
+| 2026-11-19 | The 98% Slot Machine: How Paid Advertising Became an Extraction Tax | HN | Technology | tech | 2026-11-19 | [link](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine) |
+| 2026-11-19 | What's New in PHP 8.6 | HN | Technology | tech | 2026-11-19 | [link](https://www.php.net/releases/8.6/en.php) |
+| 2026-11-19 | Senate Passes Major Permitting Bill to Speed Up Energy Projects | NYT · Energy & Environment | Energy & Environment | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html) |
+| 2026-11-19 | Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards | NYT · Technology | Technology | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html) |
+| 2026-11-19 | The Internet Broke Our Taste. Will A.I. Destroy It for Good? | NYT · Technology | Technology | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html) |
+| 2026-11-19 | China’s A.I. Ambitions Are Running Into a Money Problem | NYT · Business | Business | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html) |
+| 2026-11-19 | Should You Invest in Anthropic? Here’s What to Consider. | NYT · Business | Business | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/19/your-money/anthropic-ipo-investing.html) |
+| 2026-11-19 | Watch: Satya Nadella on A.I.’s Threat to Global Infrastructure | NYT · Business | Business | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/18/business/dealbook/watch-satya-nadella-dealbook-summit.html) |
+| 2026-11-19 | Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires | NYT · Technology | Technology | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html) |
+| 2026-11-19 | Mamdani, Musk, Altman, A.I. and Other DealBook Summit Highlights | NYT · Business | Business | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/19/business/dealbook/mamdani-musk-altman-summit-highlights.html) |
+| 2026-11-19 | Anthropic Debuts on Wall Street as a $2 Trillion Company | NYT · Technology | Technology | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html) |
+| 2026-11-19 | How Nvidia Chips Ended Up Within Reach of China’s Military | NYT · Technology | Technology | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html) |
+| 2026-11-19 | What Trump, Putin and Xi Left on the Table | NYT · Politics | Politics | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/podcasts/the-daily/trump-putin-xi-summit-ai.html) |
+| 2026-11-19 | Why Is the Stock Market Down After Anthropic’s Successful IPO? | NYT · Technology | Technology | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html) |
+| 2026-11-19 | Permitting Bill Would Charge Data Centers Billions for Power | NYT · Energy & Environment | Energy & Environment | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html) |
+| 2026-11-19 | How Jensen Huang Made Humiliation Routine at Nvidia | NYT · Technology | Technology | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html) |
+| 2026-11-19 | The Permitting Bill Is Splitting the Environmental Movement | NYT · Energy & Environment | Energy & Environment | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/18/climate/permitting-bill-baaja-environmentalists-energy.html) |
+| 2026-11-19 | Watch: Natasha Sarin on Anthropic’s Historic I.P.O. and What’s Next for the Markets | NYT · Opinion | Opinion | opinion | 2026-11-19 | [link](https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-natasha-sarin.html) |
+| 2026-11-19 | Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It | NYT · Politics | Politics | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html) |
+| 2026-11-19 | Don’t Play Anthropic’s Game | NYT · Opinion | Opinion | opinion | 2026-11-19 | [link](https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-ai-regulation.html) |
+| 2026-11-19 | California Sues OpenAI Over A.I. Safety Issues | NYT · Technology | Technology | news | 2026-11-16 | [link](https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html) |
+| 2026-11-19 | Anthropic Has Gone Public. What Now? | NYT · Opinion | Opinion | opinion | 2026-11-20 | [link](https://www.nytimes.com/video/opinion/100000011288380/anthropic-has-gone-public-what-now.html) |
+| 2026-11-19 | Crypto firm Avax One drops modular data center initiatives | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-19 | [link](https://www.datacenterdynamics.com/en/news/crypto-firm-avax-one-drops-modular-data-center-initiatives/) |
+| 2026-11-19 | Everpure revenues surge 51% as AI demand drives more hyperscaler wins | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-19 | [link](https://www.datacenterdynamics.com/en/news/everpure-revenues-surge-51-as-ai-demand-drives-more-hyperscaler-wins/) |
+| 2026-11-19 | Google signs 50-MW superhot geothermal PPA with Quaise Energy | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-19 | [link](https://www.utilitydive.com/news/google-signs-50-mw-superhot-geothermal-ppa-with-quaise-energy/875217/) |
+| 2026-11-19 | PJM urged to delay base capacity auction until data centers cut from forecast | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-19 | [link](https://www.utilitydive.com/news/ratepayer-advocates-pjm-market-monitor-capacity-auction/875165/) |
+| 2026-11-19 | What’s behind the global solar slowdown | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-19 | [link](https://www.latitudemedia.com/news/catalyst-whats-behind-the-global-solar-slowdown/) |
+| 2026-11-19 | PostgreSQL 19 Released | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-19 | [link](https://simonwillison.net/2026/Nov/19/postgresql-19/) |
+| 2026-11-19 | How clean energy developers can shield against stranded AI power | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-19 | [link](https://www.latitudemedia.com/news/how-clean-energy-developers-can-shield-against-stranded-ai-power/) |
+| 2026-11-19 | Google’s Spark AI Agent Becomes ‘Tasks’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-19 | [link](https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IksyWGFvWkdyWVIiLCJwIjoiL3RlY2gvMTAzNTc1Ni9nb29nbGUtc3BhcmstYWktdGFza3MtZnJlZSIsImV4cCI6MTc5NTU1MzQxMiwiaWF0IjoxNzk1MTIxNDEyfQ.GdsUKdRXeGBskw7-FDgCXEmIYhdLPPexImzdWhJqA-c&utm_medium=gift-link) |
+| 2026-11-19 | Anthropic IPOs, Topping SpaceX for the Largest Ever | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-19 | [link](https://www.techmeme.com/261118/p34#a261118p34) |
+| 2026-11-19 | Theatre Review: FORT – a new opera ★★★☆☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-11-19 | [link](https://shkspr.mobi/blog/2026/11/theatre-review-fort-a-new-opera/) |
+| 2026-11-19 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-18 | Unauthenticated remote code execution in Nginx | HN | Technology | tech | 2026-11-18 | [link](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) |
 | 2026-11-18 | Gemini 4 Neon | HN | Technology | tech | 2026-11-18 | [link](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) |
 | 2026-11-18 | AI is killing All About Berlin | HN | Technology | tech | 2026-11-18 | [link](https://nicolasbouliane.com/blog/death-by-ai) |
