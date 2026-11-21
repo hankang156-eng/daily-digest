@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-20 · 553 days · 5530 stories*
+*Last updated: 2026-11-21 · 554 days · 5540 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-20 | Friday | 1 | Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] | 2657 | 1841 | Technology | [link](https://alpo.ge/remark.pdf) · [HN](https://news.ycombinator.com/item?id=50574968) |
+| 2026-11-20 | Friday | 2 | Hurried Announcement: Alessandro Masullo GRH | 2105 | 977 | Technology | [link](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) · [HN](https://news.ycombinator.com/item?id=50579568) |
+| 2026-11-20 | Friday | 3 | Inkling 2 Mini | 1026 | 194 | Technology | [link](https://thinkingmachines.ai/news/inkling-2-mini/) · [HN](https://news.ycombinator.com/item?id=50581260) |
+| 2026-11-20 | Friday | 4 | I'll never buy Framework hardware again | 797 | 587 | Technology | [link](https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/) · [HN](https://news.ycombinator.com/item?id=50576855) |
+| 2026-11-20 | Friday | 5 | If you can't explain something in simple terms, you don't understand it (2017) | 665 | 308 | Technology | [link](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it) · [HN](https://news.ycombinator.com/item?id=50572355) |
+| 2026-11-20 | Friday | 6 | Frostbite: A new CPU architecture discovered, designed and verified by AI | 648 | 333 | Technology | [link](https://architectlabs.com/blog/frostbite) · [HN](https://news.ycombinator.com/item?id=50572503) |
+| 2026-11-20 | Friday | 7 | Restricting AI agents in mobile operating systems platforms from capturing data | 555 | 323 | Technology | [link](https://signal.org/blog/protecting-your-privacy/) · [HN](https://news.ycombinator.com/item?id=50572348) |
+| 2026-11-20 | Friday | 8 | Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019) | 524 | 327 | Technology | [link](https://ecohustler.com/article/one-corporation-to-pollute-them-all/) · [HN](https://news.ycombinator.com/item?id=50572116) |
+| 2026-11-20 | Friday | 9 | Google is pushing OEMs against GrapheneOS and bootloader unlocking | 495 | 196 | Technology | [link](https://grapheneos.social/@GrapheneOS/117645038299496084) · [HN](https://news.ycombinator.com/item?id=50570479) |
+| 2026-11-20 | Friday | 10 | Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis | 452 | 184 | Technology | [link](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/) · [HN](https://news.ycombinator.com/item?id=50578358) |
 | 2026-11-19 | Thursday | 1 | Anthropic’s Nasdaq debut | 1088 | 2156 | Technology | [link](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) · [HN](https://news.ycombinator.com/item?id=50562754) |
 | 2026-11-19 | Thursday | 2 | Pancreatic cancer halted by virus injection in three patients | 786 | 136 | Technology | [link](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/) · [HN](https://news.ycombinator.com/item?id=50563066) |
 | 2026-11-19 | Thursday | 3 | How the European Commission rolled out Matrix to more than 40k staff | 703 | 354 | Technology | [link](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/) · [HN](https://news.ycombinator.com/item?id=50558533) |

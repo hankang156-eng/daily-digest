@@ -1,9 +1,56 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-20 · 11471 items*
+*Last updated: 2026-11-21 · 11518 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-11-20 | Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] | HN | Technology | tech | 2026-11-20 | [link](https://alpo.ge/remark.pdf) |
+| 2026-11-20 | Hurried Announcement: Alessandro Masullo GRH | HN | Technology | tech | 2026-11-20 | [link](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) |
+| 2026-11-20 | Inkling 2 Mini | HN | Technology | tech | 2026-11-20 | [link](https://thinkingmachines.ai/news/inkling-2-mini/) |
+| 2026-11-20 | I'll never buy Framework hardware again | HN | Technology | tech | 2026-11-20 | [link](https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/) |
+| 2026-11-20 | If you can't explain something in simple terms, you don't understand it (2017) | HN | Technology | tech | 2026-11-20 | [link](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it) |
+| 2026-11-20 | Frostbite: A new CPU architecture discovered, designed and verified by AI | HN | Technology | tech | 2026-11-20 | [link](https://architectlabs.com/blog/frostbite) |
+| 2026-11-20 | Restricting AI agents in mobile operating systems platforms from capturing data | HN | Technology | tech | 2026-11-20 | [link](https://signal.org/blog/protecting-your-privacy/) |
+| 2026-11-20 | Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019) | HN | Technology | tech | 2026-11-20 | [link](https://ecohustler.com/article/one-corporation-to-pollute-them-all/) |
+| 2026-11-20 | Google is pushing OEMs against GrapheneOS and bootloader unlocking | HN | Technology | tech | 2026-11-20 | [link](https://grapheneos.social/@GrapheneOS/117645038299496084) |
+| 2026-11-20 | Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis | HN | Technology | tech | 2026-11-20 | [link](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/) |
+| 2026-11-20 | We promoted developers into architects without informing them | HN | Technology | tech | 2026-11-20 | [link](https://manidoraisamy.com/developer-to-architect.html) |
+| 2026-11-20 | "I can tell you wrote this yourself" | HN | Technology | tech | 2026-11-20 | [link](https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/) |
+| 2026-11-20 | Language Models Can Rewrite Their Own Weights | HN | Technology | tech | 2026-11-20 | [link](https://arxiv.org/abs/2611.21885) |
+| 2026-11-20 | Why there are still no non-WebKit browsers on iOS | HN | Technology | tech | 2026-11-20 | [link](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/) |
+| 2026-11-20 | If you stop writing code, you also get worse at reviewing it | HN | Technology | tech | 2026-11-20 | [link](https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/) |
+| 2026-11-20 | Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day | HN | Technology | tech | 2026-11-20 | [link](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off) |
+| 2026-11-20 | Senate Passes Major Permitting Bill to Speed Up Energy Projects | NYT · Energy & Environment | Energy & Environment | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html) |
+| 2026-11-20 | The Internet Broke Our Taste. Will A.I. Destroy It for Good? | NYT · Technology | Technology | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html) |
+| 2026-11-20 | China’s A.I. Ambitions Are Running Into a Money Problem | NYT · Business | Business | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html) |
+| 2026-11-20 | Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed | NYT · Economy | Economy | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html) |
+| 2026-11-20 | Should You Invest in Anthropic? Here’s What to Consider. | NYT · Business | Business | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/19/your-money/anthropic-ipo-investing.html) |
+| 2026-11-20 | Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires | NYT · Technology | Technology | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html) |
+| 2026-11-20 | Can Anthropic Revive the A.I. Trade? | NYT · Business | Business | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/business/dealbook/anthropic-ipo-ai-rally.html) |
+| 2026-11-20 | What Trump, Putin and Xi Left on the Table | NYT · Politics | Politics | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/podcasts/the-daily/trump-putin-xi-summit-ai.html) |
+| 2026-11-20 | Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley | NYT · Business | Business | news | 2026-11-21 | [link](https://www.nytimes.com/2026/11/21/business/anthropics-debut-shows-the-disconnect-between-wall-street-and-silicon-valley.html) |
+| 2026-11-20 | How Jensen Huang Made Humiliation Routine at Nvidia | NYT · Technology | Technology | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html) |
+| 2026-11-20 | Permitting Bill Would Charge Data Centers Billions for Power | NYT · Energy & Environment | Energy & Environment | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html) |
+| 2026-11-20 | Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad | NYT · Technology | Technology | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html) |
+| 2026-11-20 | Takeaways From Trump’s Post-Trip News Conference | NYT · Politics | Politics | news | 2026-11-21 | [link](https://www.nytimes.com/2026/11/20/us/politics/trump-news-conference-asia-trip.html) |
+| 2026-11-20 | Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards | NYT · Technology | Technology | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html) |
+| 2026-11-20 | Fact-Checking Trump’s News Conference After His Asia Trip | NYT · Politics | Politics | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/us/politics/trumps-asia-fact-check.html) |
+| 2026-11-20 | Why Is the Stock Market Down After Anthropic’s Successful IPO? | NYT · Technology | Technology | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html) |
+| 2026-11-20 | How Nvidia Chips Ended Up Within Reach of China’s Military | NYT · Technology | Technology | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html) |
+| 2026-11-20 | The Permitting Bill Is Splitting the Environmental Movement | NYT · Energy & Environment | Energy & Environment | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/18/climate/permitting-bill-baaja-environmentalists-energy.html) |
+| 2026-11-20 | Watch: Natasha Sarin on Anthropic’s Historic I.P.O. and What’s Next for the Markets | NYT · Opinion | Opinion | opinion | 2026-11-19 | [link](https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-natasha-sarin.html) |
+| 2026-11-20 | Don’t Play Anthropic’s Game | NYT · Opinion | Opinion | opinion | 2026-11-19 | [link](https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-ai-regulation.html) |
+| 2026-11-20 | Apollo, Ardian, Macquarie, and Rai line up to acquire Retelit data centers - report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-20 | [link](https://www.datacenterdynamics.com/en/news/apollo-ardian-macquarie-and-rai-line-up-to-acquire-retelit-data-centers-report/) |
+| 2026-11-20 | UK competition body probes hyperscaler security and cloud lock-in | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-20 | [link](https://www.datacenterdynamics.com/en/news/uk-competition-body-probes-hyperscaler-security-and-cloud-lock-in/) |
+| 2026-11-20 | Market reforms bolster grid, may lower costs this winter: FERC | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-20 | [link](https://www.utilitydive.com/news/western-northeast-market-reforms-drought-grid-ferc/875311/) |
+| 2026-11-20 | Senate clears permitting reform after a bitter split among greens | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-20 | [link](https://www.latitudemedia.com/news/senate-clears-permitting-reform-after-a-bitter-split-among-greens/) |
+| 2026-11-20 | Texas finalizes ERCOT CEO contract extension, pay raise tied to performance | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-20 | [link](https://www.utilitydive.com/news/texas-finalizes-ercot-ceo-contract-extension-pay-raise-tied-to-performance/875318/) |
+| 2026-11-20 | Data centers need to earn their power | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-20 | [link](https://www.latitudemedia.com/news/data-centers-need-to-earn-their-power/) |
+| 2026-11-20 | Token fraud is here and it’s BAD (YouTube) | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-20 | [link](https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/) |
+| 2026-11-20 | Quoting Levent Alpöge | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-20 | [link](https://simonwillison.net/2026/Nov/20/levent-alpoge/) |
+| 2026-11-20 | The Talk Show: ‘A Whoopsie Treason’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-20 | [link](https://daringfireball.net/thetalkshow/2026/11/20/ep-457) |
+| 2026-11-20 | Connect a USB Zigbee Device to HAOS | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-11-20 | [link](https://shkspr.mobi/blog/2026/11/connect-a-usb-zigbee-device-to-haos/) |
+| 2026-11-20 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-19 | Anthropic’s Nasdaq debut | HN | Technology | tech | 2026-11-19 | [link](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) |
 | 2026-11-19 | Pancreatic cancer halted by virus injection in three patients | HN | Technology | tech | 2026-11-19 | [link](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/) |
 | 2026-11-19 | How the European Commission rolled out Matrix to more than 40k staff | HN | Technology | tech | 2026-11-19 | [link](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/) |
