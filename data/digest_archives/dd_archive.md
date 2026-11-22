@@ -1,9 +1,55 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-21 · 11518 items*
+*Last updated: 2026-11-22 · 11564 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-11-21 | Lean verification of the Riemann Hypothesis | HN | Technology | tech | 2026-11-21 | [link](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) |
+| 2026-11-21 | Detonating a pile of lead azide | HN | Technology | tech | 2026-11-21 | [link](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) |
+| 2026-11-21 | My monitor was cutting my download speed by 75% | HN | Technology | tech | 2026-11-21 | [link](https://blog.tymscar.com/posts/studiodisplayethernet/) |
+| 2026-11-21 | Toyota, Nissan, and Honda to standardize parts to lower costs | HN | Technology | tech | 2026-11-21 | [link](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) |
+| 2026-11-21 | Inkling-2-Mini in 5.4 GB Memory | HN | Technology | tech | 2026-11-21 | [link](https://github.com/ShinMegamiBoson/lookatmyquant) |
+| 2026-11-21 | Sandwich Simulator | HN | Technology | tech | 2026-11-21 | [link](https://stulle.app/) |
+| 2026-11-21 | GnuPG Security Advisory for GPGME | HN | Technology | tech | 2026-11-21 | [link](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html) |
+| 2026-11-21 | FBI reportedly investigating apparent hack of its criminal database | HN | Technology | tech | 2026-11-21 | [link](https://www.bbc.com/news/articles/cvze7de86pk3o) |
+| 2026-11-21 | Astra 6.2 and Sol 6.2 flop at Simple Bench | HN | Technology | tech | 2026-11-21 | [link](https://simple-bench.com/) |
+| 2026-11-21 | Advice for the next 100 Rust GUIs | HN | Technology | tech | 2026-11-21 | [link](https://linebender.org/blog/next-100-guis/) |
+| 2026-11-21 | Jensen Huang's fall is bad news for Silicon Valley's accelerationists | HN | Technology | tech | 2026-11-21 | [link](https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists) |
+| 2026-11-21 | Leonida – PC Recompilation of the Xbox Version of GTA 6 | HN | Technology | tech | 2026-11-21 | [link](https://github.com/ItsNotRexed/Leonida) |
+| 2026-11-21 | ClawDOS – An AI coding agent for DOS | HN | Technology | tech | 2026-11-21 | [link](http://ricapar.net/ClawDOS/) |
+| 2026-11-21 | Show HN: Zero C# – C# without a runtime or GC | HN | Technology | tech | 2026-11-21 | [link](https://onurgumus.github.io/zero-csharp/index.html) |
+| 2026-11-21 | Data Processing Incidents on Inference Providers | HN | Technology | tech | 2026-11-21 | [link](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/) |
+| 2026-11-21 | Surprisingly Adorable Insect Portraits | HN | Technology | tech | 2026-11-21 | [link](https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/) |
+| 2026-11-21 | Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad | NYT · Technology | Technology | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html) |
+| 2026-11-21 | Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley | NYT · Technology | Technology | news | 2026-11-21 | [link](https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html) |
+| 2026-11-21 | How to Plan for an A.I. Emergency, or Any Calamity | NYT · Business | Business | news | 2026-11-22 | [link](https://www.nytimes.com/2026/11/21/business/ai-emergency-plan.html) |
+| 2026-11-21 | Senate Passes Major Permitting Bill to Speed Up Energy Projects | NYT · Energy & Environment | Energy & Environment | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html) |
+| 2026-11-21 | The Used Car Industry Is Booming. This N.J. Campus Is Setting the Price. | NYT · Economy | Economy | news | 2026-11-21 | [link](https://www.nytimes.com/2026/11/21/business/used-car-auctions-manheim-prices.html) |
+| 2026-11-21 | How Jensen Huang Made Humiliation Routine at Nvidia | NYT · Technology | Technology | news | 2026-11-21 | [link](https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html) |
+| 2026-11-21 | The Internet Broke Our Taste. Will A.I. Destroy It for Good? | NYT · Technology | Technology | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html) |
+| 2026-11-21 | Advice to Democrats: Impeach Trump’s Cabinet | NYT · Opinion | Opinion | opinion | 2026-11-21 | [link](https://www.nytimes.com/2026/11/21/opinion/trump-xi-putin-summit-china-ai-democrats.html) |
+| 2026-11-21 | Takeaways From Trump’s Post-Trip News Conference | NYT · Politics | Politics | news | 2026-11-21 | [link](https://www.nytimes.com/2026/11/20/us/politics/trump-news-conference-asia-trip.html) |
+| 2026-11-21 | Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices | NYT · Business | Business | news | 2026-11-21 | [link](https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html) |
+| 2026-11-21 | Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy | NYT · Business | Business | news | 2026-11-21 | [link](https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html) |
+| 2026-11-21 | China’s A.I. Ambitions Are Running Into a Money Problem | NYT · Business | Business | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html) |
+| 2026-11-21 | Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions. | NYT · Technology | Technology | news | 2026-11-21 | [link](https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html) |
+| 2026-11-21 | Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military | NYT · Technology | Technology | news | 2026-11-21 | [link](https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html) |
+| 2026-11-21 | Permitting Bill Would Charge Data Centers Billions for Power | NYT · Energy & Environment | Energy & Environment | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html) |
+| 2026-11-21 | Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards | NYT · Technology | Technology | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html) |
+| 2026-11-21 | Why Is the Stock Market Down After Anthropic’s Successful IPO? | NYT · Technology | Technology | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html) |
+| 2026-11-21 | How Nvidia Chips Ended Up Within Reach of China’s Military | NYT · Technology | Technology | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html) |
+| 2026-11-21 | The Permitting Bill Is Splitting the Environmental Movement | NYT · Energy & Environment | Energy & Environment | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/18/climate/permitting-bill-baaja-environmentalists-energy.html) |
+| 2026-11-21 | Watch: Natasha Sarin on Anthropic’s Historic I.P.O. and What’s Next for the Markets | NYT · Opinion | Opinion | opinion | 2026-11-19 | [link](https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-natasha-sarin.html) |
+| 2026-11-21 | Z2RAM Claims SRAM Memory Speeds at Much Greater Density | IEEE Spectrum Semiconductors · AI Infrastructure | Infrastructure | tech | 2026-11-21 | [link](https://spectrum.ieee.org/sram-memory-z2ram) |
+| 2026-11-21 | Sponsored: The hidden efficiency gap in data center containment | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-21 | [link](https://www.datacenterdynamics.com/en/opinions/the-hidden-efficiency-gap-in-data-center-containment/) |
+| 2026-11-21 | Securing the turbine is only half the battle: the emissions monitoring path to data center power | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-21 | [link](https://www.datacenterdynamics.com/en/opinions/securing-the-turbine-is-only-half-the-battle-the-emissions-monitoring-path-to-data-center-power/) |
+| 2026-11-21 | Voting Is Open: 2026 OCP Project Lead Elections | Open Compute Project · AI Infrastructure | Infrastructure | tech | 2026-11-21 | [link](https://www.opencompute.org/news/voting-is-open-ocp-project-lead-elections/) |
+| 2026-11-21 | Muru | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-21 | [link](https://simonwillison.net/2026/Nov/21/muru/) |
+| 2026-11-21 | Apple Documents Extra Apple Intelligence Usage Limits Per iCloud+ Paid Tier | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-21 | [link](https://support.apple.com/en-us/127901) |
+| 2026-11-21 | ★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2 | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-21 | [link](https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273) |
+| 2026-11-21 | CTO of ‘RansomwareHelp’ Indicted for Wire Fraud | Krebs on Security · Security & Privacy | Security | tech | 2026-11-21 | [link](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) |
+| 2026-11-21 | Relicensing to CC BY-SA and making it visible in Schema metadata | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-11-21 | [link](https://shkspr.mobi/blog/2026/11/relicensing-to-cc-by-sa-and-making-it-visible-in-schema-metadata/) |
+| 2026-11-21 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-20 | Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] | HN | Technology | tech | 2026-11-20 | [link](https://alpo.ge/remark.pdf) |
 | 2026-11-20 | Hurried Announcement: Alessandro Masullo GRH | HN | Technology | tech | 2026-11-20 | [link](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) |
 | 2026-11-20 | Inkling 2 Mini | HN | Technology | tech | 2026-11-20 | [link](https://thinkingmachines.ai/news/inkling-2-mini/) |

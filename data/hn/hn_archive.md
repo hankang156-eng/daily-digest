@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-21 · 554 days · 5540 stories*
+*Last updated: 2026-11-22 · 555 days · 5550 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-21 | Saturday | 1 | Lean verification of the Riemann Hypothesis | 1049 | 871 | Technology | [link](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) · [HN](https://news.ycombinator.com/item?id=50589618) |
+| 2026-11-21 | Saturday | 2 | Detonating a pile of lead azide | 618 | 390 | Technology | [link](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) · [HN](https://news.ycombinator.com/item?id=50588982) |
+| 2026-11-21 | Saturday | 3 | My monitor was cutting my download speed by 75% | 593 | 277 | Technology | [link](https://blog.tymscar.com/posts/studiodisplayethernet/) · [HN](https://news.ycombinator.com/item?id=50587875) |
+| 2026-11-21 | Saturday | 4 | Toyota, Nissan, and Honda to standardize parts to lower costs | 538 | 329 | Technology | [link](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) · [HN](https://news.ycombinator.com/item?id=50596133) |
+| 2026-11-21 | Saturday | 5 | Inkling-2-Mini in 5.4 GB Memory | 477 | 118 | Technology | [link](https://github.com/ShinMegamiBoson/lookatmyquant) · [HN](https://news.ycombinator.com/item?id=50591853) |
+| 2026-11-21 | Saturday | 6 | Sandwich Simulator | 275 | 91 | Technology | [link](https://stulle.app/) · [HN](https://news.ycombinator.com/item?id=50594911) |
+| 2026-11-21 | Saturday | 7 | GnuPG Security Advisory for GPGME | 256 | 106 | Technology | [link](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html) · [HN](https://news.ycombinator.com/item?id=50587208) |
+| 2026-11-21 | Saturday | 8 | FBI reportedly investigating apparent hack of its criminal database | 179 | 92 | Technology | [link](https://www.bbc.com/news/articles/cvze7de86pk3o) · [HN](https://news.ycombinator.com/item?id=50587859) |
+| 2026-11-21 | Saturday | 9 | Astra 6.2 and Sol 6.2 flop at Simple Bench | 174 | 162 | Technology | [link](https://simple-bench.com/) · [HN](https://news.ycombinator.com/item?id=50588916) |
+| 2026-11-21 | Saturday | 10 | Advice for the next 100 Rust GUIs | 171 | 72 | Technology | [link](https://linebender.org/blog/next-100-guis/) · [HN](https://news.ycombinator.com/item?id=50593737) |
 | 2026-11-20 | Friday | 1 | Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] | 2657 | 1841 | Technology | [link](https://alpo.ge/remark.pdf) · [HN](https://news.ycombinator.com/item?id=50574968) |
 | 2026-11-20 | Friday | 2 | Hurried Announcement: Alessandro Masullo GRH | 2105 | 977 | Technology | [link](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) · [HN](https://news.ycombinator.com/item?id=50579568) |
 | 2026-11-20 | Friday | 3 | Inkling 2 Mini | 1026 | 194 | Technology | [link](https://thinkingmachines.ai/news/inkling-2-mini/) · [HN](https://news.ycombinator.com/item?id=50581260) |
