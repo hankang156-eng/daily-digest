@@ -1,9 +1,53 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-22 · 11564 items*
+*Last updated: 2026-11-23 · 11608 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-11-22 | 87% of the Anthropic power will come from gas and 11% from coal in 2028 | HN | Technology | tech | 2026-11-22 | [link](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/) |
+| 2026-11-22 | What Happened to Silicon Valley? | HN | Technology | tech | 2026-11-22 | [link](https://www.oreilly.com/radar/what-happened-to-silicon-valley/) |
+| 2026-11-22 | Perplexity and Intelligence | HN | Technology | tech | 2026-11-22 | [link](https://openai.com/index/perplexity-and-intelligence/) |
+| 2026-11-22 | Free alternative TV network built from the Internet Archive's forgotten videos | HN | Technology | tech | 2026-11-22 | [link](https://spelunkr.tv) |
+| 2026-11-22 | A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth | HN | Technology | tech | 2026-11-22 | [link](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) |
+| 2026-11-22 | The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife | HN | Technology | tech | 2026-11-22 | [link](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife) |
+| 2026-11-22 | XNU Linux: Full OS X GUI Userspace on Linux | HN | Technology | tech | 2026-11-22 | [link](https://github.com/AFK-surf/xnulinux) |
+| 2026-11-22 | Show HN: I built a game where you are an LLM's subagent | HN | Technology | tech | 2026-11-22 | [link](https://github.com/gulivan/worker755) |
+| 2026-11-22 | A miniature San Francisco with live buses, planes and boats | HN | Technology | tech | 2026-11-22 | [link](https://smallsf.com/) |
+| 2026-11-22 | Open Social Web Alliance | HN | Technology | tech | 2026-11-22 | [link](https://osw-alliance.net/en/) |
+| 2026-11-22 | Progress map for the Lean formalization of Alessandro Masullo's manuscript | HN | Technology | tech | 2026-11-22 | [link](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3) |
+| 2026-11-22 | Masullo on the Riemann Hypothesis | HN | Technology | tech | 2026-11-22 | [link](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/) |
+| 2026-11-22 | Assume People Are Not Interested in Your Blog Post | HN | Technology | tech | 2026-11-22 | [link](https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/) |
+| 2026-11-22 | GL.iNet Security Notice 2026-11-20 | HN | Technology | tech | 2026-11-22 | [link](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20) |
+| 2026-11-22 | Backblaze customers worried of personal data sale/sharing after policy update | HN | Technology | tech | 2026-11-22 | [link](https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/) |
+| 2026-11-22 | Europe weakens chemical rules as science links them to 'lifestyle diseases' | HN | Technology | tech | 2026-11-22 | [link](https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html) |
+| 2026-11-22 | CVS Health’s Planned Breakup Hasn’t Quieted Antitrust Critics | NYT · Business | Business | news | 2026-11-23 | [link](https://www.nytimes.com/2026/11/23/business/cvs-pharmacy-health-federal-investigations-antitrust.html) |
+| 2026-11-22 | Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley | NYT · Technology | Technology | news | 2026-11-21 | [link](https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html) |
+| 2026-11-22 | How to Plan for an A.I. Emergency, or Any Calamity | NYT · Business | Business | news | 2026-11-22 | [link](https://www.nytimes.com/2026/11/21/business/ai-emergency-plan.html) |
+| 2026-11-22 | Wall Street Set to Bounce Back After Tough Week | NYT · Business | Business | news | 2026-11-23 | [link](https://www.nytimes.com/2026/11/22/business/ai-stocks-sp500.html) |
+| 2026-11-22 | Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad | NYT · Technology | Technology | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html) |
+| 2026-11-22 | Senate Passes Major Permitting Bill to Speed Up Energy Projects | NYT · Energy & Environment | Energy & Environment | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html) |
+| 2026-11-22 | The Internet Broke Our Taste. Will A.I. Destroy It for Good? | NYT · Technology | Technology | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html) |
+| 2026-11-22 | Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China | NYT · Business | Business | news | 2026-11-22 | [link](https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html) |
+| 2026-11-22 | China’s A.I. Ambitions Are Running Into a Money Problem | NYT · Business | Business | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html) |
+| 2026-11-22 | U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair | NYT · Politics | Politics | news | 2026-11-23 | [link](https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html) |
+| 2026-11-22 | How Jensen Huang Made Humiliation Routine at Nvidia | NYT · Technology | Technology | news | 2026-11-21 | [link](https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html) |
+| 2026-11-22 | Permitting Bill Would Charge Data Centers Billions for Power | NYT · Energy & Environment | Energy & Environment | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html) |
+| 2026-11-22 | Judge Blocks Trump Administration’s Effort to Transform Homelessness Policy | NYT · Politics | Politics | news | 2026-11-22 | [link](https://www.nytimes.com/2026/11/21/us/politics/judge-trump-homeless-aid-addiction-treatment.html) |
+| 2026-11-22 | Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards | NYT · Technology | Technology | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html) |
+| 2026-11-22 | How Melania Trump Found a Diplomatic Opening in the War in Ukraine | NYT · Politics | Politics | news | 2026-11-22 | [link](https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html) |
+| 2026-11-22 | California Sues OpenAI Over A.I. Safety Issues | NYT · Technology | Technology | news | 2026-11-16 | [link](https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html) |
+| 2026-11-22 | Why Is the Stock Market Down After Anthropic’s Successful IPO? | NYT · Technology | Technology | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html) |
+| 2026-11-22 | Should You Invest in Anthropic? Here’s What to Consider. | NYT · Your Money | Your Money | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/19/your-money/anthropic-ipo-investing.html) |
+| 2026-11-22 | The Permitting Bill Is Splitting the Environmental Movement | NYT · Energy & Environment | Energy & Environment | news | 2026-11-19 | [link](https://www.nytimes.com/2026/11/18/climate/permitting-bill-baaja-environmentalists-energy.html) |
+| 2026-11-22 | China’s A.I. Freakout Is Coming. Just Wait. | NYT · Opinion | Opinion | opinion | 2026-11-23 | [link](https://www.nytimes.com/2026/11/23/opinion/china-ai-race-control.html) |
+| 2026-11-22 | Weekly Update 531: Optimizely. Script Dependencies & Third Parties | Troy Hunt · Security & Privacy | Security | tech | 2026-11-22 | [link](https://www.troyhunt.com/weekly-update-531/) |
+| 2026-11-22 | Why the next phase of the data center buildout runs on light | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-22 | [link](https://www.datacenterdynamics.com/en/opinions/why-the-next-phase-of-the-data-center-buildout-runs-on-light/) |
+| 2026-11-22 | Britain is hosting the AI boom, not owning it | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-22 | [link](https://www.datacenterdynamics.com/en/opinions/britain-is-hosting-the-ai-boom-not-owning-it/) |
+| 2026-11-22 | Select Styling Specimens | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-22 | [link](https://simonwillison.net/2026/Nov/22/select-styling/) |
+| 2026-11-22 | Ivy | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-22 | [link](https://semantical.com/?utm_campaign=df-2026-12) |
+| 2026-11-22 | I don't enjoy being pampered | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-11-22 | [link](https://shkspr.mobi/blog/2026/11/i-dont-enjoy-being-pampered/) |
+| 2026-11-22 | Talk: Clojure, интерфейсы и потерянные смыслы @ Организованное программирование | Tonsky.me · Tech & Engineering | Technology | tech | 2026-11-22 | [link](https://tonsky.me/talks/#2026-11-22) |
+| 2026-11-22 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-21 | Lean verification of the Riemann Hypothesis | HN | Technology | tech | 2026-11-21 | [link](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) |
 | 2026-11-21 | Detonating a pile of lead azide | HN | Technology | tech | 2026-11-21 | [link](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) |
 | 2026-11-21 | My monitor was cutting my download speed by 75% | HN | Technology | tech | 2026-11-21 | [link](https://blog.tymscar.com/posts/studiodisplayethernet/) |

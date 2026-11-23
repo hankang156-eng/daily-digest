@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-22 · 555 days · 5550 stories*
+*Last updated: 2026-11-23 · 556 days · 5560 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-22 | Sunday | 1 | 87% of the Anthropic power will come from gas and 11% from coal in 2028 | 974 | 957 | Technology | [link](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/) · [HN](https://news.ycombinator.com/item?id=50597612) |
+| 2026-11-22 | Sunday | 2 | What Happened to Silicon Valley? | 669 | 353 | Technology | [link](https://www.oreilly.com/radar/what-happened-to-silicon-valley/) · [HN](https://news.ycombinator.com/item?id=50602947) |
+| 2026-11-22 | Sunday | 3 | Perplexity and Intelligence | 595 | 404 | Technology | [link](https://openai.com/index/perplexity-and-intelligence/) · [HN](https://news.ycombinator.com/item?id=50601525) |
+| 2026-11-22 | Sunday | 4 | Free alternative TV network built from the Internet Archive's forgotten videos | 549 | 88 | Technology | [link](https://spelunkr.tv) · [HN](https://news.ycombinator.com/item?id=50606192) |
+| 2026-11-22 | Sunday | 5 | A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth | 534 | 225 | Technology | [link](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) · [HN](https://news.ycombinator.com/item?id=50603845) |
+| 2026-11-22 | Sunday | 6 | The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife | 512 | 262 | Technology | [link](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife) · [HN](https://news.ycombinator.com/item?id=50602843) |
+| 2026-11-22 | Sunday | 7 | XNU Linux: Full OS X GUI Userspace on Linux | 351 | 163 | Technology | [link](https://github.com/AFK-surf/xnulinux) · [HN](https://news.ycombinator.com/item?id=50607261) |
+| 2026-11-22 | Sunday | 8 | Show HN: I built a game where you are an LLM's subagent | 321 | 78 | Technology | [link](https://github.com/gulivan/worker755) · [HN](https://news.ycombinator.com/item?id=50599762) |
+| 2026-11-22 | Sunday | 9 | A miniature San Francisco with live buses, planes and boats | 280 | 95 | Technology | [link](https://smallsf.com/) · [HN](https://news.ycombinator.com/item?id=50603589) |
+| 2026-11-22 | Sunday | 10 | Open Social Web Alliance | 245 | 233 | Technology | [link](https://osw-alliance.net/en/) · [HN](https://news.ycombinator.com/item?id=50600511) |
 | 2026-11-21 | Saturday | 1 | Lean verification of the Riemann Hypothesis | 1049 | 871 | Technology | [link](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) · [HN](https://news.ycombinator.com/item?id=50589618) |
 | 2026-11-21 | Saturday | 2 | Detonating a pile of lead azide | 618 | 390 | Technology | [link](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) · [HN](https://news.ycombinator.com/item?id=50588982) |
 | 2026-11-21 | Saturday | 3 | My monitor was cutting my download speed by 75% | 593 | 277 | Technology | [link](https://blog.tymscar.com/posts/studiodisplayethernet/) · [HN](https://news.ycombinator.com/item?id=50587875) |
