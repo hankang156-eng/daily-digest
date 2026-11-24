@@ -1,9 +1,58 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-23 · 11608 items*
+*Last updated: 2026-11-24 · 11657 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-11-23 | Nvidia Reinstates Jensen Huang as CEO | HN | Technology | tech | 2026-11-23 | [link](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) |
+| 2026-11-23 | Ladybird is now in alpha | HN | Technology | tech | 2026-11-23 | [link](https://ladybird.org/posts/alpha/) |
+| 2026-11-23 | "Dario is hyping the dangers so OSS models are illegal and he stays in control" | HN | Technology | tech | 2026-11-23 | [link](https://twitter.com/ylecun/status/2124550037912920090) |
+| 2026-11-23 | Jensen Huang Reinstated as Nvidia CEO | HN | Technology | tech | 2026-11-23 | [link](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director) |
+| 2026-11-23 | GLM-5.4: Toward generalized coding with our first loop transformer | HN | Technology | tech | 2026-11-23 | [link](https://z.ai/blog/glm-5.4) |
+| 2026-11-23 | Per Arm's request, this site will be discontinued on 4 December 2026 :( | HN | Technology | tech | 2026-11-23 | [link](https://arm.jonpalmisc.com/) |
+| 2026-11-23 | Apple removed my open-source app from EU App Stores after 9 years | HN | Technology | tech | 2026-11-23 | [link](https://github.com/glushchenko/fsnotes/discussions/2056) |
+| 2026-11-23 | Stalwart is now a drop-in replacement for Microsoft Exchange | HN | Technology | tech | 2026-11-23 | [link](https://stalw.art/blog/microsoft-exchange-replacement/) |
+| 2026-11-23 | Kagi Mail (public beta) | HN | Technology | tech | 2026-11-23 | [link](https://blog.kagi.com/kagi-mail-public-beta) |
+| 2026-11-23 | New York Bans Subscription and Post-Purchase Fees on Cars | HN | Technology | tech | 2026-11-23 | [link](https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription) |
+| 2026-11-23 | VP ≠ VNP over Every Field | HN | Technology | tech | 2026-11-23 | [link](https://github.com/anthropics/formal-math/tree/main/vp-vnp) |
+| 2026-11-23 | Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor | HN | Technology | tech | 2026-11-23 | [link](https://github.com/os6/nospeaker) |
+| 2026-11-23 | Huang's Return Is the Biggest National Security Scandal in U.S. History | HN | Technology | tech | 2026-11-23 | [link](https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/) |
+| 2026-11-23 | Cyberleek posted the GTA 6 Xbox build executable | HN | Technology | tech | 2026-11-23 | [link](https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/) |
+| 2026-11-23 | GPUI is getting its own repository | HN | Technology | tech | 2026-11-23 | [link](https://github.com/zed-industries/gpui) |
+| 2026-11-23 | Yes, 17M lines of Lean is a lot | HN | Technology | tech | 2026-11-23 | [link](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/) |
+| 2026-11-23 | CVS Health’s Planned Breakup Hasn’t Quieted Antitrust Critics | NYT · Business | Business | news | 2026-11-23 | [link](https://www.nytimes.com/2026/11/23/business/cvs-pharmacy-health-federal-investigations-antitrust.html) |
+| 2026-11-23 | With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board | NYT · Technology | Technology | news | 2026-11-23 | [link](https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html) |
+| 2026-11-23 | Jensen Huang Returns to Nvidia, Showing What Trump Will Do for AI | NYT · Business | Business | news | 2026-11-23 | [link](https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html) |
+| 2026-11-23 | Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO | NYT · Business | Business | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html) |
+| 2026-11-23 | Trump Is Said to Have Pushed to Reinstate Nvidia CEO Jensen Huang | NYT · Technology | Technology | news | 2026-11-23 | [link](https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html) |
+| 2026-11-23 | How to Plan for an A.I. Emergency, or Any Calamity | NYT · Business | Business | news | 2026-11-23 | [link](https://www.nytimes.com/2026/11/21/business/ai-emergency-plan.html) |
+| 2026-11-23 | Trump’s Own Stock Portfolio Likely Benefits From Nvidia’s Rise | NYT · Technology | Technology | news | 2026-11-23 | [link](https://www.nytimes.com/2026/11/23/technology/trump-nvidia-stock-purchases.html) |
+| 2026-11-23 | Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed | NYT · Economy | Economy | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html) |
+| 2026-11-23 | Facing Criticism, Trump Administration Says It’s Investigating Megaspeed | NYT · Economy | Economy | news | 2026-11-23 | [link](https://www.nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html) |
+| 2026-11-23 | COP31 Climate Talks Broke Down. Now What? | NYT · Energy & Environment | Energy & Environment | news | 2026-11-23 | [link](https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html) |
+| 2026-11-23 | Why the Nvidia Board Folded | NYT · Opinion | Opinion | opinion | 2026-11-24 | [link](https://www.nytimes.com/2026/11/24/opinion/nvidia-board-jensen-huang-reinstated.html) |
+| 2026-11-23 | SpaceX Sued By Oregon and Virginia Over A.I.-Generated Sexualized Images | NYT · Technology | Technology | news | 2026-11-23 | [link](https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html) |
+| 2026-11-23 | Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal | NYT · Technology | Technology | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html) |
+| 2026-11-23 | Senate Passes Major Permitting Bill to Speed Up Energy Projects | NYT · Energy & Environment | Energy & Environment | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html) |
+| 2026-11-23 | Fake Personas Aligned With China Are Targeting Taiwan’s Election, Researchers Say | NYT · Politics | Politics | news | 2026-11-23 | [link](https://www.nytimes.com/2026/11/23/us/politics/taiwan-elections-misinformation.html) |
+| 2026-11-23 | OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say | NYT · Technology | Technology | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html) |
+| 2026-11-23 | The Internet Broke Our Taste. Will A.I. Destroy It for Good? | NYT · Technology | Technology | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html) |
+| 2026-11-23 | Why Trump Put Jensen Huang Back in Charge at Nvidia | NYT · Technology | Technology | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/23/podcasts/why-trump-put-jensen-huang-back-in-charge-at-nvidia.html) |
+| 2026-11-23 | Permitting Bill Would Charge Data Centers Billions for Power | NYT · Energy & Environment | Energy & Environment | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html) |
+| 2026-11-23 | China’s A.I. Freakout Is Coming. Just Wait. | NYT · Opinion | Opinion | opinion | 2026-11-23 | [link](https://www.nytimes.com/2026/11/23/opinion/china-ai-race-control.html) |
+| 2026-11-23 | AI server OEMs hiking prices by 45% as memory shortage bites - report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-23 | [link](https://www.datacenterdynamics.com/en/news/ai-server-oems-hiking-prices-by-45-as-memory-shortage-bites-report/) |
+| 2026-11-23 | Sponsored: Solving cabling challenges behind AI data center growth | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-23 | [link](https://www.datacenterdynamics.com/en/marketwatch/solving-cabling-challenges-behind-ai-data-center-growth/) |
+| 2026-11-23 | Off-grid costs will push data centers back to utilities: Mitsubishi Heavy Industries CEO | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-23 | [link](https://www.utilitydive.com/news/data-centers-mitsubishi-gas-turbines-earnings/875146/) |
+| 2026-11-23 | New Jersey utilities have less than a year to implement virtual power plants | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-23 | [link](https://www.utilitydive.com/news/new-jersey-utilities-have-less-than-a-year-to-implement-virtual-power-plant/875482/) |
+| 2026-11-23 | Energy companies whiplashed by Nvidia drama as Jensen Huang returns | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-23 | [link](https://www.latitudemedia.com/news/energy-companies-whiplashed-by-nvidia-drama-as-jensen-huang-returns/) |
+| 2026-11-23 | Here's Why Data Breach Disclosure is so Hard: Lessons from Hundreds of Emails with Hacked Companies | Troy Hunt · Security & Privacy | Security | tech | 2026-11-23 | [link](https://www.troyhunt.com/heres-why-data-breach-disclosure-is-so-hard-lessons-from-hundreds-of-emails-with-hacked-companies/) |
+| 2026-11-23 | How data centers can help bring solar and batteries to homes | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-23 | [link](https://www.latitudemedia.com/news/how-data-centers-can-help-bring-solar-and-batteries-to-homes/) |
+| 2026-11-23 | Ladybird's first alpha release | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-23 | [link](https://simonwillison.net/2026/Nov/23/ladybird/) |
+| 2026-11-23 | GLM-5.4: Toward Generalized Coding with Our First Loop Transformer | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-23 | [link](https://simonwillison.net/2026/Nov/23/glm-54/) |
+| 2026-11-23 | Government Regulation and Demand | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-23 | [link](https://stratechery.com/2026/obituaries/) |
+| 2026-11-23 | Jensen Huang Returns to Work | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-23 | [link](https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11) |
+| 2026-11-23 | Gadget Review: Cheap Zigbee Environmental Sensors ★★★☆☆ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-11-23 | [link](https://shkspr.mobi/blog/2026/11/gadget-review-cheap-zigbee-environmental-sensors/) |
+| 2026-11-23 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-22 | 87% of the Anthropic power will come from gas and 11% from coal in 2028 | HN | Technology | tech | 2026-11-22 | [link](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/) |
 | 2026-11-22 | What Happened to Silicon Valley? | HN | Technology | tech | 2026-11-22 | [link](https://www.oreilly.com/radar/what-happened-to-silicon-valley/) |
 | 2026-11-22 | Perplexity and Intelligence | HN | Technology | tech | 2026-11-22 | [link](https://openai.com/index/perplexity-and-intelligence/) |

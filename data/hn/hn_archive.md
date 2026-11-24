@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-23 · 556 days · 5560 stories*
+*Last updated: 2026-11-24 · 557 days · 5570 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-23 | Monday | 1 | Nvidia Reinstates Jensen Huang as CEO | 2608 | 3499 | Technology | [link](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) · [HN](https://news.ycombinator.com/item?id=50611576) |
+| 2026-11-23 | Monday | 2 | Ladybird is now in alpha | 2023 | 472 | Technology | [link](https://ladybird.org/posts/alpha/) · [HN](https://news.ycombinator.com/item?id=50614249) |
+| 2026-11-23 | Monday | 3 | "Dario is hyping the dangers so OSS models are illegal and he stays in control" | 1715 | 961 | Technology | [link](https://twitter.com/ylecun/status/2124550037912920090) · [HN](https://news.ycombinator.com/item?id=50615308) |
+| 2026-11-23 | Monday | 4 | Jensen Huang Reinstated as Nvidia CEO | 1708 | 4 | Technology | [link](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director) · [HN](https://news.ycombinator.com/item?id=50611588) |
+| 2026-11-23 | Monday | 5 | GLM-5.4: Toward generalized coding with our first loop transformer | 1133 | 369 | Technology | [link](https://z.ai/blog/glm-5.4) · [HN](https://news.ycombinator.com/item?id=50609685) |
+| 2026-11-23 | Monday | 6 | Per Arm's request, this site will be discontinued on 4 December 2026 :( | 1060 | 245 | Technology | [link](https://arm.jonpalmisc.com/) · [HN](https://news.ycombinator.com/item?id=50617499) |
+| 2026-11-23 | Monday | 7 | Apple removed my open-source app from EU App Stores after 9 years | 584 | 142 | Technology | [link](https://github.com/glushchenko/fsnotes/discussions/2056) · [HN](https://news.ycombinator.com/item?id=50616933) |
+| 2026-11-23 | Monday | 8 | Stalwart is now a drop-in replacement for Microsoft Exchange | 493 | 262 | Technology | [link](https://stalw.art/blog/microsoft-exchange-replacement/) · [HN](https://news.ycombinator.com/item?id=50620349) |
+| 2026-11-23 | Monday | 9 | Kagi Mail (public beta) | 434 | 348 | Technology | [link](https://blog.kagi.com/kagi-mail-public-beta) · [HN](https://news.ycombinator.com/item?id=50615481) |
+| 2026-11-23 | Monday | 10 | New York Bans Subscription and Post-Purchase Fees on Cars | 388 | 132 | Technology | [link](https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription) · [HN](https://news.ycombinator.com/item?id=50622774) |
 | 2026-11-22 | Sunday | 1 | 87% of the Anthropic power will come from gas and 11% from coal in 2028 | 974 | 957 | Technology | [link](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/) · [HN](https://news.ycombinator.com/item?id=50597612) |
 | 2026-11-22 | Sunday | 2 | What Happened to Silicon Valley? | 669 | 353 | Technology | [link](https://www.oreilly.com/radar/what-happened-to-silicon-valley/) · [HN](https://news.ycombinator.com/item?id=50602947) |
 | 2026-11-22 | Sunday | 3 | Perplexity and Intelligence | 595 | 404 | Technology | [link](https://openai.com/index/perplexity-and-intelligence/) · [HN](https://news.ycombinator.com/item?id=50601525) |
