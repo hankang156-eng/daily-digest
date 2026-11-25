@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-24 · 557 days · 5570 stories*
+*Last updated: 2026-11-25 · 558 days · 5580 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-24 | Tuesday | 1 | 2035 came early | 1000 | 371 | Technology | [link](https://fzakaria.com/2026/11/23/2035-came-early) · [HN](https://news.ycombinator.com/item?id=50624497) |
+| 2026-11-24 | Tuesday | 2 | LLM agents work for their parent companies, not for you | 976 | 403 | Technology | [link](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/) · [HN](https://news.ycombinator.com/item?id=50627340) |
+| 2026-11-24 | Tuesday | 3 | Matrix Multiplication is Θ(n^2.25) [pdf] | 668 | 354 | Technology | [link](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) · [HN](https://news.ycombinator.com/item?id=50637220) |
+| 2026-11-24 | Tuesday | 4 | Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang | 476 | 272 | Technology | [link](https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/) · [HN](https://news.ycombinator.com/item?id=50626578) |
+| 2026-11-24 | Tuesday | 5 | Ternary Bonsai 2.5 27B | 457 | 141 | Technology | [link](https://prismml.com/news/bonsai-2-5-27b) · [HN](https://news.ycombinator.com/item?id=50633922) |
+| 2026-11-24 | Tuesday | 6 | GTA 6 Running on Windows | 407 | 484 | Technology | [link](https://twitter.com/raul_bs3/status/2125213756238291075) · [HN](https://news.ycombinator.com/item?id=50627783) |
+| 2026-11-24 | Tuesday | 7 | Button Sounds – collection of professionally-recorded button clicks and presses | 406 | 55 | Technology | [link](https://buttons.joshwcomeau.com/) · [HN](https://news.ycombinator.com/item?id=50638032) |
+| 2026-11-24 | Tuesday | 8 | Anthropic breaks below $83 IPO price | 402 | 766 | Technology | [link](https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading) · [HN](https://news.ycombinator.com/item?id=50627836) |
+| 2026-11-24 | Tuesday | 9 | Quad9 pulled their DNS service from France | 374 | 247 | Technology | [link](https://quad9.net/news/blog/quad9-service-deactivation-in-france/) · [HN](https://news.ycombinator.com/item?id=50625384) |
+| 2026-11-24 | Tuesday | 10 | Tidal bans AI-generated music | 329 | 314 | Technology | [link](https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/) · [HN](https://news.ycombinator.com/item?id=50630309) |
 | 2026-11-23 | Monday | 1 | Nvidia Reinstates Jensen Huang as CEO | 2608 | 3499 | Technology | [link](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) · [HN](https://news.ycombinator.com/item?id=50611576) |
 | 2026-11-23 | Monday | 2 | Ladybird is now in alpha | 2023 | 472 | Technology | [link](https://ladybird.org/posts/alpha/) · [HN](https://news.ycombinator.com/item?id=50614249) |
 | 2026-11-23 | Monday | 3 | "Dario is hyping the dangers so OSS models are illegal and he stays in control" | 1715 | 961 | Technology | [link](https://twitter.com/ylecun/status/2124550037912920090) · [HN](https://news.ycombinator.com/item?id=50615308) |

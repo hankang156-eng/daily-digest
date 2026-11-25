@@ -1,9 +1,57 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-24 · 11657 items*
+*Last updated: 2026-11-25 · 11705 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-11-24 | 2035 came early | HN | Technology | tech | 2026-11-24 | [link](https://fzakaria.com/2026/11/23/2035-came-early) |
+| 2026-11-24 | LLM agents work for their parent companies, not for you | HN | Technology | tech | 2026-11-24 | [link](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/) |
+| 2026-11-24 | Matrix Multiplication is Θ(n^2.25) [pdf] | HN | Technology | tech | 2026-11-24 | [link](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) |
+| 2026-11-24 | Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang | HN | Technology | tech | 2026-11-24 | [link](https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/) |
+| 2026-11-24 | Ternary Bonsai 2.5 27B | HN | Technology | tech | 2026-11-24 | [link](https://prismml.com/news/bonsai-2-5-27b) |
+| 2026-11-24 | GTA 6 Running on Windows | HN | Technology | tech | 2026-11-24 | [link](https://twitter.com/raul_bs3/status/2125213756238291075) |
+| 2026-11-24 | Button Sounds – collection of professionally-recorded button clicks and presses | HN | Technology | tech | 2026-11-24 | [link](https://buttons.joshwcomeau.com/) |
+| 2026-11-24 | Anthropic breaks below $83 IPO price | HN | Technology | tech | 2026-11-24 | [link](https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading) |
+| 2026-11-24 | Quad9 pulled their DNS service from France | HN | Technology | tech | 2026-11-24 | [link](https://quad9.net/news/blog/quad9-service-deactivation-in-france/) |
+| 2026-11-24 | Tidal bans AI-generated music | HN | Technology | tech | 2026-11-24 | [link](https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/) |
+| 2026-11-24 | Jetty Pro | HN | Technology | tech | 2026-11-24 | [link](http://hypercritical.co/2026/11/23/jetty-pro) |
+| 2026-11-24 | Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not? | HN | Technology | tech | 2026-11-24 | [link](https://news.ycombinator.com/item?id=50630809) |
+| 2026-11-24 | Who in Washington owns and trades Nvidia stock | HN | Technology | tech | 2026-11-24 | [link](https://www.kadoa.com/congress/insights/trump-nvidia) |
+| 2026-11-24 | Active intrusion campaign against Check Point security management servers | HN | Technology | tech | 2026-11-24 | [link](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign) |
+| 2026-11-24 | GPT-6 models demonstrate intrinsic protein-design capabilities | HN | Technology | tech | 2026-11-24 | [link](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) |
+| 2026-11-24 | PenGPT: A Generative Transformer for Handwriting and Sketches | HN | Technology | tech | 2026-11-24 | [link](https://greydanus.github.io/2026/11/12/pengpt/) |
+| 2026-11-24 | Putting Socially Conscious Investments in 401(k) Plans Could Get Harder | NYT · Business | Business | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/24/your-money/401k-esg-rules.html) |
+| 2026-11-24 | Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns | NYT · Technology | Technology | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html) |
+| 2026-11-24 | With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board | NYT · Technology | Technology | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html) |
+| 2026-11-24 | Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War | NYT · Economy | Economy | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html) |
+| 2026-11-24 | 25 Years of DealBook Moments | NYT · Business | Business | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/24/business/dealbook/25-years-photographs-moments.html) |
+| 2026-11-24 | Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally | NYT · Business | Business | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html) |
+| 2026-11-24 | Trump’s Own Stock Portfolio Likely Benefits From Nvidia’s Rise | NYT · Technology | Technology | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/23/technology/trump-nvidia-stock-purchases.html) |
+| 2026-11-24 | Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers | NYT · Technology | Technology | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html) |
+| 2026-11-24 | Officials Brief Congressional Staff on Intelligence Surrounding Nvidia Affair | NYT · Politics | Politics | news | 2026-11-25 | [link](https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html) |
+| 2026-11-24 | Why the Nvidia Board Folded | NYT · Opinion | Opinion | opinion | 2026-11-24 | [link](https://www.nytimes.com/2026/11/24/opinion/nvidia-board-jensen-huang-reinstated.html) |
+| 2026-11-24 | OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say | NYT · Technology | Technology | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html) |
+| 2026-11-24 | Student Who Lost Eye During ‘No Kings’ Protest Sues Federal Government | NYT · U.S. | U.S. | news | 2026-11-25 | [link](https://www.nytimes.com/2026/11/24/us/los-angeles-no-kings-protest-lawsuit.html) |
+| 2026-11-24 | COP31 Climate Talks Broke Down. Now What? | NYT · Energy & Environment | Energy & Environment | news | 2026-11-23 | [link](https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html) |
+| 2026-11-24 | Republicans Break With Trump Over Jensen Huang’s Reinstatement at Nvidia | NYT · Technology | Technology | news | 2026-11-23 | [link](https://www.nytimes.com/2026/11/23/technology/republicans-trump-jensen-huang-nvidia.html) |
+| 2026-11-24 | Why Trump Put Jensen Huang Back in Charge at Nvidia | NYT · Technology | Technology | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/23/podcasts/why-trump-put-jensen-huang-back-in-charge-at-nvidia.html) |
+| 2026-11-24 | Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad | NYT · Technology | Technology | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html) |
+| 2026-11-24 | ‘The Digital Deficit Has Come Due’ | NYT · Opinion | Opinion | opinion | 2026-11-24 | [link](https://www.nytimes.com/video/opinion/100000011299692/the-digital-deficit-has-come-due.html) |
+| 2026-11-24 | Senate Passes Major Permitting Bill to Speed Up Energy Projects | NYT · Energy & Environment | Energy & Environment | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html) |
+| 2026-11-24 | Permitting Bill Would Charge Data Centers Billions for Power | NYT · Energy & Environment | Energy & Environment | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html) |
+| 2026-11-24 | No. 2 Official at F.B.I. Is Said to Be Retiring Before End of Year | NYT · Politics | Politics | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/23/us/politics/fbi-raia-retiring.html) |
+| 2026-11-24 | ABB to acquire cooling fan company Ziehl-Abegg for $2.65bn | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-24 | [link](https://www.datacenterdynamics.com/en/news/ziehl-abegg-is-a-growing-technology-leader-with-a-compelling-portfolio-and-a-significant-presence-in-some-of-the-worlds-most-dynamic-markets-at-the-heart-of-our-success-are-our-employees-whose-expertise-dedication-and-innovative-spirit-have-made-us/) |
+| 2026-11-24 | Quantum hardware startup Planckian awarded €10m EIC funding under accelerator program | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-24 | [link](https://www.datacenterdynamics.com/en/news/quantum-hardware-startup-planckian-awarded-10m-eic-funding-under-accelerator-program/) |
+| 2026-11-24 | How to Get Involved with the Open Compute Project | Open Compute Project · AI Infrastructure | Infrastructure | tech | 2026-11-24 | [link](https://www.opencompute.org/news/how-to-get-involved-with-the-open-compute-project-2/) |
+| 2026-11-24 | GPT 6.2 Astra Solves a Historical Mystery | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-24 | [link](https://simonwillison.net/2026/Nov/24/astra-historical-mystery/) |
+| 2026-11-24 | Why everyone is talking about grid utilization | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-24 | [link](https://www.latitudemedia.com/news/open-circuit-why-everyone-is-talking-about-grid-utilization/) |
+| 2026-11-24 | Data Centers Must Disclose Erratic Power Use, Regulators Say | IEEE Spectrum Energy · AI Infrastructure | Infrastructure | tech | 2026-11-24 | [link](https://spectrum.ieee.org/nercs-data-center-power-rules) |
+| 2026-11-24 | FirstEnergy utilities get approval for $2.5B gas plant in West Virginia | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-24 | [link](https://www.utilitydive.com/news/firstenergy-utilities-get-approval-for-25b-gas-plant-in-west-virginia/875646/) |
+| 2026-11-24 | Three LLM inflection points in twelve months | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-24 | [link](https://simonwillison.net/2026/Nov/24/llm-inflection-points/) |
+| 2026-11-24 | Nvidia and Trump’s State Capitalism | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-24 | [link](https://www.wsj.com/opinion/nvidia-jensen-huang-donald-trump-130e644c) |
+| 2026-11-24 | [Sponsor] Finalist Daily Planner Meets iPhone Duo | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-24 | [link](https://www.finalist.works/iphone-duo-planner/?utm_source=df-nov-2026) |
+| 2026-11-24 | Virgin Media Hub 5 API | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-11-24 | [link](https://shkspr.mobi/blog/2026/11/virgin-media-hub-5-api/) |
+| 2026-11-24 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-23 | Nvidia Reinstates Jensen Huang as CEO | HN | Technology | tech | 2026-11-23 | [link](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) |
 | 2026-11-23 | Ladybird is now in alpha | HN | Technology | tech | 2026-11-23 | [link](https://ladybird.org/posts/alpha/) |
 | 2026-11-23 | "Dario is hyping the dangers so OSS models are illegal and he stays in control" | HN | Technology | tech | 2026-11-23 | [link](https://twitter.com/ylecun/status/2124550037912920090) |
