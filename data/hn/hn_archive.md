@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-25 · 558 days · 5580 stories*
+*Last updated: 2026-11-26 · 559 days · 5590 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-25 | Wednesday | 1 | Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening | 1593 | 1395 | Technology | [link](https://scottaaronson.blog/?p=10379) · [HN](https://news.ycombinator.com/item?id=50646108) |
+| 2026-11-25 | Wednesday | 2 | 1Password Security Incident | 1453 | 631 | Technology | [link](https://1password.com/blog/update-on-nov-2026-security-incident) · [HN](https://news.ycombinator.com/item?id=50644817) |
+| 2026-11-25 | Wednesday | 3 | Google releases Cogentic papers on integer factorization, discrete logs and more | 494 | 357 | Technology | [link](https://github.com/google-research/google-research/tree/master/cogentic_research_papers) · [HN](https://news.ycombinator.com/item?id=50642086) |
+| 2026-11-25 | Wednesday | 4 | Rumors swirling that labs might have cracked Factoring in P | 492 | 360 | Technology | [link](https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/) · [HN](https://news.ycombinator.com/item?id=50643065) |
+| 2026-11-25 | Wednesday | 5 | A few questions for the guy who went snorkeling in a Home Depot retention pond | 480 | 115 | Technology | [link](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts) · [HN](https://news.ycombinator.com/item?id=50643129) |
+| 2026-11-25 | Wednesday | 6 | Much shorter version of GRH Lean verification from Anthropic | 467 | 253 | Technology | [link](https://github.com/lsernau/grh-lean) · [HN](https://news.ycombinator.com/item?id=50648050) |
+| 2026-11-25 | Wednesday | 7 | The New York Times warns photographers not to update Photoshop over AI features | 404 | 341 | Technology | [link](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features) · [HN](https://news.ycombinator.com/item?id=50647673) |
+| 2026-11-25 | Wednesday | 8 | Smart people who give a shit use tools | 339 | 265 | Technology | [link](https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools) · [HN](https://news.ycombinator.com/item?id=50639698) |
+| 2026-11-25 | Wednesday | 9 | Windows Loudness Equalization, reverse-engineered and ported to PipeWire | 337 | 186 | Technology | [link](https://github.com/xoxorwr/pw-loudness-eq) · [HN](https://news.ycombinator.com/item?id=50641171) |
+| 2026-11-25 | Wednesday | 10 | Jev is probably Qwen3.5-35B-A3B | 316 | 88 | Technology | [link](https://modaic.dev/blog/latency-doesnt-lie) · [HN](https://news.ycombinator.com/item?id=50648823) |
 | 2026-11-24 | Tuesday | 1 | 2035 came early | 1000 | 371 | Technology | [link](https://fzakaria.com/2026/11/23/2035-came-early) · [HN](https://news.ycombinator.com/item?id=50624497) |
 | 2026-11-24 | Tuesday | 2 | LLM agents work for their parent companies, not for you | 976 | 403 | Technology | [link](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/) · [HN](https://news.ycombinator.com/item?id=50627340) |
 | 2026-11-24 | Tuesday | 3 | Matrix Multiplication is Θ(n^2.25) [pdf] | 668 | 354 | Technology | [link](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) · [HN](https://news.ycombinator.com/item?id=50637220) |

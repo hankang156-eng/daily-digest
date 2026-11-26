@@ -1,9 +1,56 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-25 · 11705 items*
+*Last updated: 2026-11-26 · 11752 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-11-25 | Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening | HN | Technology | tech | 2026-11-25 | [link](https://scottaaronson.blog/?p=10379) |
+| 2026-11-25 | 1Password Security Incident | HN | Technology | tech | 2026-11-25 | [link](https://1password.com/blog/update-on-nov-2026-security-incident) |
+| 2026-11-25 | Google releases Cogentic papers on integer factorization, discrete logs and more | HN | Technology | tech | 2026-11-25 | [link](https://github.com/google-research/google-research/tree/master/cogentic_research_papers) |
+| 2026-11-25 | Rumors swirling that labs might have cracked Factoring in P | HN | Technology | tech | 2026-11-25 | [link](https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/) |
+| 2026-11-25 | A few questions for the guy who went snorkeling in a Home Depot retention pond | HN | Technology | tech | 2026-11-25 | [link](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts) |
+| 2026-11-25 | Much shorter version of GRH Lean verification from Anthropic | HN | Technology | tech | 2026-11-25 | [link](https://github.com/lsernau/grh-lean) |
+| 2026-11-25 | The New York Times warns photographers not to update Photoshop over AI features | HN | Technology | tech | 2026-11-25 | [link](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features) |
+| 2026-11-25 | Smart people who give a shit use tools | HN | Technology | tech | 2026-11-25 | [link](https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools) |
+| 2026-11-25 | Windows Loudness Equalization, reverse-engineered and ported to PipeWire | HN | Technology | tech | 2026-11-25 | [link](https://github.com/xoxorwr/pw-loudness-eq) |
+| 2026-11-25 | Jev is probably Qwen3.5-35B-A3B | HN | Technology | tech | 2026-11-25 | [link](https://modaic.dev/blog/latency-doesnt-lie) |
+| 2026-11-25 | Slow Ubuntu security response times | HN | Technology | tech | 2026-11-25 | [link](https://www.openwall.com/lists/oss-security/2026/11/25/9) |
+| 2026-11-25 | Tell HN: Lots of Ask HNs again | HN | Technology | tech | 2026-11-25 | [link](https://news.ycombinator.com/item?id=50649864) |
+| 2026-11-25 | OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster | HN | Technology | tech | 2026-11-25 | [link](https://twitter.com/thsottiaux/status/2125784147889393806) |
+| 2026-11-25 | 72-hour fasting can reset your immune system, USC study shows | HN | Technology | tech | 2026-11-25 | [link](https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/) |
+| 2026-11-25 | I checked Clojure's core with Lean and found unreported bugs | HN | Technology | tech | 2026-11-25 | [link](https://s.conao3.com/blog/2026/e4f733) |
+| 2026-11-25 | Collection of preserved UI style guides | HN | Technology | tech | 2026-11-25 | [link](https://aresluna.org/ui-style-guides/) |
+| 2026-11-25 | Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long. | NYT · Business | Business | news | 2026-11-26 | [link](https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html) |
+| 2026-11-25 | Anthropic’s Stock Debut Could Hurt Tech Start-Ups | NYT · Technology | Technology | news | 2026-11-25 | [link](https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html) |
+| 2026-11-25 | Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress | NYT · Politics | Politics | news | 2026-11-26 | [link](https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html) |
+| 2026-11-25 | Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation | NYT · Business | Business | news | 2026-11-25 | [link](https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html) |
+| 2026-11-25 | Officials Brief Congressional Staff on Intelligence Surrounding Nvidia Affair | NYT · Politics | Politics | news | 2026-11-25 | [link](https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html) |
+| 2026-11-25 | Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War | NYT · Economy | Economy | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html) |
+| 2026-11-25 | Empowered Democrats Aim at Weakened Regulation and Corporate Corruption | NYT · Business | Business | news | 2026-11-25 | [link](https://www.nytimes.com/2026/11/25/business/corporate-america-democrats.html) |
+| 2026-11-25 | Putting Socially Conscious Investments in 401(k) Plans Could Get Harder | NYT · Business | Business | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/24/your-money/401k-esg-rules.html) |
+| 2026-11-25 | Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns | NYT · Technology | Technology | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html) |
+| 2026-11-25 | Why the Nvidia Board Folded | NYT · Opinion | Opinion | opinion | 2026-11-25 | [link](https://www.nytimes.com/2026/11/24/opinion/nvidia-board-jensen-huang-reinstated.html) |
+| 2026-11-25 | Trump’s Own Stock Portfolio Likely Benefits From Nvidia’s Rise | NYT · Technology | Technology | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/23/technology/trump-nvidia-stock-purchases.html) |
+| 2026-11-25 | Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers | NYT · Technology | Technology | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html) |
+| 2026-11-25 | Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad | NYT · Technology | Technology | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html) |
+| 2026-11-25 | Senate Passes Major Permitting Bill to Speed Up Energy Projects | NYT · Energy & Environment | Energy & Environment | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html) |
+| 2026-11-25 | Permitting Bill Would Charge Data Centers Billions for Power | NYT · Energy & Environment | Energy & Environment | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html) |
+| 2026-11-25 | OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say | NYT · Technology | Technology | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html) |
+| 2026-11-25 | The Next Fed Leader Should Be a Bot | NYT · Opinion | Opinion | opinion | 2026-11-26 | [link](https://www.nytimes.com/2026/11/26/opinion/federal-reserve-artifical-intelligence.html) |
+| 2026-11-25 | The Internet Broke Our Taste. Will A.I. Destroy It for Good? | NYT · Technology | Technology | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html) |
+| 2026-11-25 | COP31 Climate Talks Broke Down. Now What? | NYT · Energy & Environment | Energy & Environment | news | 2026-11-23 | [link](https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html) |
+| 2026-11-25 | Republicans Break With Trump Over Jensen Huang’s Reinstatement at Nvidia | NYT · Technology | Technology | news | 2026-11-23 | [link](https://www.nytimes.com/2026/11/23/technology/republicans-trump-jensen-huang-nvidia.html) |
+| 2026-11-25 | UK government seeks new AI investment-focused secretary, reporting to country's AI Minister | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-25 | [link](https://www.datacenterdynamics.com/en/news/uk-government-seeks-new-ai-investment-focused-secretary-reporting-to-countrys-ai-minister/) |
+| 2026-11-25 | GDS Holdings posts 10 percent net revenue increase YoY, revises down capex expectations | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-25 | [link](https://www.datacenterdynamics.com/en/news/gds-holdings-posts-10-percent-net-revenue-increase-yoy-revises-down-capex-expectations/) |
+| 2026-11-25 | What is holding back bidirectional EV charging as a grid resource? | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-25 | [link](https://www.utilitydive.com/news/what-is-holding-back-bidirectional-ev-charging-as-a-grid-resource/875766/) |
+| 2026-11-25 | Google’s grid deal in Ohio tests a faster path to data center power | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-25 | [link](https://www.latitudemedia.com/news/googles-grid-deal-in-ohio-tests-a-faster-path-to-data-center-power/) |
+| 2026-11-25 | Hyperscaler emissions are soaring. Do they need better climate goals? | Latitude Media · AI Infrastructure | Infrastructure | tech | 2026-11-25 | [link](https://www.latitudemedia.com/news/hyperscaler-emissions-are-soaring-do-they-need-better-climate-goals/) |
+| 2026-11-25 | 2026 Q3 earnings roundup: Utilities seek to reassure investors amid election fallout | Utility Dive · AI Infrastructure | Infrastructure | tech | 2026-11-25 | [link](https://www.utilitydive.com/news/2026-q3-roundup-utilities-seek-to-reassure-investors-amid-election-fallout/875726/) |
+| 2026-11-25 | ‘Trump Wanted Jensen Huang Back. Now, the President Is Alone in Washington’ | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-25 | [link](https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html) |
+| 2026-11-25 | Quoting Scott Aaronson | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-25 | [link](https://simonwillison.net/2026/Nov/25/scott-aaronson/) |
+| 2026-11-25 | datasette-charts 0.3a0 | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-25 | [link](https://simonwillison.net/2026/Nov/25/datasette-charts/) |
+| 2026-11-25 | Book Review: Slow Gods by Claire North ★★★★⯪ | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-11-25 | [link](https://shkspr.mobi/blog/2026/11/book-review-slow-gods-by-claire-north/) |
+| 2026-11-25 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-24 | 2035 came early | HN | Technology | tech | 2026-11-24 | [link](https://fzakaria.com/2026/11/23/2035-came-early) |
 | 2026-11-24 | LLM agents work for their parent companies, not for you | HN | Technology | tech | 2026-11-24 | [link](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/) |
 | 2026-11-24 | Matrix Multiplication is Θ(n^2.25) [pdf] | HN | Technology | tech | 2026-11-24 | [link](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) |
