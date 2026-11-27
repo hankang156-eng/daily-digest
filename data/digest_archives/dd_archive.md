@@ -1,9 +1,53 @@
 # Daily Digest - Archive
 
-*Last updated: 2026-11-26 · 11752 items*
+*Last updated: 2026-11-27 · 11796 items*
 
 | Digest Date | Title | Source | Topic | Category | Pub Date | URL |
 |-------------|-------|--------|-------|----------|----------|-----|
+| 2026-11-26 | AI made self-hosting fun again | HN | Technology | tech | 2026-11-26 | [link](https://janlukas.blog/posts/ai-self-hosting) |
+| 2026-11-26 | Tell HN: Happy Thanksgiving | HN | Technology | tech | 2026-11-26 | [link](https://news.ycombinator.com/item?id=50655664) |
+| 2026-11-26 | Intel One Mono font (2023) | HN | Technology | tech | 2026-11-26 | [link](https://github.com/intel/intel-one-mono) |
+| 2026-11-26 | Nextcloud Office Desktop app | HN | Technology | tech | 2026-11-26 | [link](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/) |
+| 2026-11-26 | YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays | HN | Technology | tech | 2026-11-26 | [link](https://github.com/antonpictures/youtube-punisher) |
+| 2026-11-26 | Company Culture = Slack Emoji ÷ √Headcount | HN | Technology | tech | 2026-11-26 | [link](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/) |
+| 2026-11-26 | Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad | HN | Technology | tech | 2026-11-26 | [link](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/) |
+| 2026-11-26 | Hard Drive pricing has gotten bad | HN | Technology | tech | 2026-11-26 | [link](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/) |
+| 2026-11-26 | AMD-specific fork of llama.cpp | HN | Technology | tech | 2026-11-26 | [link](https://devnull.land/amd-specific-llama-cpp) |
+| 2026-11-26 | Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email | HN | Technology | tech | 2026-11-26 | [link](https://techstackups.com/articles/google-workspace-ai-agents-mcp/) |
+| 2026-11-26 | OpenAI may be in cost control mode | HN | Technology | tech | 2026-11-26 | [link](https://micjm.com/blog/openai-is-in-cost-control-mode/) |
+| 2026-11-26 | Tracking Diseases Cured by AI | HN | Technology | tech | 2026-11-26 | [link](https://diseasescuredbyai.com/) |
+| 2026-11-26 | Moat: OpenRouter replacement | HN | Technology | tech | 2026-11-26 | [link](https://commandcode.ai/moat) |
+| 2026-11-26 | Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years | HN | Technology | tech | 2026-11-26 | [link](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/) |
+| 2026-11-26 | 45°C inlets just killed the chiller. Most people haven't noticed yet | HN | Technology | tech | 2026-11-26 | [link](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831) |
+| 2026-11-26 | CTO of 'RansomwareHelp' indicted for wire fraud | HN | Technology | tech | 2026-11-26 | [link](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) |
+| 2026-11-26 | Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long. | NYT · Business | Business | news | 2026-11-26 | [link](https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html) |
+| 2026-11-26 | Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress | NYT · Politics | Politics | news | 2026-11-26 | [link](https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html) |
+| 2026-11-26 | How to Live Calmly, Despite Stock Market Whiplash | NYT · Business | Business | news | 2026-11-27 | [link](https://www.nytimes.com/2026/11/27/business/nvidia-jensen-huang-trump-markets.html) |
+| 2026-11-26 | Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No. | NYT · Energy & Environment | Energy & Environment | news | 2026-11-26 | [link](https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html) |
+| 2026-11-26 | Anthropic’s Stock Debut Could Hurt Tech Start-Ups | NYT · Technology | Technology | news | 2026-11-25 | [link](https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html) |
+| 2026-11-26 | Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War | NYT · Economy | Economy | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html) |
+| 2026-11-26 | Putting Socially Conscious Investments in 401(k) Plans Could Get Harder | NYT · Business | Business | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/24/your-money/401k-esg-rules.html) |
+| 2026-11-26 | Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation | NYT · Business | Business | news | 2026-11-25 | [link](https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html) |
+| 2026-11-26 | Officials Brief Congressional Staff on Intelligence Surrounding Nvidia Affair | NYT · Politics | Politics | news | 2026-11-25 | [link](https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html) |
+| 2026-11-26 | With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board | NYT · Technology | Technology | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html) |
+| 2026-11-26 | Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns | NYT · Technology | Technology | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html) |
+| 2026-11-26 | Why the Nvidia Board Folded | NYT · Opinion | Opinion | opinion | 2026-11-25 | [link](https://www.nytimes.com/2026/11/24/opinion/nvidia-board-jensen-huang-reinstated.html) |
+| 2026-11-26 | Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad | NYT · Technology | Technology | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html) |
+| 2026-11-26 | ‘The Digital Deficit Has Come Due’ | NYT · Opinion | Opinion | opinion | 2026-11-26 | [link](https://www.nytimes.com/video/opinion/100000011299692/the-digital-deficit-has-come-due.html) |
+| 2026-11-26 | Senate Passes Major Permitting Bill to Speed Up Energy Projects | NYT · Energy & Environment | Energy & Environment | news | 2026-11-20 | [link](https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html) |
+| 2026-11-26 | Permitting Bill Would Charge Data Centers Billions for Power | NYT · Energy & Environment | Energy & Environment | news | 2026-11-18 | [link](https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html) |
+| 2026-11-26 | Trump’s Own Stock Portfolio Likely Benefits From Nvidia’s Rise | NYT · Technology | Technology | news | 2026-11-24 | [link](https://www.nytimes.com/2026/11/23/technology/trump-nvidia-stock-purchases.html) |
+| 2026-11-26 | The Next Fed Leader Should Be a Bot | NYT · Opinion | Opinion | opinion | 2026-11-26 | [link](https://www.nytimes.com/2026/11/26/opinion/federal-reserve-artifical-intelligence.html) |
+| 2026-11-26 | Why Some A.I. Evangelists Aren’t Bothered by the Potential for Human Extinction | NYT · Technology | Technology | news | 2026-11-27 | [link](https://www.nytimes.com/2026/11/27/magazine/ai-silicon-valley-human-extinction.html) |
+| 2026-11-26 | Border Barrier Cannot be Removed for Decades, Texas Republicans and D.O.J. Agree | NYT · Politics | Politics | news | 2026-11-26 | [link](https://www.nytimes.com/2026/11/25/us/politics/texas-border-legal-settlement-trump.html) |
+| 2026-11-26 | Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia in wake of new Dep’t o | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-26 | [link](https://www.datacenterdynamics.com/en/news/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-in-wake-of-new-dept-of-commerce-export-rule-report/) |
+| 2026-11-26 | Compass could pause $380m ABS transaction due to investor rout after outage - report | DataCenter Dynamics · AI Infrastructure | Infrastructure | tech | 2026-11-26 | [link](https://www.datacenterdynamics.com/en/news/compass-could-pause-380m-abs-transaction-due-to-investor-rout-after-outage-report/) |
+| 2026-11-26 | sqlite3_rsync: Database Remote-Copy Tool For SQLite | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-26 | [link](https://simonwillison.net/2026/Nov/26/sqlite3-rsync/) |
+| 2026-11-26 | Quoting Jack Despain Zhou | Simon Willison · Tech & Engineering | Technology | tech | 2026-11-26 | [link](https://simonwillison.net/2026/Nov/26/jack-despain-zhou/) |
+| 2026-11-26 | Electrek Speculates on Trump’s Claim He ‘Protected’ Elon Musk After a ‘Very Tough Incident’ During H | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-26 | [link](https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/) |
+| 2026-11-26 | ★ Obvious Affordances Are Due for a Comeback | Daring Fireball · Strategy & Craft | Strategy | long-form | 2026-11-26 | [link](https://daringfireball.net/2026/11/obvious_affordances_are_due_for_a_comeback) |
+| 2026-11-26 | OGP Image Format Support on Major Sites and Apps | Shkspr.mobi · Strategy & Craft | Strategy | long-form | 2026-11-26 | [link](https://shkspr.mobi/blog/2026/11/ogp-image-format-support-on-major-sites-and-apps/) |
+| 2026-11-26 | View Rama's recent LinkedIn activity | LinkedIn | Business | social |  | [link](https://www.linkedin.com/in/ramar/recent-activity/all/) |
 | 2026-11-25 | Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening | HN | Technology | tech | 2026-11-25 | [link](https://scottaaronson.blog/?p=10379) |
 | 2026-11-25 | 1Password Security Incident | HN | Technology | tech | 2026-11-25 | [link](https://1password.com/blog/update-on-nov-2026-security-incident) |
 | 2026-11-25 | Google releases Cogentic papers on integer factorization, discrete logs and more | HN | Technology | tech | 2026-11-25 | [link](https://github.com/google-research/google-research/tree/master/cogentic_research_papers) |

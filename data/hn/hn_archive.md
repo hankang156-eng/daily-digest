@@ -1,9 +1,19 @@
 # HackerNews Daily Top 10 - Archive
 
-*Last updated: 2026-11-26 · 559 days · 5590 stories*
+*Last updated: 2026-11-27 · 560 days · 5600 stories*
 
 | Date | Day | Rank | Title | Points | Comments | Topic | URL |
 |------|-----|------|-------|--------|----------|-------|-----|
+| 2026-11-26 | Thursday | 1 | AI made self-hosting fun again | 737 | 367 | Technology | [link](https://janlukas.blog/posts/ai-self-hosting) · [HN](https://news.ycombinator.com/item?id=50660180) |
+| 2026-11-26 | Thursday | 2 | Tell HN: Happy Thanksgiving | 697 | 151 | Technology | [link](https://news.ycombinator.com/item?id=50655664) · [HN](https://news.ycombinator.com/item?id=50655664) |
+| 2026-11-26 | Thursday | 3 | Intel One Mono font (2023) | 530 | 255 | Technology | [link](https://github.com/intel/intel-one-mono) · [HN](https://news.ycombinator.com/item?id=50653667) |
+| 2026-11-26 | Thursday | 4 | Nextcloud Office Desktop app | 440 | 225 | Technology | [link](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/) · [HN](https://news.ycombinator.com/item?id=50654289) |
+| 2026-11-26 | Thursday | 5 | YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays | 422 | 478 | Technology | [link](https://github.com/antonpictures/youtube-punisher) · [HN](https://news.ycombinator.com/item?id=50657530) |
+| 2026-11-26 | Thursday | 6 | Company Culture = Slack Emoji ÷ √Headcount | 380 | 178 | Technology | [link](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/) · [HN](https://news.ycombinator.com/item?id=50659640) |
+| 2026-11-26 | Thursday | 7 | Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad | 375 | 91 | Technology | [link](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/) · [HN](https://news.ycombinator.com/item?id=50659841) |
+| 2026-11-26 | Thursday | 8 | Hard Drive pricing has gotten bad | 371 | 283 | Technology | [link](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/) · [HN](https://news.ycombinator.com/item?id=50661646) |
+| 2026-11-26 | Thursday | 9 | AMD-specific fork of llama.cpp | 368 | 89 | Technology | [link](https://devnull.land/amd-specific-llama-cpp) · [HN](https://news.ycombinator.com/item?id=50657265) |
+| 2026-11-26 | Thursday | 10 | Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email | 337 | 303 | Technology | [link](https://techstackups.com/articles/google-workspace-ai-agents-mcp/) · [HN](https://news.ycombinator.com/item?id=50653477) |
 | 2026-11-25 | Wednesday | 1 | Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening | 1593 | 1395 | Technology | [link](https://scottaaronson.blog/?p=10379) · [HN](https://news.ycombinator.com/item?id=50646108) |
 | 2026-11-25 | Wednesday | 2 | 1Password Security Incident | 1453 | 631 | Technology | [link](https://1password.com/blog/update-on-nov-2026-security-incident) · [HN](https://news.ycombinator.com/item?id=50644817) |
 | 2026-11-25 | Wednesday | 3 | Google releases Cogentic papers on integer factorization, discrete logs and more | 494 | 357 | Technology | [link](https://github.com/google-research/google-research/tree/master/cogentic_research_papers) · [HN](https://news.ycombinator.com/item?id=50642086) |
